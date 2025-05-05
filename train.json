@@ -1,1 +1,11 @@
-{"en": "Hello, world!", "fr": "Bonjour le monde !"}
+[{
+  "en": "As part of Canada’s second Action Plan on Open Government, the Government of Canada has committed to the disclosure of contracting data via a centralized, machine-readable database available to the public. This commitment reinforces the proactive publication of contracts, which reflects broader government commitments to transparency and strengthened accountability within the public sector originally announced in Budget 2004.",
+  "fr": "Dans le cadre du deuxième Plan d’action national pour un gouvernement ouvert du Canada, le gouvernement du Canada s’est engagé à la divulgation des données sur la passation de marchés au moyen d’une base de données publique à la fois centralisée et lisible par machine. Cet engagement renforce la publication proactive des marchés, qui tient compte des engagements élargis du gouvernement envers la transparence et la responsabilisation accrue dans le secteur public, annoncés initialement dans le budget fédéral de 2004."
+},
+{
+  "en": "Contracting data is gathered for the purposes of:",
+  "fr": "Les données sur la passation de marchés sont recueillies aux fins suivantes :"
+},
+{"en": "Strengthening transparency of the procurement process for Canadians to hold their government to account;",
+"fr": "renforcer la transparence du processus d’approvisionnement afin que les Canadiens puissent exiger de leur gouvernement qu’il leur rende des comptes;"}
+]
