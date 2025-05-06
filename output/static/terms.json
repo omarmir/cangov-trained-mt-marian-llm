@@ -1,0 +1,470 @@
+[
+  {
+    "en": "ADM",
+    "fr": "SMA"
+  },
+  {
+    "en": "Advance Payment",
+    "fr": "paiement anticipé"
+  },
+  {
+    "en": "AEB",
+    "fr": "DGVE"
+  },
+  {
+    "en": "Amendment",
+    "fr": "modification"
+  },
+  {
+    "en": "Amending Agreement",
+    "fr": "entente de modification"
+  },
+  {
+    "en": "Applicant",
+    "fr": "requérant"
+  },
+  {
+    "en": "Application",
+    "fr": "demande"
+  },
+  {
+    "en": "assigns",
+    "fr": "cessionnaires"
+  },
+  {
+    "en": "assignment",
+    "fr": "affectation"
+  },
+  {
+    "en": "Assistant Deputy Minister or Associate Deputy Minister",
+    "fr": "Sous-ministre adjoint ou Sous-ministre délégué"
+  },
+  {
+    "en": "Audit and Evaluation Branch",
+    "fr": "Direction générale de la vérification et de l'évaluation"
+  },
+  {
+    "en": "Breach",
+    "fr": "manquement"
+  },
+  {
+    "en": "CA",
+    "fr": "EC"
+  },
+  {
+    "en": "Centre of Expertise",
+    "fr": "Centre d'expertise"
+  },
+  {
+    "en": "CFO",
+    "fr": "DPF"
+  },
+  {
+    "en": "Chief Financial Officer",
+    "fr": "Dirigeant principal des finances"
+  },
+  {
+    "en": "Chief Information Office",
+    "fr": "Dirigeant principal de l'information"
+  },
+  {
+    "en": "CIO",
+    "fr": "DPI"
+  },
+  {
+    "en": "Corporate Planning and Governance Branch",
+    "fr": "Direction générale de la planification ministérielle et de la régie"
+  },
+  {
+    "en": "CPG",
+    "fr": "PMR"
+  },
+  {
+    "en": "cost incurred",
+    "fr": "coûts engagés"
+  },
+  {
+    "en": "CMS",
+    "fr": "SGM"
+  },
+  {
+    "en": "CoE",
+    "fr": "CE"
+  },
+  {
+    "en": "Completion Date",
+    "fr": "date d'achèvement"
+  },
+  {
+    "en": "Conditionally Repayable",
+    "fr": "remboursable sous certaines conditions"
+  },
+  {
+    "en": "Contribution Agreement",
+    "fr": "entente de contribution"
+  },
+  {
+    "en": "Corporate Management Sector",
+    "fr": "Secteur de la gestion ministérielle"
+  },
+  {
+    "en": "DAC",
+    "fr": "CMV"
+  },
+  {
+    "en": "DDSOC",
+    "fr": "CSNDS"
+  },
+  {
+    "en": "DEC",
+    "fr": "CME"
+  },
+  {
+    "en": "Default",
+    "fr": "défaut"
+  },
+  {
+    "en": "grants and contributions",
+    "fr": "subventione et contributions"
+  },
+  {
+    "en": "Gs&Cs",
+    "fr": "S et C"
+  },
+  {
+    "en": "Gs&Cs delivery",
+    "fr": "prestation de S et C"
+  },
+  {
+    "en": "Departmental Audit Committee",
+    "fr": "Comité ministériel de vérification"
+  },
+  {
+    "en": "Departmental Evaluation Committee",
+    "fr": "Comité ministériel d’évaluation"
+  },
+  {
+    "en": "Departmental Project Management Office",
+    "fr": "Bureau de gestion de projet ministériel"
+  },
+  {
+    "en": "Departmental Project Portfolio Management System",
+    "fr": "Système de Gestion du Portefeuille Ministériel de Projets"
+  },
+  {
+    "en": "Deputy Minister",
+    "fr": "Sous-ministre"
+  },
+  {
+    "en": "DGMC",
+    "fr": "CGDG"
+  },
+  {
+    "en": "Digital, Data, and Service Oversight Committee",
+    "fr": "Comité de surveillance numérique, des données et des services"
+  },
+  {
+    "en": "Digital Transformation Service Sector",
+    "fr": "Secteur du Service de Transformation Numérique"
+  },
+  {
+    "en": "Director General Management Committee",
+    "fr": "Comité de Gestion des Directeurs Généraux"
+  },
+  {
+    "en": "DM",
+    "fr": "SM"
+  },
+  {
+    "en": "DPMO",
+    "fr": "BGPM"
+  },
+  {
+    "en": "DPPM",
+    "fr": "SGPMP"
+  },
+  {
+    "en": "DTSS",
+    "fr": "SSTN"
+  },
+  {
+    "en": "Due Diligence",
+    "fr": "Diligence raisonnable"
+  },
+  {
+    "en": "Entity Level Controls",
+    "fr": "contrôles au niveau de l’entité"
+  },
+  {
+    "en": "Eligibility Date",
+    "fr": "date d'admissibilité"
+  },
+  {
+    "en": "Eligible Costs",
+    "fr": "coûts admissibles"
+  },
+  {
+    "en": "Eligible",
+    "fr": "admissible"
+  },
+  {
+    "en": "Engagement",
+    "fr": "mobilisation"
+  },
+  {
+    "en": "Funding Agreement",
+    "fr": "entente de financement"
+  },
+  {
+    "en": "Further distribution",
+    "fr": "redistribution des fonds"
+  },
+  {
+    "en": "GCMod Steering Committee",
+    "fr": "Comité directeur GCMod"
+  },
+  {
+    "en": "GCMod",
+    "fr": "GCMod"
+  },
+  {
+    "en": "GCModSC",
+    "fr": "CDGCMod"
+  },
+  {
+    "en": "Grant Agreement",
+    "fr": "entente de subvention"
+  },
+  {
+    "en": "Grant",
+    "fr": "subvention"
+  },
+  {
+    "en": "Grants and Contributions",
+    "fr": "subventions et contributions"
+  },
+  {
+    "en": "Gs&Cs",
+    "fr": "S et C"
+  },
+  {
+    "en": "IEOC",
+    "fr": "CSIE"
+  },
+  {
+    "en": "Incremental Principle",
+    "fr": "principe de l'apport différentiel"
+  },
+  {
+    "en": "Ineligible Costs",
+    "fr": "coûts non admissibles"
+  },
+  {
+    "en": "Initial recipient",
+    "fr": "bénéficiaire initial"
+  },
+  {
+    "en": "In-kind Contribution",
+    "fr": "contribution en nature"
+  },
+  {
+    "en": "Innovation, Science and Economic Development",
+    "fr": "Innovation, Science et Développement économique"
+  },
+  {
+    "en": "directive",
+    "fr": "directive"
+  },
+  {
+    "en": "Intellectual Property",
+    "fr": "propriété intellectuelle"
+  },
+  {
+    "en": "Intellectual Property Centre of Expertise",
+    "fr": "Centre d'expertise en propriété intellectuelle"
+  },
+  {
+    "en": "Investment and Experimentation Oversight Committee",
+    "fr": "Comité de Supervision de l'Investissement et de l'Expérimentation"
+  },
+  {
+    "en": "Investment Oversight Committee",
+    "fr": "Comité de surveillance des investissements"
+  },
+  {
+    "en": "IOC",
+    "fr": "CSI"
+  },
+  {
+    "en": "IP",
+    "fr": "PI"
+  },
+  {
+    "en": "IP CoE",
+    "fr": "CEPI"
+  },
+  {
+    "en": "IRAT",
+    "fr": "OERI"
+  },
+  {
+    "en": "ISED Risk Assessment Tool",
+    "fr": "outil d’évaluation des risques d’ISDE"
+  },
+  {
+    "en": "ISED",
+    "fr": "ISDE"
+  },
+  {
+    "en": "Management Accountability Framework",
+    "fr": "Cadre de responsabilisation de gestion"
+  },
+  {
+    "en": "manager",
+    "fr": "gestionnaire"
+  },
+  {
+    "en": "Non-Repayable",
+    "fr": "non remboursable"
+  },
+  {
+    "en": "Performance Measurement Strategy",
+    "fr": "stratégie de mesure du rendement"
+  },
+  {
+    "en": "Procurement Contract",
+    "fr": "contrat d’approvisionnement"
+  },
+  {
+    "en": "Program Alignment Architecture",
+    "fr": "architecture d'alignement de programme"
+  },
+  {
+    "en": "Program-in-a-box",
+    "fr": "programme prêt à lancer"
+  },
+  {
+    "en": "Project Amendment Form",
+    "fr": "formulaire de modification à un projet"
+  },
+  {
+    "en": "Project Steering Committee",
+    "fr": "Comité directeur du projet"
+  },
+  {
+    "en": "Project Summary Form",
+    "fr": "formulaire du sommaire du projet"
+  },
+  {
+    "en": "Proof of Claim",
+    "fr": "preuve de réclamation"
+  },
+  {
+    "en": "PSC",
+    "fr": "CDP (Comité Directeur de Projet)"
+  },
+  {
+    "en": "PSF",
+    "fr": "FSP"
+  },
+  {
+    "en": "Recipient",
+    "fr": "bénéficiaire"
+  },
+  {
+    "en": "Resource and People Management Committee",
+    "fr": "Comité de gestion des personnes et des ressources"
+  },
+  {
+    "en": "Resource Management Committee",
+    "fr": "Comité de gestion des ressources"
+  },
+  {
+    "en": "RMC",
+    "fr": "CGR"
+  },
+  {
+    "en": "RPMC",
+    "fr": "CGPR"
+  },
+  {
+    "en": "Schedule",
+    "fr": "Annexe"
+  },
+  {
+    "en": "Senior Management Committee",
+    "fr": "Comité de la haute direction"
+  },
+  {
+    "en": "Set-off",
+    "fr": "compensation"
+  },
+  {
+    "en": "Settlement Agreement",
+    "fr": "entente de règlement"
+  },
+  {
+    "en": "SMC",
+    "fr": "CHD"
+  },
+  {
+    "en": "Stacking",
+    "fr": "cumul"
+  },
+  {
+    "en": "Stakeholder",
+    "fr": "intervenant"
+  },
+  {
+    "en": "Start Date",
+    "fr": "date de début"
+  },
+  {
+    "en": "Statute Protection",
+    "fr": "protection législative"
+  },
+  {
+    "en": "Stay of Proceeding",
+    "fr": "suspension des procédures"
+  },
+  {
+    "en": "Supported Costs",
+    "fr": "coûts supportés"
+  },
+  {
+    "en": "Target Operating Model",
+    "fr": "Modèle operationnel cible"
+  },
+  {
+    "en": "Termination Date",
+    "fr": "date de résiliation"
+  },
+  {
+    "en": "Terms and Conditions",
+    "fr": "modalités"
+  },
+  {
+    "en": "Terms and Conditions",
+    "fr": "modalités"
+  },
+  {
+    "en": "travel and hospitality",
+    "fr": "Voyage et accueil"
+  },
+  {
+    "en": "Ts&Cs",
+    "fr": "modalités"
+  },
+  {
+    "en": "Ultimate recipient",
+    "fr": "bénéficiaire ultime"
+  },
+  {
+    "en": "Unconditionally Repayable",
+    "fr": "remboursable sans condition"
+  },
+  {
+    "en": "Write-off",
+    "fr": "radiation"
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "en": "Air Transportation Safety Administration",
+    "fr": "Administration canadienne de la sûreté du transport aérien"
+  },
+  {
+    "en": "Atlantic Pilotage Authority Canada",
+    "fr": "Administration de pilotage de l'Atlantique Canada"
+  },
+  {
+    "en": "Great Lakes Pilotage Authority Canada",
+    "fr": "Administration de pilotage des Grands Lacs Canada"
+  },
+  {
+    "en": "Laurentian Pilotage Authority Canada",
+    "fr": "Administration de pilotage des Laurentides Canada"
+  },
+  {
+    "en": "Pacific Pilotage Authority Canada",
+    "fr": "Administration de pilotage du Pacifique Canada"
+  },
+  {
+    "en": "Northern Pipeline Agency Canada",
+    "fr": "Administration du pipe-line du Nord Canada"
+  },
+  {
+    "en": "Intergovernmental Affairs",
+    "fr": "Affaires intergouvernementales"
+  },
+  {
+    "en": "Global Affairs Canada",
+    "fr": "Affaires mondiales Canada"
+  },
+  {
+    "en": "Canadian Food Inspection Agency",
+    "fr": "Agence canadienne d'inspection des aliments"
+  },
+  {
+    "en": "Northern Development Canada",
+    "fr": "Agence canadienne de développement économique du Nord"
+  },
+  {
+    "en": "Canadian Pari-Mutuel Agency",
+    "fr": "Agence canadienne du pari mutuel"
+  },
+  {
+    "en": "Impact Assessment Agency of Canada",
+    "fr": "Agence d'évaluation d'impact du Canada"
+  },
+  {
+    "en": "Financial Consumer Agency of Canada",
+    "fr": "Agence de la consommation en matière financière du Canada"
+  },
+  {
+    "en": "Public Health Agency of Canada",
+    "fr": "Agence de la santé publique du Canada"
+  },
+  {
+    "en": "Canadian Forces Housing Agency",
+    "fr": "Agence de logement des Forces canadiennes"
+  },
+  {
+    "en": "Canada Water Agency",
+    "fr": "Agence de l’eau du Canada"
+  },
+  {
+    "en": "Atlantic Canada Opportunities Agency",
+    "fr": "Agence de promotion économique du Canada atlantique"
+  },
+  {
+    "en": "Canada Border Services Agency",
+    "fr": "Agence des services frontaliers du Canada"
+  },
+  {
+    "en": "Canada Revenue Agency",
+    "fr": "Agence du revenu du Canada"
+  },
+  {
+    "en": "FedNor",
+    "fr": "Agence fédérale de développement économique pour le Nord de l'Ontario"
+  },
+  {
+    "en": "Southern Ontario Economic Development Agency",
+    "fr": "Agence fédérale de développement économique pour le Sud de l'Ontario"
+  },
+  {
+    "en": "Canadian Space Agency",
+    "fr": "Agence spatiale canadienne"
+  },
+  {
+    "en": "Agriculture and Agri-Food Canada",
+    "fr": "Agriculture et Agroalimentaire Canada"
+  },
+  {
+    "en": "Veterans Affairs Canada",
+    "fr": "Anciens Combattants Canada"
+  },
+  {
+    "en": "Canadian Army",
+    "fr": "Armée canadienne"
+  },
+  {
+    "en": "Windsor-Detroit Bridge Authority",
+    "fr": "Autorité du pont Windsor-Détroit"
+  },
+  {
+    "en": "Royal Canadian Air Force",
+    "fr": "Aviation royale canadienne"
+  },
+  {
+    "en": "Business Development Bank of Canada",
+    "fr": "Banque de développement du Canada"
+  },
+  {
+    "en": "Canada Infrastructure Bank",
+    "fr": "Banque de L’infrastructure du Canada"
+  },
+  {
+    "en": "Bank of Canada",
+    "fr": "Banque du Canada"
+  },
+  {
+    "en": "Library and Archives Canada",
+    "fr": "Bibliothèque et Archives Canada"
+  },
+  {
+    "en": "Procurement Ombudsman Office",
+    "fr": "Bureau de l'ombudsman de l'approvisionnement"
+  },
+  {
+    "en": "National Defence Ombudsman",
+    "fr": "Bureau de l'ombudsman de la Défense nationale et des Forces armées canadiennes"
+  },
+  {
+    "en": "Taxpayers' Ombudsman",
+    "fr": "Bureau de l'ombudsman des contribuables"
+  },
+  {
+    "en": "Federal Ombudsperson for Victims of Crime",
+    "fr": "Bureau de l'ombudsman fédéral des victimes d'actes criminels"
+  },
+  {
+    "en": "Competition Bureau Canada",
+    "fr": "Bureau de la concurrence Canada"
+  },
+  {
+    "en": "Office of the Chief Accessibility Officer",
+    "fr": "Bureau de la dirigeante principale de l’accessibilité"
+  },
+  {
+    "en": "Transportation Safety Board of Canada",
+    "fr": "Bureau de la sécurité des transports du Canada"
+  },
+  {
+    "en": "Translation Bureau",
+    "fr": "Bureau de la traduction"
+  },
+  {
+    "en": "Intelligence Commissioner",
+    "fr": "Bureau du commissaire au renseignement"
+  },
+  {
+    "en": "Privy Council Office",
+    "fr": "Bureau du Conseil privé"
+  },
+  {
+    "en": "Office of the Superintendent of Bankruptcy Canada",
+    "fr": "Bureau du surintendant des faillites Canada"
+  },
+  {
+    "en": "Office of the Superintendent of Financial Institutions Canada",
+    "fr": "Bureau du surintendant des institutions financières Canada"
+  },
+  {
+    "en": "Office of the Auditor General of Canada",
+    "fr": "Bureau du vérificateur général du Canada"
+  },
+  {
+    "en": "Canadian Centre for Occupational Health and Safety",
+    "fr": "Centre canadien d'hygiène et de sécurité au travail"
+  },
+  {
+    "en": "Financial Transactions and Reports Analysis Centre of Canada",
+    "fr": "Centre d'analyse des opérations et déclarations financières du Canada"
+  },
+  {
+    "en": "Communications Security Establishment Canada",
+    "fr": "Centre de la sécurité des télécommunications Canada"
+  },
+  {
+    "en": "International Development Research Centre",
+    "fr": "Centre de recherches pour le développement international"
+  },
+  {
+    "en": "Communications Research Centre Canada",
+    "fr": "Centre de recherches sur les communications Canada"
+  },
+  {
+    "en": "Canada Firearms Centre",
+    "fr": "Centre des armes à feu Canada"
+  },
+  {
+    "en": "National Arts Centre",
+    "fr": "Centre national des arts"
+  },
+  {
+    "en": "Canada Research Chairs",
+    "fr": "Chaires de recherche du Canada"
+  },
+  {
+    "en": "Canadian Police College",
+    "fr": "Collège canadien de police"
+  },
+  {
+    "en": "Royal Military College of Canada",
+    "fr": "Collège militaire royal du Canada"
+  },
+  {
+    "en": "RCMP External Review Committee",
+    "fr": "Comité externe d'examen de la Gendarmerie royale du Canada"
+  },
+  {
+    "en": "Military Grievances External Review Committee",
+    "fr": "Comité externe d'examen des griefs militaires"
+  },
+  {
+    "en": "Canadian Special Operations Forces Command",
+    "fr": "Commandement des Forces d’opérations spéciales du Canada"
+  },
+  {
+    "en": "Canadian Information Commissioner",
+    "fr": "Commissariat à l'information au Canada"
+  },
+  {
+    "en": "Public Sector Integrity Commissioner",
+    "fr": "Commissariat à l'intégrité du secteur public du Canada"
+  },
+  {
+    "en": "Federal Judicial Affairs Commissioner",
+    "fr": "Commissariat à la magistrature fédérale Canada"
+  },
+  {
+    "en": "Privacy Commissioner of Canada",
+    "fr": "Commissariat à la protection de la vie privée du Canada"
+  },
+  {
+    "en": "Lobbying Commissioner of Canada",
+    "fr": "Commissariat au lobbying du Canada"
+  },
+  {
+    "en": "Conflict of Interest and Ethics Commissioner",
+    "fr": "Commissariat aux conflits d'intérêts et à l'éthique"
+  },
+  {
+    "en": "Official Languages Commissioner",
+    "fr": "Commissariat aux langues officielles"
+  },
+  {
+    "en": "Canadian Cultural Property Export Review Board",
+    "fr": "Commission canadienne d'examen des exportations de biens culturels"
+  },
+  {
+    "en": "Canadian Nuclear Safety Commission",
+    "fr": "Commission canadienne de sûreté nucléaire"
+  },
+  {
+    "en": "Canadian Human Rights Commission",
+    "fr": "Commission canadienne des droits de la personne"
+  },
+  {
+    "en": "Canadian Grain Commission",
+    "fr": "Commission canadienne des grains"
+  },
+  {
+    "en": "Canadian Dairy Commission",
+    "fr": "Commission canadienne du lait"
+  },
+  {
+    "en": "Civilian Review and Complaints Commission for the RCMP",
+    "fr": "Commission civile d'examen et de traitement des plaintes relatives à la GRC"
+  },
+  {
+    "en": "Judges' Compensation Review Commission",
+    "fr": "Commission d'examen de la rémunération des juges"
+  },
+  {
+    "en": "Canadian Military Police Complaints Commission",
+    "fr": "Commission d'examen des plaintes concernant la police militaire du Canada"
+  },
+  {
+    "en": "Canada Employment Insurance Commission",
+    "fr": "Commission de l'assurance-emploi du Canada"
+  },
+  {
+    "en": "Immigration and Refugee Board of Canada",
+    "fr": "Commission de l'immigration et du statut de réfugié du Canada"
+  },
+  {
+    "en": "National Capital Commission",
+    "fr": "Commission de la capitale nationale"
+  },
+  {
+    "en": "Public Service Commission of Canada",
+    "fr": "Commission de la fonction publique du Canada"
+  },
+  {
+    "en": "Canada Agricultural Review Tribunal",
+    "fr": "Commission de révision agricole du Canada"
+  },
+  {
+    "en": "National Battlefields Commission",
+    "fr": "Commission des champs de bataille nationaux"
+  },
+  {
+    "en": "Parole Board of Canada",
+    "fr": "Commission des libérations conditionnelles du Canada"
+  },
+  {
+    "en": "Historic Sites and Monuments Board of Canada",
+    "fr": "Commission des lieux et monuments historiques du Canada"
+  },
+  {
+    "en": "Public Service Labour Relations and Employment Board",
+    "fr": "Commission des relations de travail et de l'emploi dans la fonction publique"
+  },
+  {
+    "en": "Copyright Board of Canada",
+    "fr": "Commission du droit d'auteur Canada"
+  },
+  {
+    "en": "Law Commission of Canada",
+    "fr": "Commission du droit du Canada"
+  },
+  {
+    "en": "Independent Review Panel for Defence Acquisition",
+    "fr": "Commission indépendante d’examen des acquisitions de la Défense"
+  },
+  {
+    "en": "Canadian Judicial Council",
+    "fr": "Conseil canadien de la magistrature"
+  },
+  {
+    "en": "Standards Council of Canada",
+    "fr": "Conseil canadien des normes"
+  },
+  {
+    "en": "Canadian Industrial Relations Board",
+    "fr": "Conseil canadien des relations industrielles"
+  },
+  {
+    "en": "RCMP Management Advisory Board",
+    "fr": "Conseil consultatif de gestion pour la GRC"
+  },
+  {
+    "en": "Patented Medicine Prices Review Board",
+    "fr": "Conseil d'examen du prix des médicaments brevetés Canada"
+  },
+  {
+    "en": "Canadian Radio-Television and Telecommunications Commission",
+    "fr": "Conseil de la radiodiffusion et des télécommunications canadiennes"
+  },
+  {
+    "en": "Natural Sciences and Engineering Research Council of Canada",
+    "fr": "Conseil de recherches en sciences et en génie Canada"
+  },
+  {
+    "en": "Social Sciences and Humanities Research Council of Canada",
+    "fr": "Conseil de recherches en sciences humaines du Canada"
+  },
+  {
+    "en": "Canada Council for the Arts",
+    "fr": "Conseil des arts du Canada"
+  },
+  {
+    "en": "Canadian Agricultural Products Council",
+    "fr": "Conseil des produits agricoles du Canada"
+  },
+  {
+    "en": "National Research Council Canada",
+    "fr": "Conseil national de recherches Canada"
+  },
+  {
+    "en": "National Seniors Council",
+    "fr": "Conseil national des aînés"
+  },
+  {
+    "en": "Defence Construction Canada",
+    "fr": "Construction de Défense Canada"
+  },
+  {
+    "en": "CORCAN",
+    "fr": "CORCAN"
+  },
+  {
+    "en": "Canadian Commercial Corporation",
+    "fr": "Corporation commerciale canadienne"
+  },
+  {
+    "en": "Canada Development Investment Corporation",
+    "fr": "Corporation de développement des investissements du Canada"
+  },
+  {
+    "en": "Tax Court of Canada",
+    "fr": "Cour canadienne de l'impôt"
+  },
+  {
+    "en": "Court Martial Appeal Court of Canada",
+    "fr": "Cour d'appel de la cour martiale du Canada"
+  },
+  {
+    "en": "Federal Court of Appeal",
+    "fr": "Cour d'appel fédérale"
+  },
+  {
+    "en": "Federal Court of Canada",
+    "fr": "Cour fédérale"
+  },
+  {
+    "en": "Supreme Court of Canada",
+    "fr": "Cour suprême du Canada"
+  },
+  {
+    "en": "National Defence",
+    "fr": "Défense nationale"
+  },
+  {
+    "en": "Destination Canada",
+    "fr": "Destination Canada"
+  },
+  {
+    "en": "Pacific Economic Development Canada",
+    "fr": "Développement économique Canada pour le Pacifique"
+  },
+  {
+    "en": "Prairies Economic Development Canada",
+    "fr": "Développement économique Canada pour les Prairies"
+  },
+  {
+    "en": "Economic Development Canada for Quebec Regions",
+    "fr": "Développement économique Canada pour les régions du Québec"
+  },
+  {
+    "en": "Canada School of Public Service",
+    "fr": "École de la fonction publique du Canada"
+  },
+  {
+    "en": "Elections Canada",
+    "fr": "Élections Canada"
+  },
+  {
+    "en": "Employment and Social Development Canada",
+    "fr": "Emploi et Développement social Canada"
+  },
+  {
+    "en": "Atomic Energy of Canada Limited",
+    "fr": "Énergie atomique du Canada, Limitée"
+  },
+  {
+    "en": "Correctional Investigator Canada",
+    "fr": "Enquêteur correctionnel Canada"
+  },
+  {
+    "en": "Environment and Climate Change Canada",
+    "fr": "Environnement et Changement climatique Canada"
+  },
+  {
+    "en": "Export Development Canada",
+    "fr": "Exportation et développement Canada"
+  },
+  {
+    "en": "Women and Gender Equality Canada",
+    "fr": "Femmes et Égalité des genres Canada"
+  }
+]
