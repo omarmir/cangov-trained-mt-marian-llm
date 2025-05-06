@@ -1,0 +1,782 @@
+[
+  {
+    "en": "Introduction to the purpose and value of information management (IM), the related responsibilities, and key IM practices",
+    "fr": "Introduction au bien‐fondé et à l’importance de la gestion de l’information (GI), aux responsabilités connexes et aux pratiques clés en matière de GI."
+  },
+  {
+    "en": "Key basic practices and activities for managing government information, organized according to the stages of the information life cycle",
+    "fr": "Pratiques et activités clés et de base en matière de GI gouvernementale, structurées selon les étapes du cycle de vie de l’information."
+  },
+  {
+    "en": "The value of information and the related retention and disposition issues for employees",
+    "fr": "Valeur de l’information et questions liées à la conservation et à l’élimination de l’information en ce qui concerne les employés."
+  },
+  {
+    "en": "How to manage, file and share digital information, along with tools that may be available within the department",
+    "fr": "Comment gérer, classer et partager l’information numérique, ainsi que les outils disponibles dans le ministère?"
+  },
+  {
+    "en": "What an employee should know and do when arriving at or leaving a job",
+    "fr": "Ce que les employés doivent savoir et faire au début et à la fin d’un emploi."
+  },
+  {
+    "en": "Other sources of information",
+    "fr": "Autres sources d’information"
+  },
+  {
+    "en": "This guidance has been designed to help all GC employees understand their roles and responsibilities in managing information effectively in support of section 4.3 of the .",
+    "fr": "La présente orientation a été élaborée pour aider tous les employés du GC à comprendre leurs rôles et leurs responsabilités en matière de gestion efficace de l’information aux termes de l’article 4.3 de la ."
+  },
+  {
+    "en": "As you come to appreciate your contribution to the management of government information, discuss with your manager any ideas or issues you may have. Then, as needed, consult any of the various IM specialists or experts who can help you learn about the practices and procedures that apply to your department.",
+    "fr": "À mesure que vous saisissez mieux vos rôles à l’égard de la GI gouvernementale, vous pouvez discuter de toute idée ou de tout problème avec votre gestionnaire. Vous pouvez par la suite consulter, au besoin, un des spécialistes de la GI ou des experts en la matière, qui seront à même de vous renseigner sur les pratiques et les procédures applicables à votre ministère."
+  },
+  {
+    "en": "This guidance is designed for all GC employees and is relevant to a wide variety of environments. Departments are encouraged to use this guidance as a base that can be added to and customized to reflect departmental policies, procedures, directives, guidelines, tools and best practices.",
+    "fr": "La présente orientation a été élaborée à l’intention de tous les employés fédéraux et peut s’appliquer dans divers environnements. On encourage les ministères à l’utiliser comme une base de renseignements qu’ils pourront enrichir et adapter en fonction de leurs propres politiques, procédures, directives, lignes directrices, outils et pratiques exemplaires."
+  },
+  {
+    "en": "Employees have a duty to document their decisions and activities. Recognizing the value of information and managing it well is pivotal to our success, both as individuals and as an organization.",
+    "fr": "Tous les employés sont tenus de documenter leurs décisions et activités. Le fait de reconnaître la valeur de l’information et l’importance de bien la gérer est un élément crucial à la réussite personnelle et collective au sein d’une organisation."
+  },
+  {
+    "en": "Every day, we create, collect, use and share information that provides evidence of our business activities. This information helps us make informed decisions that support our managers, our peers and our clients, and ultimately provide results for Canadians.",
+    "fr": "Chaque jour, nous créons, recueillons, utilisons et partageons de l’information qui fait état de nos activités administratives. Cette information facilite la prise de décisions éclairées qui appuient nos gestionnaires, nos pairs, nos clients et, au bout du compte, le public canadien."
+  },
+  {
+    "en": "Information comes in many different published and unpublished forms and must be managed regardless of communications source, information format, production mode or recording medium. Information may be:",
+    "fr": "L’information, qu’elle soit publiée ou non, existe sous diverses formes et doit être gérée, quel que soit la source de communication, le format, le mode de production ou le support d’enregistrement. Voici des exemples de ce qui constitue de l’information :"
+  },
+  {
+    "en": "By properly managing information, we demonstrate that we understand our responsibility to both our colleagues and to Canadians and that we take this responsibility seriously.",
+    "fr": "Le fait de bien gérer l’information montre à nos collègues et aux Canadiens que nous comprenons nos responsabilités et que nous les prenons au sérieux."
+  },
+  {
+    "en": "But what does it mean to manage information properly?",
+    "fr": "Cependant, qu’entend‐on par « bien gérer l’information »?"
+  },
+  {
+    "en": "This guide is designed to help you gain a basic understanding of information management (IM) concepts and show you how you can start applying them today. As these concepts begin to shape the way you work with information, you’ll quickly discover both immediate and long-term benefits.",
+    "fr": "La présente orientation vise à faciliter la compréhension des notions élémentaires liées à la GI, de même qu’à expliquer comment les mettre en pratique dès aujourd’hui. Vous aurez tôt fait d’en découvrir les avantages immédiats et à long terme lorsque vous commencerez à les appliquer à votre façon de traiter l’information."
+  },
+  {
+    "en": "Because we all create, collect, use and share information as part of our day-to-day work, we are all responsible for effectively managing information that is under our control.",
+    "fr": "Il nous incombe à tous de bien gérer l’information qui nous est confiée, car nous créons, recueillons, utilisons et partageons tous de l’information dans le cadre de nos tâches quotidiennes."
+  },
+  {
+    "en": "As set out in the and related policy instruments, employees of the GC must do the following:",
+    "fr": "Tel qu’il est énoncé dans la et les instruments de politique connexes, les employés du GC doivent :"
+  },
+  {
+    "en": "Your IM specialists are available to help you with these responsibilities as needed.",
+    "fr": "Les spécialistes de la GI sont disponibles pour vous renseigner au sujet de ces responsabilités, au besoin."
+  },
+  {
+    "en": "For more information on identifying and recognizing information of business value, see Appendix E of the",
+    "fr": "Pour en savoir plus sur la façon de repérer et de reconnaître l’information ayant une valeur opérationnelle, consultez l’annexe E de la"
+  },
+  {
+    "en": "Support your business by applying these principles to the way you manage information. These principles promote the efficient use of departmental resources, make information easier to find in the future, and ensure its protection and preservation – all in accordance with business, legal and policy requirements.",
+    "fr": "Appuyez l’atteinte de vos objectifs opérationnels en appliquant ces principes à la GI. Ils favorisent une utilisation efficiente des ressources ministérielles, permettent de retrouver plus facilement l’information et en facilitent la protection et la conservation, et ce, en toute conformité avec les exigences juridiques, politiques et opérationnelles."
+  },
+  {
+    "en": "The following sections of this guidance offer simple and practical best practices for applying these principles to information regardless of format. These practices can help you to standardize the IM techniques you already use on a regular basis, thereby saving you time right now and in the future when you have a need to find and access information.",
+    "fr": "Les sections suivantes de la présente orientation indiquent des pratiques exemplaires simples et concrètes pour l’application de ces principes à l’information de tout format. Ces pratiques peuvent aider à normaliser les techniques de GI déjà en place, ce qui permet de gagner du temps, immédiatement et à l’avenir, lorsqu’il faut trouver et consulter de l’information."
+  },
+  {
+    "en": "Throughout its life, information will need to be managed in different ways. The following is an overview of some of the practices recommended for you to apply to all information while it is in your care and control. While this guidance has been developed to be as complete as possible for a general audience, there may be additional practices and procedures in place at your department, so we encourage you to consult your manager and IM specialists as needed.",
+    "fr": "L’information devra être gérée de différentes façons tout au long de son cycle de vie. Voici un aperçu des pratiques qu’il est recommandé d’appliquer à l’ensemble de l’information dont vous êtes responsable et qui vous est confiée. Nous avons voulu que l’information contenue dans le présent document soit la plus complète possible et qu’elle s’adresse à un plus grand nombre de gens, ainsi il se peut que votre ministère dispose de pratiques et de procédures supplémentaires. Par conséquent, nous vous recommandons de consulter votre gestionnaire et vos spécialistes de la GI, au besoin."
+  },
+  {
+    "en": "If you make a habit of applying these practices along with those specific to your department, you will see a difference in the way you work. The information you need will be at your fingertips, and it will be easy to share with your colleagues and managers. This alone can have a dramatic effect on the quality of your work life and the success of your department.",
+    "fr": "Si vous prenez l’habitude d’appliquer ces pratiques et celles de votre ministère, votre façon de travailler changera. Vous aurez les renseignements dont vous avez besoin à portée de main et vous pourrez les transmettre facilement à vos collègues et à vos gestionnaires. Cet avantage à lui seul peut améliorer grandement votre qualité de vie professionnelle et contribuer à la réussite de votre ministère."
+  },
+  {
+    "en": "Think about the information you and your colleagues will need to accomplish your objectives and to make sound decisions. For example, ask yourself questions such as the following:",
+    "fr": "Il importe de réfléchir à l’information dont vous et vos collègues aurez besoin pour atteindre vos objectifs et prendre des décisions éclairées. Par exemple, posez‐vous les questions suivantes :"
+  },
+  {
+    "en": "The answers to these questions can be used in developing a sound IM plan. Discuss these questions with your manager and then consult your IM specialists for further assistance.",
+    "fr": "Les réponses à ces questions peuvent être utilisées pour élaborer un plan de gestion de l’information solide. Vous pouvez obtenir de l’aide supplémentaire en discutant de ces questions avec votre gestionnaire et en consultant vos spécialistes de la GI."
+  },
+  {
+    "en": "For more information, see the section .",
+    "fr": "Pour obtenir de plus amples renseignements, veuillez consulter la section ."
+  },
+  {
+    "en": "As you create and collect information, identify its value to your department and manage it accordingly, making sure that it’s accessible to those who need it. Some recommended practices are listed below:",
+    "fr": "Au moment de créer et de recueillir de l’information, vous devez cerner la valeur qu’elle représente pour votre ministère et la gérer en conséquence, en veillant à ce qu’elle soit accessible aux personnes qui en ont besoin. Voici quelques‐unes des pratiques recommandées :"
+  },
+  {
+    "en": "The following represent some key metadata elements:",
+    "fr": "Voici quelques éléments clés des métadonnées :"
+  },
+  {
+    "en": "These elements are often referred to as “profile fields” that help preserve the value of the information in any medium, provided the elements remain intact. Failing to complete these elements or removing or separating the associations of any one of these elements from information compromises its authenticity, usefulness and reliability.",
+    "fr": "Ces éléments sont souvent appelés « champs de profil » et aident à préserver la valeur de l’information sur tout support, à condition que les éléments demeurent intacts. Le fait de ne pas indiquer ces éléments, ou encore de retirer ou de rompre les associations de l’un ou l’autre de ces éléments liés à l’information, compromet l’authenticité, l’utilité et la fiabilité de celle‐ci."
+  },
+  {
+    "en": "Speak to your IM specialists to obtain more detailed advice on how you can put these practices to work in your own department.",
+    "fr": "Pour obtenir des précisions sur la façon d’intégrer ces pratiques à vos tâches au sein de votre ministère, adressez‐vous à vos spécialistes de la GI."
+  },
+  {
+    "en": "It is recommended that you organize your information in a logical and systematic way so that it’s easy to find and share. Where possible, use standards, rules and procedures established or adopted by your department. For example:",
+    "fr": "Nous vous recommandons de classer l’information de façon logique et systématique pour qu’il soit facile de la trouver et de la partager. Dans la mesure du possible, utilisez les normes, les règles et les procédures établies ou adoptées par votre ministère. Par exemple :"
+  },
+  {
+    "en": "Information that is well organized will help you to work better and supports your need to respond efficiently and effectively to requests regarding access to information, privacy and legal discovery. Classification systems are designed to manage information according to their business value, ensuring their proper retention and disposition. Additional safeguarding and storage requirements may apply to information to which a security category has been assigned.",
+    "fr": "L’information bien organisée vous aidera à mieux travailler et à répondre de façon efficace et efficiente aux demandes d’accès à l’information, de renseignements personnels ou de communication préalable. Les systèmes de classement sont conçus de manière à gérer l’information en fonction de sa valeur opérationnelle, tout en assurant la mise en place de mesures de conservation et d’élimination appropriées. Des exigences supplémentaires en matière de protection et de stockage peuvent s’appliquer à l’information assortie d’une catégorie de sécurité."
+  },
+  {
+    "en": "For more information, see the section .",
+    "fr": "Pour obtenir de plus amples renseignements, veuillez consulter la section ."
+  },
+  {
+    "en": "The system you use to manage the information you work with will depend on the standards and tools available in your department. Consult your IM specialists for more information or advice.",
+    "fr": "Les normes et les outils offerts dans votre ministère ont une incidence sur le système que vous utilisez pour gérer l’information dans le cadre de votre travail. Pour obtenir de plus amples renseignements ou des conseils, consultez vos spécialistes de la GI."
+  },
+  {
+    "en": "Once you have organized your information, you will be able to quickly find and reuse them to make work life easier for you and others. While using and sharing information, consider the following business rules:",
+    "fr": "Une fois l’information classée, vous pourrez la trouver et la réutiliser rapidement pour faciliter votre travail et celui des autres. Lorsque vous utilisez et partagez l’information, veuillez tenir compte des règles opérationnelles suivantes :"
+  },
+  {
+    "en": ". It saves you time and enables you to share information with others, reducing the duplication of effort and improving service delivery.",
+    "fr": "Le fait d’adapter la gestion de . Vous pourrez ainsi gagner du temps et partager l’information avec les autres, tout en réduisant le dédoublement des efforts et en améliorant la prestation des services."
+  },
+  {
+    "en": "If you notice ways that these practices can help your department to be more effective, communicate them to your manager. As always, your IM specialists are available to provide you with the advice you need.",
+    "fr": "Si vous trouvez des manières dont ces pratiques pourraient accroître l’efficacité de votre ministère, discutez‐en avec votre gestionnaire. Encore une fois, vos spécialistes de la GI sont là pour vous donner des conseils, au besoin."
+  },
+  {
+    "en": "While protecting information includes guarding against unauthorized access, disclosure or destruction, it also involves preserving the integrity and authenticity of the information. To protect information effectively, it is recommended that you do the following:",
+    "fr": "Au chapitre de la protection de l’information, il est tout autant question de la protection contre un accès non autorisé, la divulgation ou la destruction que de la préservation de l’intégrité et de l’authenticité de l’information. Pour protéger efficacement l’information, nous vous recommandons de prendre les mesures suivantes :"
+  },
+  {
+    "en": "By taking these steps, we not only ensure access to the most reliable information today; we also preserve the value of information for future generations of Canadians.",
+    "fr": "En prenant ces mesures, nous nous assurons non seulement d’avoir accès aujourd’hui à l’information la plus fiable qui soit, mais également de préserver la valeur de l’information pour les générations à venir."
+  },
+  {
+    "en": "All government information requires some level of protection. There is a particular need, however, to properly mark and adequately protect and secure classified and protected information, in all media, as its compromise could bring injury to individuals or to the national interest.",
+    "fr": "Toute information gouvernementale nécessite un certain niveau de protection. Toutefois, il est particulièrement important de bien désigner, protéger et conserver l’information classifiée et protégée, sur tout support, étant donné que toute divulgation non autorisée pourrait porter préjudice à des personnes ou nuire à l’intérêt national."
+  },
+  {
+    "en": "If you notice areas that need improvement or if you think you need more help, speak to your manager. Then contact your IM specialists, your security specialists, or both to help you implement these practices.",
+    "fr": "Si vous remarquez des secteurs nécessitant une amélioration ou si vous croyez avoir besoin d’aide supplémentaire, vous pouvez vous adresser à votre gestionnaire. Communiquez ensuite avec vos spécialistes de la GI, vos spécialistes de la sécurité, ou les deux, pour recevoir de l’aide à propos de la mise en œuvre de ces pratiques."
+  },
+  {
+    "en": "For more information, refer to the and its related policy instruments. In addition, consult your department’s security manual to confirm the specific procedures that apply within your work environment, or contact your security specialists.",
+    "fr": "Pour en savoir plus, consultez la et ses instruments de politique connexes. Vous pouvez également consulter le guide de sécurité de votre ministère pour confirmer les procédures applicables à votre milieu de travail ou encore communiquer avec vos spécialistes de la sécurité."
+  },
+  {
+    "en": "Not all information has the same value. While some will need to be kept long-term to support your department’s operational needs or to preserve information of archival value, other information can be disposed of when it has outlived its usefulness.",
+    "fr": "Les renseignements n’ont pas tous la même valeur. Certains doivent être conservés longtemps pour répondre aux besoins opérationnels de votre ministère ou pour préserver l’information à valeur archivistique, tandis que d’autres peuvent être détruits au terme de leur durée de vie utile."
+  },
+  {
+    "en": "To ensure that you are always working with relevant and reliable information, it is recommended that you do the following:",
+    "fr": "Afin de toujours utiliser de l’information fiable et pertinente, nous vous recommandons de prendre les mesures suivantes :"
+  },
+  {
+    "en": "Applying these practices will make it much easier to quickly access the information you really need and will help reduce storage and maintenance costs. However, follow the guidelines of your department, the GC or both, as strict rules govern the disposal of government information.",
+    "fr": "L’application de ces pratiques vous aidera à accéder rapidement et facilement à l’information dont vous avez besoin et réduira les frais liés au stockage et à la conservation. Toutefois, il vous faudra suivre les lignes directrices de votre ministère, du GC, ou des deux, puisque des règles strictes régissent l’élimination de l’information gouvernementale."
+  },
+  {
+    "en": "For more information, see the section .",
+    "fr": "Pour obtenir de plus amples renseignements, veuillez consulter la section ."
+  },
+  {
+    "en": "If you see the need to dispose of information in your area, speak to your manager and consult with the appropriate IM specialist (for example, the records or library IM specialist). For more information, see section .",
+    "fr": "Si vous croyez qu’il est nécessaire d’éliminer de l’information dans votre secteur, adressez‐vous à votre gestionnaire et consultez le spécialiste de la GI approprié (par exemple, le spécialiste de la gestion des dossiers ou de la bibliothèque). Pour obtenir de plus amples renseignements, veuillez consulter la section ."
+  },
+  {
+    "en": "Generally, as you go about your normal business activities each day, you generate and collect physical and digital information. This information provides an important record of the actions you’ve taken, the decisions you’ve made, and the reasons for both, allowing for transparency and accountability.",
+    "fr": "En règle générale, dans le cours normal de vos activités professionnelles quotidiennes, vous générez et recueillez de l’information physique et numérique. Cette information constitue un bilan important des mesures et des décisions que vous avez prises et des raisons qui les sous‐tendent, ce qui favorise la transparence et la reddition de comptes."
+  },
+  {
+    "en": "Because of its value, it is vital that you ensure that such information exists for all of your business activities and decisions, whether it is generated naturally in the execution of a business process or specifically created to document that process. This requirement comes from sections 4.3.2 and 4.3.3 of the .",
+    "fr": "Compte tenu de sa valeur, il est donc essentiel que cette information existe pour toutes les activités et décisions administratives, qu’elle résulte automatiquement d’un processus opérationnel ou qu’elle soit créée dans le but de documenter un processus particulier. Cette exigence découle des articles 4.3.2 et 4.3.3 de la ."
+  },
+  {
+    "en": "In order to ensure the ongoing value of information of business value, capture it along with any relevant metadata (for example, subject, author, transmittal data) to ensure that it is complete, authentic and reliable. Retain information of business value in accordance with departmental records management standards and procedures, and ensure that it is stored or profiled within a corporate repository, if available, and protected against damage and loss.",
+    "fr": "Afin que cette information ayant une valeur opérationnelle conserve sa valeur, il importe de la consigner en lui attribuant les métadonnées pertinentes (par exemple, son sujet, son auteur et des données relatives à sa transmission) afin qu’elle soit complète, authentique et fiable. Il importe de conserver l’information ayant une valeur opérationnelle selon les normes et procédures en matière de gestion de documents du ministère et de veiller à ce qu’elle soit stockée ou recensée dans un dépôt ministériel, le cas échéant, et protégée contre les dommages et la perte."
+  },
+  {
+    "en": "For more information, see the section . Your IM specialists can also provide extensive advice and support.",
+    "fr": "Pour obtenir de plus amples renseignements, veuillez consulter la section . Les spécialistes de la GI de votre ministère peuvent également vous donner des conseils et du soutien supplémentaire."
+  },
+  {
+    "en": "The following are examples of the types of information that are of business value and that you might create, acquire or collect to document business functions and activities:",
+    "fr": "Voici des exemples d’information ayant une valeur opérationnelle que vous pourriez créer, acquérir ou recueillir pour documenter des fonctions ou des activités administratives :"
+  },
+  {
+    "en": "The value of information doesn’t only determine how it’s used and protected but also when and how you can dispose of it. Many factors, including laws, regulations and information policies, and business needs affect how long information should be kept and what its ultimate outcome will be. Information of archival value should be transferred to Library and Archives Canada. Still other information, such as transitory records, might be needed only for a very short time and can then be destroyed. You should consult with your manager and IM specialists to know if there are specific departmental retention or disposition schedules that should be followed.",
+    "fr": "La valeur de l’information n’en détermine pas seulement les modalités d’utilisation et de protection; elle détermine aussi quand et comment on peut l’éliminer. Bon nombre de facteurs, y compris les lois, les règlements et les politiques relatives à l’information, ainsi que les besoins opérationnels, influent sur le délai de conservation de l’information et sur leur fin. L’information à valeur archivistique doit être transférée à Bibliothèque et Archives Canada. D’autres informations, comme les documents éphémères, pourraient être requises uniquement pendant une très courte période et peuvent ensuite être détruites. Consultez votre gestionnaire et vos spécialistes de la GI pour déterminer si vous devez respecter des calendriers de conservation ou d’élimination qui sont propres à votre ministère."
+  },
+  {
+    "en": "are information that is required for only a limited time to ensure the completion of a routine action or the preparation of a subsequent record. They do not include records required by government departments or ministers to:",
+    "fr": "Par , on entend l’information qui est nécessaire pendant une période limitée, pour s’occuper des affaires courantes ou rédiger d’autres documents. Ils ne comprennent pas les documents dont les ministères ou les ministres ont besoin pour :"
+  },
+  {
+    "en": "Examples of transitory information include the following:",
+    "fr": "Voici quelques exemples d’information éphémère :"
+  },
+  {
+    "en": "Library and Archives Canada authorizes the destruction of transitory records when they are no longer required for business purposes. However, you should consult with your manager and IM specialists to know if there are specific departmental rules in place that provide guidance for transitory records.",
+    "fr": "Bibliothèque et Archives Canada autorise la destruction des documents éphémères lorsqu’ils ne sont plus requis à des fins opérationnelles. Vous devez toutefois vérifier auprès de votre gestionnaire et de vos spécialistes de la GI pour savoir si votre ministère a certaines règles en place donnant de l’orientation au sujet des documents éphémères."
+  },
+  {
+    "en": "Transitory records, like all other information under the care and control of the department, are subject to the and the",
+    "fr": "Les documents éphémères, comme toute autre ressource documentaire sous la responsabilité et la garde du ministère, sont visés par la et la ."
+  },
+  {
+    "en": "This means that when employees are tasked with an access to information (ATI) or personal information request, they must provide all records that are responsive to the request, whether the records are transitory in nature or considered information of business value. Once a request is received, transitory records that have not been disposed of and are responsive must be provided to the department’s Access to Information and Privacy (ATIP) office. This procedure highlights the importance of good IM practices, because once a request is received, responsive records cannot be deleted or disposed of, even if transitory in nature. If a record is responsive to a request, it must be provided regardless of its nature.",
+    "fr": "Par conséquent, lorsqu’une demande d’accès à l’information (AI) ou de renseignements personnels est attribuée à un employé, il doit fournir tous les documents correspondant à la demande, même s’ils sont éphémères ou qu’il s’agit d’information ayant une valeur opérationnelle. Une fois qu’une demande est reçue, les documents éphémères qui n’ont pas été éliminés et qui correspondent à la demande doivent être fournis au Bureau de l’accès à l’information et de la protection des renseignements personnels (AIPRP) du ministère. La présente procédure souligne l’importance d’appliquer de bonnes pratiques de GI, car une fois qu’une demande est reçue, les documents pertinents ne peuvent pas être supprimés ni éliminés, même s’il s’agit de documents éphémères. Si un document correspond à une demande, il doit être fourni, quelle que soit sa nature."
+  },
+  {
+    "en": "An exact and complete copy of information responsive to an ATI or personal information request is provided to the ATIP office for processing, and the information is retained according to the department’s retention schedule. This process does not, however, remove the IM requirements of the original records that remain with the office of primary interest that provides the records.",
+    "fr": "Une copie exacte et complète de l’information correspondant à la demande d’AI ou de renseignements personnels est fournie au Bureau de l’AIPRP aux fins de traitement, et l’information est conservée selon le calendrier de conservation du ministère. Ce processus n’invalide toutefois pas les exigences en matière de GI des documents originaux qui seront conservés dans le bureau de première responsabilité les ayant fournis."
+  },
+  {
+    "en": "Once the ATIP office has received an exact and complete copy of all information responsive to an access request, the information may continue to be managed according to its normal life cycle. The same applies to information that has to be retained during any legal discovery process relating to the subject of the information.",
+    "fr": "Dès que le Bureau de l’AIPRP reçoit une copie conforme et complète de toute l’information correspondant à une demande d’accès, on peut continuer de gérer l’information selon son cycle de vie normal. Il en va de même pour l’information devant être conservée pendant tout processus de communication préalable lié à l’objet sur lequel l’information porte."
+  },
+  {
+    "en": "Your personal documents may not be under control of the department and may not be subject to the , or legal discovery processes. (Examples of personal documents include records accumulated before assuming a federal government position; materials pertaining to an individual’s private affairs outside government services; and diaries, journals or other personal notes prepared for other reasons than carrying on the work of the department.) If, however, you used personal removable devices to transport business-related information, the information on the devices are subject to access to information and privacy or legal discovery processes. Similarly, if you copy or create information on your home computer or other personal devices, the information may be deemed to be under the care and control of the department and subject to the Acts.",
+    "fr": "Il se peut que vos documents personnels ne soient pas sous la garde de votre ministère et qu’ils ne soient assujettis ni à la , ni à la , ni aux processus liés à la communication préalable. (Par exemple, les documents personnels comprennent les documents recueillis avant d’occuper un poste au gouvernement fédéral, les documents relatifs aux intérêts privés extérieurs aux services gouvernementaux d’une personne, les agendas, les journaux personnels et autres notes personnelles préparées pour des raisons autres que de s’acquitter de tâches pour le compte du ministère.) Toutefois, si vous avez utilisé des dispositifs amovibles personnels pour transporter de l’information liée aux fonctions, celle‐ci est assujettie aux processus d’AIPRP ou liés à la communication préalable. De même, si vous copiez ou créez de l’information sur votre ordinateur personnel ou sur d’autres appareils personnels, elle peut être considérée comme sous la garde et le contrôle du ministère, et est ainsi assujettie aux lois."
+  },
+  {
+    "en": "When information has not been consulted for an extended period of time, it is considered inactive. However, it may not yet have reached the end of its retention period. When this happens, inactive information of business value are sometimes transferred to more economical off-site storage facilities until the time comes to finally dispose of them, either by destroying them or transferring them to Library and Archives Canada. While the information is in storage, you will still be able to access it, whether for business purposes or to respond to ATIP or legal discovery requests. If you need to arrange for the storage of your inactive information, speak to your manager and your departmental IM specialists.",
+    "fr": "Lorsque de l’information n’a pas été consultée pendant une période prolongée, elle est considérée comme inactive. Toutefois, il est possible que le délai de conservation n’ait pas expiré. Dans ces cas, l’information inactive ayant une valeur opérationnelle est parfois transférée vers un lieu de stockage externe plus économique jusqu’à ce qu’il soit temps de l’éliminer, que ce soit en la détruisant ou en la transférant à Bibliothèque et Archives Canada. Elle demeure accessible pendant la période de stockage, que ce soit à des fins opérationnelles ou pour répondre à une demande d’AIPRP ou de communication préalable. Avant de prendre les dispositions nécessaires au stockage de l’information inactive, nous vous recommandons de consulter votre gestionnaire et les spécialistes de la GI de votre ministère."
+  },
+  {
+    "en": "The retention period is the period of time that information should be kept before it can be legally disposed. This period is:",
+    "fr": "Le délai de conservation est la période pendant laquelle l’information devrait être conservée avant qu’elle puisse être éliminée en toute légalité. Cette période est :"
+  },
+  {
+    "en": "Legislation stipulates that government information must be protected against unauthorized destruction. Section 67 of the states that no person shall obstruct the Information Commissioner or any person acting on behalf or under the direction of the Commissioner in the performance of the Commissioner’s duties and functions.",
+    "fr": "La loi stipule que l’information du gouvernement doit être protégée contre la destruction non autorisée. L’article 67 de la stipule qu’il est interdit d’entraver l’action du commissaire à l’information ou des personnes qui agissent en son nom ou sous son autorité dans l’exercice des pouvoirs et fonctions qui lui sont conférés."
+  },
+  {
+    "en": "Section 67.1 of the same Act criminalizes the intent to deny a right of access through destruction, mutilation, alteration, falsification or concealment of a government record, as well as directing or counselling an individual to do those things. Individuals who are found guilty could face criminal charges, financial penalties or both. Departments should also ensure that retention and disposition activities for personal information respect the requirements of the and do not result in a privacy breach (for example, the unauthorized deletion of personal information).",
+    "fr": "L’article 67.1 de la criminalise des actes intentionnels de destruction, de dégradation, de modification, de falsification ou de dissimulation de documents gouvernementaux visés par une demande d’accès à l’information, de même que le fait de demander ou de conseiller à une personne d’agir en ce sens. Les personnes trouvées coupables d’une infraction de cette nature s’exposent à des accusations au pénal, à des pénalités financières, ou aux deux. Les ministères devraient également veiller à ce que les activités de conservation et d’élimination des renseignements personnels respectent les exigences de la et ne portent pas atteinte à la vie privée (par exemple, la suppression non autorisée de renseignements personnels)."
+  },
+  {
+    "en": "It’s important to recognize that both digital and physical information should be managed according to sound IM principles. Identify, capture, retain, protect and preserve digital information (including instant messages, email and attachments) so that it continues to be available and accessible to support decision-making as well as program and service delivery.",
+    "fr": "Il est important de reconnaître que l’information numérique et l’information physique doivent être gérées selon des principes rigoureux de GI. Il importe de nommer, de recueillir, de conserver, de protéger et de préserver l’information numérique (y compris les messages instantanés, les courriels et les pièces jointes) de manière à ce qu’elle demeure disponible et accessible, à l’appui de tout processus décisionnel et de tout exercice de prestation de programmes et de services."
+  },
+  {
+    "en": "Due to the fact that digital information is so easy to create and delete, managing it effectively becomes an issue of personal accountability. File current or frequently referenced information in a way that permits efficient and authorized access, while also disposing of transitory information as soon as it’s no longer needed.",
+    "fr": "Étant donné la grande facilité avec laquelle l’information électronique peut être créée et supprimée, sa gestion efficace devient une question de responsabilité personnelle. Vous devez classer l’information actuelle ou celle à laquelle on se réfère fréquemment de manière à favoriser un accès efficace et autorisé et à éliminer l’information éphémère dès qu’elle n’est plus requise."
+  },
+  {
+    "en": "For more information, see the section .",
+    "fr": "Pour obtenir de plus amples renseignements, veuillez consulter la section ."
+  },
+  {
+    "en": "Where there are no established procedures in a department to manage electronic information or if you have electronic information that cannot be managed using the established procedures, your department’s shared drive can be used to store your electronic information. It is recommended that you have procedures in place to properly manage it. Name, inventory and organize the electronic documents according to, or linking to, the departmental classification system if one is in place. Associating electronically stored information with the departmental classification structure facilitates locating and retrieving related information and applying life-cycle management procedures, including planned transfer or deletion. Keep in mind, however, that access to classified and protected material is restricted to authorized employees. Also, when using a shared drive, it is advised that file permissions are set to “read only” to ensure that documents are not altered or easily destroyed.",
+    "fr": "Lorsqu’aucune procédure de gestion de l’information électronique n’a été établie au sein d’un ministère, ou lorsque l’information électronique ne peut être gérée conformément aux procédures établies, vous pouvez utiliser les lecteurs partagés de votre ministère pour la stocker. Nous vous recommandons de mettre en place des procédures vous permettant de gérer l’information de façon appropriée. Il importe de nommer, de répertorier et de classer les documents électroniques en fonction du système de classement ministériel en place, le cas échéant, ou d’y établir un renvoi. En associant l’information stockée sur support électronique à la structure de classement ministérielle, il est plus facile de repérer et d’extraire l’information connexe, et d’appliquer les mesures de gestion du cycle de vie, y compris les activités de transfert ou de suppression prévues. Toutefois, gardez à l’esprit que l’accès à des documents classifiés et protégés doit être limité aux employés dûment autorisés. En outre, il est recommandé de régler les permissions d’accès aux fichiers à « lecture seule », lorsque l’on utilise un lecteur partagé, pour éviter que les documents soient altérés ou détruits par inadvertance."
+  },
+  {
+    "en": "If you don’t have a departmental classification structure, your IM specialists can suggest effective alternate methods for organizing your shared drive.",
+    "fr": "En l’absence d’une structure de classement ministérielle, vos spécialistes de la GI sauront vous suggérer d’autres méthodes efficaces de structure du lecteur partagé."
+  },
+  {
+    "en": "The method you use to file information will depend on the policies, procedures and tools available in your department. Many departments have deployed a system for managing information and data. As set out in the these systems should be configured to ensure that information and data is managed effectively and securely. In most cases, these types of systems should allow documents, email messages and attachments, and digital images to be filed directly into a corporate repository according to a departmental classification structure. Once filed, they can be managed according to established IM and recordkeeping policies, standards and rules, ensuring their proper retention and disposition. Anyone with authorized access can search for and retrieve this information when it is needed.",
+    "fr": "La méthode de classement de l’information dépend des politiques, des procédures et des outils offerts dans votre ministère. De nombreux ministères ont déployé un système de gestion de l’information et des données. Comme le prévoit la , ces systèmes doivent être configurés de manière à ce que l’information et les données soient gérées efficacement et en toute sécurité. Dans la plupart des cas, les systèmes de ce genre devraient permettre de classer directement les documents, les courriels, les pièces jointes et les images numériques dans un dépôt ministériel d’après la structure de classement ministérielle. Une fois classés, ils sont gérés conformément aux politiques, aux normes et aux règles de GI et de tenue de documents établies, de manière à assurer le respect des modalités de conservation et de destruction. Toute personne disposant d’un droit d’accès peut effectuer une recherche et extraire cette information au besoin."
+  },
+  {
+    "en": "If your department doesn’t have an appropriate system for managing information and data, speak to your manager and consult with the appropriate specialist (for example, the records or library functional specialist) to find out more about your internal policies on filing electronic information. For more information, see the section .",
+    "fr": "Si votre ministère ne dispose pas d’un système approprié de gestion de l’information et des données, adressez‐vous à votre gestionnaire et consultez le spécialiste approprié (par exemple, le spécialiste de la gestion des dossiers ou de la bibliothèque) pour en apprendre davantage au sujet des politiques internes relatives au classement de l’information électronique. Pour obtenir de plus amples renseignements, veuillez consulter la section ."
+  },
+  {
+    "en": "For more information on email management, see .",
+    "fr": "Pour en savoir plus sur la gestion des courriels, consultez ."
+  },
+  {
+    "en": "Information in collaboration tools should be treated like any other information that is created, acquired or used in the GC and should be managed throughout its life cycle. Collaborative environments created or used by a federal department to conduct business-related activities with either internal or external audiences are advised to have business rules and codes of conduct established for participants. The information contained in these environments are subject to ATIP requests. Respecting to the furthest extent possible the recommendations in this guidance will enhance IM in collaborative environments. Employees may contribute to externally hosted sites for social networking or collaborative activities. The information contained on these sites may or may not be considered information of business value but may nonetheless be subject to federal or provincial access to information legislation.",
+    "fr": "L’information contenue dans les outils de collaboration doit être traitée comme toute autre information créée, acquise ou utilisée au sein du GC et doit être gérée tout au long de son cycle de vie. Les environnements de collaboration créés ou utilisés par un ministère du gouvernement fédéral pour la tenue d’activités opérationnelles avec des publics internes ou externes devraient être encadrés par des règles opérationnelles et des codes de conduite établis à l’intention des participants. L’information contenue dans ces environnements est visée par les demandes d’AIPRP. Si vous respectez, dans la mesure du possible, les recommandations décrites dans la présente orientation, vous contribuerez à l’amélioration de la GI dans les environnements de collaboration. Les employés peuvent utiliser des sites hébergés à l’externe pour prendre part à des activités de collaboration ou de réseautage social. L’information contenue dans ces sites peut être considérée comme de l’information ayant une valeur opérationnelle ou non, mais peut toutefois être visée par une loi fédérale ou provinciale d’AI."
+  },
+  {
+    "en": "In today’s work environment, it is not unusual for employees to change jobs often during their career. This trend can actually have a significant effect on how well we manage our information.",
+    "fr": "Il est fréquent de nos jours de changer plusieurs fois d’emploi au cours de sa carrière. Cette tendance peut en fait avoir une grande incidence sur la façon dont nous gérons notre information."
+  },
+  {
+    "en": "For more information on IM practices when departing or transferring from a job position, see .",
+    "fr": "Pour en savoir plus sur les pratiques de GI pour les employés qui quittent leur poste ou sont mutés à un autre poste, consultez ."
+  },
+  {
+    "en": "This guidance has been designed to provide a basic overview of the guidelines and practices associated with managing information within the GC. It does not, however, contain specific procedures for your particular work environment. Therefore, we encourage you to contact the following experts to confirm the IM responsibilities, procedures and work tools that apply within your department.",
+    "fr": "La présente orientation donne un aperçu des lignes directrices et des pratiques liées à la gestion de l’information au sein du GC. Toutefois, il ne présente pas les procédures propres à votre milieu de travail. C’est pourquoi nous vous encourageons à communiquer avec les experts suivants pour confirmer les responsabilités, les procédures et les outils de travail relatifs à la GI qui s’appliquent à votre ministère."
+  },
+  {
+    "en": "Your IM specialists also provide training on using various IM tools and procedures, including document management, records and IM systems, classification structures, and library reference and research instruments.",
+    "fr": "Les spécialistes de la GI de votre ministère donnent également de la formation sur l’utilisation des divers outils et procédures en matière de GI, notamment : la gestion des documents, les systèmes de gestion des documents et de l’information, les structures de classement et les outils de consultation et de recherche de la bibliothèque."
+  },
+  {
+    "en": "For more information about this guideline, contact the Information and Data Governance Division at .",
+    "fr": "Pour en savoir plus sur la présente orientation, veuillez envoyer un courriel à la Division de la gouvernance de l’information et des données, dont l’adresse est la suivante : ."
+  },
+  {
+    "en": "Part of our daily work",
+    "fr": "Un aspect faisant partie intégrante de notre travail quotidien"
+  },
+  {
+    "en": "Managing information: who is responsible?",
+    "fr": "La gestion de l’information – qui en est responsable?"
+  },
+  {
+    "en": "Key principles for managing information in all media",
+    "fr": "Les principes clés de la gestion de l’information sur tous les supports"
+  },
+  {
+    "en": "Plan for your information needs",
+    "fr": "La planification des besoins en matière d’information"
+  },
+  {
+    "en": "Create and collect information",
+    "fr": "La création et la collecte de l’information"
+  },
+  {
+    "en": "Organize your information",
+    "fr": "Le classement de l’information"
+  },
+  {
+    "en": "Reuse and share information",
+    "fr": "La réutilisation et le partage de l’information"
+  },
+  {
+    "en": "Maintain and protect information",
+    "fr": "La tenue et la protection de l’information"
+  },
+  {
+    "en": "Transfer or destroy the right information at the right time",
+    "fr": "Le choix de l’information à transférer ou à détruire au moment voulu"
+  },
+  {
+    "en": "Document your business activities and decisions",
+    "fr": "La documentation des activités administratives et des décisions"
+  },
+  {
+    "en": "Keep information only for as long as it is needed, then transfer or destroy it",
+    "fr": "La conservation de l’information seulement pendant le délai nécessaire avant de la transférer ou de la détruire"
+  },
+  {
+    "en": "Penalties for unauthorized destruction",
+    "fr": "Les pénalités en cas de destruction non autorisée"
+  },
+  {
+    "en": "Managing information on shared drives",
+    "fr": "La gestion de l’information sur des lecteurs partagés"
+  },
+  {
+    "en": "Filing digital information",
+    "fr": "Le classement de l’information numérique"
+  },
+  {
+    "en": "What about email messages?",
+    "fr": "Qu’en est‐il des courriels?"
+  },
+  {
+    "en": "A word about collaboration tools",
+    "fr": "Quelques mots sur les outils de collaboration"
+  },
+  {
+    "en": "The experts",
+    "fr": "Les experts"
+  },
+  {
+    "en": "Enquiries",
+    "fr": "Les demandes de renseignements"
+  },
+  {
+    "en": "For the purposes of this document, the term “Government of Canada employees” includes employees of federal departments as defined in Schedule 2 of the . The advice contained in this guidance, however, could be beneficial to employees of departments outside this definition.",
+    "fr": "Dans le cadre du présent document, le terme « employé fédéral » s’entend des employés des ministères fédéraux au sens de l’article 2 de la . Toutefois, les conseils contenus dans la présente orientation pourraient être utiles aux employés de ministères auxquels cette définition ne s’applique pas."
+  },
+  {
+    "en": "Use of the term “information” in this document follows the definition provided in Appendix A of the .",
+    "fr": "Le terme « information » dans le présent document est utilisé dans le sens défini à l’annexe A de la ."
+  },
+  {
+    "en": "textual, such as memos, reports, invoices and contracts",
+    "fr": "le texte, comme des notes de service, des rapports, des factures et des contrats;"
+  },
+  {
+    "en": "digital, such as emails, databases, web pages and data",
+    "fr": "les éléments numériques, comme les courriels, les bases de données, les pages Web et les données;"
+  },
+  {
+    "en": "communication media, such telephone conversations, instant messages, wikis, blogs and podcasts",
+    "fr": "les moyens de communication, comme les conversations téléphoniques, les messages instantanés, les wikis, les billets de blogues et les balados;"
+  },
+  {
+    "en": "publications, such as reports, books and magazines",
+    "fr": "les publications, comme les rapports, les livres et les revues;"
+  },
+  {
+    "en": "films",
+    "fr": "les films;"
+  },
+  {
+    "en": "sound recordings",
+    "fr": "les enregistrements sonores;"
+  },
+  {
+    "en": "photographs",
+    "fr": "les photographies;"
+  },
+  {
+    "en": "documentary art",
+    "fr": "les œuvres documentaires;"
+  },
+  {
+    "en": "graphics",
+    "fr": "les graphiques;"
+  },
+  {
+    "en": "maps",
+    "fr": "les cartes;"
+  },
+  {
+    "en": "artefacts",
+    "fr": "les artefacts."
+  },
+  {
+    "en": "document business activities and decisions",
+    "fr": "documenter leurs activités et leurs décisions opérationnelles;"
+  },
+  {
+    "en": "comply with departmental IM policies, directives and standards, using approved tools, systems and procedures",
+    "fr": "se conformer aux politiques, directives et normes ministérielles en matière de GI en utilisant les outils, systèmes et procédures approuvés;"
+  },
+  {
+    "en": "organize, file and store information within a corporate repository, ensuring easy access when needed to make decisions and to support program and service delivery",
+    "fr": "structurer, classer et stocker l’information dans un dépôt ministériel en veillant à ce qu’elle soit aisément accessible en temps voulu pour permettre la prise de décisions et l’appui de la prestation de programmes et de services;"
+  },
+  {
+    "en": "share and reuse information to support collaboration and facilitate business operations, respecting all privacy, security and other legal and policy requirements",
+    "fr": "partager et réutiliser l’information pour favoriser la collaboration et faciliter les opérations dans le respect de l’ensemble des prescriptions juridiques et politiques relatives à la protection des renseignements personnels, à la sécurité, etc.;"
+  },
+  {
+    "en": "protect sensitive information, providing or restricting its access in accordance with law, regulation and policy",
+    "fr": "contrôler l’accès à l’information de nature délicate conformément aux lois, règlements et politiques applicables afin de la protéger;"
+  },
+  {
+    "en": "be informed of and apply retention periods for information",
+    "fr": "connaître les périodes de conservation de l’information et les respecter;"
+  },
+  {
+    "en": "protect and preserve information of business value that is critical to business resumption",
+    "fr": "protéger et préserver l’information ayant une valeur opérationnelle qui est essentielle à la reprise des activités."
+  },
+  {
+    "en": "Create or acquire information that supports programs, services and ongoing operations.",
+    "fr": "Créer ou acquérir de l’information qui appuie les programmes, les services et les activités courantes."
+  },
+  {
+    "en": "Capture information of business value by saving it within a corporate repository.",
+    "fr": "Recueillir de l’information ayant une valeur opérationnelle en la versant dans un dépôt ministériel."
+  },
+  {
+    "en": "Avoid collecting duplicate information.",
+    "fr": "Éviter de recueillir de l’information en double."
+  },
+  {
+    "en": "Share and reuse information, respecting privacy, security, and other policy and legal restrictions.",
+    "fr": "Partager et réutiliser l’information en protégeant les renseignements personnels, en assurant la sécurité et en respectant les restrictions prévues par la loi et les politiques."
+  },
+  {
+    "en": "Ensure that information of business value is complete, accurate, current, relevant and understandable.",
+    "fr": "Veiller à ce que l’information ayant une valeur opérationnelle soit complète, exacte, à jour, pertinente et compréhensible."
+  },
+  {
+    "en": "Support information access and retrieval, respecting privacy, security, and other policy and legal requirements.",
+    "fr": "Favoriser l’accès à l’information en protégeant les renseignements personnels, en assurant la sécurité et en respectant les exigences prévues par la loi et les politiques."
+  },
+  {
+    "en": "Safeguard information of business value against unlawful access, loss and damage.",
+    "fr": "Protéger l’information ayant une valeur opérationnelle contre l’accès illicite, les pertes et les dommages."
+  },
+  {
+    "en": "Ensure that information of archival business value is properly preserved.",
+    "fr": "Veiller à ce que l’information ayant une valeur opérationnelle sur le plan de l’archivage soit bien préservée."
+  },
+  {
+    "en": "What type of information will I need to support my work requirements, and who will need to access it?",
+    "fr": "Quel est le genre d’information dont j’aurai besoin pour m’acquitter de mes tâches au travail et qui aura besoin d’y accéder?"
+  },
+  {
+    "en": "Will I need published information (for example, books, magazines, databases, subscriptions and online resources)? Do they already exist elsewhere, and can I use these resources to reduce duplication and costs?",
+    "fr": "Est‐ce que j’aurai besoin de renseignements publiés (par exemple, des livres, des revues, des bases de données, des abonnements et des ressources en ligne)? Sont‐ils accessibles ailleurs, et puis‐je plutôt les utiliser pour éviter les doublons et m’épargner des frais?"
+  },
+  {
+    "en": "What volume of information will I need to manage on a regular basis?",
+    "fr": "Quelle quantité d’information serai‐je appelé à gérer de façon régulière?"
+  },
+  {
+    "en": "Will any information require security categorization? If so, at what levels?",
+    "fr": "Est‐ce que certains éléments d’information devront être assortis d’une catégorisation de sécurité? Si oui, à quels niveaux?"
+  },
+  {
+    "en": "If the information contains personal information, have privacy issues and protections for the personal information been addressed?",
+    "fr": "Si l’information contient des renseignements personnels, s’est‐on penché sur la protection des renseignements personnels et les enjeux liés à la confidentialité?"
+  },
+  {
+    "en": "Whenever possible, use electronic systems to create, collect, use and manage information and data.",
+    "fr": "Dans la mesure du possible, utiliser des systèmes électroniques pour créer, recueillir, utiliser et gérer l’information et les données."
+  },
+  {
+    "en": "Follow departmental naming conventions when identifying, filing and storing information.",
+    "fr": "Respecter les règles d’attribution de noms du ministère pour nommer, classer et stocker l’information."
+  },
+  {
+    "en": "File or save information in a corporate repository (for example, an appropriate system for managing information and data).",
+    "fr": "Classer ou sauvegarder l’information dans un dépôt ministériel (par exemple, un système convenant à la gestion de l’information et des données)."
+  },
+  {
+    "en": "Do not forget to include email and instant messages of business value when saving information in the corporate repository. These should not be stored on your mobile device or in your email account, as these locations do not meet the requirements for sharing, using, safeguarding and storing information of business value.",
+    "fr": "Ne pas oublier d’inclure les courriels et les messages instantanés ayant une valeur opérationnelle lorsque vous enregistrez de l’information dans un dépôt ministériel. Ces messages ne doivent pas être stockés sur votre appareil mobile ou dans votre compte de courriel, car ceux‐ci ne répondent pas aux exigences en matière de partage, d’utilisation, de sauvegarde et d’entreposage d’information ayant une valeur opérationnelle."
+  },
+  {
+    "en": "Preserve the integrity and value of information of business value by keeping the structure, context and content intact to facilitate future searching and use.",
+    "fr": "Préserver l’intégrité et l’utilité de l’information ayant une valeur opérationnelle en gardant sa structure, son contexte et son contenu intacts afin de faciliter la recherche et l’utilisation future."
+  },
+  {
+    "en": "Respect information security and privacy requirements. Where information collection involves personal information, respect the legislative authority for the collection and creation of personal information within the program or activity.",
+    "fr": "Respecter les exigences relatives à la sécurité de l’information et à la vie privée. Lorsque la collecte d’information concerne des renseignements personnels, respectez l’autorisation législative pour la collecte et la création de renseignements personnels s’appliquant au programme ou à l’activité."
+  },
+  {
+    "en": "Respect official languages policies and guidelines.",
+    "fr": "Respecter les politiques et les lignes directrices relatives aux langues officielles."
+  },
+  {
+    "en": "structure (format and links to other documents or attachments)",
+    "fr": "structure (format et liens menant vers d’autres documents ou pièces jointes);"
+  },
+  {
+    "en": "context (information about the sender, recipient or recipients, security category and the time and date of creation)",
+    "fr": "contexte (information sur l’expéditeur, le ou les destinataires, la catégorie de sécurité et l’heure et la date de création);"
+  },
+  {
+    "en": "content (identified in the subject line)",
+    "fr": "contenu (indiqué dans l’objet)."
+  },
+  {
+    "en": "organize all information according to your department’s classification system or taxonomies",
+    "fr": "classer toute l’information selon le système de classement ou les taxonomies de votre ministère;"
+  },
+  {
+    "en": "organize all published material according to the classification system of your department’s library",
+    "fr": "classer tous les documents publiés selon le système de classement de la bibliothèque de votre ministère."
+  },
+  {
+    "en": "comply with privacy, security and legal restrictions",
+    "fr": "Respecter les restrictions relatives à la protection des renseignements personnels et à la sécurité ainsi que les restrictions juridiques."
+  },
+  {
+    "en": "whenever possible, use digital technologies to share information (business systems, email, shared drives, corporate repositories, websites and so on)",
+    "fr": "Lorsqu’il est possible de le faire, utiliser des technologies numériques pour partager l’information (systèmes opérationnels, courriels, lecteurs partagés, dépôts ministériels, sites Web, etc.)."
+  },
+  {
+    "en": "ensure that information remains complete, accurate, current, relevant and understandable",
+    "fr": "Veiller à ce que l’information demeure complète, exacte, à jour, pertinente et compréhensible."
+  },
+  {
+    "en": "verify the accuracy and reliability of information, especially when conducting web-related research",
+    "fr": "Vérifier l’exactitude et la fiabilité de l’information, en particulier lorsque l’on effectue des recherches sur le Web."
+  },
+  {
+    "en": "implement version control protocols when editing electronic documents",
+    "fr": "Appliquer des protocoles de contrôle des versions lorsque l’on modifie des documents électroniques."
+  },
+  {
+    "en": "take advantage of departmental investments in information (magazine and journal subscriptions, databases, content management systems, online library services, and so on), while respecting copyright, licensing and intellectual property rights",
+    "fr": "Tirer profit de l’information dont dispose le ministère (abonnements à des magazines et à des journaux, bases de données, systèmes de gestion de contenu, services de bibliothèque en ligne, etc.), tout en respectant les droits d’auteur, les licences et les droits relatifs à la propriété intellectuelle."
+  },
+  {
+    "en": "when retaining information that has been copied, indicate the source (and locator information), whether it was already saved in a corporate repository or from a publication or website",
+    "fr": "Lorsque l’on conserve de l’information copiée, indiquer sa provenance (ainsi que les renseignements de localisation), et si elle était déjà enregistrée dans un dépôt ministériel ou provenait d’une publication ou d’un site Web."
+  },
+  {
+    "en": "Store all information in a manner that preserves its form and status, keeping its structure, context and content intact.",
+    "fr": "Stocker l’information de manière à en préserver la forme et l’état, en gardant intacts sa structure, son contexte et son contenu."
+  },
+  {
+    "en": "Protect information against loss, damage, unauthorized access, alteration or destruction. Such protection includes informing contractors of their responsibility to protect information that has been entrusted to them.",
+    "fr": "Protéger l’information contre les pertes, les dommages, les accès non autorisés, la modification ou la destruction. Cela signifie notamment d’informer les entrepreneurs de leurs responsabilités à l’égard de la protection de l’information sous leur garde."
+  },
+  {
+    "en": "Mark information according to its proper security categorization, either on the physical document, on digital media and storage devices that contain sensitive information, or in the appropriate metadata field in the document profile. Avoid applying a label at a higher or lower security level than it needs and ensure that the time frame for protection of information is kept as short as possible.",
+    "fr": "Désigner l’information en fonction de la catégorie de sécurité appropriée, sur les documents physiques, les supports numériques ou les dispositifs de stockage qui contiennent de l’information sensible, ou dans le champ de métadonnées approprié du profil du document. Éviter d’apposer une étiquette à un niveau de sécurité plus élevé ou plus bas que ce qui est requis, et veiller à ce que le délai de protection de l’information soit le plus court possible."
+  },
+  {
+    "en": "Protect classified and protected information by ensuring it is not left in waste or recycle containers and by storing it in secure physical storage devices in accordance with departmental security requirements.",
+    "fr": "Protéger l’information classifiée et protégée en veillant à ce qu’elle ne soit pas laissée dans des poubelles ou des bacs de recyclage et en la stockant dans des unités de stockage physiques sécurisées conformément aux exigences ministérielles en matière de sécurité."
+  },
+  {
+    "en": "Avoid sending or storing any information above the security level for which your departmental network has been rated (normally Protected A or B).",
+    "fr": "Éviter d’envoyer ou de stocker de l’information assortie d’un niveau de sécurité supérieur à celui du réseau ministériel (habituellement Protégé A ou B)."
+  },
+  {
+    "en": "Avoid populating fields or subject lines with personal information or with words that imply the disclosure of personal details or legal or disciplinary actions against an individual unless this relates to your main line of business (that is, security).",
+    "fr": "Éviter d’indiquer dans les champs ou l’objet des renseignements personnels ou des mots qui entraîneraient la divulgation de renseignements personnels ou de mesures juridiques ou disciplinaires à l’endroit d’une personne, à moins que ces renseignements ne se rapportent à l’objet principal de la communication (c’est‐à‐dire la sécurité)."
+  },
+  {
+    "en": "Implement effective access control procedures to ensure that classified and protected information is made available only on a need-to-know basis to those who are authorized to access it. A security clearance does not automatically provide someone the right to see all information categorized at that level.",
+    "fr": "Appliquer les procédures de contrôle de l’accès en vigueur pour veiller à ce que l’information classifiée et protégée soit uniquement mise à la disposition des personnes qui sont autorisées à y accéder en fonction d’un « besoin de savoir ». Une cote de sécurité ne confère pas automatiquement à une personne un droit d’accès à l’ensemble de l’information classée au niveau concerné."
+  },
+  {
+    "en": "regularly destroy transitory records as soon as they are no longer needed, complying with your department’s IM and security procedures",
+    "fr": "Détruire régulièrement les documents éphémères dès qu’ils ne sont plus requis, en respectant les procédures de votre ministère relatives à la sécurité et à la GI."
+  },
+  {
+    "en": "cooperate with IM specialists to properly manage information of business value throughout its life cycle",
+    "fr": "Travailler en collaboration avec les spécialistes de la GI pour gérer adéquatement l’information ayant une valeur opérationnelle tout au long de son cycle de vie."
+  },
+  {
+    "en": "work with IM specialists to properly transfer digital or physical archival records through Library and Archives Canada regulations and disposition authorities",
+    "fr": "Collaborer avec les spécialistes de la GI pour transférer adéquatement les documents d’archives numériques ou physiques conformément aux règlements et aux autorisations d’élimination de Bibliothèque et Archives Canada."
+  },
+  {
+    "en": "transactions: orders, receipts, requests and confirmations",
+    "fr": "les transactions – commandes, reçus, demandes et confirmations;"
+  },
+  {
+    "en": "interactions between clients, vendors and partners",
+    "fr": "les interactions entre les clients, les fournisseurs et les partenaires;"
+  },
+  {
+    "en": "planning documents: budgets, forecasts, work plans, blueprints (technical or engineering designs) and information architecture schematics",
+    "fr": "les documents de planification – budgets, prévisions, plans de travail, plans détaillés (conception ou création technique) et schémas de l’architecture d’information;"
+  },
+  {
+    "en": "reports, policy, briefing notes, memoranda or other papers supporting business activities, including all significant versions (those that were circulated for comment or that contain comments related to the substance of the content and provide evidence of the document’s evolution), the final product and distribution information",
+    "fr": "les rapports, politiques, notes d’information, notes de service ou autres documents à l’appui d’activités opérationnelles, y compris toutes les versions importantes (celles qui ont été distribuées à des fins de commentaire ou qui contiennent des commentaires portant sur le contenu même du document et donnent la preuve de l’évolution du document), le produit fini et les renseignements relatifs à la distribution;"
+  },
+  {
+    "en": "meeting documents: agendas, official minutes and records of decision",
+    "fr": "les documents de réunions – ordres du jour, procès‐verbaux et comptes rendus de décisions;"
+  },
+  {
+    "en": "records of contact with lobbyists (supports the , which requires designated public office-holders to retain information about contact with lobbyists)",
+    "fr": "les relevés de communication avec les lobbyistes (aux termes de la selon laquelle les titulaires d’une charge publique doivent conserver de l’information au sujet de leurs contacts avec des lobbyistes);"
+  },
+  {
+    "en": "committee documents: terms of reference and list of members",
+    "fr": "les documents de comités – mandats et liste des membres;"
+  },
+  {
+    "en": "form letters or templates used to collect responses, related instructions and completed responses in any format",
+    "fr": "les lettres types ou modèles utilisés pour recueillir les réponses, les directives connexes et les réponses dûment remplies dans tout format;"
+  },
+  {
+    "en": "client records: applications, evaluations, emails and assessments",
+    "fr": "les dossiers de clients – demandes, évaluations, courriels et appréciations;"
+  },
+  {
+    "en": "records of discussions, deliberations or any situation related to any of the above that further documents the decisions made along with the logic used",
+    "fr": "les comptes rendus de discussions, de délibérations ou de toute situation liée aux éléments ci‐dessus qui documentent davantage les décisions prises ainsi que la logique suivie;"
+  },
+  {
+    "en": "additional information for auditing and monitoring activities and programs",
+    "fr": "les renseignements supplémentaires aux fins d’audit et de surveillance des activités et programmes."
+  },
+  {
+    "en": "control, support or document the delivery of programs",
+    "fr": "gérer, appuyer ou documenter la prestation des programmes;"
+  },
+  {
+    "en": "carry out operations",
+    "fr": "exécuter les activités;"
+  },
+  {
+    "en": "make decisions",
+    "fr": "prendre des décisions;"
+  },
+  {
+    "en": "account for activities of government",
+    "fr": "rendre compte des activités du gouvernement."
+  },
+  {
+    "en": "working drafts of no particular significance that were never formally circulated",
+    "fr": "Les documents de travail sans importance particulière qui n’ont jamais été distribués de façon officielle."
+  },
+  {
+    "en": "annotated drafts where annotations become part of a subsequent version and do not provide evidence of decisions related to the evolution of the final document",
+    "fr": "Les ébauches annotées où les annotations font partie intégrante d’une version ultérieure et n’offrent pas de piste probante des décisions relatives à l’évolution de la version finale."
+  },
+  {
+    "en": "a copy of a document kept for ease of reference or convenience only",
+    "fr": "Une copie d’un document conservée à titre de référence ou pour des raisons de commodité seulement."
+  },
+  {
+    "en": "information that lacks logical or coherent organization and therefore does not have context",
+    "fr": "L’information qui manque de structure logique ou cohérente et, par conséquent, qui n’est pas mise en contexte."
+  },
+  {
+    "en": "data that has been used for an update process (including batch processing) and that is no longer needed to serve as backup or to support reconstruction of the master file or database",
+    "fr": "Les données qui ont été utilisées pour un processus de mise à jour (y compris le traitement par lots) et qui ne sont plus requises pour servir de copie de sauvegarde ou à la reconstruction du fichier maître ou de la base de données."
+  },
+  {
+    "en": "casual communications such as invitations to lunch",
+    "fr": "Les messages informels comme les invitations à un dîner."
+  },
+  {
+    "en": "personal documents stored on your computer or in your work area",
+    "fr": "Les documents personnels enregistrés dans votre ordinateur ou stockés dans votre espace de travail."
+  },
+  {
+    "en": "established by the business managers in consultation with IM specialists",
+    "fr": "déterminée par les gestionnaires des activités en consultation avec les spécialistes de la GI;"
+  },
+  {
+    "en": "triggered by a specific action or event (for example, the last administrative action performed on or using the information)",
+    "fr": "déclenchée par une action ou un événement précis (par exemple, la dernière mesure administrative effectuée pour l’information ou en l’utilisant);"
+  },
+  {
+    "en": "usually identified in years",
+    "fr": "habituellement indiquée en années."
+  },
+  {
+    "en": "in IM policy, records offices, the library, forms management and mail services are available to answer your IM questions. They can help you:",
+    "fr": "qui connaissent bien les politiques sur la GI, les bureaux des documents, la bibliothèque, la gestion des formulaires et les services de courrier sont disponibles pour répondre à vos questions en matière de GI. Ils peuvent vous aider à :"
+  },
+  {
+    "en": "plan your information needs",
+    "fr": "planifier vos besoins en matière d’information;"
+  },
+  {
+    "en": "determine the best way to organize the information you work with",
+    "fr": "trouver la meilleure façon d’organiser l’information que vous utilisez dans votre travail;"
+  },
+  {
+    "en": "learn how long to keep information",
+    "fr": "déterminer combien de temps vous devez conserver l’information;"
+  },
+  {
+    "en": "find out what can be deleted or destroyed",
+    "fr": "cibler quelle information peut être supprimée ou détruite;"
+  },
+  {
+    "en": "become aware of many other important IM practices",
+    "fr": "découvrir les nombreuses autres pratiques importantes en matière de GI."
+  },
+  {
+    "en": "advises on requests received under the or the , Privacy Impact Assessments, Info Source updates, and privacy issues (collection, use, disclosure, protection, retention and disposal of personal information).",
+    "fr": "Le donne des conseils sur les demandes reçues au titre de la ou de la , les évaluations des facteurs relatifs à la vie privée, les mises à jour d’Info Source et les questions relatives à la protection des renseignements personnels (collecte, utilisation, divulgation, protection, conservation et élimination des renseignements personnels)."
+  },
+  {
+    "en": "can help you understand the requirements pertaining to security categorization and business continuity planning.",
+    "fr": "Les peuvent vous aider à comprendre les exigences relatives à la classification de sécurité et à la planification de la reprise des activités."
+  },
+  {
+    "en": "can help you with IT-related security or questions.",
+    "fr": "Les peuvent répondre à toutes vos questions concernant la sécurité de la TI."
+  },
+  {
+    "en": "offers interpretation and advice pertaining to all legal matters, including ATIP and contract matters.",
+    "fr": "Les donnent de l’aide quant à l’interprétation ainsi que des conseils pour toutes les questions d’ordre juridique, y compris celles liées à l’AIPRP et aux contrats."
+  },
+  {
+    "en": "holds authority for the disposition of government information, including transitory information and information of business value.",
+    "fr": "détient l’autorisation d’éliminer l’information gouvernementale, notamment l’information éphémère et l’information ayant une valeur opérationnelle."
+  }
+]

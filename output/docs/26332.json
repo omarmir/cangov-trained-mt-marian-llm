@@ -1,0 +1,2226 @@
+[
+  {
+    "en": "This guideline is part of a set of guidelines designed to assist departments in implementing common financial management business processes.",
+    "fr": "La présente ligne directrice fait partie d'un ensemble de lignes directrices visant à aider les ministères à mettre en œuvre les processus opérationnels communs en gestion financière."
+  },
+  {
+    "en": "This guideline presents the “should be” model for Manage Other Capital Assets, which involves financial management during the life cycle of a capital asset (excluding real property) that is managed by a department. This guideline describes roles, responsibilities and recommended procedures in the context of the , other legislation, and Government of Canada policy instruments.",
+    "fr": "Elle présente le modèle « souhaité » de la Gestion des autres immobilisations, c'est-à-dire la gestion financière durant le cycle de vie d'une immobilisation (excluant les biens immobiliers) par un ministère. On y décrit les rôles et les responsabilités ainsi que les procédures recommandées à la lumière des instruments de politiques du gouvernement du Canada et de diverses dispositions législatives comme la ."
+  },
+  {
+    "en": "The symbol indicates that one or more of the five subprocesses 4.1.2 to 4.1.6 may be completed after subprocess 4.1.1.",
+    "fr": "Le symbole indique qu'au moins l'un des cinq sous-processus 4.1.2 à 4.1.6 peut être exécuté après le sous-processus 4.1.1."
+  },
+  {
+    "en": "The symbol indicates that both of the decisions that follow (“Update asset record?” and “Journal entry required?”) must be considered.",
+    "fr": "Le symbole indique que les deux décisions qui suivent ( ? et ?) doivent être prises en considération."
+  },
+  {
+    "en": "The symbol indicates that the decision (“Disposal to a third party?”), “End” and Manage Financial Close (Business Process 8.2) must be followed.",
+    "fr": "Le symbole indique que la réponse à la question , la Fin et le processus opérationnel 8.2 de la Gestion de la clôture financière doivent être suivis."
+  },
+  {
+    "en": "The shaded box indicates that Undertake Ongoing Asset Repairs and Maintenance (Subprocess 4.1.3) is outside the scope of the Manage Other Capital Assets business process.",
+    "fr": "La boîte ombragée contient le sous-processus 4.1.3 Effectuer les travaux de réparation et d'entretien, qui ne fait pas partie du processus opérationnel Gestion des autres immobilisations."
+  },
+  {
+    "en": "As illustrated in , Manage Other Capital Assets comprises seven subprocesses (4.1.1 to 4.1.7). These are arranged in three subprocess groups, as follows.",
+    "fr": "Tel qu'il est illustré à la , le processus opérationnel Gestion des autres immobilisations comporte sept sous-processus (4.1.1 à 4.1.7) répartis en trois groupes de sous-processus."
+  },
+  {
+    "en": "is the start of the Manage Other Capital Assets business process, which is launched when an expenditure, excluding real property, is identified as a capital asset. The decision to capitalize is made during Manage Procure to Payment (Business Process 3.1) or during Manage Inventory (Business Process 4.3) when the asset is constructed with items previously held as inventory. An asset can also be acquired through other means for example, a transfer from another government department, a donation, or the exercising of a bargain purchase option. Capitalized assets must be properly valued and recorded, which can be facilitated by the creation or the update of asset records. An asset can be capitalized as a whole asset, a component of a larger asset, an asset under construction, or a betterment to an existing asset. Materiel services or, in certain cases, the responsibility centre manager, is responsible for this subprocess group.",
+    "fr": "La est le début du processus opérationnel Gestion des autres immobilisations qui est lancé lorsqu'une dépense, excluant les biens immobiliers, est définie comme une dépense d'immobilisations. La décision de capitaliser la dépense est prise au cours de la Gestion du cycle de l'approvisionnement au paiement (processus opérationnel 3.1) et Gestion du stock (processus opérationnel 4.3) si le bien est construit à partir d'articles détenus en inventaire. Les immobilisations peuvent aussi être acquises d'une autre manière, par le transfert d'un ministère à l'autre, un don ou l'exercice d'une option d'achat à prix incitatif, par exemple. Les biens capitalisés doivent être évalués et enregistrés correctement, ce qui facilite la création ou la mise à jour de fiches d'immobilisations. Un bien peut être capitalisé comme immobilisation globale, composante d'une immobilisation plus élargie, immobilisation en construction ou amélioration d'une immobilisation existante. Ce sont les Services de gestion du matériel ou, dans certains cas, le gestionnaire du centre de responsabilité, qui est responsable de ce groupe de sous-processus."
+  },
+  {
+    "en": "involves subprocesses that may be performed cyclically to ensure that:",
+    "fr": "La est l'ensemble des sous-processus qui sont exécutés sur une base cyclique pour s'assurer que :"
+  },
+  {
+    "en": "Corporate finance, including the chief financial officer and the corporate finance function, is accountable for the resulting financial reporting and is supported by the responsibility centre manager and materiel services in executing these subprocesses.",
+    "fr": "La fonction ministérielle des finances, y compris le dirigeant principal des finances et l'équipe qui exécute les fonctions des finances ministérielles, sont responsables de l'information financière touchant les immobilisations avec l'appui du gestionnaire du centre de responsabilité et des Services de gestion du matériel dans l'exécution des sous-processus."
+  },
+  {
+    "en": "ends the Manage Other Capital Assets business process and involves the recording of the disposal and the physical removal of assets from the department, when authorized by the responsibility centre manager with the delegated authority. The results of a periodic analysis of assets under construction, a periodic physical asset count, a periodic asset assessment or other circumstance—for example, an asset is found to be damaged, an asset is identified as missing, or the disposal of an asset is required for security reasons—can lead to a notification for disposal of an asset. Materiel services is responsible for the physical disposal of the asset, and financial services is responsible for recording the disposal for financial reporting purposes.",
+    "fr": "met fin au processus opérationnel Gestion des autres immobilisations, et il consiste à enregistrer l'aliénation et l'élimination des biens du ministère après autorisation du gestionnaire du centre de responsabilité ayant les pouvoirs délégués. Les résultats d'une analyse périodique des immobilisations en construction, un décompte périodique, une évaluation périodique ou toute autre situation particulière (par exemple, une immobilisation endommagée, une immobilisation manquante ou l'aliénation d'une immobilisation sont exigés pour des raisons de sécurité) peuvent donner lieu à la notification d'aliénation d'une immobilisation. Les Services de gestion du matériel sont responsables de l'aliénation physique de l'immobilisation, et les services financiers sont responsables d'enregistrer l'aliénation dans le système d'information financière."
+  },
+  {
+    "en": "This guideline was issued on January 15, 2013.",
+    "fr": "La présente ligne directrice a été publiée le 15 janvier 2013."
+  },
+  {
+    "en": "This guideline is part of a set of guidelines designed to assist departments in implementing common financial management business processes. This guideline supports the and the .",
+    "fr": "La présente ligne directrice fait partie d'un ensemble de lignes directrices visant à aider les ministères à mettre en œuvre des processus opérationnels communs en gestion financière en vue de répondre aux objectifs de la et de la ."
+  },
+  {
+    "en": "This guideline presents the “should be” model for Manage Other Capital Assets, describing roles, responsibilities and recommended activities from a financial management perspective. Most activities are financial in nature, but some non-financial activities are included in order to provide a comprehensive process description; these activities are identified as outside the scope of Manage Other Capital Assets. The recommended activities comply with the , other legislation, and Government of Canada policy instruments.",
+    "fr": "On y présente le modèle « souhaité » pour la Gestion des autres immobilisations. Les rôles et les responsabilités ainsi que les activités recommandées y sont décrits du point de vue de la gestion financière. La plupart des activités sont de nature financière, mais des activités non financières y sont aussi présentées en vue de donner une description complète du processus. Ces activités ne sont pas inclues dans la portée de la Gestion des autres immobilisations. Les activités recommandées sont conformes aux exigences de la loi, notamment aux dispositions de la de même qu'aux instruments de politique du gouvernement du Canada."
+  },
+  {
+    "en": "Recognizing that deputy heads are ultimately responsible for all aspects of financial management systems within their department, standardizing and streamlining financial management system configurations, business processes and data across government provides significant direct and indirect benefits relative to the quality of financial management in the Government of Canada. By establishing a common set of rules, standardization reduces the multitude of different systems, business processes and data that undermine the quality and cost of decision-making information. As government-wide standardization increases, efficiency, integrity and interoperability are improved.",
+    "fr": "Sans passer outre la responsabilité de l'administrateur général au regard de tous les aspects des systèmes de gestion financière de son ministère, la normalisation et la simplification des configurations des systèmes de gestion financière, des processus opérationnels et des données dans l'ensemble du gouvernement donnent de grands avantages directs et indirects sur le plan de la gestion financière au gouvernement du Canada. Par l'établissement d'une série de règles communes, la normalisation réduit le nombre de systèmes, de processus opérationnels et de bases de données qui réduisent la qualité et le coût de l'information utilisée dans la prise de décisions. L'élargissement de la normalisation au gouvernement a pour effet d'accroître l'efficacité, l'intégrité et l'interopérabilité de ses systèmes."
+  },
+  {
+    "en": "This guideline defines Manage Other Capital Assets, which begins with the development or acquisition of a capital asset (excluding real property) and ends with its disposal. Capital assets are tangible assets that are purchased, constructed, developed or otherwise acquired. Capital assets include purchased computer software, in-house developed software, computer hardware, equipment, fleet vehicles, operational heritage assets, leasehold improvements, assets acquired by capital leases, and betterments that prolong the period of usefulness or improve the functionality of an asset.",
+    "fr": "La présente ligne directrice définit la Gestion des autres immobilisations, qui commence par le développement ou l'achat d'une immobilisation (excluant les biens immobiliers) et qui se termine par son aliénation. Les immobilisations sont des biens corporels achetés, construits, mis au point ou autrement acquis. Elles comprennent les logiciels achetés, les logiciels maison, le matériel informatique, l'équipement, les parcs automobiles, les biens patrimoniaux exploitables, les améliorations locatives, les biens acquis par location-acquisition ainsi que les améliorations qui prolongent la durée de vie utile d'un actif ou en améliorent le fonctionnement."
+  },
+  {
+    "en": "This business process interacts with Manage Planning and Budgeting (Business Process 1.1) by providing input to the development of the department's investment plan and capital budget, which will drive expenditures for the life-cycle management of assets.",
+    "fr": "Ce processus opérationnel se déroule de concert avec celui de la Gestion de la planification et de la budgétisation (processus opérationnel 1.1) dans la préparation du plan d'investissement et du budget d'immobilisations, qui dicteront les dépenses engagées dans la gestion du cycle de vie des biens."
+  },
+  {
+    "en": "This guideline covers the following subprocess groups:",
+    "fr": "Cette ligne directrice couvre les groupes de sous-processus suivants :"
+  },
+  {
+    "en": "Separate business processes will be developed for the financial management of real property and infrastructure assets (Business Process 4.2) and inventory (Business Process 4.3).",
+    "fr": "D'autres processus opérationnels seront élaborés pour la gestion financière des biens immobiliers et des infrastructures (processus opérationnel 4.2) ainsi que la gestion du stock (processus opérationnel 4.3)."
+  },
+  {
+    "en": "Some financial management activities described in this guideline are also related to internal controls. The intent is neither to provide a complete listing of controls nor to produce a control framework, but the process description may provide useful content for the development of a department's control framework.",
+    "fr": "Certaines activités de gestion financière décrites dans la présente ligne directrice sont également liées aux mesures de contrôle interne. Le présent document a pour objet ni de donner la liste complète des mesures de contrôle ni de produire un cadre de contrôle, mais la description du processus peut servir de contexte pour développer le cadre de contrôle du ministère."
+  },
+  {
+    "en": "The remainder of this guideline is structured as follows. Section 4 provides an overview of the organizational roles that carry out Manage Other Capital Assets. Section 5 presents a detailed description of the Manage Other Capital Assets business process, including subprocess groups, subprocesses, activities and responsible roles. provides definitions of terminology used in the guideline, and relevant abbreviations are listed in . describes the methodology used in the guideline, and elaborates on the roles and responsibilities outlined in Section 4. A model asset count instructions document is included in for information purposes.",
+    "fr": "Le contenu proprement dit de cette ligne directrice est présenté comme suit : La section 4 donne un aperçu des rôles organisationnels qui interviennent dans la Gestion des autres immobilisations. La section 5 donne une description détaillée du processus opérationnel de la Gestion des autres immobilisations qui comprend les groupes de sous-processus, les sous-processus, les activités et les rôles responsables. L' contient la définition des termes utilisés dans la ligne directrice et à l' , les abréviations pertinentes. La méthode utilisée pour préparer la présente ligne directrice est décrite à l' , et les rôles et les responsabilités énoncés à la section 4 sont décrits en plus grands détails à l' . À l' est fourni à titre de renseignement un modèle de document d'instructions sur le décompte."
+  },
+  {
+    "en": "The following references apply to this guideline.",
+    "fr": "Les sources de références suivantes s'appliquent à la présente ligne directrice."
+  },
+  {
+    "en": "depicts the roles involved in the Manage Other Capital Assets business process, grouped by stakeholder category.",
+    "fr": "La illustre les rôles dans le processus opérationnel de la Gestion des autres immobilisations par catégorie d'intervenants."
+  },
+  {
+    "en": "In this guideline, a role is an individual or a group of individuals whose involvement in an activity is described using the Responsible, Accountable, Consulted and Informed ( ) approach. Because of differences among departments, a role may not correspond to a specific position, title or organizational unit. The roles and responsibilities for Manage Other Capital Assets are briefly described in Sections 4.1 to 4.4 and are explained in more detail in .",
+    "fr": "Dans la présente ligne directrice, un rôle renvoie à une personne ou à un groupe de personnes dont l'intervention dans une activité est décrite selon l'analyse (Responsable, Agent comptable, Consulté et Informée). En raison des variantes d'un ministère à un autre, le rôle ne correspondra pas nécessairement à un poste, à un titre ou à une unité organisationnelle en particulier. Les rôles et les responsabilités de la Gestion des autres immobilisations sont décrits brièvement aux sous-sections 4.1 à 4.4 et expliqués en plus grands détails à l' ."
+  },
+  {
+    "en": "The following organizational roles act in support of legislation, such as the and the , and define policy or processes that must be followed.",
+    "fr": "Les rôles organisationnels suivants agissent en appui aux dispositions de la et de la , et ils définissent les politiques et les procédures à suivre."
+  },
+  {
+    "en": "The following organizational roles act in response to financial management policy and process requirements—for example, from the Office of the Comptroller General – Financial Management Sector and from deputy heads.",
+    "fr": "Les rôles organisationnels suivants agissent selon les exigences des processus et des politiques de gestion financière (par exemple, les exigences du Secteur de la gestion financière du Bureau du contrôleur général et des administrateurs généraux)."
+  },
+  {
+    "en": "The following organizational roles act in response to policy and process requirements for the management of real property and materiel, investment planning, project management and procurement across the government. These roles are not financial in nature but are included in order to provide a comprehensive process description.",
+    "fr": "Les rôles organisationnels suivants agissent en réponse aux exigences des politiques et des processus en matière de gestion des biens immobiliers et du matériel, de planification des investissements, de gestion de projet et d'approvisionnement au gouvernement. Ces rôles à caractère non financier sont mentionnés en complément pour donner une description exhaustive du processus."
+  },
+  {
+    "en": "The following organizational role provides a central service to other government departments.",
+    "fr": "Le rôle organisationnel suivant offre un service central aux autres ministères."
+  },
+  {
+    "en": "describes the methodology used in this section.",
+    "fr": "La méthode utilisée dans cette section est décrite à l' ."
+  },
+  {
+    "en": "As illustrated in , the Manage Other Capital Assets Level 2 business process comprises seven subprocesses (4.1.1 to 4.1.7). These are arranged in three subprocess groups: Create or Update Asset Record, Maintain Asset Record and Record Asset Disposal.",
+    "fr": "Comme il est indiqué à la , le niveau 2 de la Gestion des autres immobilisations comporte sept sous-processus (4.1.1 à 4.1.7) qui sont répartis dans trois groupes de sous-processus : Création ou mise à jour d'une fiche d'immobilisations, Tenue de la fiche d'immobilisations et Enregistrement de l'aliénation des immobilisations."
+  },
+  {
+    "en": "The symbol indicates that one or more of the five subprocesses 4.1.2 to 4.1.6 may be completed after subprocess 4.1.1.",
+    "fr": "Le symbole indique qu'au moins l'un des cinq sous-processus 4.1.2 à 4.1.6 peut être exécuté après le sous-processus 4.1.1."
+  },
+  {
+    "en": "The symbol indicates that both of the decisions that follow (“Update asset record?” and “Journal entry required?”) must be considered.",
+    "fr": "Le symbole indique que les deux décisions qui suivent ( ? et ?) doivent être prises en considération."
+  },
+  {
+    "en": "The symbol indicates that the decision (“Disposal to a third party?”), “End” and Manage Financial Close (Business Process 8.2) must be followed.",
+    "fr": "Le symbole indique que la réponse à la question , la Fin et le processus opérationnel 8.2 de la Gestion de la clôture financière doivent être suivis."
+  },
+  {
+    "en": "The shaded box indicates that Undertake Ongoing Asset Repairs and Maintenance (Subprocess 4.1.3) is outside the scope of the Manage Other Capital Assets business process.",
+    "fr": "La boîte ombragée contient le sous-processus 4.1.3 Effectuer les travaux de réparation et d'entretien, qui ne fait pas partie du processus opérationnel Gestion des autres immobilisations."
+  },
+  {
+    "en": "The subprocesses within each subprocess group and the roles and responsibilities relevant to each subprocess are summarized below.",
+    "fr": "Les sous-processus dans chaque groupe de sous-processus ainsi que les rôles et responsabilités au regard de chaque sous-processus sont résumés ci-dessous."
+  },
+  {
+    "en": "One or more of the following subprocesses will repeat cyclically during the life cycle of an asset, based on the asset's state of completeness and status. The corporate finance role, including the chief financial officer and the corporate finance function, is accountable for the resulting financial reporting, and is supported by the responsibility centre manager and materiel services in executing the activities of this subprocess group.",
+    "fr": "Au moins l'un des sous-processus suivants se répétera de manière cyclique durant la durée de vie d'une immobilisation, selon son degré d'avancement ou son état. Le rôle ministériel des finances, notamment le dirigeant principal des finances et la fonction ministérielle des finances, a des comptes à rendre au regard des rapports financiers avec l'appui du gestionnaire du centre de responsabilité et des Services de gestion du matériel dans l'exécution des activités de ce groupe de sous-processus."
+  },
+  {
+    "en": "This subprocess group involves creating and keeping capital asset records up to date. Accurate asset records support decision making through the ongoing measurement of financial performance, physical condition, functionality and use of assets.",
+    "fr": "Ce groupe de sous-processus consiste à créer et à tenir à jour une fiche d'immobilisations. La bonne tenue des fiches d'immobilisations favorise la prise de décisions par l'évaluation continue du rendement financier, de la condition physique, de la fonctionnalité et de l'utilisation des immobilisations."
+  },
+  {
+    "en": "defines capital assets as tangible assets that are purchased, constructed, developed or otherwise acquired and that:",
+    "fr": "Selon la , les immobilisations sont des biens corporels achetés, construits, développés ou autrement acquis et qui remplissent les critères suivants :"
+  },
+  {
+    "en": "also provides additional guidance on elements that department-specific policy and procedures should include:",
+    "fr": "La donne également des directives sur les éléments suivants que devraient couvrir les politiques et les procédures propres à un ministère :"
+  },
+  {
+    "en": "An asset record is created or updated in the departmental financial and materiel management system, generally as a result of the decision to capitalize an asset or its component parts during Manage Procure to Payment (Business Process 3.1) or during Manage Inventory (Business Process 4.3) when the asset is constructed with items previously held as inventory. An asset record may also need to be created or updated when the asset is acquired through other means—for example, a transfer from another government department, a donation, or the exercising of a bargain purchase option. An analysis of assets under construction, a periodic physical asset count, a periodic asset assessment, or the authorization of a disposal may also result in a requirement to create or update the asset record and, possibly, the general ledger. The information accumulated in the asset record supports the monitoring of asset performance and helps ensure that repairs, refurbishing and replacements are carried out before the asset becomes unserviceable, uneconomical or both.",
+    "fr": "Une fiche d'immobilisations est créée ou mise à jour dans le système ministériel de gestion des finances et du matériel, en général à la suite de la décision de capitaliser un actif ou une composante durant les processus opérationnels 3.1 Gestion du cycle de l'approvisionnement au paiement et 4.3 Gestion du stock lorsque l'immobilisation est construite à partir d'éléments détenus en inventaire. Par ailleurs, il peut être nécessaire de créer ou de mettre à jour une fiche d'immobilisations si une immobilisation est acquise par d'autres moyens, par exemple, le transfert d'un ministère du gouvernement fédéral à l'autre, un don ou encore l'exercice d'une option d'achat à prix incitatif. Une analyse des immobilisations en construction, un décompte périodique, une évaluation périodique des actifs ou une autorisation d'aliéner une immobilisation pourra nécessiter la création ou la mise à jour d'une fiche d'immobilisations et possiblement du grand livre général. L'information accumulée dans la fiche d'immobilisations permet de surveiller le rendement des immobilisations et garantit que les réparations, les remises en état et les remplacements sont effectués avant que les immobilisations deviennent inutilisables ou non rentables, ou les deux."
+  },
+  {
+    "en": "depicts the Level 3 subprocess flow for Create or Update Asset Record.",
+    "fr": "Le diagramme d'opérations de niveau 3 du sous-processus Créer ou mettre à jour la fiche d'immobilisations est illustré à la ."
+  },
+  {
+    "en": "Materiel services, or in certain cases, the responsibility centre manager, obtains information about a new or an existing asset ( ). When the information pertains to a new asset—for example, purchase or construction data and asset class), an asset record is created in the departmental financial and materiel management system ( ). When the information pertains to an existing asset—for example, monthly amortization or a betterment—the asset record is updated ( ). In the case of an asset transferred from another department, the historical information in that department's asset record should follow the asset.",
+    "fr": "Les Services de gestion du matériel du ministère ou, dans certains cas, le gestionnaire du centre de responsabilité, obtiennent l'information au sujet d'une immobilisation nouvelle ou existante ( ). Pour obtenir de l'information concernant une nouvelle immobilisation comme les données sur l'achat ou la construction et la catégorie d'immobilisations, une fiche d'immobilisations est créée dans le système ministériel de gestion des finances et du matériel ( ). Pour obtenir de l'information sur une immobilisation existante, par exemple, l'amortissement mensuel ou une amélioration, la fiche d'immobilisations est mise à jour ( ). Pour une immobilisation transférée d'un autre ministère, l'information accumulée à son sujet dans sa fiche d'immobilisations devrait suivre l'immobilisation."
+  },
+  {
+    "en": "The following are examples of events that require an update of the asset record:",
+    "fr": "Voici des exemples de conditions pour lesquelles il faut mettre à jour la fiche d'immobilisations :"
+  },
+  {
+    "en": "The activities within this subprocess ensure that the asset sub-ledger is kept up to date.",
+    "fr": "L'exécution des activités dans ce sous-processus permet de garantir que le grand livre auxiliaire des immobilisations est tenu à jour."
+  },
+  {
+    "en": "Materiel services is accountable for creating the asset record, with input from the responsibility centre manager.",
+    "fr": "Les Services de gestion du matériel sont responsables et comptables de créer la fiche d'immobilisations à partir des données d'entrée fournies par le gestionnaire du centre de responsabilité."
+  },
+  {
+    "en": "provides an overview of roles and responsibilities, using the Responsible, Accountable, Consulted and Informed ( ) approach. These roles and responsibilities are further described in .",
+    "fr": "Un aperçu des rôles et des responsabilités selon l'analyse Responsable, Agent comptable, Consulté et Informé (RACI) est présenté au . Ces rôles et responsabilités sont décrits en plus grands détails à l' ."
+  },
+  {
+    "en": "The related data, roles and responsibilities, and authoritative source are the same for activities 4.1.1.2 – Create Asset Record and 4.1.1.3 – Update Asset Record).",
+    "fr": "Les données connexes, les rôles et les responsabilités et la source faisant autorité sont les mêmes pour les activités 4.1.1.2 – Créer la fiche d'immobilisations et 4.1.1.3 – Mettre à jour la fiche d'immobilisations."
+  },
+  {
+    "en": "4.1.1.2 Create Asset Record",
+    "fr": "4.1.1.2 Créer la fiche d'immobilisations"
+  },
+  {
+    "en": "4.1.1.3 Update Asset Record",
+    "fr": "4.1.1.3 Mettre à jour la fiche d'immobilisations"
+  },
+  {
+    "en": "The subprocess group involves subprocesses that may be performed cyclically to ensure that:",
+    "fr": "Le groupe de sous-processus comporte des activités exécutées sur une base cyclique pour vérifier que :"
+  },
+  {
+    "en": "The subprocesses of the Maintain Asset Record subprocess group should be completed at a frequency and in an order appropriate to the department, taking into account the life cycle of the asset. provides guidance on which subprocesses apply to an asset under construction, a completed asset that is not in service, or a completed asset that is in service. One or more of the subprocesses within this subprocess group will repeat cyclically throughout the life cycle of the asset, according to the asset's state of completion and status.",
+    "fr": "Les sous-processus de la Tenue de la fiche d'immobilisations devraient être exécutés selon la fréquence et l'ordre qui conviennent le mieux au ministère en fonction de la durée de vie utile de l'immobilisation. Le guide l'application des sous-processus selon qu'il s'agit d'une immobilisation en construction, d'une immobilisation hors service ou d'une immobilisation dont la construction est terminée et qui est en service . Au moins l'un des sous-processus de ce groupe sera réalisé et répété sur une base cyclique tout au long de la durée de vie de l'immobilisation selon son degré d'achèvement et son état."
+  },
+  {
+    "en": "and collectively support the deputy head's responsibility for ensuring the appropriate stewardship of assets, specifically, “that the overall extent to which their materiel assets meet program requirements is measured by an ongoing and systematic assessment of the physical condition, functionality, use and financial performance of these assets against established targets based on appropriate benchmarks.”",
+    "fr": "Les sous-processus et appuient l'administrateur général dans sa responsabilité d'assurer une saine gestion des immobilisations, en particulier « ...de s'assurer qu'une mesure de l'ensemble de leurs biens matériels respectant les exigences du programme est effectuée grâce à une évaluation continue et systématique de l'état physique, de la fonctionnalité, de l'utilisation et du rendement financier de ces biens par rapport à des objectifs fixés qui sont basés sur des données repères appropriées »."
+  },
+  {
+    "en": "Departments may wish to develop an integrated, risk-based approach to ensure that a physical asset count and a strategic assessment of the asset base are conducted at a frequency that meets the requirements of departmental capital investment, asset management and financial management.",
+    "fr": "Les ministères voudront élaborer une approche globale fondée sur le risque pour le décompte et l'évaluation stratégique de l'ensemble des actifs à une fréquence qui convient à leurs objectifs au regard de l'investissement en capital, de la gestion des immobilisations et de la gestion des finances."
+  },
+  {
+    "en": "Financial services calculates and records amortization for capital assets that are in service. Amortization is recorded monthly, starting on the first day of the month following the month when the asset came into service.",
+    "fr": "L'amortissement est calculé et enregistré par les services financiers ministériels pour les immobilisations en service. Il est enregistré une fois par mois à compter du premier jour du mois suivant le mois de la mise en service des immobilisations."
+  },
+  {
+    "en": "depicts the Level 3 subprocess flow for Calculate Monthly Amortization.",
+    "fr": "Le diagramme d'opérations de niveau 3 du sous-processus Calculer l'amortissement mensuel est illustré à la ."
+  },
+  {
+    "en": "Amortization is calculated according to department-specific procedures and is based on the class and the estimated service life of the asset ( ). The estimated service life or capacity is linked to the expiration of economic benefits, which can be measured in years, total units of output, or total hours of operating time. The section entitled “Amortization of capital assets” of provides direction on selecting the appropriate amortization method.",
+    "fr": "L'amortissement est calculé selon une méthode choisie par le ministère en fonction de la catégorie et de la durée de vie utile estimative des immobilisations ( ). La durée de vie utile estimative est associée aux avantages économiques estimatifs que peut générer l'immobilisation selon une unité de mesure qui lui convient : nombre d'années, nombre de produits, nombre d'heures de fonctionnement. Des directives sur le choix de la méthode d'amortissement se trouvent à la section intitulée de la ."
+  },
+  {
+    "en": "The calculation is verified to ensure reasonableness relative to, for example, historical calculations or the estimated service life of the asset ( ). A verification of reasonableness may also occur when changes are made to the asset record—for example, the recording of an impairment, a betterment, or a change in useful life or capacity. Although the calculation of amortization may be an automated process in the departmental financial and materiel management system, it still requires verification. When an error is identified, the amortization is corrected ( ).",
+    "fr": "Le calcul du montant de l'amortissement est vérifié ( ) pour déterminer si le montant est raisonnable eu égard aux calculs du passé et à la durée de vie utile estimative (le cas échéant). Cette activité sera exécutée lorsqu'il y a des changements apportés aux fiches d'immobilisations, par exemple, l'enregistrement d'une moins-value, une amélioration ou une modification de la durée de vie utile de la capacité. Même s'il est automatisé dans le système ministériel de gestion des finances et du matériel, le calcul de l'amortissement devra être vérifié. En cas d'erreur, l'amortissement est corrigé ( )."
+  },
+  {
+    "en": "The verified calculation is used to update the accumulated amortization in the asset record during , as well as the accumulated amortization account and the corresponding amortization expense in the general ledger. A journal entry is recorded to update the general ledger . (Further information on preparing the journal entry is available in the .) The process flow then continues to Manage Financial Close (Business Process 8.2).",
+    "fr": "Le montant d'amortissement corrigé vient mettre à jour l'amortissement cumulé dans la fiche d'immobilisations dans le sous-processus (sous-processus 4.1.1) de même que les comptes d'amortissement cumulé et de la charge d'amortissement au grand livre général au moyen d'une écriture de journal Consulter le pour obtenir de plus amples détails sur la préparation de l'écriture de journal. Le processus passe ensuite au processus opérationnel 8.2 Gestion de la clôture financière."
+  },
+  {
+    "en": "Financial services is responsible, and corporate finance is accountable, for calculating and recording the amortization expense. The responsibility centre manager is consulted to confirm the financial coding and the “in service” (or “out-of-service”) date, and materiel services is consulted for any additional details.",
+    "fr": "Les services financiers ministériels sont chargés et la fonction ministérielle des finances est comptable du calcul et de l'enregistrement de la charge d'amortissement, après consultation, le cas échéant, avec le gestionnaire du centre de responsabilité, pour confirmer le code financier et la date de mise en service ou la date de mise hors service ou avec les Services de gestion du matériel pour obtenir tous les autres détails."
+  },
+  {
+    "en": "provides an overview of roles and responsibilities, using the Responsible, Accountable, Consulted and Informed ( ) approach. These roles and responsibilities are further described in .",
+    "fr": "Un aperçu des rôles et des responsabilités selon l'analyse Responsable, Agent comptable, Consulté, Informé (RACI) est présenté au . Ces rôles et responsabilités sont décrits en plus grands détails à l'"
+  },
+  {
+    "en": "The related data, roles and responsibilities, and authoritative source are the same for activities 4.1.2.1 – Calculate Amortization, 4.1.2.2 – Verify Reasonableness of Amortization, and 4.1.2.3 – Make Correction.",
+    "fr": "Les données connexes, les rôles et les responsabilités et les sources faisant autorité sont les mêmes pour les activités 4.1.2.1 Calculer l'amortissement, 4.1.2.2 Vérifier la vraisemblance du montant d'amortissement et 4.1.2.3 Corriger le montant."
+  },
+  {
+    "en": "4.1.2.1 Calculate Amortization",
+    "fr": "4.1.2.1 Calculer l'amortissement"
+  },
+  {
+    "en": "4.1.2.2 Verify Reasonableness of Amortization",
+    "fr": "4.1.2.2 Vérifier la vraisemblance du montant d'amortissement"
+  },
+  {
+    "en": "4.1.2.3 Make Correction",
+    "fr": "4.1.2.3 Corriger le montant"
+  },
+  {
+    "en": "Repairs and maintenance are undertaken to ensure that an asset fully, effectively and efficiently meets the requirements of the organizational program it supports. When economically feasible, an asset is repaired, refinished and reused rather than replaced. The repair and maintenance expenditures are processed during Manage Procure to Payment (Business Process 3.1), using a purchase order, a contract, an acquisition card or a fleet card Because the physical undertaking of repairs and maintenance is strictly a materiel management function, there is no corresponding Level 3 process flow or Responsible, Accountable, Consulted and Informed ( ) table for this subprocess.",
+    "fr": "Les travaux de réparation et d'entretien sont exécutés pour s'assurer que les biens répondent pleinement et de manière efficace et efficiente aux exigences du programme organisationnel. Lorsqu'il est économique de le faire, on répare, remet en état et réutilise un bien au lieu de le remplacer. Les dépenses de réparation et d'entretien sont traitées dans le processus opérationnel Gestion du cycle de l'approvisionnement au paiement (processus opérationnel 3.1) au moyen d'une commande, d'un marché, d'une carte d'achat ou d'une carte de crédit du parc automobile. Comme les travaux d'entretien et de réparation sont du ressort de la gestion du matériel, le diagramme d'opérations de niveau 3 et le tableau (responsable, agent comptable, consulté et informé) de ce sous-processus ne sont pas présentés ici."
+  },
+  {
+    "en": "It is important to determine whether an expenditure covers repairs and maintenance, which are expensed, or betterments, which are capitalized. Repairs and maintenance help maintain the functionality of the asset, whereas betterments are alterations or modernizations that appreciably prolong the usefulness or improve the functionality of the asset or one of its component parts. When the nature of the expenditure cannot be easily determined, the cost should be expensed, in accordance with the accounting principle of conservatism.",
+    "fr": "Il est important de déterminer si les travaux seront capitalisés comme « améliorations » ou passés en charges comme dépenses de réparation et d'entretien. Les améliorations sont des dépenses qui altèrent ou modernisent une immobilisation ou une composante d'immobilisation et qui en prolongent l'utilité de manière non négligeable ou en améliorent le fonctionnement , tandis que les réparations et l'entretien ne font qu'en maintenir le bon fonctionnement. Lorsqu'il est difficile de déterminer les coûts de réparation et les coûts d'amélioration, les coûts devraient être passés en charges suivant le principe comptable de prudence ."
+  },
+  {
+    "en": "To support life-cycle management decision making, the should be consulted when undertaking repairs and maintenance of capital assets. For repairs and maintenance of fleet vehicles, the ; the and the , and , should be consulted. For repairs and maintenance of movable heritage assets, the should be consulted.",
+    "fr": "Pour prendre des décisions au regard de la gestion du cycle de vie, les gestionnaires devraient consulter le avant d'entreprendre des travaux de réparation et d'entretien des immobilisations. Il y aurait lieu de consulter la , la de même que et le . Il y aurait lieu de consulter le pour les biens de cette catégorie."
+  },
+  {
+    "en": "An analysis of assets under construction ( ) is conducted periodically to ensure that asset records have been updated appropriately during construction and that related expenses have been capitalized as required. A physical count of is also recommended and can be completed as part of this subprocess or during or . depicts the Level 3 subprocess flow for Conduct Periodic Analysis of Assets Under Construction.",
+    "fr": "Il faut procéder à une analyse régulière et périodique des immobilisations en construction ( ) pour s'assurer que les fiches d'immobilisations sont mises à jour et que les dépenses connexes sont capitalisées comme il se doit. Il est aussi recommandé de procéder à un décompte des dans le cadre de ce sous-processus ou dans les sous-processus ou . Le diagramme des opérations de niveau 3 du sous-processus Effectuer l'analyse périodique des immobilisations en construction est illustré à la ."
+  },
+  {
+    "en": "Using the asset records in the departmental financial and materiel management system, financial services or materiel services compiles a listing of all ( ). The responsibility centre manager, materiel services or financial services assesses the status of each ( ).",
+    "fr": "À partir des fiches d'immobilisations du système ministériel de gestion des finances et du matériel, les Services de gestion du matériel ou les services financiers préparent la liste des immobilisations en construction ( ) ( ). Le gestionnaire du centre de responsabilité, les Services de gestion du matériel ou les services financiers évaluent l'état de chaque ( )."
+  },
+  {
+    "en": "Previously expensed -related expenditures—for example, salary and professional services—should be accumulated and capitalized in the asset record regularly. In the case of software, section 2 of provides guidance on capitalizing expenditures. The journal entry is recorded in the departmental financial and materiel management system ( ). (Information on preparing the journal entry is available in the .) The process flow then continues to Manage Financial Close (Business Process 8.2).",
+    "fr": "Tous les coûts rattachés à une qui ont été enregistrés comme charges pour les salaires et les services professionnels, par exemple, doivent être accumulés et capitalisés dans les fiches d'immobilisations sur une base régulière. Pour les logiciels, la section 2 de la donne des instructions sur la capitalisation de leurs coûts. L'écriture de journal est enregistrée dans le système ministériel de la gestion des finances et du matériel ( ). (Consultez le pour obtenir plus de détails sur la préparation de l'écriture de journal.) Le processus passe ensuite à la Gestion de la clôture financière (processus opérationnel 8.2)."
+  },
+  {
+    "en": "All -related expenditures need to be accumulated in the asset record and must continue to meet capitalization criteria—that is, the costs are valid and pertain to the , and the total cost reflects the value of the resulting asset. Another consideration is whether the should continue to be a whole asset or should be split into components, as outlined in Sections 18 to 21 of . The analysis will focus on factors such as materiality, service life of the components, and reporting requirements.",
+    "fr": "Toutes les dépenses des doivent être accumulées dans la fiche d'immobilisations et continuer de répondre aux critères de capitalisation, c'est-à-dire que les coûts sont valides et s'appliquent aux et que le coût total est le reflet de la valeur de l'immobilisation qui en résulte. Il faut aussi se demander si l' doit continuer d'être une immobilisation globale ou être divisée en composantes, selon les dispositions 18 à 21 de la . L'analyse focalisera sur les facteurs de l'importance relative, de la durée de vie utile des composantes et des rapports à produire."
+  },
+  {
+    "en": "During the analysis, program management may decide to discontinue the construction of an asset—that is, the asset will be abandoned. This will result in the requirement to record either its disposal or its writeoff by expensing all of the capitalized cost during .",
+    "fr": "Au cours de l'analyse, la direction des programmes pourrait décider d'arrêter la construction d'une immobilisation, c'est-à-dire d'abandonner l' . Il faudra alors enregistrer l'aliénation de l' en passant en charges tous les coûts déjà capitalisés dans le sous-processus ."
+  },
+  {
+    "en": "When the analysis reveals that the asset is impaired, the required journal entry to writedown the asset is recorded in the departmental financial and materiel management system ( ). (Information on preparing the journal entry is available in the .) The process flow then continues to Manage Financial Close (Business Process 8.2).",
+    "fr": "Si l'analyse révèle que l'immobilisation est dépréciée, l'écriture de journal requise pour diminuer la valeur de l'immobilisation est enregistrée dans le système ministériel de gestion des finances et du matériel ( ) (consultez le pour obtenir plus de détails sur la préparation de l'écriture de journal). Le processus passe ensuite à la Gestion de la clôture financière (processus opérationnel 8.2)."
+  },
+  {
+    "en": "When the analysis reveals that the construction of the asset is complete or that the asset is in service, the change-in-status information is summarized ( ) and the asset record is updated during . The corresponding journal entry information is recorded in the departmental financial and materiel management system ( . (Information on preparing the journal entry is available in the .) The process flow then continues to Manage Financial Close (Business Process 8.2).",
+    "fr": "Si l'analyse révèle que la construction de l'immobilisation est terminée ou qu'elle est en service, l'information nécessaire pour modifier l'état est résumée ( ) et la fiche d'immobilisations est mise à jour dans le sous-processus . L'écriture de journal correspondante est enregistrée dans le système ministériel de gestion des finances et du matériel ( . (Consultez le pour obtenir plus de détails sur la préparation de l'écriture de journal). Le processus passe ensuite à la Gestion de la clôture financière (processus opérationnel 8.2)."
+  },
+  {
+    "en": "Although corporate finance is accountable for the activities of this subprocess, it relies on the responsibility centre manager to provide accurate information to conduct the analysis. Either financial services or materiel services may be responsible for conducting the analysis on behalf of corporate finance. Financial services is responsible and accountable for recording the required journal entries.",
+    "fr": "La Fonction ministérielle des finances est comptable des activités de ce sous-processus, mais elle compte sur le gestionnaire du centre de responsabilité pour fournir des renseignements exacts et effectuer l'analyse. Les Services financiers ou les Services de gestion du matériel seront chargés de l'exécution de l'analyse au nom de la Fonction ministérielle des finances. Les Services financiers sont responsables d'enregistrer les écritures de journal requises."
+  },
+  {
+    "en": "provides an overview of roles and responsibilities, using the Responsible, Accountable, Consulted and Informed ( ) approach. These roles and responsibilities are further described in .",
+    "fr": "Un aperçu des rôles et responsabilités selon l'analyse RACI : Responsable, Agent comptable, Consulté, Informé est présenté au . Ces rôles et responsabilités sont décrits en plus grands détails à l' ."
+  },
+  {
+    "en": "A physical asset count is conducted periodically to confirm the existence of assets and to ensure that the asset records in the departmental financial and materiel management system are accurate. A periodic physical asset count supports the deputy head's responsibility for ensuring that the organization conducts an ongoing and systematic assessment of the physical condition, functionality, use and financial performance of the organization's assets.",
+    "fr": "On effectue un décompte physique à une fréquence périodique en vue de confirmer l'existence des immobilisations et de vérifier l'exactitude des fiches d'immobilisations dans le système ministériel de gestion des finances et du matériel. Ces activités appuient l'administrateur général qui est responsable de s'assurer que l'organisation effectue une évaluation continue et systématique de la condition physique, du fonctionnement, de l'utilisation et du rendement financier de ses immobilisations."
+  },
+  {
+    "en": "depicts the Level 3 subprocess flow for Conduct Periodic Physical Asset Count.",
+    "fr": "Le diagramme d'opérations de niveau 3 du sous-processus Effectuer le décompte périodique des immobilisations est illustré à la ."
+  },
+  {
+    "en": "Using the asset records in the departmental financial and materiel management system, materiel services compiles a listing of assets subject to review and grouped, for example, by class, category or responsibility centre ( ). In accordance with the asset count instructions, materiel services, in consultation with the responsibility centre manager, conducts the count by physically verifying the existence and the location of the assets ( ). The responsibility centre manager (the asset custodian) should not be responsible for confirming the existence of assets. provides an outline of a model asset count instructions document.",
+    "fr": "À partir des fiches d'immobilisations du Système ministériel de gestion des finances et du matériel, la Fonction ministérielle des finances dresse la liste des immobilisations regroupées, par exemple, par type, catégorie ou centre de responsabilité ( ). Suivant les instructions sur le décompte des immobilisations, les Services de gestion du matériel du ministère, en consultation avec le gestionnaire du centre de responsabilité, effectuent le décompte des immobilisations en vérifiant l'existence matérielle et l'emplacement des immobilisations de la liste ( ). Le gestionnaire du centre de responsabilité ne devrait pas être le rôle qui réalise l'activité de confirmer l'existence des immobilisations. (Consultez le modèle d'instructions sur le décompte des immobilisations à l' )."
+  },
+  {
+    "en": "Materiel services then compares the results of the physical count with the asset listing in the departmental financial and materiel management system in order to reconcile the physical assets with their records and to identify any differences ( ). The asset count results also provide information to support .",
+    "fr": "Les Services de gestion du matériel comparent ensuite les résultats du décompte à la liste des immobilisations dans le système ministériel de gestion des finances et du matériel et relèvent les divergences ( ). Les résultats du décompte donnent aussi de l'information qui appuie le sous-processus ."
+  },
+  {
+    "en": "Materiel services validates whether any differences between the asset records in the departmental and materiel management system and the physical asset count are discrepancies requiring further action ( ). When the analysis reveals, for example, a change of asset custodian or a change of asset location, the relevant asset information is summarized ( ) and the asset record is updated during . When the analysis indicates that an asset in the listing is no longer held by the organization, asset disposal information is prepared ( ) and reviewed during .",
+    "fr": "Les Services de gestion du matériel vérifient si les différences entre les fiches d'immobilisations dans le Système ministériel de gestion des finances et du matériel et les résultats du décompte nécessitent une intervention ( ). Si l'analyse révèle, par exemple, qu'une immobilisation a changé d'emplacement ou a été confiée à la garde d'un autre gestionnaire, l'information requise pour mettre les fiches d'immobilisations à jour est alors résumée ( ) et saisie dans le sous-processus . Si l'analyse démontre que l'immobilisation portée à la liste n'est plus détenue par l'organisation, l'information nécessaire à l'aliénation de l'immobilisation est préparée ( ) et examinée au cours du sous-processus ."
+  },
+  {
+    "en": "Materiel services conducts the analysis but relies on the responsibility centre manager to provide accurate information. Materiel services communicates the results to corporate finance, the role accountable for the activities of this subprocess.",
+    "fr": "Les Services de gestion du matériel effectuent l'analyse mais comptent sur le gestionnaire du centre de responsabilité pour leur fournir des renseignements exacts. Ils communiquent les résultats de leur analyse à la Fonction ministérielle des finances, qui est comptable des activités de ce sous-processus."
+  },
+  {
+    "en": "provides an overview of roles and responsibilities, using the Responsible, Accountable, Consulted and Informed ( ) approach. These roles and responsibilities are further described in .",
+    "fr": "Un aperçu des rôles et responsabilités selon l'analyse RACI : Responsable, Agent comptable, Consulté, Informé est présenté au . Ces rôles et responsabilités sont décrits en plus grands détails à l' ."
+  },
+  {
+    "en": "An asset assessment is a strategic or an operational review of part or all of the organization's asset base. It measures the extent to which the asset base continues to meets the organization's needs and validates the reasonableness of the value recorded in the departmental financial and materiel management system. This subprocess supports the deputy head's responsibility for ensuring that the organization conducts an ongoing and systematic assessment of the physical condition, functionality, use and financial performance of its assets. The assessment may be conducted periodically or for a specific event—for example, the review of a departmental program.",
+    "fr": "L'évaluation des immobilisations est un examen stratégique ou opérationnel d'une partie ou de la totalité des immobilisations d'une organisation. Elle sert à établir dans quelle mesure les immobilisations continuent de répondre aux besoins de l'organisation et à valider la vraisemblence de la valeur enregistrée dans le système ministériel de gestion des finances et du matériel. Ce sous-processus appuie l'administrateur général dans sa responsabilité de voir à ce que l'organisation effectue une évaluation continue et systématique de la condition matérielle, de la fonctionnalité, de l'utilisation et du rendement financier de ses immobilisations. L'évaluation peut être effectuée sur une base périodique ou à l'occasion d'une activité particulière, par exemple, l'examen d'un programme ministériel."
+  },
+  {
+    "en": "The assessment results provide important input to Manage Planning and Budgeting (Business Process 1.1), which identifies and prioritizes capital asset life-cycle requirements and the related budget. The frequency of the periodic asset assessment may be aligned with departmental investment planning to ensure that asset life-cycle planning is appropriately integrated with the overall departmental planning cycle. depicts the Level 3 subprocess flow for Conduct Periodic Asset Assessment.",
+    "fr": "Les résultats de l'évaluation alimentent le processus opérationnel 1.1 Gestion de la planification et de la budgétisation au cours duquel les besoins selon le cycle de vie des immobilisations et les budgets connexes sont définis et établis en ordre de priorités. L'évaluation périodique peut se faire au moment de la planification des investissements du ministère de sorte que la planification du cycle de vie des immobilisations soit intégrée de manière appropriée au cycle de planification générale du ministère. Le diagramme d'opérations de niveau 3 du sous-processus Procéder à l'évaluation périodique des immobilisations est illustré à la ."
+  },
+  {
+    "en": "Using the asset records in the departmental financial and materiel management system, materiel services or corporate finance compiles a listing of assets subject to review and grouped, for example, by class, category or responsibility centre ( ). Assisted by corporate finance and in consultation with the responsibility centre managers, materiel services conducts the assessment to ensure that the asset base continues to support organizational priorities ( ). The assessment should also consider the full life-cycle costs and the benefits of the assets in meeting organizational program needs.",
+    "fr": "À partir des fiches d'immobilisations du système ministériel de gestion des finances et du matériel, la fonction ministérielle des finances ou les Services de gestion du matériel dressent la liste des immobilisations regroupées, par exemple, par type, catégorie ou centre de responsabilité ( ). Les Services de gestion du matériel du ministère, en consultation avec le gestionnaire du centre de responsabilité et avec l'aide de la fonction ministérielle des finances, procèdent à l'évaluation en vue de s'assurer que les immobilisations soutiennent toujours les priorités de l'organisation ( ). L'évaluation doit prendre en compte les coûts totaux du cycle de vie et les avantages à retirer des immobilisations lorsqu'il s'agit de répondre aux besoins des programmes organisationnels ."
+  },
+  {
+    "en": "The following questions may be considered when conducting the assessment:",
+    "fr": "Voici quelques questions à se poser au cours de l'évaluation :"
+  },
+  {
+    "en": "The assessment findings are an important input to the departmental investment plan produced during Manage Planning and Budgeting (Business Process 1.1). Consequently, the responsibility centre manager, materiel services and corporate finance must validate the findings to determine whether any further action is required ( ). When the assessment indicates that changes to the asset record are required, the relevant information is summarized ( ) and the asset record is updated during",
+    "fr": "Les constatations de l'évaluation viendront alimenter le plan d'investissement du ministère produit au cours de la Gestion de la planification et de la budgétisation (processus opérationnel 1.1). Par conséquent, le gestionnaire du centre de responsabilité, les Services de gestion du matériel et la Fonction ministérielle des finances doivent valider les constatations pour déterminer s'il y a lieu de prendre des mesures ( ). Si l'évaluation indique qu'il faut modifier la fiche d'immobilisations, l'information pertinente sera résumée ( ), et la fiche d'immobilisations sera mise à jour durant le sous-processus ."
+  },
+  {
+    "en": "When the assessment reveals that an asset is impaired (that is, its future economic benefit has been permanently reduced relative to its value listed in the asset record), the impairment information is summarized ( ). (Sections 14 to 17 of the provide further information on the valuation of capital assets.) The impairment information is used to produce the journal entry required to record the decrease in the asset’s book value to current net realizable value in the general ledger. (The provides further information on preparing the required journal entry.) The journal entry is recorded ), to update the general ledger. The process flow then continues to Manage Financial Close (Business Process 8.2).",
+    "fr": "Si l'évaluation révèle qu'une immobilisation a subi une baisse de valeur (les avantages économiques à en retirer étant réduits de manière permanente relativement à leur valeur inscrite dans la fiche d'immobilisations), l'information sur la dépréciation est résumée ( ). (Consultez les sections 14 à 17 de la pour obtenir plus d'explications au sujet de la valeur des immobilisations.) L'information étaye l'écriture de journal qui servira à enregistrer la baisse de la valeur comptable de l'immobilisation et à l'amener à la valeur de réalisation nette dans le grand livre général. (Consultez le pour obtenir plus d'explications sur l'information requise). L'écriture visant à mettre le grand livre général à jour sera enregistrée ( ). Le processus passe ensuite à la Gestion de la clôture financière (processus opérationnel 8.2)."
+  },
+  {
+    "en": "When, because of changes in strategic planning, management determines that an asset or a group of assets will no longer be used, asset disposal information is prepared ( ) and reviewed during .",
+    "fr": "Si, en raison de changements dans la planification stratégique, la direction décide qu'une immobilisation ou qu'un groupe d'immobilisations ne sera plus utilisé, l'information nécessaire au sujet de l'aliénation proposée sera préparée ( ) et examinée dans le sous-processus ."
+  },
+  {
+    "en": "Financial services is responsible and accountable for recording the required journal entries. Corporate finance is accountable for all other activities within this subprocess. In certain cases, corporate finance and materiel services, in consultation with the responsibility manager, may be jointly responsible for conducting the asset assessment.",
+    "fr": "Les services financiers sont responsables et comptables d'enregistrer les écritures de journal. La fonction ministérielle des finances est comptable des autres activités de ce sous-processus. Dans certains cas, la Fonction ministérielle des finances et les Services de gestion du matériel, en consultation avec le gestionnaire du centre de responsabilité, seront conjointement chargés de l'évaluation des immobilisations."
+  },
+  {
+    "en": "provides an overview of roles and responsibilities, using the Responsible, Accountable, Consulted and Informed ( ) approach. These roles and responsibilities are further described in .",
+    "fr": "Un aperçu des rôles et responsabilités selon l'analyse RACI : Responsable, Agent comptable, Consulté, Informé est présenté au . Ces rôles et responsabilités sont décrits en plus grands détails à l' ."
+  },
+  {
+    "en": "This subprocess group describes the activities to be followed when disposing of an asset. The results of a periodic analysis of assets under construction, a periodic physical asset count, a periodic asset assessment or other circumstance—for example, an asset is found to be damaged; an asset has been identified as missing; or an asset disposal is required for security reasons—can lead to a notification for disposal of an asset. The disposal of the asset ends the Manage Other Capital Assets business process.",
+    "fr": "Ce groupe de sous-processus comprend les activités liées à l'aliénation d'une immobilisation. L'analyse périodique des immobilisations en construction, un décompte périodique, une évaluation périodique ou toute autre situation particulière (p. ex., une immobilisation endommagée, une immobilisation manquante ou une aliénation exigée pour des raisons de sécurité) peut donner lieu à une notification d'aliénation d'une immobilisation. L'aliénation met fin au processus opérationnel Gestion des autres immobilisations."
+  },
+  {
+    "en": "This subprocess involves activities to ensure that assets are formally removed from the department when authorized by the responsibility manager with the delegated authority. Materiel services is responsible for the physical disposal of an asset, and corporate services is responsible for recording the disposal for financial reporting purposes once the physical disposal of the asset is complete. depicts the Level 3 subprocess flow for Process Asset Disposal.",
+    "fr": "Ce sous-processus comporte des activités visant à retirer de manière officielle des immobilisations du ministère suivant l'autorisation du gestionnaire du centre de responsabilité ayant le pouvoir à cet effet. Les Services de gestion du matériel sont responsables de voir à l'aliénation physique d'une immobilisation et la fonction ministérielle des finances, d'enregistrer l'aliénation dans le système d'information financière une fois les activités d'aliénation terminées. Le diagramme d'opérations de niveau 3 du sous-processus Traiter l'aliénation de l'immobilisation est illustré à la ."
+  },
+  {
+    "en": "The asset's disposal is authorized by the responsibility centre manager with the delegated authority ( ). Departments must have a delegation instrument that clearly sets out departmental authorities and accountabilities for the disposal of surplus, movable materiel assets. If a disposal results from the loss or the theft of a capital asset, the should be consulted to ensure that the appropriate procedures are followed when reporting and recording the loss.",
+    "fr": "L'aliénation d'une immobilisation est autorisée par le gestionnaire du centre de responsabilité ayant le pouvoir délégué ( ). Les ministères doivent avoir un instrument de délégation des pouvoirs dans lequel sont énoncés clairement les pouvoirs et les responsabilités en ce qui a trait à l'aliénation des biens meubles en surplus . Si l'aliénation est le résultat de la perte ou du vol d'une immobilisation, la devrait être consultée pour s'assurer de bien appliquer les procédures à suivre pour communiquer et enregistrer la perte."
+  },
+  {
+    "en": "After the disposal is authorized, the asset's status is updated to “not in service” ( “ ”) in order to terminate the amortization of the asset.",
+    "fr": "Une fois que l'aliénation est autorisée, l'immobilisation passe à l'état « mise hors service » ( ) afin de mettre fin à l'amortissement."
+  },
+  {
+    "en": "Materiel services selects the disposal method that ensures best value to the Crown, in compliance with the Disposal methods include selling to an external party, transferring to another government department, making a donation, recycling or destroying the asset. Under the directive, whenever practicable, departments must make surplus materiel assets available, whether gratuitously, at book value or at market value, to other federal departments, before disposing of them outside the federal domain. The directive also outlines disposal methods for certain types of assets—for example, right of first refusal of all surplus personal computers must be given to the Industry Canada Computers for Schools Program. These various methods, which may require approval, lead to the physical removal of the asset from the department's premises ( ).",
+    "fr": "Les Services de gestion du matériel choisissent la méthode d'aliénation de l'immobilisation de manière à en retirer la meilleure valeur possible pour la Couronne en conformité avec la . Parmi les méthodes d'aliénation possibles, mentionnons la vente à un tiers, le transfert à un autre ministère, le don, le recyclage ou la destruction. Lorsqu'il est pratique de le faire, avant d'éliminer le matériel de l'administration fédérale, les ministères doivent mettre le matériel en surplus à la disposition des autres ministères ou organismes gratuitement, à la valeur comptable ou à la valeur marchande . La directive énonce aussi les méthodes pour certains types de biens, par exemple, les ordinateurs personnels doivent être offerts dans un premier temps à Industrie Canada pour son programme des ordinateurs pour les écoles. Ces diverses méthodes aboutissent à la sortie des immobilisations hors des lieux ( )."
+  },
+  {
+    "en": "Once the asset has been physically disposed of, the information resulting from the disposal—for example, the disposal date and, in the case of a sale, the proceeds from the sale—is used to record the disposal in the departmental financial and materiel management system. This involves the following activities:",
+    "fr": "L'information au sujet de l'aliénation, par exemple, la date de l'aliénation et pour une vente, le produit obtenu, sert à enregistrer l'aliénation dans le système ministériel de gestion des finances et du matériel, en deux temps :"
+  },
+  {
+    "en": "The process flow then continues to Manage Financial Close (Business Process 8.2).",
+    "fr": "Le processus passe ensuite à la Gestion de la clôture financière (processus opérationnel 8.2)."
+  },
+  {
+    "en": "When the asset sub-ledger and the general ledger are integrated in the departmental financial and materiel management system, these two steps are typically combined; recording the disposal in the sub-ledger automatically generates the corresponding journal entry.",
+    "fr": "Dans les systèmes ministériels de gestion des finances et du matériel qui intègrent le grand livre auxiliaire des immobilisations et le grand livre général, ces deux étapes sont combinées : l'enregistrement de l'aliénation dans le grand livre auxiliaire générera automatiquement l'écriture de journal correspondante."
+  },
+  {
+    "en": "The collection of proceeds from the sale of an asset to an external party outside the federal domain is managed through Manage Revenue, Receivables and Receipts (Business Process 2.1).",
+    "fr": "La perception du produit reçu en contrepartie de la vente d'une immobilisation à un tiers étranger à l'administration fédérale est gérée dans le processus opérationnel de la Gestion des revenus, créances et recettes (processus opérationnel 2.1)."
+  },
+  {
+    "en": "When assets are transferred to other government departments and the transfer involves an exchange of funds, the department's designated program analyst at the Treasury Board Secretariat should be contacted. The Secretariat will help the department to select the appropriate Expenditure Management System mechanism to access these funds. Materiel services should ensure that the historical information in that department's asset record is transferred with the physical asset, to ensure continuity of management by the new custodian.",
+    "fr": "L'analyste de programme du Secrétariat du Conseil du Trésor du Canada devrait toujours être contacté lorsqu'une immobilisation est transférée à un autre ministère moyennant une transaction monétaire. Ce dernier aidera le ministère concerné à choisir le mécanisme du Système de gestion des dépenses pour accéder aux fonds. Les Services de gestion du matériel devraient s'assurer que les renseignements accumulés dans la fiche d'immobilisations du ministère sont transférés avec l'immobilisation pour que le nouveau gardien poursuive la gestion du cycle de vie de l'immobilisation."
+  },
+  {
+    "en": "The disposal of the asset ends the Manage Other Capital Assets business process.",
+    "fr": "L'aliénation met fin au processus opérationnel Gestion des autres immobilisations."
+  },
+  {
+    "en": "The responsibility centre manager is responsible and accountable for obtaining authorization for the disposal of an asset from the responsibility centre manager with the delegated authority. Materiel services is responsible for the physical disposal of the asset, and financial services is responsible for recording the disposal in the departmental financial and materiel management system.",
+    "fr": "Le gestionnaire du centre de responsabilité est responsable et comptable d'obtenir l'autorisation d'aliéner une immobilisation du gestionnaire du centre de responsabilité ayant le pouvoir délégué. Les Services de gestion du matériel du ministère sont responsables de l'aliénation proprement dite de l'immobilisation, tandis que les Services financiers sont responsables d'enregistrer l'aliénation dans le système ministériel de gestion des finances et du matériel."
+  },
+  {
+    "en": "provides an overview of roles and responsibilities, using the Responsible, Accountable, Consulted and Informed ( ) approach. These roles and responsibilities are further described in .",
+    "fr": "Un aperçu des rôles et responsabilités selon l'analyse RACI : Responsable, Agent comptable, Consulté, Informé est présenté au . Ces rôles et responsabilités sont décrits en plus grands détails à l' ."
+  },
+  {
+    "en": "The figure is a process flow diagram comprising subprocesses, connectors, inputs, outputs, gateways and decisions. The subprocesses are grouped into subprocess groups.",
+    "fr": "Cette figure montre le diagramme d’opérations comprenant les sous-processus, les connecteurs, les intrants, les extrants, les passerelles et les points de décision. Les sous-processus sont répartis en trois groupes."
+  },
+  {
+    "en": "This diagram depicts the Level 2 process flow for Business Process 4.1 – Manage Other Capital Assets. Manage Other Capital Assets starts with connectors from two other business processes: Business Process 3.1 – Manage Procure to Payment and Business Process 4.3 – Manage Inventory. Business processes 3.1 and 4.3 both flow to Subprocess 4.1.1 – Create or Update Asset Record, the sole subprocess within the Create or Update Asset Record Subprocess Group.",
+    "fr": "Ce diagramme illustre le modèle d’opérations de niveau 2 du processus opérationnel 4.1 – Gestion des autres immobilisations. Ce processus débute à partir des connecteurs des processus opérationnels 3.1 – Gestion du cycle de l’approvisionnement au paiement et 4.3 – Gestion du stock. Ces deux processus opérationnels 3.1 et 4.3 mènent au sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation, le seul sous-processus du groupe de sous-processus de la Création ou mise à jour d’une fiche d’immobilisation."
+  },
+  {
+    "en": "The flow continues to the Maintain Asset Record Subprocess Group, which comprises the following five subprocesses:",
+    "fr": "Les opérations se poursuivent dans le groupe de sous-processus de la Tenue de la fiche d’immobilisation, formé des cinq sous-processus que voici :"
+  },
+  {
+    "en": "One or more of these five subprocesses can be completed concurrently and in any order. Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance is identified as outside the scope of the Manage Other Capital Assets business process. Subprocess 4.1.6 – Conduct Periodic Asset Assessment connects to Business Process – 1.1 Manage Planning and Budgeting.",
+    "fr": "Les cinq sous-processus peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre. Le sous-processus 4.1.3 Effectuer les travaux de réparations et d’entretien est exclu de la portée du processus opérationnel de la Gestion des autres immobilisations. Le sous-processus 4.1.6 Procéder à l’évaluation périodique des immobilisations se connecte au processus opérationnel 1.1 Gestion de la planification et de la budgétisation."
+  },
+  {
+    "en": "The flow continues to two decisions to be answered concurrently and in any order. The first decision is titled “Update asset record?” The YES flow for “Update asset record?” returns to Subprocess 4.1.1 – Create or Update Asset Record. The second decision is titled “Journal entry recorded?” The YES flow for “Journal entry recorded?” continues to a connector for Business Process 8.2 – Manage Financial Close. The NO flows for “Update asset record?” and “Journal entry recorded? advance to another decision titled “Disposal required?” The NO flow for “Disposal required?” returns to the following five subprocesses that make up the Maintain Asset Record subprocess group:",
+    "fr": "Le chemin se poursuit jusqu’aux deux décisions à prendre en même temps et dans n’importe quel ordre. La première décision découle de la question « Mettre à jour la fiche d’immobilisation? ». Le chemin du OUI à cette question renvoie au sous-processus 4.1.1 Créer ou mettre à jour la fiche d’immobilisation. La deuxième décision découle de la question « Écriture de journal requise? ». Le chemin du OUI à cette question mène au connecteur du processus opérationnel 8.2 Gestion de la clôture financière. Le chemin du NON aux questions « Mettre à jour la fiche d’immobilisation? » et « Écriture de journal requise? » mène à la décision découlant de la question « Aliénation? ». Le chemin du NON à cette question renvoie aux cinq sous-processus du groupe de sous-processus de la tenue de la fiche d’immobilisation que voici :"
+  },
+  {
+    "en": "One or more of these five subprocesses can be completed concurrently and in any order.",
+    "fr": "Ces cinq sous-processus peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "The YES flow for “Disposal required?” advances to Subprocess 4.1.7 – Process Asset Disposal, the sole subprocess in the Record Asset Disposal Subprocess Group. The flow continues to a gateway showing the following mandatory flow: the decision titled “Disposal to a third party?,” the “End” of Business Process 4.1 – Manage Other Capital Assets and a connector for Business Process 8.2 – Manage Financial Close. The YES flow for “Disposal to a third party?” connects to Business Process 2.1 – Manage Revenue, Receivables and Receipts; the NO flow for “Disposal to a third party?” continues to the “End” of Business Process 4.1 – Manage Other Capital Assets.",
+    "fr": "Le chemin du OUI à la question « Aliénation? » conduit au sous-processus 4.1.7 – Traiter l’aliénation de l’immobilisation, le seul sous-processus du groupe de sous-processus de l’enregistrement de l’aliénation de l’immobilisation. Les opérations se poursuivent jusqu’à la passerelle introduisant le chemin obligatoire suivant : la décision « Cession à une tierce partie? », « Fin » du processus opérationnel 4.1 – Gestion des autres immobilisations et le connecteur du processus opérationnel 8.2 Gestion de la clôture financière. Le chemin du OUI à la question « Cession à une tierce partie? » aboutit au connecteur du processus opérationnel 2.1 – Gestion des revenus, créances et recettes; le chemin du NON à cette question mène à la « fin » du processus opérationnel 4.1 – Gestion des autres immobilisations."
+  },
+  {
+    "en": "This diagram depicts the organizational roles involved in the Manage Other Capital Assets. These roles are grouped into four categories, as follows:",
+    "fr": "Ce diagramme illustre l’ensemble des rôles organisationnels intervenant dans la Gestion des autres immobilisations. Ces rôles sont groupés en quatre catégories :"
+  },
+  {
+    "en": "The Requirements Framework category has three organizational roles, as follows:",
+    "fr": "Le cadre des exigences regroupe les trois rôles suivants :"
+  },
+  {
+    "en": "The Financial Management category has two organizational roles, as follows:",
+    "fr": "La Gestion financière regroupe les deux rôles suivants :"
+  },
+  {
+    "en": "The Materiel Management category has two organizational roles, as follows:",
+    "fr": "La Gestion du matériel regroupe les deux rôles suivants :"
+  },
+  {
+    "en": "The Central Services category has one organizational role, as follows:",
+    "fr": "Le groupe des Services centraux comporte le rôle suivant :"
+  },
+  {
+    "en": "The figure is a process flow diagram comprising subprocesses, connectors, inputs, outputs, gateways and decisions. The subprocesses are grouped into subprocess groups.",
+    "fr": "Cette figure montre le diagramme d’opérations comprenant les sous-processus, les connecteurs, les intrants, les extrants, les passerelles et les points de décision. Les sous-processus sont répartis en trois groupes."
+  },
+  {
+    "en": "This diagram depicts the Level 2 process flow for Business Process 4.1 – Manage Other Capital Assets. Manage Other Capital Assets starts with connectors from two other business processes: Business Process 3.1 – Manage Procure to Payment and Business Process 4.3 – Manage Inventory. Business processes 3.1 and 4.3 both flow to Subprocess 4.1.1 – Create or Update Asset Record, the sole subprocess within the Create or Update Asset Record Subprocess Group.",
+    "fr": "Ce diagramme illustre le modèle d’opérations de niveau 2 du processus opérationnel 4.1 – Gestion des autres immobilisations. Ce processus débute à partir des connecteurs des processus opérationnels 3.1 – Gestion du cycle de l’approvisionnement au paiement et 4.3 – Gestion du stock. Ces deux processus opérationnels 3.1 et 4.3 mènent au sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation, le seul sous-processus du groupe de sous-processus de la Création ou mise à jour d’une fiche d’immobilisation."
+  },
+  {
+    "en": "The flow continues to the Maintain Asset Record Subprocess Group, which comprises the following five subprocesses:",
+    "fr": "Les opérations se poursuivent dans le groupe de sous-processus de la Tenue de la fiche d’immobilisation, formé des cinq sous-processus que voici :"
+  },
+  {
+    "en": "One or more of these five subprocesses can be completed concurrently and in any order. Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance is identified as outside the scope of the Manage Other Capital Assets business process. Subprocess 4.1.6 – Conduct Periodic Asset Assessment connects to Business Process – 1.1 Manage Planning and Budgeting.",
+    "fr": "Les cinq sous-processus peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre. Le sous-processus 4.1.3 Effectuer les travaux de réparations et d’entretien est exclu de la portée du processus opérationnel de la Gestion des autres immobilisations. Le sous-processus 4.1.6 Procéder à l’évaluation périodique des immobilisations se connecte au processus opérationnel 1.1 Gestion de la planification et de la budgétisation."
+  },
+  {
+    "en": "The flow continues to two decisions to be answered concurrently and in any order. The first decision is titled “Update asset record?” The YES flow for “Update asset record?” returns to Subprocess 4.1.1 – Create or Update Asset Record. The second decision is titled “Journal entry recorded?” The YES flow for “Journal entry recorded?” continues to a connector for Business Process 8.2 – Manage Financial Close. The NO flows for “Update asset record?” and “Journal entry recorded? advance to another decision titled “Disposal required?” The NO flow for “Disposal required?” returns to the following five subprocesses that make up the Maintain Asset Record subprocess group:",
+    "fr": "Le chemin se poursuit jusqu’aux deux décisions à prendre en même temps et dans n’importe quel ordre. La première décision découle de la question « Mettre à jour la fiche d’immobilisation? ». Le chemin du OUI à cette question renvoie au sous-processus 4.1.1 Créer ou mettre à jour la fiche d’immobilisation. La deuxième décision découle de la question « Écriture de journal requise? ». Le chemin du OUI à cette question mène au connecteur du processus opérationnel 8.2 Gestion de la clôture financière. Le chemin du NON aux questions « Mettre à jour la fiche d’immobilisation? » et « Écriture de journal requise? » mène à la décision découlant de la question « Aliénation? ». Le chemin du NON à cette question renvoie aux cinq sous-processus du groupe de sous-processus de la tenue de la fiche d’immobilisation que voici :"
+  },
+  {
+    "en": "One or more of these five subprocesses can be completed concurrently and in any order.",
+    "fr": "Ces cinq sous-processus peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "The YES flow for “Disposal required?” advances to Subprocess 4.1.7 – Process Asset Disposal, the sole subprocess in the Record Asset Disposal Subprocess Group. The flow continues to a gateway showing the following mandatory flow: the decision titled “Disposal to a third party?,” the “End” of Business Process 4.1 – Manage Other Capital Assets and a connector for Business Process 8.2 – Manage Financial Close. The YES flow for “Disposal to a third party?” connects to Business Process 2.1 – Manage Revenue, Receivables and Receipts; the NO flow for “Disposal to a third party?” continues to the “End” of Business Process 4.1 – Manage Other Capital Assets.",
+    "fr": "Le chemin du OUI à la question « Aliénation? » conduit au sous-processus 4.1.7 – Traiter l’aliénation de l’immobilisation, le seul sous-processus du groupe de sous-processus de l’enregistrement de l’aliénation de l’immobilisation. Les opérations se poursuivent jusqu’à la passerelle introduisant le chemin obligatoire suivant : la décision « Cession à une tierce partie? », « Fin » du processus opérationnel 4.1 – Gestion des autres immobilisations et le connecteur du processus opérationnel 8.2 Gestion de la clôture financière. Le chemin du OUI à la question « Cession à une tierce partie? » aboutit au connecteur du processus opérationnel 2.1 – Gestion des revenus, créances et recettes; le chemin du NON à cette question mène à la « fin » du processus opérationnel 4.1 – Gestion des autres immobilisations."
+  },
+  {
+    "en": "The figure is a process flow diagram comprising activities, connectors, inputs, outputs, gateways and decisions.",
+    "fr": "Cette figure est un diagramme d’opérations comprenant des activités, des connecteurs, des intrants, des extrants, des passerelles et des points de décision."
+  },
+  {
+    "en": "This diagram depicts the Level 3 process flow for Subprocess 4.1.1 – Create or Update Asset Record. Subprocess 4.1.1 – Create or Update Asset Record begins with connectors from Business Process 3.1 – Manage Procure to Payment and Business Process 4.3 – Manage Inventory.",
+    "fr": "Ce diagramme illustre les opérations de niveau 3 du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation. Le sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation part des connecteurs des processus opérationnels 3.1 – Gestion du cycle de l’approvisionnement au paiement et 4.3 – Gestion du stock."
+  },
+  {
+    "en": "The flow continues to Activity 4.1.1.1 – Obtain Asset Information, which has input titled “Ad hoc acquisition of asset.” Activity 4.1.1.1 – Obtain Asset Information results in the output titled “Asset information.” “Asset information” is also an output from three other subprocesses: Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction, Subprocess 4.1.5 – Conduct Periodic Physical Asset Count and Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "Les opérations se poursuivent jusqu’à l’activité 4.1.1.1 – Obtenir l’information sur une immobilisation, dont l’intrant ou donnée d’entrée est l’« Acquisition ponctuelle d’une immobilisation ». L’activité 4.1.1.1 – Obtenir l’information sur une immobilisation produit l’extrant ou donnée de sortie « Information sur l’immobilisation ». Cet extrant est également le produit de trois autres sous-processus : 4.1.4 – Effectuer l’analyse périodique des immobilisations en construction, 4.1.5 – Effectuer le décompte périodique des immobilisations et 4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "The flow advances to a decision titled “Asset record exists?” The NO flow for “Asset record exists?” continues to Activity 4.1.1.2 – Create Asset Record and then connects to the output titled “Asset record.” The YES flow for “Asset record exists?” continues to Activity 4.1.1.3 – Update Asset Record, which uses the input titled “Amortization amount” from Subprocess 4.1.2 – Calculate Monthly Amortization. Activity 4.1.1.3 – Update Asset Record results in the output titled “Asset record.”",
+    "fr": "La suite des opérations aboutit à la décision découlant de la question « Une fiche d’immobilisation existe-t-elle? ». Le chemin du NON à cette question mène à l’activité 4.1.1.2 – Créer une fiche d’immobilisation et à l’extrant « Fiche d’immobilisation ». Le chemin du OUI à la question « Une fiche d’immobilisation existe-t-elle? » conduit à l’activité 4.1.1.3 – Mettre à jour la fiche d’immobilisation, dont l’intrant ou donnée d’entrée est le « Montant de l’amortissement » venant du sous-processus 4.1.2 – Calculer l’amortissement mensuel. L’activité 4.1.1.3 – Mettre à jour la fiche d’immobilisation produit l’extrant ou donnée de sortie « Fiche d’immobilisation »."
+  },
+  {
+    "en": "The subprocess ends with connectors to the following five subprocesses:",
+    "fr": "Le sous-processus se termine par des connecteurs aux cinq sous-processus suivants :"
+  },
+  {
+    "en": "One or more of these five subprocesses can be completed concurrently and in any order.",
+    "fr": "Ces cinq sous-processus peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "The figure is a process flow diagram comprising activities, connectors, inputs, outputs, gateways and decisions.",
+    "fr": "Cette figure est un diagramme d’opérations comprenant des activités, des connecteurs, des intrants, des extrants, des passerelles et des points de décision."
+  },
+  {
+    "en": "This diagram depicts the Level 3 process flow for Subprocess 4.1.2 – Calculate Monthly Amortization, which begins with a connector from Subprocess 4.1.1 – Create or Update Asset Record and its output titled “Asset record.” The flow continues to Activity 4.1.2.1 – Calculate Amortization and then to Activity 4.1.2.2 – Verify Reasonableness of Amortization.",
+    "fr": "Ce diagramme illustre les opérations de niveau 3 du sous-processus 4.1.2 – Calculer l’amortissement mensuel, qui part du connecteur du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation et dont l’extrant ou donnée de sortie est la « Fiche d’immobilisation ». Les opérations se poursuivent jusqu’à l’activité 4.1.2.1 – Calculer l’amortissement et passe ensuite à l’activité 4.1.2.2 – Vérifier la vraisemblance du montant d’amortissement."
+  },
+  {
+    "en": "The flow continues to a decision titled “Amortization reasonable?” The NO flow for “Amortization reasonable?” continues to Activity 4.1.2.3 – Make Correction and then returns to Activity 4.1.2.2 – Verify Reasonableness of Amortization. The YES flow for “Amortization reasonable?” advances to a gateway resulting in the output titled “Amortization amount” and the Activity 4.1.2.4 – Record Journal Entry, to be addressed concurrently and in any order. “Amortization amount” continues to a connector for Subprocess 4.1.1 – Create or Update Asset Record. Activity 4.1.2.4 – Record Journal Entry continues to a connector for Business Process 8.2 – Manage Financial Close.",
+    "fr": "Les opérations se poursuivent avec la décision découlant de la question « Montant d’amortissement vraisemblable? ». Le chemin du NON à cette question mène à l’activité 4.1.2.3 – Corriger le montant et renvoie ensuite à l’activité 4.1.2.2 – Vérifier la vraisemblance du montant d’amortissement. Le chemin du OUI à la question « Montant d’amortissement raisonnable? » conduit à la passerelle donnant l’extrant ou donnée de sortie intitulé « Montant d’amortissement » et aboutissant à l’activité 4.1.2.4 – Enregistrer l’écriture de journal. Ces produits à la passerelle peuvent être traités en même temps et dans n’importe quel ordre. L’extrant ou donnée de sortie « Montant d’amortissement » conduit à la connexion au sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation. L’activité 4.1.2.4 – Enregistrer l’écriture de journal mène au connecteur du processus opérationnel 8.2 Gestion de la clôture financière."
+  },
+  {
+    "en": "The figure is a process flow diagram comprising activities, connectors, inputs, outputs, gateways and decisions.",
+    "fr": "Cette figure est un diagramme d’opérations comprenant des activités, des connecteurs, des intrants, des extrants, des passerelles et des points de décision."
+  },
+  {
+    "en": "This diagram depicts the Level 3 process flow for Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction, which begins with a connector from Subprocess 4.1.1 – Create or Update Asset Record and its output titled “Asset record.” The flow continues to Activity 4.1.4.1 – Compile Listing, which has output titled “ listing.” The flow advances to Activity 4.1.4.2 – Analyze and then continues to a decision titled “Additional costs to be capitalized?”",
+    "fr": "Ce diagramme illustre les opérations de niveau 3 du sous-processus 4.1.4 – Effectuer l’analyse périodique des immobilisations en construction. Ce sous-processus part du connecteur du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation et produit l’extrant ou donnée de sortie « Fiche d’immobilisation ». Les opérations se poursuivent jusqu’à l’activité 4.1.4.1 – Dresser la liste des , dont l’extrant ou donnée de sortie est « Liste des ». Les opérations se poursuivent jusqu’à l’activité 4.1.4.2 – Analyser les et aboutissent à la décision découlant de la question « Coûts à porter à l’actif? »"
+  },
+  {
+    "en": "The NO flow for “Additional costs to be capitalized?” advances to a decision titled “ being abandoned?” The YES flow for “ being abandoned?” results in the output titled “Disposal notification,” which flows to a connector for Subprocess 4.1.7 – Process Asset Disposal. The NO flow for “ being abandoned?” advances to a decision titled “ is impaired?”",
+    "fr": "Le chemin du NON à la question « Coûts à porter à l’actif? » mène à la décision découlant de la question « Abandon de l’ ? ». Le chemin du OUI à cette question conduit à l’extrant ou donnée de sortie « Notification d’aliénation » qui conduit au connecteur du sous-processus 4.1.7 – Traiter l’aliénation de l’immobilisation. Le chemin du NON à la question « Abandon de l’ ? » conduit à la décision découlant de la question « déprécié? »."
+  },
+  {
+    "en": "The NO flow for “ is impaired?” continues to a decision titled “Asset in service?” The NO flow for “Asset in service?” advances to connectors for Subprocess 4.1.5 – Conduct Periodic Physical Asset Count, Subprocess 4.1.6 – Conduct Periodic Asset Assessment, and Activity 4.1.4.1 – Compile Listing. One or more of the subprocesses or the activity can be completed concurrently and in any order.",
+    "fr": "Le chemin du NON à la question « déprécié? » mène à la décision découlant de la question « Immobilisation en service? » Le chemin du NON à cette question conduit aux connecteurs des sous-processus 4.1.5 – Effectuer le décompte périodique des immobilisations et 4.1.6 – Procéder à l’évaluation périodique des immobilisations, et à l’activité 4.1.4.1 – Dresser la liste des ."
+  },
+  {
+    "en": "The YES flow for “Asset in service?” continues to Activity 4.1.4.3 – Summarize Required Changes to Asset Record. Activity 4.1.4.3 rejoins the YES flows for “Additional costs to be capitalized?” and “ is impaired?” and continues to a gateway resulting in the output titled “Asset information” and Activity 4.1.4.4 – Record Journal Entry. “Asset information” continues to a connector for Subprocess 4.1.1 – Create or Update Asset Record. Activity 4.1.4.4 – Record Journal Entry continues to a connector for Business Process 8.2 – Manage Financial Close. One or both of the output or the subprocess can be completed concurrently and in any order.",
+    "fr": "Ces sous-processus ou cette activité peuvent être exécutés, un ou plusieurs fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "The figure is a process flow diagram comprising activities, connectors, inputs, outputs and decisions.",
+    "fr": "Le chemin du OUI à la question « Immobilisation en service? » mène à l’activité 4.1.4.3 – Résumer les changements à saisir dans la fiche d’immobilisation. Cette activité rejoint les chemins du OUI aux questions « Coûts à porter à l’actif? » et « déprécié? » et mène à la passerelle qui produit l’extrant « Information sur l’immobilisation » et à l’activité 4.1.4.4 – Enregistrer l’écriture de journal. L’extrant « Information sur l’immobilisation » mène au connecteur du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation. L’activité 4.1.4.4 – Enregistrer l’écriture de journal mène au connecteur du processus opérationnel 8.2 Gestion de la clôture financière. Les extrants ou le sous-processus peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "This diagram depicts the Level 3 process flow for Subprocess 4.1.5 – Conduct Periodic Physical Asset Count, which begins with a connector from Subprocess 4.1.1 – Create or Update Asset Record and its output titled “Asset record.” The flow continues to Activity 4.1.5.1 – Compile Asset Listing, which results in the output titled “Asset listing.”",
+    "fr": "Cette figure est un diagramme d’opérations comportant des activités, des connecteurs, des intrants, des extrants et des décisions."
+  },
+  {
+    "en": "The flow continues to Activity 4.1.5.2 – Conduct Asset Count and its input titled “Asset count instructions.” Activity 4.1.5.2 – Conduct Asset Count results in the output titled “Asset count results,” which is also an input to a connector for Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "Ce diagramme illustre les opérations de niveau 3 du sous-processus 4.1.5 – Effectuer le décompte périodique des immobilisations. Ce sous-processus part du connecteur du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation et son extrant ou sa donnée de sortie « Fiche d’immobilisation. » Les opérations se poursuivent jusqu’à l’activité 4.1.5.1 – Dresser la liste des immobilisations, qui donne lieu à l’extrant ou donnée de sortie « Liste des immobilisations. »"
+  },
+  {
+    "en": "The flow continues to Activity 4.1.5.3 – Compile Results, Activity 4.1.5.4 – Validate findings and then to a decision titled “Discrepancies to be resolved?” The NO flow for “Discrepancies to be resolved?” continues to four connectors and one activity, as follows:",
+    "fr": "Les opérations se poursuivent jusqu’à l’activité 4.1.5.2 – Procéder au décompte des immobilisations et à son intrant ou sa donnée d’entrée « Instructions sur le décompte des immobilisations. » L’activité 4.1.5.2 – Procéder au décompte des immobilisations produit l’extrant ou donnée de sortie « Résultats du décompte des immobilisations » servant d’intrant ou de donnée d’entrée du connecteur du sous-processus 4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "One or more of the four connectors or the activity can be completed concurrently and in any order.",
+    "fr": "Les opérations se poursuivent jusqu’aux activités 4.1.5.3 – Compiler les résultats et 4.1.5.4 – Valider les observations et ensuite à la décision découlant de la question « Différences qui nécessitent des interventions? ». Le chemin du NON à cette question mène aux quatre connecteurs et à l’activité que voici :"
+  },
+  {
+    "en": "The YES flow for “Discrepancies to be resolved?” connects to the following two activities:",
+    "fr": "Ces quatre connecteurs ou cette activité peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre. Le chemin du OUI à la question « Différences qui nécessitent des interventions? » se connecte aux deux activités suivantes :"
+  },
+  {
+    "en": "One or both of these activities can be completed concurrently and in any order.",
+    "fr": "Ces activités peuvent être exécutées, une ou deux à la fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "The figure is a process flow diagram comprising activities, connectors, inputs, outputs, gateways and decisions.",
+    "fr": "Cette figure est un diagramme d’opérations comprenant des activités, des connecteurs, des intrants, des extrants, des passerelles et des points de décision."
+  },
+  {
+    "en": "This diagram depicts the Level 3 process flow for Subprocess 4.1.6 – Conduct Periodic Asset Assessment, which begins with a connector from Subprocess 4.1.1 – Create or Update Asset Record and its output titled “Asset record.” The flow continues to Activity 4.1.6.1 – Compile Asset Listing, which results in the output titled “Asset listing.”",
+    "fr": "Ce diagramme illustre les opérations de niveau 3 du sous-processus 4.1.6 – Procéder à l’évaluation périodique des immobilisations, qui part du connecteur du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation et de son extrant ou donnée de sortie « Fiche d’immobilisation ». Les opérations se poursuivent jusqu’à l’activité 4.1.6.1 – Dresser la liste des immobilisations, qui produit l’extrant ou donnée de sortie « Liste des immobilisations »."
+  },
+  {
+    "en": "The flow continues to Activity 4.1.6.2 – Conduct Asset Assessment. Activity 4.1.6.2 – Conduct Asset Assessment has two other inputs:",
+    "fr": "Les opérations se poursuivent jusqu’à l’activité 4.1.6.2 – Évaluer les immobilisations. L’activité 4.1.6.2 – Évaluer les immobilisations est alimentée par deux autres intrants ou données d’entrée :"
+  },
+  {
+    "en": "The flow continues to Activity 4.1.6.3 – Validate Findings, which results in the output titled “Asset assessment results.” “Asset assessment results” flows to a connector for Business Process 1.1 – Manage Planning and Budgeting.",
+    "fr": "Les opérations se poursuivent jusqu’à l’activité 4.1.6.3 – Valider les observations, qui produit l’extrant ou donnée de sortie « Résultats de l’évaluation des immobilisations ». Cet extrant se rattache au connecteur du processus opérationnel 1.1 – Gestion de la planification et de la budgétisation."
+  },
+  {
+    "en": "The flow from “Asset count results” also advances to a decision titled “Action required?” The NO flow for “Action required?” continues to the following four connectors and one activity:",
+    "fr": "À partir des « Résultats du décompte des immobilisations », le cheminement conduit à la décision découlant de la question « Mesure requise? ». Le chemin du NON à cette question mène aux quatre connecteurs et à l’activité que voici :"
+  },
+  {
+    "en": "One or more of the four connectors or the activity can be completed concurrently and in any order.",
+    "fr": "Ces quatre connecteurs ou l’activité peuvent être exécutés, un ou plusieurs à la fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "The YES flow for “Action required?” continues to the following three activities:",
+    "fr": "Le chemin du OUI à la question « Mesure requise? » mène aux trois activités suivantes :"
+  },
+  {
+    "en": "One or more of the three activities can be completed concurrently and in any order.",
+    "fr": "Ces trois activités peuvent être exécutées, une ou plusieurs à la fois, en même temps et dans n’importe quel ordre."
+  },
+  {
+    "en": "The figure is a process flow diagram comprising activities, connectors, inputs, outputs, gateways and decisions.",
+    "fr": "La figure est un diagramme d’opérations comprenant des activités, des connecteurs, des intrants, des extrants, des passerelles et des points de décision."
+  },
+  {
+    "en": "This diagram depicts the Level 3 process flow for Subprocess 4.1.7 – Process Asset Disposal. The process flow begins with connectors from the following three subprocesses:",
+    "fr": "Ce diagramme illustre les opérations de niveau 3 du sous-processus 4.1.7 – Traiter l’aliénation de l’immobilisation. Les opérations commencent à partir de connecteurs des trois sous-processus suivants :"
+  },
+  {
+    "en": "The output from the connectors for these three subprocesses is titled “Disposal information,” which flows to Activity 4.1.7.1 – Obtain Authorization for Disposal. Activity 4.1.7.1 – Obtain Authorization for Disposal has input titled “Ad hoc requirement.”",
+    "fr": "L’extrant ou donnée de sortie de ces trois sous-processus est l’« Information sur l’aliénation », qui mène à l’activité 4.1.7.1 – Obtenir l’autorisation d’aliéner l’immobilisation, dont l’intrant ou donnée d’entrée est une « Demande ponctuelle »."
+  },
+  {
+    "en": "The flow continues to a decision titled “Authorization obtained?” The NO flow for “Authorization obtained?” continues to connectors for the following six subprocesses:",
+    "fr": "Les opérations se poursuivent jusqu’à la décision découlant de la question « Autorisation obtenue? ». Le chemin du NON à cette question mène aux connecteurs des six sous-processus suivants :"
+  },
+  {
+    "en": "One or more of the six connectors can be selected.",
+    "fr": "Un ou plusieurs de ces six connecteurs peuvent être choisis."
+  },
+  {
+    "en": "The YES flow for “Authorization obtained?” continues to Activity 4.1.7.2 – Change Asset Status to “Not in Service.” The flow advances to a decision titled “Physical asset disposal required?” The YES flow for “Physical asset disposal required? continues to Activity 4.1.7.3 – Physically Dispose of Asset, which is identified as outside the scope of the Manage Other Capital Assets business process. Activity 4.1.7.3 – Physically Dispose of Asset and the NO flow for “Physical asset disposal required?” result in the output titled “Disposal information.”",
+    "fr": "Le chemin du OUI à la question « Autorisation obtenue? » mène à l’activité 4.1.7.2 – Donner à l’immobilisation l’état « hors service ». Les opérations se poursuivent jusqu’à la décision découlant de la question « Aliénation matérielle de l’immobilisation? ». Le chemin du OUI à cette question mène à l’activité 4.1.7.3 – Aliéner de façon matérielle l’immobilisation, exclue de la portée du processus opérationnel de la Gestion des autres immobilisations. L’activité 4.1.7.3 – Aliéner de façon matérielle l’immobilisation et la réponse NON à la question « Aliénation matérielle de l’immobilisation? » produisent l’extrant ou donnée de sortie « Information sur l’aliénation »."
+  },
+  {
+    "en": "The flow advances to two activities that are completed concurrently. The first is Activity 4.1.7.4 – Record Disposal in Asset Record. The second is Activity 4.1.7.5 – Record Journal Entry, which flows to a connector for Business Process 8.2 – Manage Financial Close.",
+    "fr": "Les opérations se poursuivent jusqu’aux deux activités suivantes qui sont réalisées en même temps : 4.1.7.4 – Enregistrer l’aliénation dans la fiche d’immobilisation et 4.1.7.5 – Enregistrer l’écriture de journal, qui conduit au connecteur du processus opérationnel 8.2 Gestion de la clôture financière."
+  },
+  {
+    "en": "Both Activity 4.1.7.4 – Record Disposal in Asset Record and Activity 4.1.7.5 – Record Journal Entry continue to a decision titled “Collection of proceeds from external party required?” The NO flow for “Collection of proceeds from external party required?” ends Subprocess 4.1.7 – Process Asset Disposal. The YES flow for “Collection of proceeds from external party required?” results in the output titled “Supporting information and documentation,” which flows to Business Process 2.1 – Manage Revenue, Receivables and Receipts.",
+    "fr": "Et l’activité 4.1.7.4 – Enregistrer l’aliénation dans la fiche d’immobilisation et l’activité 4.1.7.5 – Enregistrer l’écriture de journal conduisent à la décision découlant de la question « Collecte d’un produit auprès d’un tiers? » Le chemin du NON à cette question met fin au sous-processus 4.1.7 – Traiter l’aliénation de l’immobilisation. Le chemin du OUI mène à l’extrant ou donnée de sortie « Renseignements/documents justificatifs », qui aboutit au processus opérationnel 2.1 – Gestion des revenus, créances et recettes."
+  },
+  {
+    "en": "Business Process 4.1 – Manage Other Capital Assets is now complete.",
+    "fr": "Le processus opérationnel 4.1 Gestion des autres immobilisations se termine ainsi."
+  },
+  {
+    "en": "This figure depicts the Level 1 process flow for common financial management business processes, using six chevrons placed in three layers.",
+    "fr": "Cette figure est un diagramme d’opérations de niveau 1 des processus opérationnels communs en gestion financière comportant six chevrons disposés sur trois rangées."
+  },
+  {
+    "en": "The top layer is a chevron labelled Planning, Budgeting and Forecasting Results and Performance Reports.",
+    "fr": "Le chevron de la rangée du haut est étiqueté « Planification, budgétisation et prévisions; rapports sur les résultats et le rendement »."
+  },
+  {
+    "en": "The centre layer is a row of four chevrons, each representing subsequent steps of the high-level financial management business process. The four steps are Need Identification; Obligation; Performance, Validation and Certification; and Payment. These four steps are further explained in two views—one from the Revenue perspective, the other from the Expenditure perspective.",
+    "fr": "La rangée mitoyenne est formée de quatre chevrons, chacun représentant les étapes consécutives d’un processus opérationnel de gestion financière. Ces étapes sont : Définition des besoins; Obligation; Rendement, validation et attestation et Paiement. Ces étapes sont précisées selon l’angle des revenus et l’angle des dépenses."
+  },
+  {
+    "en": "From the Revenue perspective:",
+    "fr": "Selon l’angle des revenus :"
+  },
+  {
+    "en": "From the Expenditure perspective:",
+    "fr": "Sous l’angle des dépenses :"
+  },
+  {
+    "en": "The bottom layer is a chevron labelled Master Data, Integration, Control and Monitoring.",
+    "fr": "Le chevron de la rangée du bas est étiqueté « Données de base, intégration, contrôle et surveillance »."
+  },
+  {
+    "en": "This diagram depicts the organizational roles involved in the Manage Other Capital Assets. These roles are grouped into four categories, as follows:",
+    "fr": "Ce diagramme illustre l’ensemble des rôles organisationnels intervenant dans la Gestion des autres immobilisations. Ces rôles sont groupés en quatre catégories :"
+  },
+  {
+    "en": "The Requirements Framework category has three organizational roles, as follows:",
+    "fr": "Le cadre des exigences regroupe les trois rôles suivants :"
+  },
+  {
+    "en": "The Financial Management category has two organizational roles, as follows:",
+    "fr": "La Gestion financière regroupe les deux rôles suivants :"
+  },
+  {
+    "en": "The Materiel Management category has two organizational roles, as follows:",
+    "fr": "La Gestion du matériel regroupe les deux rôles suivants :"
+  },
+  {
+    "en": "The Central Services category has one organizational role, as follows:",
+    "fr": "Le groupe des Services centraux comporte le rôle suivant :"
+  },
+  {
+    "en": "Assets are amortized appropriately;",
+    "fr": "Les immobilisations sont amorties de manière appropriée."
+  },
+  {
+    "en": "Repairs, maintenance and betterments are identified, properly differentiated, undertaken and recorded;",
+    "fr": "Les dépenses de réparation et d'entretien et les dépenses d'amélioration sont indiquées, différenciées, entreprises et enregistrées correctement."
+  },
+  {
+    "en": "Assets under construction are accurately converted into amortizable assets upon completion; and",
+    "fr": "Les immobilisations en construction sont converties de manière exacte en actifs amortissables une fois leur construction terminée."
+  },
+  {
+    "en": "Asset records are adjusted, as required and in a timely manner, to correct discrepancies identified during a periodic physical asset count or a periodic assessment of the asset base.",
+    "fr": "Les fiches d'immobilisations sont rajustées, si nécessaire et sans délai, pour corriger les divergences observées au terme d'un décompte périodique ou d'une évaluation périodique de l'ensemble des actifs."
+  },
+  {
+    "en": "Create or Update Asset Record;",
+    "fr": "Création ou mise à jour de la fiche d'immobilisations"
+  },
+  {
+    "en": "Maintain Asset Record; and",
+    "fr": "Tenue de la fiche d'immobilisations"
+  },
+  {
+    "en": "Record Asset Disposal.",
+    "fr": "Enregistrement de l'aliénation des immobilisations"
+  },
+  {
+    "en": "The is the policy authority for financial management.",
+    "fr": "Le est l'autorité en matière de politique de gestion des finances."
+  },
+  {
+    "en": "The is the policy authority for the management of real property and materiel, investment planning, project management and procurement across the government.",
+    "fr": "Le est l'autorité en matière de politiques régissant la gestion des biens immobiliers et du matériel, la planification des investissements, la gestion de projet et l'approvisionnement au gouvernement."
+  },
+  {
+    "en": "The is responsible for:",
+    "fr": "Le rôle d' exerce les responsabilités suivantes :"
+  },
+  {
+    "en": "Providing leadership by demonstrating financial responsibility, transparency, accountability and ethical conduct in financial and resource management; and",
+    "fr": "Assumer le leadership en faisant preuve de responsabilité financière, de transparence, de responsabilisation et de respect des normes d'éthique en ce qui concerne la gestion des finances et des ressources"
+  },
+  {
+    "en": "Ensuring sound stewardship of the materiel entrusted to, and used by, the organization, including compliance with legislation, regulations, Treasury Board policies and financial authorities.",
+    "fr": "Assurer la saine gestion du matériel qui lui est confié ou qui est utilisé par son organisation, y compris la conformité aux lois, aux règlements, aux politiques et aux autorisations financières du Conseil du Trésor"
+  },
+  {
+    "en": "The role supports:",
+    "fr": "Le rôle de la vient appuyer :"
+  },
+  {
+    "en": "Deputy heads and chief financial officers in meeting their financial management accountabilities as listed in the ;",
+    "fr": "Les administrateurs généraux et les dirigeants principaux des finances dans leurs responsabilités en matière de gestion financière prévues dans la"
+  },
+  {
+    "en": "Departmental and business unit-level activities related to resource management, such as supporting the financial component of the departmental planning process, including the investment plan.",
+    "fr": "Les activités ministérielles et les activités menées au niveau des unités opérationnelles qui ont trait à la gestion des ressources telles que soutenir la composante financière de la planification ministérielle, y compris le plan des investissements"
+  },
+  {
+    "en": "The role carries out the day-to-day transactional financial management operations. This organizational role fulfills financial management responsibilities for departmental transactions—for example, recording journal entries to update revenues, expenses, assets and liabilities. Journal entries related to capital assets include amortization; adjustments resulting from periodic reviews of assets under construction, physical asset counts and asset base assessments; disposals; and write-downs.",
+    "fr": "Le rôle des réalisent les opérations de gestion financière courantes. Ils s'occupent de la gestion financière des opérations ministérielles, par exemple, l'enregistrement des écritures aux revenus, dépenses, actifs et passifs. Les écritures de journal relatives aux immobilisations sont l'amortissement, les ajustements consécutifs aux examens périodiques des immobilisations en construction, aux décomptes physiques et aux évaluations des actifs, aux aliénations et aux dépréciations."
+  },
+  {
+    "en": "The role is responsible for the development and compliance monitoring of materiel management policies, processes and procedures. In addition, this role provides oversight of the day-to-day operations of transactional asset and acquired services, which includes ensuring the existence of asset records.",
+    "fr": "Le rôle des s'occupent d'élaborer des procédures, des processus et des politiques de gestion du matériel et d'en surveiller la conformité. De plus, ils surveillent les opérations courantes des actifs et des services acquis, ce qui inclut s'assurer que les fiches d'immobilisations existent."
+  },
+  {
+    "en": "The role is the custodian of assets, or the role responsible for a group of custodians of assets.",
+    "fr": "Le rôle du assume le rôle de gardien ou de responsable d'un groupe de gardiens d'immobilisations."
+  },
+  {
+    "en": "The is responsible for the sale of surplus federal goods, including computers, office equipment, vehicles, and other capital assets, as defined in the scope section of this guideline.",
+    "fr": "La s'occupe de la vente des biens fédéraux excédentaires, y compris les ordinateurs, le matériel de bureau, les véhicules et les autres immobilisations au sens donné à la section Portée de cette ligne directrice."
+  },
+  {
+    "en": "An asset record is created or updated in the departmental financial and materiel management system, generally as a result of the decision to capitalize an asset or its component parts during Manage Procure to Payment (Business Process 3.1) or during Manage Inventory (Business Process 4.3) when the asset is constructed with items previously held as inventory. An asset record may also need to be created or updated when the asset is acquired through other means—for example, a transfer from another government department, a donation, or the exercising of a bargain purchase option. An analysis of assets under construction, a periodic asset count, a periodic asset assessment, or the authorization of a disposal may also result in a requirement to create or update the asset record and, possibly, the general ledger. Materiel services or, in certain cases, the responsibility centre manager, is responsible for this subprocess group.",
+    "fr": "Une fiche d'immobilisations est créée ou mise à jour dans le système ministériel de gestion des finances et du matériel en général à la suite de la décision de capitaliser un bien ou ses composantes prise dans les processus opérationnels Gestion du cycle de l'approvisionnement au paiement (processus opérationnel 3.1) ou Gestion du stock (processus opérationnel 4.3) lorsque le bien est construit à partir d'articles détenus en inventaire. Les immobilisations peuvent aussi être acquises d'une autre manière, par le transfert d'un ministère à l'autre, un don ou l'exercice d'une option d'achat à prix incitatif, par exemple. Il pourra être nécessaire de créer ou de mettre à jour une fiche d'immobilisations et même possiblement le grand livre général à la suite d'une analyse des immobilisations en construction, d'un décompte périodique, de l'évaluation périodique des actifs ou d'une autorisation d'aliéner une immobilisation. Les Services de gestion du matériel ou, dans certains cas, le gestionnaire du centre de responsabilité, est responsable de ce groupe de sous-processus."
+  },
+  {
+    "en": "Amortization is calculated and recorded by financial services according to department-specific procedures. Amortization is based on asset class and estimated useful life or capacity and is recorded monthly, starting on the first day of the month following the month when the asset came into service.",
+    "fr": "L'amortissement d'une immobilisation est calculé et enregistré par les services financiers selon une procédure propre au ministère. Le calcul est établi selon la catégorie et la durée de vie utile estimative ou la capacité de l'immobilisation. L'amortissement est enregistré sur une base mensuelle à compter du premier jour du mois suivant celui où l'immobilisation a été mise en service."
+  },
+  {
+    "en": "Repairs and maintenance are undertaken to ensure that an asset fully, effectively and efficiently meets the requirements of the organizational program it supports. When economically feasible, an asset is repaired, refinished and reused rather than replaced. Departments should have procedures to differentiate between betterments, which are capitalized and processed as part of this business process, and repairs and maintenance, which are expensed and require no additional consideration. The activities of this subprocess are strictly a materiel management function and are therefore outside the scope of the Manage Other Capital Assets business process.",
+    "fr": "Les travaux de réparation et d'entretien sont exécutés en vue de s'assurer que les immobilisations répondent pleinement et de manière efficace aux besoins du programme organisationnel. Une immobilisation est réparée, remise à neuf et réutilisée plutôt que remplacée lorsqu'il est économique de le faire . Les ministères doivent établir une procédure pour différencier les améliorations, qui sont capitalisées et traitées dans le cadre de ce processus opérationnel, des dépenses de réparation et d'entretien, qui sont passées en charges de manière définitive . Les activités de ce sous-processus relèvent strictement de la fonction de gestion du matériel, et elles ne font pas partie du processus opérationnel Gestion des autres immobilisations."
+  },
+  {
+    "en": "An analysis of assets under construction is conducted periodically to ensure that asset records are updated appropriately during construction and that related expenses are capitalized as required.",
+    "fr": "Les immobilisations en construction sont analysées régulièrement pour s'assurer que les fiches d'immobilisations sont mises à jour durant la construction et que les dépenses correspondantes sont capitalisées au besoin."
+  },
+  {
+    "en": "A physical asset count is conducted periodically to confirm the existence of assets and to ensure the accuracy of the asset records in the departmental financial and materiel management system.",
+    "fr": "Les immobilisations font l'objet d'un décompte pour confirmer l'existence des immobilisations et vérifier l'exactitude des fiches d'immobilisations dans le système ministériel de gestion des finances et du matériel."
+  },
+  {
+    "en": "An asset assessment is a strategic or an operational review of part or all of the organization's asset base. It measures the extent to which the asset base continues to meet the organization's needs and validates the reasonableness of the value recorded in the departmental financial and materiel management system. The assessment may be conducted periodically or for a specific event—for example, the review of a departmental program.",
+    "fr": "L'évaluation des immobilisations est un examen stratégique ou opérationnel de la totalité ou d'une partie des actifs d'une organisation. Elle établit dans quelle mesure ces derniers continuent de répondre aux besoins et valide la vraisemblance de la valeur inscrite dans le système ministériel de gestion des finances et du matériel. Cette évaluation peut être effectuée sur une base périodique ou sur commande à la suite d'un événement particulier (par exemple, l'examen d'un programme ministériel)."
+  },
+  {
+    "en": "Assets are formally delisted from the department's asset records when authorized by the responsibility centre manager with the delegated authority. Materiel services is responsible for the physical disposal of an asset, and corporate finance is responsible for recording the disposal for financial reporting purposes once the physical disposal of the asset is complete.",
+    "fr": "Les immobilisations sont officiellement radiées des fiches d'immobilisations du ministère une fois que le gestionnaire du centre de responsabilité ayant le pouvoir délégué l'autorise. Les Services de gestion du matériel sont responsables d'aliéner une immobilisation, et la fonction ministérielle des finances par la suite, d'enregistrer l'aliénation dans le système d'information financière."
+  },
+  {
+    "en": "Are held for use in the production or supply of goods or in the delivery of services or to produce program outputs;",
+    "fr": "Conservés pour être utilisés aux fins de la production ou de la fourniture de marchandises, de la prestation de services ou de la production d'extrants de programmes"
+  },
+  {
+    "en": "Have a useful life extending beyond one fiscal year and are intended to be used on a continuing basis; and",
+    "fr": "Ont une durée de vie utile de plus d'un exercice et sont destinés à une utilisation continue"
+  },
+  {
+    "en": "Are not intended for resale in the ordinary course of operations.",
+    "fr": "Ne sont pas destinés à être revendus dans le cours normal des activités"
+  },
+  {
+    "en": "Categories of costs or items that should be capitalized—for example, leasehold improvements and betterments;",
+    "fr": "Catégories de coûts ou d'éléments qui devraient être capitalisés, par exemple, les améliorations locatives et les améliorations"
+  },
+  {
+    "en": "Establishment of a minimum threshold for capitalization, which may be less than the recommended $10,000;",
+    "fr": "Seuil minimum de capitalisation qui peut être inférieur au montant recommandé de 10 000 dollars"
+  },
+  {
+    "en": "Valuation of capital assets obtained by means other than the typical acquisition by purchase—for example, constructed or obtained through donations or transfers from other departments;",
+    "fr": "Valeur des immobilisations obtenue autrement que par les méthodes habituelles d'acquisition, par exemple, les biens construits ou les biens obtenus au moyen de dons ou de transferts d'autres ministères"
+  },
+  {
+    "en": "Factors to be considered in recording assets using the whole asset approach or the component approach;",
+    "fr": "Facteurs relatifs à l'enregistrement des immobilisations selon la méthode de l'immobilisation globale ou celle de l'immobilisation par composante"
+  },
+  {
+    "en": "Amortization approach for the various classes of capital assets;",
+    "fr": "Approche d'amortissement des diverses catégories d'immobilisations"
+  },
+  {
+    "en": "Valuation of assets purchased under lease; and",
+    "fr": "Évaluation des immobilisations acquises par location-acquisition"
+  },
+  {
+    "en": "Transfer of capital assets between departments.",
+    "fr": "Transfert d'immobilisations d'un ministère à l'autre"
+  },
+  {
+    "en": "A betterment is made to an existing asset;",
+    "fr": "Amélioration apportée à une immobilisation existante"
+  },
+  {
+    "en": "A discrepancy is identified during a periodic physical asset count or a periodic assessment of the asset base;",
+    "fr": "Divergence observée lors d'un décompte ou d'une évaluation périodique des actifs"
+  },
+  {
+    "en": "An asset under construction is now complete and in service; or",
+    "fr": "Achèvement et mise en service d'une immobilisation en construction"
+  },
+  {
+    "en": "The calculated amount from Calculate Monthly Amortization (Subprocess 4.1.2) is added to the individual asset record.",
+    "fr": "Ajout du montant d'amortissement calculé dans le sous-processus 4.1.2 Calculer l'amortissement mensuel"
+  },
+  {
+    "en": ": corporate finance",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "departmental financial and materiel management system",
+    "fr": "Système ministériel de gestion des finances et du matériel"
+  },
+  {
+    "en": "financial services",
+    "fr": "Services financiers"
+  },
+  {
+    "en": "materiel services",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "not applicable",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "North Atlantic Treaty Organization",
+    "fr": "Organisation du traité de l'Atlantique Nord"
+  },
+  {
+    "en": "responsibility centre manager",
+    "fr": "Gestionnaire du centre de responsabilité"
+  },
+  {
+    "en": "Acquisition date",
+    "fr": "Catégorie d'immobilisations"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Centre de responsabilité de garde"
+  },
+  {
+    "en": "Amortization amount",
+    "fr": "Date d'acquisition"
+  },
+  {
+    "en": "Amortization method",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Description"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Données relatives à l'achat (p. ex., la facture, le fournisseur, la garantie, la commande et le contrat)"
+  },
+  {
+    "en": "Custodial responsibility centre",
+    "fr": "Données relatives au projet (p. ex., le code de projet, les feuilles de temps et la date prévue de la mise en service)"
+  },
+  {
+    "en": "Description",
+    "fr": "Données sur les indicateurs de mesure du rendement"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "Location",
+    "fr": "Méthode d'amortissement"
+  },
+  {
+    "en": "Stock Number (if applicable)",
+    "fr": "Montant d'amortissement"
+  },
+  {
+    "en": "Performance measurement indicator data",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Project data (e.g., project code, time sheets and projected “in service” date)",
+    "fr": "Numéro de nomenclature de l' (le cas échéant)"
+  },
+  {
+    "en": "Purchase data (e.g., invoice, supplier, warranty information, purchase order and contract)",
+    "fr": "Numéros de modèle et de série (le cas échéant)"
+  },
+  {
+    "en": "Quantity",
+    "fr": "Quantité"
+  },
+  {
+    "en": "Salvage value",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Serial and model number (if applicable)",
+    "fr": "Valeur de récupération"
+  },
+  {
+    "en": "Acquisition date",
+    "fr": "Catégorie d'immobilisations"
+  },
+  {
+    "en": "All costs (e.g., additions and “in service” costs)",
+    "fr": "Centre de responsabilité de garde"
+  },
+  {
+    "en": "Amortization amount",
+    "fr": "Date d'acquisition"
+  },
+  {
+    "en": "Amortization method",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Description"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Données relatives à l'achat (p. ex., la facture, le fournisseur, la garantie, la commande et le contrat)"
+  },
+  {
+    "en": "Asset status",
+    "fr": "Données relatives au projet (p. ex., le code de projet, les feuilles de temps et la date prévue de la mise en service)"
+  },
+  {
+    "en": "Betterment reference number (if applicable)",
+    "fr": "Données sur les indicateurs de mesure du rendement"
+  },
+  {
+    "en": "Custodial responsibility centre",
+    "fr": "Durée de vie utile ou capacité estimative"
+  },
+  {
+    "en": "Description",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "Estimated useful life or capacity",
+    "fr": "État de l'immobilisation"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "Méthode d'amortissement"
+  },
+  {
+    "en": "Location",
+    "fr": "Montant d'amortissement"
+  },
+  {
+    "en": "Stock Number (if applicable)",
+    "fr": "Numéro d'identification des immobilisations"
+  },
+  {
+    "en": "Performance measurement indicator data",
+    "fr": "Numéro de nomenclature de l' (le cas échéant)"
+  },
+  {
+    "en": "Project data (project code, time sheets and projected “in service” date)",
+    "fr": "Numéro de référence de l'amélioration (le cas échéant)"
+  },
+  {
+    "en": "Purchase data (e.g., invoice, supplier, warranty information, purchase order and contract)",
+    "fr": "Numéros de modèle et de série (le cas échéant)"
+  },
+  {
+    "en": "Quantity",
+    "fr": "Quantité"
+  },
+  {
+    "en": "Salvage value",
+    "fr": "Tous les coûts (p. ex., les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Serial and model number (if applicable)",
+    "fr": "Valeur de récupération"
+  },
+  {
+    "en": "Assets are amortized appropriately;",
+    "fr": "Les immobilisations sont bien amorties."
+  },
+  {
+    "en": "Repairs, maintenance and betterments are identified, properly differentiated, undertaken and recorded;",
+    "fr": "Les travaux de réparation et d'entretien et les améliorations sont définis, et ils sont différenciés, effectués et enregistrés correctement."
+  },
+  {
+    "en": "Assets under construction are accurately converted into amortizable assets upon completion, and put into service; and",
+    "fr": "Les immobilisations en construction sont converties en immobilisations amortissables une fois terminées et mises en service."
+  },
+  {
+    "en": "Asset records are adjusted, as required and in a timely manner, to correct discrepancies identified during a periodic physical asset count or a periodic assessment of the asset base.",
+    "fr": "Les fiches d'immobilisations sont corrigées au besoin et en temps opportun pour éliminer les divergences observées lors d'un décompte ou d'une évaluation périodique des actifs."
+  },
+  {
+    "en": ": corporate finance",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "departmental financial and materiel management system",
+    "fr": "Système ministériel de gestion des finances et du matériel"
+  },
+  {
+    "en": "financial services",
+    "fr": "Services financiers"
+  },
+  {
+    "en": "materiel services",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "not applicable",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "responsibility centre manager",
+    "fr": "Gestionnaire du centre de responsabilité"
+  },
+  {
+    "en": "Accumulated amortization",
+    "fr": "Amortissement cumulé"
+  },
+  {
+    "en": "All costs (including additions, “in service” costs)",
+    "fr": "Catégorie d'immobilisations"
+  },
+  {
+    "en": "Amortization amount for the period",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Amortization method",
+    "fr": "Date de mise en service et de mise hors service"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Durée de vie utile"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Méthode d'amortissement"
+  },
+  {
+    "en": "“In service” and “out-of- service” date",
+    "fr": "Montant d'amortissement pour la période"
+  },
+  {
+    "en": "Net book value",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Salvage value",
+    "fr": "Valeur comptable nette"
+  },
+  {
+    "en": "Service life",
+    "fr": "Valeur de récupération"
+  },
+  {
+    "en": "Accumulated amortization",
+    "fr": "Amortissement cumulé"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Amortization amount for the period",
+    "fr": "Juste valeur marchande"
+  },
+  {
+    "en": "Amortization method",
+    "fr": "Méthode d'amortissement"
+  },
+  {
+    "en": "Fair market value",
+    "fr": "Montant d'amortissement pour la période"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "asset under construction",
+    "fr": "Immobilisation en construction"
+  },
+  {
+    "en": "corporate finance",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "departmental financial and materiel management system",
+    "fr": "Système ministériel de gestion des finances et du matériel"
+  },
+  {
+    "en": "financial services",
+    "fr": "Services financiers"
+  },
+  {
+    "en": "materiel services",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "not applicable",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "responsibility centre manager",
+    "fr": "Gestionnaire du centre de responsabilité"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Catégorie d'immobilisations"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Centre de responsabilité"
+  },
+  {
+    "en": "Asset identification number (as required)",
+    "fr": "Code de projet"
+  },
+  {
+    "en": "record number (as required)",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Données de projet (p. ex., les feuilles de temps, l'estimation de la date d'achèvement du projet et la mise à jour sur le projet)"
+  },
+  {
+    "en": "Project code",
+    "fr": "Numéro d'identification de l'immobilisation (au besoin)"
+  },
+  {
+    "en": "Project data (e.g., time sheets, project completion estimate and project update)",
+    "fr": "Numéro de la fiche de l' (au besoin)"
+  },
+  {
+    "en": "Responsibility centre",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Catégorie d'immobilisations"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Centre de responsabilité"
+  },
+  {
+    "en": "Asset identification number (as required)",
+    "fr": "Code de projet"
+  },
+  {
+    "en": "record number (as required)",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Fair market value",
+    "fr": "Données de projet (p. ex., les feuilles de temps, l'estimation de la date d'achèvement du projet et la mise à jour sur le projet)"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Juste valeur marchande"
+  },
+  {
+    "en": "Project code",
+    "fr": "Numéro d'identification de l'immobilisation (au besoin)"
+  },
+  {
+    "en": "Project data (e.g., time sheets, project completion estimate and project update)",
+    "fr": "Numéro de la fiche de l' (au besoin)"
+  },
+  {
+    "en": "Responsibility centre",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Centre de responsabilité"
+  },
+  {
+    "en": "Asset identification number (as required)",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "record number (as required)",
+    "fr": "Données de projet (p. ex., les feuilles de temps, l'estimation de la date d'achèvement du projet et la mise à jour sur le projet)"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "Numéro d'identification des immobilisations (au besoin)"
+  },
+  {
+    "en": "Project data (e.g., time sheets, project completion estimate and project update)",
+    "fr": "Numéro de la fiche de l' (au besoin)"
+  },
+  {
+    "en": "Responsibility centre",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "asset under construction",
+    "fr": "Immobilisation en construction"
+  },
+  {
+    "en": "corporate finance",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "departmental financial and materiel management system",
+    "fr": "Système ministériel de gestion des finances et du matériel"
+  },
+  {
+    "en": "materiel services",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "North Atlantic Treaty Organization",
+    "fr": "Organisation du traité de l'Atlantique Nord"
+  },
+  {
+    "en": "not applicable",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "responsibility centre manager",
+    "fr": "Gestionnaire du centre de responsabilité"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Centre de responsabilité"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Code à barres (au besoin)"
+  },
+  {
+    "en": "Bar code (as required)",
+    "fr": "Date de l'achat"
+  },
+  {
+    "en": "Custodian",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Date of purchase",
+    "fr": "Description (numéro de série et modèle)"
+  },
+  {
+    "en": "Description (serial number and model)",
+    "fr": "Données de projet (p. ex., les feuilles de temps, l'estimation de la date d'achèvement du projet et la mise à jour sur le projet)"
+  },
+  {
+    "en": "Location",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "État (p. ex., la mise en service, la mise hors service et l' terminée)"
+  },
+  {
+    "en": "Project data (e.g., time sheets, project completion estimate and project update)",
+    "fr": "Gardien"
+  },
+  {
+    "en": "Responsibility centre",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Status (e.g., “in service,” “not in service” and “ complete”)",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Description"
+  },
+  {
+    "en": "Asset status (e.g., “in service,” “not in service” and “ complete”)",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "Custodian",
+    "fr": "État de l'immobilisation (p. ex., la mise en service, la mise hors service et l' terminée)"
+  },
+  {
+    "en": "Description",
+    "fr": "Gardien"
+  },
+  {
+    "en": "Location",
+    "fr": "Instructions sur le décompte des immobilisations"
+  },
+  {
+    "en": "Physical asset count plan",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Asset count results (including condition)",
+    "fr": "Résultats du décompte (y compris la condition)"
+  },
+  {
+    "en": "Analysis findings (including asset count discrepancies)",
+    "fr": "Observations de l'analyse (y compris les divergences)"
+  },
+  {
+    "en": "Acquisition date",
+    "fr": "Catégorie d'immobilisations"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Centre de responsabilité de garde"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Date d'acquisition"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Asset status (e.g., “in service,” “not in service” and “ complete”)",
+    "fr": "Description"
+  },
+  {
+    "en": "Betterment reference number (if applicable)",
+    "fr": "Données relatives à l'achat (p. ex., la facture, le fournisseur, la garantie, la commande et le contrat)"
+  },
+  {
+    "en": "Custodial responsibility centre",
+    "fr": "Données relatives au projet (p. ex., le code de projet, les feuilles de temps et la date prévue de la mise en service)"
+  },
+  {
+    "en": "Description",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "État de l'immobilisation (p. ex., la mise en service, la mise hors service et l' terminée)"
+  },
+  {
+    "en": "Location",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Stock Number (if available)",
+    "fr": "Numéro de nomenclature de l' (si disponible)"
+  },
+  {
+    "en": "Project data (e.g., project code, time sheets and projected “in service” date)",
+    "fr": "Numéro de référence de l'amélioration (le cas échéant)"
+  },
+  {
+    "en": "Purchase data (e.g., invoice, supplier, warranty information, purchase order and contract)",
+    "fr": "Numéros de modèle et de série (le cas échéant)"
+  },
+  {
+    "en": "Quantity",
+    "fr": "Quantité"
+  },
+  {
+    "en": "Serial and model number (if applicable)",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Centre de responsabilité de garde"
+  },
+  {
+    "en": "Asset description",
+    "fr": "Date d'achat"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Description de l'immobilisation"
+  },
+  {
+    "en": "Custodian responsibility centre",
+    "fr": "Motif à l'appui de l'aliénation"
+  },
+  {
+    "en": "Net book value",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Purchase date",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Reason for disposal",
+    "fr": "Valeur comptable nette"
+  },
+  {
+    "en": "Have any changes to departmental objectives or programs had an impact on the usability of the asset?",
+    "fr": "Les objectifs ou les programmes ont-ils subi des changements susceptibles d'influer sur l'utilisation de l'immobilisation?"
+  },
+  {
+    "en": "Is the asset obsolete?",
+    "fr": "L'immobilisation est-elle désuète?"
+  },
+  {
+    "en": "Is the asset damaged?",
+    "fr": "L'immobilisation est-elle endommagée?"
+  },
+  {
+    "en": "Can the asset be modified or partially replaced to improve its functionality?",
+    "fr": "Est-il possible de modifier ou de remplacer en partie l'immobilisation pour en accroître la fonctionnalité?"
+  },
+  {
+    "en": "Is the asset a movable heritage asset?",
+    "fr": "L'immobilisation pourrait-elle être un bien patrimonial meuble?"
+  },
+  {
+    "en": "corporate finance",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "departmental financial and materiel management system",
+    "fr": "Système ministériel de gestion des finances et du matériel"
+  },
+  {
+    "en": "financial services",
+    "fr": "Services financiers"
+  },
+  {
+    "en": "materiel services",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "not applicable",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "responsibility centre manager",
+    "fr": "Gestionnaire du centre de responsabilité"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Code à barres (au besoin)"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Bar code (as required)",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Custodian",
+    "fr": "Description (p. ex., le numéro de série et le modèle)"
+  },
+  {
+    "en": "Description (e.g., serial number and model)",
+    "fr": "Données de projet (p. ex., les feuilles de temps, l'estimation de la date d'achèvement du projet et la mise à jour sur le projet)"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Données sur les indicateurs de mesure du rendement"
+  },
+  {
+    "en": "Location",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "État (p. ex., la mise en service, la mise hors service et l' terminée)"
+  },
+  {
+    "en": "Performance measurement indicator data",
+    "fr": "Gardien"
+  },
+  {
+    "en": "Project data (e.g., time sheets, project completion estimate and project update)",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Status (e.g., “in service,” “not in service” and “ complete”)",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Code à barres (au besoin)"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Bar code (as required)",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Custodian",
+    "fr": "Description (numéro de série et modèle)"
+  },
+  {
+    "en": "Description (e.g., serial number and model)",
+    "fr": "Données de projet (p. ex., les feuilles de temps, l'estimation de la date d'achèvement du projet et la mise à jour sur le projet)"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Données sur les indicateurs de mesure du rendement"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "Investment plan",
+    "fr": "État (p. ex., la mise en service, la mise hors service et l' terminée)"
+  },
+  {
+    "en": "Location",
+    "fr": "Gardien"
+  },
+  {
+    "en": "Performance measurement indicator data",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Project data (e.g., time sheets, project completion estimate and project update)",
+    "fr": "Plan d'investissement"
+  },
+  {
+    "en": "Status (e.g., “in service,” “not in service” and “ complete”)",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Analysis of findings",
+    "fr": "Analyse des constatations"
+  },
+  {
+    "en": "Acquisition date",
+    "fr": "Catégorie d'amortissement"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Catégorie d'immobilisations"
+  },
+  {
+    "en": "Amortization category",
+    "fr": "Centre de responsabilité de garde"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Date d'acquisition"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Asset status",
+    "fr": "Description"
+  },
+  {
+    "en": "Betterment reference number (if applicable)",
+    "fr": "Données de projet (p. ex., le code de projet, les feuilles de temps et la date prévue de la mise en service)"
+  },
+  {
+    "en": "Custodial responsibility centre",
+    "fr": "Données relatives à l'achat (p. ex., la facture, le fournisseur, la garantie, la commande et le contrat)"
+  },
+  {
+    "en": "Description",
+    "fr": "Durée de vie utile ou capacité estimative"
+  },
+  {
+    "en": "Estimated useful life or capacity",
+    "fr": "Emplacement"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "État de l'immobilisation"
+  },
+  {
+    "en": "Location",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Stock Number (if available)",
+    "fr": "Numéro de nomenclature de l' (si disponible)"
+  },
+  {
+    "en": "Project data (e.g., project code, time sheets and projected “in service” date)",
+    "fr": "Numéro de référence de l'amélioration (le cas échéant)"
+  },
+  {
+    "en": "Purchase data (e.g., invoice, supplier, warranty information, purchase order and contract)",
+    "fr": "Numéros de modèle et de série (le cas échéant)"
+  },
+  {
+    "en": "Quantity",
+    "fr": "Quantité"
+  },
+  {
+    "en": "Serial and model number (if applicable)",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Accumulated amortization",
+    "fr": "Amortissement cumulé"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Catégorie d'immobilisation"
+  },
+  {
+    "en": "Asset class",
+    "fr": "Code financier (p. ex., le centre de responsabilité)"
+  },
+  {
+    "en": "Current net realizable value",
+    "fr": "Dates de mise en service et de mise hors service"
+  },
+  {
+    "en": "Financial coding (e.g., responsibility centre)",
+    "fr": "Données sur les indicateurs de mesure du rendement"
+  },
+  {
+    "en": "“In service” and “out-of-service” date",
+    "fr": "Durée de vie utile (courante et révisée, si nécessaire)"
+  },
+  {
+    "en": "Net book value",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Performance measurement indicator data",
+    "fr": "Valeur comptable nette"
+  },
+  {
+    "en": "Salvage value",
+    "fr": "Valeur de réalisation nette"
+  },
+  {
+    "en": "Service life (current and revised if applicable)",
+    "fr": "Valeur de récupération"
+  },
+  {
+    "en": "Accumulated amortization",
+    "fr": "Amortissement cumulé"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Code financier"
+  },
+  {
+    "en": "Current net realizable value",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Financial coding",
+    "fr": "Valeur de réalisation nette"
+  },
+  {
+    "en": "Accumulated amortization",
+    "fr": "Amortissement cumulé"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Centre de responsabilité de garde"
+  },
+  {
+    "en": "Asset identification number/ description",
+    "fr": "Date d'achat"
+  },
+  {
+    "en": "Custodian responsibility centre",
+    "fr": "Données sur les indicateurs de mesure de rendement"
+  },
+  {
+    "en": "Net book value",
+    "fr": "Motif de l'aliénation"
+  },
+  {
+    "en": "Performance measurement indicator data",
+    "fr": "Numéro d'identification et description de l'immobilisation"
+  },
+  {
+    "en": "Purchase date",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Reason for disposal",
+    "fr": "Valeur comptable nette"
+  },
+  {
+    "en": "Recording the asset disposal in the asset record in the sub-ledger ( ); and",
+    "fr": "Enregistrement de l'aliénation dans la fiche d'immobilisations du grand livre auxiliaire ( )"
+  },
+  {
+    "en": "Recording the journal entry to update the general ledger ( ), which could include recording a gain or a loss on the sale of the asset.",
+    "fr": "Enregistrement de l'écriture de journal pour mettre à jour le grand livre général ( ), ce qui comprend l'inscription, le cas échéant, d'un gain ou d'une perte sur vente de l'immobilisation"
+  },
+  {
+    "en": "corporate finance",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "departmental financial and materiel management system",
+    "fr": "Système ministériel de gestion des finances et du matériel"
+  },
+  {
+    "en": "financial services",
+    "fr": "Services financiers"
+  },
+  {
+    "en": "materiel services",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "not applicable",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "responsibility centre manager",
+    "fr": "Gestionnaire du centre de responsabilité"
+  },
+  {
+    "en": "All costs",
+    "fr": "Centre de responsabilité de garde"
+  },
+  {
+    "en": "Asset description",
+    "fr": "Date d'achat"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Description de l'immobilisation"
+  },
+  {
+    "en": "Custodian responsibility centre",
+    "fr": "Motif à l'appui de l'aliénation"
+  },
+  {
+    "en": "Net book value",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Purchase date",
+    "fr": "Tous les coûts"
+  },
+  {
+    "en": "Reason for disposal",
+    "fr": "Valeur comptable nette"
+  },
+  {
+    "en": "“Not in service” date",
+    "fr": "Date de mise hors service"
+  },
+  {
+    "en": "Accumulated amortization",
+    "fr": "Amortissement cumulé"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Cessionnaire/Destinataire (le cas échéant)"
+  },
+  {
+    "en": "Asset description",
+    "fr": "Coût de l'aliénation (le cas échéant)"
+  },
+  {
+    "en": "Asset disposal method",
+    "fr": "Date de l'aliénation"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Description de l'immobilisation"
+  },
+  {
+    "en": "Asset status",
+    "fr": "État de l'immobilisation"
+  },
+  {
+    "en": "Disposal cost (if applicable)",
+    "fr": "Méthode d'aliénation de l'immobilisation"
+  },
+  {
+    "en": "Disposal date",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Net book value",
+    "fr": "Numéro du rapport de surplus (le cas échéant)"
+  },
+  {
+    "en": "Proceeds from sale (if applicable)",
+    "fr": "Produits reçus de la vente (le cas échéant)"
+  },
+  {
+    "en": "Report of surplus number (if applicable)",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Transferee or receiver (if applicable)",
+    "fr": "Valeur comptable nette"
+  },
+  {
+    "en": "Accumulated amortization",
+    "fr": "Amortissement cumulé"
+  },
+  {
+    "en": "All costs (including additions and “in service” costs)",
+    "fr": "Coût de l'aliénation (le cas échéant)"
+  },
+  {
+    "en": "Asset description",
+    "fr": "Date de l'aliénation"
+  },
+  {
+    "en": "Asset identification number",
+    "fr": "Description de l'immobilisation"
+  },
+  {
+    "en": "Disposal cost (if applicable)",
+    "fr": "Numéro d'identification de l'immobilisation"
+  },
+  {
+    "en": "Disposal date",
+    "fr": "Produits reçus de la vente (le cas échéant)"
+  },
+  {
+    "en": "Net book value",
+    "fr": "Tous les coûts (y compris les ajouts et les coûts de mise en service)"
+  },
+  {
+    "en": "Proceeds from sale (if applicable)",
+    "fr": "Valeur comptable nette"
+  },
+  {
+    "en": "Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance;",
+    "fr": "4.1.3 – Effectuer les travaux de réparations et d’entretien;"
+  },
+  {
+    "en": "Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance;",
+    "fr": "4.1.3 – Effectuer les travaux de réparations et d’entretien;"
+  },
+  {
+    "en": "Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "Requirements Framework;",
+    "fr": "Cadre des exigences"
+  },
+  {
+    "en": "Financial Management;",
+    "fr": "Gestion financière"
+  },
+  {
+    "en": "Materiel Management; and",
+    "fr": "Gestion du matériel"
+  },
+  {
+    "en": "Central Services.",
+    "fr": "Services centraux."
+  },
+  {
+    "en": "Financial Management Sector of the Office of the Comptroller General;",
+    "fr": "Secteur de la gestion financière du Bureau du contrôleur général"
+  },
+  {
+    "en": "Acquired Services and Assets Sector of the Office of the Comptroller General; and",
+    "fr": "Secteur des actifs et des services acquis du Bureau du contrôleur général"
+  },
+  {
+    "en": "Deputy head.",
+    "fr": "Administrateur général."
+  },
+  {
+    "en": "Corporate finance; and",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "Financial services.",
+    "fr": "Services financiers."
+  },
+  {
+    "en": "Materiel services; and",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "Responsibility centre manager.",
+    "fr": "Gestionnaire de centre de responsabilité"
+  },
+  {
+    "en": "Crown Assets Distribution Directorate of the Department of Public Works and Government Services.",
+    "fr": "Distribution des biens de la Couronne de Travaux publics et Services gouvernementaux."
+  },
+  {
+    "en": "Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance;",
+    "fr": "4.1.3 – Effectuer les travaux de réparations et d’entretien;"
+  },
+  {
+    "en": "Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance;",
+    "fr": "4.1.3 – Effectuer les travaux de réparations et d’entretien;"
+  },
+  {
+    "en": "Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance, which is identified as outside the scope of the Financial Management business process;",
+    "fr": "4.1.3 – Effectuer les travaux de réparations et d’entretien, exclu de la portée du processus opérationnel de la Gestion des autres immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "Connector for Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "connecteur du sous-processus 4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Connector for Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance, which is identified as outside the scope of the Manage Other Capital Assets business process;",
+    "fr": "connecteur du sous-processus 4.1.3 – Effectuer les travaux de réparations et d’entretien, exclu de la portée du processus opérationnel de la Gestion des autres immobilisations;"
+  },
+  {
+    "en": "Connector for Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "connecteur du sous-processus 4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Connector for Subprocess 4.1.6 – Conduct Periodic Asset Assessment; and",
+    "fr": "connecteur du sous-processus 4.1.6 – Procéder à l’évaluation périodique des immobilisations;"
+  },
+  {
+    "en": "Activity 4.1.5.1 – Compile Asset Listing.",
+    "fr": "activité 4.1.5.1 – Dresser la liste des immobilisations."
+  },
+  {
+    "en": "Activity 4.1.5.5 – Summarize Required Changes to Asset Record results in the output titled “Asset information,” which flows to a connector for Subprocess 4.1.1 – Create or Update Asset Record.",
+    "fr": "4.1.5.5 – Résumer les changements à saisir dans la fiche d’immobilisation, qui produit l’extrant ou donnée de sortie « Information sur l’immobilisation » conduisant au connecteur du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation;"
+  },
+  {
+    "en": "Activity 4.1.5.6 – Prepare Disposal Information results in the output titled “Disposal notification,” which flows to a connector for Subprocess 4.1.7 – Process Asset Disposal.",
+    "fr": "4.1.5.6 – Préparer l’information au sujet de l’aliénation, qui produit l’extrant ou donnée de sortie « Notification d’aliénation » conduisant au connecteur du sous-processus 4.1.7 – Traiter l’aliénation de l’immobilisation."
+  },
+  {
+    "en": "The first is “Approved investment plan and budget,” which flows from a connector from Business Process 1.1 – Manage Planning and Budgeting; and",
+    "fr": "le « Budget et plan d’investissement approuvés », qui vient du connecteur du processus opérationnel 1.1 – Gestion de la planification et de la budgétisation;"
+  },
+  {
+    "en": "The second is “Asset count results,” which flows from a connector for Subprocess 4.1.5 – Conduct Periodic Physical Asset Count.",
+    "fr": "les « Résultats du décompte des immobilisations », qui viennent du connecteur du sous-processus 4.1.5 – Effectuer le décompte périodique des immobilisations."
+  },
+  {
+    "en": "Connector for Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "connecteur du sous-processus 4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Connector for Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance, which is identified as outside the scope of the Manage Other Capital Assets business process;",
+    "fr": "connecteur du sous-processus 4.1.3 – Effectuer les travaux de réparations et d’entretien, exclu de la portée du processus opérationnel de la Gestion des autres immobilisations;"
+  },
+  {
+    "en": "Connector for Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "connecteur du sous-processus 4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Connector for Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "connecteur du sous-processus 4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Activity 4.1.6.1 – Compile Asset Listing.",
+    "fr": "activité 4.1.6.1 – Dresser la liste des immobilisations."
+  },
+  {
+    "en": "Activity 4.1.6.4 – Summarize Required Changes to Asset Record results in the output titled “Asset information,” which flows to a connector for Subprocess 4.1.1 – Create or Update Asset Record.",
+    "fr": "4.1.6.4 – Résumer les changements à saisir dans la fiche d’immobilisation, qui produit l’extrant ou donnée de sortie « Information sur l’immobilisation », qui conduit au connecteur du sous-processus 4.1.1 – Créer ou mettre à jour la fiche d’immobilisation;"
+  },
+  {
+    "en": "Activity 4.1.6.5 – Summarize Impairment Information advances to Activity 4.1.6.6 – Record Journal Entry and to a connector for Business Process 8.2 – Manage Financial Close.",
+    "fr": "4.1.6.5 – Résumer l’information au sujet de la dépréciation, conduit à l’activité 4.1.6.6 – Enregistrer l’écriture de journal et au connecteur du processus opérationnel 8.2 Gestion de la clôture financière;"
+  },
+  {
+    "en": "Activity 4.1.6.6 – Prepare Disposal Information results in the output titled “Disposal information,” which flows to a connector for Subprocess 4.1.7 – Process Asset Disposal.",
+    "fr": "4.1.6.7 – Préparer l’information au sujet de l’aliénation, qui produit l’extrant ou donnée de sortie « Information sur l’aliénation », qui conduit au connecteur du sous-processus 4.1.7 – Traiter l’aliénation de l’immobilisation."
+  },
+  {
+    "en": "Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "Subprocess 4.1.1 – Create or Update Asset Record;",
+    "fr": "4.1.1 – Créer ou mettre à jour la fiche d’immobilisation;"
+  },
+  {
+    "en": "Subprocess 4.1.2 – Calculate Monthly Amortization;",
+    "fr": "4.1.2 – Calculer l’amortissement mensuel;"
+  },
+  {
+    "en": "Subprocess 4.1.3 – Undertake Ongoing Asset Repairs and Maintenance, which is identified as outside the scope of the Manage Other Capital Assets business process;",
+    "fr": "4.1.3 – Effectuer les travaux de réparations et d’entretien, exclu de la portée du processus opérationnel de la Gestion des autres immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.4 – Conduct Periodic Analysis of Assets Under Construction;",
+    "fr": "4.1.4 – Effectuer l’analyse périodique des immobilisations en construction;"
+  },
+  {
+    "en": "Subprocess 4.1.5 – Conduct Periodic Physical Asset Count; and",
+    "fr": "4.1.5 – Effectuer le décompte périodique des immobilisations;"
+  },
+  {
+    "en": "Subprocess 4.1.6 – Conduct Periodic Asset Assessment.",
+    "fr": "4.1.6 – Procéder à l’évaluation périodique des immobilisations."
+  },
+  {
+    "en": "Need Identification is indicated by the Request;",
+    "fr": "la Définition des besoins est indiquée par la Demande;"
+  },
+  {
+    "en": "Obligation is the Recognition of the Obligation;",
+    "fr": "l’Obligation est la constatation de l’Obligation;"
+  },
+  {
+    "en": "Performance, Validation and Certification is indicated by the Invoice; and",
+    "fr": "l’étape Rendement, validation et attestation est indiquée par la facture;"
+  },
+  {
+    "en": "Payment is indicated by the Deposit.",
+    "fr": "le Paiement est indiqué par le dépôt."
+  },
+  {
+    "en": "Need Identification is indicated by Expenditure Initiation;",
+    "fr": "la Définition des besoins est indiquée par l’engagement des dépenses;"
+  },
+  {
+    "en": "Obligation is the Recognition of the Obligation;",
+    "fr": "l’Obligation est la constatation de l’Obligation;"
+  },
+  {
+    "en": "Performance, Validation and Certification is indicated by Section 34 of the ; and",
+    "fr": "l’étape Rendement, validation et attestation est indiquée par Article 34, LGFP;"
+  },
+  {
+    "en": "Payment is indicated by Section 33 of the .",
+    "fr": "le Paiement est indiqué par Article 33, LGFP."
+  },
+  {
+    "en": "Requirements Framework;",
+    "fr": "Cadre des exigences"
+  },
+  {
+    "en": "Financial Management;",
+    "fr": "Gestion financière"
+  },
+  {
+    "en": "Materiel Management; and",
+    "fr": "Gestion du matériel"
+  },
+  {
+    "en": "Central Services.",
+    "fr": "Services centraux."
+  },
+  {
+    "en": "Financial Management Sector of the Office of the Comptroller General;",
+    "fr": "Secteur de la gestion financière du Bureau du contrôleur général"
+  },
+  {
+    "en": "Acquired Services and Assets Sector of the Office of the Comptroller General; and",
+    "fr": "Secteur des actifs et des services acquis du Bureau du contrôleur général"
+  },
+  {
+    "en": "Deputy head.",
+    "fr": "Administrateur général."
+  },
+  {
+    "en": "Corporate finance; and",
+    "fr": "Fonction ministérielle des finances"
+  },
+  {
+    "en": "Financial services.",
+    "fr": "Services financiers."
+  },
+  {
+    "en": "Materiel services; and",
+    "fr": "Services de gestion du matériel"
+  },
+  {
+    "en": "Responsibility centre manager.",
+    "fr": "Gestionnaire de centre de responsabilité"
+  },
+  {
+    "en": "Crown Assets Distribution Directorate of the Department of Public Works and Government Services.",
+    "fr": "Distribution des biens de la Couronne de Travaux publics et Services gouvernementaux."
+  }
+]

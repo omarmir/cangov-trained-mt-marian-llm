@@ -1,0 +1,54 @@
+[
+  {
+    "en": "This standard takes effect on May 4, 2022.",
+    "fr": "La présente Norme entre en vigueur le 4 mai 2022."
+  },
+  {
+    "en": "This standard applies to all systems; however,",
+    "fr": "La présente Norme s’applique à tous les systèmes, toutefois :"
+  },
+  {
+    "en": "Existing systems, developed or procured before May 4, 2022, will have 24 months to be fully transitioned to the requirements in this standard; or",
+    "fr": "Les systèmes existants ayant été développés ou acquis avant le 4 mai 2022, auront une période de 24 mois pour effectuer la transition complète vers les exigences de la présente Norme; ou"
+  },
+  {
+    "en": "For systems recognized as “legacy”, departments will have 24 months from the effective date to establish a plan to meet the requirements in this standard.",
+    "fr": "Pour les systèmes ayant été reconnus comme étant « patrimoniaux », les ministères auront une période de 24 mois à partir de la date d’entrée en vigueur pour établir un plan afin de rencontrer les exigences de la présente Norme."
+  },
+  {
+    "en": "This standard provides details in support of section 4.3.1.1 of the and sections 4.3.1 and 4.4.3.8 of the and replaces the dated (June 1, 2010).",
+    "fr": "Cette norme fournit des détails à l’appui de la section 4.3.1.1 de la et des sections 4.3.1 et 4.4.3.8 de la et remplace la datée du (1er juin 2010)."
+  },
+  {
+    "en": "Systems, either individually or when used in conjunction with one another, must:",
+    "fr": "Les systèmes, isolément ou utilisés conjointement, doivent :"
+  },
+  {
+    "en": "Permit users to discover, access, create, capture, collaborate and share information and data, as set out in R1.1.1, R1.1.2, R1.1.3 and R1.1.4 of ISO-16175-1:2020;",
+    "fr": "Permettre aux utilisateurs de rechercher de l’information et des données, d’y accéder, de les créer, de les saisir, de les mettre en commun et de les transmettre, conformément aux dispositions R1.1.1, R1.1.2, R1.1.3 et R1.1.4 de la norme ."
+  },
+  {
+    "en": "Have the capacity to manage the retention and disposition of information and data in a procedural and auditable way, as set out in R2.1.1, R2.1.2, R2.1.3, R2.1.4, R2.1.5, R2.1.6 and R2.1.7 of ;",
+    "fr": "Avoir la capacité de gérer la conservation et l’élimination de l’information et des données de façon procédurale et vérifiable, conformément aux dispositions R2.1.1, R2.1.2, R2.1.3, R2.1.4, R2.1.5, R2.1.6 et R2.1.7 de la norme ."
+  },
+  {
+    "en": "Support the use of metadata as an active, dynamic and integral part of the recordkeeping process, as set out in R1.2.1, R1.2.2, R1.2.3, R1.2.4, R1.3.1, and R1.3.2 of ;",
+    "fr": "Appuyer l’utilisation des métadonnées en tant que partie active, dynamique et intégrante du processus de tenue de documents, conformément aux dispositions R1.2.1, R1.2.2, R1.2.3, R1.2.4, R1.3.1 et R1.3.2 de la norme ."
+  },
+  {
+    "en": "Support the use of enterprise information and data taxonomies and classification structures to manage, store, search and retrieve information and data, as set out in R3.2.4 of ;",
+    "fr": "Appuyer l’utilisation de structures de classification et de taxonomies intégrées de données et d’information pour gérer, stocker, rechercher et extraire de l’information et des données, conformément à la disposition R3.2.4 de la norme ."
+  },
+  {
+    "en": "Support interoperability, as set out in R4.1.1, R4.1.2 and R4.1.3 of ;",
+    "fr": "Appuyer l’interopérabilité, conformément aux dispositions R4.1.1, R4.1.2 et R4.1.3 de la norme ISO-16175-1:2020."
+  },
+  {
+    "en": "Have the capacity for bulk import and export using open formats, as set out in R2.2.1, R2.2.2, R2.2.3, R2.2.4, and R2.2.5 of ;",
+    "fr": "Avoir la capacité d’importation et d’exportation en vrac selon des formats ouverts, conformément aux dispositions R2.2.1, R2.2.2, R2.2.3, R2.2.4 et R2.2.5 de la norme ."
+  },
+  {
+    "en": "Facilitate the secure management of information and data, and consideration of privacy and security categorization, as set out in R3.1.1, R3.1.2, R3.1.3, R3.1.4, R4.2.1, R4.2.2, R4.2.3 of .",
+    "fr": "Faciliter la gestion sécurisée de l’information et des données, et la prise en compte de la catégorisation de la protection des renseignements personnels et de la sécurité, conformément aux dispositions R3.1.1, R3.1.2, R3.1.3, R3.1.4, R4.2.1, R4.2.2, R4.2.3 de la norme ."
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "en": "This document is part of the Appendix A of the .",
+    "fr": "Ce document fait partie de l’Annexe A de la ."
+  },
+  {
+    "en": "If a department determines that an amortization period not within the ranges listed above is more appropriate, consultation with the Office of the Comptroller General is required.",
+    "fr": "Cette liste d’exemples n’est pas exhaustive."
+  },
+  {
+    "en": "This list of examples is not exhaustive.",
+    "fr": "Veuillez noter qu’une adhésion ou un abonnement à est nécessaire pour accéder à ce contenu"
+  },
+  {
+    "en": "Please note that a CPA Canada membership or an annual subscription is necessary to access this content.",
+    "fr": "SP 3150 Immobilisations corporelles"
+  },
+  {
+    "en": "PS 3150 Tangible capital assets",
+    "fr": "Les ministères doivent comptabiliser à titre d’immobilisation tout actif qui, en plus de satisfaire aux normes SP 3150 et SP 1000, est utilisé pour la production d’extrants de programme. (SP 3150.05, SP 1000.43)"
+  },
+  {
+    "en": "Departments should treat as a capital asset any asset that, in addition to meeting the criteria outlined in PS 3150 and PS 1000, is used to produce program outputs. (PS 3150.05, PS 1000.43)",
+    "fr": "Tous les actifs dont le coût unitaire est supérieur à 10 000 $ doivent être capitalisés. Les ministères peuvent abaisser le seuil comptable de diverses catégories de biens, mais ces catégories doivent être uniformes d’une année à l’autre. L’abaissement du seuil peut être nécessaire pour veiller à ce que toutes les immobilisations importante soient prises en compte dans les états financiers d’un ministère. Les seuils et les modifications qui leur sont apportées doivent être déclarés dans une note accompagnant les états financiers ministériels. Les ministères doivent capitaliser tous les terrains, quel qu’en soit le coût."
+  },
+  {
+    "en": "All assets with a per-item cost greater than $10,000 must be capitalized. Departments may establish thresholds below $10,000 for different asset classes but these must be consistent from year to year. Lower thresholds may be necessary to ensure that all material capital assets are included in a department’s financial statements. Thresholds, and any changes to them, must be reported as a note to the department’s financial statements. Land should be capitalized regardless of its cost.",
+    "fr": "Parfois, plus d’un ministère prennent part à l’utilisation d’un bien. La notion de « contrôle » doit être appliquée pour déterminer le ministère qui comptabilise et amortit le bien dans ses états financiers. En cas d’incertitude sur l’entité responsable de la déclaration de l’actif, il faut consulter le Bureau du contrôleur général. (SP 3210.16-24)"
+  },
+  {
+    "en": "In certain cases, more than one department may have some involvement in the use of an asset. The concept of control should be used in determining the department that records and amortizes the asset in their financial statements. The Office of the Comptroller General should be consulted when it is unclear which entity should record the asset. (PS 3210.16-.24)",
+    "fr": "Les immobilisations comprennent:"
+  },
+  {
+    "en": "Capital assets include:",
+    "fr": "les terrains, immeubles, actifs militaires, infrastructure, logiciels (se reporter à la section ci-dessous pour d’autres consignes), matériel informatique, véhicules, équipement, améliorations (se reporter à la section sur les biens du patrimoine ci-dessous pour d’autres consignes) et améliorations locatives;"
+  },
+  {
+    "en": "land, buildings, military assets, infrastructure, computer software (see below for further guidance), computer hardware, vehicles, equipment, betterments (see below for further guidance on heritage assets) and leasehold improvements;",
+    "fr": "les actifs acquis en vertu de contrats de location-acquisition ou de dons;"
+  },
+  {
+    "en": "assets acquired by capital leases or donations;",
+    "fr": "les améliorations sur des biens du patrimoine opérationnels. Par « bien du patrimoine », on entend habituellement des biens, généralement irremplaçables, destinés à être conservés en fiducie pour les générations futures. Les biens du patrimoine opérationnels représentent des biens utilisés afin d’atteindre les objectifs du gouvernement et qui s’ajoutent à la garde du patrimoine national (p. ex. un édifice du patrimoine comportant des aires de bureau, un parc). Les biens patrimoniaux non opérationnels et les améliorations à ceux-ci ne doivent pas être capitalisés. Les biens patrimoniaux non opérationnels comprennent notamment les éléments suivants :"
+  },
+  {
+    "en": "betterments on operational heritage assets. Heritage assets are those assets, which are usually irreplaceable, that are intended to be preserved in trust for future generations. Operational heritage assets are those assets that are used to achieve government objectives in addition to the maintenance of national heritage (e.g., heritage building with office space, parkland). Non-operational heritage assets and betterments on them should not be capitalized. Non-operational heritage assets include, but are not limited to, the following:",
+    "fr": "les musées et leurs collections, autres œuvres d’art, archives nationales; et"
+  },
+  {
+    "en": "Museum and gallery collections, other works of art, national archives; and",
+    "fr": "les sites archéologiques, ruines, lieux de sépulture, monuments et statues."
+  },
+  {
+    "en": "Archeological sites, ruins, burial sites, monuments and statues.",
+    "fr": "Les immobilisations ne comprennent pas:"
+  },
+  {
+    "en": "Capital assets do not include:",
+    "fr": "les éléments incorporels, notamment les droits d’auteur, marques de commerce, brevets, servitudes et les droits de passage"
+  },
+  {
+    "en": "intangible assets including, but not limited to, copyrights, trademarks, patents, easements and rights of way;",
+    "fr": "les biens immeubles situés sur les réserves telles que définies dans la ;"
+  },
+  {
+    "en": "immovable assets located on reserves as defined in the ;",
+    "fr": "les terres de la Couronne pour lesquelles il n’y a pas de coût d’acquisition connu;"
+  },
+  {
+    "en": "Crown lands for which there is no known acquisition cost;",
+    "fr": "les biens désuets ou excédentaires;"
+  },
+  {
+    "en": "obsolete or surplus items;",
+    "fr": "les coûts de recherche, puisque les avantages économiques futurs sont incertains."
+  },
+  {
+    "en": "research costs, since future economic benefits are uncertain.",
+    "fr": "Le coût de certains articles, tels des outils, des meubles et des ordinateurs de bureau, portables ou tablettes, peut être inférieur au seuil de capitalisation au plan individuel mais répondent par ailleurs à la définition d’une immobilisation. Ces articles font habituellement l’objet d’achats de masse ou sont tenus en grande quantité de sorte qu’ils représentent dans l’ensemble une dépense importante. Dans ce cas, les ministères peuvent capitaliser tous les articles acquis dans une catégorie ou un groupe de biens donnés et amortir la catégorie sur une période d’amortissement déterminée à l’avance."
+  },
+  {
+    "en": "Certain items, such as tools, furniture and desktop, laptop or tablet computers, may be below the capitalization threshold individually but otherwise meet the definition of a capital asset. These are typically purchased or held in large quantities so as to represent significant expenditures overall. In such cases, departments may capitalize all items acquired in a given asset class or pool and amortize the pool over a pre-determined amortization period.",
+    "fr": "Les pièces de rechange acquises lors de l’achat de l’immobilisation d’origine peuvent faire partie intégrante de l’achat de l’immobilisation et de son coût total. Cependant, les ministères peuvent choisir de les comptabiliser séparément. Les pièces de rechange achetées après l’acquisition de l’immobilisation doivent être comptabilisées comme articles en stock, sauf si elles satisfont au critère du regroupement d’actifs décrit dans le paragraphe précédent."
+  },
+  {
+    "en": "Spare parts acquired as part of the same procurement as the original capital asset may be considered integral to the acquisition of the asset and form part of the total cost of the capital asset. However, departments may choose to account for these separately. Spare parts purchased following the initial procurement of the capital asset should be accounted for as inventory items unless they meet the criteria for pooled assets as outlined in the preceding paragraph.",
+    "fr": "Les coûts indirects qui sont capitalisés comprennent ceux qui sont directement imputables à l’activité de construction, de développement ou de mise en valeur d’un actif et peuvent inclure le coût de l’espace loué utilisé uniquement aux fins des activités de construction ou de mise en valeur. (SP 3150.10)"
+  },
+  {
+    "en": "Overhead costs that are capitalized include those directly attributable to the construction, development or acquisition of an asset and may include the cost of leased space used solely for the construction or development activities. (PS 3150.10)",
+    "fr": "Les autres coûts indirects relatifs à l’activité de construction, de développement ou de mise en valeur d’un actif, comme les régimes d’avantages sociaux de l’employeur (RASE), les services juridiques internes, les assurances de la fonction publique et les frais standard pour les locaux, doivent être capitalisés s’ils sont considérés comme une partie importante du coût de l’actif selon le ministère."
+  },
+  {
+    "en": "Other indirect costs related to the construction, development or acquisition of an asset, such as employer benefit plans (EBPs), internal legal services, public service insurance and standard accommodation allowances, should be capitalized if, in the judgment of the department, they are considered material to the cost of the asset.",
+    "fr": "La taxe sur les produits et services (TPS), la taxe de vente harmonisée (TVH) et la taxe de vente du Québec (TVQ) ne doivent pas être capitalisées."
+  },
+  {
+    "en": "Goods and Services Tax (GST), Harmonized Sales Tax (HST) and Quebec Sales Tax (QST) should not be capitalized.",
+    "fr": "Les frais d’intérêt liés aux coûts de financement engagés pendant la construction d’un bien ne sont pas capitalisés, exception faite des frais d’intérêt payés au cours de la période de construction par un partenaire privé d’une entente de partenariat public-privé et qui seront payés par le gouvernement. Ces frais d’intérêts doivent être inclut dans les coûts du projet."
+  },
+  {
+    "en": "When government is constructing an asset, interest expenses related to the financing costs incurred while an asset is under construction should not be capitalized. An exception relates to interest incurred during the construction period by the private partner in a public-private partnership arrangement that will be paid for by the government. This interest should be included as part of the capital cost of the project.",
+    "fr": "Les contrats de location doivent être analysés en vertu de la NOSP-2. S’il est déterminé que le ministère acquiert une immobilisation corporelle louée, elle doit être comptabilisée à la valeur actualisée des paiements minimums exigibles au titre de la location. Conformément à la NOSP-2, le taux d’actualisation utilisé pour établir cette valeur actualisée doit être le moins élevé du taux d’intérêt implicite du bail ou du taux d’intérêt marginal du gouvernement. Le taux d’intérêt marginal du gouvernement est déterminé en sélectionnant le taux sur la courbe de rendement réel des obligations à coupon zéro du gouvernement du Canada qui correspond à la durée du bail, établi à la date d’entrée en vigueur du bail. Dans certains cas, le taux d’intérêt implicite du bail est utilisé comme taux d’actualisation même si celui-ci est supérieur au taux d’intérêt marginal. Si le ministère applique un taux d’intérêt supérieur, il doit préparer une analyse de rentabilisation pour en justifier le recours et en demander l’approbation par le Bureau du contrôleur général."
+  },
+  {
+    "en": "Leases should be assessed under PSG-2. Should it be determined that the department has a leased tangible capital asset, it should be recorded at the present value of the minimum lease payments. Further to PSG-2, the discount rate used in determining the present value of minimum lease payments should be the lower of the interest rate implicit in the lease and the government’s rate for incremental borrowing. The government’s rate for incremental borrowing is determined by selecting the rate on the actual yield curve for zero-coupon Government of Canada bonds which matches the term of the lease, established at the date of inception of the lease. There may be situations where the interest rate implicit in the lease is used as the discount rate, even though this rate may be higher than the government’s rate for incremental borrowing. If a higher rate is used, a business case to support its use should be approved by the Office of the Comptroller General.",
+    "fr": "Aux fins de la capitalisation et de l’amortissement, il existe deux méthodes pour définir une immobilisation : l’immobilisation globale et l’immobilisation individuelle."
+  },
+  {
+    "en": "For the purposes of capitalization and amortization, the two methods of defining capital assets are the Whole Asset and Component approaches.",
+    "fr": "La méthode de l’immobilisation globale envisage l’actif comme un assemblage de parties interreliées. Les coûts de toutes les pièces doivent être capitalisés et amortis comme un seul actif. Par exemple, un réseau informatique est réputé former un seul actif."
+  },
+  {
+    "en": "The Whole Asset approach considers an asset to be an assembly of connected parts. Costs of all parts should be capitalized and amortized as one asset. For example, a computer network would be considered one asset.",
+    "fr": "En vertu de la méthode de l’immobilisation individuelle, divers éléments sont capitalisés et amortis séparément. Ainsi, les serveurs, les routeurs, les lignes, les logiciels, etc., utilisés dans un réseau constitueraient des immobilisations individuelles."
+  },
+  {
+    "en": "Under the Component approach, different components are individually capitalized and amortized. Under this approach, the servers, routers, lines, software, etc., used in a network would be individual assets.",
+    "fr": "Les méthodes de l’immobilisation globale et individuelle sont toutes deux acceptables en vertu des normes comptables du secteur public. Dans certains cas, il est avantageux d’affecter les dépenses totales à l’égard d’une immobilisation à ses composantes et de comptabiliser chacune d’elles séparément. Cette démarche s’applique aux composantes qui ont des vies utiles différentes ou qui offrent des avantages économiques ou présentent un potentiel de service prenant diverses formes, nécessitant par le fait même l’utilisation de taux et de méthodes d’amortissement différents. Par exemple, le revêtement de sol, la couche de base et la couche de fondation, les bordures, les voies piétonnières, les ponts et les appareils d’éclairage peuvent devoir être considérés comme des éléments distincts d’un réseau routier dans la mesure où leurs vies utiles respectives sont différentes. De même, le fuselage d’un aéronef et les moteurs peuvent devoir être considérés comme des biens amortissables distincts si leur vie utile est différente. Parmi les autres facteurs qui influent sur le choix de la méthode comptable, mentionnons :"
+  },
+  {
+    "en": "The Whole Asset approach and the Component approach are equally acceptable under Public Sector Accounting Standards. In certain circumstances, it may be appropriate to allocate the total expenditure on an asset to its component parts and account for each component separately. This is the case when the component assets have different useful lives or provide economic benefits or service potential to the entity in a different pattern, thus requiring the use of different amortization rates and methods. For example, the pavement, base and subgrade, curbs, footpaths, bridges and lighting within a road system may need to be treated as separate items to the extent that they have different useful lives. Similarly, an aircraft body and its engines may need to be treated as separate depreciable assets if they have different useful lives. Additional factors influencing the choice of method include:",
+    "fr": "l’importance des montants;"
+  },
+  {
+    "en": "Significance of amounts;",
+    "fr": "la quantité de composantes individuelles ;"
+  },
+  {
+    "en": "Quantity of individual asset components;",
+    "fr": "la disponibilité des informations relatives au coût et à la durée de vie utile des composantes particulières; et"
+  },
+  {
+    "en": "Availability of information with respect to the cost and useful life of specific components; and,",
+    "fr": "les besoins particuliers en information de la direction aux fins de la prise de décisions et du contrôle des immobilisations."
+  },
+  {
+    "en": "Management’s information needs for decision-making and asset control purposes.",
+    "fr": "Le ministère doit consulter le Bureau du contrôleur général s’il décide de modifier l’approche utilisée pour une catégorie particulière d’actifs."
+  },
+  {
+    "en": "If a decision is made to change the approach used for a particular asset class, consultation with the Office of the Comptroller is required.",
+    "fr": "Les améliorations sont des dépenses liées à la modification ou à la modernisation d’un actif qui visent à accroître la fonctionnalité ou à prolonger la vie utile d’une immobilisation (tandis que les réparations ont pour but de maintenir la fonctionnalité de l’immobilisation). Si la distinction entre une réparation et une amélioration ne peut être facilement établie, le coût doit être passé en charges conformément au principe de prudence en comptabilité. (SP 3150.19-.21)"
+  },
+  {
+    "en": "Betterments are expenditures relating to the alteration or modernization of an asset that appreciably prolong the item’s period of usefulness or improve its functionality (vs. a repair, which maintains an asset’s functionality). Where a cost cannot easily be differentiated between a repair and a betterment, the cost should be expensed in accordance with the accounting principle of conservatism. (PS 3150.19-.21)",
+    "fr": "Si un bien déprécié et mis hors service est par la suite remis en service, sa valeur comptable ne doit pas être réévaluée. Seules les améliorations effectuées pour remettre en service le bien doivent être ajoutées à la valeur comptable."
+  },
+  {
+    "en": "If a capital asset that has been written down and removed from service is subsequently returned to service, its book value should not be written up. Only betterments that have been made to bring the asset back into service should be added to the book value.",
+    "fr": "Pour être réputée amélioration locative (ex. une amélioration apportée à un bien loué), une modification doit comporter les quatre caractéristiques suivantes :"
+  },
+  {
+    "en": "A leasehold improvement (i.e., an improvement made to leased property) must have the following four characteristics:",
+    "fr": "les modifications doivent être apportées à une immobilisation qui est assujettie à un contrat de location-exploitation ou à un contrat de location-acquisition où la possession n’est pas transférée au preneur à bail (c.-à-d. le contrat ne contient pas d’option d’achat à prix de faveur ou ne prévoit pas le transfert de possession du bien);"
+  },
+  {
+    "en": "The modifications must be made to an asset that is subject to an operating lease or to a capital lease where ownership does not transfer to the lessee (i.e., the lease does not contain a bargain purchase option or provide for transfer of ownership of the asset);",
+    "fr": "le ministère preneur doit payer les améliorations. Si les coûts relèvent du bailleur (p. ex. SPAC), ce dernier comptabilise les coûts dans ses propres registres;"
+  },
+  {
+    "en": "The lessee department must pay for the improvements. If the costs are the responsibility of the lessor (e.g., PSPC), then the lessor should account for the costs in its own records;",
+    "fr": "les améliorations locatives doivent être durables et conférer des avantages au ministère pour plus d’un an; et"
+  },
+  {
+    "en": "The leasehold improvements should be durable, bringing benefits to the department for more than one year; and",
+    "fr": "l’amélioration retourne au bailleur à la fin du bail (elle ne peut pas être dissociée du bien donné à bail), ou n’offre aucun autre avantage économique pour le ministère à la conclusion du bail."
+  },
+  {
+    "en": "The improvements revert to the lessor at the end of the lease (i.e., cannot be detached from the leased property), or have no further economic benefit to the department at the end of the lease.",
+    "fr": "Parmi les exemples d’améliorations locatives qui doivent être capitalisées, mentionnons la rénovation importante du système électrique en vue de satisfaire aux besoins des systèmes informatiques et l’installation de murs et portes pour aménager des bureaux permanents. Au titre des modifications qui ne sont pas capitalisées, citons les frais de réaménagement, notamment la peinture et l’installation de moquettes."
+  },
+  {
+    "en": "Examples of leasehold improvements that should be capitalized include significant upgrades to an electrical system to meet the needs of computer systems and the installation of walls and doors to create permanent offices. Examples of modifications that should not be capitalized include remodeling costs such as painting and carpeting.",
+    "fr": "Les améliorations à une immobilisation louée sous un contrat de location-acquisition où la possession devrait être transférée au preneur à bail doivent être classifiées comme des améliorations."
+  },
+  {
+    "en": "Improvements made to an asset that is subject to a capital lease where ownership is expected to transfer to the lessee should be classified as betterments.",
+    "fr": "Lorsqu’un ministère construit un immeuble et/ou une infrastructure sur des terrains pris à bail, les frais qui s’y rattachent sont capitalisés à titre d’amélioration locative sauf si le terrain est loué d’un autre ministère du gouvernement ou si le contrat de location prévoit le transfert de possession. Dans ces derniers cas, l’immeuble et/ou l’infrastructure doit être comptabilisé comme un actif et non une amélioration locative."
+  },
+  {
+    "en": "Where a department constructs a building and/or infrastructure on leased land, these costs should be capitalized as a leasehold improvement except where the land is leased from another government department or the lease provides for transfer of ownership. In those cases, the building and/or infrastructure should be capitalized as an asset rather than a leasehold improvement.",
+    "fr": "Il y a certaines situations où il n’existe pas de contrat de location, mais les circonstances seraient considérées aux fins de comptabilité comme une location. Par exemple, des immobilisations qui ont été construites il y a plusieurs années sur un terrain sans droit ou titre d’occupation, ou lorsque le ministère occupe, sans frais, un immeuble détenu et géré par SPAC. Aussi longtemps qu’il est prévu que l’occupation se poursuivra, les améliorations faites à la propriété peuvent être capitalisées comme une amélioration locative et amorties sur la vie utile des améliorations."
+  },
+  {
+    "en": "In some situations, a lease agreement does not exist, but the circumstances may be deemed to be lease-like for accounting purposes. Examples include assets that were built years ago on land without right or title or where a department occupies a building owned and managed by PSPC free of charge. As long as the expectation is for continued occupancy, any improvements made to such property may be capitalized as leasehold improvements and amortized over the useful life of the improvements.",
+    "fr": "La durée de vie utile d’un bien doit être déterminée en tenant compte de l’échéance des avantages économiques. Par exemple, la durée de vie utile peut se mesurer en années, en unités totales de production ou en un nombre global d’heures d’exploitation. La durée de vie utile d’un aéronef peut se fonder sur le nombre d’heures d’utilisation."
+  },
+  {
+    "en": "The service life of an asset should be determined on a basis that is linked with the expiration of the economic benefits. For example, service life may be measured in terms of years, total units of output, or total hours of operating time. Aircraft might use hours of operation as the appropriate measure of service life.",
+    "fr": "Lorsque la durée de vie utile est mesurée en années, il est recommandé d’amortir le bien sur une base linéaire pour en faciliter l’administration."
+  },
+  {
+    "en": "Where the appropriate measure of service life is in years, it is recommended that the amortization of assets be on a straight-line basis for administrative simplicity.",
+    "fr": "Pour l’estimation de durée de vie utile des actifs, il faut tenir compte de divers facteurs, notamment le plan ministériel de gestion des immobilisations, l’historique des catégories d’actifs, les possibles avancées technologiques et les travaux prévus de réparation et d’entretien. Le coût initial des terrains ne fait pas l’objet d’un amortissement. Les périodes d’amortissement d’autres biens doivent s’établir selon les principes suivantss :"
+  },
+  {
+    "en": "In estimating the useful life of assets, consideration should be given to the department’s asset management plan, history with the asset class, potential technology advances and anticipated repairs and maintenance, among other factors. The original cost of land is not amortized. Other assets should be amortized over the following life spans:",
+    "fr": "Bâtimentss :s 10 à 125 ans"
+  },
+  {
+    "en": "Buildings: 10 to 125 years",
+    "fr": "Matériel et outillages :s 3 à 30 ans"
+  },
+  {
+    "en": "Machinery and equipment: 3 to 30 years",
+    "fr": "Travaux et infrastructures :s 10 à 100 ans"
+  },
+  {
+    "en": "Works and infrastructure: 10 to 100 years",
+    "fr": "Matériel informatiques :s 3 à 10 ans"
+  },
+  {
+    "en": "Informatics hardware: 3 to 10 years",
+    "fr": "Logiciels :s 2 à 10 ans"
+  },
+  {
+    "en": "Informatics software: 2 to 10 years",
+    "fr": "Armes de défenses :s 3 à 30 ans;"
+  },
+  {
+    "en": "Arms and weapons for defence: 3 to 30 years",
+    "fr": "Véhicules automobiles (non militaires)s :s 2 à 35 ans"
+  },
+  {
+    "en": "Motor vehicles (non-military): 2 to 35 years",
+    "fr": "Véhicules militairess :s 3 à 25 ans"
+  },
+  {
+    "en": "Military vehicles: 3 to 25 years",
+    "fr": "Navires et bateauxs :s 10 à 50 ans"
+  },
+  {
+    "en": "Ships and boats: 10 to 50 years",
+    "fr": "Aéronefss :s 20 à 40 ans"
+  },
+  {
+    "en": "Aircraft: 20 to 40 years",
+    "fr": "Améliorations locativess :s durée de vie de l’amélioration ou durée du bail, la plus courte de ces périodes étant retenue. La durée du bail englobe les périodes d’option de renouvellement lorsque l’on prévoit la prolongation du bail."
+  },
+  {
+    "en": "Leasehold improvements: Over the useful life of the improvement or the lease term, whichever is shorter. The lease term should include any renewal option periods where extension of the lease is expected.",
+    "fr": "Améliorationss :s durée de vie utile de l’immobilisation auquel l’amélioration a été faite ou la durée de vie utile de l’amélioration si celle-ci est plus courte de manière significative."
+  },
+  {
+    "en": "Betterments: Over the useful life of the asset to which the improvement was made or the useful life of the betterment, if significantly shorter.",
+    "fr": "Le ministère doit consulter le Bureau du contrôleur général s’il conclut qu’une période d’amortissement autre que celles susmentionnées est plus pertinente."
+  },
+  {
+    "en": "Amortization should be recorded monthly commencing on the first day of the month following the month the asset became ready for productive use. Note: For pooled assets, where purchases and disposals affect the pool balance throughout the year, the amortization calculation may be based on the estimated pool balance rather than actual. For example, where a type of asset has an average expected life of 3 years and the average balance of the pool throughout the year is $1 million, the monthly amortization would be calculated as 1/36 x $1 million. The amortization charges related to the pool should be reviewed for reasonableness at year-end.",
+    "fr": "L’amortissement est comptabilisé tous les mois à compter du premier jour du mois suivant le mois où l’actif est devenu prêt à être utilisé de manière productive. Concernant les éléments d’actifs groupés, lorsque l’achat et la cession influent sur le solde du groupe pendant toute l’année, le calcul de l’amortissement peut se fonder sur le solde estimatif du groupe, plutôt que sur le solde réel. Par exemple, lorsqu’un type de bien possède une durée prévue moyenne de trois ans et que le solde moyen du groupe pendant toute l’année s’élève à un million de dollars, l’amortissement mensuel représente 1/36 d’un million de dollars. Les frais d’amortissement liés au groupe doivent être examinés à la fin de l’exercice pour en déterminer le caractère raisonnable."
+  },
+  {
+    "en": "The amortization method and estimate of the useful life of the remaining unamortized portion of a tangible capital asset should be reviewed every three years at a minimum and revised when the appropriateness of a change can be clearly demonstrated.",
+    "fr": "La méthode d’amortissement et l’estimation de la durée de vie utile du solde non amorti d’une immobilisation corporelle doivent être révisées au moins tous les trois ans et être modifiées lorsque l’opportunité d'un changement peut être clairement établie."
+  },
+  {
+    "en": "Transfers of capital assets between departments must be at the net book value of the asset. The receiving department must record the asset at its original historical cost and accumulated amortization and the transferring department must remove the capital asset’s historical cost and accumulated amortization from its books. As a result, the accounting treatment will not produce a gain or loss and there will be no impact at the government-wide level. Since interdepartmental transfers are related-party transactions, the equity accounts of the departments should be credited or debited with the net book value of the capital asset. Please refer to GC 3420 Inter-entity Transactions for further guidance on inter-entity transactions.",
+    "fr": "Les transferts entre ministères doivent être faits à la valeur comptable nette du bien. Le ministère qui reçoit l’immobilisation doit comptabiliser le coût d’origine de ce bien ainsi que son amortissement cumulé à la date du transfert. De plus, le coût d’origine de l’immobilisation transférée ainsi que son amortissement cumulé doivent être éliminés des livres du ministère cédant. Par conséquent, le traitement comptable de ce transfert ne donnera lieu à aucun gain ou perte et la transaction n’aura aucun effet à l’échelle du gouvernement. Étant donné que les transferts interministériels sont des opérations entre apparentés, il faut que la valeur comptable nette de l’immobilisation soit créditée ou débitée dans les comptes d’avoir des ministères. Veuillez consulter le GC 3420 Opérations entre entités pour obtenir de plus amples renseignements sur les opérations entre entités."
+  },
+  {
+    "en": "Land transferred from an outside party to a department should only be capitalized as an asset when the agreement provides for a transfer of ownership.",
+    "fr": "Le transfert d’un terrain par un tiers à un ministère doit seulement être comptabilisé comme un actif quand l’entente prévoit le transfert de possession."
+  },
+  {
+    "en": "The acquisition or development of software may result in a capital asset, whether the software resides on hardware owned by a department or on cloud-based servers.",
+    "fr": "L’acquisition ou le développement de logiciels peut donner lieu à une immobilisation, que le logiciel réside sur du matériel appartenant à un ministère ou sur des serveurs en nuage."
+  },
+  {
+    "en": "The cost of a software asset includes expenditures related to implementation activities that are directly attributable to preparing the software asset for its intended use. Examples of implementation activities include:",
+    "fr": "Le coût d’un actif logiciel inclue les dépenses liées aux activités d’implantation directement attribuables à la préparation de l’actif logiciel en vue de son utilisation prévue. Voici des exemples d’activités d’implantation :"
+  },
+  {
+    "en": "integration;",
+    "fr": "l’intégration;"
+  },
+  {
+    "en": "customization or coding;",
+    "fr": "la personnalisation ou codage;"
+  },
+  {
+    "en": "configuration;",
+    "fr": "la configuration;"
+  },
+  {
+    "en": "data conversion;",
+    "fr": "la conversion de données;"
+  },
+  {
+    "en": "costs of testing whether the software if functioning properly;",
+    "fr": "les coûts des tests pour savoir si le logiciel fonctionne correctement;"
+  },
+  {
+    "en": "training specific to implementation;",
+    "fr": "la formation propre à l’implantation;"
+  },
+  {
+    "en": "business process reengineering;",
+    "fr": "la réingénierie des processus;"
+  },
+  {
+    "en": "costs of employee benefits (if material) arising directly from bringing the software to its working condition; and",
+    "fr": "les coûts des avantages pour les employés (s'ils sont importants) découlant directement de la mise en état de fonctionnement du logiciel; et"
+  },
+  {
+    "en": "professional fees arising directly from bringing the software to its working condition.",
+    "fr": "les frais professionnels découlant directement de la mise en état de fonctionnement du logiciel."
+  },
+  {
+    "en": "Costs that are not directly attributable to the implementation of the software asset are expensed. Examples include:",
+    "fr": "Les coûts qui ne sont pas directement attribuables à l’implantation de l’actif logiciel sont passés en charges. Les exemples incluent :"
+  },
+  {
+    "en": "advertising and promotional activities;",
+    "fr": "les activités publicitaires et promotionnelles;"
+  },
+  {
+    "en": "end-user training, and;",
+    "fr": "la formation des utilisateurs finaux; et"
+  },
+  {
+    "en": "administration and other general overhead costs",
+    "fr": "les frais administratifs et autres frais généraux."
+  },
+  {
+    "en": "Where software is included in the purchase price of hardware (e.g., operating system software) and the cost of the software cannot be reliably calculated, the software should be capitalized and amortized as part of the hardware.",
+    "fr": "Lorsque le logiciel est compris dans le prix d’achat du matériel (p. ex. logiciel d’exploitation de système) et que le coût du logiciel ne peut être établi avec certitude, le logiciel doit être capitalisé et amorti comme s’il faisait partie du matériel informatique."
+  },
+  {
+    "en": "If the department pays a one-time licensing fee to use the software, the department can be said to have acquired service potential or future economic benefits relating to that software, so the license fee should be capitalized as part of the software. A licensing fee that is not one-time (e.g., a yearly licensing fee which typically covers maintenance and upgrades automatically provided by the vendor) indicates that any service potential or future economic benefits obtained would normally expire when the next payment is due and should therefore be expensed.",
+    "fr": "Si le ministère verse un montant unique pour des droits de licence, il peut être réputé avoir acquis les avantages économiques futurs se rapportant à ce logiciel, de sorte que le coût rattaché à la licence puisse être capitalisé comme faisant partie du logiciel. Les droits de licence qui ne sont pas un montant unique (p. ex. un droit annuel qui porte habituellement sur l’entretien et les mises à niveau offertes automatiquement par le fournisseur) indiquent que les avantages économiques futurs acquis se terminent habituellement à la date du paiement suivant et doivent donc être passés en charges."
+  },
+  {
+    "en": "Data is the information that is inputted, manipulated, or treated and outputted by hardware and software. Data is not considered a capital asset.",
+    "fr": "Les données représentent l’information introduite dans le matériel informatique et le logiciel, qui est ensuite manipulée, traitée et produite par le matériel informatique et le logiciel. Les données ne sont pas considérées comme une immobilisation."
+  },
+  {
+    "en": "Upgrades and enhancements are defined as modifications to enable the software to perform tasks it was previously unable to perform or significantly improved its existing functionality. Upgrades and enhancements normally require new software specifications and may require a change to all or part of the existing software specifications. These costs are considered betterments. Examples include when the modifications result in an increase to previously assessed service capacity or when the modifications lower the associated operating costs, extend the useful life, adds a new functionality, or improve the quality of output.",
+    "fr": "Par définition, les mises à niveau et les améliorations sont des modifications qui permettent au logiciel d’effectuer des tâches qu’il était auparavant incapable d’exécuter ou de sensiblement améliorer ses fonctionnalités existantes. Les mises à niveau et améliorations exigent habituellement de nouvelles spécifications logicielles et peuvent nécessiter la modification, en tout ou en partie, des spécifications existantes du logiciel. Ces coûts sont des améliorations. Par exemple, mentionnons les modifications qui permettent d’accroître la capacité de service déjà déterminée, d’abaisser les frais d’exploitation connexes, de prolonger la durée de vie utile, d’ajouter une nouvelle fonction, ou de produire un résultat de meilleure qualité."
+  },
+  {
+    "en": "The costs incurred in the maintenance of the service potential of software should be expensed. Examples of maintenance include coding changes required for the software to remain current to meet user needs (such as to meet changes in legislative requirements) or changes required for systems to remain compatible. The department must use professional judgment to assess whether an upgrade or enhancement needs to be capitalized or expensed.",
+    "fr": "Les coûts engagés pour maintenir le potentiel de service de logiciels sont passés en charges. À titre d’exemple, mentionnons la modification requise des codes pour mettre à jour le logiciel afin de satisfaire aux besoins des utilisateurs (notamment pour tenir compte de l’évolution des exigences législatives), ou les modifications nécessaires pour assurer la compatibilité des systèmes. Le ministère doit faire preuve de jugement professionnel pour déterminer si une mise à niveau ou une amélioration doit être capitalisée ou passée en charges."
+  },
+  {
+    "en": "New versions of software may be accounted for as an expense or capitalized depending on the nature of the release. The cost of implementing and/or installing new versions of software that primarily contain “bug fixes” (i.e., do not deliver new functionality; merely correct errors in previously promised functionality) should be expensed. If a new version replaces the functionality of the old version, then the net carrying value of the latter should be expensed and the new version amortized over its anticipated useful life. If the new version adds to the functionality of the old version (e.g., additional modules), then the old version and the new version would be amortized over the original useful life or a revised useful life if significantly different.",
+    "fr": "Les nouvelles versions de logiciel peuvent être passées en charges ou capitalisées, selon la nature de la version. Le coût de mise en œuvre et/ou d’installation des nouvelles versions de logiciels qui renferment principalement des « résolutions de bogue » (qui n’offrent pas de nouvelles fonctions, et qui se limitent à corriger des erreurs dans des fonctions promises) est passé en charges. Si une nouvelle version remplace les fonctions d’une ancienne version, la valeur comptable nette de cette dernière doit être passée en charges et la nouvelle version doit être amortie sur sa durée de vie utile prévue. Si la nouvelle version n’a pour seul but que d’ajouter aux fonctions de l’ancienne version (p. ex. ajouter de nouveaux modules), l’ancienne et la nouvelle version sont amorties sur la durée de vie initiale ou sur la durée de vie révisée, si elles diffèrent sensiblement l’une de l’autre."
+  },
+  {
+    "en": "When a department incurs costs for computer software, but it is not probable that any service potential or future economic benefits from this software will occur by the time the financial statements are prepared, the department must not recognize an asset in the financial statements. In the case of software under development, if development ceases and a product is not anticipated, the costs capitalized to date should be immediately expensed.",
+    "fr": "Lorsqu’un ministère engage des frais dans des logiciels, mais qu’il est peu probable qu’il en obtiendra des avantages économiques futurs à la date de préparation des états financiers, ils ne doivent pas être constatés comme un élément d’actif dans les états financiers. Dans le cas des logiciels en préparation, si les travaux de mise au point cessent et qu’un produit n’est pas anticipé, les frais capitalisés à ce moment doivent immédiatement être passés en charges."
+  },
+  {
+    "en": "Any computer software that, after use or testing, fails to deliver the expected future economic benefits or service potential should be expensed.",
+    "fr": "Les coûts liés aux logiciels qui, après utilisation ou essai, ne débouchent pas sur les avantages économiques futurs doivent être passés en charges."
+  },
+  {
+    "en": "Software should be amortized on a straight-line basis unless another method can be demonstrated to be more appropriate. Further to the life span identified earlier in this document, Table 1 provides indicative useful lives for different types of software that departments may consider for amortization. The commencement and frequency of the amortization of software should be consistent with the principles described in PS 3150 and in this document.",
+    "fr": "Les logiciels doivent être amortis sur une base linéaire à moins que l’on prouve qu’une autre méthode convient mieux. À la lumière de la durée de vie utile décrite précédemment, le tableau 1 renferme des indications sur la durée de vie utile de divers types de logiciels dont les ministères pourraient envisager pour l’amortissement. Le début et la fréquence de l’amortissement de logiciels doivent être conformes aux principes décrits dans la norme SP 3150 et dans le présent document."
+  },
+  {
+    "en": "Applies without additional policy choices or interpretation for Departmental Financial Statements.",
+    "fr": "Des exigences similaires, sans autre choix de convention ni interprétation, s’appliquent aux états financiers ministériels."
+  },
+  {
+    "en": "PS 1000 Financial statement concepts",
+    "fr": "SP 1000 Fondements conceptuels des états financiers"
+  },
+  {
+    "en": "PS 1201 Financial statement presentation",
+    "fr": "SP 1201 Présentation des états financiers"
+  },
+  {
+    "en": "PS 3320 Contingent assets",
+    "fr": "SP 3320 Actifs éventuels"
+  },
+  {
+    "en": "PS 3380 Contractual rights",
+    "fr": "SP 3380 Droits contractuels"
+  },
+  {
+    "en": "GC 3260 Liability for Contaminated Sites",
+    "fr": "GC 3260 Passif au titre des sites contaminés"
+  },
+  {
+    "en": "GC 3280 Asset Retirement Obligations",
+    "fr": "GC 3280 Obligations liées à la mise hors service d'immobilisations"
+  }
+]

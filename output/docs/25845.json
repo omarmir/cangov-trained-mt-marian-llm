@@ -1,0 +1,122 @@
+[
+  {
+    "en": "This standard takes effect on July 1, 2012. This standard applies to vendor information associated with financial events which occur on or after the implementation date of the standard.",
+    "fr": "La présente norme entre en vigueur le 1er juillet 2012. Cette norme s'applique à l’information sur les fournisseurs associé à des événements financiers qui se produisent à ou après la date effective de la norme."
+  },
+  {
+    "en": "This standard applies to departments as defined in section 2 of the . Throughout this standard, the terms \"government-wide\" and \"across government\" refer to these organizations.",
+    "fr": "La présente norme s'applique aux ministères telle que définie à l'article 2 de la . Dans la présente norme, les expressions « à l'échelle du gouvernement » et « dans l'ensemble du gouvernement »désignent l'ensemble de ces organismes."
+  },
+  {
+    "en": "This standard supports the objectives of the by outlining the responsibilities of the chief financial officer for developing and maintaining vendor information for the organization to ensure consistent and reliable financial information government-wide.",
+    "fr": "La présente norme appuie les objectifs de la en énonçant les responsabilités du dirigeant principal des finances (DPF) quant à l’obtention et à la tenue à jour de l'information sur les fournisseurs pourl'organisation afin de veiller à assurer l’uniformité et la fiabilité de l’information financière à l’échelle du gouvernement."
+  },
+  {
+    "en": "This standard defines a common vendor record which allows for consistent recording, aggregation and reporting of financial information within the .",
+    "fr": "La présente norme définit un fichier fournisseur commun, ce qui permet un enregistrement, un regroupement et l’établissement de rapports conséquents dans le (SMGFM)."
+  },
+  {
+    "en": "This standard supports consistent and comparable vendor information on a government-wide basis for organizations or individuals that enter into financial arrangements in order to supply goods or services to the Government of Canada (GC), or for organizations or individuals for which an accounts payable will be established by the GC. The information maintained in the vendor record is used to support procurement, payment and reporting on business interactions with the GC.",
+    "fr": "La présente norme favorise l’obtention de renseignements conséquents et comparables sur les fournisseurs à l’échelle du gouvernement pour les organisations ou les personnes qui concluent une entente financière afin de fournir des biens ou des services au gouvernement du Canada (GC), ou pour les organisations ou les personnes pour lesquelles un comptecréditeur est ouvert auprès du GC. L’information conservée dans le fichier fournisseur est utilisée pour l’approvisionnement, les paiements et les rapports sur les interactions avec le GC."
+  },
+  {
+    "en": "The minimum mandatory structure for the vendor record is composed of the following data elements: vendor legal name; vendor category; vendor identification number; vendor address; vendor city; vendor region; vendor country; vendor postal code; vendor language preference; vendor tax recipient type, vendor tax identification number; and vendor banking information.",
+    "fr": "La structure de base d’un fichier fournisseur comprend les éléments suivants: nom du fournisseur, catégorie de fournisseur, numéro d’identification du fournisseur, adresse du fournisseur, région du fournisseur, ville du fournisseur, pays du fournisseur, code postal du fournisseur, préférence linguistique du fournisseur, numérod’identification du fournisseur aux fins de l’impôt, catégorie de bénéficiaires de l’impôt et données bancaires sur le fournisseur."
+  },
+  {
+    "en": "Excluded from this standard is vendor information related to one-time vendor transactions. Also excluded is vendor information from transactions that are completed through a cash payment (including credit cards), where no accounts payable is established, and no specific vendor information is maintained in the departmental financial and materiel management system.",
+    "fr": "N’est pas assujettie à la présente norme l’information sur les personnes et les organisations qui font affaire avec le gouvernement du Canada juste une seule fois. Également exclue est l’information fournisseur sur les transactions qui sont effectuées en espèces (y compris par carte de crédit), lorsqu’un compte créditeurn’est pas établi et qu’aucune information fournisseur n’est conservée dans le système ministériel de gestion des finances et du matériel."
+  },
+  {
+    "en": "This standard is issued pursuant to section 7 and 9 of the .",
+    "fr": "La présente norme est établie en vertu des articles 7 et 9 de ."
+  },
+  {
+    "en": "This standard is to be read in conjunction with the , and .",
+    "fr": "La présente norme doit être lue de concert avec la et la ."
+  },
+  {
+    "en": "Additional mandatory requirements are set out in the , , , Receiver General Manual, and (TBITS).",
+    "fr": ", la , la , le manuel du receveur général, les ainsi queles (NCTTI)."
+  },
+  {
+    "en": "Definitions to be used in the interpretation of this standard are in .",
+    "fr": "Les définitions servant à l'interprétation de la présente norme figurent à ."
+  },
+  {
+    "en": "To ensure that the vendor record provides consistent and comparable financial information government-wide.",
+    "fr": "Veiller à ce que le fichier fournisseur comprenne de l’information financière uniforme et comparable à l’échelle du gouvernement."
+  },
+  {
+    "en": "Financial information is consistently recorded and maintained in the departmental financial and materiel management system.",
+    "fr": "L’information financière est enregistrée et entretenue à jour de façon uniforme dans le système ministériel de gestion des finances et du matériel."
+  },
+  {
+    "en": "Developing and maintaining a vendor record, by April 1, 2013, that is integrated with the departmental financial and materiel management system.",
+    "fr": "Créer et tenir à jour, d’ici le 1er avril 2013, un fichier fournisseur qui est intégré au système ministériel de gestion des finances et du matériel."
+  },
+  {
+    "en": "Ensuring that the vendor record is used as defined and for its intended purpose and allows for the identification of all data elements of the vendor record described in .",
+    "fr": "S’assurer que l’information fournisseur qui est utilisé correspond à la définition établie, sert aux fins prévues et permet de repérer tous les éléments du fichier fournisseur qui figurent à ."
+  },
+  {
+    "en": "Chief financial officers are responsible for supporting their deputy heads by overseeing the implementation and monitoring of this standard in their departments, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues, developing proposals to address these, and reporting significant performance or compliance issues to the Office of the Comptroller General.",
+    "fr": "Le dirigeant principal des finances est responsable d'appuyer son administrateur général en surveillant la mise en œuvre et la surveillance de la présente norme dans son ministère, en portant à l'attention de l'administrateur général toute difficulté importante, les lacunes en matière de rendement ou les problèmes deconformité, en élaborant des propositions pour régler ces problèmes, et en faisant rapport au Bureau du contrôleur général des problèmes importants en matière de rendement ou de conformité."
+  },
+  {
+    "en": "The Comptroller General is responsible for monitoring departments' compliance with the requirements of this standard and conducting a review at the five year mark from the effective date of the standard.",
+    "fr": "Le contrôleur général est responsable de surveiller la conformité des ministères aux exigences de la présente norme et d'effectuer un examen cinq ans après la date effective de la norme."
+  },
+  {
+    "en": "In instances of non-compliance, the deputy heads are responsible for taking corrective measures within their organizations with those responsible for implementing the requirements of this standard.",
+    "fr": "En cas de non-conformité, l’administrateur général prend des mesures correctives dans son organisme, de concert avec les responsables de la mise en œuvre des exigences de la présente norme."
+  },
+  {
+    "en": "Chief financial officers are to ensure corrective actions are taken to address instances of non-compliance with the requirements of this standard. Corrective actions can include requiring additional training, changes to procedures and systems, the suspension or removal of delegated authority, disciplinary action, and other measures as appropriate.",
+    "fr": "Le dirigeant principal des finances doit s’assurer que des mesures correctives sont prises pour régler les cas de non-conformité en tenant compte des exigences de la présente norme. Ces mesures correctives peuvent inclure une exigence de formation supplémentaire, des changements dans les procédures et les systèmes, la suspension ou le retrait de pouvoirsdélégués, des mesures disciplinaires ou toute autre mesure appropriée."
+  },
+  {
+    "en": "For a range of consequences of non-compliance refer to the , Appendix C: Consequences for Institutions and Appendix D: consequences for Individuals.",
+    "fr": "Pour voir la liste des conséquences de la non-conformité, voir l’appendice C : Tableau des conséquences pour les institutions et l’appendice D : Tableau des conséquences pour les personnes du ."
+  },
+  {
+    "en": "Note: This section identifies other significant departments with respect to this standard. In and of itself, it does not confer an authority.",
+    "fr": "Nota: Cette section identifie les autres ministères importants qui ont un rôle à jouer relativement à la présente norme. Cependant, elle ne confère en soi aucun pouvoir."
+  },
+  {
+    "en": "The Office of the Comptroller General is responsible for development, oversight and maintenance of this standard and for providing interpretative advice and guidance.",
+    "fr": "Le Bureau du contrôleur général du Secrétariat du Conseil du Trésor du Canada est responsable de l'élaboration, de la surveillance et de la mise à jour de la présente norme ainsi que la prestation de conseils concernant son interprétation."
+  },
+  {
+    "en": "Within the area of financial management systems, the Office of the Comptroller General provides functional leadership in determining business process and data requirements by supporting Treasury Board in issuing appropriate policy instruments as and when required to define government-wide data and standardized business processes.",
+    "fr": "Dans le contexte des systèmes de gestion financière, le Bureau du contrôleur général assure un leadership fonctionnel relativement aux besoins portant sur les processus opérationnels et les données en appuyant le Conseil du Trésor par la diffusion, au besoin, des instruments de politique qui s’imposent pour définir les donnéesà l’échelle du gouvernement et des processus opérationnels normalisés."
+  },
+  {
+    "en": "Public Works and Government Services Canada is responsible for issuing the Personal Record Identifier (PRI) for federal government employees, and all associated PRI procedures and identifying information.",
+    "fr": "Travaux publics et Services gouvernementaux Canada est chargé d’attribuer le code d’identification de dossier personnel (CIDP) aux employés du gouvernement fédéral. Il est également responsable d’appliquer les procédures et de recueillir les renseignements sur l’identité connexes."
+  },
+  {
+    "en": "The Receiver General for Canada is responsible for assigning a Department Number, within the government-wide Chart of Accounts, to an organization that is authorized to use the Consolidated Revenue Fund,",
+    "fr": "Le receveur général du Canada est responsable d’attribuer un numéro ministériel, selon le plan comptable à l’échelle de l’administration fédérale, à une organisation qui est autorisée à utiliser le Trésor."
+  },
+  {
+    "en": "The Canada Revenue Agency (CRA) is responsible for issuing the Business Number (BN) to individuals and corporations, and all associated BN procedures and identifying information.",
+    "fr": "L’Agence du revenu du Canada (ARC) est chargée d’attribuer le numéro d’entreprise (NE) aux personnes et aux entreprises. Elle est également ."
+  },
+  {
+    "en": "Please direct enquiries about this standard to your department's headquarters. For interpretation of this standard, departmental headquarters should contact:",
+    "fr": "Veuillez adresser vos questions au sujet de la présente norme à l'administration centrale de votre ministère. Aux fins de l'interprétation de cette norme, l'administration centrale du ministère doit communiquer avec :"
+  },
+  {
+    "en": "Financial Management Sector Office of the Comptroller General Treasury Board Secretariat Ottawa ON K1A 0R5",
+    "fr": "Secteur de la gestion financière Bureau du contrôleur général Secrétariat du Conseil du Trésor Ottawa (ON) K1A 0R5"
+  },
+  {
+    "en": "Email: Telephone: 613-957-7233 Fax: 613-952-9613",
+    "fr": "Courriel : Téléphone : 613-957-7233 Télécopier : 613-952-9613"
+  },
+  {
+    "en": "sections 63 to 65 and subsection 9(1).",
+    "fr": "- articles 63 à 65 et paragraphe 9(1)."
+  }
+]

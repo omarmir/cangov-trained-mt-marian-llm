@@ -1,0 +1,1554 @@
+[
+  {
+    "en": "In August 2019, the Government of Canada (GC) established supply contracts for Protected B cloud services with Amazon Web Services Canada and Microsoft Azure. In order for the GC to use the cloud services securely and responsibly, the Chief Technology Officer of the GC deemed that an underlying operationalization framework was required. An operationalization framework was established and endorsed by the GC Enterprise Architecture Review Board in September 2019. The framework established a set of minimal cyber security controls and architecture requirements before departments use Protected B cloud services. These controls are known as the GC cloud guardrails.",
+    "fr": "En août 2019, le gouvernement du Canada (GC) a établi des contrats d’approvisionnement pour les services en nuage Protégé B avec Amazon Web Services (AWS) Canada et Microsoft Azure. Pour que le GC puisse utiliser les services d’informatique en nuage de manière sûre et responsable, la dirigeante principale de la technologie du GC a jugé qu’un cadre de mise en oeuvre sous-jacent était requis. Un tel cadre a donc été établi et approuvé par le Conseil d’examen de l’architecture intégrée du GC en septembre 2019. Ce cadre établissait un ensemble minimal de mesures de cybersécurité et d’exigences en matière d’architecture que les ministères devaient mettre en oeuvre avant d’utiliser les services d’informatique en nuage de niveau Protégé B. Ces mesures se nomment collectivement les « mesures de protection du nuage du GC »."
+  },
+  {
+    "en": "The :",
+    "fr": "Les :"
+  },
+  {
+    "en": "The describe a to ensure that the cloud service environment has a minimum set of configurations. Departments must implement, validate and report on compliance with the guardrails in the first 30 business days of getting access to their cloud account.",
+    "fr": "Les décrivent un visant à garantir que l’environnement des services d’informatique en nuage dispose d’un ensemble minimal de configurations. Les ministères doivent mettre en oeuvre et valider les mesures de protection du nuage ainsi que rendre compte de leur conformité à ces mesures dans les 30 premiers jours ouvrables suivant l’obtention de leur compte d’accès au nuage."
+  },
+  {
+    "en": "Departments are responsible for implementing the minimum configurations identified in the following tables. Validation of the guardrails will be performed by the SSC Cloud Services Directorate. The has been developed to support the validation.",
+    "fr": "Il incombe aux ministères de mettre en oeuvre les configurations minimales définies dans les tableaux suivants. La validation des mesures de protection sera assurée par la Direction des services d’informatique en nuage de Services partagés Canada (SPC). La a été élaborée pour aider à mener à bien la validation."
+  },
+  {
+    "en": "For , the following definitions will be used:",
+    "fr": "Les définitions suivantes seront utilisées pour les :"
+  },
+  {
+    "en": "Protect user accounts and identities.",
+    "fr": "Protéger les comptes et les identités des utilisateurs."
+  },
+  {
+    "en": "Infrastructure as a service (IaaS), platform as a service (PaaS), software as a service (SaaS)",
+    "fr": "Infrastructure en tant que service (IaaS), plateforme en tant que service (PaaS), logiciel en tant que service (SaaS)"
+  },
+  {
+    "en": "user accounts and identities include:",
+    "fr": "Les comptes et identités des utilisateurs comprennent ce qui suit :"
+  },
+  {
+    "en": "None",
+    "fr": "Aucune"
+  },
+  {
+    "en": "AC-2, AC-2(11), AC-3, AC-5, AC-6, AC-6(5), AC-6(10), AC-19, AC-20(3), IA-2, IA-2(1), IA-2(2), IA-2(3), IA-2(11), IA-5(8), SI-4, SI-4(5), SA-4(12), CM-5",
+    "fr": "AC-2, AC-2(11), AC-3, AC-5, AC-6, AC-6(5), AC-6(10), AC-19, AC-20(3), IA-2, IA-2(1), IA-2(2), IA-2(3), IA-2(11), IA-5(8), SI-4, SI-4(5), SA-4(12), CM-5."
+  },
+  {
+    "en": "Establish access control policies and procedures for management of all accounts.",
+    "fr": "Établir des politiques et des procédures de contrôle d’accès pour la gestion de tous les comptes."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "AC‐2, AC‐2(1), AC‐2(7) AC‐3, AC‐3(7), AC‐3, AC‐4 AC‐5, AC‐6, AC‐6(5), IA‐2, IA‐2(1), IA‐2(8), IA‐2(11), IA‐4, IA‐5, IA‐5(1), IA‐5(6)",
+    "fr": "AC‐2, AC‐2(1), AC‐2(7) AC‐3, AC‐3(7), AC‐3, AC‐4 AC‐5, AC‐6, AC‐6(5), IA‐2, IA‐2(1), IA‐2(8), IA‐2(11), IA‐4, IA‐5, IA‐5(1), IA‐5(6)."
+  },
+  {
+    "en": "Implement increased levels of protection for management interfaces.",
+    "fr": "Mettre en œuvre des niveaux de protection plus élevés pour les interfaces de gestion."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "AC3, AC-3(7), AC-4, AC-5, AC-6, AC6(5), AC-6(10), AC-19, AC-20(3), IA-2, IA-2(1), IA-2(11), IA-4, IA-5, IA-5(1), SI-4, AU-6, AU-12",
+    "fr": "AC-3, AC-3(7), AC-4, AC-5, AC-6, AC 6(5), AC-6(10), AC-19, AC-20(3), IA-2, IA-2(1), IA-2(11), IA-4, IA-5, IA-5(1), SI-4, AU-6, AU-12."
+  },
+  {
+    "en": "Create role-based accounts to enable enterprise monitoring and visibility.",
+    "fr": "Créer des comptes basés sur des rôles pour permettre la surveillance et la compréhension de l’organisation."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "None",
+    "fr": "Aucune"
+  },
+  {
+    "en": "AC-3(7), AC-6(5), IA-2(1)",
+    "fr": "AC-3(7), AC-6(5), IA-2(1)."
+  },
+  {
+    "en": "Establish policies to restrict sensitive GC workloads to approved geographic locations.",
+    "fr": "Établir des politiques pour restreindre la charge de travail de nature délicate au GC à des emplacements géographiques approuvés."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "“ ”",
+    "fr": "« »"
+  },
+  {
+    "en": "None",
+    "fr": "Aucune"
+  },
+  {
+    "en": "SA-9(5)",
+    "fr": "SA-9(5)"
+  },
+  {
+    "en": "Protect data at rest by default (for example, storage) for cloud-based workloads.",
+    "fr": "Protéger les données inactives par défaut (par exemple, le stockage) pour les charges de travail utilisant l’informatique en nuage."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "IA-7, SC-12, SC-13, SC-28, SC-28(1)",
+    "fr": "IA-7, SC-12, SC-13, SC-28, SC-28(1)."
+  },
+  {
+    "en": "Protect data transiting networks through the use of appropriate encryption and network safeguards.",
+    "fr": "Protéger les données transitant sur les réseaux par le recours à un mécanisme de chiffrement et à des mesures de protection des réseaux appropriés."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "None",
+    "fr": "Aucune"
+  },
+  {
+    "en": "IA-7, SC-12, SC-13, SC-28, SC-28(1)",
+    "fr": "IA-7, SC-12, SC-13, SC-28, SC-28(1)."
+  },
+  {
+    "en": "Segment and separate information based on sensitivity of information",
+    "fr": "Segmenter et séparer les renseignements en fonction de leur degré de sensibilité."
+  },
+  {
+    "en": "IaaS, PaaS",
+    "fr": "IaaS, PaaS"
+  },
+  {
+    "en": "The following guardrail is not applicable to SaaS. The cloud service provider is responsible for the management and security of the network and this responsibility is included as part of the SaaS offering. Refer to section 4.3 of to understand key considerations for cloud network segmentation.",
+    "fr": "La mesure de protection suivante ne s’applique pas aux modèles SaaS. La gestion et la sécurité du réseau relèvent de la responsabilité du fournisseur de services d’informatique en nuage et sont incluses dans les SaaS. Se reporter à la section 4.3 du pour comprendre les éléments clés qu’il faut prendre en compte pour la segmentation des réseaux dans le nuage."
+  },
+  {
+    "en": "AC‐4, SC‐7",
+    "fr": "AC‐4, SC‐7"
+  },
+  {
+    "en": "Establish external and internal network perimeters and monitor network traffic.",
+    "fr": "Établir des périmètres de réseau à l’externe et à l’interne et surveiller l’achalandage sur le réseau."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "AC-3, AC‐4, SC‐7, SC‐7(5), SI-4, SI-4(18)",
+    "fr": "AC-3, AC‐4, SC‐7, SC‐7(5), SI-4, SI-4(18)."
+  },
+  {
+    "en": "Establish a memorandum of understanding for defensive services and threat-monitoring protection services.",
+    "fr": "Établir un protocole d’entente pour les services de défense et les services de surveillance des menaces et de protection contre celles-ci."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "None",
+    "fr": "Confirmer auprès du CCC que le protocole d’entente a été signé."
+  },
+  {
+    "en": "SI‐4",
+    "fr": "Aucune"
+  },
+  {
+    "en": "Enable logging for the cloud environment and for cloud-based workloads.",
+    "fr": "SI‐4"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Activer la journalisation pour l’environnement en nuage et pour les charges de travail utilisant l’informatique en nuage."
+  },
+  {
+    "en": "None",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "AU‐12, SI-4, SI-4(7)",
+    "fr": "Aucune"
+  },
+  {
+    "en": "Restrict third-party software from cloud service providers to ensure that only GC-approved products are used.",
+    "fr": "AU‐12, SI-4, SI-4(7)"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Restreindre les logiciels tiers des fournisseurs de services d’informatique afin de veiller à ce que seuls des produits approuvés par le GC soient utilisés."
+  },
+  {
+    "en": "Not applicable",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Not applicable",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "CM5, CM8, SA12",
+    "fr": "Sans objet"
+  },
+  {
+    "en": "Ensure that there is a plan for continuity of access and service that accommodates both expected and unexpected events.",
+    "fr": "CM5, CM8, SA12"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Veiller à se doter d’un plan de continuité de l’accès et des services qui tienne compte des événements prévus et imprévus."
+  },
+  {
+    "en": "AC-1, CP-1,CP-2,CP-9,CA-3",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Implementing the guardrails is one of the first steps to establishing a secure cloud-based environment. Departments are expected to continue implementing the security requirements as outlined in:",
+    "fr": "AC-1, CP-1,CP-2,CP-9,CA-3."
+  },
+  {
+    "en": "Departments should engage with their IT security risk management teams to obtain advice and guidance on integrating security assessment and authorization activities as part of the implementation of the GC cloud environment. The outlines activities for departments to consider as part of risk management.",
+    "fr": "La mise en œuvre des mesures de sécurité compte parmi les premières étapes de la mise en place d’un environnement sécurisé fondé sur l’informatique en nuage. Il est attendu des ministères qu’ils continuent de mettre en œuvre les exigences en matière de sécurité ainsi qu’elles sont énoncées dans les documents suivants :"
+  },
+  {
+    "en": "Shared Services Canada (SSC) will perform periodic audits of the departmental tenant environment to ensure ongoing compliance with the guardrails after the first 30 business days.",
+    "fr": "Les ministères devraient consulter leurs équipes de gestion des risques liés à la sécurité de la TI pour obtenir des conseils et des orientations sur l’intégration des activités d’évaluation et d’autorisation de la sécurité dans le cadre de la mise en œuvre de l’environnement d’informatique en nuage du gouvernement du Canada. Le document décrit les activités que les ministères doivent envisager dans le cadre de la gestion des risques."
+  },
+  {
+    "en": "The following table outlines the cloud usage identifier, profiles, descriptions and cloud service models used in the GC.",
+    "fr": "Services partagés Canada procédera à des vérifications périodiques de l’environnement des locataires ministériels afin de veiller au respect des mesures de protection dans les 30 premiers jours ouvrables."
+  },
+  {
+    "en": "Experimentation or sandbox",
+    "fr": "Le tableau suivant présente les identifiants, les profils, les descriptions et les modèles de services en nuage utilisés au GC."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Expérimentation ou bac à sable"
+  },
+  {
+    "en": "Non-sensitive cloud-based services",
+    "fr": "Infrastructure en tant que service (IaaS), plateforme en tant que service (PaaS), logiciel en tant que service (SaaS)."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Services d’informatique en nuage non sensibles"
+  },
+  {
+    "en": "3a.",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Sensitive (up to Protected B) cloud-based services",
+    "fr": "3a."
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Services d’informatique en nuage sensibles (jusqu’au niveau Protégé B)"
+  },
+  {
+    "en": "3b.",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Sensitive (up to Protected B) cloud-based services (hybrid IT – extension of GC data centres)",
+    "fr": "3b."
+  },
+  {
+    "en": "PaaS, SaaS",
+    "fr": "Services d’informatique en nuage sensibles (jusqu’au niveau Protégé B) (TI hybride ‐extension des centres de données du GC)"
+  },
+  {
+    "en": "4a.",
+    "fr": "PaaS, SaaS"
+  },
+  {
+    "en": "Sensitive (up to Protected B) cloud-based services for GC-wide SaaS solutions",
+    "fr": "4a."
+  },
+  {
+    "en": "SaaS",
+    "fr": "Services d’informatique en nuage sensibles (jusqu’au niveau Protégé B) pour des solutions de SaaS à l’échelle du GC"
+  },
+  {
+    "en": "4b.",
+    "fr": "SaaS"
+  },
+  {
+    "en": "Sensitive (up to Protected B) cloud-based services for GC-wide SaaS solutions (hybrid IT – extension of GC data centres)",
+    "fr": "4b."
+  },
+  {
+    "en": "SaaS",
+    "fr": "Services d’informatique en nuage sensibles (jusqu’au niveau Protégé B) pour des solutions de SaaS à l’échelle du GC (TI hybride ‐extension des centres de données du GC)"
+  },
+  {
+    "en": "GC to GC only (hybrid IT – extension of GC data centres)",
+    "fr": "SaaS"
+  },
+  {
+    "en": "IaaS, PaaS",
+    "fr": "GC à GC uniquement (TI hybride ‐extension des centres de données du GC)"
+  },
+  {
+    "en": "Cloud-based services with external user access and interconnection to GC data centres",
+    "fr": "IaaS, PaaS."
+  },
+  {
+    "en": "IaaS, PaaS",
+    "fr": "Services d’informatique en nuage avec accès externe pour les utilisateurs et interconnexion avec les centres de données du GC"
+  },
+  {
+    "en": "The following table describes the applicability of the guardrails during the first 30 business days of departments getting access to their cloud account. Within each departmental cloud tenant, there will be various information systems being provided. Each cloud sub-account or resource group should be tagged with the relevant cloud usage profile to ensure that appropriate policies are applied and validation is performed.",
+    "fr": "IaaS, PaaS."
+  },
+  {
+    "en": "IaaS, PaaS,SaaS",
+    "fr": "Le tableau suivant décrit l’applicabilité des mesures de protection au cours des 30 premiers jours ouvrables consécutifs à l’obtention, par les ministères, de leur compte d’accès au nuage. Divers systèmes d’information seront fournis à chaque locataire ministériel. On doit attribuer à chaque sous-compte ou groupe de ressources en nuage le profil d’utilisation du nuage adéquat afin de garantir l’application des bonnes politiques et mesures de validation."
+  },
+  {
+    "en": "Required",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "(minimum for privileged users)",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "(au minimum, pour les utilisateurs privilégiés.)"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Recommended",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Recommandée"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required (for billing)",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Obligatoire (pour la facturation)"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Recommended",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Recommended",
+    "fr": "Recommandée"
+  },
+  {
+    "en": "Required",
+    "fr": "Recommandée"
+  },
+  {
+    "en": "(required in Canada for GC storage of Protected B information and above)",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "(obligatoire au Canada pour le stockage par le GC de renseignements de niveau « Protégé B » et plus)"
+  },
+  {
+    "en": "(required in Canada for GC storage of Protected B information and above)",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "(obligatoire au Canada pour le stockage par le GC de renseignements de niveau « Protégé B » et plus)"
+  },
+  {
+    "en": "(required in Canada for GC storage of Protected B information and above)",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "(obligatoire au Canada pour le stockage par le GC de renseignements de niveau « Protégé B » et plus)"
+  },
+  {
+    "en": "(required in Canada for GC storage of Protected B information and above)",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "(obligatoire au Canada pour le stockage par le GC de renseignements de niveau « Protégé B » et plus)"
+  },
+  {
+    "en": "Not required",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Recommended",
+    "fr": "Non requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Recommandée"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Recommended",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Recommandée"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required (network filtering at a minimum)",
+    "fr": "IaaS, PaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Obligatoire (au minimum, le filtrage du réseau)"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Recommended",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Recommandée"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required (restrict to GC only)",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required (deny external access, GC only)",
+    "fr": "Requise (réserver au GC)"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise (refuser l’accès externe, GC uniquement)"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Not required",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Non requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Recommended",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Recommandée"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "IaaS, PaaS, SaaS",
+    "fr": "Requise"
+  },
+  {
+    "en": "Not required",
+    "fr": "IaaS, PaaS, SaaS."
+  },
+  {
+    "en": "Required",
+    "fr": "Non requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "Required",
+    "fr": "Requise"
+  },
+  {
+    "en": "focus on a preliminary set of baseline cyber security controls to ensure that the cloud service environment has a minimum set of configurations",
+    "fr": "Requise"
+  },
+  {
+    "en": "provide a starting point for project teams and were selected to achieve the following objectives:",
+    "fr": "définissent un ensemble préliminaire de mesures de cybersécurité de base qui veilleront à ce que l’environnement des services d’informatique en nuage dispose d’un ensemble minimal de configurations;"
+  },
+  {
+    "en": "comply with the:",
+    "fr": "fournissent un point de départ aux équipes de projet et ont été choisies pour atteindre les objectifs suivants :"
+  },
+  {
+    "en": "applicable mandatory procedures in the",
+    "fr": "assurer la conformité :"
+  },
+  {
+    "en": "meet the requirements of the (SPIN) 2017-01",
+    "fr": "à la , : ;"
+  },
+  {
+    "en": "address the Canadian Centre for Cyber Security’s (Cyber Centre’s)",
+    "fr": "aux ;"
+  },
+  {
+    "en": "align with the",
+    "fr": "aux procédures obligatoires applicables dans la ;"
+  },
+  {
+    "en": "focus on the selection of cyber security controls to ensure that cloud services are hardened through the configuration of software components",
+    "fr": "répondre aux exigences de l’ 2017-01"
+  },
+  {
+    "en": "achieve threat protection objectives specified in (Excel file) and the",
+    "fr": "tenir compte des du Centre canadien pour la cybersécurité (CCC);"
+  },
+  {
+    "en": "A set of baseline security controls that departments must implement, validate and report on in the first 30 business days of getting access to their cloud account.",
+    "fr": "se conformer au ;"
+  },
+  {
+    "en": "Additional security controls that are highly recommended and should be taken into consideration. While these controls are not expected to be implemented within 30 business days of departments getting access to their cloud account, the controls include best practices that should be considered as departments establish their cloud-based environments.",
+    "fr": "mettre l’accent sur la sélection de mesures de cybersécurité qui veilleront à ce que les services d’informatique en nuage soient renforcés par la configuration des composants logiciels;"
+  },
+  {
+    "en": "Implement strong multi-factor authentication (MFA) for all user accounts. Use phishing resistant MFA where and when available",
+    "fr": "atteindre les objectifs en matière de protection contre les menaces définis à l’ (fichier Excel) et dans le ."
+  },
+  {
+    "en": "root or global administrator (as it has enhanced or the highest level of privilege over the control plane and addresses all aspects of access control)",
+    "fr": "Ensemble de mesures de sécurité de base que les ministères doivent mettre en oeuvre et valider, et au regard desquels ils doivent rendre compte de leur conformité, dans les 30 premiers jours ouvrables suivant l’obtention de leur compte d’accès au nuage."
+  },
+  {
+    "en": "other administrative user accounts; for the definition of privileged accounts, refer to:",
+    "fr": "Mesures de sécurité supplémentaires qui sont fortement recommandées et qu’il conviendrait de prendre en considération. Bien qu’il ne soit pas attendu que ces mesures soient mises en oeuvre dans les 30 premiers jours ouvrables suivant l’obtention de leur compte d’accès au nuage, elles proposent des pratiques exemplaires qui devraient être prises en considération au fur et à mesure de l’adoption, par les ministères, de leurs environnements d’informatique en nuage."
+  },
+  {
+    "en": "section 4 of the -",
+    "fr": "Procéder à la mise en œuvre d’une authentification multifactorielle (AMF) rigoureuse pour tous les comptes d’utilisateurs. Utiliser une AMF résistante à l’hameçonnage lorsque possible."
+  },
+  {
+    "en": "regular GC user accounts",
+    "fr": "Les comptes racine ou des administrateurs généraux, car ce sont ceux qui disposent de privilèges étendus/du niveau le plus élevé sur le plan de contrôle, et qui traitent tous les aspects du contrôle d’accès."
+  },
+  {
+    "en": "Confirm that MFA is implemented according to GC guidance through screenshots, compliance reports, or compliance checks enabled through a reporting tool for all user accounts",
+    "fr": "D’autres comptes d’utilisateurs administratifs; pour la définition des comptes privilégiés, se reporter à :"
+  },
+  {
+    "en": "Confirm that digital policies are in place to ensure that MFA configurations are enforced",
+    "fr": "la section 4 de la ,"
+  },
+  {
+    "en": "Confirm and report the count of registered root or global administrators (you should have at least two and no more than five)",
+    "fr": "Comptes d’utilisateurs réguliers du GC."
+  },
+  {
+    "en": "Configure alerts to ensure the prompt detection of a potential compromise, in accordance with the GC",
+    "fr": "Confirmer que l’AMF est mise en œuvre conformément aux orientations du GC au moyen de captures d’écran, de rapports de conformité ou d’une mesure de contrôle de la conformité dont l’activation est assurée par un outil de rapport pour tous les comptes d’utilisateur."
+  },
+  {
+    "en": "Confirm whether monitoring and auditing is implemented for all user accounts",
+    "fr": "Confirmer que des politiques numériques sont en place pour garantir l’application des configurations de l’AMF."
+  },
+  {
+    "en": "Confirm that alerts to the authorized personnel have been implemented to flag misuse or suspicious activities for all user accounts",
+    "fr": "Confirmer et signaler le nombre d’enregistrements de comptes racine/administrateur général (il devrait y en avoir au moins deux et pas plus de cinq)."
+  },
+  {
+    "en": "Use separate dedicated accounts for highly privileged roles (for example, domain administrators, global administrators, and root and any domain administrator equivalent access) when administering cloud services to minimize the potential damage",
+    "fr": "Configurer les alertes pour assurer la détection rapide d’une compromission potentielle conformément au du GC."
+  },
+  {
+    "en": "Provide evidence that there are dedicated user accounts for administration (for example, privileged access)",
+    "fr": "Confirmer si les activités de surveillance et de vérification sont mises en œuvre pour tous les comptes d’utilisateurs."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.3",
+    "fr": "Confirmer que des avis d’alerte au personnel autorisé sont mis en œuvre pour signaler les mauvaises utilisations et les activités suspectes pour tous les comptes d’utilisateur."
+  },
+  {
+    "en": ", number 3",
+    "fr": "Utiliser des comptes dédiés distincts pour les rôles hautement privilégiés (par exemple, administrateurs de domaine, administrateurs généraux, racine et tout accès équivalent à celui d’administrateur de domaine) lors de l’administration des services d’informatique en nuage afin de réduire au maximum le potentiel de dommages."
+  },
+  {
+    "en": "(accessible only on the Government of Canada network)",
+    "fr": "Fournir la preuve que des comptes d’utilisateurs dédiés sont utilisés pour l’administration (par exemple, accès privilégié)."
+  },
+  {
+    "en": ", -",
+    "fr": "2017-01, sous-section 6.2.3"
+  },
+  {
+    "en": ", subsection 4.6",
+    "fr": "Mesure 3 des"
+  },
+  {
+    "en": "Implement a mechanism to enforce access authorizations for all user accounts, based on criteria in the , Appendix G: Standard on Enterprise Information Technology Service Common Configurations, and in section 3 of the",
+    "fr": "(accessible seulement depuis le réseau interne du gouvernement du Canada)"
+  },
+  {
+    "en": "Demonstrate that access configurations and policies are implemented for different classes of users (non-privileged and privileged users)",
+    "fr": "), sous-section 4.6"
+  },
+  {
+    "en": "Confirm that the access authorization mechanisms have been implemented to:",
+    "fr": "Mettre en œuvre un mécanisme permettant de faire respecter les autorisations d’accès pour tous les comptes d’utilisateurs en tenant compte des critères énumérés dans la Directive sur les services et le numérique, à l’annexe G : Norme sur les configurations courantes des services de la TI intégrée, et à la section 3 des ."
+  },
+  {
+    "en": "uniquely identify and authenticate users to the cloud service",
+    "fr": "Démontrer que les configurations et les politiques d’accès sont mises en œuvre pour différentes catégories d’utilisateurs (utilisateurs privilégiés et non privilégiés)."
+  },
+  {
+    "en": "validate that the least privilege role is assigned",
+    "fr": "Confirmer que les mécanismes d’autorisation d’accès ont été mis en œuvre pour :"
+  },
+  {
+    "en": "validate that role based access is implemented",
+    "fr": "identifier et authentifier de manière unique les utilisateurs des services d’informatique en nuage;"
+  },
+  {
+    "en": "terminate role assignment upon job change or termination",
+    "fr": "confirmer l’attribution du rôle le moins privilégié;"
+  },
+  {
+    "en": "perform periodic reviews of role assignment (minimum yearly)",
+    "fr": "confirmer la mise en œuvre de l’accès basé sur les rôles;"
+  },
+  {
+    "en": "disable default and dormant accounts",
+    "fr": "mettre fin à l’attribution des rôles en cas de changement de poste ou de licenciement;"
+  },
+  {
+    "en": "avoid using user generic accounts",
+    "fr": "procéder à des examens périodiques de l’attribution des rôles (au moins une fois par an);"
+  },
+  {
+    "en": "Verify that a review of role assignment for root or global administrator accounts is performed at least every 12 months",
+    "fr": "désactiver les comptes par défaut et inactifs;"
+  },
+  {
+    "en": "Leverage role-based access and configure for least privilege; doing so can include built-in roles or custom roles that have been established with only the minimum number of privileges required to perform the job function",
+    "fr": "éviter d’utiliser des comptes génériques des utilisateurs."
+  },
+  {
+    "en": "Demonstrate that built-in roles on cloud platforms are configured for least privilege. Custom roles can be used but a rationale should be documented and approved",
+    "fr": "Veiller à ce qu’un examen de l’attribution des rôles des comptes racines et d’administrateurs généraux soit effectué au moins tous les 12 mois."
+  },
+  {
+    "en": "Change default passwords in accordance with the GC",
+    "fr": "Tirer parti des accès selon les rôles qui sont configurés avec les privilèges les moins élevés. Il peut s’agir de rôles intégrés ou personnalisés qui ont été établis en y incluant seulement le minimum de privilèges requis pour exécuter la fonction du poste."
+  },
+  {
+    "en": "Confirm that the default passwords have been changed for all built-in accounts for the cloud service",
+    "fr": "Démontrer que les rôles intégrés à la plateforme d’informatique en nuage sont configurés en utilisant les privilèges les moins élevés. Des rôles personnalisés peuvent être utilisés, mais leur justification doit être documentée et approuvée."
+  },
+  {
+    "en": "Configure the default password policy in accordance with GC",
+    "fr": "Changer les mots de passe par défaut conformément à l’Orientation sur les mots de passe du GC."
+  },
+  {
+    "en": "Demonstrate that password policy for the cloud platform has been configured according to the by:",
+    "fr": "Confirmer que les mots de passe par défaut ont été changés pour tous les comptes intégrés au service d’informatique en nuage."
+  },
+  {
+    "en": "requiring passwords that are at least 12 characters long without a maximum length limit",
+    "fr": "Configurer la politique relative aux mots de passe par défaut conformément à l’ du GC."
+  },
+  {
+    "en": "countering online guessing or brute force of passwords using throttling, account lockout policies, monitoring and multi-factor authentication",
+    "fr": "Démontrer que la politique relative aux mots de passe pour la plateforme d’informatique en nuage a été configurée conformément à l’Orientation sur les mots de passe en utilisant les moyens suivants :"
+  },
+  {
+    "en": "protecting against offline attacks using effective hashing, salting and keyed hashing",
+    "fr": "exiger des mots de passe d’au moins 12 caractères et sans longueur maximale;"
+  },
+  {
+    "en": "Implement mechanisms to protect against password brute force attacks",
+    "fr": "contrer les tentatives en ligne de deviner ou de forcer des mots de passe en mettant en place des mécanismes comme le ralentissement artificiel, des politiques de verrouillages de comptes, la surveillance et l’authentification multifactorielle;"
+  },
+  {
+    "en": "Confirm that mechanisms, such as throttling, account lock out policies, monitoring and risk-based authentication, to protect against password brute force attacks have been implemented",
+    "fr": "se protéger contre les attaques hors ligne en utilisant le hachage, le salage et le hachage à clé."
+  },
+  {
+    "en": "Establish a guest user access policy and procedures that minimize the number of guest users and that manage the life cycle of such accounts so that such accounts are terminated when they are no longer needed",
+    "fr": "Mettre en œuvre des mécanismes de protection contre les attaques par force brute visant à obtenir des mots de passe."
+  },
+  {
+    "en": "a guest is someone who is not an employee, student or member of your organization (a guest does not have an existing account with the organization’s cloud tenant)",
+    "fr": "Confirmer la mise en place de mécanismes visant à se protéger contre les attaques par force brute visant à obtenir des mots de passe, comme le ralentissement artificiel, les politiques de verrouillages de comptes, la surveillance et l’authentification fondée sur le risque."
+  },
+  {
+    "en": "Confirm that only required guest user accounts are enabled (according to the business requirements of the service)",
+    "fr": "Établir une politique et des procédures relatives à l’accès des utilisateurs invités qui réduit au minimum le nombre d’utilisateurs invités et gère le cycle de vie de leurs comptes pour que ceux-ci soient supprimés lorsque l’accès n’est plus nécessaire."
+  },
+  {
+    "en": "Provide a list of non-organizational users with elevated privileges",
+    "fr": "L’utilisateur « invité » est une personne qui n’est pas un employé, un étudiant ou un membre de votre organisation. Cet utilisateur n’a pas créé de compte auprès du locataire du nuage de l’organisation."
+  },
+  {
+    "en": "Verify that reviews of guest access are performed periodically",
+    "fr": "Confirmer que seuls les comptes d’utilisateurs invités nécessaires sont activés (conformément aux exigences opérationnelles du service)."
+  },
+  {
+    "en": "Document a process for managing accounts, access privileges, and access credentials for organizational users and non-organizational users (if required), based on criteria listed in the , and in section 3 of the . This process should be approved by the chief security officer (or their delegate) and by the designated official for cyber security.",
+    "fr": "Fournir la liste des utilisateurs qui ne font pas partie de l’organisation et qui jouissent de privilèges élevés."
+  },
+  {
+    "en": "Confirm that the access control procedure for management of administrative accounts has been documented for the cloud service. The access control procedure:",
+    "fr": "Veiller à ce que des vérifications de l’accès des invités soient effectuées périodiquement."
+  },
+  {
+    "en": "should include provision for any guest accounts and custom accounts",
+    "fr": "Documenter un processus de gestion des comptes, des privilèges d’accès et des justificatifs d’accès pour les utilisateurs organisationnels et les utilisateurs qui ne font pas partie de votre organisation (au besoin), en fonction des critères énumérés dans la Directive sur les services et le numérique, à l’ , et à la >section 3 des . Ce processus doit être approuvé par le dirigeant principal de la sécurité (ou son délégué) et par l’agent désigné pour la cybersécurité."
+  },
+  {
+    "en": "must refer to the emergency break glass procedure",
+    "fr": "Confirmer que la procédure de contrôle d’accès pour la gestion des comptes administratifs a été documentée pour le service d’informatique en nuage. La procédure de contrôle d’accès doit :"
+  },
+  {
+    "en": "Enforce just-in-time access for privileged user accounts to provide time-based and approval-based role activation to mitigate the risks of excessive, unnecessary or misused access permissions",
+    "fr": "prévoir des dispositions pour les comptes d’invités ainsi que les comptes personnalisés;"
+  },
+  {
+    "en": "Confirm just-in-time access for all privileged user accounts to provide time-based and approval-based role activation",
+    "fr": "faire renvoi à la procédure de gestion des comptes d’urgence."
+  },
+  {
+    "en": "Enforce attribute-based access control to restrict access based on a combination of authentication factors, such as devices issued and managed by the GC, device compliance, sign-in and user risks, and location",
+    "fr": "Appliquer le principe de l’« accès juste-à-temps » aux comptes d’utilisateurs privilégiés afin de fournir une activation de rôle fondée sur le temps et l’approbation et, ainsi, atténuer les risques d’autorisations d’accès excessives, inutiles ou mal utilisées."
+  },
+  {
+    "en": "Provide evidence that attribute-based access control mechanisms are in place to restrict access based on attributes or signals, such as authentication factors, devices issued and managed by the GC, device compliance, sign-in and user risks, and location.",
+    "fr": "Confirmer la fourniture de l’accès juste à temps pour tous les comptes d’utilisateurs privilégiés afin d’offrir une activation de rôle fondée sur le temps et l’approbation."
+  },
+  {
+    "en": "Leverage tools, such as privilege access management systems, to enforce access control to privileged functions by configuring roles that require approval for activation",
+    "fr": "Appliquer le contrôle d’accès basé sur les attributs pour restreindre l’accès selon une combinaison de facteurs d’authentification, par exemple les appareils délivrés et gérés par le GC, la conformité des appareils, les risques liés à l’ouverture de séance et aux utilisateurs, ainsi que l’emplacement."
+  },
+  {
+    "en": "Choose one or multiple users or groups as delegated approvers",
+    "fr": "Fournir la preuve que des mécanismes de contrôle d’accès basés sur les attributs sont en place pour restreindre l’accès en fonction d’attributs ou de signaux, par exemple des facteurs d’authentification, les appareils délivrés et gérés par le GC, la conformité des appareils, les risques liés à l’ouverture de séance et aux utilisateurs, ainsi que l’emplacement."
+  },
+  {
+    "en": "Provide evidence that all role activation for privileged user accounts require approval, and that privilege elevation is temporary (time-bound).",
+    "fr": "Utiliser des outils comme les systèmes de gestion des accès privilégiés pour appliquer le contrôle d’accès aux fonctions privilégiées en configurant des rôles dont l’activation nécessite une approbation."
+  },
+  {
+    "en": ", (SPIN) 2017-01, subsection 6.2.3",
+    "fr": "Choisir un ou plusieurs utilisateurs ou groupes comme approbateurs délégués."
+  },
+  {
+    "en": ", number 3",
+    "fr": "Fournir la preuve que l’activation du rôle de tous les comptes d’utilisateurs privilégiés nécessite une approbation, et que l’élévation des privilèges est temporaire (limitée dans le temps)."
+  },
+  {
+    "en": "(accessible only on the Government of Canada network)",
+    "fr": "2017-01, sous-section 6.2.3"
+  },
+  {
+    "en": ", subsection 4.6",
+    "fr": "Mesure 3 des"
+  },
+  {
+    "en": "Implement access restrictions to ensure that devices issued and managed by the GC are configured and managed, in accordance with",
+    "fr": "(accessible uniquement sur le réseau du gouvernement du Canada)"
+  },
+  {
+    "en": "Confirm that administrative access to cloud environments is from approved and trusted locations and from devices issued and managed by the GC that enforce the Endpoint Management Configuration Requirements",
+    "fr": "), sous-section 4.6"
+  },
+  {
+    "en": "Demonstrate that access configurations and policies are implemented for devices",
+    "fr": "Mettre en œuvre des restrictions d’accès afin de veiller à ce que les appareils délivrés et gérés par le GC soient configurés et gérés conformément aux ."
+  },
+  {
+    "en": "All administrative tasks should be undertaken on dedicated administrative workstations",
+    "fr": "Confirmer que l’accès administratif aux environnements d’informatique en nuage provient d’emplacements approuvés et fiables ainsi que d’appareils délivrés et gérés par le GC qui respectent les Exigences de configuration de la gestion des points d’extrémité."
+  },
+  {
+    "en": "a dedicated administrative workstation is a secured physical (thick or thin) client workstation used to perform specific and sensitive administrative tasks or tasks requiring privileged access (such a workstation must have no Internet access and related services, such as email and web browsing, must be disabled and prohibited)",
+    "fr": "Démontrer que des configurations et des politiques en matière d’accès sont mises en œuvre pour les appareils."
+  },
+  {
+    "en": "Confirm whether dedicated administrative workstations are used to conduct all administrative activities",
+    "fr": "Toutes les tâches administratives doivent être effectuées depuis des postes de travail administratifs dédiés."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.3",
+    "fr": "un poste de travail administratif dédié est un poste de travail physique sécurisé (lourd ou léger) qui sert à effectuer certaines tâches administratives particulières et de nature délicate, ou des tâches qui exigent que l’on ait un accès privilégié. Cet appareil ne doit pas avoir accès à Internet, et les services comme le courrier électronique et la navigation sur le Web doivent y être désactivés et interdits."
+  },
+  {
+    "en": ", number 2",
+    "fr": "Confirmer si des postes de travail administratifs dédiés sont utilisés pour réaliser toutes les activités de nature administrative."
+  },
+  {
+    "en": "(accessible only on the Government of Canada network)",
+    "fr": "2017-01, sous-section 6.2.3."
+  },
+  {
+    "en": ", subsection 4.9",
+    "fr": "Mesure 2 des ."
+  },
+  {
+    "en": "Create role-based accounts to enable enterprise monitoring and visibility for cloud environments that are procured via the GC Cloud Broker or are included in the scope of centralized guardrails validation",
+    "fr": "(accessible uniquement sur le réseau du gouvernement du Canada)"
+  },
+  {
+    "en": "Verify that roles required to enable visibility in the GC have been provisioned or assigned",
+    "fr": "), sous-section 4.9"
+  },
+  {
+    "en": "Review access privileges periodically and remove access when it is no longer required",
+    "fr": "Créer des comptes fondés sur les rôles pour permettre une surveillance et une compréhension organisationnelles des environnements d’informatique en nuage qui sont acquis par l’intermédiaire du courtier en services d’informatique en nuage du GC ou qui relèvent de la portée de la validation des mesures de protection centralisées."
+  },
+  {
+    "en": "Confirm that alerts to authorized personnel have been implemented to flag misuse, suspicious sign-in attempts, or when changes are made to privileged and non-privileged accounts",
+    "fr": "Veiller à ce que les rôles requis pour comprendre le GC dans son ensemble aient été dotés ou attribués."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.3",
+    "fr": "Examiner périodiquement les privilèges d’accès et supprimer les accès qui ne sont plus nécessaires."
+  },
+  {
+    "en": ", number 2",
+    "fr": "Confirmer la mise en place d’un avis d’alerte au personnel autorisé pour signaler les mauvaises utilisations, les tentatives de connexion suspectes ou les modifications apportées aux comptes privilégiés et non privilégiés."
+  },
+  {
+    "en": ", , AC-3(7)",
+    "fr": "2017-01, sous-section 6.2.3."
+  },
+  {
+    "en": "According to subsection 4.4.3.14 of the :",
+    "fr": "Mesure 2 des ."
+  },
+  {
+    "en": "Demonstrate that the service location is within Canada for all Protected B cloud services where configurable, in accordance with the applicable cloud usage profiles",
+    "fr": "), , AC-3(7)."
+  },
+  {
+    "en": ", SPIN 2017-01, subsection 6.2.3",
+    "fr": "Selon le paragraphe 4.4.3.14 de la Directive sur les services et le numérique :"
+  },
+  {
+    "en": ", subsection 4.4.3.14",
+    "fr": "Démontrer que l’emplacement du service est au Canada (pour tous les services d’informatique en nuage de niveau Protégé B), lorsqu’il est possible de le configurer, conformément aux profils applicables d’utilisation des services d’informatique en nuage."
+  },
+  {
+    "en": "Implement an encryption mechanism to protect the confidentiality and integrity of data when data is at rest in storage",
+    "fr": ", 2017-01, sous-section 6.2.3."
+  },
+  {
+    "en": "For IaaS and PaaS, confirm that storage service encryption is enabled for data at rest (if required based on the security risk assessment)",
+    "fr": ", sous-section 4.4.3.14."
+  },
+  {
+    "en": "For SaaS, confirm that the cloud service provider (CSP) has implemented encryption to protect customer data",
+    "fr": "Mettre en œuvre un mécanisme de chiffrement pour protéger la confidentialité et l’intégrité des données lorsqu’elles sont inactives en stockage."
+  },
+  {
+    "en": "Use cryptographic algorithms and protocols approved by Communications Security Establishment Canada (CSE) in accordance with ITSP.40.111 and ITSP.40.062",
+    "fr": "Dans le cas des modèles IaaS et PaaS, confirmer que le chiffrement du service de stockage est activé pour les données inactives (si l’évaluation des risques pour la sécurité l’exige)."
+  },
+  {
+    "en": "Cryptographic algorithms and protocols configurable by the consumer are in accordance with ITSP.40.111 and ITSP.40.062",
+    "fr": "Dans le cas du modèle SaaS, confirmer que le fournisseur de services d’informatique en nuage (FSIN) a mis en place un système de chiffrement pour protéger les données des clients."
+  },
+  {
+    "en": "For SaaS, confirm that the CSP has implemented algorithms that align with ITSP.40.111 and ITSP.40.062.",
+    "fr": "Utiliser des algorithmes et des protocoles de chiffrement approuvés par le Centre de la sécurité des télécommunications Canada (CST) conformément aux documents d’orientation ITSP.40.111 et ITSP.40.062."
+  },
+  {
+    "en": "Seek guidance from privacy and access to information officials within institutions before storing personal information in cloud-based environments",
+    "fr": "Les algorithmes et protocoles cryptographiques configurables par le consommateur sont conformes aux documents d’orientation ITSP.40.111 et ITSP.40.062."
+  },
+  {
+    "en": "Confirm that privacy is part of the departmental software development life cycle",
+    "fr": "Dans le cas du modèle SaaS, confirmer que le FSIN a mis en œuvre des algorithmes conformes aux documents d’orientation ITSP 40.111 et ITSP.40.062."
+  },
+  {
+    "en": "Leverage an appropriate key management system for the cryptographic protection used in cloud-based services, in accordance with the and the Cyber Centre’s",
+    "fr": "Demander conseil aux responsables de la protection de la vie privée et de l’accès aux renseignements des entités visées avant de stocker des renseignements personnels dans des environnements d’informatique en nuage."
+  },
+  {
+    "en": "Confirm that a key management strategy has been adopted for the cloud tenant",
+    "fr": "Confirmer que la protection de la vie privée fait partie intégrante du cycle de développement des logiciels du ministère."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.4",
+    "fr": "Utiliser un système de gestion des clés approprié pour la protection cryptographique utilisée dans les services en nuage, conformément aux Considérations relatives à l’utilisation de la cryptographie dans les services d’informatique en nuage commerciaux et au du CCC."
+  },
+  {
+    "en": "cryptography guidance in and",
+    "fr": "Confirmer qu’une stratégie de gestion des clés a été adoptée pour le locataire du nuage."
+  },
+  {
+    "en": ", subsection 4.5",
+    "fr": "2017-01, sous-section 6.2.4."
+  },
+  {
+    "en": "Encrypt data in transit by default (for example, Transport Layer Security (TLS) 1.2) to protect the confidentiality and integrity of data, including for all publicly accessible sites and external communications, according to the GC , and wherever possible for internal zone communication",
+    "fr": "Orientations en matière de cryptographie figurant dans les documents et )."
+  },
+  {
+    "en": "Confirm that TLS 1.2 or above encryption is implemented for all cloud services (via Hypertext Transfer Protocol Secure (HTTPS), TLS or another mechanism)",
+    "fr": "), sous-section 4.5."
+  },
+  {
+    "en": "while this encryption setting is often the default, cloud platforms and cloud services often have configuration options to select the permitted TLS version",
+    "fr": "Chiffrer par défaut les données en transit (en recourant, par exemple, au chiffrement Transport Layer Security [TLS] 1.2) afin de protéger la confidentialité et l’intégrité des données, y compris pour tous les sites accessibles au public et les communications externes, conformément aux du GC et, dans la mesure du possible, pour les zones de communication internes."
+  },
+  {
+    "en": "Use CSE-approved cryptographic algorithms and protocols in accordance with ITSP.40.111 and ITSP.40.062",
+    "fr": "Confirmer que le chiffrement TLS 1.2 ou supérieur est mis en œuvre pour tous les services en nuage (par le Hypertext Transfer Protocol Secure [HTTPS], TLS ou un autre mécanisme)."
+  },
+  {
+    "en": "Leverage cryptographic algorithms and protocols configurable by the user in accordance with ITSP.40.111 and ITSP.40.062",
+    "fr": "Bien que ce paramètre de chiffrement soit souvent le paramètre par défaut, les plateformes et les services en nuage disposent souvent d’options de configuration permettant de sélectionner la version TLS autorisée."
+  },
+  {
+    "en": "Leverage non-person entity certificates from certificate authorities that align with the",
+    "fr": "Utiliser des algorithmes et des protocoles cryptographiques approuvés par le CST, conformément aux normes ITSP.40.111 et ITSP.40.062."
+  },
+  {
+    "en": "Confirm that non-person entity certificates are issued from certificate authorities that align with GC recommendations for TLS server certificates",
+    "fr": "Exploiter les algorithmes et protocoles cryptographiques configurables par l’utilisateur conformément aux documents d’orientation ITSP.40.111 et ITSP.40.062."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.4",
+    "fr": "Exploiter les certificats d’entités autres que des personnes délivrés par des autorités de certification conformes aux ."
+  },
+  {
+    "en": "cryptography guidance in and",
+    "fr": "Confirmer que les certificats d’entités autres que des personnes sont délivrés par des autorités de certification qui respectent les recommandations du GC pour les certificats de serveurs TLS."
+  },
+  {
+    "en": "network security zoning guidance in and",
+    "fr": "2017-01, sous-section 6.2.4."
+  },
+  {
+    "en": "(accessible only on the Government of Canada network)",
+    "fr": ", ."
+  },
+  {
+    "en": ", subsection 4.5",
+    "fr": "Orientations en matière de cryptographie figurant dans les documents et )."
+  },
+  {
+    "en": "Isolate and secure cloud workloads based on the sensitivity of the data",
+    "fr": "Orientations sur l’établissement des zones de sécurité dans un réseau figurant dans les documents et ."
+  },
+  {
+    "en": "Confirm that the department has a target network architecture with a high-level design or a diagram with appropriate segmentation between network security zones in alignment with ITSP.50.104, ITSP.80.022 and ITSG-38",
+    "fr": "(accessible uniquement sur le réseau du gouvernement du Canada)."
+  },
+  {
+    "en": "Confirm that the department has documented a deployment guide for the cloud platform and associated services (the guide should capture the landing zone if applicable)",
+    "fr": "), sous-section 4.5."
+  },
+  {
+    "en": "Confirm that the cloud service provider’s segmentation features are leveraged to provide segmentation of management, production, user acceptance testing (UAT), development (DEV) and testing (for example, the use of subscription, instances or other cloud provider constructs)",
+    "fr": "Isoler et sécuriser les charges de travail dans le nuage en fonction de la sensibilité des données."
+  },
+  {
+    "en": "Develop a target network security design that considers segmentation via network security zones in alignment with ITSP.50.104, ITSP.80.022 and ITSG-38",
+    "fr": "Confirmer que le ministère vise une architecture de réseau assortie d’une conception ou d’un schéma de haut niveau définissant une segmentation appropriée entre les zones de sécurité du réseau, conformément aux documents d’orientation ITSP.50.104, ITSP.80.022 et ITSG-38"
+  },
+  {
+    "en": "Leverage landing zones that include predefined, secured, multi-account support to allow automated onboarding of different workloads and teams",
+    "fr": "Confirmer que le ministère a documenté un guide de déploiement de la plateforme d’informatique en nuage et des services s’y rattachant (le guide devrait rendre compte de la zone d’atterrissage, s’il y a lieu)."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.4",
+    "fr": "Confirmer que les fonctions de segmentation du fournisseur de services en nuage sont exploitées pour assurer la segmentation de la gestion, de la production, des essais d’acceptation par les utilisateurs (EAU), du développement (DEV) et des essais (par exemple, l’utilisation d’un abonnement, d’instances ou d’une autre construction de fournisseur de services d’informatique en nuage)."
+  },
+  {
+    "en": ", number 5",
+    "fr": "Élaborer une conception cible de la sécurité du réseau qui prend en compte la segmentation au moyen des zones de sécurité du réseau conformément aux documents d’orientation ITSP.50.104, ITSP.80.022 et ITSG-38."
+  },
+  {
+    "en": "network security zoning guidance in and",
+    "fr": "Tirer parti des zones d’atterrissage qui comprennent une prise en charge prédéfinie, sécurisée et multicompte pour permettre l’intégration automatisée de différentes charges de travail et équipes."
+  },
+  {
+    "en": ", subsections 4.3 and 4.5",
+    "fr": "2017-01, sous-section 6.2.4."
+  },
+  {
+    "en": "Ensure that egress and ingress points to and from GC cloud-based environments are managed and monitored",
+    "fr": "Mesure 5 des ."
+  },
+  {
+    "en": "Confirm the policy for limiting the number of public Internet Protocols (IPs)",
+    "fr": "Orientations sur l’établissement des zones de sécurité dans un réseau figurant dans les et les ."
+  },
+  {
+    "en": "Implement network boundary protection mechanisms for all external facing interfaces that enforce a deny-all or allow-by-exception policy",
+    "fr": ", sous-sections 4.3 et 4.5."
+  },
+  {
+    "en": "Confirm the policy for network boundary protection",
+    "fr": "Veiller à ce que les points de sortie et d’entrée des environnements d’informatique en nuage du GC soient gérés et surveillés."
+  },
+  {
+    "en": "Perimeter security services, such as boundary protection, intrusion prevention services, proxy services and TLS traffic inspection, must be enabled based on risk profile according to GC secure connectivity requirements and CSE guidance",
+    "fr": "Confirmer la politique en matière de limitation du nombre de protocoles Internet (IP, pour en anglais) publics."
+  },
+  {
+    "en": "Confirm policy for limiting to authorized source IP addresses (for example, GC IP addresses)",
+    "fr": "Mettre en œuvre des mécanismes de protection des limites du réseau pour toutes les interfaces externes qui appliquent une politique de déni systématique ou d’autorisation par exception."
+  },
+  {
+    "en": "Ensure that access to cloud storage services is protected and restricted to authorized security zones or networks, users, and services",
+    "fr": "Confirmer la politique de protection des limites du réseau."
+  },
+  {
+    "en": "Confirm that storage accounts are not exposed to the public",
+    "fr": "Les services de sécurité du périmètre, dont la protection des limites du réseau, les services de prévention des intrusions, les services mandataires, l’inspection de l’achalandage TLS et autres, doivent être activés selon le profil de risque, conformément aux exigences de connectivité sécurisée du GC et à l’orientation du CST."
+  },
+  {
+    "en": "Use centrally provisioned network security services where available",
+    "fr": "Confirmer la politique de limitation aux adresses IP sources autorisées (par exemple, les adresses IP du GC)."
+  },
+  {
+    "en": "Confirm whether the department is intending to establish dedicated and secure connections to on-premise resources",
+    "fr": "Veiller à ce que l’accès aux services de stockage dans le nuage soit protégé et limité aux zones ou réseaux de sécurité, utilisateurs et services autorisés."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.4",
+    "fr": "Confirmer que les comptes de stockage ne sont pas exposés au public."
+  },
+  {
+    "en": ", number 1",
+    "fr": "Utiliser des services centralisés de sécurité du réseau lorsqu’ils sont disponibles."
+  },
+  {
+    "en": "network security zoning guidance in and",
+    "fr": "Confirmer si le ministère a l’intention d’établir des connexions spécialisées et sécurisées vers des ressources sur place."
+  },
+  {
+    "en": ", subsection 4.3",
+    "fr": "2017-01, sous-section 6.2.4."
+  },
+  {
+    "en": "Sign a memorandum of understanding with the Cyber Centre by contacting",
+    "fr": "Mesure 1 des ."
+  },
+  {
+    "en": "Confirm with the Cyber Centre that the memorandum of understanding has been signed",
+    "fr": "Orientations sur l’établissement de zones de sécurité dans un réseau figurant dans les et les )."
+  },
+  {
+    "en": "Implement defensive services, including host-based sensors (HBSs), cloud-based sensors (CBSs), and network-based sensors (NBSs), in accordance with the Cyber Centre’s onboarding guidance where available",
+    "fr": "), sous-section 4.3."
+  },
+  {
+    "en": "Confirm that the Cyber Centre’s sensors or other cyber defence services are implemented where available",
+    "fr": "Signer un protocole d’entente avec le CCC en envoyant un courriel à l’adresse ."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.3",
+    "fr": "Mettre en œuvre des services de défense, y compris des capteurs au niveau de l’hôte, des capteurs au niveau du nuage et des capteurs au niveau du réseau, conformément aux directives d’intégration du CCC, le cas échéant."
+  },
+  {
+    "en": "Implement adequate level of logging and reporting, including a security audit log function in all information systems",
+    "fr": "Confirmer que les capteurs du CCC ou d’autres services de cyberdéfense sont mis en œuvre lorsqu’ils sont disponibles."
+  },
+  {
+    "en": "Confirm policy for event logging is implemented",
+    "fr": "2017-01, sous-section 6.3."
+  },
+  {
+    "en": "Confirm that the following logs are included:",
+    "fr": "Mettre en œuvre un niveau approprié de journalisation et d’établissement de rapports, y compris une fonction de journal de vérification de la sécurité dans tous les systèmes d’information."
+  },
+  {
+    "en": "sign-in (interactive and non-interactive sign-ins, API sign-ins)",
+    "fr": "Confirmer que la politique de journalisation des événements est mise en œuvre."
+  },
+  {
+    "en": "access privilege and group changes (including group membership and group privilege assignment)",
+    "fr": "Confirmer la production des journaux d’événements suivants :"
+  },
+  {
+    "en": "changes in the configuration of the cloud platform",
+    "fr": "Ouvertures de séance (connexions interactives et non interactives, connexions à l’API)."
+  },
+  {
+    "en": "cloud resource provisioning activities",
+    "fr": "Modifications des privilèges d’accès et des groupes (y compris l’appartenance à un groupe et l’attribution de privilèges à un groupe)."
+  },
+  {
+    "en": "Configure events within the solution to support security monitoring, in accordance with the GC",
+    "fr": "Changements dans la configuration de la plateforme en nuage."
+  },
+  {
+    "en": "Confirm whether monitoring and auditing is implemented for all users",
+    "fr": "Activités de fourniture de ressources en nuage."
+  },
+  {
+    "en": "Ensure that the appropriate contact information is configured so that the cloud service provider can notify the GC organization of incidents they detect",
+    "fr": "Configurer les événements au sein de la solution de manière à appuyer la surveillance de la sécurité, conformément au Guide sur la consignation d’événements"
+  },
+  {
+    "en": "Confirm that the security contact record within the account should be completed with the details of at least two appropriate information security personnel (if multiple personnel are permitted by the cloud platform)",
+    "fr": "Confirmer que des activités de surveillance et de vérification sont mises en œuvre pour tous les comptes d’utilisateurs."
+  },
+  {
+    "en": "Configure an appropriate time zone for the audit records generated by your solution components",
+    "fr": "Veiller à ce que les coordonnées appropriées soient configurées de manière à ce que le fournisseur de services d’informatique en nuage puisse informer l’organisation du gouvernement du Canada des incidents qu’ils détectent."
+  },
+  {
+    "en": "Confirm that the appropriate time zone has been set",
+    "fr": "Confirmer que le dossier des personnes-ressources pour la sécurité figurant dans le compte comporte les coordonnées d’au moins deux (si plusieurs sont autorisés par la plateforme en nuage) membres appropriés du personnel attachés à la sécurité de l’information."
+  },
+  {
+    "en": "Ensure that resources are assigned to monitor cloud-based events",
+    "fr": "Configurer un fuseau horaire approprié pour les dossiers de vérification générés par les composants de votre solution."
+  },
+  {
+    "en": "Demonstrate that the monitoring use cases for the cloud platform have been implemented and have been integrated with the overall security monitoring activities being performed by the department (evidence could include monitoring a checklist or a system generated report)",
+    "fr": "Vérifier que le fuseau horaire approprié a été défini."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.3.1",
+    "fr": "Veiller à ce que des ressources soient affectées à la surveillance des événements dans le nuage."
+  },
+  {
+    "en": ", numbers 1, 5 and 8",
+    "fr": "Démontrer que les cas d’utilisation de la surveillance de la plateforme en nuage ont été mis en œuvre et intégrés aux activités générales de surveillance de la sécurité menées par le ministère (pour le démonter, on pourrait par exemple prouver que l’on surveille une liste de contrôle ou un rapport généré par le système)."
+  },
+  {
+    "en": "subsection 4.8",
+    "fr": "2017-01, sous-section 6.3.1."
+  },
+  {
+    "en": "Only GC approved cloud marketplace products are to be consumed. Turning on the commercial marketplace is prohibited.",
+    "fr": "Mesures 1, 5 et 8 des ."
+  },
+  {
+    "en": "Confirm that third-party marketplace restrictions have been implemented",
+    "fr": "sous-section 4.8."
+  },
+  {
+    "en": "Submit requests to add third-party products to marketplace to SSC’s Cloud Broker",
+    "fr": "Seuls les produits d’informatique en nuage offerts sur le marché approuvés par le GC peuvent être consommés. Le recours aux marchés commerciaux est interdit."
+  },
+  {
+    "en": "Ensure that software offered through the cloud service provider or the cloud service provider marketplace undergo a software assurance process to ensure that only approved products are used",
+    "fr": "Confirmer que les restrictions relatives aux marchés tiers ont été mises en œuvre."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.5",
+    "fr": "Soumettre des demandes d’ajout de produits tiers sur le marché au courtier en services d’informatique en nuage de SPC."
+  },
+  {
+    "en": "Document, implement and test a break glass emergency account management process",
+    "fr": "Veiller à ce que les logiciels offerts par le fournisseur de services d’informatique en nuage ou sur le marché des fournisseurs de services d’informatique en nuage fassent l’objet d’un processus d’assurance logicielle afin que seuls des produits approuvés soient utilisés."
+  },
+  {
+    "en": "Verify that an emergency account management procedure has been developed",
+    "fr": "2017-01, sous-section 6.2.5."
+  },
+  {
+    "en": "Verify that alerts are in place to report any use of emergency accounts",
+    "fr": "Documenter, mettre en œuvre et mettre à l’essai une procédure de gestion des comptes d’urgence."
+  },
+  {
+    "en": "Verify that testing of emergency accounts took place, and that periodic testing is included in emergency account management procedures",
+    "fr": "Vérifier si une procédure de gestion des comptes d’urgence a été élaborée."
+  },
+  {
+    "en": "Obtain confirmation from the departmental chief information officer (CIO) in collaboration with the designated official for cyber security (DOCS) with signatures that acknowledge and approve the emergency account management procedures",
+    "fr": "Vérifier si un système d’alerte a été mis en place pour signaler toute utilisation des comptes d’urgence."
+  },
+  {
+    "en": "Confirm through attestation that the departmental CIO, in collaboration with the DOCS, has approved the emergency account management procedure for the cloud service",
+    "fr": "Vérifier que les comptes d’urgence ont été mis à l’essai, et que la procédure de gestion des comptes d’urgence prévoit des essais périodiques."
+  },
+  {
+    "en": "Develop a cloud backup strategy that considers where GC data is stored, replicated, or backed up by the cloud service, and the IT continuity plan for the service or application",
+    "fr": "Obtenir les signatures du dirigeant principal de l’information (DPI) du ministère en collaboration avec l’agent désigné pour la cybersécurité (ADC) en guise de confirmation qu’ils ont pris connaissance des procédures de gestion des comptes d’urgence et les ont approuvées."
+  },
+  {
+    "en": "Confirm through attestation that the cloud backup strategy is developed and approved by the business owner",
+    "fr": "Confirmer au moyen d’une attestation que le DPI du ministère, en collaboration avec l’ADC, a approuvé la procédure de gestion des comptes d’urgence pour le service d’informatique en nuage."
+  },
+  {
+    "en": "Verify if there are scripts that support the ability to restore from code (for example, infrastructure as code)",
+    "fr": "Élaborer une stratégie de sauvegarde dans le nuage qui tient compte du lieu de stockage, de reproduction ou de sauvegarde des données du GC par le service d’informatique en nuage, conformément au plan de continuité de la TI pour le service ou l’application."
+  },
+  {
+    "en": "Ensure that cloud workloads are associated with the relevant Application ID (identifier) in the Treasury Board of Canada Secretariat Application Portfolio Management (APM) tool, in support of Appendix H: Standard on At-Risk Technology",
+    "fr": "Confirmer au moyen d’une attestation que la stratégie de sauvegarde dans le nuage est élaborée et approuvée par le responsable opérationnel."
+  },
+  {
+    "en": "Provide a list of all software, including versions, deployed on virtual machines associated with the Application IDs from the APM",
+    "fr": "Vérifier s’il existe des scripts qui permettent le rétablissement à partir du code (par exemple, une solution d’« infrastructure en tant que code »)."
+  },
+  {
+    "en": "Ensure that departmental cyber security event management plans include cloud services, in alignment with the",
+    "fr": "Veiller à ce que les charges de travail en matière d’informatique en nuage soient associées à l’identifiant d’application pertinent de l’outil de gestion du portefeuille d’applications (GPA) du Secrétariat du Conseil du Trésor du Canada, à l’appui de l’annexe H : Norme sur la technologie de l’information à risque."
+  },
+  {
+    "en": "Confirm that the departmental cyber security event management plan includes contact information to reach the cloud service provider in case of a security event or incident",
+    "fr": "Fournir une liste de tous les logiciels (y compris de leurs numéros de version) qui sont déployés sur les machines virtuelles associées aux identifiants d’application de l’outil de GPA."
+  },
+  {
+    "en": "(SPIN) 2017-01, subsection 6.2.9",
+    "fr": "Veiller à ce que les plans de gestion des événements de cybersécurité du ministère prévoient les services en nuage, conformément au Plan de gestion des événements de cybersécurité du gouvernement du Canada."
+  },
+  {
+    "en": "for Azure and Office 365 (accessible only on the Government of Canada network)",
+    "fr": "Veuillez confirmer que le Plan de gestion des événements de cybersécurité comprenne les coordonnées servant à joindre le fournisseur de services d’informatique en nuage en cas d’événement ou d’incident de sécurité."
+  },
+  {
+    "en": "for departments (Word file) (accessible only on the Government of Canada network)",
+    "fr": "2017-01, sous-section 6.2.9."
+  },
+  {
+    "en": "(SPIN) 2017-01",
+    "fr": "pour Azure et Office 365 (accessible uniquement sur le réseau du gouvernement du Canada)."
+  },
+  {
+    "en": "Cloud-based services used for experimentation or sandbox",
+    "fr": "pour les ministères (fichier Word) (accessible uniquement sur le réseau du gouvernement du Canada)."
+  },
+  {
+    "en": "No direct system-to-system network interconnections required with GC data centres",
+    "fr": "2017-01."
+  },
+  {
+    "en": "Cloud-based services hosting non-sensitive GC content",
+    "fr": "Services d’informatique en nuage utilisés à des fins d’« expérimentation » ou comme « bac à sable »."
+  },
+  {
+    "en": "No direct system-to-system network interconnections required with GC data centres",
+    "fr": "Aucune interconnexion directe de système à système n’est nécessaire avec les centres de données du GC."
+  },
+  {
+    "en": "Cloud-based services hosting sensitive (up to Protected B) information",
+    "fr": "Services d’informatique en nuage hébergeant du contenu non sensible du GC."
+  },
+  {
+    "en": "No direct system-to-system network interconnections required with GC data centres",
+    "fr": "Aucune interconnexion directe de système à système n’est nécessaire avec les centres de données du GC."
+  },
+  {
+    "en": "Cloud-based services hosting sensitive (up to Protected B) information",
+    "fr": "Services d’informatique en nuage hébergeant des renseignements sensibles (jusqu’au niveau Protégé B)."
+  },
+  {
+    "en": "GC cloud-based systems required to interact with systems in GC data centres",
+    "fr": "Aucune interconnexion directe de système à système n’est nécessaire avec les centres de données du GC."
+  },
+  {
+    "en": "Restricted environment for GC users only",
+    "fr": "Services d’informatique en nuage hébergeant des renseignements sensibles (jusqu’au niveau Protégé B)."
+  },
+  {
+    "en": "No external user connections to or from GC cloud-based virtual private cloud and no publicly accessible services",
+    "fr": "Systèmes d’informatique en nuage du GC devant interagir avec les systèmes des centres de données du GC."
+  },
+  {
+    "en": "Cloud-based services hosting sensitive (up to Protected B) information for GC-wide enterprise applications (SaaS)",
+    "fr": "Environnement restreint aux utilisateurs du GC."
+  },
+  {
+    "en": "No direct system-to-system network interconnections required with GC data centres",
+    "fr": "Aucune connexion d’utilisateur externe vers ou depuis le nuage privé virtuel du GC et aucun service accessible au public."
+  },
+  {
+    "en": "Cloud-based services hosting sensitive (up to Protected B) information for GC-wide enterprise applications (SaaS)",
+    "fr": "Services d’informatique en nuage hébergeant des renseignements sensibles (jusqu’au niveau Protégé B) pour des applications intégrées à l’échelle du GC (SaaS)."
+  },
+  {
+    "en": "GC cloud-based systems required to interact with systems in GC data centres",
+    "fr": "Aucune interconnexion directe de système à système n’est nécessaire avec les centres de données du GC."
+  },
+  {
+    "en": "Restricted environment for GC users only",
+    "fr": "Services en nuage hébergeant des renseignements sensibles (jusqu’au niveau Protégé B) pour des applications intégrées à l’échelle du GC (SaaS)."
+  },
+  {
+    "en": "No external user connections to or from GC cloud-based virtual private cloud and no publicly accessible services",
+    "fr": "Systèmes d’informatique en nuage du GC devant interagir avec les systèmes des centres de données du GC."
+  },
+  {
+    "en": "Hybrid IT environment with an extension of the GC network to cloud-based virtual private cloud (up to Protected B) information",
+    "fr": "Environnement restreint aux utilisateurs du GC."
+  },
+  {
+    "en": "GC cloud-based systems required to interact with systems in GC data centres",
+    "fr": "Aucune connexion d’utilisateur externe vers ou depuis le nuage privé virtuel du GC et aucun service accessible au public."
+  },
+  {
+    "en": "Restricted environment for GC users only",
+    "fr": "Environnement de la TI hybride avec extension du réseau du GC aux renseignements (jusqu’au niveau Protégé B) stockés sur le nuage privé virtuel."
+  },
+  {
+    "en": "No external user connections to or from GC cloud-based virtual private cloud and no publicly accessible services",
+    "fr": "Systèmes d’informatique en nuage du GC devant interagir avec les systèmes des centres de données du GC."
+  },
+  {
+    "en": "Cloud-based services hosting sensitive (up to Protected B) information",
+    "fr": "Environnement restreint aux utilisateurs du GC."
+  },
+  {
+    "en": "GC cloud-based systems required to interact with systems in GC data centres",
+    "fr": "Aucune connexion d’utilisateur externe vers ou depuis le nuage privé virtuel du GC et aucun service accessible au public."
+  },
+  {
+    "en": "Environment accessible to GC users and external users and services",
+    "fr": "Services d’informatique en nuage hébergeant des renseignements sensibles (jusqu’au niveau Protégé B)."
+  },
+  {
+    "en": "Solution implemented, managed, and operated by a GC department or agency",
+    "fr": "Systèmes d’informatique en nuage du GC devant interagir avec les systèmes des centres de données du GC."
+  },
+  {
+    "en": "2017-01",
+    "fr": "Environnement accessible aux utilisateurs du GC et aux utilisateurs et services externes."
+  },
+  {
+    "en": "(accessible only on the Government of Canada network)",
+    "fr": "Solution mise en œuvre, gérée et exploitée par un ministère ou une agence du GC."
+  }
+]

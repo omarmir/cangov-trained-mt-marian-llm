@@ -1,0 +1,1090 @@
+[
+  {
+    "en": "This guide takes effect on .",
+    "fr": "Le présent guide entre en vigueur le ."
+  },
+  {
+    "en": "This guide replaces the Guidance document: Proactive disclosure of travel and hospitality expenses, dated .",
+    "fr": "Le présent guide remplace le , daté du ."
+  },
+  {
+    "en": "This guide supports the requirements for the proactive publication of travel and hospitality expenses under the and applies to government institutions that are subject to the .",
+    "fr": "Le présent guide est conforme aux exigences relatives à la publication proactive des frais de voyage et d’accueil en vertu de la et s’applique aux institutions fédérales assujetties à la ."
+  },
+  {
+    "en": "Government institutions should adopt all sections and requirements of this guide, as well as all sections and requirements of the following:",
+    "fr": "Les institutions fédérales devraient adopter toutes les sections et exigences du présent guide, ainsi que tous les articles et toutes les exigences des documents suivants :"
+  },
+  {
+    "en": "This guide will help ensure that information on government travel and hospitality expenses is proactively published in accordance with statutory obligations. Proactive publication provides consistent information that is accessible to the public.",
+    "fr": "Le présent guide permettra de s’assurer que l’information sur les frais de voyage et d’accueil du gouvernement est publiée de façon proactive, conformément aux obligations statutaires. La publication proactive fournit des renseignements cohérents accessibles au public."
+  },
+  {
+    "en": "Under the , travel and hospitality expenses incurred by the following individuals must be proactively published in electronic form:",
+    "fr": "En vertu de la , les frais de voyage et d’accueil engagés par les personnes énumérées ci‐dessous doivent être publiés de façon proactive sur support électronique :"
+  },
+  {
+    "en": "Travel and hospitality expenses incurred by individuals on behalf of any person listed above must also be published.",
+    "fr": "Les frais de voyage et d’accueil engagés par des individus au nom de toute personne énumérée ci‐dessus doivent également être publiés."
+  },
+  {
+    "en": "It is up to the government institution to determine which positions constitute positions of an equivalent rank.",
+    "fr": "Il revient à l’institution fédérale de déterminer quels postes constituent des postes de niveau équivalent."
+  },
+  {
+    "en": "Government institutions must publish the information in Table 1 for each trip taken by any individual listed in section 4 of this guide.",
+    "fr": "Les institutions fédérales doivent publier l’information indiquée au tableau 1 pour chaque voyage effectué par une personne figurant dans la liste présentée à la section 4 du présent guide."
+  },
+  {
+    "en": "Reference number",
+    "fr": "Numéro de référence"
+  },
+  {
+    "en": "A unique reference number given to the published expense report for each trip. Having a unique identifier for each trip helps users find a specific item if they need to change or delete it.",
+    "fr": "Numéro de référence unique attribué au rapport de frais de voyage publié pour chaque voyage. Le fait d’avoir un identificateur unique pour chaque voyage aide les utilisateurs à trouver un élément précis s’ils doivent le modifier ou le supprimer."
+  },
+  {
+    "en": "T-2019-P1-00001",
+    "fr": ": T‐2019‐P1‐00001"
+  },
+  {
+    "en": "The 5-digit number at the end of the reference number is generated in sequence for each trip, for example:",
+    "fr": ": Le numéro à cinq chiffres à la fin du numéro de référence est généré en séquence pour chaque voyage, par exemple :"
+  },
+  {
+    "en": "Disclosure group",
+    "fr": "Groupe de divulgation"
+  },
+  {
+    "en": "The group to which the individual belongs. Choose 1 of the following:",
+    "fr": "Groupe auquel appartient la personne. Sélectionnez une des options suivantes :"
+  },
+  {
+    "en": "Title",
+    "fr": "Titre"
+  },
+  {
+    "en": "Position title of the person who travelled.",
+    "fr": "Titre du poste de la personne qui a voyagé."
+  },
+  {
+    "en": "Name",
+    "fr": "Nom"
+  },
+  {
+    "en": "Name of the person who travelled.",
+    "fr": "Nom de la personne qui a voyagé."
+  },
+  {
+    "en": "Organization",
+    "fr": "Organisation"
+  },
+  {
+    "en": "Name of the government institution.",
+    "fr": "Nom de l’institution fédérale."
+  },
+  {
+    "en": "Purpose of travel",
+    "fr": "But du déplacement"
+  },
+  {
+    "en": "A short description of the reason for the trip.",
+    "fr": "Brève description de la raison du voyage."
+  },
+  {
+    "en": "The description should be no more than one line, if possible, and acronyms should be avoided.",
+    "fr": "La description ne doit pas dépasser une ligne, si possible, et les acronymes doivent être évités."
+  },
+  {
+    "en": "Dates of travel",
+    "fr": "Dates du déplacement"
+  },
+  {
+    "en": "Start and end dates for the full period of the trip.",
+    "fr": "Dates de début et de fin de toute la période du voyage."
+  },
+  {
+    "en": "Dates should be formatted as yyyy-mm-dd.",
+    "fr": "Les dates doivent être inscrites sous le format aaaa‐mm‐jj."
+  },
+  {
+    "en": "Places visited",
+    "fr": "Endroits visités"
+  },
+  {
+    "en": "All places visited during the trip.",
+    "fr": "Tous les endroits visités pendant le voyage."
+  },
+  {
+    "en": "Use the full names of the city or region, province or state, and country.",
+    "fr": "Indiquez le nom au complet de la ville ou la région, de la province ou l’état, et du pays."
+  },
+  {
+    "en": "Airfare",
+    "fr": "Tarif aérien"
+  },
+  {
+    "en": "Total cost of airline tickets.",
+    "fr": "Coût total des billets d’avion."
+  },
+  {
+    "en": "If the individual travelled on an aircraft that is owned or operated by the Government of Canada, charges may not be levied in some cases. Use of such aircraft, however, should still be indicated. If charges were levied for the use of such aircraft, those charges should be indicated. See subsection 6.3 of the for details.",
+    "fr": "Si la personne a voyagé à bord d’un avion appartenant au gouvernement du Canada ou exploité par celui‐ci, des frais peuvent ne pas être perçus dans certains cas. Toutefois, l’utilisation de ces appareils doit quand même être indiquée. Si des frais ont été imposés pour l’utilisation de ces appareils, ces frais doivent être indiqués. Voir le paragraphe 6.3 des pour plus de détails."
+  },
+  {
+    "en": "Seat selection and luggage fees should be included in the total cost of airfare. Such fees should be explained in the “Additional comments” field.",
+    "fr": "Les frais de sélection des places et liés aux bagages devraient être inclus dans le coût total du billet d’avion. Ces frais devraient être expliqués dans le champ « Commentaires supplémentaires »."
+  },
+  {
+    "en": "Other transportation",
+    "fr": "Autres frais de transport"
+  },
+  {
+    "en": "Total cost of any other forms of transportation (for example, train, bus, vehicle rental, private vehicle, taxis, parking).",
+    "fr": "Coût total de toute autre forme de transport (par exemple train, autobus, location de véhicule, véhicule privé, taxis, stationnement)."
+  },
+  {
+    "en": "Lodging",
+    "fr": "Hébergement"
+  },
+  {
+    "en": "Total cost of accommodation.",
+    "fr": "Coût total de l’hébergement."
+  },
+  {
+    "en": "Meals and incidentals",
+    "fr": "Repas et frais accessoires"
+  },
+  {
+    "en": "Total cost of meals and incidental expenses.",
+    "fr": "Total des frais de repas et des frais accessoires."
+  },
+  {
+    "en": "Other expenses",
+    "fr": "Autres dépenses"
+  },
+  {
+    "en": "Total cost of all other items that are not covered by the above fields (for example, special passport, visas, associated photos, calls to the office or home, dependant care, where applicable).",
+    "fr": "Coût total de tous les autres éléments qui ne sont pas couverts par les champs ci‐dessus (par exemple passeport spécial, visas, photos connexes, appels au bureau ou à la maison, soins aux personnes à charge, le cas échéant)."
+  },
+  {
+    "en": "Total amount",
+    "fr": "Montant total"
+  },
+  {
+    "en": "The total of the amounts listed above.",
+    "fr": "Total des montants énumérés ci‐dessus."
+  },
+  {
+    "en": "Additional comments",
+    "fr": "Commentaires supplémentaires"
+  },
+  {
+    "en": "Additional explanatory comments (as required). This should be used to explain any corrections or adjustments made to the proactive publication or any other information, such as:",
+    "fr": "Commentaires explicatifs supplémentaires (au besoin). Ce champ devrait être utilisé pour expliquer toute correction ou tout ajustement apporté à la publication proactive ou à toute autre information, comme :"
+  },
+  {
+    "en": "Refer to the notes below for more information.",
+    "fr": "Voir les remarques ci‐dessous pour en savoir plus."
+  },
+  {
+    "en": "T-2019-P10-00013",
+    "fr": "T‐2019‐P10‐00013"
+  },
+  {
+    "en": "Minister / ministerial adviser / ministerial staff / parliamentary secretary / exempt staff",
+    "fr": "Le ministre, le conseiller ministériel, le personnel ministériel, le secrétaire parlementaire ou le personnel exonéré"
+  },
+  {
+    "en": "Minister of Veterans Affairs Canada",
+    "fr": "Ministre des Anciens Combattants Canada"
+  },
+  {
+    "en": "Smith, John",
+    "fr": "Untel, Jean"
+  },
+  {
+    "en": "Veterans Affairs Canada",
+    "fr": "Anciens Combattants Canada"
+  },
+  {
+    "en": "Attend a wreath‐laying ceremony to commemorate the Battle of Verdun",
+    "fr": "Assister à une cérémonie de dépôt de la couronne pour commémorer la bataille de Verdun."
+  },
+  {
+    "en": "2018-06-22",
+    "fr": "2018‐06‐22"
+  },
+  {
+    "en": "2018-06-23",
+    "fr": "2018‐06‐23"
+  },
+  {
+    "en": "Verdun, France",
+    "fr": "Verdun, France"
+  },
+  {
+    "en": "$1,000.00",
+    "fr": "1 000 $"
+  },
+  {
+    "en": "$50.00",
+    "fr": "50 $"
+  },
+  {
+    "en": "$300.00",
+    "fr": "300 $"
+  },
+  {
+    "en": "$150.00",
+    "fr": "150 $"
+  },
+  {
+    "en": "$0.00",
+    "fr": "0 $"
+  },
+  {
+    "en": "$1,500.00",
+    "fr": "1 500 $"
+  },
+  {
+    "en": "Government institutions must publish the information in Table 2 for hospitality expenses incurred by any individual listed in section 4 of this guide.",
+    "fr": "Les institutions fédérales doivent publier l’information indiquée au tableau 2 pour les frais d’accueil engagés par une personne figurant dans la liste présentée à la section 4 du présent guide."
+  },
+  {
+    "en": "Reference number",
+    "fr": "Numéro de référence"
+  },
+  {
+    "en": "A unique reference number given to each proactive publication of a hospitality activity. Having a unique identifier for each hospitality activity helps users find a specific item if they need to change or delete it.",
+    "fr": "Numéro de référence unique attribué à chaque publication proactive d’une activité d’accueil. Le fait d’avoir un identificateur unique pour chaque activité d’accueil aide les utilisateurs à trouver un élément précis s’ils doivent le modifier ou le supprimer."
+  },
+  {
+    "en": "H-2019-P1-00001",
+    "fr": ": H‐2019‐P1‐00001"
+  },
+  {
+    "en": "The 5-digit number at the end of the reference number is generated in sequence for each hospitality activity, for example:",
+    "fr": ": Le nombre à cinq chiffres à la fin du numéro de référence est généré en séquence pour chaque activité d’accueil, par exemple :"
+  },
+  {
+    "en": "Disclosure group",
+    "fr": "Groupe de divulgation"
+  },
+  {
+    "en": "The group to which the individual belongs.",
+    "fr": "Groupe auquel appartient la personne."
+  },
+  {
+    "en": "Choose 1 of the following:",
+    "fr": "Sélectionnez une des options suivantes :"
+  },
+  {
+    "en": "Title",
+    "fr": "Titre"
+  },
+  {
+    "en": "Position title of the individual who incurred the hospitality expenses (the hospitality expenses were charged to their responsibility centre).",
+    "fr": "Titre du poste de la personne qui a engagé les frais d’accueil (les frais d’accueil ont été imputés à son centre de responsabilité)."
+  },
+  {
+    "en": "Name",
+    "fr": "Nom"
+  },
+  {
+    "en": "Name of the individual who incurred the hospitality expenses (the hospitality expenses were charged to their responsibility centre).",
+    "fr": "Nom de la personne qui a engagé les frais d’accueil (les frais d’accueil ont été imputés à son centre de responsabilité)."
+  },
+  {
+    "en": "Organization",
+    "fr": "Organisation"
+  },
+  {
+    "en": "Name of the government institution.",
+    "fr": "Nom de l’institution fédérale."
+  },
+  {
+    "en": "Purpose of hospitality activity",
+    "fr": "But de l’activité d’accueil"
+  },
+  {
+    "en": "Provide both the forms (for example, breakfast, refreshment, lunch, reception, dinner and other forms of hospitality) and circumstances (the purpose) of the hospitality.",
+    "fr": "Indiquer à la fois les formes (par exemple déjeuner, rafraîchissement, dîner, réception, souper et autres formes d’accueil) et les circonstances (le but) de l’accueil."
+  },
+  {
+    "en": "Date of hospitality activity",
+    "fr": "Date de l’activité d’accueil"
+  },
+  {
+    "en": "Start and end dates for the period in which the hospitality was provided.",
+    "fr": "Dates de début et de fin de la période au cours de laquelle l’accueil a été fourni."
+  },
+  {
+    "en": "Dates should be formatted as yyyy-mm-dd.",
+    "fr": "Les dates doivent être inscrites sous le format aaaa‐mm‐jj."
+  },
+  {
+    "en": "Municipality where the hospitality activity took place",
+    "fr": "Municipalité où l’activité d’accueil a eu lieu"
+  },
+  {
+    "en": "Municipality where the hospitality was provided.",
+    "fr": "Municipalité où l’accueil a été fourni."
+  },
+  {
+    "en": "Use the full names of the city or region, province or state, and country.",
+    "fr": "Indiquez le nom au complet de la ville ou la région, de la province ou l’état, et du pays."
+  },
+  {
+    "en": "Name of any commercial establishment or vendor involved in the hospitality activity",
+    "fr": "Nom de l’établissement commercial ou du fournisseur concerné par l’activité d’accueil"
+  },
+  {
+    "en": "The name of the commercial establishment that provided the hospitality (for example, restaurant, hotel or other location) and/or vendor (for example, a caterer).",
+    "fr": "Nom de l’établissement commercial qui a fourni l’accueil (par exemple un restaurant, un hôtel ou un autre lieu) et/ou du fournisseur (par exemple un traiteur)."
+  },
+  {
+    "en": "Note the following:",
+    "fr": "Notez ce qui suit :"
+  },
+  {
+    "en": "Number of persons who attended the hospitality activity",
+    "fr": "Nombre de personnes qui ont participé à l’activité d’accueil"
+  },
+  {
+    "en": "The total number of attendees and the breakdown according to the number of Government of Canada officials and the number of guests.",
+    "fr": "Nombre total de participants et répartition selon le nombre de représentants du gouvernement du Canada et le nombre d’invités."
+  },
+  {
+    "en": "Names of the attendees are not required.",
+    "fr": "Les noms des participants ne sont pas requis."
+  },
+  {
+    "en": "Total amount of the expenses for the hospitality activity",
+    "fr": "Montant total des dépenses pour l’activité d’accueil"
+  },
+  {
+    "en": "The total cost of the hospitality activity.",
+    "fr": "Total des coûts de l’activité d’accueil."
+  },
+  {
+    "en": "Additional comments",
+    "fr": "Commentaires supplémentaires"
+  },
+  {
+    "en": "Additional explanatory comments (as required). Refer to the notes below for more information.",
+    "fr": "Commentaires explicatifs supplémentaires (au besoin). Voir les remarques ci‐dessous pour en savoir plus."
+  },
+  {
+    "en": "H-2019-P4-00006",
+    "fr": "H‐2019‐P4‐00006"
+  },
+  {
+    "en": "Senior officer or employee",
+    "fr": "Dirigeant ou employé"
+  },
+  {
+    "en": "Chief Financial Officer",
+    "fr": "Dirigeant principal des finances"
+  },
+  {
+    "en": "Smith, John",
+    "fr": "Untel, Jean"
+  },
+  {
+    "en": "Fisheries and Oceans Canada",
+    "fr": "Pêches et Océans Canada"
+  },
+  {
+    "en": "Refreshments and lunch: Aspiring Leaders Symposium",
+    "fr": "Rafraîchissements et dîner : Symposium des futurs leaders"
+  },
+  {
+    "en": "2018-05-25",
+    "fr": "2018‐05‐25"
+  },
+  {
+    "en": "2018-05-25",
+    "fr": "2018‐05‐25"
+  },
+  {
+    "en": "Ottawa, Ontario, Canada",
+    "fr": "Ottawa, Ontario, Canada"
+  },
+  {
+    "en": "Shaw Centre",
+    "fr": "Centre Shaw"
+  },
+  {
+    "en": "150",
+    "fr": "150"
+  },
+  {
+    "en": ": $7,710.55",
+    "fr": "7 710,55 $"
+  },
+  {
+    "en": "Under the , any travel and hospitality expenses incurred by individuals listed in section 4 of this guide must be published within 30 days after the end of the month in which these expenses were reimbursed. The publication deadlines are listed in Table 3.",
+    "fr": "En vertu de la , les frais de voyage et d’accueil engagés par les personnes énumérées à la section 4 du présent guide doivent être publiés dans les 30 jours suivant la fin du mois au cours duquel ces frais ont été remboursés. Les dates limites de publication sont énumérées au tableau 3."
+  },
+  {
+    "en": "Information published on the Open Government Portal must be uploaded to the Open Government Registry the day before the deadline for proactive publication so that the information can be published overnight to meet the legislated timeline for publication.",
+    "fr": "Les renseignements publiés sur le Portail du gouvernement ouvert doivent être téléchargés dans le Registre du gouvernement ouvert la veille de la date limite de publication proactive afin que les renseignements soient publiés pendant la nuit conformément aux délais prescrits par la loi pour la publication."
+  },
+  {
+    "en": "When the deadline falls on a weekend or statutory holiday, the information must be published in electronic form by the last business day before that weekend or holiday.",
+    "fr": "Lorsque la date limite coïncide avec une journée de fin de semaine ou un jour férié, l’information doit être publiée sur support électronique au plus tard le dernier jour ouvrable précédant cette fin de semaine ou ce jour férié."
+  },
+  {
+    "en": "April 1 to April 30",
+    "fr": "du 1er avril au 30 avril"
+  },
+  {
+    "en": "May 30",
+    "fr": "30 mai"
+  },
+  {
+    "en": "May 1 to May 31",
+    "fr": "du 1er mai au 31 mai"
+  },
+  {
+    "en": "June 30",
+    "fr": "30 juin"
+  },
+  {
+    "en": "June 1 to June 30",
+    "fr": "du 1er juin au 30 juin"
+  },
+  {
+    "en": "July 30",
+    "fr": "30 juillet"
+  },
+  {
+    "en": "July 1 to July 31",
+    "fr": "du 1er juillet au 31 juillet"
+  },
+  {
+    "en": "August 30",
+    "fr": "30 août"
+  },
+  {
+    "en": "August 1 to August 31",
+    "fr": "du 1er août au 31 août"
+  },
+  {
+    "en": "September 30",
+    "fr": "30 septembre"
+  },
+  {
+    "en": "September 1 to September 30",
+    "fr": "du 1er septembre au 30 septembre"
+  },
+  {
+    "en": "October 30",
+    "fr": "30 octobre"
+  },
+  {
+    "en": "October 1 to October 31",
+    "fr": "du 1er octobre au 31 octobre"
+  },
+  {
+    "en": "November 30",
+    "fr": "30 novembre"
+  },
+  {
+    "en": "November 1 to November 30",
+    "fr": "du 1er novembre au 30 novembre"
+  },
+  {
+    "en": "December 30",
+    "fr": "30 décembre"
+  },
+  {
+    "en": "December 1 to December 31",
+    "fr": "du 1er décembre au 31 décembre"
+  },
+  {
+    "en": "January 30",
+    "fr": "30 janvier"
+  },
+  {
+    "en": "January 1 to January 31",
+    "fr": "du 1er janvier au 31 janvier"
+  },
+  {
+    "en": "March 2 (March 1 in a leap year)",
+    "fr": "2 mars (1er mars dans une année bissextile)"
+  },
+  {
+    "en": "February 1 to February 28",
+    "fr": "du 1er février au 28 février"
+  },
+  {
+    "en": "March 30",
+    "fr": "30 mars"
+  },
+  {
+    "en": "March 1 to March 31",
+    "fr": "du 1er mars au 31 mars"
+  },
+  {
+    "en": "April 30",
+    "fr": "30 avril"
+  },
+  {
+    "en": "Proactive publication should occur when the travel and hospitality expenses have been reimbursed (see the reimbursement criteria listed in section 7 of this guide).",
+    "fr": "La publication proactive doit avoir lieu lorsque les frais de voyage et d’accueil ont été remboursés (voir les critères de remboursement énumérés à la section 7 du présent guide)."
+  },
+  {
+    "en": "The publication should not be delayed in anticipation of an adjustment to the information (such as a non-material cost that is charged long after the trip occurred or the hospitality was provided).",
+    "fr": "La publication ne doit pas être retardée en prévision d’un ajustement à l’information (comme un coût non matériel qui est facturé longtemps après que le voyage a eu lieu ou que l’accueil a été fourni)."
+  },
+  {
+    "en": "In the event of an error or adjustment in published information (for example, an additional unexpected processing fee or an interdepartmental settlement from another institution is charged after the travel expenses have been proactively published), government institutions must correct or adjust the published information as soon as possible.",
+    "fr": "Si une erreur est décelée dans l’information publiée ou un ajustement y est apporté (par exemple des frais de traitement imprévus supplémentaires ou un règlement interministériel d’une autre institution sont facturés après la publication proactive des frais de voyage), les institutions fédérales doivent corriger l’information publiée ou y apporter un ajustement le plus tôt possible."
+  },
+  {
+    "en": "Under the , any travel expenses incurred by an individual listed in section 4 of this guide must be proactively published within 30 days after the end of the month in which the travel expenses were reimbursed.",
+    "fr": "En vertu de la , les frais de voyage engagés par les personnes énumérées à la section 4 du présent guide doivent être publiés de façon proactive dans les 30 jours suivant la fin du mois au cours duquel les frais de voyage ont été remboursés."
+  },
+  {
+    "en": "The reimbursement of travel expenses in the Government of Canada is complex for several reasons, including:",
+    "fr": "Le remboursement des frais de voyage au gouvernement du Canada est complexe pour plusieurs raisons, notamment :"
+  },
+  {
+    "en": "Because of these complexities, travel expenses are considered to have been reimbursed once of the following have occurred:",
+    "fr": "En raison de ces complexités, les frais de voyage sont considérés comme ayant été remboursés une fois que les mesures ci‐dessous ont été prises :"
+  },
+  {
+    "en": "Note that all related travel expenses must be published together once all of the expenses are reimbursed as described above.",
+    "fr": "Veuillez noter que tous les frais de voyage doivent être publiés ensemble une fois que tous les frais sont remboursés, tel que décrit ci‐dessus."
+  },
+  {
+    "en": "Figure 1 is an example of how to determine when a travel expense must be published. The example:",
+    "fr": "La figure 1 montre un exemple de la façon de déterminer quand des frais de voyage doivent être publiés. L’exemple :"
+  },
+  {
+    "en": "Figure 1 is an example of a timeline for the proactive publication of travel expenses and the example is as follows:",
+    "fr": "La figure 1 est un exemple d’échéancier pour la publication proactive des frais de voyage. Voici l’exemple :"
+  },
+  {
+    "en": "Under the , any hospitality expenses incurred by an individual listed in section 4 of this guide must be proactively published within 30 days after the end of the month in which the hospitality expenses were reimbursed.",
+    "fr": "En vertu de la , les frais d’accueil engagés par les personnes énumérées à la section 4 du présent guide doivent être publiés de façon proactive dans les 30 jours suivant la fin du mois au cours duquel des frais d’accueil ont été remboursés."
+  },
+  {
+    "en": "The reimbursement of hospitality expenses in the Government of Canada is complex because these expenses can result from various payment methods (for example, invoices, acquisition cards and reimbursements of out‐of‐pocket expenses), which means that some expenses are paid directly by the government institution and some are reimbursed to individuals. In addition, a hospitality activity may include several hospitality expenses, for example expenses related to providing refreshments, lunch and dinner.",
+    "fr": "Le remboursement des frais d’accueil au gouvernement du Canada est complexe, car ces frais peuvent découler de divers modes de paiement (par exemple les factures, les cartes d’achat et les remboursements de frais déboursés par l’individu), ce qui signifie que certaines dépenses sont payées directement par l’institution fédérale, alors que d’autres sont remboursées aux individus. De plus, une activité d’accueil peut comprendre plusieurs dépenses, par exemple des dépenses liées à la fourniture de rafraîchissements et de repas."
+  },
+  {
+    "en": "As a result, the detailed total cost of the hospitality activity must be published 30 days after the end of the month once of the following actions have occurred:",
+    "fr": "Par conséquent, le coût total détaillé de l’activité d’accueil doit être publié 30 jours après la fin du mois, une fois que les mesures suivantes ont été prises :"
+  },
+  {
+    "en": "Government institutions must proactively publish all hospitality expenses that are related to an activity and that are charged to the responsibility centre that the senior officer or employee is directly managing, even if this individual did not attend the activity.",
+    "fr": "Les institutions fédérales doivent publier de façon proactive tous les frais d’accueil liés à une activité et imputés au centre de responsabilité que le dirigeant ou l’employé gère directement, même si cette personne n’a pas participé à l’activité."
+  },
+  {
+    "en": "Figure 2 is an example of how to determine when a hospitality expense must be published. The example:",
+    "fr": "La figure 2 montre un exemple de la façon de déterminer quand des frais d’accueil doivent être publiés. L’exemple :"
+  },
+  {
+    "en": "Figure 2 is an example of a timeline for the proactive publication of hospitality expenses and the example is as follows:",
+    "fr": "La figure 2 est un exemple d’échéancier pour la publication proactive des frais d’accueil. Voici l’exemple :"
+  },
+  {
+    "en": "The :",
+    "fr": "La :"
+  },
+  {
+    "en": "Departments, agencies and other bodies subject to the and listed in Schedules I, I.1, or II of the are required to proactively publish travel and hospitality expenditures on the Open Government Portal.",
+    "fr": "Les ministères, les organismes et les autres entités assujetties à la et mentionnés dans les annexes I, I.1 ou II de la sont tenus de publier de façon proactive les frais de voyage et d’accueil sur le Portail du gouvernement ouvert."
+  },
+  {
+    "en": "Crown corporations and wholly owned subsidiaries, and other government institutions subject to the may proactively publish travel and hospitality expenditures on their own websites or on the Open Government Portal. Wholly owned subsidiaries publishing on a parent Crown corporation’s website should publish as clearly identifiable entities.",
+    "fr": "Les sociétés d’État, les filiales à cent pour cent et les autres institutions fédérales assujetties à la peuvent publier de façon proactive les frais de voyage et d’accueil sur leurs propres sites Web ou sur le Portail du gouvernement ouvert. Les filiales à cent pour cent qui publient des renseignements sur le site Web d’une société d’État mère doivent le faire en tant qu’entité clairement identifiable."
+  },
+  {
+    "en": "Information published on the must be uploaded to the Open Government Registry the day before the deadline for proactive publication so that information can be published overnight to meet the legislated timeline for publication.",
+    "fr": "Les renseignements publiés sur le doivent être téléchargés dans le Registre du gouvernement ouvert la veille de la date limite de publication proactive afin que les renseignements soient publiés pendant la nuit conformément aux délais prescrits par la loi pour la publication."
+  },
+  {
+    "en": "Contact for information about the Open Government Portal.",
+    "fr": "Écrivez à l’adresse pour en savoir plus le Portail du gouvernement ouvert."
+  },
+  {
+    "en": "Pursuant to sections 80 and 90 of the , when proactively publishing travel and hospitality expenses, an institution is required to not publish any information that would be required to be withheld if it were being disclosed in response to an access to information request. As well, an institution is not required to publish information that the institution could refuse to disclose in response to an access to information request. For example, the publication of travel and hospitality expenses is not required if the information would compromise national security, public safety or ongoing criminal investigations.",
+    "fr": "En vertu des articles 80 et 90 de la , au moment de la publication proactive des frais de voyage et d’accueil, une institution ne doit pas publier des renseignements qui devraient être retenus s’ils étaient divulgués en réponse à une demande d’accès à l’information. En outre, une institution n’est pas tenue de publier des renseignements que l’institution pourrait refuser de divulguer en réponse à une demande d’accès à l’information. Par exemple, la publication des frais de voyage et d’accueil n’est pas requise si ces renseignements pouvaient compromettre la sécurité nationale, la sécurité publique ou des enquêtes criminelles en cours."
+  },
+  {
+    "en": "Government institutions should consult with their access to information coordinators for advice on whether specific information relating to government travel and hospitality expenses should be disclosed.",
+    "fr": "Les institutions fédérales doivent communiquer avec leurs coordonnateurs de l’accès à l’information pour obtenir des conseils concernant les renseignements relatifs aux frais de voyage et d’accueil du gouvernement qui devraient être divulgués."
+  },
+  {
+    "en": "Government institutions are responsible for ensuring that:",
+    "fr": "Les institutions fédérales doivent s’assurer que :"
+  },
+  {
+    "en": "Members of the public who have questions about this guide may contact the Treasury Board of Canada Secretariat Public Enquiries at .",
+    "fr": "Les membres du public qui ont des questions au sujet du présent guide peuvent communiquer avec le personnel chargé des demandes de renseignements du Secrétariat du Conseil du Trésor du Canada à ."
+  },
+  {
+    "en": "Individuals from government institutions should contact:",
+    "fr": "Les membres des institutions fédérales devraient :"
+  },
+  {
+    "en": "Individuals from information and privacy groups may contact the Information and Privacy Policy Division of Treasury Board of Canada Secretariat at for guidance on the following:",
+    "fr": "Les membres des groupes responsables de l’information et de la protection des renseignements personnels peuvent communiquer avec la Division des politiques de l’information et de la protection des renseignements personnels du Secrétariat du Conseil du Trésor du Canada au pour obtenir des conseils sur les documents suivants :"
+  },
+  {
+    "en": "Individuals from government institutions should contact:",
+    "fr": "Les membres des institutions fédérales devraient :"
+  },
+  {
+    "en": "Designated travel coordinators may contact .",
+    "fr": "Les coordonnateurs désignés de voyages peuvent envoyer un courriel à l’adresse ."
+  },
+  {
+    "en": "Individuals from a departmental or agency financial policy group may contact for any questions on this guide and interpretation of the .",
+    "fr": "Les membres d’un groupe de la politique financière d’un ministère ou d’un organisme peuvent envoyer un courriel à l’adresse pour toute question sur le présent guide et sur l’interprétation de la ."
+  },
+  {
+    "en": "Individuals from Crown corporations or wholly owned subsidiaries should contact the internal financial management services or portfolio department at their parent Crown corporation if they have questions about this guide.",
+    "fr": "Les membres de sociétés d’État ou de filiales à cent pour cent doivent communiquer avec les services internes de gestion financière ou le ministère de portefeuille de leur société d’État mère s’ils ont des questions au sujet du présent guide."
+  },
+  {
+    "en": "(including the Prime Minister, ministers of state and associate ministers), and",
+    "fr": "les (y compris le premier ministre, les ministres d’État et les ministres associés), les et le ;"
+  },
+  {
+    "en": "in any department or ministry of state of the Government of Canada, or in any body or office listed in Schedule I of the , which includes government institutions listed in Schedules I, I.1, and II of the (including deputy ministers, deputy heads, associate deputy ministers, assistant deputy ministers, assistant deputy heads, and any individuals who hold positions of an equivalent rank)",
+    "fr": "les d’un ministère ou d’un ministère d’État du gouvernement du Canada, ou de tout organisme ou bureau énuméré à l’annexe I de la , ce qui comprend les institutions fédérales énumérées aux annexes I, I.1 et II de la (y compris les sous‐ministres, les administrateurs généraux, les sous‐ministres délégués, les sous‐ministres adjoints, les administrateurs généraux adjoints et toute personne qui occupe un poste de niveau équivalent);"
+  },
+  {
+    "en": "in any parent Crown corporation, and any wholly owned subsidiary of such a corporation, within the meaning of section 83 of the (including presidents, vice‐presidents, chief executive officers and members of a board of directors, and any individuals who hold positions of an equivalent rank)",
+    "fr": "les de toute société d’État mère et de toute filiale à cent pour cent d’une telle société, au sens de l’article 83 de la (y compris les présidents, les vice‐présidents, les premiers dirigeants, les membres d’un conseil d’administration et toute personne qui occupe un poste de niveau équivalent)."
+  },
+  {
+    "en": "Amounts must be reported in Canadian dollars and include taxes.",
+    "fr": "Les montants doivent être déclarés en dollars canadiens et inclure les taxes."
+  },
+  {
+    "en": "Expense items should appear in chronological order according to the date(s) on which the travel expenses were reimbursed. For government institutions using the Open Government Portal, the most recently uploaded travel expenses will appear first.",
+    "fr": "Les postes de dépenses doivent apparaître en ordre chronologique selon les dates auxquelles les frais de voyage ont été remboursés. Pour les institutions fédérales qui utilisent le Portail du gouvernement ouvert, les frais de voyage les plus récemment téléchargés apparaîtront en premier."
+  },
+  {
+    "en": "Government institutions that have no travel expenses to report in a period (no travel expenses for the entire government institution) must submit a report that states “nothing to report” (known as a nil report). Institutions are not to publish nil reports for each individual who has no travel expenses for a publication period.",
+    "fr": "Les institutions fédérales qui n’ont pas de frais de voyage à déclarer au cours d’une période (aucuns frais de voyage pour l’ensemble de l’institution fédérale) doivent présenter un rapport comportant la mention « Rien à déclarer » (appelé un rapport néant). Les institutions n’ont pas à publier de rapport néant pour chaque personne qui n’a pas de frais de voyage à déclarer pour une période de déclaration."
+  },
+  {
+    "en": "In situations where travel expenses are reimbursed by a third party, it is recommended that the government institution post, for example, a zero-dollar transaction and provide an explanation in the “Additional comments” field.",
+    "fr": ": Dans les cas où les frais de voyage sont remboursés par un tiers, il est recommandé que l’institution fédérale affiche, par exemple, une transaction de zéro dollar et fournisse une explication dans le champ « Commentaires supplémentaires »."
+  },
+  {
+    "en": "Companion travel expenses must be included in the travel expense disclosure of the individual subject to proactive publication. For example, when the spouse of a minister accompanies that minister on official government business, in accordance with the , the travel expenses incurred by the spouse must be included in the minister’s travel expense claims and must be published. In such situations, the spouse’s presence on the trip is to be indicated in the “Purpose of travel” field (for example, “Attend state funeral: Accompanied by spouse”). Additional information could be added in the “Additional comments” field.",
+    "fr": ": Les frais de voyage des personnes accompagnantes doivent être inclus dans la déclaration des frais de voyage de la personne faisant l’objet de la publication proactive. Par exemple, lorsque le conjoint d’un ministre accompagne ce dernier dans le cadre d’activités officielles du gouvernement, conformément aux , les frais de voyage engagés par le conjoint doivent être inclus dans les demandes de remboursement des frais de voyage du ministre et doivent être publiés. Dans de telles situations, la présence du conjoint au voyage doit être indiquée dans le champ « But du déplacement » (par exemple « Assister aux funérailles d’État : accompagné par le conjoint »). D’autres renseignements peuvent être ajoutés dans le champ « Commentaires supplémentaires »."
+  },
+  {
+    "en": "Travel expenses for dependants can be claimed under very specific circumstances, which are set out in the National Joint Council . If dependant travel expenses are allowed, they should be included in the official’s travel claims and should be published. For example, the “Purpose of travel” field could be populated with “Weekend travel: Dependant” and additional information could be added in the “Additional comments” field.",
+    "fr": ": Le remboursement des frais de voyage des personnes à charge peut être demandé dans des circonstances très précises, qui sont énoncées dans la du Conseil national mixte. Si les frais de voyage des personnes à charge sont autorisés, ils doivent être inclus dans les demandes de remboursement de voyage du représentant et doivent être publiés. Par exemple, le champ « But du déplacement » pourrait contenir l’information « Voyage de fin de semaine : personne à charge », et d’autres renseignements pourraient être ajoutés dans le champ « Commentaires supplémentaires »."
+  },
+  {
+    "en": "Under the and the , MPs may, in some circumstances, accompany a minister as a guest or travel on a minister’s behalf. If the travel expenses incurred by an MP in such circumstances are charged to the minister’s budget, they should be published and would be indicated in the “Purpose of travel” field. Example: “Infrastructure Canada announcement: Accompanied by Joe Smith, MP” or “Infrastructure Canada announcement: Joe Smith, MP, on behalf of Minister Jones.”",
+    "fr": ": En vertu des et des , les députés peuvent, dans certaines circonstances, accompagner un ministre à titre d’invités, ou voyager pour le compte d’un ministre. Si les frais de voyage engagés par un député dans de telles circonstances sont imputés au budget du ministre, ils doivent être publiés et indiqués dans le champ « But du déplacement ». Exemple : « Annonce d’Infrastructure Canada : accompagnée par Jean Untel, député » ou « Annonce d’Infrastructure Canada : Jean Untel, pour le compte de la ministre Jones »."
+  },
+  {
+    "en": "Travel expenses incurred for the purposes of relocation under the National Joint Council are not subject to proactive publication.",
+    "fr": ": Les frais de voyage engagés aux fins d’une réinstallation en vertu de la du Conseil national mixte ne font pas l’objet d’une publication proactive."
+  },
+  {
+    "en": "The requires the proactive publication of all travel expenses for the individuals listed in section 4 of this guide. As such, if residual travel expenses are still reflected in the government institution’s financial management system after the cancellation of a trip, they still have to be proactively published. The “Additional comments” field can be used to specify that the trip was cancelled and explain which costs were incurred.",
+    "fr": ": La exige la publication proactive de tous les frais de voyage engagés pour les personnes énumérées à la section 4 du présent guide. Ainsi, si les frais de voyage résiduels sont toujours pris en compte dans le système de gestion financière de l’institution fédérale après l’annulation d’un voyage, ils doivent quand même être publiés de façon proactive. Le champ « Commentaires supplémentaires » peut être utilisé pour préciser que le voyage a été annulé et expliquer les frais qui ont été engagés."
+  },
+  {
+    "en": "Travel expenses to be published include local travel within the normal office location and surrounding working area (for example, taxi and parking expenses).",
+    "fr": ": Les frais de voyage à publier comprennent ceux des déplacements locaux à l’intérieur des lieux de travail normaux et dans la zone de travail avoisinante (par exemple les frais de taxi et de stationnement)."
+  },
+  {
+    "en": "T: for travel",
+    "fr": "T : voyage"
+  },
+  {
+    "en": "2019: for the fiscal year ending on March 31, 2019",
+    "fr": "2019 : exercice terminé le 31 mars 2019"
+  },
+  {
+    "en": "P: for the reporting period in which the expenses were reimbursed (see Table 3)",
+    "fr": "P : période de déclaration au cours de laquelle les dépenses ont été remboursées (voir le tableau 3)"
+  },
+  {
+    "en": "T-2019-P1-00002",
+    "fr": "T‐2019‐P1‐00002"
+  },
+  {
+    "en": "T-2019-P1-00003",
+    "fr": "T‐2019‐P1‐00003"
+  },
+  {
+    "en": "T-2019-P1-00004",
+    "fr": "T‐2019‐P1‐00004"
+  },
+  {
+    "en": "Minister / ministerial adviser / ministerial staff / parliamentary secretary / exempt staff",
+    "fr": "Ministre, conseiller ministériel, personnel ministériel, secrétaire parlementaire ou personnel exonéré"
+  },
+  {
+    "en": "Senior officer or employee",
+    "fr": "Dirigeant ou employé"
+  },
+  {
+    "en": "Vice‐Chairperson",
+    "fr": "Vice‐président"
+  },
+  {
+    "en": "Deputy Minister",
+    "fr": "Sous‐ministre"
+  },
+  {
+    "en": "Parliamentary Secretary",
+    "fr": "Secrétaire parlementaire"
+  },
+  {
+    "en": "Assistant Deputy Minister, Programs Branch",
+    "fr": "Sous‐ministre adjoint, Direction générale des programmes"
+  },
+  {
+    "en": "Commander, Royal Canadian Air Force",
+    "fr": "Commandant, Aviation royale canadienne"
+  },
+  {
+    "en": "Attend North American Free Trade Agreement trade mission",
+    "fr": "Participer à une mission commerciale dans le cadre de l’Accord de libre‐échange nord‐américain."
+  },
+  {
+    "en": "Give presentation at the Ontario Chamber of Commerce",
+    "fr": "Donner une présentation à la Chambre de commerce de l’Ontario."
+  },
+  {
+    "en": "Attend Government of Canada Leadership Conference",
+    "fr": "Assister à la Conférence sur le leadership du gouvernement du Canada."
+  },
+  {
+    "en": "Team Canada trade mission meetings",
+    "fr": "Réunions de missions commerciales d’Équipe Canada."
+  },
+  {
+    "en": "2018-06-22",
+    "fr": "Date de début : 2018‐06‐22"
+  },
+  {
+    "en": "2018-06-23",
+    "fr": "Date de fin : 2018‐06‐23"
+  },
+  {
+    "en": "Ottawa, Ontario, Canada",
+    "fr": "Ottawa, Ontario, Canada"
+  },
+  {
+    "en": "New York City, New York, United States",
+    "fr": "New York, New York, États‐Unis"
+  },
+  {
+    "en": "the individuals accompanying the travellers (for example, the spouse of a minister, a dependant or a member of Parliament)",
+    "fr": "les personnes qui accompagnent les voyageurs (par exemple le conjoint d’un ministre, une personne à charge ou un député);"
+  },
+  {
+    "en": "the cancellation of a trip",
+    "fr": "l’annulation d’un voyage;"
+  },
+  {
+    "en": "the application of credits to the cost of the trip (for example, using credit from a cancelled trip to reduce the airfare of another trip)",
+    "fr": "l’application de crédits au coût du voyage (par exemple l’utilisation d’un crédit d’un voyage annulé en vue de réduire le tarif aérien d’un autre voyage)."
+  },
+  {
+    "en": "Reported amounts must be in Canadian currency and include taxes.",
+    "fr": "Les montants déclarés doivent être en devises canadiennes et inclure les taxes."
+  },
+  {
+    "en": "Expense items should appear in chronological order according to the date or dates on which the hospitality expenses were reimbursed. On the Open Government Portal, the most recently uploaded hospitality expenses will appear first.",
+    "fr": "Les postes de dépenses doivent apparaître en ordre chronologique selon la date ou les dates auxquelles les frais d’accueil ont été remboursés. Sur le Portail du gouvernement ouvert, les frais d’accueil les plus récemment téléchargés apparaîtront en premier."
+  },
+  {
+    "en": "Government institutions that have no hospitality expenses to report in a period (no hospitality expenses for the entire government institution) must submit a report that states “nothing to report” (known as a nil report). Institutions are not to publish nil reports for each individual who has no hospitality expenses for a publication period.",
+    "fr": "Les institutions fédérales qui n’ont pas de frais d’accueil à déclarer au cours d’une période (aucuns frais d’accueil pour l’ensemble de l’institution fédérale) doivent présenter un rapport comportant la mention « Rien à déclarer » (appelé un rapport néant). Les institutions n’ont pas à publier de rapport néant pour chaque personne qui n’a pas de frais d’accueil à déclarer pour une période de déclaration."
+  },
+  {
+    "en": "In situations where hospitality expenses are reimbursed by a third party, it is recommended that the government institution post, for example, a zero-dollar transaction and provide an explanation in the “Additional comments” field.",
+    "fr": ": Dans les cas où les frais d’accueil sont remboursés par un tiers, il est recommandé que l’institution fédérale affiche, par exemple, une transaction de zéro dollar et fournisse une explication dans le champ « Commentaires supplémentaires »."
+  },
+  {
+    "en": "H: for hospitality",
+    "fr": "H : accueil"
+  },
+  {
+    "en": "2019: for the fiscal year ending on March 31, 2019",
+    "fr": "2019 : exercice terminé le 31 mars 2019"
+  },
+  {
+    "en": "P: for the reporting period in which the expenses were reimbursed (see Table 3)",
+    "fr": "P : période de déclaration au cours de laquelle les dépenses ont été remboursées (voir le tableau 3)"
+  },
+  {
+    "en": "H-2019-P1-00002",
+    "fr": "H‐2019‐P1‐00002"
+  },
+  {
+    "en": "H-2019-P1-00003",
+    "fr": "H‐2019‐P1‐00003"
+  },
+  {
+    "en": "H-2019-P1-00004",
+    "fr": "H‐2019‐P1‐00004"
+  },
+  {
+    "en": "Minister / ministerial adviser / ministerial staff / parliamentary secretary / exempt staff",
+    "fr": "Ministre, conseiller ministériel, personnel ministériel, secrétaire parlementaire ou personnel exonéré"
+  },
+  {
+    "en": "Senior officer or employee",
+    "fr": "Dirigeant ou employé"
+  },
+  {
+    "en": "Vice‐Chairperson",
+    "fr": "Vice‐président"
+  },
+  {
+    "en": "Deputy Minister",
+    "fr": "Sous‐ministre"
+  },
+  {
+    "en": "Parliamentary Secretary",
+    "fr": "Secrétaire parlementaire"
+  },
+  {
+    "en": "Assistant Deputy Minister, Programs Branch",
+    "fr": "Sous‐ministre adjoint, Direction générale des programmes"
+  },
+  {
+    "en": "Commander, Royal Canadian Air Force",
+    "fr": "Commandant, Aviation royale canadienne"
+  },
+  {
+    "en": "Refreshments and lunch: Information Management and Policies Committee meeting",
+    "fr": "Rafraîchissements et dîner : réunion du Comité de gestion de l’information et des politiques"
+  },
+  {
+    "en": "Reception: Maltese delegation",
+    "fr": "Réception : délégation maltaise"
+  },
+  {
+    "en": "Dinner: Trade discussions with United States and Mexican officials",
+    "fr": "Souper : discussions commerciales avec des représentants des États‐Unis et du Mexique"
+  },
+  {
+    "en": "Start date: 2018-05-25",
+    "fr": "Date de début : 2018‐05‐25"
+  },
+  {
+    "en": "End date: 2018-05-25",
+    "fr": "Date de fin : 2018‐05‐25"
+  },
+  {
+    "en": "Montréal, Quebec, Canada",
+    "fr": "Montréal, Québec, Canada"
+  },
+  {
+    "en": "Another government department is not a vendor for the purposes of this requirement. A Crown corporation is a vendor for the purposes of this requirement only if it is a non-agent Crown corporation (for example, one of the museums established under the ). If the name is not required, enter “nil” in this field.",
+    "fr": "Un autre ministère n’est pas un fournisseur aux fins de cette exigence. Une société d’État est un fournisseur aux fins de cette exigence seulement s’il s’agit d’une société d’État non mandataire (par exemple l’un des musées établis en vertu de la ). Si le nom n’est pas requis, saisissez « néant » dans ce champ."
+  },
+  {
+    "en": "Proactive publication of the name of the venue is required if a room is rented in order to provide the hospitality activity and the venue is a commercial establishment. It is not required if the venue is a government venue unless the venue is operated by a non-agent Crown corporation.",
+    "fr": "La publication proactive du nom du lieu est requise si une salle est louée afin d’offrir l’activité d’accueil et si le lieu est un établissement commercial. Elle n’est pas requise s’il s’agit d’un lieu appartenant au gouvernement, à moins que ce lieu soit exploité par une société d’État non mandataire."
+  },
+  {
+    "en": "There is a requirement to proactively publish if a room is rented for the sole purpose of providing hospitality.",
+    "fr": "L’obligation de publier de façon proactive s’applique dans l’éventualité où une salle est louée dans le seul but de fournir l’accueil."
+  },
+  {
+    "en": "Attendees (Government of Canada officials): 7",
+    "fr": "Participants (représentants du gouvernement du Canada) : 7"
+  },
+  {
+    "en": "Attendees (guests): 5",
+    "fr": "Participants (invités) : 5"
+  },
+  {
+    "en": "Travel expenses can take different forms, for example:",
+    "fr": "Les frais de voyage peuvent prendre différentes formes, par exemple :"
+  },
+  {
+    "en": "reimbursement of out‐of‐pocket expenses paid by an individual",
+    "fr": "le remboursement des frais déboursés par un individu;"
+  },
+  {
+    "en": "prepaid expenses, such as airfare and hotel",
+    "fr": "les dépenses payées d’avance, comme le billet d’avion et l’hôtel;"
+  },
+  {
+    "en": "allowances",
+    "fr": "les indemnités;"
+  },
+  {
+    "en": "advances",
+    "fr": "les avances."
+  },
+  {
+    "en": "Travel expenses can be incurred at different times, for example:",
+    "fr": "Les frais de voyage peuvent être engagés à différents moments, par exemple :"
+  },
+  {
+    "en": "before a trip (airfare and accommodations)",
+    "fr": "avant un voyage (billet d’avion et hébergement);"
+  },
+  {
+    "en": "during a trip (meals and transportation)",
+    "fr": "pendant un voyage (repas et transport)."
+  },
+  {
+    "en": "Travel expenses can be paid in different ways, for example:",
+    "fr": "Les frais de voyage peuvent être payés de différentes façons, par exemple :"
+  },
+  {
+    "en": "paid directly by the government institution",
+    "fr": "directement par l’institution fédérale;"
+  },
+  {
+    "en": "paid out of pocket by the individual and reimbursed later by the government institution",
+    "fr": "par l’individu, et remboursés plus tard par l’institution fédérale."
+  },
+  {
+    "en": "the travel expense claim for the trip has been approved",
+    "fr": "la demande de remboursement des frais de voyage a été approuvée;"
+  },
+  {
+    "en": "all of the expenses related to the travel have been granted certification authority and payment authority (sections 34 and 33 of the ) by the appropriate individuals with delegated authority",
+    "fr": "tous les frais de déplacement liés au voyage ont reçu l’attestation et l’autorisation de paiement (articles 34 et 33 de la ) de la part des personnes appropriées ayant le pouvoir délégué ;"
+  },
+  {
+    "en": "all of the travel expenses are recorded in the government institution’s financial management system",
+    "fr": "tous les frais de déplacement liés au voyage sont consignés dans le système de gestion financière de l’institution fédérale."
+  },
+  {
+    "en": "is a timeline of the publication of travel expenses incurred by a senior officer or employee in a department",
+    "fr": "est un échéancier de la publication des frais de voyage engagés par un dirigeant ou un employé d’un ministère ;"
+  },
+  {
+    "en": "shows how the reimbursement of travel expenses triggers the deadline for proactive publication",
+    "fr": "montre comment le remboursement des frais de voyage déclenche la date limite de la publication proactive ."
+  },
+  {
+    "en": "On September 6, a decision is made that there is a need to travel",
+    "fr": "Le 6 septembre, il est décidé qu’un voyage est nécessaire."
+  },
+  {
+    "en": "On September 15, the travel request is approved by the appropriate delegated departmental manager, according to the departmental delegation chart (expenditure initiation)",
+    "fr": "Le 15 septembre, la demande de voyage est approuvée par le gestionnaire ministériel délégué approprié, conformément au tableau de délégation ministériel (engagement des dépenses)."
+  },
+  {
+    "en": "On September 20, the hotel and airline tickets are booked",
+    "fr": "Le 20 septembre, l’hôtel et les billets d’avion sont réservés."
+  },
+  {
+    "en": "From October 22 to 23, the employee travels and incurs out-of-pocket expenses for meals and transportation",
+    "fr": "Les 22 et 23 octobre, l’employé voyage et engage des dépenses personnelles pour les repas et le transport."
+  },
+  {
+    "en": "On October 28, the employee returns to work and the travel expense claim is prepared with the supporting receipts",
+    "fr": "Le 28 octobre, l’employé retourne au travail et une demande de remboursement des frais de voyage est préparée, avec les reçus à l’appui."
+  },
+  {
+    "en": "On November 10, the travel expense claim is approved, including supporting documentation and receipts (section 34 of the )",
+    "fr": "Le 10 novembre, la demande de remboursement des frais de voyage est approuvée, y compris les documents et les reçus à l’appui (article 34 de la )."
+  },
+  {
+    "en": "On November 14, a requisition for payment is made (section 33 of the ), the employee is reimbursed and the expenses are recorded in the departmental financial management system",
+    "fr": "Le 14 novembre, une demande de paiement est présentée (article 33 de la ), l’employé est remboursé et les frais sont consignés dans le système ministériel de gestion financière."
+  },
+  {
+    "en": "On December 30, the travel expenses are proactively published (30 days after the end of November)",
+    "fr": "Le 30 décembre, les frais de voyage sont publiés de façon proactive (30 jours après la fin du mois de novembre)."
+  },
+  {
+    "en": "all of the hospitality expenses related to the hospitality activity have been granted certification authority and payment authority (sections 34 and 33 of the ) from the appropriate individuals with delegated authority",
+    "fr": "tous les frais d’accueil liés à l’activité d’accueil ont reçu l’attestation et l’autorisation de paiement (articles 34 et 33 de ) de la part des personnes appropriées ayant le pouvoir délégué ;"
+  },
+  {
+    "en": "all of the hospitality expenses related to the hospitality activity are recorded in the senior officer’s budget or the employee’s budget (responsibility centre) as a hospitality expense in the government institution’s financial management system",
+    "fr": "tous les frais d’accueil liés à l’activité d’accueil sont imputés au budget du dirigeant ou de l’employé (centre de responsabilité) en tant que frais d’accueil dans le système de gestion financière de l’institution fédérale."
+  },
+  {
+    "en": "is a timeline of the publication of hospitality expenses incurred by a senior officer or employee in a department",
+    "fr": "est un échéancier de la publication des frais d’accueil engagés par un dirigeant ou un employé d’un ministère;"
+  },
+  {
+    "en": "shows how the reimbursement of hospitality expenses triggers the proactive publication deadline",
+    "fr": "montre comment le remboursement des frais d’accueil déclenche la date limite de la publication proactive."
+  },
+  {
+    "en": "On May 4, a decision is made that there is a need to provide hospitality",
+    "fr": "Le 4 mai, il est décidé qu’il est nécessaire d’offrir de l’accueil."
+  },
+  {
+    "en": "On May 17, the hospitality request is approved by the appropriate delegated departmental manager",
+    "fr": "Le 17 mai, la demande d’accueil est approuvée par le gestionnaire ministériel délégué approprié."
+  },
+  {
+    "en": "On May 25, the hospitality activity occurs",
+    "fr": "Le 25 mai, l’activité d’accueil a lieu."
+  },
+  {
+    "en": "On June 20, the hospitality expense is approved, including supporting documentation and receipts (section 34 of the )",
+    "fr": "Le 20 juin, les frais d’accueil sont approuvés, y compris les documents et les reçus à l’appui (article 34 de la )."
+  },
+  {
+    "en": "On June 26, a requisition for payment is made (section 33 of the ); the expense is recorded in the departmental financial management system, and is charged to the responsibility centre of the senior official or employee",
+    "fr": "Le 26 juin, une demande de paiement est présentée (article 33 de la ); les frais sont consignés dans le système ministériel de gestion financière, et sont imputés au centre de responsabilité du dirigeant ou de l’employé."
+  },
+  {
+    "en": "On July 30, the hospitality expenses are proactively published (30 days after the end of June)",
+    "fr": "Le 30 juillet, les frais d’accueil sont publiés de façon proactive (30 jours après la fin du mois de juin)."
+  },
+  {
+    "en": "requires that travel and hospitality expenses be published in electronic form",
+    "fr": "exige que les frais de voyage et d’accueil soient publiés sur support électronique;"
+  },
+  {
+    "en": "provides that the President of the Treasury Board, as designated Minister, may specify the form of the publication",
+    "fr": "prévoit que le président du Conseil du Trésor, à titre de ministre désigné, puisse préciser la forme de la publication."
+  },
+  {
+    "en": "information about travel and hospitality expenses is accurate and up to date",
+    "fr": "les renseignements sur les frais de voyage et d’accueil sont exacts et à jour;"
+  },
+  {
+    "en": "the information is posted in accordance with this guide and with the following:",
+    "fr": "l’information est affichée conformément au présent guide et aux documents suivants :"
+  },
+  {
+    "en": "National Joint Council",
+    "fr": "du Conseil national mixte"
+  },
+  {
+    "en": "for information and technical questions related to the Open Government Portal",
+    "fr": "envoyer un courriel à l’adresse pour obtenir des renseignements et poser des questions techniques concernant le Portail du gouvernement ouvert;"
+  },
+  {
+    "en": "their access to information and privacy coordinator for guidance related to their institution’s internal processes for the proactive publication of travel and hospitality expenses, including any questions related to removing personal information from travel and hospitality receipts",
+    "fr": "contacter leur coordonnateur de l’accès à l’information et de la protection des renseignements personnels pour obtenir des conseils liés aux processus internes de leur institution concernant la publication proactive des frais de voyage et d’accueil, y compris toutes les questions liées à la suppression de renseignements personnels des reçus de voyage et d’accueil."
+  },
+  {
+    "en": "their financial policy group for guidance on the",
+    "fr": "contacter le groupe de la politique financière de leur institution pour obtenir des conseils sur la ;"
+  },
+  {
+    "en": "their for guidance on the National Joint Council and the",
+    "fr": "contacter leurs pour obtenir des conseils sur la du Conseil national mixte et les ;"
+  },
+  {
+    "en": "for any guidance on the",
+    "fr": "envoyer un courriel à l’adresse pour obtenir des conseils au sujet des ."
+  }
+]

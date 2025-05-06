@@ -1,0 +1,46 @@
+[
+  {
+    "en": "This document is part of the Appendix A of the .",
+    "fr": "Ce document fait partie de l’Annexe A de la ."
+  },
+  {
+    "en": "PS 3320 Contingent assets",
+    "fr": "SP 3320 Actifs éventuels"
+  },
+  {
+    "en": "Contingent assets may exist at departments as a result of various activities. An example is litigation initiated by the Government in which recovery of funds or punitive damages are reasonably expected to be received. (PS 3320.08)",
+    "fr": "1.Les ministères peuvent avoir des actifs éventuels par suite de diverses activités, comme une procédure judiciaire entamée par le gouvernement qui permettrait de croire raisonnablement au recouvrement de fonds ou à l’obtention de dommages intérêts punitifs. (SP 3320.08)"
+  },
+  {
+    "en": "Contingent assets are not recognized in the financial statements but are disclosed in the notes to the financial statements in accordance with PS 3320.12-.20. Further to PS 3320.12, the uncertainty relating to the occurrence or non-occurrence of future event(s) can be expressed by a range of probabilities. As a guideline, the range of probabilities can be broadly defined as:",
+    "fr": "Les actifs éventuels ne sont pas comptabilisés dans les états financiers, mais ils sont communiqués dans les notes complémentaires des états financiers conformément à la SP 3320.12-.20. Aux termes de la norme SP 3320.12, l’incertitude quant à l’occurrence ou non d’événements futurs peut être exprimée selon un éventail de probabilités. En règle générale, l’éventail des probabilités peut-être défini comme suit :"
+  },
+  {
+    "en": "Likely: a greater than 70% probability;",
+    "fr": "Probable : probabilité supérieure à 70 %;"
+  },
+  {
+    "en": "Unlikely: a less than 30% probability; and",
+    "fr": "Improbable : probabilité inférieure à 30 %;"
+  },
+  {
+    "en": "Not determinable: a probability between 30% and 70%.",
+    "fr": "Indéterminable : probabilité entre 30 % et 70 %."
+  },
+  {
+    "en": "To illustrate the application of the accounting treatment related to contingent assets in specific situations please refer to the table below:",
+    "fr": "Le tableau ci-dessous illustre la façon de comptabiliser les actifs éventuels dans des situations particulières :"
+  },
+  {
+    "en": "If applicable, an updated legal opinion from the Department of Justice should be solicited for litigation items for each year-end at minimum; more frequent updates should be obtained for significant items.",
+    "fr": "S’il y a lieu, une opinion juridique à jour du ministère de la Justice doit être demandée pour les litiges, au minimum, à la fin de chaque exercice; des mises à jour plus fréquentes doivent être demandées dans le cas des litiges importants."
+  },
+  {
+    "en": "Further to PS 3320.18, particular care should be taken in wording the disclosure of contingent assets that are confidential or sensitive in nature. Care should also be exercised in the disclosure of contingent assets to avoid misleading implications as to the likelihood of realization. Departments may wish to consult with the Office of the Comptroller General of Canada for proposed note disclosure.",
+    "fr": "Aux termes de la SP 3320.18, il faut accorder une attention particulière au libellé de l’information relative aux actifs éventuels qui sont confidentiels ou de nature délicate. Il faut également veiller à communiquer l’information sur les actifs éventuels de telle façon à éviter de donner une fausse impression de la probabilité qu’ils se réalisent. Les ministères pourraient vouloir consulter le Bureau du contrôleur général du Canada relativement au libellé des notes proposées."
+  },
+  {
+    "en": "Applies without additional policy choices or interpretation for Departmental Financial Statements.",
+    "fr": "Des exigences similaires, sans autre choix de convention ni interprétation, s’appliquent aux états financiers ministériels."
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "en": "1.1 This standard takes effect on February 2, 2015, and incorporates changes effective April 1, 2021.",
+    "fr": "1.1 La présente norme entre en vigueur le 2 février 2015 et intègre les changements à compter le 1er avril 2021."
+  },
+  {
+    "en": "1.2 Departments will be required to implement this standard when migrating to a new or upgraded departmental finance and materiel management system or no later than January 1, 2031.",
+    "fr": "1.2 Les ministères devront appliquer cette norme lors de la migration vers un système ministériel de gestion des finances et du matériel nouveau ou amélioré ou au plus tard le 1er janvier 2031."
+  },
+  {
+    "en": "1.3 This standard applies to procurement item information associated with financial events which occur on or after the implementation date of the standard.",
+    "fr": "1.3 La norme s’applique aux renseignements sur les articles d’approvisionnement associés aux activités financières qui se produiront à la date d’entrée en vigueur de la norme ou après."
+  },
+  {
+    "en": "2.1 This Standard applies to “departments” as defined in Section 2 of the ( ), with the exception of paragraphs (b) and (c), and unless otherwise excluded by specific acts, regulations or orders-in-council. Throughout this standard, the terms “department”, “government-wide” and “across government” refer to these organizations. Other departments or separate agencies not subject to these provisions are encouraged to meet these requirements as good practice.",
+    "fr": "2.1 La présente norme s’applique aux ministères au sens de l’article 2 de la (LGFP), à l’exception des paragraphes (b) et (c), à moins qu’ils soient exclus par des lois, règlements ou décrets précis. Les termes « ministère », « pangouvernemental » et « à l’échelle du gouvernement » renvoient à ces organisations. Les autres ministères ou organismes distincts non assujettis à ces dispositions sont incités à se conformer aux présentes exigences à titre de bonnes pratiques."
+  },
+  {
+    "en": "2.2 The requirements set out in Sections 5.2 and 7.2 relating to the role of the Treasury Board of Canada Secretariat in monitoring compliance and directing consequences for non-compliance do not apply to the following organizations:",
+    "fr": "2.2 Les exigences établies aux articles 5.2 et 7.2 se rapportant au rôle du Secrétariat du Conseil du Trésor du Canada quand il s’agit de surveiller la conformité et de déterminer les conséquences d’une non-conformité ne s’appliquent pas aux organisations suivantes :"
+  },
+  {
+    "en": "2.3 The deputy heads of the organizations listed in 2.2 are solely responsible for monitoring and ensuring compliance with the standard in their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance.",
+    "fr": "2.3 Les administrateurs généraux des organismes énumérés au point 2.2 sont les seuls responsables de la surveillance et de l’assurance de la conformité à la Norme au sein de leurs organismes ainsi que de la réponse aux cas de non-conformité, conformément aux instruments du Conseil du Trésor qui servent de principes et d’orientations en matière de gestion de la conformité."
+  },
+  {
+    "en": "This standard supports the objectives of the by outlining the responsibilities of the chief financial officer (CFO) for ensuring that the procurement item classification information (as defined in this standard) is recorded for each acquisition of goods and services, to ensure consistent and reliable financial information government-wide.",
+    "fr": "La présente norme appuie la réalisation des objectifs de la en établissant les responsabilités du dirigeant principal des finances (DPF), qui doit s’assurer que les renseignements sur la classification des articles d’approvisionnement (tels que définis dans la présente norme) sont consignés pour chaque bien ou service acquis, de sorte que l’on dispose de renseignements financiers uniformes et fiables dans l’ensemble de l’appareil gouvernemental."
+  },
+  {
+    "en": "This standard defines a common procurement item classification code which allows for consistent recording, aggregation and reporting of financial information within the departmental financial and materiel management system ( ).",
+    "fr": "La présente norme prévoit l’adoption de codes de classification communs des articles d’approvisionnement afin de permettre l’enregistrement, l’agrégation et la communication de l’information financière dans le système ministériel de gestion financière et du matériel ( )."
+  },
+  {
+    "en": "Classification information associated with procurement items supports a variety of materiel management and financial management requirements of departments and agencies. This information is also used to help meet government-wide needs such as commodity management, and to help meet reporting obligations established through policy instruments and trade agreements including the proactive disclosure of contracts, and the reporting of government procurement activities under the provisions of trade agreements and Comprehensive Land Claim Agreements .",
+    "fr": "L’information de classification associée aux articles d’approvisionnement tient compte des exigences que doivent respecter les ministères et organismes en ce qui concerne la gestion du matériel et la gestion financière. On utilise aussi cette information pour aider à combler des besoins pangouvernementaux, comme la gestion des produits, et pour faciliter le respect des obligations en matière de rapports établies par l’entremise des instruments de politiques et d’accords commerciaux, dont la divulgation proactive des marchés et l’établissement de rapports sur les activités d’approvisionnement du gouvernement selon les dispositions d’accords commerciaux et d’accords sur les revendications territoriales globales ."
+  },
+  {
+    "en": "This standard is issued under the authority of sections 7 and 9 of the",
+    "fr": "La présente norme est publiée en vertu des articles 7 et 9 de la ."
+  },
+  {
+    "en": "This standard is to be read in conjunction with the , the , and the .",
+    "fr": "La présente norme doit être lue conjointement avec la , la et la ."
+  },
+  {
+    "en": "Additional requirements are set out in the .",
+    "fr": "Des exigences supplémentaires sont énoncées dans les ."
+  },
+  {
+    "en": "4.1 The objective of this standard is to ensure that the procurement records provide consistent financial information government-wide.",
+    "fr": "4.1 L’objectif de cette norme est de faire en sorte que les dossiers d’approvisionnement contiennent des renseignements financiers uniformes dans l’ensemble de l’appareil gouvernemental."
+  },
+  {
+    "en": "4.2 The expected result of this standard is to ensure financial information is consistently recorded and maintained in the departmental financial and materiel management system.",
+    "fr": "4.2 Les résultats escomptés de cette norme sont de veiller à ce que l’information financière soit consignée et tenue à jour uniformément dans le système ministériel de gestion financière et du matériel."
+  },
+  {
+    "en": "5.1.1 Developing and maintaining a procurement item classification record, by January 1, 2031, that is integrated with the departmental financial and materiel management system.",
+    "fr": "5.1.1 Créer et tenir à jour, d’ici le 1er janvier 2031, un registre de classification des articles d’approvisionnement qui est intégré au système ministériel de gestion des finances et du matériel."
+  },
+  {
+    "en": "5.1.2 Ensuring that the procurement item classification information is used as defined and for its intended purpose and allows for the identification of all data elements of the procurement item record described in .",
+    "fr": "5.1.2 Faire en sorte que les renseignements sur la classification des articles d’approvisionnement soient utilisés comme prescrit, aux fins prévues, et qu’ils permettent l’identification de toutes les données contenues dans les dossiers des articles d’approvisionnement (décrites à l’ )."
+  },
+  {
+    "en": "5.1.3 Variances or exemptions to this requirement are not recommended and will need to be justified in a Request for Exemption to the Office of the Comptroller General for consideration prior to any investment decision.",
+    "fr": "5.1.3 Les dérogations ou les exemptions à cette exigence ne sont pas recommandées et, le cas échéant, elles devront être justifiées dans une demande d’exemption soumise au Bureau du contrôleur général à des fins d’examen avant qu’une décision ne soit prise en matière d’investissement."
+  },
+  {
+    "en": "5.2.1 Chief financial officers are responsible for supporting their deputy heads by overseeing the implementation and monitoring of this standard in their departments, bringing to the deputy head’s attention any significant difficulties, gaps in performance or compliance issues, developing proposals to address these, and reporting significant performance or compliance issues to the Office of the Comptroller General.",
+    "fr": "5.2.1 Le dirigeant principal des finances doit appuyer l’administrateur général en supervisant la mise en œuvre et le suivi de la présente norme au sein du ministère, en signalant à l’administrateur général les problèmes de taille, les lacunes de rendement et les questions de conformité, en élaborant des propositions visant à les corriger, et en signalant les problèmes sérieux de rendement ou de conformité au Bureau du contrôleur général."
+  },
+  {
+    "en": "5.2.2 The Comptroller General is responsible for monitoring departments’ compliance with the requirements of this standard and conducting a review at the five year mark from the effective date of the standard.",
+    "fr": "5.2.2 Le contrôleur général est tenu de surveiller la conformité des ministères aux exigences de la présente norme et d’effectuer un examen dans un délai de cinq ans à compter de la date d’entrée en vigueur de la présente norme."
+  },
+  {
+    "en": "6.1 In instances of non-compliance, the deputy heads are responsible for taking corrective measures within their organizations with those responsible for implementing the requirements of this standard.",
+    "fr": "6.1 En cas de non-conformité, l’administrateur général est tenu de prendre des mesures correctives dans son organisme, de concert avec les responsables de la mise en œuvre des exigences de la présente norme."
+  },
+  {
+    "en": "6.2 Chief financial officers are to ensure corrective actions are taken to address instances of non-compliance with the requirements of this standard. Corrective actions can include requiring additional training, changes to procedures and systems, the suspension or removal of delegated authority, disciplinary action, and other measures as appropriate.",
+    "fr": "6.2 Le dirigeant principal des finances doit s’assurer que des mesures correctives sont prises pour régler les cas de non-conformité en tenant compte des exigences de la présente norme. Ces mesures correctives peuvent inclure une exigence de formation supplémentaire, des changements dans les procédures et les systèmes, la suspension ou le retrait de pouvoirs délégués, des mesures disciplinaires ou toute autre mesure appropriée."
+  },
+  {
+    "en": "6.3 For a range of consequences of non-compliance refer to the , Appendix C: Consequences for Institutions and Appendix D: Consequences for Individuals.",
+    "fr": "6.3 Pour obtenir de plus amples renseignements sur les conséquences de la non-conformité, se référer au , Appendice C : Tableau des conséquences pour les institutions et Appendice D : Tableau des conséquences pour les personnes."
+  },
+  {
+    "en": "7.1 This section identifies other key government organizations in relation to this standard. In and of itself, this section does not confer any authority.",
+    "fr": "7.1 La présente section indique les autres organismes fédéraux clés en lien avec la norme. Cette section ne confère en soi aucun pouvoir."
+  },
+  {
+    "en": "7.2 Treasury Board Secretariat, Office of the Comptroller General of Canada is responsible for the following:",
+    "fr": "7.2 Le Bureau du contrôleur général du Canada, Secrétariat du Conseil du Trésor du Canada, est responsable de ce qui suit."
+  },
+  {
+    "en": "7.3 Public Services and Procurement Canada (PSPC) is responsible for the following, as they relate to the authoritative source list of procurement item classification codes:",
+    "fr": "7.3 Services publics et Approvisionnement Canada (SPAC) est responsable des activités suivantes, lorsqu’elles sont en lien avec la liste faisant autorité des codes de classification des articles d’approvisionnement."
+  },
+  {
+    "en": "For interpretation of any aspect of this standard, contact for assistance.",
+    "fr": ", articles 63 à 65 et paragraphe9(1)."
+  },
+  {
+    "en": "9.1 Individuals from departments should contact their departmental headquarters for more information about this standard.",
+    "fr": "Dans le but d’obtenir une interprétation de tout aspect de cette norme, veuillez communiquer avec afin d’obtenir de l’aide."
+  },
+  {
+    "en": "9.2 Individuals from departmental headquarters should contact for interpretations, or:",
+    "fr": "9.1 Les personnes des ministères doivent communiquer avec l’administration centrale de leur ministère pour obtenir des renseignements supplémentaires sur la présente norme."
+  },
+  {
+    "en": "Financial Management Transformation Office of the Comptroller General Treasury Board Secretariat Ottawa ON K1A 0R5",
+    "fr": "9.2 Les personnes de l’administration centrale du ministère doivent communiquer avec pour une interprétation, ou à l’adresse suivante :"
+  },
+  {
+    "en": "Office of the Auditor General,",
+    "fr": "Transformation de la gestion financière Bureau du contrôleur général Secrétariat du Conseil du Trésor Ottawa (Ontario) K1A 0R5"
+  },
+  {
+    "en": "the Office of the Privacy Commissioner,",
+    "fr": "Bureau du vérificateur général"
+  },
+  {
+    "en": "the Office of the Information Commissioner,",
+    "fr": "Bureau du commissaire à la vie privée"
+  },
+  {
+    "en": "the Office of the Chief Electoral Officer,",
+    "fr": "Bureau du commissaire à l’information"
+  },
+  {
+    "en": "the Office of the Commissioner of Lobbying,",
+    "fr": "Bureau du directeur général des élections"
+  },
+  {
+    "en": "the Office of the Commissioner of Official Languages, and",
+    "fr": "Bureau du commissaire au lobbying"
+  },
+  {
+    "en": "the Office of the Public Sector Integrity Commissioner.",
+    "fr": "Bureau du commissaire aux langues officielles"
+  },
+  {
+    "en": "7.2.1 Development, oversight and maintenance of this standard and for providing interpretative advice. The Office of the Comptroller General is responsible for specifying the authoritative source list (identified in ) for procurement item classification codes.",
+    "fr": "Bureau du commissaire à l’intégrité du secteur public."
+  },
+  {
+    "en": "7.2.2 Providing functional leadership in determining business process and data requirements by supporting Treasury Board in issuing appropriate policy instruments as and when required to define government-wide data and standardized business processes.",
+    "fr": "7.2.1 Élaborer, surveiller et de garder à jour la présente norme, ainsi que de fournir des conseils et de l’orientation de nature interprétative. Il est responsable de préciser la liste faisant autorité (définie à l’ ) en ce qui concerne les codes de classification des articles d’approvisionnement."
+  },
+  {
+    "en": "7.3.1 Identifying the authoritative version of the procurement item classification codes (i.e., United Nations Standard Products and Services Code (UNSPSC)) and code descriptions;",
+    "fr": "7.2.2 Assurer le leadership fonctionnel relativement aux besoins en matière de processus opérationnels et de données en aidant le Conseil du Trésor à émettre, au besoin, les instruments de politique qui s’imposent pour définir les données à l’échelle du gouvernement et établir des processus opérationnels normalisés."
+  },
+  {
+    "en": "7.3.2 Providing interpretative advice for the list of procurement item classification codes; and",
+    "fr": "7.3.1 Déterminer la version qui fait autorité aux fins d’utilisation au GC de la liste des codes de classification des articles d’approvisionnement (c.-à-d. United Nations Standard Products and Services Code [UNSPSC]) et les descriptions des codes."
+  },
+  {
+    "en": "7.3.3 Developing, sharing and maintaining a concordance table between UNSPSC codes and other coding systems required by federal departments and agencies for trade and treaty reporting purposes.",
+    "fr": "7.3.2 Fournir des conseils concernant l’interprétation de la liste des codes de classification des articles d’approvisionnement."
+  },
+  {
+    "en": "sections 63 to 65 and subsection 9(1).",
+    "fr": "7.3.3 Élaborer, mettre en commun et actualiser un tableau de concordance des codes UNSPSC et des autres systèmes de codage utilisés par les ministères et organismes fédéraux à des fins de production de rapports sur le commerce et les traités."
+  }
+]

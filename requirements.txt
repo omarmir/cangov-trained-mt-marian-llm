@@ -9,3 +9,4 @@ sacrebleu
 accelerate>=0.26.0
 requests
 lxml
+beautifulsoup4

@@ -1,0 +1,62 @@
+[
+  {
+    "en": "This document is part of the Appendix A of the .",
+    "fr": "Ce document fait partie de l’Annexe A de la ."
+  },
+  {
+    "en": "Consolidated specified purpose accounts are a category of SPAs where legislation requires that revenues received for a specified purpose must be credited to the account and that related payments must be charged to the account. Fundamentally, these accounts represent internally restricted entities as per PS 3100.04(b) and the restrictions are imposed by the Government’s own legislation (PS 3100.20). These accounts are principally used where the activities are similar in nature to departmental activities; the transactions do not represent a future liability to a third party; and in essence they represent government revenues and expenses. The net balance of consolidated SPAs is reported separately as a component of the Government’s accumulated deficit.",
+    "fr": "Les comptes à fins déterminées consolidés constituent une catégorie de CFD pour lesquels la loi exige que les recettes reçues à une fin déterminée soient créditées au compte et que les paiements connexes soient imputés au compte. À la base, ces comptes représentent des entités visées par une affectation d’origine interne, définies au paragraphe SP 3100.04(b), et la loi du gouvernement impose les restrictions (SP 3100.20). Ces comptes sont surtout utilisés lorsque les activités sont de nature semblable à celles du ministère et que les opérations ne représentent pas des obligations futures pour des tiers, mais constituent en principe des revenus et des charges du gouvernement. Le solde net des CFD consolidés est indiqué séparément, à titre d’élément du déficit accumulé du gouvernement."
+  },
+  {
+    "en": "Examples: Employment insurance operating account; specifically earmarked court awards; and certain endowment accounts.",
+    "fr": "Exemples : Compte des opérations de l’assurance-emploi, montants adjugés par une cour qui ont été affectés précisément par la cour et certains comptes de dotation."
+  },
+  {
+    "en": "Non-consolidated specified purpose accounts are recorded as liabilities, as they represent a financial obligation of the Government, either to the parties from whom the funds were received or where a statutory or contractual obligation exists. Notwithstanding PS 1300.04, trusts are recorded as liabilities by the Government to comply with section 21(1) of the FAA. In the case of a cost-sharing or joint project arrangement, when the funds received from an outside party are an advance to cover future expenses that belong to the outside party, the funds are to be recorded as a liability of the department.",
+    "fr": "Les CFD non consolidés sont comptabilisés comme des passifs puisqu’ils constituent une obligation financière du gouvernement, soit envers les parties desquelles les sommes ont été reçues, soit lorsqu’une obligation législative ou contractuelle existe. Nonobstant la norme SP 1300.04, le gouvernement comptabilise les conventions de fiducie comme des passifs aux termes du paragraphe 21(1) de la LGFP. Dans le cas d’un accord de partage des coûts ou d’une entente relative à des projets conjoints où les fonds reçus d’une tierce partie sont des avances pour couvrir les dépenses futures appartenant à la tierce partie, ces fonds doivent être comptabilisés comme un passif du ministère."
+  },
+  {
+    "en": "Examples: Deposit accounts, trusts, certain cost-sharing agreements, certain insurance and pension accounts.",
+    "fr": "Exemples : Comptes de dépôt, conventions de fiducie, certains accords de partage des coûts et certains comptes d’assurance et de pension."
+  },
+  {
+    "en": "Deferred revenue specified purpose accounts represent an obligation of the Government to spend funds received for a specified purpose. The revenues and expenditures of the account are included in those of the Government once the specified purpose has been realized. In the case of a cost-sharing or joint project agreement, when funds received from an outside party are considered a contribution towards expenses to be incurred by the department, the funds are to be recorded as deferred revenue of the department.",
+    "fr": "Les CFD pour revenus reportés représentent une obligation du gouvernement de dépenser les fonds reçus aux fins déterminées. Les dépenses et revenus des CFD sont portés aux revenus et aux dépenses du gouvernement lorsque la fin déterminée a été satisfaite. Dans le cas d’un accord de partage des coûts ou d’une entente relative à des projets conjoints où les fonds reçus d’une tierce partie sont des contributions pour les dépenses qu’engagera le ministère, ces fonds doivent être comptabilisés comme des revenus reportés du ministère."
+  },
+  {
+    "en": "Examples: Restricted donations and bequests of financial assets, certain endowment accounts and certain cost-sharing agreements.",
+    "fr": "Exemples : Dons désignés et legs d’actifs financiers, certains comptes de dotation et certains accords de partage des coûts."
+  },
+  {
+    "en": "Applies without additional policy choices or interpretation for Departmental Financial Statements.",
+    "fr": "Des exigences similaires, sans autre choix de convention ni interprétation, s’appliquent aux états financiers ministériels."
+  },
+  {
+    "en": "PS 3100 Restricted assets and revenues",
+    "fr": "SP 3100 Actifs et revenus affectés"
+  },
+  {
+    "en": "Specified purpose accounts (SPAs) is a classification of accounts established in the Accounts of Canada used to record revenues deposited into, and money payable out of, the Consolidated Revenue Fund (CRF) under statutory authorities for specified purposes.",
+    "fr": "Les comptes à fins déterminées (CFD) correspondent à une classification de comptes établis dans les Comptes publics du Canada et qui servent à comptabiliser les recettes déposées dans le Trésor et les montants prélevés sur le Trésor aux termes d’autorisations législatives établies à des fins déterminées."
+  },
+  {
+    "en": "SPAs are established in one of two ways:",
+    "fr": "Les CFD sont établis de deux façons :"
+  },
+  {
+    "en": "SPAs that record special purpose money (money received or collected from outside parties and deposited in the CRF pursuant to section 21(1) of the Financial Administration Act) are established based on an agreement (such as an act, trust, treaty, or contract) with an external party. The money may only be disbursed for the purpose specified in the agreement under which it is received. Additionally, there must be a direct link between monies received and monies disbursed, including any interest that may be authorized. Section 21(1) is also the authority for the creation of these SPAs.",
+    "fr": "Les CFD servant à comptabiliser des fonds destinés à des fins particulières (fonds reçus ou perçus de tiers et déposés au Trésor conformément au paragraphe 21(1) de la Loi sur la gestion des finances publiques) sont établis selon un accord (comme une loi, une convention de fiducie, un traité ou un contrat) avec un tiers. Les fonds ne peuvent être déboursés qu’aux fins précisées dans l’accord en vertu duquel ils ont été reçus. En outre, il doit y avoir un lien direct entre les sommes reçues et les sommes déboursées, y compris les intérêts pouvant être autorisés. Le paragraphe 21(1) est également l’autorité aux fins de la création de ces CFD."
+  },
+  {
+    "en": "For SPAs that do not record special purpose money, the authority to open an SPA is the specific legislation that either expressly creates the account, or implies authority for its creation. The Government may earmark or place its own restrictions on the use of this money through legislation; however, this does not make it special purpose money.",
+    "fr": "Dans le cas des CFD qui ne servent pas à comptabiliser des fonds destinés à des fins particulières, l’autorité pour ouvrir un CFD est la loi particulière qui crée expressément le compte ou en autorise la création de manière implicite. Le gouvernement peut, au moyen d’une loi, affecter ces fonds ou imposer des restrictions quant à leur utilisation; cela n’en fait toutefois pas des fonds destinés à des fins particulières."
+  },
+  {
+    "en": "In order to determine whether the establishment of an SPA is permitted and how to account for the money, each arrangement must be evaluated on a case-by-case basis. Refer to the for further details.",
+    "fr": "Afin de déterminer si la création d’un CFD est autorisée et la méthode de comptabilisation des fonds, il faut évaluer individuellement chaque arrangement. Se reporter à la pour avoir d’autres détails."
+  },
+  {
+    "en": "For accounting purposes in the Government of Canada’s consolidated financial statements and in Departmental Financial Statements, SPAs are categorized as consolidated, non-consolidated, or deferred revenue SPAs, based on the nature of the money received and the related restrictions.",
+    "fr": "Aux fins de la comptabilisation dans les états financiers consolidés du gouvernement du Canada et dans les états financiers ministériels, les CFD sont répartis dans trois catégories : consolidés, non consolidés ou pour revenus reportés, selon la nature des fonds reçus et des restrictions connexes."
+  }
+]

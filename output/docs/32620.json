@@ -1,0 +1,90 @@
+[
+  {
+    "en": "This guideline supports the Government of Canada’s direction to ensure that departments, agencies and organizations consider accessibility in the acquisition or development of information technology (IT) solutions and equipment to make IT usable by all.",
+    "fr": "La présente Ligne directrice vient appuyer l’orientation du gouvernement du Canada visant à ce que les ministères, les organismes et les organisations tiennent compte de l’accessibilité dans l’acquisition ou l’élaboration de solutions et d’équipement de la technologie de l’information (TI), afin de rendre la TI accessible à tous."
+  },
+  {
+    "en": "This guideline is intended for all Government of Canada departments, agencies and organizations that acquire or develop IT solutions and equipment, including web content.",
+    "fr": "La présente Ligne directrice s’adresse à tous les ministères, organismes et organisations du gouvernement du Canada qui acquièrent ou élaborent des solutions et de l’équipement de la TI, y compris du contenu Web."
+  },
+  {
+    "en": "Proactive consideration of accessibility benefits everyone, especially persons with disabilities. The recommendations in section 4 of this guideline support the following:",
+    "fr": "Le fait de tenir compte de l’accessibilité de façon proactive représente un avantage pour tous, et plus particulièrement pour les personnes handicapées. Les recommandations énoncées à la section 4 de la présente Ligne directrice appuient ce qui suit :"
+  },
+  {
+    "en": "the , which requires that entities under federal jurisdiction identify, remove and prevent accessibility barriers.",
+    "fr": "La , exige que les entités de compétence fédérale reconnaissent, éliminent et préviennent les obstacles à l’accessibilité."
+  },
+  {
+    "en": "the , which sets out how the Government of Canada will bolster accessibility for all Canadians through its policies, programs and services.",
+    "fr": "La , établit comment le gouvernement du Canada procédera pour accroître l’accessibilité pour tous les Canadiens par l’entremise de ses politiques, ses programmes et ses services."
+  },
+  {
+    "en": "the , which promote building in accessibility from the start.",
+    "fr": "Les qui viennent promouvoir l’intégration de l’accessibilité dès le départ."
+  },
+  {
+    "en": "Several Treasury Board policy instruments set out Government of Canada accessibility requirements for IT (see subsection 5.3) including the (effective April 1, 2020), the and the .",
+    "fr": "Plusieurs instruments de politique du Conseil du Trésor viennent définir les exigences en matière d’accessibilité à la TI au sein du gouvernement du Canada (voir la section 5.3), y compris la , la et la ."
+  },
+  {
+    "en": "The applies to public-facing web content only. It does not apply to public-facing IT solutions and equipment or to internal-facing IT solutions, equipment and web content.",
+    "fr": "La s’applique uniquement au contenu Web accessible au public. Elle ne s’applique pas aux solutions et à l’équipement de la TI qui sont accessibles au public ou aux solutions de la TI, à l’équipement ou au contenu Web qui sont accessibles à l’interne."
+  },
+  {
+    "en": "Departments, agencies and organizations are strongly encouraged to leverage the when:",
+    "fr": "Les ministères, les organismes et les organisations sont fortement encouragés à s’inspirer de la , lorsqu’ils :"
+  },
+  {
+    "en": "acquiring or developing internal-facing or public-facing IT solutions and equipment, including web content and all IT tools and equipment used by federal public servants.",
+    "fr": "acquièrent ou développent des solutions et équipements de la TI internes ou publics, y compris le contenu Web et tous les outils et équipements informatiques utilisés par les fonctionnaires fédéraux;"
+  },
+  {
+    "en": "considering accessibility in the lifecycle management process for existing IT solutions and equipment, including web content.",
+    "fr": "tiennent compte de l’accessibilité dans la gestion du cycle de vie des solutions et de l’équipement de la TI existants, y compris le contenu Web."
+  },
+  {
+    "en": "Departments, agencies and organizations are strongly encouraged to:",
+    "fr": "On encourage fortement les ministères, les organismes et les organisations à :"
+  },
+  {
+    "en": "ensure that accessibility features are enabled for their IT solutions and equipment.",
+    "fr": "veiller à ce que les caractéristiques d’accessibilité soient intégrées à leurs solutions et équipements de la TI;"
+  },
+  {
+    "en": "leverage enterprise tools and capacity to ensure that internal‐facing IT solutions and equipment are accessible for public servants.",
+    "fr": "tirer parti des outils intégrés et de la capacité de l’organisation de veiller à ce que les solutions et l’équipement internes de la TI soient accessibles à tous les fonctionnaires;"
+  },
+  {
+    "en": "work with Shared Services Canada (SSC) and its to identify and deploy accessible tools and technology, and to remove remaining accessibility barriers associated with IT.",
+    "fr": "travailler avec Services partagés Canada (SPC) et son pour cerner et déployer des outils et des technologies accessibles, et éliminer les obstacles à l’accessibilité associés à la TI qui sont toujours présents;"
+  },
+  {
+    "en": "leverage their existing in-house accessibility programs when meeting Government of Canada accessibility requirements.",
+    "fr": "tirer parti des programmes internes d’accessibilité existants pour répondre aux exigences du gouvernement du Canada en matière d’accessibilité;"
+  },
+  {
+    "en": "work in the open and use open‐source software to support others in efforts to develop accessible common IT systems across departments, agencies and organizations.",
+    "fr": "travailler de façon ouverte et utiliser des logiciels libres pour appuyer les autres dans les efforts qu’ils déploient pour élaborer des systèmes de la TI qui soient accessibles et communs à l’échelle des ministères, des organismes et des organisations."
+  },
+  {
+    "en": "Related External Standards and Specifications",
+    "fr": "Normes et spécifications externes connexes"
+  },
+  {
+    "en": "Legislation",
+    "fr": "Lois"
+  },
+  {
+    "en": "Related Policy Instruments",
+    "fr": "Instruments de politique connexes"
+  },
+  {
+    "en": "Government of Canada Direction",
+    "fr": "Orientations du gouvernement du Canada"
+  },
+  {
+    "en": "For interpretation of any aspect of this standard, contact .",
+    "fr": "Pour l’interprétation de tout aspect de la présente norme, contactez ."
+  }
+]

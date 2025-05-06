@@ -1,0 +1,1134 @@
+[
+  {
+    "en": "This Guide was prepared in 1992-1993 and first released as an exposure draft in January 1994. It was written to help managers and staff assess the management of government information holdings (MGIH) in their own institutions. The Guide will also help auditors and evaluators conduct formal reviews of the management of government information. Throughout the Review Guide, the emphasis is on good practices for managing information. Although the Guide excludes the main part of the Management of Information Technology policy, it promotes the need to establish linkages between information technology and information holdings.",
+    "fr": "Ce Guide a été rédigé en 1992-1993; il est sorti dans un premier tempssous forme d'édition provisoire en janvier 1994. Il est destiné à aider lesgestionnaires et le personnel dans l'examen de leurs pratiques liées à lagestion de l'information au sein de leur institution. Le Guide s'adresse aussiaux vérificateurs et aux évaluateurs qui pourront l'utiliser pour faire desrevues officielles de la gestion des renseignements détenus par le gouvernement(GRDG). L'accent est mis sur les bonnes pratiques de gestion de l'information.Bien que la majeure partie de la politique sur la gestion des technologies del'information en soit exclue, le Guide souligne la nécessité d'établir desconnexions entre les technologies de l'information et les fonds derenseignements."
+  },
+  {
+    "en": "The Review Guide was developed by the National Archives under the guidance of an interdepartmental work group. Nearly forty officials in central agencies, lead agencies and line departments commented on earlier drafts of the Review Guide. These officials represented corporate policy planning, information collection, records management, data management and library services functions, as well as audit and evaluation and information management programs.",
+    "fr": "Les Archives nationales ont élaboré ce Guide sous la direction d'un groupede travail interministériel. Le Guide intègre les commentaires recueillisd'une quarantaine de fonctionnaires d'organismes centraux, d'organismes clés,et des services hiérarchiques. Ces fonctionnaires consultés représentaientles domaines du secteur des politiques et de la planification intégrée, demême que les différentes fonctions de la gestion de l'information y comprisles domaines de la collecte de l'information, de la gestion des documents, dutraitement des données, des services de bibliothèque, et des groupes de lavérification interne et de l'évaluation, et de la gestion de l'information."
+  },
+  {
+    "en": "The management of information involves many information-based functions, including corporate policy and planning, data management, telecommunications, office systems and computer support, records management, library services, information collection, forms management, access to information, and privacy. The management of information also involves such media as paper, maps, photos, films, plans, videos, microfilms, and tapes. Within an institution, therefore, a review could potentially cover a broad range of functions and media.",
+    "fr": "La gestion de l'information comprend plusieurs fonctions reliées àl'information, dont les secteur des politiques et de la planificationintégrée, le traitement des données, les télécommunications, la bureautiqueet les soutiens informatiques, la collecte de l'information, la gestion desformules, l'accès à l'information, et la protection des renseignementspersonnels. La gestion de l'information comprend également la gestion desdocuments ou du matériel publié sur des supports tels que le papier, lescartes, les photographies, les films, les plans, les vidéos, les microfilms etles bandes. Une revue au sein d'une institution pourrait donc inclure un largesecteur de fonctions ou de supports."
+  },
+  {
+    "en": "Chapters four through eight of the Review Guide are based on the information life cycle model: planning; collection, creation, and receipt; organization, transmission, use and retrieval; storage, protection and retention; and disposition through transfer or destruction. A review can cover any or all aspects of the information life cycle.",
+    "fr": "Les chapitres quatre à huit du Guide sont basés sur le modèle du cycle devie de l'information: planification, collecte, création et réception;organisation, transmission, utilisation et repérage; et entreposage,protection et conservation, et disposition par transfert ou destruction. Unerevue peut inclure plusieurs aspects du cycle de vie de l'information."
+  },
+  {
+    "en": "The Guide presents useful information to help institutions assess the effectiveness of their implementation of the MGIH policy.",
+    "fr": "Le Guide contient des informations qui aideront les institutions à évaluerl'efficacité de leur mise en oeuvre de la politique sur la GRDG."
+  },
+  {
+    "en": "The Guide was prepared by the National Archives of Canada under the direction of the Interdepartmental Work Group on the Evaluation of Information Management Policies. Work group participants were from Finance, Industry Science and Technology, National Archives, National Defence, National Library, Office of the Comptroller General, Revenue Canada, Taxation, Government Services Canada (formerly Supply and Services) and Treasury Board. The Treasury Board Secretariat has an overall interest in policy implementation and audit and evaluation. The National Library of Canada has an interest in published material, and the Public Opinion Research Group of Government Services Canada is concerned about information collection. Groups from line departments contributed to a number of areas, including corporate policy planning, information collection, records management, data administration, library services, and audit and program evaluation.",
+    "fr": "Les Archives nationales du Canada ont préparé ce Guide sous la direction duGroupe de travail interministériel/évaluation des politiques du Conseil duTrésor en matière de gestion de l'information. On comptait parmi lesparticipants du Groupe de travail des représentants du ministère des Finances;du ministère de l'Industrie, des Sciences et de la Technologie; des Archivesnationales; du ministère de la Défense nationale; de la Bibliothèquenationale du Canada; du Bureau du Contrôleur général du Canada; de RevenuCanada Impôt; du ministère des Services gouvernementaux Canada (anciennementApprovisionnements et Services) et du Conseil du Trésor. Le Secrétariat duConseil du Trésor s'intéresse à des questions d'ordre général telles que lamise en oeuvre des politiques, la vérification et l'évaluation. LaBibliothèque nationale du Canada a comme point d'intérêt le matérielpublié, et la collecte de l'information intéresse plus particulièrement leGroupe de recherche sur l'opinion publique (Services gouvernementaux Canada).Enfin, il importe de souligner la contribution apportée par des groupes deservices hiérarchiques dans des secteurs tels que la planification générale,la collecte de l'information, la gestion des documents, l'administration desdonnées, les services de bibliothèque, la vérification et l'évaluation desprogrammes."
+  },
+  {
+    "en": "The Guide also draws on the experience and ideas of individuals in the following organizations:",
+    "fr": "La réalisation de ce Guide s'appuie également sur l'expérience et lessuggestions de personnes appartenant aux organisations suivantes :"
+  },
+  {
+    "en": "Treasury Board Secretariat has consolidated the following policies under the concept of information management: Records Management, Government Information Collection and Public Opinion Research, Micrographics, EDP Records Management, and Forms Management. This focuses attention on the importance of information in supporting decision making and the delivery of programs and services. Information also permits institutions to hold themselves accountable pursuant to legislative and policy requirements. Information management is the coordinated management of both information holdings and investments in information technology.",
+    "fr": "Le Secrétariat du Conseil du Trésor a réuni sous le concept de la gestionde l'information les politiques suivantes : Gestion des documents, Collecte derenseignements gouvernementaux et recherche sur l'opinion publique fédérales,Micrographie, Gestion des documents informatiques et Gestion des imprimésadministratifs. Il veut ainsi mettre en relief le rôle de l'information dans leprocessus décisionnel, l'exécution des programmes et la prestation desservices. L'information permet également aux institutions de rendre compte deleur conformité avec les lois et politiques applicables. La gestion coordonnéede l'information s'applique tant aux fonds de renseignements qu'aux technologiesde l'information."
+  },
+  {
+    "en": "Information is a valuable resource and a critical factor in the achievement of corporate objectives. Treasury Board Secretariat has recognized this in its publication Enhancing Services: Through the Innovative Use of Information and Technology - Strategic Direction for the 90s. Information management, including the planning, directing and controlling of information holdings and investments in information technology, is therefore important to help achieve corporate goals and to deliver programs and services. The review of this important area, through self-assessment, or audit and evaluation, is a good management practice.",
+    "fr": "L'information est une ressource précieuse et un facteur déterminant dans laréalisation des objectifs généraux d'une organisation. Le Secrétariat duConseil du Trésor insiste tout particulièrement sur ce point dans sapublication intitulée . La gestion de l'information - y compris la planification,l'organisation et le contrôle des fonds de renseignements et des technologiesde l'information - joue un rôle primordial non seulement dans la réalisationdes objectifs généraux, mais aussi dans l'exécution des programmes et laprestation des services. Le fait de soumettre cet important secteur d'activitéà une auto-évaluation, à une vérification ou à une évaluation constituedonc une bonne pratique de gestion."
+  },
+  {
+    "en": "As a concept, information management has many interpretations. For purposes of this Guide, we will use the description of information management as discussed in the Background section. The Treasury Board policies on the Management of Government Information Holdings (MGIH) and Management of Information Technology (MIT) are components of information management. The Treasury Board Foreword on Information Management states that linkages between information technology and information holdings should be established to the extent that they are useful and meaningful. In this context, the Review Guide addresses the MGIH component of information management, as well as the linkages to information technology. (See Appendix C for an explanation of linkages to technology.) However, the main part of the MIT policy is not addressed by the Guide.",
+    "fr": "On peut prêter maintes interprétations au concept de la gestion del'information. Aux fins du Guide, nous nous appuierons sur la descriptionprésentée dans les lignes précédentes. Les politiques du Conseil du Trésorsur la Gestion des renseignements détenus par le gouvernement (GRDG) et laGestion des technologies de l'information (GTI) sont des composantes de lagestion de l'information. Dans l'Avant-propos du Manuel du Conseil du Trésorsur la gestion de l'information, on souligne qu'il faut établir des connexionsentre les technologies de l'information et les fonds de renseignements, dans lamesure où cela semble utile et pertinent. C'est dans cette optique que le Guidede revue aborde la GRDG et ses connexions aux technologies de l'information.(L'appendice C donne plus de détails à ce sujet.) Soulignons que le Guidene traite pas des principaux aspects de la politique sur la GTI."
+  },
+  {
+    "en": "The Guide was written to help government institutions review their management of information practices. Specifically, it is intended to assist institutions in self-assessment. Managers or staff may wish to review their own practices regarding the management of information on a periodic basis. In addition, the Guide is intended to assist auditors, evaluators and reviewers by serving as a tool for the planning and conduct of reviews of the management of information.",
+    "fr": "Le Guide assistera les institutions gouvernementales dans l'examen de leurspratiques liées à la gestion de l'information. Il servira plus précisémentd'outil d'auto-évaluation aux gestionnaires ou aux membres du personnel quidésirent réexaminer périodiquement leurs propres pratiques de gestion del'information. Il s'adresse aussi aux vérificateurs, aux évaluateurs et auxexaminateurs qui pourront l'utiliser comme outil de planification et de conduitede leurs revues des pratiques liées à la gestion de l'information."
+  },
+  {
+    "en": "The emphasis of the Guide is on good practices for the management of information. This is reflected by the structure of the review chapters of the Guide which are based on two key themes: management issues (chapter 3) and service to user issues (chapters 4 through 8). Although references are made in the review chapters to the MGIH policy, the Guide is not a compliance checklist. Reviewers will have to assess the substance of their findings in order to draw conclusions about policy compliance and performance (i.e., is the intent being achieved as well as the letter being adhered to?).",
+    "fr": "Le Guide insiste tout particulièrement sur les bonnes pratiques liées à lagestion de l'information, ce qui se reflète dans la structure de ses chapitres.Ces derniers s'articulent autour de deux thèmes clés : la gestion(chapitre 3) et les services à l'utilisateur (chapitres 4 à 8). Bien queles chapitres traitant des procédures de revue fassent référence à lapolitique sur la GRDG, le Guide ne constitue pas en soi une liste de contrôlede conformité. Les examinateurs devront évaluer l'essentiel de leursconstatations en vue de tirer des conclusions sur la conformité avec lespolitiques et le rendement (c'est-à-dire et la ont-ils été respectés?)."
+  },
+  {
+    "en": "The word information can have many meanings. For purposes of the Guide, the terms \"information\" and \"information holdings\" are synonymous. (Appendix B provides a glossary of definitions used for purposes of this Guide.) The emphasis of this Guide is to promote the cost-effective and coordinated management of federal information holdings. Throughout the Guide, the appropriate term is used in the context of the particular law, policy or activity being discussed.",
+    "fr": "Le terme \"information\"a maintes significations. Aux fins du Guide,le terme \"information\"et l'expression \"fonds derenseignements\"sont synonymes. (L'appendice B comprend un glossaire quidonne la définition des termes utilisés dans le Guide.) Le Guide vise àfavoriser la gestion rentable et coordonnée de tous les fonds de renseignementsdétenus par le gouvernement fédéral. On y emploie donc le terme qui se prêtele mieux au contexte de la loi, de la politique ou de l'activité abordée."
+  },
+  {
+    "en": "Note: This document is not intended to serve as a definitive guide to the review of the management of information. Rather, it presents a basis for the review of a broad area. Readers should supplement their review procedures according to the nature and extent of the review planned. Appendix A provides many additional references that a reviewer might use to supplement this Guide.",
+    "fr": "Nota : Le présent document n'est pas un guide complet sur la revue despratiques liées à la gestion de l'information. On peut toutefois l'utilisercomme document de base pour l'examen d'un large secteur. Le lecteur devra doncconsulter d'autres documents pour obtenir plus de détails sur les procéduresde revue applicables, selon la nature et le champ de l'examen planifié.L'appendice A contient une liste de documents dont pourra se servirl'examinateur pour compléter l'information contenue dans le Guide."
+  },
+  {
+    "en": "If readers have any questions regarding the content or use of this Guide, they should contact the Information Management Standards and Practices Division, Archives and Government Records Branch, National Archives.",
+    "fr": "Pour obtenir de plus amples renseignements sur le contenu ou l'utilisation duGuide, veuillez communiquer avec la Division des pratiques et des normes liéesà la gestion de l'information - Direction des archives et des documentsgouvernementaux, Archives nationales."
+  },
+  {
+    "en": "The information management policies refer to many stakeholders. A reviewer should be cognizant of the roles and responsibilities of these stakeholders in terms of their relationship to, and impact on, the institution. Stakeholders include the following:",
+    "fr": "Les politiques sur la gestion de l'information font référence à denombreux intervenants. Il importe que l'examinateur connaisse leurs rôles etleurs responsabilités, c'est-à-dire leurs rapports avec l'institution etl'impact qu'ils ont sur elle."
+  },
+  {
+    "en": "The institution is responsible and accountable for implementation of the MGIH policy. Management must designate a senior official to represent the institution for purposes of the MGIH policy. The infrastructure of institutional policies and procedures for the management of information should establish operating requirements that reflect the MGIH policy. The operating requirements should give direction to program managers and functional specialists, and provide guidance concerning the organization, description, use and retrieval, as well as the storage, protection, retention and disposal of the institution's information holdings. Everybody in the institution has some responsibility for the management of its information holdings.",
+    "fr": "L'institution est responsable de la mise en oeuvre de la politique sur laGRDG et elle doit rendre compte de l'exécution de cette charge. La directiondoit désigner un haut fonctionnaire chargé de représenter l'institution en cequi a trait à la politique sur la GRDG. L'infrastructure des politiques et desprocédures institutionnelles de gestion de l'information doit permettred'élaborer les exigences opérationnelles conformes à la politique sur laGRDG. Ces exigences doivent fournir une orientation aux gestionnaires deprogrammes et aux spécialistes fonctionnels et contenir des lignes de conduitesur l'organisation, la description, l'utilisation et le repérage des fonds derenseignements détenus par l'institution de même que sur leur entreposage,leur protection, leur conservation et leur disposition. Chaque membre del'institution assume une part de responsabilité dans la gestion des fonds derenseignements."
+  },
+  {
+    "en": "Treasury Board Secretariat, Administrative Policy Branch, is accountable for the development and general interpretation of the MGIH policy, and for evaluating the policy to ensure its integrity and continued relevance, its effectiveness in achieving the stated objectives, and the policy's appropriateness in the context of overall government direction and changes in the management environment. The Branch is also responsible for leadership and support of federal internal audit and program evaluation groups. It provides advice and assistance to institutions, assesses audit and evaluation practices, fosters a professional community for auditors and evaluators, and oversees selected audits as well as central evaluations.",
+    "fr": "Le Secrétariat du Conseil du Trésor - Direction de la politiqueadministrative, est responsable de l'élaboration de la politique sur la GRDG etde son interprétation générale; elle doit aussi évaluer cette politique afind'en assurer l'intégrité et l'à-propos, son efficacité par rapport auxobjectifs énoncés et sa pertinence dans le contexte de l'orientationgénérale du gouvernement et de l'évolution du cadre de gestion. Il incombeégalement à la direction de jouer un rôle d'orientation et de soutien auprèsdes groupes fédéraux de vérification interne et d'évaluation des programmes.Elle donne des conseils et prête assistance aux institutions; évalue lespratiques de vérification et d'évaluation; favorise l'établissement derelations professionnelles entre les vérificateurs et les évaluateurs; ellesupervise enfin certaines vérifications ainsi que les évaluations centrales."
+  },
+  {
+    "en": "The Chief Informatics Officer for the federal government and the supporting Office of Information Management, Systems and Technology have the responsibility to provide a government-wide focus for the effective management of information technology. This mandate includes the responsibility for directing the re-engineering of government administrative processes and leading their cross-functional integration; establishing the framework and actively supporting the re-engineering of the government's program delivery mechanism; and developing policy and standards related to information management and technology and related telecommunications activities.",
+    "fr": "Les responsabilités du dirigeant principal de l'informatique et son Bureaude la gestion, des systèmes et des technologies de l'information sont de servirde centre gouvernemental chargé de la gestion efficace de la technologie del'information. Ce mandat inclut la responsabilité pour orienter larestructuration de procédés administratifs de l'état et veiller à leurintégration; établir un cadre pour la restructuration des mécanismesd'exécution des programmes de l'état et en faire la promotion; et élaborer lapolitique et les normes ayant trait à la gestion et à la technologie del'information ainsi qu'aux activités connexes en matière detélécommunications dans les ministères."
+  },
+  {
+    "en": "National Archives has specific evaluation responsibilities on behalf of Treasury Board Secretariat in regard to the MGIH policy. In addition, it may report on significant problems or issues in the state of management of information holdings relevant to their identification, organization, storage, conservation, retention and disposal. It also has authority, under the National Archives of Canada Act, to control the destruction and disposal of the information holdings of government institutions (excluding published material), and the transfer of information of historic or archival importance to the National Archives. Within the context of its mandate to facilitate the management of government records and its leadership role in the management of government information holdings, the National Archives leads the implementation of the framework for evaluating the management of government information holdings. The Archives performs this function in collaboration with Treasury Board Secretariat, National Library, Public Opinion Research Group of Government Services, Canadian Centre for Management Development, internal audit and program evaluation groups, and information management groups of government institutions.",
+    "fr": "Les Archives nationales assument, pour le compte du Conseil du Trésor,certaines responsabilités d'évaluation se rattachant à la politique sur laGRDG. Elles peuvent signaler des problèmes ou des questions susceptiblesd'avoir d'importantes répercussions sur la gestion des fonds de renseignements,en ce qui concerne notamment leur identification, leur organisation, leurentreposage, leur conservation et leur disposition. Par ailleurs, la Loi sur lesArchives nationales du Canada confère aux Archives nationales un droit deregard sur la destruction et la disposition des fonds de renseignements (àl'exception du matériel publié) détenus par les institutionsgouvernementales. Cette Loi contient en outre des dispositions sur le transfertde l'information d'importance historique ou archivistique au contrôle desArchives nationales. Leur mandat étant de faciliter la gestion des documentsgouvernementaux et de demeurer le chef de file dans le domaine de la gestion desrenseignements détenus par le gouvernement, les Archives nationales dirigent lamise en application d'une structure propre à garantir l'évaluation de cesecteur. Elles s'acquittent de cette fonction en collaboration avec leSecrétariat du Conseil du Trésor, la Bibliothèque nationale, le Groupe derecherche sur l'opinion publique (Services gouvernementaux Canada), le Centrecanadien de gestion, les groupes de vérification interne et d'évaluation desprogrammes et les groupes de gestion de l'information formés au sein desinstitutions gouvernementales."
+  },
+  {
+    "en": "National Library is responsible for identifying, acquiring, recording and making available Canada's published heritage, regardless of format. The major tool for this responsibility is the national bibliography, Canadiana. Federal government publications are an important part of Canada's heritage. The National Library also acts as the central point for facilitating resource sharing among Canadian libraries. The National Library fulfils this responsibility through union catalogues and lists used to identify and locate library holdings for interlibrary loan. A number of articles within the National Library Act refer directly to the coordination of federal library activities including the disposal of surplus published materials. In addition, the National Library has specific evaluation responsibilities related to published material.",
+    "fr": "La Bibliothèque nationale a la responsabilité d'identifier, d'acquérir,d'enregistrer et de rendre accessible le matériel publié faisant partie dupatrimoine canadien, quelle qu'en soit la forme. Elle se sert principalement dela bibliographie nationale Canadiana pour s'acquitter de cette responsabilité.Les publications du gouvernement fédéral constituent une composante importantedu patrimoine canadien. La Bibliothèque nationale sert de pivot en facilitantle partage des ressources entre les bibliothèques canadiennes. à cette fin, laBibliothèque nationale dispose de listes et de catalogues collectifs permettantd'identifier et de repérer les ressources documentaires requises pour lesprêts interbibliothèques. Certaines sections de la Loi sur la Bibliothèquenationale font directement référence aux responsabilités de la Bibliothèquenationale liées à la coordination des activités des bibliothèquesfédérales, en ce qui concerne notamment la disposition du matériel publié ensurnombre. En outre, la Bibliothèque nationale s'acquitte de certainesresponsabilités d'évaluation se rattachant au matériel publié."
+  },
+  {
+    "en": "Internal Audit Groups are responsible for including in their audit of information management an assessment of the degree of compliance with the MGIH Policy. This is in addition to the customary responsibility of internal audit to assess the effectiveness of the management framework in ensuring the achievement of operating objectives, the economical and efficient use and protection of resources, and the integrity of information.",
+    "fr": "Les Groupes de vérification interne ont la responsabilité d'intégrer àleur vérification de la gestion de l'information une évaluation du degré deconformité avec la politique sur la GRDG. Cette fonction s'ajoute à leurresponsabilité habituelle en matière de vérification interne visant àévaluer si le cadre de gestion permet d'assurer le respect des objectifsopérationnels, l'utilisation économique et rationnelle et la protection desressources, ainsi que l'intégrité de l'information."
+  },
+  {
+    "en": "Program Evaluation Groups are responsible for evaluating the continued relevance, success and cost-effectiveness of federal programs. Where institutions provide information to the public, or to groups outside the institution, program evaluation may look at the provision of this information in terms of its relevance, success and cost-effectiveness.",
+    "fr": "Les Groupes d'évaluation des programmes sont chargés d'évaluerl'à-propos, le rendement et la rentabilité des programmes gouvernementaux.Lorsque les institutions fournissent de l'information au public ou à desgroupes extérieurs, les Groupes d'évaluation des programmes peuvent vérifiersi les renseignements sont divulgués de façon pertinente, efficace etrentable."
+  },
+  {
+    "en": "Public Opinion Research Group, Government Services Canada, is the central reporting agency to which all proposals regarding information collection and public opinion research must be sent. The POR Group is responsible for assessing the public opinion content of the proposal, determining if approval by the Cabinet Committee on Operations is required, and issuing authorization numbers allowing institutions to initiate contracting procedures for approved projects.",
+    "fr": "Le Groupe de recherche sur l'opinion publique (Services gouvernementauxCanada) est l'organisme central chargé de la communication des renseignements.On doit lui faire parvenir toute proposition concernant la collecte del'information et la recherche sur l'opinion publique. Le Groupe de recherche surl'opinion publique est chargé d'évaluer les aspects de la proposition serattachant à l'opinion publique, de déterminer s'il y a lieu de soumettre laproposition à l'approbation du Comité du Cabinet chargé des opérations et,enfin, d'émettre des numéros d'autorisation permettant aux institutionsd'amorcer des procédures contractuelles pour les projets approuvés."
+  },
+  {
+    "en": "Canadian Centre for Management Development provides advice and guidance to institutions in developing institutional histories, case studies and profiles.",
+    "fr": "Le Centre canadien de gestion donne des conseils et fournit une orientationaux institutions pour l'élaboration de documents sur l'évolution desinstitutions, d'études de cas et de profils."
+  },
+  {
+    "en": "Government by its very nature is an information-intensive service provider. Good information management practices can enhance government productivity and service quality, and decrease the cost of administration. Information is increasingly recognized as an important primary resource - along with finance, personnel and assets - that needs to be effectively managed. Hence, awareness of the need for good practices in the management of information is rising.",
+    "fr": "Les ressources financières, humaines et physiques sont des éléments debase possédant un caractère fonctionnel distinct au sein de l'institution. Ilest généralement facile de se renseigner auprès d'une personne ou d'un groupesur une question liée à la gestion des finances, du personnel ou des biens. Enrevanche, la gestion de l'information est un secteur multidisciplinaire. Elleenglobe des fonctions visibles, dont notamment la gestion des documents, lagestion des données et les services bibliothécaires, et des fonctions qui lesont peut-être moins, dont la recherche sur l'opinion publique."
+  },
+  {
+    "en": "The other primary resources, i.e. finance, personnel and assets, usually have a recognizable functional identity within an institution. If you have questions regarding the management of finance or personnel or assets, you can usually find someone - or some group - in the institution to deal with. In contrast, the management of information is much more multidisciplinary. Information-based functions within institutions include obvious groups such as records management, data management and library services, as well as perhaps less obvious functions such as public opinion research.",
+    "fr": "Le caractère multidisciplinaire de la gestion de l'information conduitparfois à des difficultés liées à la planification et à l'établissement dela portée de l'évaluation. Cette question sera abordée plus en détail dansles pages suivantes. On utilise dans le Guide l'expression \"fonctionsreliées à l'information\"pour désigner les disciplines et les fonctionsse rattachant à la gestion de l'information. Le caractère multidisciplinaireet la complexité de la gestion de l'information se reflète également dansl'éventail des lois et des politiques en matière d'information. La figure 1 enénumère plusieurs. En outre, certaines institutions doivent se conformer àdes lois et à des politiques reliées à l'information dans l'accomplissementde leur mission particulière. Les examinateurs doivent prendre enconsidération le fait que certains règlements ou politiques ont priorité surd'autres, et examiner les circonstances particulières de l'institution avant dese prononcer sur la hiérarchie des textes applicables."
+  },
+  {
+    "en": "The multidisciplinary nature of the management of information leads to some challenging planning and scoping issues, which are elaborated on later in the Guide. For purposes of the Guide, information-based functions will be used as a generic term to include the information management disciplines or functions involved. Another perspective on the complex, multidisciplinary nature of the management of information is provided by the variety of laws and policies that affect information. Figure 1 lists many of them. In addition, some institutions have information-related legal and policy requirements that relate to their particular missions. Reviewers should note that some policies and regulations may take precedence over others, and they should look to the particular circumstances of their institution before deciding on the hierarchy of applicable authorities.",
+    "fr": "Loi sur l'accès à l'information et règlements connexes"
+  },
+  {
+    "en": "and Regulations",
+    "fr": "Lois applicables à une institution en particulier"
+  },
+  {
+    "en": "Acts specific to each institution",
+    "fr": "Loi sur la preuve au Canada"
+  },
+  {
+    "en": "and the",
+    "fr": "Loi sur le droit d'auteur"
+  },
+  {
+    "en": "and Regulations",
+    "fr": "Loi sur la protection civile et Loi sur les mesures d'urgence"
+  },
+  {
+    "en": "Information Management volume of the Treasury BoardManual:",
+    "fr": "Loi sur les Archives nationales du Canada"
+  },
+  {
+    "en": "(a) Foreword",
+    "fr": "Loi sur la Bibliothèque nationale"
+  },
+  {
+    "en": "(b) Management of Government Information Holdings (MGIH)policy",
+    "fr": "Loi sur les langues officielles"
+  },
+  {
+    "en": "(c) Management of Information Technology (MIT) policy",
+    "fr": "Loi sur la protection des renseignements personnels et règlements connexes"
+  },
+  {
+    "en": "Government Security policy",
+    "fr": "Le volume du Manuel du Conseil du Trésor portant sur la Gestion del'information :"
+  },
+  {
+    "en": "Government Communications policy",
+    "fr": "a) Avant-propos"
+  },
+  {
+    "en": "Access to Information policy",
+    "fr": "b) Gestion des renseignements détenus par le gouvernement (GRDG)"
+  },
+  {
+    "en": "Privacy policy",
+    "fr": "c) Gestion des technologies de l'information (GTI)"
+  },
+  {
+    "en": "Figure 2 provides a model to assist in the review of the management of information. The model shows the stages information holdings pass through during their life cycle.",
+    "fr": "Politique du gouvernement du Canada sur la sécurité"
+  },
+  {
+    "en": "Each stage of the life cycle can be used as a basis to review an integral part of the management of information holdings (see Chapters 4 through 8). In addition, a review can look at the overall management framework, i.e. the management of the entire life cycle and the context in which it operates (see Chapter 3).",
+    "fr": "Politique du gouvernement en matière de communications"
+  },
+  {
+    "en": "Whether at the corporate or program level, an organization uses the information life cycle as a framework within which to manage its information. Increasingly, organizations are considering their requirements for information along with their requirements for people, accommodation and financial resources.",
+    "fr": "Politique sur l'accès à l'information"
+  },
+  {
+    "en": "The planning stage involves assessing how to meet the needs of the institution for operational, legislative and policy purposes. The MGIH policy states that institutions should identify their information needs as early as possible in the project or management cycle. In keeping with that concept, institutions should collect, create or generate only what information they require. They should also make sure the information does not already exist in the institution or that it is readily accessible to the institution. Information should be kept only as long as it is of value. In addition, when planning information systems, or making enhancements to existing information systems, institutions should identify and include all the important parameters related to MGIH.",
+    "fr": "Politique sur la protection des renseignements personnels"
+  },
+  {
+    "en": "In the planning stage, institutions should identify their own information needs for each of the stages in the information life cycle. The subsequent collection, creation and/or generation of information should be directly linked to the needs that have been identified. The information holdings that result should be organized, stored and protected. Finally, information of no further use or value to the institution should be disposed of pursuant to provisions of and the .",
+    "fr": "La figure 2 présente un modèle utilisé aux fins de l'examen des pratiquesliées à la gestion de l'information. Le modèle montre les étapes quefranchissent les fonds de renseignements durant leur cycle de vie."
+  },
+  {
+    "en": "As stated above, planning should determine what information should be collected, created or received, based on operational needs and legislative or policy requirements. This suggests that generating or gathering of information should be articulated in terms of the nature of information needed (what), its operational, legislative or policy purpose (why), which persons or groups of the institution will have custody and use of the information (who), the frequency of need (when), and whether it is to be generated internally or gathered from other sources (where and how).",
+    "fr": "En se fondant sur chaque étape du cycle de vie, on peut examiner un aspectintégral de la gestion des fonds de renseignements (voir les chapitres 4 à 8).Ce modèle permet aussi d'examiner le cadre de gestion dans sa globalité,c'est-à-dire, la gestion de l'ensemble du cycle de vie et son contexte (voir lechapitre 3)."
+  },
+  {
+    "en": "Treasury Board's MGIH policy states some additional requirements concerning the collection of information. Government institutions are required to avoid collecting information that is already available, minimize the response burden and costs associated with collection, and collect personal information in accordance with the Privacy Act. In addition, in the case of public opinion research, institutions must seek approval of the Cabinet Committee on Operations through the Public Opinion Research Group of Government Services Canada.",
+    "fr": "Le modèle du cycle de vie de l'information permet de gérer l'information,que ce soit à l'échelle de l'organisation ou de l'exécution des programmes.Les organisations considèrent de plus en plus leurs besoins en information aumême titre que leurs besoins en ressources humaines, physiques et financières."
+  },
+  {
+    "en": "In order to maximize the value of information holdings, they should relate to the needs of the institution. Consequently, institutions should identify and describe their information holdings to meet their operational requirements (decision making and program delivery) and to meet legislative or policy requirements. Description provides context and meaning. Information holdings also should be organized or arranged in a logical manner that facilitates access by users. In this regard, access includes transmission, use and retrieval.",
+    "fr": "L'étape de planification vise à déterminer la façon de répondre auxbesoins de l'institution dans le contexte des objectifs opérationnels et deslois et politiques applicables. La politique sur la GRDG stipule que lesinstitutions doivent déterminer leurs besoins en information le plus rapidementpossible au cours du projet ou du cycle de gestion. Dans cette optique, lesinstitutions ne doivent collecter, créer ou produire que l'information dontelles ont besoin. Elles doivent aussi s'assurer qu'elles n'ont pas déjàl'information en leur possession, ou qu'elle leur est facilement accessible.L'information doit être conservée aussi longtemps qu'elle possède unecertaine valeur. Au moment d'élaborer de nouveaux systèmes d'information oud'apporter des améliorations aux systèmes existants, les institutions doiventveiller à inclure tout paramètre important relié à la politique sur la GRDG."
+  },
+  {
+    "en": "In the transmission, use and retrieval of information, users should respect the applicable legal and policy constraints, including the access to information and privacy legislation, and the Government Security policy. In addition, the MGIH policy requires that information holdings of government institutions be identified in appropriate government public reference sources and that information holdings be available to the public and for use within the government - subject to legal and policy constraints.",
+    "fr": "Au cours de l'étape de planification, les institutions doivent déterminerleurs propres besoins en information liés à chacune des étapes du modèle ducycle de vie. Les activités ultérieures de collecte, de création ou deproduction de l'information doivent se rattacher directement aux besoinsdécelés. Elles doivent également organiser, entreposer et protéger les fondsde renseignements qui en résultent. Enfin, elles doivent se défaire del'information n'ayant plus d'utilité ou de valeur, conformément auxdispositions de la Loi sur les Archives nationales du Canada et de la Loi sur laBibliothèque nationale."
+  },
+  {
+    "en": "In addition, institutions must recognize the importance of having qualified people and the right equipment to facilitate the transmission, use and retrieval of information. These two factors - the human and physical resources - can greatly affect the value of information holdings, particularly in rendering information available to users.",
+    "fr": "La politique du Conseil du Trésor sur la GRDG contient des exigencesadditionnelles concernant la collecte de l'information. Les institutionsgouvernementales doivent éviter de recueillir l'information déjà existante,minimiser le fardeau de déclaration et les coûts se rattachant à la collectede l'information et recueillir les renseignements personnels conformément à laLoi sur la protection des renseignements personnels. De plus, les institutionsdoivent soumettre leurs projets de recherche sur l'opinion publique àl'approbation du Comité du Cabinet chargé des opérations par l'entremise duGroupe de recherche sur l'opinion publique (Services gouvernementaux Canada)."
+  },
+  {
+    "en": "Information of continuing relevance to the business of the institution should be stored in media appropriate to the characteristics of the information. That is, the media chosen (paper, books, microfilm, computer diskettes, magnetic computer tape, etc.) should be selected to facilitate user accountability, the length of time required to satisfy business needs, and archival or historical requirements. To preserve the corporate memory, information holdings need to be protected against unauthorized loss, access, use, alteration, destruction or alienation (i.e., transfer outside the control of the government).",
+    "fr": "Pour maximiser la valeur des fonds de renseignements, il faut s'assurer queces derniers reflètent les besoins de l'institution. Par conséquent, lesinstitutions devront identifier et décrire leurs fonds de renseignements defaçon à satisfaire aux exigences opérationnelles (prise de décisions etexécution des programmes) et à respecter les lois et politiques applicables.La description des fonds de renseignements permet d'en fournir le contexte et lesens. Les fonds de renseignements doivent aussi être organisés ou préparésde façon logique afin d'en faciliter l'accès aux utilisateurs. Dans cetteoptique, l'accès englobe la transmission, l'utilisation et le repérage del'information."
+  },
+  {
+    "en": "Institutions keep information holdings as long as they are useful for decision making, program operations and service delivery. As well, the requirement under MGIH to retain information holdings that serve to reconstruct the evolution of policy and program decisions should guide institutions in this matter.",
+    "fr": "Au moment de transmettre, d'utiliser et de repérer l'information, lesutilisateurs doivent veiller à respecter les lois et politiques applicables, ycompris la Loi sur l'accès à l'information et la Loi sur la protection desrenseignements personnels, de même que la Politique du gouvernement du Canadasur la sécurité. De plus, la politique sur la GRDG exige que les fonds derenseignements détenus par les institutions gouvernementales soient identifiésdans les sources de référence gouvernementales appropriées et que les fondsde renseignements soient accessibles au grand public et au gouvernement - sousréserve des lois et des politiques applicables."
+  },
+  {
+    "en": "The corporate memory of the Government of Canada includes all government information holdings which are created, collected or received by government institutions to meet their operational needs and the requirements of legislation and policy. These information holdings should be disposed of through destruction or by transfer to the control of the National Archives or National Library when institutions have no further operational need or legislative or policy requirement for keeping the information holdings, and when authority for disposal has been granted by the National Archives or the National Library.",
+    "fr": "En outre, les institutions doivent reconnaître qu'un personnel qualifié etqu'un matériel approprié permettent de faciliter la transmission,l'utilisation et le repérage de l'information. Les ressources humaines etphysiques sont deux facteurs susceptibles d'influer largement sur la valeur desfonds de renseignements, plus particulièrement sur leur accessibilité auxutilisateurs."
+  },
+  {
+    "en": "Six attributes relating to the quality of information which are useful as a basis to review and assess the management of information within institutions are listed in Figure 3. While these attributes are presented as separate items for descriptive and analytic purposes, they are interrelated.",
+    "fr": "L'information couramment utilisée par l'institution doit être stockée surun support adapté aux caractéristiques de l'information. On choisira donc lesupport (papier, livre, microfilm, disquette, bande magnétique pour ordinateur,etc.) de façon à faciliter l'obligation de rendre compte de l'utilisateur, enfonction de la période de temps requise pour satisfaire aux besoinsfonctionnels et, d'exigences archivistiques ou historiques. Pour préserver lamémoire institutionnelle, il importe de protéger les fonds de renseignementscontre toute situation non autorisée : perte, accès, utilisation, altération,destruction ou aliénation (c'est-à-dire tout transfert de l'informationeffectué sans le contrôle du gouvernement)."
+  },
+  {
+    "en": "Throughout their life cycle, information holdings should be available to those who require them. This means that information - regardless of the medium used - must be accessible to users, for retrieval and use when they need it. In short, information must be accessible on a timely basis. Where information technology is used for storage or transmission, the technology should be available to users in order to facilitate retrieval and use of information.",
+    "fr": "Les institutions doivent garder les fonds de renseignements tant et aussilongtemps qu'ils sont utiles à la prise de décisions, à l'exécution desprogrammes et aux exigences opérationnelles. De plus, les obligations de laGRDG en matière de conservation des fonds de renseignements qui servent àreconstruire l'évolution des décisions relatives aux politiques et auxprogrammes devraient guider les institutions à ce sujet."
+  },
+  {
+    "en": "To be of any use, information holdings need to be understandable. This means that identification and description of information holdings must be meaningful to users. For example, technical information described in abbreviated terms understood by technical experts may not be understood by other users.",
+    "fr": "La mémoire institutionnelle du gouvernement du Canada englobe tous les fondsde renseignements créés, recueillis ou reçus par les institutionsgouvernementales en vue de satisfaire à leurs besoins opérationnels, et derespecter les lois et les politiques applicables. Lorsque les institutionsconsidèrent qu'il ne leur est plus nécessaire de conserver ces fonds derenseignements dans le contexte des objectifs opérationnels et des lois etpolitiques applicables, elles doivent s'en défaire, soit en les détruisantavec l'approbation des Archives nationales ou de la Bibliothèque nationale,soit en les transférant au contrôle des Archives nationales ou de laBibliothèque nationale."
+  },
+  {
+    "en": "Information needs to be useable by those who require it. This means that the information must relate to the purposes for which it was created, collected or received. In other words, the content must be applicable or relevant to users. In addition, the information must be in a form that can be used by the persons who need to use it. Both the content and form of information should provide for efficient and effective use of information holdings.",
+    "fr": "La figure 3 présente six attributs relatifs à la qualité de l'information,pouvant être utilisés aux fins de l'examen et de l'évaluation de la gestionde l'information au sein des institutions. Bien que ces attributs soientprésentés séparément à des fins descriptives et analytiques, ils sont detoute évidence interreliés."
+  },
+  {
+    "en": "Users may need a variety of information in support of decision making or program delivery. Information holdings should be able to meet the needs of every program within the institution.",
+    "fr": "Tout au long de leur cycle de vie, les fonds de renseignements doivent êtreaccessibles à ceux qui en ont besoin. Cela veut dire que l'information, quelque soit le support utilisé, doit leur être accessible afin qu'ils puissent larepérer et l'exploiter à leur gré. Bref, l'information doit être accessibleau moment approprié. Lorsqu'on utilise les technologies de l'information pourla stocker ou la transmettre, elles doivent être mises à la disposition desutilisateurs pour faciliter le repérage et l'exploitation de l'information."
+  },
+  {
+    "en": "Information needs to be correct. The accuracy of information can affect decision making and program delivery.",
+    "fr": "Pour être utiles, les fonds de renseignements doivent êtrecompréhensibles. Cela veut dire que leur identification et leur descriptiondoivent être signifiantes pour l'utilisateur. Par exemple, les informationstechniques décrites sous forme abrégée, mais compréhensibles seulement parles spécialistes, risquent de ne pas être décodées par d'autresutilisateurs."
+  },
+  {
+    "en": "Another attribute of the quality of information is whether or not it is up-to-date. Information holdings need to contain the most current information relevant to user needs. A lack of up-to-date information can impair decision making and program delivery. Anyone planning to collect or create information should take into consideration the requirements for keeping the information up-to-date.",
+    "fr": "L'information doit être exploitable par ceux qui en ont besoin. Cela veutdire qu'elle doit correspondre aux objectifs pour lesquels elle a été créée,recueillie ou reçue. En d'autres termes, son contenu doit être applicable oupertinent pour les utilisateurs. De plus, l'information doit être sous formeexploitable par les personnes qui veulent l'utiliser. Le contenu et la forme del'information doivent permettre d'utiliser les fonds de renseignements de façonefficace et rationnelle."
+  },
+  {
+    "en": "A review of the management of information may include any or all of the following components: management and coordination (Chapter 3); information planning (Chapter 4); collection, creation, receipt (Chapter 5); organization, transmission, use and retrieval (Chapter 6); storage, protection and retention (Chapter 7); and disposition through transfer or destruction (Chapter 8). A review of the management of information could also be part of a larger review, where it is a subset of a review of many other management issues.",
+    "fr": "Les utilisateurs peuvent avoir besoin de diverses informations dans le cadrede la prise de décision ou de l'exécution d'un programme. Les fonds derenseignements doivent pouvoir satisfaire aux exigences de chaque programme misen oeuvre par une même institution."
+  },
+  {
+    "en": "In addition to the components covered in Chapters 3 through 8, it is important that a review of the management of information also consider the quality of people (human resources) and the adequacy of equipment (physical resources) involved. Further, the attributes of information (discussed in Chapter 1) can be used as a basis to analyze and comment on the management of information.",
+    "fr": "L'information doit être correcte. Sa précision peut avoir une incidence surla prise de décision et l'exécution des programmes."
+  },
+  {
+    "en": "Some of the general issues and questions that can be addressed in a review are listed below, along with a reference to the relevant chapter of the Guide.",
+    "fr": "Un autre attribut de la qualité de l'information consiste à assurer qu'elleest à jour. Les fonds de renseignements doivent contenir l'information la plusrécente qui soit adaptée aux besoins des utilisateurs. Une information non àjour peut compromettre la prise de décision et l'exécution des programmes.Tout utilisateur qui projette de recueillir ou créer l'information doit tenircompte des exigences relatives à son actualisation."
+  },
+  {
+    "en": "1. Assessing overall corporate management of information holdings",
+    "fr": "Une revue de la gestion de l'information peut comporter une partie ou latotalité des éléments suivants : gestion et coordination (chapitre 3);planification de l'information (chapitre 4); collecte, création et réception(chapitre 5); organisation, transmission, utilisation et repérage (chapitre 6);entreposage, protection et conservation (chapitre 7); et disposition partransfert ou destruction (chapitre 8). Une revue de la gestion de l'informationpeut aussi faire partie d'un examen plus large, dans lequel elle constitue unsous-ensemble d'une analyse portant sur de nombreux autres thèmes de gestion."
+  },
+  {
+    "en": "Is the corporate framework for the management and coordination of information adequate in terms of the economic, efficient and effective management of information?",
+    "fr": "Outre les éléments abordés dans les chapitres 3 à 8, il est important quela revue de la gestion de l'information porte aussi sur la qualité despersonnes (ressources humaines) et des matériels (ressources physiques)disponibles. De plus, les attributs de l'information (présentés dans lechapitre 1) peuvent servir de fondement pour l'analyse et les commentairesportant sur la gestion de l'information."
+  },
+  {
+    "en": "Chapter 3",
+    "fr": "Certains thèmes et questions d'ordre général, qui peuvent faire l'objetd'une revue, sont présentés ci-après, ainsi que l'indication du chapitreapplicable dans le Guide."
+  },
+  {
+    "en": "2. Assessing information planning",
+    "fr": "1. évaluation de la gestion centrale des fonds de renseignements"
+  },
+  {
+    "en": "Have information needs been analyzed and do information holdings relate to information needs?",
+    "fr": "Le cadre général pour la gestion et pour la coordination de l'information est-il suffisant pour assurer une gestion efficace et rationnelle de l'information?"
+  },
+  {
+    "en": "Chapter 4",
+    "fr": "Chapitre 3."
+  },
+  {
+    "en": "3. Assessing the generation and gathering of information",
+    "fr": "2. évaluation de la plantification de l'information"
+  },
+  {
+    "en": "Does the information collected, created or received relate only to user needs, and is unnecessary collection avoided and response burden minimized?",
+    "fr": "Les besoins en information ont-ils été analysés, et les fonds de renseignements y correspondent-ils?"
+  },
+  {
+    "en": "Chapter 5",
+    "fr": "Chapitre 4"
+  },
+  {
+    "en": "4. Assessing the identification, description, access and use of information",
+    "fr": "3. évaluation de la production et de la collecte d'information"
+  },
+  {
+    "en": "To what extent are information holdings organized and distributed such that information is easily retrieved and used?",
+    "fr": "L'information recueillie, créée ou reçue ne répond-elle qu'aux besoins des utilisateurs, et a-t-on pris soin d'éviter une collecte inutile et de minimiser le fardeau des répondants?"
+  },
+  {
+    "en": "Chapter 6",
+    "fr": "Chapitre 5"
+  },
+  {
+    "en": "5. Assessment of protection and preservation of corporate memory",
+    "fr": "4. évaluation de l'identification, la description, l'accès et l'utilisation de l'information"
+  },
+  {
+    "en": "Is information stored, protected and retained as long as it is required to support operational needs and accountability requirements?",
+    "fr": "Dans quelle mesure les fonds de renseignements sont-ils organisés et distribués de façon que l'information soit facilement repérée et utilisée?"
+  },
+  {
+    "en": "Chapter 7",
+    "fr": "Chapitre 6"
+  },
+  {
+    "en": "6. Assessing the disposition of information holdings",
+    "fr": "5. évaluation de la protect ion et de la conservation de la mémoire institutionnelle"
+  },
+  {
+    "en": "Are information holdings of permanent value transferred to the control of the National Library as required, and are other holdings destroyed when there is no further operational need or accountability requirement?",
+    "fr": "L'information est-elle entreposée, protégée et conservée aussi longtemps qu'il le faut, dans le cadre des besoins opérationnels et des responsabilités applicables?"
+  },
+  {
+    "en": "Chapter 8",
+    "fr": "Chapitre 7"
+  },
+  {
+    "en": "The terminology used in this Guide is consistent with that of the Treasury Board information management policies. However, this terminology may differ from that used within individual government institutions. Therefore, users of this Guide are reminded that titles, activity descriptions and other terms within their institutions may be defined differently. For example, the terms \"computer support,\" \"informatics\" and \"information systems management\" may be used by different organizations to mean the same thing. Clarity in the meaning of titles and terms will be important when planning a review of the management of information.",
+    "fr": "6. évaluation de la disposition des fonds de renseignements"
+  },
+  {
+    "en": "Management of information involves many functions as well as various media. Each information-based function has its own detailed practices and procedures. Also, characteristics of the storage media are quite different. For example, practices for storage, protection and transmission of microfilm are quite different from those for electronic media.",
+    "fr": "Le contrôle des fonds de renseignements ayant une valeur permanente est-il transféré aux Archives nationales ou à la Bibliothèque nationale selon le cas, et détruit-on les autres fonds en l'absence de besoins opérationnels ou de responsabilités applicables?"
+  },
+  {
+    "en": "The issues to be examined and the level of detail required, depend upon the context of the review. A review might look at some issues in the context of the MGIH policy across various functions and media. For example, information retrieval could be reviewed across all information-based functions and media. Alternatively, a review might look at detailed issues pertaining to a particular function or to a particular medium. For example, a review of the library function might look at specific aspects of the handling of books and periodicals. This may require a much more detailed and specific set of review objectives, criteria and questions/practices in order to supplement those set out in this Guide.",
+    "fr": "Chapitre 8"
+  },
+  {
+    "en": "It will be useful to identify which functions and which media will be included in the scope of a review. A review of MGIH might cover some or all of the following:",
+    "fr": "La gestion de l'information fait appel à de nombreuses fonctions et àdivers supports. à chaque fonction informationnelle correspondent des pratiqueset procédures détaillées propres. Par exemple, les pratiques d'entreposage,de protection et de transmission d'un microfilm sont tout à fait différentesde celles qui régissent les supports électroniques."
+  },
+  {
+    "en": "If managed outside the above-mentioned functions, a review of MGIH will include the management of records or published material in the following media:",
+    "fr": "Les thèmes à examiner et le niveau de détail requis sont fonction ducontexte de la revue. Une revue peut porter sur certains thèmes dans lecontexte de la politique sur la GRDG en regard de divers supports et fonctions.Par exemple, on peut examiner le repérage de l'information en regard de tousles supports et fonctions de nature informationnelle. On peut aussi se pencheren détail sur une fonction particulière ou un support particulier. Parexemple, une revue de la fonction de bibliothèque peut porter sur des aspectsprécis de la manipulation des livres et périodiques. Cela peut nécessiter unensemble d'objectifs d'examen, de critères et de questions/pratiques bien plusdétaillés et précis pour compléter ceux qui sont présentés dans ce guide."
+  },
+  {
+    "en": "The Guide does not differentiate between \"self assessment,\" \"internal audit\" or \"program evaluation\" issues. It is left to reviewers to decide whether or not to cover specific issues and in what context this will be done. The review of some issues will, however, be viewed as critical by National Archives for purposes of its evaluation and reporting responsibilities under the MGIH policy. Specifically, National Archives is concerned with the identification, organization, storage, conservation, retention and disposal of information holdings. Hence, institutions should discuss the scope of their reviews with National Archives before undertaking them. Likewise, where reviews will cover published materials, institutions should discuss the scope of reviews with National Library before undertaking them.",
+    "fr": "Il sera utile d'identifier les fonctions et les supports qu'il faudra incluredans la portée de la revue. Un examen de la politique sur la GRDG peut ainsiporter sur une partie ou la totalité des thèmes suivants :"
+  },
+  {
+    "en": "Particularly in large departments, a review of the management of information may or may not include all components of the functions under review. A review should examine those components of a function, or issues, which are important to the institution as indicated by the reviewer's risk assessment or analysis. Consequently, reviewers may choose to include only certain aspects in a particular review.",
+    "fr": "Si la revue de la politique sur la GRDG est conduite en dehors des fonctionsci-dessus mentionnées, elle comprendra la gestion des documents ou du matérielpublié sur les supports suivants :"
+  },
+  {
+    "en": "Thus it is important to identify the scope of the review so that readers of the review report will understand what is included and excluded. Presumably, other major components of the function which are excluded from a current review would be included in some other review(s).",
+    "fr": "On ne distingue pas dans le Guide les thèmes de l'auto-évaluation, lavérification interne et l'évaluation de programme. Il incombe aux examinateursde décider s'ils doivent couvrir des thèmes particuliers et dans quel contexteils doivent procéder. Les Archives nationales attacheront cependant une grandeimportance à certains thèmes dans le cadre de leurs responsabilités enmatière d'évaluation et d'établissement de rapports conformément à lapolitique sur la GRDG. Les Archives nationales s'intéressent notamment àl'identification, à l'organisation, à l'entreposage, à la conservation et àla disposition des fonds de renseignements. C'est pourquoi les institutionsdoivent discuter l'étendue de leurs revues avec les Archives nationales avantde les entreprendre. Il en est de même lorsque les revues portent sur lematériel publié, les institutions doivent discuter de cet aspect avec laBibliothèque nationale avant de procéder à une telle revue."
+  },
+  {
+    "en": "A review can be conducted at different levels within an institution. It might examine only centralized functions (at headquarters), or only decentralized functions (in the regions), or both. Similarly, a review might cover only the corporate level or the branch level, or both. An additional dimension is whether a review would be performed on the basis of an institution's organization chart or whether the review would be conducted on a functional basis (i.e., functions which cut across the organization chart). The scope of a review should be clear as to the level of focus, so that users of the review report will understand the review results.",
+    "fr": "Dans les grands ministères en particulier, une revue de la gestion del'information peut incorporer ou non toutes les composantes des fonctions encours d'examen. Une revue doit porter sur les composantes d'une fonction ou surles thèmes qui sont importants pour l'institution, conformément à l'analysedes risques de l'examinateur. Par conséquent, celui-ci peut choisir den'inclure que certains aspects dans une revue en particulier."
+  },
+  {
+    "en": "The institution's management structure facilitates effective coordination of all information-based functions.",
+    "fr": "Il est donc important d'identifier l'étendue de la revue afin que leslecteurs du rapport comprennent bien ce qu'elle contient et les éléments quien sont exclus. Il est vraisemblable que d'autres composantes importantes de lafonction, exclues d'une revue en cours, soient incluses dans d'autres revues."
+  },
+  {
+    "en": "1.1 Accountability and responsibility for the management of information are assigned across the organization to senior management, information-based function specialists, line managers and staff.",
+    "fr": "On peut effectuer une revue à différents niveaux au sein d'une institution.Elle peut se limiter aux fonctions centralisées (administration centrale), ouaux fonctions décentralisées (régions), ou encore elle peut couvrir les deux.De la même façon, une revue peut ne couvrir que le niveau ministériel oucelui d'une direction, ou les deux. Une autre dimension consiste à savoir sil'on doit effectuer une revue sur la base d'un organigramme de l'institution ousur une base fonctionnelle (c.-à-d. selon les fonctions qui recoupentl'organigramme). La portée d'une revue doit être claire quant au niveaud'analyse, de façon que les utilisateurs du rapport produit en comprennent lesrésultats."
+  },
+  {
+    "en": "1.1.1 Have responsibilities for the management of information been included in formal organizational documentation such as policies, procedure manuals, position descriptions, etc? Are responsibilities clearly described? Are accountabilities clearly explained?",
+    "fr": "La structure de gestion de l'institution facilite une coordination efficacede toutes les fonctions reliées à l'information."
+  },
+  {
+    "en": "1.1.2 Do managers, information specialists, and staff take into account the mission and strategic priorities of their institution in establishing responsibilities for the management of information? Are they aware of, and do they understand, their respective responsibilities for the management of information holdings, i.e. can they explain their responsibilities in discussions or in response to questions?",
+    "fr": "1.1 L'obligation de rendre compte et la responsabilité en matière degestion de l'information sont confiées aux gestionnaires supérieurs, auxspécialistes des fonctions reliées à l'information, au personnel et auxgestionnaires hiérarchiques."
+  },
+  {
+    "en": "1.1.3 Are users at all levels aware of their own responsibilities regarding information holdings? Do they have the knowledge, skills and tools to exercise these responsibilities? For example, is information management an element of the orientation for new employees? Do users have printed or on-line guides to institutional holdings and do they know how to retrieve information from them?",
+    "fr": "1.1.1 A-t-on inclus les responsabilités en matière de gestion del'information dans une documentation officielle de l'organisation, telle que lespolitiques, les manuels de procédures, les descriptions de postes, etc.? Lesresponsabilités sont-elles clairement décrites? Les obligations sont-ellesclairement expliquées?"
+  },
+  {
+    "en": "1.1.4 Does the delegation of responsibilities, and the related reporting relationships in the organization provide avenues for senior management to resolve conflicts or overlaps between information-based functions? For example, if the security group of an institution is in a different branch than the office systems and computer support group and a conflict arises between these groups on an information security matter, is it clear which senior managers will be involved - and have the authority to resolve the conflict?",
+    "fr": "1.1.2 Les gestionnaires, les informaticiens et le personnel tiennent-ilscompte de la mission et des priorités stratégiques de leur institution lors del'établissement des responsabilités en matière de gestion de l'information?Connaissent-ils et comprennent-ils leurs responsabilités respectives quant àla gestion des fonds de renseignements, c.-à-d. peuvent-ils expliquer leursresponsabilités dans des discussions ou en réponse à des questions?"
+  },
+  {
+    "en": "1.1.5 Are reports on the progress of information-based functions towards achievement of their plans forwarded to senior management or to the senior official responsible for the management of information holdings?",
+    "fr": "1.1.3 Les utilisateurs à tous les niveaux connaissent-ils leurs propresresponsabilités en matière de fonds de renseignements? Ont-ils lesconnaissances, les compétences et les outils qui leur permettent d'exercerleurs responsabilités? Par exemple, la gestion de l'information fait-ellepartie de l'orientation des nouveaux employés? Les utilisateurs disposent-ilsde guides, imprimés ou connectés à l'ordinateur, des fonds de renseignements,et savent-ils comment en extraire l'information?"
+  },
+  {
+    "en": "1.2 A senior official is designated to represent the institution to Treasury Board Secretariat and other central agencies for the management of information holdings. (MGIH policy, requirement 1.)",
+    "fr": "1.1.4 La délégation de responsabilité et les rapports hiérarchiquescorrespondants dans l'institution offrent-ils des avenues aux gestionnairessupérieurs pour qu'ils résolvent les conflits ou chevauchements entre desfonctions reliées à l'information? Par exemple, si le service de sécuritéd'une institution est situé dans une direction différente de celle de labureautique et du soutien informatique, et qu'un conflit surgit entre cesgroupes relativement à une menace informatique, connaît-on à l'avance lesgestionnaires supérieurs responsables qui ont l'autorité de résoudre leconflit?"
+  },
+  {
+    "en": "1.2.1 Is a senior official clearly identified and recognized across the institution as the person who is designated for purposes of the MGIH policy? Are the role and responsibilities of the senior \"designated official\" clearly articulated and communicated throughout the organization?",
+    "fr": "1.1.5 Les rapports sur l'avancement des fonctions reliées à l'informationen vue de la réalisation de leurs plans sont-ils transmis aux gestionnairessupérieurs ou au haut fonctionnaire responsable de la gestion des fonds derenseignements?"
+  },
+  {
+    "en": "1.2.2 Does the delegation of responsibilities, and related reporting relationships within the institution permit the designated official to speak for all the relevant information-based functions? If some information-based functions do not have an organizational link or reporting relationship to the designated official, how does the designated official represent them to central agencies? Also, how, for the purposes of the Information Management Plan and related activities, does the designated official for information holdings coordinate actions with the designated official for information technology?",
+    "fr": "1.2 Un haut fonctionnaire est désigné pour représenter l'institutionauprès du Secrétariat du Conseil du Trésor et d'autres organismes centraux ence qui a trait à la gestion des fonds de renseignements (politique sur la GRDG,exigence 1)."
+  },
+  {
+    "en": "The institution ensures coordinated management of all of its information-based functions - leading to improved services and better program delivery.",
+    "fr": "1.2.1 Un haut fonctionnaire est-il clairement identifié et reconnu dansl'institution comme la personne désignée pour l'application de la politiquesur la GRDG? Le rôle et les responsabilités du haut \"responsabledésigné\"sont-ils clairement articulés et communiqués dansl'organisation?"
+  },
+  {
+    "en": "2.1 Linkages and common goals/needs among information-based functions are identified.",
+    "fr": "1.2.2 La délégation de responsabilité et les rapports hiérarchiquescorrespondants dans l'institution permettent-ils au responsable désigné detraiter toutes les fonctions applicables reliées à l'information? Si desfonctions reliées à l'information n'ont ni un lien organisationnel ni unrapport hiérarchique avec le responsable désigné, comment ce dernier lesreprésente-t-il auprès des organismes centraux? Par ailleurs, comment dans lecadre du Plan de gestion de l'information et des activités connexes, leresponsable désigné pour les fonds de renseignements coordonne-t-il sesactions avec son homologue des technologies de l'information?"
+  },
+  {
+    "en": "2.1.1 Have corporate information managers developed an infrastructure of policy, systems and procedures for managing information effectively? Does the infrastructure link separate information management functions in order to provide for coordination of goals and services?",
+    "fr": "L'institution assure une gestion coordonnée de toutes ses fonctions reliéesà l'information en vue d'offrir des services améliorés et une meilleureexécution des programmes."
+  },
+  {
+    "en": "2.1.2 To what extent does the institution's Information Management Plan (IMP) cover its various information holdings, including non-electronic media? If some information holdings are not included in the IMP, what are the reasons?",
+    "fr": "2.1 On identifie les connexions ainsi que les buts et besoins communs parmiles fonctions reliées à l'information."
+  },
+  {
+    "en": "2.1.3 To what extent are opportunities for sharing information, services, etc. identified among information-based functions? Are common information requirements, services provided, user audiences, etc. identified in order to avoid possible duplication or overlap?",
+    "fr": "2.1.1 Les gestionnaires de l'information centrale ont-ils développé uneinfrastructure de politiques, de systèmes et de procédures en vue de gérerl'information de façon efficace? Cette infrastructure relie-t-elle desfonctions de gestion de l'information séparées afin d'assurer une coordinationdes buts et des services?"
+  },
+  {
+    "en": "2.1.4 Are all stages of the information life cycle considered in exploring linkages and common goals/needs among information-based functions?",
+    "fr": "2.1.2 Dans quelle mesure le Plan de gestion de l'information de l'institutioncouvre-t-il ses divers fonds de renseignements, y compris les supports nonélectroniques? Si certains fonds de renseignements ne sont pas inclus dans lePlan, quelles en sont les raisons?"
+  },
+  {
+    "en": "2.2 Plans are established for the support requirements of information holdings in all media.",
+    "fr": "2.1.3 Dans quelle mesure les occasions de partage de l'information, desservices, etc., sont-elles identifiées parmi les fonctions reliées àl'information? Est-ce que les besoins courants en information, les servicesfournis, le public utilisateur, etc., ont été identifiés afin d'éviter touteduplication ou tout chevauchement possible?"
+  },
+  {
+    "en": "2.2.1 How do plans for the management of information link with support requirements for corporate and operational information holdings? For example, do plans incorporate requirements to ensure the widest possible access and use of information by users?",
+    "fr": "2.1.4 Est-ce que toutes les étapes du cycle de vie de l'information sontexaminées au moment d'explorer les connexions ainsi que les buts et besoinscommuns parmi les fonctions reliées à l'information?"
+  },
+  {
+    "en": "2.2.2 Do information plans address restrictions on the use and disclosure of information in recognition of privacy and security considerations?",
+    "fr": "2.2 On établit des plans destinés à satisfaire aux exigences des fonds derenseignements quel que soit leur support."
+  },
+  {
+    "en": "2.2.3 Do information plans include retention and disposal provisions relevant to the nature of the holdings?",
+    "fr": "2.2.1 Comment les plans de gestion de l'information correspondent-ils à lasatisfaction des exigences relatives aux fonds de renseignements centraux etopérationnels? Par exemple, est-ce que les plans incorporent des exigencesvisant à assurer l'accès maximal à l'information par les utilisateurs etl'utilisation maximale de celle-ci?"
+  },
+  {
+    "en": "2.3 A corporate inventory is maintained for managing the institution's information holdings. (MGIH policy, requirement 1.)",
+    "fr": "2.2.2 Est-ce que les plans de gestion de l'information intègrent desrestrictions sur l'utilisation et la divulgation des renseignements en vue deprotéger la sécurité et les renseignements personnels?"
+  },
+  {
+    "en": "2.3.1 Does the institution maintain a current, comprehensive and structured identification or classification system or systems which provide an effective means for organizing and locating information and, in composite form, comprise a corporate inventory for managing information holdings? When developing the corporate inventory, it may be useful for institutions to consult Management of Government Information Holdings: Technical Specifications for an Automated Corporate Inventory of Holdings.",
+    "fr": "2.2.3 Les plans de gestion de l'information prévoient-ils une conservationet une disposition qui ont trait à la nature des fonds?"
+  },
+  {
+    "en": "2.3.2 Are the criteria that dictate what is in the inventory clearly defined? Is the corporate inventory kept up-to-date? How is this done? How often is it done? Does the inventory reflect the actual, current holdings of the institution?",
+    "fr": "2.3 Un répertoire central est tenu à jour afin de gérer les fonds derenseignements de l'institution (politique sur la GRDG, exigence 1)."
+  },
+  {
+    "en": "2.3.3 Where the corporate inventory is a combination of systems, has the institution considered using a thesaurus function as a means to establish a more complete and effective linkage between the component systems? In some institutions, the implementation of a good thesaurus function has avoided the need to create a new corporate inventory. A good thesaurus function can link previously separate \"islands of information.\"",
+    "fr": "2.3.1 Est-ce que l'institution offre une identification à jour, généraleet structurée, ou des systèmes de classification qui constituent un moyenefficace d'organiser et de localiser l'information et qui, sous forme composite,comprennent un répertoire central de gestion des fonds de renseignements? Lorsde l'élaboration du répertoire central, il peut s'avérer utile pour lesinstitutions de consulter le manuel intitulé Gestion des renseignementsdétenus par le gouvernement : Spécifications techniques pour un répertoirecentral automatisé des fonds de renseignements."
+  },
+  {
+    "en": "2.3.4 Is there a periodic review of the relevance of the components of the corporate inventory? Who appraises the adequacy and need for particular information holdings and the related information technology? Are actions taken to eliminate unnecessary holdings and avoid duplication of holdings? Has the institution made information easier to share by encouraging greater compatibility among supporting technologies?",
+    "fr": "2.3.2 Les critères qui régissent le contenu du répertoire sont-ilsclairement définis? Le répertoire central est-il tenu à jour? De quellefaçon? à quelle fréquence? Est-ce que le répertoire reflète les fondsréels courants de l'institution?"
+  },
+  {
+    "en": "2.3.5 Does the corporate inventory include all information holdings under the control of the institution, including those held by individual managers and staff members? Where information is held by individuals, are the responsibilities and accountabilities for this information integrated with those for corporate information holdings - including the maintenance of the corporate inventory? In other words, does everyone understand what \"under the control of the institution\" means when applied to information held by individuals?",
+    "fr": "2.3.3 Lorsque le répertoire central est une combinaison de systèmes,l'institution a-t-elle envisagé d'utiliser une fonction\"synonymes\"afin d'établir une connexion plus complète et efficaceentre les systèmes constitutifs? Dans certaines institutions, la mise en oeuvred'une bonne fonction de synonymes a permis d'éviter la création d'un nouveaurépertoire central. Une bonne fonction de synonymes permet de relier entre euxdes \"îlots d'information."
+  },
+  {
+    "en": "2.3.6 Do users find the corporate inventory helpful when they are looking for information? In other words, do they actually use the corporate inventory? Is there a system in place to measure user satisfaction?",
+    "fr": "2.3.4 L'institution effectue-t-elle une revue périodique de la pertinencedes composantes du répertoire central? Qui évalue la qualité et les besoinsen matière de fonds de renseignements particuliers, ainsi que les technologiesde l'information qui s'y rattachent? Des mesures sont-elles prises pouréliminer les fonds inutiles et éviter la duplication? L'institution rend-ellel'information plus facile à partager en encourageant une plus grandecompatibilité des technologies utilisées?"
+  },
+  {
+    "en": "2.3.7 How is information captured in order to maintain the inventory of information holdings? Does the system keep the inventory complete and up-to-date? Is information in all media captured, including electronic forms?",
+    "fr": "2.3.5 Le répertoire central inclut-il tous les fonds de renseignements sousle contrôle de l'institution, y compris ceux que détiennent certainsgestionnaires et membres du personnel? Lorsque des personnes détiennent desrenseignements, les responsabilités et obligations qui s'y rattachentsont-elles intégrées aux fonds de renseignements généraux? En d'autrestermes, est-ce que tout le monde comprend bien ce que signifie l'expression\"sous le contrôle de l'institution\"lorsqu'on l'applique auxrenseignements détenus par des personnes?"
+  },
+  {
+    "en": "Information holdings meet the operational needs of the institution and satisfy legislative and policy requirements.",
+    "fr": "2.3.6 Est-ce que les utilisateurs trouvent utile le répertoire centrallorsqu'ils recherchent des renseignements? En d'autres termes, utilisent-ils enréalité le répertoire central? L'institution a-t-elle mis en place unsystème qui permet de mesurer la satisfaction des utilisateurs?"
+  },
+  {
+    "en": "3.1 The information requirements for operational, legislative and policy purposes are identified and analyzed.",
+    "fr": "2.3.7 Comment l'information est-elle saisie pour la mise à jour durépertoire des fonds de renseignements? Est-ce que le système assurel'intégrité et l'actualisation du répertoire? Est-ce que l'information estsaisie à partir de tous les supports, y compris des formules électroniques?"
+  },
+  {
+    "en": "3.1.1 Has the institution identified and categorized information users within and outside of the organization? Have the information needs of users been identified? Have information holdings been analyzed to determine if the information needs of users can be satisfied by existing holdings?",
+    "fr": "Les fonds de renseignements répondent aux besoins opérationnels del'institution et satisfont aux exigences de la loi et des politiques."
+  },
+  {
+    "en": "3.1.2 Is dissemination of information to the public considered when planning new databases and information systems?",
+    "fr": "3.1 Les exigences en matière d'information sont identifiées et analyséesen regard des objectifs opérationnels, législatifs et politiques."
+  },
+  {
+    "en": "3.1.3 Has the value of information to users been assessed and balanced against the costs of providing the information?",
+    "fr": "3.1.1 Est-ce que l'institution a identifié et classé par catégories lesutilisateurs de renseignements internes et externes? Les besoins en informationdes utilisateurs ont-ils été identifiés? Est-ce que les fonds derenseignements ont été analysés afin de déterminer si les besoins eninformation des utilisateurs peuvent être satisfaits par les fonds existants?"
+  },
+  {
+    "en": "3.1.4 Does the annual planning process for short- and long-term operational needs include analysis and planning of requirements for information holdings? Where program or subject matter representatives have planned substantive changes in their operations, have the related information needs been analyzed? Is information treated as a resource for planning purposes on the same basis as finance, personnel and assets?",
+    "fr": "3.1.2 Est-ce que la diffusion de l'information au public est prise en comptelors de la planification de nouvelles bases de données et de systèmesinformatiques?"
+  },
+  {
+    "en": "3.1.5 For any new operational, legislative or policy requirements, are information needs identified, together with related information system requirements? (MGIH policy, requirement 2.) When was this done, and by whom?",
+    "fr": "3.1.3 Est-ce que la valeur de l'information destinée aux utilisateurs aété évaluée et comparée en regard des coûts nécessaires à la fournituredes renseignements?"
+  },
+  {
+    "en": "3.1.6 Is duplication of holdings and technology applications avoided? Are the new information needs compared to existing holdings and information systems, both within the institution and those available outside the institution?",
+    "fr": "3.1.4 Est-ce que le processus de planification annuel des besoinsopérationnels à court et à long terme inclut l'analyse et la planificationdes fonds de renseignements requis? Lorsque des spécialistes d'un programme oud'un sujet ont planifié d'importants changements dans leurs opérations,ont-ils analysé les besoins en information applicables? Est-ce quel'information est traitée comme une ressource servant à la planification, aumême titre que les ressources financières, humaines et physiques?"
+  },
+  {
+    "en": "3.2 Information management plans are coordinated with the support requirements for corporate and operational information holdings.",
+    "fr": "3.1.5 Pour toute nouvelle exigence opérationnelle, législative oupolitique, est-ce que les besoins en information sont identifiés, en mêmetemps que les exigences du système informatique applicable (politique sur laGRDG, exigence 2)? Qui a procédé à cette identification la dernière fois, etquand?"
+  },
+  {
+    "en": "3.2.1 Do information management plans respond to program and management requirements for information, including the technological tools required to access, retrieve and use information?",
+    "fr": "3.1.6 évite-t-on la duplication portant sur les fonds et les applicationstechnologiques? Compare-t-on les nouveaux besoins en information aux systèmesinformatiques et fonds existants, aussi bien à l'intérieur qu'à l'extérieurde l'institution?"
+  },
+  {
+    "en": "3.2.2 To what extent are information holdings specialists (e.g. records managers, librarians, etc.) involved in information management planning, including the technology planning aspects? Often the responsibility for technology planning and acquisition is delegated to programs, branches and regions in order to better meet operational needs. The question becomes to what extent the need of information holdings for technological support is coordinated with the planning and acquisition of information technology? For example, is a reasonable proportion of the time spent on technology planning and the money spent on technology acquisition devoted to ensuring that the institution's information technologies are compatible?",
+    "fr": "3.2 Les plans de gestion de l'information sont coordonnés avec les exigencesrelatives aux fonds de renseignements centraux et opérationnels."
+  },
+  {
+    "en": "3.2.3 Prior to proposing or developing new information systems, have existing information systems been assessed for their efficiency and effectiveness? (For further reference to the review of new computer systems, see the OCG's Guide to the Audit of Systems Under Development.)",
+    "fr": "3.2.1 Est-ce que les plans de gestion de l'information répondent auxexigences en matière d'information des programmes et de la gestion, y comprisles outils technologiques nécessaires à l'accès, au repérage et àl'utilisation de l'information?"
+  },
+  {
+    "en": "3.2.4 Has the institution looked at ways of decreasing costs or providing more productivity or value with existing systems, either by combining systems, using new technologies, or using standardized applications? Does this assessment cover all stages of the information life cycle?",
+    "fr": "3.2.2 Dans quelle mesure les spécialistes des fonds de renseignements(gestionnaires de documents, bibliothécaires, etc.) participent à laplanification de la gestion de l'information, y compris aux aspects liés à laplanification de la technologie? Souvent, la responsabilité en matière deplanification et d'acquisition technologiques est déléguée aux responsablesdes programmes, des directions et des régions afin de mieux répondre auxbesoins opérationnels. Il convient alors de se demander dans quelle mesure lesoutien technologique des fonds de renseignements est coordonné avec laplanification et l'acquisition des technologies de l'information. Par exemple,est-ce qu'une partie raisonnable du temps consacré à la planificationtechnologique et des sommes consacrées à l'acquisition technologique assureque les technologies de l'information de l'institution sont compatibles?"
+  },
+  {
+    "en": "3.3 Opportunities for information technology applications are assessed in relation to information holdings requirements.",
+    "fr": "3.2.3 Avant de proposer ou de développer de nouveaux systèmesinformatiques, a-t-on évalué les systèmes informatiques existants quant àleur efficacité et leur rendement? (Pour plus de renseignements sur la revuedes nouveaux systèmes informatiques, voir le Guide de vérification dessystèmes en cours d'élaboration, préparé par le BCG.)"
+  },
+  {
+    "en": "3.3.1 How are potential technology applications identified and analyzed for information holdings which are not in electronic form? (For example, in some government departments, maps and blueprints are now created in digital form, but how far should these departments go to convert existing hard copy blueprints to digital form?) How is this analysis linked with corporate information technology planning and preparation of the institutions' Information Management Plan?",
+    "fr": "3.2.4 L'institution a-t-elle envisagé des façons de diminuer les coûts oud'augmenter la productivité ou la valeur des systèmes existants, soit en lescombinant, soit en utilisant de nouvelles technologies, soit encore en faisantappel à des applications normalisées? Est-ce que cette évaluation couvretoutes les étapes du cycle de vie de l'information?"
+  },
+  {
+    "en": "3.3.2 To what extent are information technology purchases based on the need to support information holdings? Are technology acquisitions made because they are needed to meet the functional requirements of both the institution and users?",
+    "fr": "3.3 Les options en matière d'applications des technologies de l'informationsont évaluées en relation avec les exigences relatives aux fonds derenseignements."
+  },
+  {
+    "en": "3.3.3 To what extent are information technology alternatives considered and related to information holding support requirements as well as to user needs for such things as information transmission, retrieval and use? How do these information technology choices compare to alternatives in terms of costs, benefits, etc? (For further reference, see the OCG's Guide to the Audit of End-User Computing.)",
+    "fr": "3.3.1 Comment les applications technologiques potentielles sont-ellesidentifiées et analysées quant aux fonds de renseignements qui ne sont passous forme électronique? (Par exemple, dans certains départementsministériels, on crée maintenant des cartes et des bleus sous formenumérique; mais jusqu'où ces départements devraient-ils aller pour convertirsous forme numérique les bleus qui sont sur papier?) Comment cette analyseest-elle liée à la planification centrale des technologies de l'information età la préparation du Plan de gestion de l'information des institutions?"
+  },
+  {
+    "en": "3.3.4 Does the methodology for developing automated information systems take the need to support information holdings into account? When new automated information systems are planned and implemented, are the MGIH requirements identified?",
+    "fr": "3.3.2 Dans quelle mesure les achats de technologies de l'information sefondent-ils sur le besoin d'appuyer les fonds de renseignements? Est-ce que lesacquisitions de technologies sont faites parce qu'elles permettent de satisfaireà la fois aux exigences fonctionnelles de l'institution et à celles desutilisateurs?"
+  },
+  {
+    "en": "The institution collects, creates and receives only the information that is necessary to meet its operational, legislative and policy requirements.",
+    "fr": "3.3.3 Dans quelle mesure tient-on compte des technologies de rechange et lesrelie-t-on aux exigences relatives aux fonds de renseignements, ainsi qu'auxbesoins des utilisateurs, notamment en transmission, repérage et utilisation del'information? Comment ces choix relatifs aux technologies de l'information secomparent-ils aux solutions de rechange en ce qui a trait aux coûts, auxavantages, etc.? (Pour plus de renseignements, voir le Guide de vérification dela programmation par l'utilisateur ultime, préparé par le BCG.)"
+  },
+  {
+    "en": "4.1 The information collected or generated meets the identified needs.",
+    "fr": "3.3.4 Est-ce que la méthodologie qui régit la mise au point des systèmesd'information automatisés tient compte de la nécessité d'appuyer les fonds derenseignements? Lorsqu'on planifie et met en oeuvre de nouveaux systèmesd'information automatisés, est-ce que les exigences relatives à la politiquesur la GRDG sont identifiées?"
+  },
+  {
+    "en": "4.1.1 Are holdings periodically reviewed in order to determine if the information continues to meet identified needs? (MGIH policy, guideline 4.1.) Are users periodically consulted to determine if information collected, created and received continues to meet their needs? How is this done? How often is this done?",
+    "fr": "L'institution ne collecte, crée et reçoit que l'information nécessaire aurespect de ses exigences opérationnelles, législatives et politiques."
+  },
+  {
+    "en": "4.1.2 Where users are also information providers (i.e., they are partly self sufficient in the collection, creation and receipt of information), is the information which they gather or generate reviewed periodically to determine if it is relevant and meets identified needs? Do the holdings meet the key attributes of information (see page 10 of Guide)?",
+    "fr": "4.1 L'information recueillie ou générée satisfait aux besoins identifiés."
+  },
+  {
+    "en": "4.1.3 Does the institution periodically review the use to which information is put? Where information holdings are available to users, do they actually use them? A lot of information may be collected because a need was identified years ago. If the institution stopped collecting the information now, would any person or program be affected?",
+    "fr": "4.1.1 Est-ce que l'on effectue une revue périodique des fonds pourdéterminer si l'information répond toujours aux besoins identifiés (politiquesur la GRDG, directive 4.1)? Les utilisateurs sont-ils périodiquementconsultés pour déterminer si l'information collectée, créée et reçuerépond encore à leurs besoins? De quelle façon, et à quelle fréquence?"
+  },
+  {
+    "en": "4.1.4 Legislation or policies may demand that certain information be maintained by an institution. Are legislative and institution-specific policy requirements met as to information content?",
+    "fr": "4.1.2 Lorsque l'utilisateur se transforme en fournisseur d'information(c.-à-d. qu'à la fois il collecte, crée et reçoit de l'information),procède-t-on à une revue périodique de l'information qu'il collecte ouproduit, afin de déterminer si elle est pertinente et répond aux besoinsidentifiés? Est-ce que les fonds sont conformes aux principaux attributs del'information (voir la page 11 de ce guide)?"
+  },
+  {
+    "en": "4.1.5 Is unsolicited information received from outside the institution assessed for its relevance to the institution? Is the information transmitted quickly to the part of the institution responsible for dealing with that particular subject?",
+    "fr": "4.1.3 Est-ce que l'institution revoit périodiquement l'utilisation qui estfaite de l'information? Lorsque les fonds de renseignements sont accessibles auxutilisateurs, ces derniers y recourent-ils en réalité? On peut collecterbeaucoup d'information parce que l'on a identifié un besoin il y a des années.Si l'institution cessait de collecter l'information maintenant, celacompromettrait-il un programme ou nuirait-il à quelqu'un?"
+  },
+  {
+    "en": "4.2 Information collection is coordinated and meets with applicable requirements.",
+    "fr": "4.1.4 Les lois ou les politiques peuvent exiger qu'une institution tienne àjour certains renseignements. Est-ce que les exigences relatives à la loi etaux politiques propres à une institution sont satisfaites quant au contenu del'information?"
+  },
+  {
+    "en": "4.2.1 Does the institution have policies and plans for information collection, creation and receipt? Are these policies and plans linked to present and future user needs and/or legislative and policy requirements?",
+    "fr": "4.1.5 Est-ce que l'information extérieure non sollicitée reçue parl'institution est évaluée quant à sa pertinence pour cette dernière?L'information est-elle transmise rapidement au secteur de l'institution qui estchargé de traiter ce sujet spécifique?"
+  },
+  {
+    "en": "4.2.2 Is the coordination comprehensive? Are all information collection activities planned and accounted for, including those in the regions and various organizational units? Is information collection by agents (e.g. consultants) included? Are there controls in place to ensure that information collection policies are known throughout the institution and that collection plans are reported and coordinated at an early stage?",
+    "fr": "4.2 La collecte de l'information est coordonnée et répond aux exigencesapplicables."
+  },
+  {
+    "en": "4.2.3 Has the institution ensured that information collection conforms to the applicable standards? For example, does the institution consult the Public Opinion Research Group (Government Services Canada) regarding information collection which qualifies as, or contains a component of, public opinion research?",
+    "fr": "4.2.1 Est-ce que l'institution a élaboré des politiques et des plansrelatifs à la collecte, à la création et à la réception de l'information?Ces politiques et plans sont-ils reliés aux besoins présents et futurs desutilisateurs, ainsi qu'aux lois et politiques applicables?"
+  },
+  {
+    "en": "4.2.4 Is information periodically reviewed in order to ensure that the requirements of the Privacy Act are respected? This might be done during the annual update of personal information banks required by Section 11 of the Privacy Act. (MGIH policy, guideline 4.1.)",
+    "fr": "4.2.2 La coordination est-elle générale? Est-ce que toutes les activitésde collecte de l'information sont planifiées et prises en compte, y compriscelles des régions et des diverses unités organisationnelles? La collecte del'information par des agents (p. ex., des consultants) est-elle incluse? Descontrôles sont-ils prévus afin d'assurer que les politiques de collecte del'information sont diffusées dans toute l'institution, et que les plans decollecte sont consignés et coordonnés au début du processus?"
+  },
+  {
+    "en": "The institution avoids collecting, creating and receiving information that is already available in order to minimize costs and response burden. (MGIH policy, requirement 3.)",
+    "fr": "4.2.3 L'institution s'est-elle assurée que la collecte de l'information estconforme aux normes applicables? Par exemple, est-ce que l'institution consultele Groupe de recherche sur l'opinion publique (Services gouvernementaux Canada)en ce qui a trait à la collecte de l'information qui remplit les conditionsd'une recherche sur l'opinion publique, ou contient une composante de cettedernière?"
+  },
+  {
+    "en": "5.1 The costs of collecting, creating and receiving information are minimized. (MGIH policy, requirement 3.)",
+    "fr": "4.2.4 Est-ce que l'on revoit l'information de façon périodique afin des'assurer que les exigences de la Loi sur la protection des renseignementspersonnels sont satisfaites? On peut procéder à cette revue pendant la mise àjour annuelle des banques de renseignements personnels - section 11 de la Loisur la protection des renseignements personnels (politique sur la GRDG,directive 4.1)."
+  },
+  {
+    "en": "5.1.1 Does the institution know the costs of collecting, creating and receiving the information it uses? Given that users frequently collect, create and receive information themselves, are their costs (mainly time/salaries) identified, justified and kept to a minimum?",
+    "fr": "L'institution évite de recueillir, de créer ou de recevoir de l'informationqui est déjà disponible, afin de réduire au minimum les coûts et le fardeaudes répondants (politique sur la GRDG, exigence 3)."
+  },
+  {
+    "en": "5.1.2 Are the costs of collecting, creating and receiving information commensurate with its value to the institution and users?",
+    "fr": "5.1 Les coûts associés à la collecte, la création et la réception del'information sont minimisés (politique sur la GRDG, exigence 3)."
+  },
+  {
+    "en": "5.l.3 Where the same or similar information is collected, created and received for more than one user or one group of users, have opportunities been taken to meet common information needs through joint collection, joint creation or joint receipt of information? Where duplicate collection, creation and receipt of information exists, is it operationally and cost-justified?",
+    "fr": "5.1.1 Est-ce que l'institution connaît les coûts associés à la collecte,la création et la réception de l'information qu'elle utilise? étant donnéque les utilisateurs recueillent, créent et reçoivent souvent eux-mêmes lesrenseignements, est-ce que leurs coûts (principalement temps et salaires) sontidentifiés, justifiés et réduits au minimum?"
+  },
+  {
+    "en": "5.1.4 Before information is collected, created or received, are existing information holdings reviewed to determine if the information needs can be satisfied by existing holdings or readily accessible external information sources? Would the costs of acquiring new information be justified? Is the information collected, created or received by the institution actually used?",
+    "fr": "5.1.2 Est-ce que les coûts associés à la collecte, la création et laréception de l'information sont compatibles avec la valeur qu'elle représentepour l'institution et les utilisateurs?"
+  },
+  {
+    "en": "5.2 Response burden is minimized in the collection of information. (MGIH policy, requirement 3.)",
+    "fr": "5.1.3 Lorsque l'information recueillie, créée et reçue est identique ousemblable pour plusieurs utilisateurs ou groupes d'utilisateurs, a-t-on pris encompte les options pour répondre aux besoins communs en information par letruchement d'une collecte, d'une création ou d'une réception de l'informationconjointe? S'il y a duplication de collecte, de création et de réception del'information, ceci est-il justifié du point de vue opérationnel et du coût?"
+  },
+  {
+    "en": "5.2.1 Have respondents been identified and profiled in terms of the detail and frequency of the information being collected from them? (i.e., does the institution know what response burden it is currently placing on respondents?)",
+    "fr": "5.1.4 Avant que l'information ne soit recueillie, créée ou reçue, a-t-onprocédé à la revue des fonds de renseignements existants pour déterminer siles besoins en information peuvent être satisfaits par les fonds existants oules sources de renseignements externes facilement accessibles? Est-ce que lescoûts d'acquisition de nouveaux renseignements seraient justifiés?L'information collectée, créée ou reçue par l'institution est-elleréellement utilisée?"
+  },
+  {
+    "en": "5.2.2 Have opportunities been taken to undertake joint collection or information sharing with other institutions where feasible? (MGIH policy, requirement 3.) Where information collection does duplicate or overlap with that of other institutions, is the continuing collection of this information justified, either by the need for more detail, or the need for more up-to-date information?",
+    "fr": "5.2 Le fardeau administratif est réduit lors des collectes de l'information(politique sur la GRDG, exigence 3)."
+  },
+  {
+    "en": "5.3 Forms meet all statutory and policy requirements (MGIH policy, requirement 4).",
+    "fr": "5.2.1 Les répondants ont-ils été identifiés et leur profil a-t-il étéétabli quant aux détails et à la fréquence de l'information qu'ilsfournissent (c.-à-d. est-ce que l'institution est au courant du fardeauadministratif qu'elle impose actuellement à ses répondants?)?"
+  },
+  {
+    "en": "5.3.1 Are forms, in both paper and electronic media, reviewed before they are put into use to ensure that applicable requirements are met? By whom? Are all forms used by the institution reviewed? If not, why not?",
+    "fr": "5.2.2 A-t-on saisi les occasions d'entreprendre des collectes conjointementou de partager de l'information avec d'autres institutions lorsque c'étaitpossible? (politique sur la GRDG, exigence 3.) Lorsqu'une collecte d'informationfait double emploi avec celle d'autres institutions, ou lorsqu'il y achevauchement, la poursuite de cette collecte est-elle justifiée par le besoind'une information plus détaillée ou par celui d'une information plus à jour?"
+  },
+  {
+    "en": "Holdings are organized in order to make the widest possible use of information. (MGIH policy statement.)",
+    "fr": "5.3 Les imprimés administratifs sont conformes à toutes les exigencesrelatives aux lois et aux politiques (politique sur la GRDG, exigence 4)."
+  },
+  {
+    "en": "6.1 Information holdings are organized in order to facilitate efficient access and retrieval by users, subject to legal and policy constraints.",
+    "fr": "5.3.1 Les imprimés, qu'ils soient sous forme papier ou électronique,sont-ils revus avant qu'ils ne soient utilisés pour assurer le respect desexigences applicables? Qui s'en charge? Est-ce que tous les imprimés utiliséspar l'institution sont revus? Si non, pourquoi?"
+  },
+  {
+    "en": "6.1.1 Are users - both internal and external to the institution - satisfied with their access to and retrieval of information holdings? Is the information that users need available? Is it easy for them to retrieve? How is user satisfaction measured?",
+    "fr": "Les fonds de renseignements sont organisés de façon à optimiserl'utilisation de l'information (énoncé de la politique sur la GRDG)."
+  },
+  {
+    "en": "6.1.2 Do custodians of information holdings, e.g. Records Management, Library Services, Data Management, know the information needs of users? Do custodians tailor their services to better meet the needs of users for quick and easy access, e.g. retrieval response time, efficient and effective technology for transmission, friendly formats for use, etc? Do they tailor their services to meet user needs economically, efficiently and effectively? Do they use standards-based technology?",
+    "fr": "6.1 Les fonds de renseignements sont organisés de façon à en faciliterl'accès et la recherche par les utilisateurs, sous réserve des contraintesimposées par les lois et les politiques."
+  },
+  {
+    "en": "6.1.3 Are information holdings available for public dissemination? Are they sold to the public where appropriate and where there is significant demand? (MGIH policy, requirement 5.) Is the Depository Library System used to make information more widely available to the public?",
+    "fr": "6.1.1 Est-ce que tous les utilisateurs - qu'ils soient à l'intérieur ou àl'extérieur de l'institution - sont satisfaits de leur accès aux fonds derenseignements et du repérage de ces fonds? L'information dont les utilisateursont besoin est-elle accessible? Y ont-ils accès facilement? Comment lasatisfaction des utilisateurs est-elle mesurée?"
+  },
+  {
+    "en": "6.1.4 Are information holdings available for use by other institutions within the government, subject to any legal or policy constraints, e.g. the Privacy Act and the Government Security policy? (MGIH policy, requirement 5.)",
+    "fr": "6.1.2 Les responsables des fonds de renseignements - Gestion des documents,Services de bibliothèque, Gestion des données - connaissent-ils les besoins eninformation des utilisateurs? Est-ce qu'ils adaptent leurs services afin demieux répondre aux utilisateurs qui recherchent un accès rapide et facile - p.ex., temps de réponse d'une interrogation, technologie de transmission efficaceet rentable, formats d'utilisation conviviaux, etc.? Adaptent-ils leurs servicesafin de répondre aux besoins des utilisateurs de façon économique, efficaceet rationnelle? Utilisent-ils des technologies normalisées?"
+  },
+  {
+    "en": "6.1.5 Does the institution have an up-to-date publications catalogue? Are all publications deposited in the institution's library? Is published material catalogued according to established standards? Is the resulting bibliographic information reported to the National Library's Union Catalogue or made available to other libraries by other means?",
+    "fr": "6.1.3 Est-ce que les fonds de renseignements peuvent être diffusés au grandpublic? Sont-ils vendus au public le cas échéant et lorsque la demande lejustifie (politique sur la GRDG, exigence 5)? Utilise-t-on le Système debibliothèque de dépôt pour rendre l'information plus largement accessible aupublic?"
+  },
+  {
+    "en": "6.1.6 Is all material published by the institution easily accessible to decision makers within the institution and available to the public on request? (MGIH policy, requirement 5.) Does this include \"grey literature\"? (MGIH policy, guideline 11)",
+    "fr": "6.1.4 Est-ce que les fonds de renseignements sont accessibles à d'autresinstitutions du gouvernement, sous réserve des contraintes imposées par leslois et les politiques - p. ex., la Loi sur la protection des renseignementspersonnels et la Politique du gouvernement du Canada sur la sécurité(politique sur la GRDG, exigence 5)?"
+  },
+  {
+    "en": "6.1.7 Are all confidences of the Queen's Privy Council managed in accordance with government-wide standards established by the Privy Council Office. (MGIH policy, requirement 1.)",
+    "fr": "6.1.5 Est-ce que l'institution dispose d'un catalogue des publications àjour? Est-ce que toutes les publications sont déposées à la bibliothèque del'institution? Le matériel publié est-il catalogué selon les normesétablies? L'information bibliographique produite est-elle consignée dans leCatalogue collectif de la Bibliothèque nationale, ou mise à la dispositiond'autres bibliothèques par d'autres moyens?"
+  },
+  {
+    "en": "6.2 Information holdings are identified and described in a manner that is meaningful to users.",
+    "fr": "6.1.6 Est-ce que tout le matériel publié par l'institution est facilementaccessible aux décideurs de l'institution et au public sur demande (politiquesur la GRDG, exigence 5)? Cela inclut-il la littérature grise (politique sur laGRDG, exigence 11)?"
+  },
+  {
+    "en": "6.2.1 Are users satisfied that the organization and description of information holdings are such that information holdings are rendered understandable and useable? Are information holdings identified and described such that users can easily and quickly find the information they need? Are the classification and thesaurus functions effective in helping users to identify and locate the information they need? Do the classification and thesaurus functions, as well as other means of identification and description, cross all media boundaries? Is grey literature identified and described so that users can have access to individual documents?",
+    "fr": "6.1.7 Est-ce que tous les documents confidentiels du Conseil privé de laReine pour le Canada sont administrés conformément aux normes gouvernementalesétablies par le Conseil privé (politique sur la GRDG, exigence 1)?"
+  },
+  {
+    "en": "6.2.2 Does the institution keep track of electronic information on a basis consistent with other forms of media? Information stored on different media may be located in different places, under the custody and control of different information specialists. Therefore a common identification function such as a common classification system is needed.",
+    "fr": "6.2 Les fonds de renseignements sont identifiés et décrits de façonsignificative pour les utilisateurs."
+  },
+  {
+    "en": "6.2.3 Are information holdings identified and described in the appropriate public reference sources for use by the public (e.g. InfoSource)? Is information effectively disseminated where there is a duty to inform the public? (MGIH policy, requirement 5.)",
+    "fr": "6.2.1 Est-ce que les utilisateurs sont satisfaits du fait que l'organisationet la description des fonds de renseignements les rend compréhensibles etfacilement exploitables? Les fonds de renseignements sont-ils identifiés etdécrits de façon que les utilisateurs puissent facilement et rapidement ytrouver l'information dont ils ont besoin? Les fonctions de classification et desynonymes permettent-elles d'aider l'utilisateur à identifier et localiser lerenseignement qu'il recherche? Est-ce que les fonctions de classification et desynonymes, ainsi que les autres moyens d'identification et de description, sontcompatibles avec tous les supports? La littérature grise est-elle identifiéeet décrite afin que les utilisateurs puissent accéder à des documentsparticuliers?"
+  },
+  {
+    "en": "Systems for information transmission, use and retrieval respond efficiently and effectively to the needs of users.",
+    "fr": "6.2.2 Est-ce que l'institution fait le suivi de l'information électroniquede façon compatible avec d'autres types de supports? L'information stockée surdifférents supports peut être placée dans différents endroits, sous lasupervision et le contrôle de différents spécialistes de l'information. Unefonction d'identification commune est donc nécessaire (p. ex., un système declassification commun)."
+  },
+  {
+    "en": "7.1 Levels of service - in terms of getting information to users - are identified and meet operational needs and user requirements.",
+    "fr": "6.2.3 Est-ce que les fonds de renseignements sont identifiés et décritsdans les sources de références publiques appropriées accessibles au public(p. ex., InfoSource)? L'information est-elle diffusée de façon efficace,partout où l'on est tenu d'informer le public (politique sur la GRDG, exigence5)?"
+  },
+  {
+    "en": "7.1.1 Does the institution attempt, on a periodic basis, to determine the level of user satisfaction with information products and services? Is formal feedback from users requested and received through mechanisms such as:",
+    "fr": "Les systèmes de transmission, d'utilisation et de repérage de l'informationrépondent de façon efficace et rentable aux besoins des utilisateurs."
+  },
+  {
+    "en": "7.1.2 Are the services of information specialists tailored to volume or demand requirements? Are resources shifted to meet changing user needs? Are considerations such as the following used:",
+    "fr": "7.1 Les niveaux de service ─ qui traduisent la facilité d'accès àl'information par les utilisateurs ─ sont identifiés et répondent auxbesoins opérationnels ainsi qu'aux exigences des utilisateurs."
+  },
+  {
+    "en": "7.2 Responsiveness to users is balanced against cost effectiveness.",
+    "fr": "7.1.1 Est-ce que l'institution essaie, sur une base périodique, dedéterminer le niveau de satisfaction de l'utilisateur qui a recours à desproduits et des services informationnels? Demande-t-on aux utilisateurs leursréactions et les reçoit-on par le truchement de mécanismes tels que :"
+  },
+  {
+    "en": "7.2.1 Has the institution determined the full costs of existing information systems and services? Has the institution compared the cost of the existing systems and services to possible alternatives? Has the institution looked for ways of decreasing costs, e.g. by combining systems or dropping little used services or features?",
+    "fr": "7.1.2 Est-ce que les services des spécialistes de l'information sontadaptés aux exigences du volume et de la demande? Les ressources sont-ellesréaffectées afin de permettre de répondre aux besoins changeants desutilisateurs? Les facteurs, tels que ceux qui suivent, sont-ilsconsidérés :"
+  },
+  {
+    "en": "7.2.2 Where new systems are developed, is there a requirement to integrate them with existing systems and/or to justify costs?",
+    "fr": "7.2 La capacité de répondre aux utilisateurs est comparée à une analysecoût-efficacité."
+  },
+  {
+    "en": "The institution maintains information while it has operational value in terms of supporting decision making, program operations and service delivery and while it is required to meet legislative and policy requirements.",
+    "fr": "7.2.1 Est-ce que l'institution a déterminé les coûts intégraux dessystèmes et services d'informations existants? A-t-elle comparé le coût dessystèmes et services existants à d'autres solutions de rechange? L'institutiona-t-elle envisagé des mesures de réduction des coûts - p. ex., en combinantdes systèmes ou en abandonnant des services ou ressources peu utilisés?"
+  },
+  {
+    "en": "8.1 The institution has identified and is protecting and retaining information on its projects, programs and policies to ensure continuity in the management of the organization. (MGIH policy, requirement 6.)",
+    "fr": "7.2.2 Lorsqu'on met au point de nouveaux systèmes, est-on tenu de lesintégrer à des systèmes existants ou d'en justifier les coûts?"
+  },
+  {
+    "en": "8.1.1 Does the institution identify and protect its essential information holdings (as defined in the Guide to the Preservation of Essential Records published by Emergency Preparedness Canada)? (MGIH policy, requirement 4.)",
+    "fr": "L'institution conserve l'information tant que celle-ci présente une valeuropérationnelle en ce qui a trait à la prise de décisions, à l'exploitationde programmes et à la prestation de services, et tant qu'elle est exigée parles lois et politiques applicables."
+  },
+  {
+    "en": "8.1.2 Is the way that information is stored and protected appropriate to the institution's operational needs and legislative and policy requirements? For example, do the storage media and location permit quick and easy access and retrieval by users?",
+    "fr": "8.1 L'institution a identifié des renseignements qu'elle protège etconserve pour ses projets, programmes et politiques, afin d'assurer unecontinuité dans la gestion de l'organisation (politique sur la GRDG, exigence6)."
+  },
+  {
+    "en": "8.1.3 Do protection measures prevent unauthorized access, retrieval, use, alteration, inadvertent loss or unauthorized destruction? Do protection measures provide for the survival of the environment in which information is held? Can important information be recovered in the event of a disaster?",
+    "fr": "8.1.1 Est-ce que l'institution identifie et protège ses fonds derenseignements essentiels - selon la définition donnée dans le Guide sur laconservation des documents essentiels publié par Protection civile Canada(politique sur la GRDG, exigence 4)?"
+  },
+  {
+    "en": "8.2 Storage and protection methods balance operational, legal and user requirements.",
+    "fr": "8.1.2 Est-ce que la façon dont l'information est stockée et protégéeconvient aux besoins opérationnels de l'institution, ainsi qu'aux exigences deslois et des politiques applicables? Par exemple, est-ce que le supportd'entreposage et son emplacement permettent un accès et un repérage rapides etfaciles par les utilisateurs?"
+  },
+  {
+    "en": "8.2.1 Are users satisfied that information holdings are useable, i.e. the holdings are in a form that can be used by the persons who need the information? Where holdings are stored on a medium other than paper, do users have the tools to gain access to the information? For example, if information is held in microform (microfilm or microfiche) is it immediately useable by those who need it or must it be transferred to another medium first? If a transfer of medium is necessary, can the information still be provided to users in a timely fashion?",
+    "fr": "8.1.3 Est-ce que les mesures de protection de l'information empêchentl'accès, le repérage et l'utilisation non autorisés, de même quel'altération, la perte par inadvertance ou la destruction non autorisée? Cesmêmes mesures assurent-elles la préservation de l'environnement dans lequelles renseignements sont conservés? En cas de désastre, l'information critiquepeut-elle être récupérée?"
+  },
+  {
+    "en": "8.2.2 Do protection measures satisfy legal and policy requirements without undue interference to users? For example, access to holdings should not be unnecessarily restricted because they have been over-classified (e.g. as \"Confidential\" or \"Secret\").",
+    "fr": "8.2 Les méthodes d'entreposage et de protection sont conformes aux exigencesopérationnelles et législatives, ainsi qu'à celles des utilisateurs."
+  },
+  {
+    "en": "8.2.3 Is the level of protection commensurate with the level of risk and does it take into consideration user requirements for access and use?",
+    "fr": "8.2.1 Est-ce que les utilisateurs sont satisfaits que les fonds derenseignements sont exploitables, c.-à-d. que les fonds sont dans une formefacilement utilisable par les personnes qui ont besoin de l'information? Lorsqueles fonds sont entreposés sur un support qui n'est pas du papier, lesutilisateurs ont-ils les outils qui leur permettent d'avoir accès àl'information? Par exemple, si celle-ci est conservée sur microforme (microfilmou microfiche), est-elle utilisable immédiatement par ceux qui en ont besoin,ou doit-elle être transférée d'abord sur un autre support? Si un transfert desupport est nécessaire, est-ce que l'information est toujours accessible auxutilisateurs dans les délais?"
+  },
+  {
+    "en": "8.3 Information storage, protection and retention methods and costs are justified.",
+    "fr": "8.2.2 Les mesures de protection satisfont-elles aux exigences des lois et despolitiques sans trop de perturbations pour les utilisateurs? Par exemple,l'accès aux fonds ne doit pas être inutilement restreint sous prétexte qu'ilsont été surclassifiés (p. ex., code \"confidentiel\"ou \"secret)."
+  },
+  {
+    "en": "8.3.1 Is there an institution policy to permit individuals to hold information? Where individuals hold information, (e.g. on paper files, computer memory and diskettes) is this in fact consistent with the institution's policy for the custody of information holdings?",
+    "fr": "8.2.3 Le niveau de protection est-il compatible avec le niveau de risque, ettient-il compte des exigences de l'utilisateur quant à l'accès etl'utilisation?"
+  },
+  {
+    "en": "8.3.2 Do managers and staff understand that their files and computer workspace are included in the scope of legislative and policy requirements applicable to information holdings, e.g. the Privacy Act, Access to Information Act, National Archives of Canada Act, National Library Act, Government Security policy, Management of Government Information Holdings policy, Management of Information Technology policy, etc? In practice, the institution's information holdings specialists, records managers, librarians, data administrators, etc., cannot know what information each individual manager and staff member is holding. It is the responsibility of all employees to ensure the proper management of information holdings in accordance with applicable requirements.",
+    "fr": "8.3 L'entreposage, la protection ainsi que les coûts et méthodes deconservation de l'information sont justifiés."
+  },
+  {
+    "en": "8.3.3 Where individuals hold information, are all the associated costs recognized and justified? What is the cost of the storage area and computer memory? What is the cost of sorting and searching through additional quantities of information trying to locate specific information? How do these costs compare to using a corporate system to hold the same information? Obviously users will always prefer to hold some of their information. The question is to what extent is it operationally and cost-justified?",
+    "fr": "8.3.1 Existe-t-il une politique de l'institution qui permette à despersonnes de détenir des renseignements? Lorsque des personnes détiennent desrenseignements (p. ex., sur dossier papier, en mémoire ou sur disquetted'ordinateur), cela est-il conforme à la politique de l'institution en matièrede responsabilité des fonds de renseignements?"
+  },
+  {
+    "en": "8.3.4 Do information storage and protection methods conform to government-wide standards for the transmission, maintenance and protection of information holdings (MGIH policy, requirement 4)?",
+    "fr": "8.3.2 Les gestionnaires et le personnel comprennent-ils que leurs fichiers etzones de travail sont régis par les lois et politiques applicables aux fonds derenseignements - p. ex., la Loi sur la protection des renseignements personnels,la Loi sur l'accès à l'information, la Loi sur les Archives nationales duCanada, la Loi sur la Bibliothèque nationale, la Politique du gouvernement duCanada sur la sécurité, la Politique sur la gestion des renseignementsdétenus par le gouvernement, la Politique sur la gestion des technologies del'information, etc.? En pratique, les spécialistes des fonds de renseignementsde l'institution, les gestionnaires de documents, les bibliothécaires, lesadministrateurs de données, etc., ne connaissent pas l'information que détientchaque gestionnaire ou membre du personnel. Il incombe à tous les employésd'assurer la gestion appropriée des fonds de renseignements, conformément auxexigences applicables."
+  },
+  {
+    "en": "8.3.5 Does the institution balance frequency and convenience of retrieval against storage costs regarding information not frequently or urgently required? For example, is older electronic information down-loaded from main memory? Are less active records moved from main office areas to specialized, lower-cost storage facilities?",
+    "fr": "8.3.3 Lorsque des personnes détiennent des renseignements, est-ce que tousles coûts associés sont reconnus et justifiés? Quel est le coût de l'aired'entreposage et de la mémoire informatique? Quel est le coût associé au triet à la recherche de quantités supplémentaires de renseignements lorsqu'onessaie de localiser une information particulière? Comment ces coûts secomparent-ils à ceux d'un système central qui contiendrait la mêmeinformation? Bien entendu, les utilisateurs préféreront toujours conservereux-mêmes certains renseignements. La question est de savoir quelle en est lajustification opérationnelle et financière."
+  },
+  {
+    "en": "Information holdings that serve to reconstruct the evolution of policy and program decisions are retained. (MGIH policy statement.)",
+    "fr": "8.3.4 Est-ce que les méthodes d'entreposage et de protection del'information sont conformes aux normes gouvernementales qui régissent latransmission, la mise à jour et la protection des fonds de renseignements(politique sur la GRDG, exigence 4)?"
+  },
+  {
+    "en": "9.1 The institution has a systematic process to ensure that information of enduring value which documents the evolution of the institution's policies, programs and major decisions is identified and retained. (MGIH policy, requirement 6.)",
+    "fr": "8.3.5 Est-ce que l'institution compare la fréquence et la commodité durepérage aux coûts d'entreposage de l'information qui n'est requise ni souventni de façon urgente? Par exemple, l'information électronique quelque peuancienne est-elle déchargée de la mémoire centrale? Les documents moinsactifs sont-ils transférés des principales aires de bureau vers desinstallations d'entreposage spécialisées à moindre coût?"
+  },
+  {
+    "en": "9.1.1 Has the institution identified what information should be retained in order to preserve the corporate memory?",
+    "fr": "Les fonds de renseignements qui servent à reconstruire l'évolution desdécisions relatives aux politiques et aux programmes sont conservés (énoncéde la politique sur la GRDG)."
+  },
+  {
+    "en": "9.1.2 Is this information stored and protected for long-term preservation? For example, will the storage media permit retrieval and use of this information for many years into the future?",
+    "fr": "9.1 L'institution dispose d'un processus systématique visant à assurer quel'information de valeur durable qui documente l'évolution des politiques, desprogrammes et des principales décisions de l'institution, est bien identifiéeet conservée (politique sur la GRDG, exigence 6)."
+  },
+  {
+    "en": "9.1.3 Are institutional publications stored and protected in the institution's library?",
+    "fr": "9.1.1 L'institution a-t-elle identifié l'information qu'elle doit conserverafin de préserver la mémoire institutionnelle?"
+  },
+  {
+    "en": "9.1.4 Have migration strategies been implemented in order to convert information held in media with a short-term life to media with a long-term life? For example, compact discs have an estimated ten-year life before oxidation causes decay of the recorded information. New copies will have to be made periodically.",
+    "fr": "9.1.2 Cette information est-elle entreposée et protégée en vue d'uneconservation à long terme? Par exemple, est-ce que les supports de stockagepermettront d'extraire et d'utiliser cette information pendant de nombreusesannées à venir?"
+  },
+  {
+    "en": "9.1.5 Are storage and retention practices for this information designed to protect against loss or destruction? Are originals kept secure, and copies made available for use?",
+    "fr": "9.1.3 Les publications de l'institution sont-elles entreposées etprotégées dans sa bibliothèque?"
+  },
+  {
+    "en": "9.1.6 Has the institution developed any documentation of its history, case studies or profiles in conjunction with the Canadian Centre for Management Development? (MGIH policy, guideline 10.)",
+    "fr": "9.1.4 Est-ce que des stratégies de transfert ont été mises en oeuvre pourdéplacer l'information entreposée sur des supports à courte durée de vievers des supports à longue durée de vie? Par exemple, les disques compacts ontune durée de vie estimée à 10 ans avant que l'oxydation ne commence àdétériorer l'information enregistrée. Il faudra donc en faire de nouvellescopies de façon périodique."
+  },
+  {
+    "en": "Information holdings are disposed of through destruction or by transfer to the control of the National Archives or National Library, or to organizations outside the control of the Government of Canada, in accordance with the requirements of the National Archives of Canada Act and the National Library Act.",
+    "fr": "9.1.5 Est-ce que les méthodes d'entreposage et de conservation de cetteinformation sont conçues pour la protéger contre la perte ou la destruction?Les originaux sont-ils gardés en toute sécurité, et a-t-on fait des copies detravail?"
+  },
+  {
+    "en": "10.1 All information holdings which are records (i.e. except published material) are scheduled for retention and disposal. (MGIH policy, requirement 6.)",
+    "fr": "9.1.6 L'institution a-t-elle élaboré une documentation sur son évolution,des études de cas ou des profils conjointement avec le Centre canadien degestion (politique sur la GRDG, directive 10)?"
+  },
+  {
+    "en": "10.1.1 Have all such information holdings in all media and in all locations been assigned retention periods? In the setting of retention periods, has duplication of holdings in different media and/or in different locations been considered?",
+    "fr": "On se défait des fonds de renseignements par destruction ou transfert aucontrôle des Archives nationales ou de la Bibliothèque nationale, ou encore àdes organisations extérieures au gouvernement du Canada, conformément auxexigences de la Loi sur les Archives nationales du Canada et la Loi sur laBibliothèque nationale."
+  },
+  {
+    "en": "10.1.2 Do the retention periods reflect the operational, fiscal and legal values that the information holdings have?",
+    "fr": "10.1 On doit établir un calendrier de conservation et de disposition de tousles fonds de renseignements qui sont des documents, à l'exception du matérielpublié (politique sur la GRDG, exigence 6)."
+  },
+  {
+    "en": "10.1.3 In the setting of retention periods, have the following costs been considered:",
+    "fr": "10.1.1 Est-ce qu'on a attribué des délais de conservation aux fonds derenseignements ainsi définis, quels que soient leur support et l'endroit oùils se trouvent? Lors de l'établissement des délais de conservation, a-t-onpris en compte la duplication des fonds sur différents supports ou dansdifférents emplacements?"
+  },
+  {
+    "en": "10.2 The disposition of records occurs in accordance with the requirements of subsections 5(1), 6(1) and 6(3) of the National Archives of Canada Act.",
+    "fr": "10.1.2 Est-ce que les délais de conservation reflètent les valeursadministrative, fiscale et juridique que les fonds de renseignements possèdent?"
+  },
+  {
+    "en": "10.2.1 Has the consent of the National Archivist been obtained for the disposition (including alienation) of all records in all media and in all locations? If not, has the institution made plans with the National Archives to obtain this consent?",
+    "fr": "10.1.3 Lors de l'établissement des délais de conservation, a-t-on pris encompte les coûts suivants :"
+  },
+  {
+    "en": "10.2.2 Where the consent of the National Archivist for the disposition of records has not yet been obtained, are records, in the meantime, protected from destruction, deterioration or loss?",
+    "fr": "coûts de stockage sur ordinateur ou d'entreposage non informatisé pour des fonds de renseignements actifs et inactifs?"
+  },
+  {
+    "en": "10.2.3 Has a Plan covering records disposition activities been signed with the National Archives? If not, when is a Plan to be signed?",
+    "fr": "coûts reliés au repérage et à la manipulation de l'information?"
+  },
+  {
+    "en": "10.2.4 If a Plan has been signed, is the institution meeting its commitments under the Plan?",
+    "fr": "coûts reliés au transfert de l'information vers d'autres technologies afin d'en assurer l'accessibilité continue?"
+  },
+  {
+    "en": "10.2.5 Is the institution transferring archival and historical records to the National Archives in accordance with the terms and conditions agreed upon for their transfer?",
+    "fr": "10.2 La disposition des documents a lieu conformément aux exigences desparagraphes 5(1), 6(1) et 6(3) de la Loi sur les Archives nationales du Canada."
+  },
+  {
+    "en": "10.2.6 Where the National Archivist has consented to the destruction of records, is the institution destroying such records in accordance with the records retention schedule the institution has established for the records?",
+    "fr": "10.2.1 L'institution a-t-elle obtenu l'autorisation de l'Archiviste nationalportant sur la disposition (y compris l'aliénation) de tous les documents quelsque soient leur support et leur emplacement? Si non, a-t-elle entrepris lesdémarches auprès des Archives nationales afin d'obtenir cette autorisation?"
+  },
+  {
+    "en": "10.2.7 Where the National Archivist has consented to the alienation of records, has the institution transferred the records to the jurisdiction concerned?",
+    "fr": "10.2.2 Lorsque l'autorisation de l'Archiviste national portant sur ladisposition des documents n'a pas encore été accordée, est-ce que lesdocuments sont protégés dans l'intervalle contre toute destruction,détérioration ou perte?"
+  },
+  {
+    "en": "10.2.8 Have the records of agencies or programs which have ceased been transferred to the care and control of the National Archivist (where these records are not required by the institution or by any other federal institution)?",
+    "fr": "10.2.3 Est-ce qu'un Plan couvrant les activités de disposition des documentsa été signé avec les Archives nationales? Sinon, quand une telle signatureest-elle prévue?"
+  },
+  {
+    "en": "10.3 Published material is disposed of in accordance with the requirements of the National Library Act.",
+    "fr": "10.2.4 Si un Plan a été signé, l'institution respecte-t-elle sesengagements décrits dans le Plan?"
+  },
+  {
+    "en": "10.3.1 Does the institution have a library collection policy which includes the requirement for periodic inventory reviews (weeding)?",
+    "fr": "10.2.5 Le transfert par l'institution de documents archivistiques ethistoriques aux Archives nationales se déroule-t-il conformément auxmodalités acceptées?"
+  },
+  {
+    "en": "10.3.2 Does the library collection policy include criteria for identifying surplus material?",
+    "fr": "10.2.6 Lorsque l'Archiviste national a autorisé la destruction de documents,est-ce que l'institution y procède conformément aux délais de conservationqu'elle a établis pour les documents?"
+  },
+  {
+    "en": "10.3.3 Does the institution's library coordinate the disposal of all surplus published material belonging to the institution, both government publications and other published material?",
+    "fr": "10.2.7 Lorsque l'Archiviste national a autorisé l'aliénation de documents,l'institution a-t-elle transféré les documents à la juridiction concernée?"
+  },
+  {
+    "en": "10.3.4 Does the institution consult the Canadian Book Exchange Centre (CBEC) of the National Library regarding disposal of surplus published material, including surplus stocks of institutional publications?",
+    "fr": "10.2.8 Est-ce que les documents des organismes ou des programmes abolis ontété transférés à la garde et au contrôle de l'Archiviste national (lorsqueces documents ne sont pas requis par l'institution ou par toute autreinstitution fédérale)?"
+  },
+  {
+    "en": "10.3.5 Does the institution follow the direction of the CBEC when disposing of surplus publications?",
+    "fr": "10.3 On se défait du matériel publié, conformément aux exigences de laLoi sur la Bibliothèque nationale."
+  },
+  {
+    "en": "Communications Canada",
+    "fr": "10.3.1 Est-ce que l'institution possède une politique de développement descollections, qui exige des revues périodiques de son répertoire (épuration)?"
+  },
+  {
+    "en": "Energy, Mines and Resources Canada",
+    "fr": "10.3.2 Est-ce que la Politique de développement des collections comporte descritères qui permettent d'identifier les documents en trop?"
+  },
+  {
+    "en": "Environment Canada",
+    "fr": "10.3.3 Est-ce que la bibliothèque de l'institution coordonne la dispositionde tout le matériel publié en surnombre qui lui appartient, qu'il s'agisse despublications gouvernementales et de tout autre matériel publié?"
+  },
+  {
+    "en": "Finance Canada",
+    "fr": "10.3.4 Est-ce que l'institution consulte le Centre canadien d'échange dulivre (CCEL) de la Bibliothèque nationale en ce qui a trait à la dispositiondu matériel publié en surnombre, y compris des stocks en surnombre depublications institutionnelles?"
+  },
+  {
+    "en": "Health and Welfare Canada",
+    "fr": "Est-ce que l'institution suit la direction du CCEL lors de la disposition despublications en surnombre?"
+  },
+  {
+    "en": "Industry, Science and Technology Canada",
+    "fr": "Anciens Combattants Canada"
+  },
+  {
+    "en": "National Archives of Canada",
+    "fr": "Archives nationales du Canada"
+  },
+  {
+    "en": "National Defence",
+    "fr": "Bibliothèque nationale du Canada"
+  },
+  {
+    "en": "National Library of Canada",
+    "fr": "Bureau du Contrôleur général du Canada"
+  },
+  {
+    "en": "National Research Council Canada",
+    "fr": "Commission de la fonction publique"
+  },
+  {
+    "en": "Office of the Comptroller General",
+    "fr": "Communications Canada"
+  },
+  {
+    "en": "Public Service Commission of Canada",
+    "fr": "Conseil national de recherches du Canada"
+  },
+  {
+    "en": "Public Works Canada",
+    "fr": "Défense nationale"
+  },
+  {
+    "en": "Revenue Canada, Taxation",
+    "fr": "énergie, Mines et Ressources Canada"
+  },
+  {
+    "en": "Secretary of State of Canada",
+    "fr": "Environnement Canada"
+  },
+  {
+    "en": "Statistics Canada",
+    "fr": "Industrie, Sciences et Technologie Canada"
+  },
+  {
+    "en": "Government Services Canada",
+    "fr": "Ministère des Finances Canada"
+  },
+  {
+    "en": "Transport Canada",
+    "fr": "Revenu Canada Impôt"
+  },
+  {
+    "en": "Treasury Board Secretariat",
+    "fr": "Santé et Bien-être social Canada"
+  },
+  {
+    "en": "Veterans Affairs Canada",
+    "fr": "Secrétariat d'état du Canada"
+  },
+  {
+    "en": "Planning",
+    "fr": "Secrétariat du Conseil du Trésor"
+  },
+  {
+    "en": "Collection, creation, receipt",
+    "fr": "Services gouvernementaux Canada"
+  },
+  {
+    "en": "Organization, transmission, use and retrieval",
+    "fr": "Statistique Canada"
+  },
+  {
+    "en": "Storage, protection and retention",
+    "fr": "Transports Canada"
+  },
+  {
+    "en": "Disposition through transfer or destruction",
+    "fr": "Travaux publics Canada"
+  },
+  {
+    "en": "Available",
+    "fr": "Planification"
+  },
+  {
+    "en": "Understandable",
+    "fr": "Collecte, création et réception"
+  },
+  {
+    "en": "Useable",
+    "fr": "Organisation, transmission, utilisation et repérage"
+  },
+  {
+    "en": "Complete",
+    "fr": "Entreposage, protection et conservation"
+  },
+  {
+    "en": "Accurate",
+    "fr": "Disposition par transfert ou destruction"
+  },
+  {
+    "en": "Up-to-date",
+    "fr": "Accessibilité"
+  },
+  {
+    "en": "Corporate policy and planning",
+    "fr": "Compréhension"
+  },
+  {
+    "en": "Data management",
+    "fr": "Facilité d'utilisation"
+  },
+  {
+    "en": "Telecommunications",
+    "fr": "Intégrité"
+  },
+  {
+    "en": "Office systems and computer support",
+    "fr": "Précision"
+  },
+  {
+    "en": "Records management",
+    "fr": "Actualisation"
+  },
+  {
+    "en": "Library services",
+    "fr": "Politique et planification générales"
+  },
+  {
+    "en": "Information collection",
+    "fr": "Gestion des données"
+  },
+  {
+    "en": "Public opinion research",
+    "fr": "Télécommunications"
+  },
+  {
+    "en": "Forms management",
+    "fr": "Bureautique et soutien informatique"
+  },
+  {
+    "en": "Access to information",
+    "fr": "Gestion des documents"
+  },
+  {
+    "en": "Privacy",
+    "fr": "Services de bibliothèque"
+  },
+  {
+    "en": "Security",
+    "fr": "Collecte de l'information"
+  },
+  {
+    "en": "Ministers' offices (refer to MGIH Guideline 9 and the National Archives Act)",
+    "fr": "Recherche sur l'opinion publique"
+  },
+  {
+    "en": "paper",
+    "fr": "Gestion des imprimés administratifs"
+  },
+  {
+    "en": "maps",
+    "fr": "Accès à l'information"
+  },
+  {
+    "en": "photos",
+    "fr": "Protection des renseignements personnels"
+  },
+  {
+    "en": "films",
+    "fr": "Sécurité"
+  },
+  {
+    "en": "plans",
+    "fr": "Bureaux des ministres (voir la directive 9 de la politique sur la GRDG et la Loi sur les Archives nationales du Canada)"
+  },
+  {
+    "en": "videos",
+    "fr": "papier"
+  },
+  {
+    "en": "microfilms",
+    "fr": "cartes"
+  },
+  {
+    "en": "tapes",
+    "fr": "photographies"
+  },
+  {
+    "en": "user surveys?",
+    "fr": "films"
+  },
+  {
+    "en": "questionnaires distributed at the completion of major service cycles, or selected intervals?",
+    "fr": "plans"
+  },
+  {
+    "en": "participation of user representatives on information management committees designed to solicit input and feedback?",
+    "fr": "vidéos"
+  },
+  {
+    "en": "volume of activity, e.g. responses or information requests satisfied, on an annual basis?",
+    "fr": "microfilms"
+  },
+  {
+    "en": "response times for various types of requests?",
+    "fr": "bandes"
+  },
+  {
+    "en": "number of user complaints or problems?",
+    "fr": "enquêtes auprès des utilisateurs?"
+  },
+  {
+    "en": "computer and non-computer storage costs for both active and inactive information holdings?",
+    "fr": "questionnaires distribués à la fin d'importants cycles de service, ou à des intervalles particuliers?"
+  },
+  {
+    "en": "costs connected with the retrieval and/or manipulation of information?",
+    "fr": "participation de représentants des utilisateurs aux travaux de comités chargés de recueillir leurs suggestions et réactions?"
+  },
+  {
+    "en": "costs connected with the migration of information to different technologies to ensure its continued availability?",
+    "fr": "volume d'activité - p. ex., réponses ou demandes de renseignements fournies - sur une base annuelle?"
+  }
+]

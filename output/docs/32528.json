@@ -1,0 +1,242 @@
+[
+  {
+    "en": "This document is part of the Appendix A of the .",
+    "fr": "Ce document fait partie de l’Annexe A de la ."
+  },
+  {
+    "en": "Please note that a CPA Canada membership or an annual subscription is necessary to access this content.",
+    "fr": "Veuillez noter qu’une adhésion ou un abonnement à CPA Canada est nécessaire pour accéder à ce contenu."
+  },
+  {
+    "en": "PS 1201 Financial statement presentation",
+    "fr": "SP 1201 Présentation des états financiers"
+  },
+  {
+    "en": "The objective of this handbook section is to complement the Canadian Public Sector Accounting Handbook (PSAH) by providing specific policies related to the preparation of Departmental Financial Statements.",
+    "fr": "La présente section vise à compléter le Manuel de comptabilité pour le secteur public (MCSP) en fournissant des politiques particulières qui ont trait à la préparation des états financiers ministériels."
+  },
+  {
+    "en": "Departmental Financial Statements are published as part of the departmental results reporting process.",
+    "fr": "Les états financiers ministériels sont publiés dans le cadre du processus de rapports sur les résultats ministériels."
+  },
+  {
+    "en": "The departmental reporting entity comprises the activities for which the deputy head (DH), as the accounting officer, is expected to maintain accounting control. The departmental reporting entity is further described in GC 1300 Government Reporting Entity.",
+    "fr": "Le périmètre comptable d’un ministère englobe les activités pour lesquelles l’administrateur général, en tant qu’agent comptable, doit maintenir le contrôle comptable. Le document GC 1300 Périmètre comptable du gouvernement donne une description plus poussée de ce concept."
+  },
+  {
+    "en": "Departmental Financial Statements provide an accounting of the full nature and extent of the activities for which the DH is accountable and expected to maintain accounting control.",
+    "fr": "Les états financiers ministériels fournissent un compte rendu de la nature et de l’étendue réelles des activités dont l’administrateur général est responsable et pour lesquelles il doit maintenir le contrôle comptable."
+  },
+  {
+    "en": "Departmental Financial Statements include:",
+    "fr": "Les états financiers ministériels comprennent :"
+  },
+  {
+    "en": "A Statement of Financial Position;",
+    "fr": "un état de la situation financière;"
+  },
+  {
+    "en": "A Statement of Operations and Departmental Net Financial Position;",
+    "fr": "un état des résultats et de la situation financière nette ministérielle;"
+  },
+  {
+    "en": "A Statement of Change in Departmental Net Debt/Net Financial Asset;",
+    "fr": "un état de la variation de la dette nette ministérielle/des actifs financiers nets;"
+  },
+  {
+    "en": "A Statement of Cash Flows; and",
+    "fr": "un état des flux de trésorerie;"
+  },
+  {
+    "en": "Notes to the Financial Statements.",
+    "fr": "des notes relatives aux états financiers."
+  },
+  {
+    "en": "Pursuant to the , sections 4.1.8 and 4.2.13, a Statement of Management Responsibility including Internal Control over Financial Reporting signed by the DH and the Chief Financial Officer (CFO) accompanies the Departmental Financial Statements.",
+    "fr": "Conformément à la , articles 4.1.8 et 4.2.13, une déclaration de responsabilité de la direction englobant le contrôle interne exercé en matière de rapports financiers signer par l’administrateur général et le directeur financier accompagne également les états financiers ministériels."
+  },
+  {
+    "en": "Where Departmental Financial Statements are audited, the Auditor’s Report accompanies the Departmental Financial Statements.",
+    "fr": "Lorsque les états financiers ministériels font l’objet d’un audit, le rapport de l’auditeur y est joint."
+  },
+  {
+    "en": "Departmental Financial Statements are presented in accordance with PS 1201 Financial Statement Presentation. Requirements related to financial statement presentation are further described in GC 1201 Financial Statements Presentation. The Illustrative Departmental Financial Statements present a model set of financial statements. This model must be used in order to ensure presentation and disclosure consistency across departments.",
+    "fr": "La présentation des états financiers ministériels doit respecter la norme SP 1201 sur la présentation des états financiers. La norme GC 1201 Présentation des états financiers donne une description plus approfondie des exigences relatives à la présentation des états financiers. Les exemples d’états financiers ministériels comportent un modèle des divers états financiers. Ce modèle doit être utilisé pour assurer l’uniformité de la présentation et de l’information fournie par tous les ministères."
+  },
+  {
+    "en": "The PSAS requirements for the are further interpreted as follows:",
+    "fr": "Les exigences établies dans le MCSP en ce qui a trait à l’ sont interprétées plus précisément de la façon suivante :"
+  },
+  {
+    "en": "A distinction is made between financial assets that are available to discharge the department’s liabilities versus the ones that are not. Although the DH is expected to maintain accounting control of these financial assets, he or she has no authority regarding their disposition. As a result, financial assets that are not available to discharge the department’s liabilities are considered to be held on behalf of the Government of Canada and are presented as a reduction to the department’s gross financial assets. This distinction is further described in the Specific Items section below;",
+    "fr": "il existe une distinction entre les actifs financiers dont peut se servir le ministère pour s’acquitter de ses passifs et les autres. Même si les administrateurs généraux doivent maintenir le contrôle comptable de ces actifs financiers, ils n’ont aucun pouvoir quant à leur utilisation. Par conséquent, on considère que les actifs financiers dont le ministère ne peut pas se servir pour s’acquitter de ses passifs sont détenus pour le compte du gouvernement du Canada et sont présentés en réduction des actifs financiers bruts du ministère. Cette distinction est décrite de façon plus approfondie dans la section « Points précis », ci‐dessous;"
+  },
+  {
+    "en": "The “Amount due from the Consolidated Revenue Fund (CRF)” is presented as a financial asset because it represents a legitimate charge against authorities and it is available for use by the department in future periods without utilizing further authorities. Departments are permitted to net the amounts due from and the amounts due to the CRF and to present the balance as a financial asset or as a liability. The determination of the “Amount due from (to) the CRF” is further described in the Specific Items section below;",
+    "fr": "le « montant à recevoir du Trésor » est présenté comme un actif financier, car il constitue une charge légitime imputée aux autorisations et peut être utilisé par le ministère dans les exercices suivants sans nécessiter d’autres autorisations. Les ministères peuvent déduire les montants à recevoir du Trésor de ceux qui lui sont dus afin de présenter le solde en tant qu’actif ou passif. La notion de « montant à recevoir du Trésor » est décrite de façon plus approfondie dans la section « Points précis », ci‐dessous;"
+  },
+  {
+    "en": "Where liabilities are greater than financial assets, the result is a “Net Debt” and liabilities are presented before financial assets. Where financial assets are greater than liabilities, the result is a “Net Financial Asset” and financial assets are presented before liabilities; and",
+    "fr": "lorsque les passifs sont supérieurs aux actifs financiers, il en résulte une « dette nette » et ils sont présentés avant les actifs financiers; au contraire, lorsque les actifs financiers sont supérieurs aux passifs, il en résulte un « actif financier net » et les actifs financiers sont présentés avant les passifs;"
+  },
+  {
+    "en": "The residual amount remaining when the department’s total liabilities are deducted from its total assets is reported as the “Departmental Net Financial Position.”",
+    "fr": "la somme résiduelle obtenue par la déduction des passifs totaux du ministère des actifs totaux est indiquée dans « l’état de la situation financière nette ministérielle »."
+  },
+  {
+    "en": "The PSAS requirements for the are further interpreted as follows:",
+    "fr": "Les exigences établies dans le MCSP en ce qui a trait à l’ sont interprétées plus précisément de la façon suivante :"
+  },
+  {
+    "en": "Where the sum of all expenses is greater than the sum of all revenues, expenses are presented before revenues;",
+    "fr": "lorsque la somme de toutes les dépenses excède celle de tous les revenus, les dépenses sont présentées avant les revenus;"
+  },
+  {
+    "en": "Expenses are reported by core responsibility as determined by their results framework. Where a department has a very large number of core responsibilities, it may be appropriate to group certain core responsibilities together",
+    "fr": "Les dépenses sont imputées aux responsabilités essentielles telles que déterminé par leur cadre ministériel des résultats. Lorsqu’un ministère a un très grand nombre des responsabilités essentielles, il peut être approprié de regrouper certaines responsabilités essentielles ensemble."
+  },
+  {
+    "en": "Expenses incurred as a direct result of changes to a department’s “Financial assets held on behalf of Government” are considered to be incurred on behalf of the Government of Canada and are presented as a reduction to the department’s gross expenses. This distinction is further described in the Specific Items section below;",
+    "fr": "les dépenses qui sont directement attribuables aux changements survenus au titre des « actifs financiers détenus pour le compte du gouvernement » sont considérées comme ayant été effectuées au nom du gouvernement du Canada et sont présentées en réduction des dépenses brutes du ministère; cette distinction est décrite de façon plus approfondie dans la section « Points précis », ci‐dessous;"
+  },
+  {
+    "en": "A distinction is made between revenues that are respendable versus the ones that are not. Although the DH is expected to maintain accounting control of non-respendable revenues, he or she has no authority regarding their disposition. As a result, non-respendable revenues are considered to be earned on behalf of the Government of Canada and are presented as a reduction to the department’s gross revenues. This distinction is further described in the Specific Items section below;",
+    "fr": "une distinction est faite entre les revenus disponibles et ceux qui ne le sont pas; même si les administrateurs généraux doivent maintenir le contrôle comptable des revenus non disponibles, ils n’ont aucun pouvoir quant à leur utilisation; par conséquent, les revenus non disponibles sont considérés comme ayant été gagnés au nom du gouvernement du Canada et sont présentés en réduction des revenus bruts du ministère; cette distinction est décrite de façon plus approfondie dans la section « Points précis », ci‐dessous;"
+  },
+  {
+    "en": "The difference between the sum of all expenses and the sum of all revenues is reported as the “Net Cost (Net Results) of Operations Before Government Funding and Transfers”;",
+    "fr": "la différence entre la somme de toutes les dépenses et la somme de tous les revenus correspond au « coût de fonctionnement net (résultats nets) avant le financement et les transferts gouvernementaux »;"
+  },
+  {
+    "en": "Government funding and transfers is comprised of:",
+    "fr": "le financement et les transferts gouvernementaux incluent :"
+  },
+  {
+    "en": "The “Net Cash Provided by the Government of Canada,” as reported in the Statement of Cash Flows;",
+    "fr": "« l’encaisse nette fournie par le gouvernement du Canada », telle qu’elle figure dans l’état des flux de trésorerie;"
+  },
+  {
+    "en": "The change in the “Amount due from (to) the CRF”;",
+    "fr": "la variation au titre du « montant à recevoir du Trésor ou dû au Trésor »;"
+  },
+  {
+    "en": "The recognized amount of services provided without charge by other government entities; and",
+    "fr": "le montant comptabilisé des services fournis gratuitement par d’autres entités gouvernementales;"
+  },
+  {
+    "en": "The net effect of transfers of assets and liabilities from or to other government entities, resulting from government restructuring or other inter-entity transactions; and",
+    "fr": "le résultat net des transferts d’actifs et de passifs à destination ou en provenance d’une autre entité gouvernementale découlant d’une restructuration du gouvernement ou d’autres transactions entre entités; et"
+  },
+  {
+    "en": "“Departmental Net Financial Position, at the end of the reporting period” is presented as the sum of the “Departmental Net Financial Position, at the beginning of the reporting period” and the “Net Cost (Net Results) of Operations After Government Funding and Transfers.”",
+    "fr": "« L’état de la situation financière nette ministérielle à la fin de la période de rapport » correspond à la somme de « l’état de la situation financière nette ministérielle au début de la période de rapport » et du « coût net de fonctionnement (résultats nets) après le financement et les transferts gouvernementaux »."
+  },
+  {
+    "en": "The PSAS requirements for the are further interpreted as follows:",
+    "fr": "Les exigences établies dans le MCSP en ce qui a trait à l’ sont interprétées plus précisément de la façon suivante :"
+  },
+  {
+    "en": "“Net Cash Provided by the Government of Canada” represents net cash generated and used by the department during the reporting period; and",
+    "fr": "« l’encaisse nette fournie par le gouvernement du Canada » correspond à l’encaisse nette accumulée et utilisée par le ministère au cours de la période de rapport;"
+  },
+  {
+    "en": "Cash flows are classified by operating, capital investing and financing activities.",
+    "fr": "les flux de trésorerie sont classés en fonction des activités de fonctionnement, d’investissement en immobilisations et de financement."
+  },
+  {
+    "en": "Due to the unique nature of Departmental Financial Statements, additional guidance related to the following items is provided:",
+    "fr": "En raison de la nature particulière des états financiers ministériels, des directives additionnelles s’imposent en ce qui concerne les éléments suivants :"
+  },
+  {
+    "en": "Materiality and professional judgment;",
+    "fr": "l’importance relative et le jugement professionnel;"
+  },
+  {
+    "en": "Central Financial Management and Reporting System (CFMRS) trial balance and Government-wide Chart of Accounts;",
+    "fr": "la balance de vérification du Système central de gestion des rapports financiers (SCGRF) et le Plan comptable à l’échelle de l’administration fédérale;"
+  },
+  {
+    "en": "Planned results;",
+    "fr": "les résultats prévus;"
+  },
+  {
+    "en": "Amount due from (to) the CRF, and;",
+    "fr": "le montant à recevoir du Trésor ou dû au Trésor, et;"
+  },
+  {
+    "en": "Financial statement items held on behalf of government.",
+    "fr": "les éléments des états financiers détenus au nom du gouvernement."
+  },
+  {
+    "en": "For Departmental Financial Statement purposes, materiality should be assessed based on the department’s materiality policy without consideration for the Public Accounts’ materiality levels. Materiality is further described in GC 1010 Financial Statement Concepts.",
+    "fr": "Aux fins des états financiers ministériels, l’importance relative doit être évaluée en fonction de la politique sur l’importance relative du ministère sans tenir compte des niveaux à cet égard des Comptes publics. La norme GC 1010 Fondements conceptuels des états financiers fournit une description plus poussée de l’importance relative."
+  },
+  {
+    "en": "Departmental Financial Statements may include items that are not recorded in the CFMRS trial balance. These items, such as certain services provided without charge and amounts due from or to the CRF, are required for the presentation of Departmental Financial Statements but are not to be recorded in the CFMRS trial balance. Conversely, Departmental Financial Statements may exclude items that are recorded in the CFMRS trial balance. These items, such as investments in and loans and advances to Crown corporations, as well as associated revenues or losses, may not be required for the presentation in the Departmental Financial Statements.",
+    "fr": "Les états financiers du ministère peuvent inclure des éléments qui ne sont pas enregistrés dans la balance de vérification du SCGRF. Ces éléments, comme des services particuliers fournis gratuitement et des montants à recevoir du Trésor ou dû au Trésor, doivent être présentés dans les états financiers ministériels, mais il n’est pas nécessaire de les enregistrer dans la balance de vérification du SCGRF. À l’inverse, les états financiers ministériels peuvent exclure des éléments qui sont enregistrés dans la balance de vérification du SCGRF. Ces éléments, comme les investissements dans des sociétés d’État ou des prêts et avances de fonds à ces sociétés, ainsi que les revenus ou pertes connexes, ne sont peut-être pas requis dans la présentation des états financiers ministériels."
+  },
+  {
+    "en": "The Government-wide Chart of Accounts includes the coding elements necessary to prepare Departmental Financial Statements. For certain accounts, the classification of the account within the Government-wide Chart of Accounts may not correspond to the nature of the account at the departmental level. For example, although the GST/HST refundable advance account is shown under the Advance classification in the Government-wide Chart of Accounts, the nature of the account at the departmental level is an Accounts Receivable. For Departmental Financial Statement presentation purposes, departments should classify accounts based on their nature at the departmental level.",
+    "fr": "Le Plan comptable à l’échelle de l’administration fédérale renferme les éléments de codage nécessaires à la préparation des états financiers ministériels. Pour certains comptes, il se peut que la classification du compte dans le Plan comptable à l’échelle de l’administration fédérale ne corresponde pas à la nature du compte au niveau du ministère. Par exemple, même si le compte des avances remboursables de la TPS/TVH est inscrit sous la rubrique des avances du Plan comptable à l’échelle de l’administration fédérale, la nature du compte au niveau du ministère le classe dans les Comptes débiteurs. Aux fins de la présentation des états financiers ministériels, les ministères devraient classer les comptes en fonction de leur nature à leur niveau."
+  },
+  {
+    "en": "Departmental Financial Statements should present a comparison of actual and planned results. Planned results should be presented for the same scope of activities and on a basis consistent with that used for actual results.",
+    "fr": "Les états financiers ministériels devraient établir une comparaison entre les résultats réels et les résultats prévus. Les résultats prévus devraient être présentés pour la même gamme d’activités de la même façon que pour les résultats réels."
+  },
+  {
+    "en": "For the purpose of Departmental Financial Statements, the planned results should be based on the department’s Departmental Plan (DP) for the corresponding fiscal year. Most of the financial information presented in the DP is reported on an expenditure basis of accounting. However, departments are required to report certain financial information using an accrual basis of accounting.",
+    "fr": "Aux fins des états financiers ministériels, les résultats prévus devraient reposer sur le Plan ministériel (PM) du ministère pour l’exercice financier correspondant. La plupart des données financières contenues dans le PM sont présentées selon une méthode de comptabilité axée sur les dépenses. Toutefois, les ministères doivent faire rapport sur certaines données financières selon une méthode de comptabilité d’exercice."
+  },
+  {
+    "en": "At a minimum, the planned results presented in Departmental Financial Statements should include the financial information reported in the DP using an accrual basis of accounting.",
+    "fr": "Les résultats prévus qui figurent dans les états financiers ministériels devraient au moins inclure les données financières présentées dans le PM selon une méthode de comptabilité d’exercice."
+  },
+  {
+    "en": "Departments may restate additional financial information originally reported in their DP using an accrual basis of accounting for internal management purposes or to comply with department-specific reporting requirements. This additional financial information can be presented in Departmental Financial Statements to supplement the financial information reported in the DP, provided a consistent methodology and assumptions were used.",
+    "fr": "Il se peut que les ministères reformulent les données financières présentées dans leur PM selon une méthode d’exercice à des fins de gestion interne ou pour respecter leurs exigences particulières en matière de rapports. Il est possible d’inclure ces données financières additionnelles dans les états financiers ministériels afin d’ajouter à l’information financière communiquée dans le PM, dans la mesure où la même méthode et les mêmes hypothèses sont utilisées."
+  },
+  {
+    "en": "The amount due from or to the CRF is the result of timing differences at year-end between the recognition of certain transactions and the disbursement or receipt of funds. The amount due from the CRF represents the net amount that the department is able to withdraw from the CRF in order to discharge its liabilities without generating any additional charges against its authorities in the year of the withdrawal.",
+    "fr": "Le montant à recevoir du Trésor ou dû au Trésor découle des écarts temporaires à la fin de l’exercice entre la reconnaissance de certaines transactions et les déboursés ou les fonds reçus. Le montant à recevoir du Trésor représente la somme nette que le ministère peut obtenir du Trésor pour s’acquitter de ses passifs sans imputer de charges additionnelles à ses autorisations au cours de l’exercice où le retrait a été effectué."
+  },
+  {
+    "en": "The amount due from or to the CRF is determined for Departmental Financial Statement presentation purposes only and is not recorded in the CFMRS trial balance.",
+    "fr": "Le montant à recevoir du Trésor ou dû au Trésor n’est établi qu’aux fins de la présentation des états financiers ministériels et ne paraît pas dans la balance de vérification du SCGRF."
+  },
+  {
+    "en": "The amounts to be presented in the Departmental Financial Statements as due from the CRF at year-end include:",
+    "fr": "Les montants inclus dans les états financiers ministériels au titre des montants à recevoir du Trésor à la fin de l’exercice comprennent :"
+  },
+  {
+    "en": "Expenses incurred but not paid by the department that have been recorded as liabilities at year-end and included in the current year or prior year’s authorities used balance. These amounts could include payables at year-end (PAYE) and should exclude GST/HST; and",
+    "fr": "les dépenses engagées mais non payées par le ministère qui ont été inscrites à titre de passifs à la fin de l’exercice et qui sont incluses dans le solde utilisé des autorisations pour l’exercice en cours ou l’exercice précédent. Ces montants peuvent comprendre des comptes à payer à la fin de l’exercice (CAFE) et ne devraient pas inclure la TPS/TVH;"
+  },
+  {
+    "en": "Amounts received by the department prior to year-end that are available for respending in future years and are recorded as liabilities at year-end. These amounts could include amounts in non-consolidated special purpose accounts.",
+    "fr": "les sommes reçues par le ministère avant la fin de l’exercice et qui sont disponibles pour les années futures et sont inscrites comme passifs à la fin de l’exercice. Ces sommes pourraient inclure des montants provenant d’un compte à fins déterminées non consolidé."
+  },
+  {
+    "en": "The amount due from the CRF should be reduced by any amounts due to the CRF at year-end. Amounts due to the CRF at year-end could include:",
+    "fr": "À la fin de l’exercice, il faut déduire du montant à recevoir du Trésor le montant dû au Trésor. Les montants dus au Trésor à la fin de l’exercice peuvent comprendre :"
+  },
+  {
+    "en": "Amounts recognized as revenue that have been credited to authorities used, but were not collected and deposited to the CRF at year-end. These amounts could include receivables at year-end from other government departments (RAYE-OGD); and",
+    "fr": "les montants comptabilisés en tant que revenus qui ont été crédités aux autorisations utilisées, mais qui n’ont pas été perçus ni déposés dans le compte du Trésor à la fin de l’exercice; ces sommes peuvent inclure des débiteurs à la fin de l’exercice d’autres ministères (DAFE – autres ministères);"
+  },
+  {
+    "en": "Amounts withdrawn from the CRF that have not been recorded as authorities used at year-end. These amounts could include accountable advances.",
+    "fr": "les montants provenant du Trésor qui n’ont pas été enregistrés au titre des autorisations utilisées à la fin de l’exercice. Ces montants peuvent inclure les avances comptables."
+  },
+  {
+    "en": "Financial statement items that do not meet the definition of a financial asset from a departmental perspective are presented as a reduction to the department’s gross financial assets on the Statement of Financial Position. This allows for a fairer presentation of the net debt indicator from a departmental perspective. Financial statement items that do not meet the definition of a financial asset from a departmental perspective are classified as “Financial assets held on behalf of Government.”",
+    "fr": "Les éléments des états financiers qui ne correspondent pas à la définition d’un actif financier du point de vue du ministère sont présentés en réduction des actifs financiers bruts du ministère dans l’état de la position financière du ministère. Ainsi, l’indice de la dette nette est plus équitable du point de vue du ministère. Les éléments des états financiers qui ne correspondent pas à la définition d’un actif financier d’un point de vue ministériel sont imputés en tant qu’« actifs financiers détenus pour le compte du gouvernement »."
+  },
+  {
+    "en": "“Financial assets held on behalf of Government” are primarily generated by non-respendable revenues for which the receipt cannot be used by the department to discharge existing liabilities. Any related transactions arising from the recording of accounts receivable generated from non-respendable revenues should be classified in the same manner as the related accounts receivable. For example, the recording of a write-off of an accounts receivable generated from non-respendable revenues and associated bad debt expense may result in expenses incurred on behalf of government.",
+    "fr": "Les « actifs financiers détenus pour le compte du gouvernement » découlent principalement de revenus non disponibles qui, une fois reçus, ne peuvent pas être utilisés par le ministère pour s’acquitter de ses passifs. Toute transaction découlant de l’imputation de comptes débiteurs liés à des revenus non disponibles devrait être classée de la même façon que les comptes débiteurs connexes. Par exemple, l’enregistrement de la radiation de comptes débiteurs liés à des revenus non disponibles et associés à une mauvaise dette peut occasionner des dépenses au nom du gouvernement."
+  },
+  {
+    "en": "“Financial assets held on behalf of Government” are also generated by the issuance of loans receivable for which the receipts cannot be used by the department. If the receipt of a loans receivable (principal or interest portion) cannot be used to discharge existing liabilities or issue new loans, then the loans receivable should be reported as a “Financial asset held on behalf of Government.” It is possible for the principal portion and the interest portion of the loans receivable to be presented differently. Any related transactions arising from the issuance of loans receivable should be classified in the same manner as the related loans receivable. For example, the recording of the discount and the future amortization of the unamortized discount component may result in expenses incurred on behalf of government.",
+    "fr": "Les « actifs financiers détenus pour le compte du gouvernement » découlent également de l’émission de prêts en cours dont les recettes ne peuvent pas être utilisées par le ministère. Si les recettes au titre de prêts en cours (portion du capital ou des intérêts) ne peuvent servir à acquitter les passifs existants ou que de nouveaux prêts ne peuvent être émis, les prêts accordés devraient être enregistrés comme des « actifs financiers détenus pour le compte du gouvernement ». Il est possible que la portion du capital et celle des intérêts des prêts en cours soient présentées différemment. Toute transaction connexe découlant de l’octroi d’un prêt en cours devrait être classée de la même manière que le prêt en cours auquel elle se rapporte. Par exemple, l’enregistrement d’un rabais et l’amortissement futur de la composante à rabais non amortie peuvent entraîner une dépense pour le gouvernement."
+  }
+]

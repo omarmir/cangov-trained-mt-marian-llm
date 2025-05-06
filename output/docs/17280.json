@@ -1,0 +1,186 @@
+[
+  {
+    "en": "This Treasury Board Information Technology Standard ( -12) adopts the Codes for the representation of currencies and funds as specified by the National Standard of Canada CAN/CGSB-200.6-87 for use by the Government of Canada. As such CAN/CGSB-200.6-87/ 4217 is to be considered an integral part of this document. The objective of this standard is to provide a set of codes for the representation of currencies and funds that will promote consistency and uniformity in the exchange of data both inside and outside the federal government. These codes are:",
+    "fr": "Cette norme du Conseil du Trésor sur les technologies de l'information (NCTTI-12) officialise l'adoption par le gouvernement du Canada des codes pour la représentation des monnaies et types de fonds tels qu'ils sont énoncés dans la Norme nationale du Canada (CAN/CGSB-200.6-87/ISO 4217)). Aussi, cette dernière doit maintenant être considérée comme faisant partie intégrante de ce document. La présente norme du Conseil du Trésor a pour objet de fournir un ensemble de codes pour la représentation des monnaies et types de fonds de manière à rationaliser et à uniformiser les échanges de données tant au sein de l'administration fédérale qu'à l'extérieur. Ces codes ont les particularités suivantes :"
+  },
+  {
+    "en": "This standard provides a three-letter and a three-digit code for representing currencies and funds. It is intended for use in applications such as trade, commerce or banking where codes are required to identify currencies and funds. The codes are designed to be equally suitable for manual users and for those employing automated systems.",
+    "fr": "Cette norme fournit un code à trois lettres et un code à trois chiffres pour représenter les monnaies et les types de fonds. Elle est destinée aux applications nécessitant des codes pour représenter les monnaies et les types de fonds. Les codes sont conçus pour s'adapter autant à un traitement manuel qu'automatisé."
+  },
+  {
+    "en": "In certain circumstances departments and agencies may wish to make exceptions to the use of this standard. This may be done when it can be clearly demonstrated that there are appreciable performance or cost advantages to be gained, when the overall interests of the Government of Canada are best served or when they are party to an international treaty or obligation (e.g. ).",
+    "fr": "Dans certains cas, un ministère ou organisme préférera peut-être ne pas mettre en oeuvre cette norme. Il pourra s'en abstenir lorsqu'il pourra démontrer clairement que cela représente une amélioration de la performance ou une économie appréciable, que les intérêts globaux du gouvernement du Canada seront mieux servis ou qu'une clause d'une obligation ou d'un traité international (p. ex., l' ) les y oblige."
+  },
+  {
+    "en": "This TBITS specifies CAN/CGSB-200.6-87 Codes for the Representation of Currencies and Funds for use by the Government of Canada. It is identical in content and in layout with International Standard ISO 4217 Codes for the Representation of Currencies and Funds. The international standard was reviewed by the CGSB Committee on Trade Documents and was subsequently adopted as a National Standard of Canada.",
+    "fr": "Cette norme NCTTI précise la Norme nationale du Canada CAN/CGSB-200.6-87 Codes pour la représentation des monnaies et type de fonds pour une utilisation au sein de l'administration fédérale. Son contenu et sa disposition sont identiques à la norme internationale ISO 4217 Codes pour la représentation des monnaies et type de fonds. Après avoir subie l'examen du Comité des documents commerciaux de l' , cette norme internationale a été adoptée comme norme nationale du Canada."
+  },
+  {
+    "en": "The effective date of this standard is December 1991.",
+    "fr": "La date d'entrée en vigueur de cette norme est Décembre 1991."
+  },
+  {
+    "en": "Existing applications employing codes other than stated in this standard may continue for up to three years following the effective date of this TBITS.",
+    "fr": "Les applications existantes pourront continuer à utiliser des codes étrangers à la présente norme NCTTI jusqu'à trois ans après l'entrée en vigueur de cette dernière."
+  },
+  {
+    "en": "standards",
+    "fr": "Les normes"
+  },
+  {
+    "en": "Copies of technical specifications may be obtained as follows:",
+    "fr": "Pour obtenir les spécifications techniques, procéder à :"
+  },
+  {
+    "en": "CAN/CGSB-200.6-87",
+    "fr": "CAN/ -200.6-87"
+  },
+  {
+    "en": "Telephone: (819) 956-0425 Facsimile: (819) 956-4716",
+    "fr": "Codes pour la représentation des monnaies et type de fonds"
+  },
+  {
+    "en": "Codes for the representation of currencies and funds",
+    "fr": "Office des normes générales du Canada AU SOIN DE : Service des ventes de publications Ottawa, Canada K1A 1G6"
+  },
+  {
+    "en": "TBITS-12",
+    "fr": "Téléphone : (819) 956-0425 Télécopieur : (819) 956-4716"
+  },
+  {
+    "en": "Standard",
+    "fr": "Codes pour la représentation des monnaies et types de fonds"
+  },
+  {
+    "en": "December 1991",
+    "fr": "NCTTI-12"
+  },
+  {
+    "en": "Treasury Board of Canada",
+    "fr": "Norme"
+  },
+  {
+    "en": "Systems and Technology",
+    "fr": "Décembre 1991"
+  },
+  {
+    "en": "Treasury Board Secretariat (TBS)",
+    "fr": "Conseil du Trésor du Canada"
+  },
+  {
+    "en": "CAN/CGSB-200.6-87/ISO 4217-1987, Codes for the Representation of Currencies and Funds",
+    "fr": "Systèmes et technologies"
+  },
+  {
+    "en": "CAN/CGSB-200.4-89/ISO 3166-1988 Codes for the representation of countries",
+    "fr": "Secrétariat du Conseil du Trésor (SCT)"
+  },
+  {
+    "en": "TBITS-10, Electronic data interchange",
+    "fr": "CAN/CGSB-200.6-87/ISO-4217-1987 Codes pour la représentation des monnaies et types de fonds"
+  },
+  {
+    "en": "language independent",
+    "fr": "CAN/CGSB-200.4-89/ISO-3166-1988 Codes pour la représentation pays"
+  },
+  {
+    "en": "internationally recognized",
+    "fr": "NCTTI-10, Échange de données électronique"
+  },
+  {
+    "en": "equally suitable for manual or electronic use",
+    "fr": "indépendance vis-à-vis d'une langue quelconque"
+  },
+  {
+    "en": "maintained and updated by an international maintenance agency",
+    "fr": "reconnaissance internationale"
+  },
+  {
+    "en": "G. Patterson (Chairperson)",
+    "fr": "utilisation adaptée autant à un traitement manuel qu'électronique"
+  },
+  {
+    "en": "E. Buchinski",
+    "fr": "tenue et mise à jour par un organisme de mise à jour international"
+  },
+  {
+    "en": "A. Kwan",
+    "fr": "G. Paterson (Président)"
+  },
+  {
+    "en": "G. McConnell",
+    "fr": "E. Buchinski"
+  },
+  {
+    "en": "D. Brashares",
+    "fr": "A. Kwan"
+  },
+  {
+    "en": "G. Jenkins",
+    "fr": "G. McConnell"
+  },
+  {
+    "en": "A. Nandi",
+    "fr": "D. Brashares"
+  },
+  {
+    "en": "N. Hart",
+    "fr": "G. Jenkins"
+  },
+  {
+    "en": "B. Dodd",
+    "fr": "A. Nandi"
+  },
+  {
+    "en": "J. Gazzard",
+    "fr": "N. Hart"
+  },
+  {
+    "en": "Y. Brisebois",
+    "fr": "B. Dodd"
+  },
+  {
+    "en": "J. King SSC",
+    "fr": "J. Gazzard"
+  },
+  {
+    "en": "J. Cope RC-CE",
+    "fr": "Y. Brisebois"
+  },
+  {
+    "en": "K. Nakano PWC",
+    "fr": "J. King ASC"
+  },
+  {
+    "en": "N. Tam",
+    "fr": "J. Cope RC-DA"
+  },
+  {
+    "en": "G. Vézina OCG",
+    "fr": "K. Nakano TPC"
+  },
+  {
+    "en": "G. Watters",
+    "fr": "N. Tam"
+  },
+  {
+    "en": "L. Charron NTA",
+    "fr": "G. Vézina BCG"
+  },
+  {
+    "en": "J. Bériault NLC",
+    "fr": "G. Waters"
+  },
+  {
+    "en": "R. Zadra COM",
+    "fr": "L. Charron ONT"
+  },
+  {
+    "en": "A. Carnaffan",
+    "fr": "J. Bériault"
+  },
+  {
+    "en": "S. Gavrel TBS",
+    "fr": "R. Zadra COM"
+  }
+]

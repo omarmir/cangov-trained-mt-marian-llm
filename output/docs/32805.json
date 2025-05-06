@@ -1,0 +1,650 @@
+[
+  {
+    "en": "Office of the Auditor General of Canada",
+    "fr": "Bureau du vérificateur général du Canada"
+  },
+  {
+    "en": "Office of the Chief Electoral Officer",
+    "fr": "Bureau du directeur général des élections"
+  },
+  {
+    "en": "Office of the Commissioner of Lobbying of Canada",
+    "fr": "Commissariat au lobbying du Canada"
+  },
+  {
+    "en": "Office of the Commissioner of Official Languages",
+    "fr": "Commissariat aux langues officielles"
+  },
+  {
+    "en": "Office of the Information Commissioner of Canada",
+    "fr": "Commissariat à l’information du Canada"
+  },
+  {
+    "en": "Office of the Privacy Commissioner of Canada",
+    "fr": "Commissariat à la protection de la vie privée du Canada"
+  },
+  {
+    "en": "Office of the Public Sector Integrity Commissioner of Canada",
+    "fr": "Commissariat à l’intégrité du secteur public du Canada"
+  },
+  {
+    "en": "This directive takes effect on January 6, 2025.",
+    "fr": "Cette directive entrera en vigueur le 6 janvier 2025."
+  },
+  {
+    "en": "This directive replaces the dated October 20, 2014.",
+    "fr": "La présente directive remplace la Norme sur le filtrage de sécurité qui date du 20 octobre 2014."
+  },
+  {
+    "en": "Transitional consideration: The Standard on Security Screening Model and Position Analysis requires individuals who occupy positions at the Top Secret or Enhanced Top Secret level to be a Canadian citizen. All individuals in these positions will be deemed to meet this requirement when this directive comes into effect. They will continue to meet this requirement so long as they maintain a valid clearance at that level up to a maximum of five years from the effective date of this directive. This transitional consideration does not apply to individuals who are applying for a new clearance or to individuals whose existing clearance is being upgraded or downgraded at the Top Secret or Enhanced Top Secret levels.",
+    "fr": "Élément transitoire à prendre en considération : Dans le cadre de la Norme sur le modèle de filtrage de sécurité et l’analyse des postes, les personnes qui occupent un poste au niveau Très secret ou Très secret approfondi doivent être citoyennes canadiennes. Toutes les personnes occupant ce type de poste seront considérées comme respectant cette exigence au moment où la présente directive entrera en vigueur. Elles continueront de respecter cette exigence tant qu’elles conserveront une autorisation de sécurité valide à ce niveau, jusqu’à un maximum de cinq ans à compter de la date d’entrée en vigueur de cette directive. Cet élément transitoire à prendre en considération ne s’applique pas aux personnes qui demandent une nouvelle autorisation ou dont l’autorisation actuelle est changée pour une autorisation plus élevée ou moins élevée, aux niveaux Très secret et Très secret approfondi."
+  },
+  {
+    "en": "This directive is issued pursuant to the authorities indicated in section 2 of the .",
+    "fr": "La présente directive est émise au titre des pouvoirs figurant à la section 2 de la ."
+  },
+  {
+    "en": "The Treasury Board has delegated to the President of the Treasury Board the authority to amend and rescind this directive and any supporting instruments, including standards, mandatory procedures and other appendices.",
+    "fr": "Le Conseil du Trésor du Canada a délégué au Président du Conseil du Trésor du Canada le pouvoir de modifier ou d’annuler la présente directive et les instruments à l’appui, notamment les normes, les procédures obligatoires et les autres annexes."
+  },
+  {
+    "en": "The Treasury Board has delegated to the President of the Treasury Board the authority to issue any supporting instruments, including standards, mandatory procedures and other appendices.",
+    "fr": "Le Conseil du Trésor du Canada a délégué au président du Conseil du trésor, le pouvoir d’émettre les instruments à l’appui, y compris les normes, les procédures obligatoires et les autres annexes."
+  },
+  {
+    "en": "The Treasury Board has delegated to the President of the Treasury Board the authority to grant temporary exceptions, on a case-by-case basis, to this directive and any supporting instruments, including standards, mandatory procedures and other appendices.",
+    "fr": "Le Conseil du Trésor du Canada a délégué au président du Conseil du trésor le pouvoir d’accorder des dérogations temporaires, au cas par cas, à la présente directive et aux instruments qui l’accompagnent, y compris les normes, les procédures obligatoires et les autres annexes."
+  },
+  {
+    "en": "The objectives indicated in section 3 of the apply to this directive.",
+    "fr": "Les objectifs indiqués à la section 3 de la Politique sur la sécurité du gouvernement s’appliquent à cette directive."
+  },
+  {
+    "en": "In addition to the expected results indicated in section 3 of the , the expected result of this directive is to ensure that security screening activities respect the principles of employment equity, diversity and inclusion and that these principles are applied consistently.",
+    "fr": "Outre les résultats escomptés indiqués à la section 3 de la Politique sur la sécurité du gouvernement, le résultat visé par cette directive est de veiller à ce que les activités de filtrage de sécurité respectent les principes d’équité en matière d’emploi, de diversité et d’inclusion et à ce que ces principes soient appliqués de manière cohérente."
+  },
+  {
+    "en": "The chief security officer is to:",
+    "fr": "Le dirigeant principal de la sécurité doit :"
+  },
+  {
+    "en": "Lead and oversee the departmental security screening function to:",
+    "fr": "Diriger et superviser la fonction de filtrage de sécurité du ministère pour :"
+  },
+  {
+    "en": "Enable the consistent and comprehensive conduct of security screening that:",
+    "fr": "permettre la réalisation cohérente et complète de filtrage de sécurité qui :"
+  },
+  {
+    "en": "Assesses the security screening requirements of positions, contracts or other arrangements;",
+    "fr": "évalue les exigences en matière de filtrage de sécurité pour les postes, les contrats ou d’autres arrangements;"
+  },
+  {
+    "en": "Assesses the eligibility of an individual to hold a security or site access status, prior to a security or site access clearance;",
+    "fr": "évalue l’admissibilité d’une personne à détenir une cote de sécurité ou d’accès à un site, avant l’obtention d’une autorisation de sécurité ou d’accès à un site;"
+  },
+  {
+    "en": "Informs the decision-making process to grant, deny or revoke a security status or clearance, or site access status or clearance; and",
+    "fr": "informe le processus décisionnel d’octroi, de refus ou de révocation d’une cote ou d’une autorisation de sécurité, ou d’une cote ou d’une autorisation d’accès à un site;"
+  },
+  {
+    "en": "Affords rights of review and redress that apply to all individuals, where a decision may be reached to deny, revoke or suspend a security status or clearance, or site access status or clearance;",
+    "fr": "accorde des droits de révision et de recours qui s’appliquent à toutes les personnes, lorsqu’on décide de refuser, de révoquer ou de suspendre une cote ou une autorisation de sécurité, ou une cote ou une autorisation d’accès à un site;"
+  },
+  {
+    "en": "Ensure that individuals:",
+    "fr": "veiller à ce que les personnes :"
+  },
+  {
+    "en": "Can be trusted to safeguard government information and assets, including information technology (IT) systems and facilities; and",
+    "fr": "soient suffisamment fiables pour protéger les renseignements et les biens du gouvernement, y compris les installations et les systèmes de technologie de l’information (TI);"
+  },
+  {
+    "en": "Are aware of their security responsibilities;",
+    "fr": "soient conscients de leurs responsabilités en matière de sécurité;"
+  },
+  {
+    "en": "Ensure departmental workforce awareness, capacity and capability to meet security screening function requirements, including respecting the values and principles of the Government of Canada;",
+    "fr": "veiller à ce que l’effectif ministériel dispose des connaissances, des capacités et des compétences nécessaires pour répondre aux exigences de la fonction de filtrage de sécurité, notamment en respectant les valeurs et les principes du gouvernement du Canada;"
+  },
+  {
+    "en": "Maintain a security file for all individuals for whom security screening is conducted in accordance with the and associated Government of Canada policy instruments;",
+    "fr": "conserver un dossier de sécurité pour toutes les personnes faisant l’objet d’un filtrage de sécurité, conformément à la et aux instruments de politique connexes du gouvernement du Canada;"
+  },
+  {
+    "en": "Ensure that personal information for the purpose of security screening is:",
+    "fr": "veiller à ce que les renseignements personnels destinés au filtrage de sécurité soient :"
+  },
+  {
+    "en": "Collected, created, used, disclosed, retained and disposed of in accordance with the and Government of Canada policy instruments;",
+    "fr": "recueillis, créés, utilisés, divulgués, conservés et éliminés conformément à la et aux instruments de politique du gouvernement du Canada;"
+  },
+  {
+    "en": "Develop and implement processes to share information within the department and with other departments that:",
+    "fr": "élaborer et mettre en œuvre des processus d’échange de renseignements au sein du ministère et avec d’autres ministères qui :"
+  },
+  {
+    "en": "Are defined and implemented;",
+    "fr": "sont définis et mis en œuvre;"
+  },
+  {
+    "en": "Align with Government of Canada direction for managing security screening information;",
+    "fr": "cadrent avec les orientations du gouvernement canadien en matière de gestion des renseignements relatifs au filtrage de sécurité;"
+  },
+  {
+    "en": "Comply with the and Government of Canada policy instruments for handling personal information;",
+    "fr": "sont conformes à la et aux instruments de politique du gouvernement du Canada en matière de traitement des renseignements personnels;"
+  },
+  {
+    "en": "Facilitate the transfer and acceptance of security screening files with other departments; and",
+    "fr": "facilitent l’acceptation des dossiers de filtrage de sécurité d’autres ministères et leur transfert;"
+  },
+  {
+    "en": "Enable sharing of information within the department and with other departments, where a decision is reached to deny, revoke or suspend a security status or clearance or site access status or clearance;",
+    "fr": "permettent l’échange de renseignements au sein du ministère et avec d’autres ministères, lorsqu’on décide de refuser, de révoquer ou de suspendre une cote ou une autorisation de sécurité, ou une cote ou une autorisation d’accès à un site."
+  },
+  {
+    "en": "When there is a requirement to conduct security screening of individuals external to government with whom the department has a need to share sensitive information or assets or to provide access to sensitive IT systems or facilities, ensure that:",
+    "fr": "Lorsque des personnes externes au gouvernement doivent faire l’objet d’un filtrage de sécurité et que le ministère doit donc leur transmettre des renseignements ou des biens sensibles, ou leur donner accès des installations ou à des systèmes de TI sensibles, il convient de veiller à ce que :"
+  },
+  {
+    "en": "Security screening requirements for contractors and other individuals are detailed in relevant documentation (see of the ); and",
+    "fr": "les exigences en matière de filtrage de sécurité pour les entrepreneurs et autres personnes soient détaillées dans les documents pertinents (voir l’ de la );"
+  },
+  {
+    "en": "The required security status or clearance is granted before information is shared and access is provided;",
+    "fr": "la cote ou l’autorisation de sécurité requise soit accordée avant que l’information ne soit partagée et que l’accès ne soit fourni."
+  },
+  {
+    "en": "Use security screening services where mandated or available to meet the departmental security screening requirements; and",
+    "fr": "Utiliser les services de filtrage de sécurité lorsqu’ils sont obligatoires ou disponibles pour répondre aux exigences ministérielles en matière de filtrage de sécurité et :"
+  },
+  {
+    "en": "Ensure that the services obtained meet those requirements;",
+    "fr": "veiller à ce que les services obtenus répondent à ces exigences."
+  },
+  {
+    "en": "Ensure that a written agreement is in place when the organization provides or receives security screening services from another organization pursuant to subsections 6.3 and 6.4 that:",
+    "fr": "Veiller à la mise en place d’un accord écrit lorsque l’organisation fournit ou reçoit des services de filtrage de sécurité d’une autre organisation conformément aux paragraphes 6.3 et 6.4, qui :"
+  },
+  {
+    "en": "Defines applicable security and privacy requirements, in collaboration with responsible departmental officials; and",
+    "fr": "définissent les exigences applicables en matière de sécurité et de respect de la vie privée, en collaboration avec les fonctionnaires ministériels concernés;"
+  },
+  {
+    "en": "Establishes respective security screening responsibilities;",
+    "fr": "établissent les responsabilités respectives en matière de filtrage de sécurité."
+  },
+  {
+    "en": "Where the security screening function involves the provision of services to client departments:",
+    "fr": "Lorsque la fonction de filtrage de sécurité implique la prestation de services aux ministères clients :"
+  },
+  {
+    "en": "Confirm that security screening requirements of client department positions are developed under the direction of the chief security officer of the client department; and",
+    "fr": "confirmer que les exigences en matière de filtrage de sécurité pour les postes des ministères clients sont élaborées sous la direction du dirigeant principal de la sécurité du ministère client;"
+  },
+  {
+    "en": "Before recommending a decision to grant, grant with conditions, deny or revoke a security status or clearance, consult the chief security officer and, as appropriate, the deputy head, of the client department;",
+    "fr": "avant de recommander une décision d’octroi, d’octroi sous conditions, de refus ou de révocation d’une cote ou d’une autorisation de sécurité, consulter le dirigeant principal de la sécurité et, le cas échéant, l’administrateur général du ministère client."
+  },
+  {
+    "en": "Take measures to address any security risk that presents serious and immediate threats to the security of persons, information or assets of the department or the Government of Canada and, when appropriate:",
+    "fr": "Prendre des mesures pour faire face à tout risque de sécurité présentant des menaces graves et immédiates pour la sécurité des personnes, des renseignements ou des biens du ministère, ou du gouvernement du Canada et, le cas échéant :"
+  },
+  {
+    "en": "Consult with human resources management regarding the suspension of an employee’s security status or clearance;",
+    "fr": "consulter la direction des ressources humaines au sujet de la suspension de la cote ou de l’autorisation de sécurité d’un employé;"
+  },
+  {
+    "en": "Consult with the contracting authority regarding the suspension of a contractor’s:",
+    "fr": "consulter l’autorité contractante au sujet de la suspension du contrat d’un entrepreneur :"
+  },
+  {
+    "en": "Security status or clearance; or",
+    "fr": "cote ou autorisation de sécurité;"
+  },
+  {
+    "en": "Site access status or clearance;",
+    "fr": "cote ou autorisation d’accès aux sites;"
+  },
+  {
+    "en": "Suspend the security status or clearance or site access status or clearance of the individual, pending an investigation;",
+    "fr": "suspendre la cote ou l’autorisation de sécurité ou la cote ou l’autorisation d’accès au site de la personne, en attendant l’issue d’une enquête;"
+  },
+  {
+    "en": "Revoke the security status or clearance or site access status or clearance of the individual, where they refuse to provide consent or withdraws consent 30 days after suspension; and",
+    "fr": "suspendre la cote ou l’autorisation de sécurité ou la cote ou l’autorisation d’accès au site de la personne lorsqu’elle refuse de fournir son consentement ou le retire après 30 jours de suspension;"
+  },
+  {
+    "en": "Report such security events to the appropriate law enforcement authority or security and intelligence agency (see of the );",
+    "fr": "signaler ces événements relatifs à la sécurité à l’organisme chargé de l’application de la loi ou au service de renseignement et de sécurité compétent (voir l’ de la )."
+  },
+  {
+    "en": "Support the deputy head to obtain the approval of the President of the Treasury Board of any temporary exception to the application of this directive and any supporting instruments, including standards, mandatory procedures and other appendices, in consultation with the Treasury Board of Canada Secretariat and other stakeholders;",
+    "fr": "Aider l’administrateur général à obtenir l’approbation du président du Conseil du Trésor pour toute exception temporaire à l’application de la présente directive et des instruments connexes, notamment les normes, les procédures obligatoires et les autres annexes, en consultation avec le Secrétariat du Conseil du Trésor du Canada et d’autres parties prenantes."
+  },
+  {
+    "en": "Establish and oversee the implementation and review of security screening practices for positions and individuals:",
+    "fr": "Établir et superviser la mise en œuvre et l’examen des pratiques en matière de filtrage de sécurité pour les postes et les personnes :"
+  },
+  {
+    "en": "Define, document, and implement departmental practices for the life cycle of position analysis and security screening; and",
+    "fr": "définir, consigner et mettre en œuvre des pratiques ministérielles pour le cycle de vie de l’analyse des postes et du filtrage de sécurité;"
+  },
+  {
+    "en": "Coordinate with departmental human resources management practices;",
+    "fr": "assurer l’harmonisation avec les pratiques de gestion de la direction des ressources humaines du ministère."
+  },
+  {
+    "en": "Monitor compliance with this directive:",
+    "fr": "Surveiller la conformité à la présente directive :"
+  },
+  {
+    "en": "Assess, investigate and report any significant compliance issues to the deputy head; and",
+    "fr": "évaluer, examiner et signaler à l’administrateur général tout problème de conformité important;"
+  },
+  {
+    "en": "Take action as directed by the deputy head;",
+    "fr": "prendre les mesures demandées par l’administrateur général."
+  },
+  {
+    "en": "Document and monitor security screening practices to meet identified security requirements for programs, services and activities; and",
+    "fr": "Consigner et contrôler les pratiques en matière de filtrage de sécurité afin de répondre aux exigences de sécurité indiquées pour les programmes, les services et les activités et :"
+  },
+  {
+    "en": "Ensure ongoing adherence with security screening practices;",
+    "fr": "assurer le respect continu des pratiques en matière de filtrage de sécurité."
+  },
+  {
+    "en": "Collaborate with senior officials and other stakeholders to respond to direction, advice and information requests issued by the Treasury Board of Canada Secretariat; and",
+    "fr": "Collaborer avec les hauts fonctionnaires et d’autres intervenants pour répondre aux demandes d’orientation, de conseils et d’information émises par le Secrétariat du Conseil du Trésor du Canada."
+  },
+  {
+    "en": "Provide information to the Treasury Board of Canada Secretariat upon request.",
+    "fr": "Fournir des renseignements au Secrétariat du Conseil du Trésor du Canada sur demande."
+  },
+  {
+    "en": "Senior officials, designated by the deputy head in the departmental security governance, are to:",
+    "fr": "Les hauts fonctionnaires, désignés par l’administrateur général pour la gouvernance de la sécurité du ministère, doivent :"
+  },
+  {
+    "en": "Participate in and report to the departmental security governance;",
+    "fr": "Participer et se rapporter à la gouvernance ministérielle de sécurité."
+  },
+  {
+    "en": "Collaborate with senior officials, security functional specialists, partners and other stakeholders to:",
+    "fr": "Collaborer avec les hauts fonctionnaires, les spécialistes fonctionnels de la sécurité, les partenaires et d’autres intervenants pour :"
+  },
+  {
+    "en": "Identify security screening requirements and related resource needs for programs, services and activities;",
+    "fr": "déterminer les exigences en matière de filtrage de sécurité et les besoins en ressources connexes pour les programmes, les services et les activités;"
+  },
+  {
+    "en": "Document and implement security screening practices to meet identified security requirements for programs, services and activities;",
+    "fr": "documenter et mettre en œuvre des pratiques en matière de filtrage de sécurité pour répondre aux exigences de sécurité indiquées pour les programmes, les services et les activités;"
+  },
+  {
+    "en": "Ensure ongoing adherence with security screening practices;",
+    "fr": "assurer le respect continu des pratiques en matière de filtrage de sécurité;"
+  },
+  {
+    "en": "Assign security screening responsibilities for programs, services and activities;",
+    "fr": "attribuer des responsabilités en matière de filtrage de sécurité pour les programmes, les services et les activités;"
+  },
+  {
+    "en": "Document and implement departmental security rights of review and redress practices for security screening activities; and",
+    "fr": "documenter et mettre en œuvre les pratiques en ce qui concernent les droits de recours et de révision pour les activités de filtrage de sécurité;"
+  },
+  {
+    "en": "Provide advice to the deputy head, the chief security officer and other stakeholders on departmental security screening matters in their area of responsibility;",
+    "fr": "fournir des conseils à l’administrateur général, au dirigeant principal de la sécurité et à d’autres intervenants sur les questions relatives au filtrage de sécurité ministériel dans leur domaine de responsabilité."
+  },
+  {
+    "en": "Where the security screening function involves the provision of services to, or relies upon, another department, ensure that:",
+    "fr": "Lorsque la fonction de filtrage de sécurité consiste à fournir des services à un autre ministère ou à s’en remettre à lui, veiller à ce que :"
+  },
+  {
+    "en": "Support is provided to the chief security officer in meeting subsection 4.1.4 of this directive so that:",
+    "fr": "Un soutien est apporté au dirigeant principal de la sécurité pour respecter le paragraphe 4.1.4 de la présente directive afin :"
+  },
+  {
+    "en": "Requirements and responsibilities of the agreement are met; and",
+    "fr": "de respecter les exigences et les responsabilités de l’entente;"
+  },
+  {
+    "en": "Compliance is monitored;",
+    "fr": "d’assurer le suivi de la conformité."
+  },
+  {
+    "en": "Address adverse information, in collaboration with the chief security officer, partners and other stakeholders; and",
+    "fr": "Traiter les renseignements défavorables, en collaboration avec le dirigeant principal de la sécurité, les partenaires et d’autres intervenants;"
+  },
+  {
+    "en": "Monitor and report on the effectiveness of security screening practices within their area of responsibility and share the results with the chief security officer.",
+    "fr": "Assurer le suivi de l’efficacité des pratiques en matière de filtrage de sécurité dans leur secteur de responsabilité et en rendre compte, et communiquer les résultats au dirigeant principal de la sécurité."
+  },
+  {
+    "en": "Security functional specialists and other designated individuals in the departmental security governance are to:",
+    "fr": "Les spécialistes fonctionnels de la sécurité et les autres personnes désignées dans le cadre de la gouvernance de la sécurité ministérielle doivent :"
+  },
+  {
+    "en": "Coordinate and provide support as appropriate in relation to the departmental security screening control to:",
+    "fr": "Assurer la coordination et le soutien nécessaires pour ce qui est du filtrage de sécurité du ministère afin de :"
+  },
+  {
+    "en": "Implement departmental security screening practices as prescribed in the appendices of this directive;",
+    "fr": "mettre en œuvre les pratiques ministérielles en matière de filtrage de sécurité telles qu’elles sont prescrites dans les annexes de la présente directive."
+  },
+  {
+    "en": "Monitor and report on the effectiveness of security screening practices and share the results with the chief security officer to:",
+    "fr": "Assurer le suivi et rendre compte de l’efficacité des pratiques en matière de filtrage de sécurité, et communiquer les résultats au dirigeant principal de la sécurité afin :"
+  },
+  {
+    "en": "Assess the extent to which departmental security requirements are met; and",
+    "fr": "d’évaluer la mesure dans laquelle les exigences de sécurité du ministère sont respectées;"
+  },
+  {
+    "en": "Identify necessary actions to address any deficiencies; and",
+    "fr": "de déterminer les mesures nécessaires en cas d’insuffisance."
+  },
+  {
+    "en": "Provide advice to the chief security officer and other stakeholders, as appropriate, on departmental security screening matters.",
+    "fr": "Fournir des conseils au dirigeant principal de la sécurité et aux autres intervenants, le cas échéant, sur les questions de filtrage de sécurité au sein du ministère."
+  },
+  {
+    "en": "Individuals who have human resources responsibilities are to:",
+    "fr": "Les personnes ayant des responsabilités en ressources humaines doivent :"
+  },
+  {
+    "en": "Integrate security screening considerations into planning and other administrative activities;",
+    "fr": "Intégrer les facteurs à prendre en compte relativement au filtrage de sécurité dans la planification et les autres activités administratives;"
+  },
+  {
+    "en": "Collaborate with the chief security officer to determine the appropriate screening level for each position for which they are responsible:",
+    "fr": "Collaborer avec le dirigeant principal de la sécurité pour déterminer le niveau de filtrage approprié pour chaque poste sous leur responsabilité :"
+  },
+  {
+    "en": "In accordance with subsections A.2.2.4 and A.2.2.10 of ;",
+    "fr": "conformément aux paragraphes A.2.2.4 et A.2.2.10 de l’ ."
+  },
+  {
+    "en": "Ensure the established requirement of a security status or clearance as a condition of employment, appointment, contract or other arrangement, or assignment for positions for which they are responsible, is reflected in relevant documentation;",
+    "fr": "Veiller à ce que l’exigence établie d’une cote ou d’une autorisation de sécurité comme condition préalable à un emploi, une nomination, un contrat ou un autre arrangement, ou d’une affectation à des postes sous leur responsabilité, soit reflétée dans les documents pertinents;"
+  },
+  {
+    "en": "Ensure that individuals for whom they are currently responsible or may become responsible have a valid security status or clearance, as defined by the department’s security screening requirements, before:",
+    "fr": "Veiller à ce que les personnes sous leur responsabilité actuelle ou future aient une cote ou une autorisation de sécurité valide, telle que définie par les exigences du ministère en matière de filtrage de sécurité, avant :"
+  },
+  {
+    "en": "Issuing an unconditional job offer;",
+    "fr": "de faire une offre d’emploi inconditionnelle;"
+  },
+  {
+    "en": "Awarding a contract; or",
+    "fr": "d’attribuer un contrat;"
+  },
+  {
+    "en": "During the pre-contractual phase, providing a contractor access to sensitive information for the purpose of bidding;",
+    "fr": "de permettre à un entrepreneur, au cours de la phase précontractuelle, d’accéder à des renseignements sensibles dans le cadre d’un appel d’offres;"
+  },
+  {
+    "en": "Placing them in a position by means of other mechanisms such as an assignment, secondment, volunteer or other official capacity; and",
+    "fr": "de les placer dans un poste au moyen d’un autre mécanisme, comme une affectation, un détachement, un bénévolat ou une autre capacité officielle;"
+  },
+  {
+    "en": "Providing access to sensitive information and assets, including IT systems and facilities;",
+    "fr": "de permettre l’accès à des biens et à des renseignements sensibles, notamment des installations et des systèmes de TI."
+  },
+  {
+    "en": "Ensure that individuals for whom they are responsible have received a security briefing prior to providing access to sensitive information and assets, including IT systems and facilities; and",
+    "fr": "Veiller à ce que les personnes sous leur responsabilité aient assisté à une séance d’information en matière de sécurité avant d’obtenir l’accès aux renseignements sensibles et aux biens, y compris les installations et les systèmes de TI;"
+  },
+  {
+    "en": "Report to the chief security officer changes in personal circumstances and behaviour of individuals for whom they are responsible, which may affect the security status or clearance they have been granted.",
+    "fr": "Signaler au dirigeant principal de la sécurité les changements dans la situation personnelle et le comportement des personnes sous leur responsabilité qui pourraient avoir une incidence sur la cote ou l’autorisation de sécurité qui leur a été accordée."
+  },
+  {
+    "en": "Individuals are to:",
+    "fr": "Les personnes doivent :"
+  },
+  {
+    "en": "Provide their consent to initiate screening activities;",
+    "fr": "Fournir leur consentement pour lancer les activités de filtrage."
+  },
+  {
+    "en": "Provide the personal information and evidentiary documents required for security screening:",
+    "fr": "Fournir les renseignements personnels et les documents de preuve requis pour le filtrage de sécurité qui sont :"
+  },
+  {
+    "en": "Accurately and truthfully; and",
+    "fr": "exacts et vrais;"
+  },
+  {
+    "en": "In accordance with the required format and established time frames and update cycles;",
+    "fr": "conformes au format requis et aux délais et cycles de mise à jour établis."
+  },
+  {
+    "en": "Indicate their understanding and acceptance of security responsibilities by signing the ;",
+    "fr": "Indiquer qu’elles comprennent et acceptent les responsabilités en matière de sécurité en signant le ."
+  },
+  {
+    "en": "Perform their duties reliably and in compliance with:",
+    "fr": "Accomplir leurs tâches de manière fiable en respectant :"
+  },
+  {
+    "en": "The security status or clearance they are granted;",
+    "fr": "la cote ou l’autorisation de sécurité qui leur est accordée;"
+  },
+  {
+    "en": "The security obligations detailed in the ; and",
+    "fr": "les obligations en matière de sécurité décrites en détail dans le ;"
+  },
+  {
+    "en": "Government of Canada security policy and departmental security practices, including safeguarding information and assets under their control, whether working onsite or offsite;",
+    "fr": "les politiques de sécurité du gouvernement et les pratiques ministérielles en matière de sécurité, notamment la protection de l’information et des biens placés sous leur contrôle, qu’elles travaillent sur place ou à l’extérieur."
+  },
+  {
+    "en": "Notify their manager or chief security officer of the following:",
+    "fr": "Aviser leur gestionnaire ou le dirigeant principal de la sécurité de ce qui suit :"
+  },
+  {
+    "en": "Information related to a change in personal circumstances;",
+    "fr": "les renseignements liés à un changement de situation personnelle;"
+  },
+  {
+    "en": "Any persistent or unusual contact, or any attempt by an individual, group, organization or other entity to solicit or obtain access to sensitive information and assets, including IT systems and facilities, without authorization; or",
+    "fr": "tout contact persistant ou inhabituel, ou toute tentative par une personne, un groupe, une organisation ou une autre entité de solliciter ou d’obtenir l’accès à des biens et à des renseignements sensibles, notamment des installations et des systèmes de TI, sans autorisation; ou"
+  },
+  {
+    "en": "Behaviour of individuals that may present a security risk to the department or the Government of Canada (as described in ).",
+    "fr": "le comportement de personnes susceptibles de présenter un risque pour la sécurité du ministère ou du gouvernement du Canada (tel que décrit à l’ )."
+  },
+  {
+    "en": "Individuals designated by deputy heads of internal enterprise service organizations authorized to provide enterprise security screening services to departments are to:",
+    "fr": "Les personnes désignées par les administrateurs généraux des organisations de services internes intégrés autorisées à fournir des services de filtrage de sécurité aux ministères doivent :"
+  },
+  {
+    "en": "Support the deputy head, chief security officer and other stakeholders, as appropriate, on departmental security screening matters, including:",
+    "fr": "Soutenir l’administrateur général, le dirigeant principal de la sécurité et d’autres parties prenantes, le cas échéant, sur les questions de filtrage de sécurité du ministère, notamment :"
+  },
+  {
+    "en": "Ensuring that a written agreement is in place for security screening services provided to other organizations pursuant to subsections 6.3 and 6.4;",
+    "fr": "veiller à la mise en place d’un accord écrit pour les services de filtrage de sécurité fournis à d’autres organisations conformément aux paragraphes 6.3 et 6.4."
+  },
+  {
+    "en": "Make available to the deputy head or chief security officer of a client department upon request and in a timely manner:",
+    "fr": "Mettre à la disposition de l’administrateur général ou du dirigeant principal de la sécurité d’un ministère client les éléments suivants sur demande et en temps opportun :"
+  },
+  {
+    "en": "Information that pertains to security screening activities and results, unless prohibited by law, including the , the or other applicable legislation; and",
+    "fr": "les renseignements relatifs aux activités et aux résultats du filtrage de sécurité, à moins que la loi ne l’interdise, notamment la et la ou toute autre loi applicable;"
+  },
+  {
+    "en": "Advice and recommendations to support the result of security screening activities and inform decision-making;",
+    "fr": "les conseils et recommandations visant à étayer les résultats des activités de filtrage de sécurité et à éclairer la prise de décision."
+  },
+  {
+    "en": "Maintain a security file for all individuals for whom security screening is conducted in accordance with the and associated Government of Canada policy instruments;",
+    "fr": "Maintenir un dossier de sécurité pour toutes les personnes faisant l’objet d’un filtrage de sécurité conformément à et aux instruments de politique connexes du gouvernement du Canada."
+  },
+  {
+    "en": "Ensure that personal information for the purpose of security screening is:",
+    "fr": "Veiller à ce que les renseignements personnels destinés au filtrage de sécurité soient :"
+  },
+  {
+    "en": "Collected, created, used, disclosed, retained and disposed of in accordance with the and Government of Canada policy instruments;",
+    "fr": "recueillis, créés, utilisés, divulgués, conservés et éliminés conformément à la et aux instruments de politique du gouvernement du Canada."
+  },
+  {
+    "en": "Ensure that individuals or organizations that are assigned responsibility for conducting security screening are qualified to do so, including that they:",
+    "fr": "Veiller à ce que les personnes ou les organisations auxquelles on confie la responsabilité d’effectuer le filtrage de sécurité soient qualifiées pour le faire. Elles doivent notamment :"
+  },
+  {
+    "en": "Perform their responsibilities in accordance with legal and policy requirements, with the security interests of Canada in mind;",
+    "fr": "s’acquitter de leurs responsabilités conformément aux exigences légales et politiques en tenant compte des intérêts du Canada en matière de sécurité;"
+  },
+  {
+    "en": "Monitoring compliance of security screening services against established service standards; and",
+    "fr": "assurer le suivi de la conformité des services de filtrage de sécurité par rapport aux normes de service établies;"
+  },
+  {
+    "en": "Reporting any issues related to the fulfillment of security screening services to the affected departments and the Treasury Board of Canada Secretariat;",
+    "fr": "signaler aux ministères concernés et au Secrétariat du Conseil du Trésor du Canada tout problème lié à la prestation de services de filtrage de sécurité."
+  },
+  {
+    "en": "Monitor compliance with this directive:",
+    "fr": "Assurer la surveillance de la conformité à la présente directive :"
+  },
+  {
+    "en": "Assess, investigate and report any significant compliance issues to the deputy head;",
+    "fr": "évaluer, examiner et signaler à l’administrateur général tout problème de conformité important;"
+  },
+  {
+    "en": "Take action as directed by the deputy head; and",
+    "fr": "mettre en œuvre les mesures demandées par l’administrateur général;"
+  },
+  {
+    "en": "Report findings to the Treasury Board of Canada Secretariat, including information to help inform government-wide policy direction and oversight;",
+    "fr": "rendre compte des résultats au Secrétariat du Conseil du Trésor du Canada, notamment les renseignements contribuant à la supervision et à l’orientation stratégique dans l’ensemble du gouvernement."
+  },
+  {
+    "en": "Collaborate with senior officials and other stakeholders to respond to direction, advice and information requests issued by the Treasury Board of Canada Secretariat.",
+    "fr": "Collaborer avec les hauts fonctionnaires et d’autres intervenants pour répondre aux demandes d’orientation, de conseils et d’information émises par le Secrétariat du Conseil du Trésor du Canada."
+  },
+  {
+    "en": "This section identifies key government organizations in relation to the . In and of itself, this section does not confer any authority.",
+    "fr": "Cet article indique les principales organisations gouvernementales concernées par la Politique sur la sécurité du gouvernement. En soi, cet article ne confère aucune autorisation."
+  },
+  {
+    "en": "This section identifies lead security agencies or internal enterprise service organizations that have a leadership and support role in relation to this directive and contribute to the achievement of government security policy objectives. The responsibilities of each organization are identified, in accordance with its mandate.",
+    "fr": "Cette section indique les principaux organismes de sécurité ou les organisations de services internes intégrés qui fournissent la direction et l’appui dans le cadre de la présente directive et qui contribuent à la réalisation des objectifs de la Politique sur la sécurité du gouvernement. Elle indique les responsabilités de chacune des organisations, conformément à leurs mandats respectifs."
+  },
+  {
+    "en": "The following roles and responsibilities are supplementary to those defined in the .",
+    "fr": "Les responsabilités et les rôles suivants s’ajoutent à ceux qui sont énoncés dans la ."
+  },
+  {
+    "en": "The Canadian Security Intelligence Service is to:",
+    "fr": "Le Service canadien du renseignement de sécurité est responsable de ce qui suit :"
+  },
+  {
+    "en": "Conduct, on behalf of departments, appraisals of the individuals’ loyalty to Canada and, so far as it relates thereto their loyalty, their reliability.",
+    "fr": "Procéder, pour le compte des ministères, à l’évaluation de la loyauté des une personnes envers le Canada et, dans la mesure où elle s’y rapporte, leur fiabilité."
+  },
+  {
+    "en": "The Communications Security Establishment is to:",
+    "fr": "Le Centre de la sécurité des télécommunications est responsable de ce qui suit :"
+  },
+  {
+    "en": "Define criteria and formal control systems for access to signals intelligence (SIGINT) compartmented information to authorize government departments to perform indoctrinations and maintain the national inventory of indoctrinated personnel.",
+    "fr": "Définir des critères et des systèmes de contrôle formels pour l’accès à l’information cloisonnée du renseignement d’origine électromagnétique (SIGINT) pour autoriser les services gouvernementaux à effectuer des endoctrinements et à tenir le registre national du personnel endoctriné."
+  },
+  {
+    "en": "National Defence is to:",
+    "fr": "Défense nationale est responsable de ce qui suit :"
+  },
+  {
+    "en": "Process requests for visits when security-cleared military personnel must visit a government or military establishment in Canada or abroad; and",
+    "fr": "Traiter les demandes de visites lorsque le personnel militaire ayant obtenu une cote de sécurité doit se rendre dans un établissement gouvernemental ou militaire au Canada ou à l’étranger."
+  },
+  {
+    "en": "Define criteria and formal control systems for access to Talent-Keyhole (TK) compartmented information to authorize government departments to perform indoctrinations and maintain the national inventory of indoctrinated personnel.",
+    "fr": "Établir les critères et les systèmes de contrôle officiels d’accès à des informations cloisonnées de Talent-Keyhole (TK) afin d’autoriser les ministères gouvernementaux à effectuer des endoctrinements et de tenir à jour le registre national du personnel endoctriné."
+  },
+  {
+    "en": "Global Affairs Canada is to:",
+    "fr": "Affaires mondiales Canada est responsable de ce qui suit :"
+  },
+  {
+    "en": "Conduct security screening of locally engaged staff and of other governments’ officials at Canadian missions abroad.",
+    "fr": "Effectuer le filtrage de sécurité du personnel recruté localement et des fonctionnaires d’autres gouvernements dans les missions canadiennes à l’étranger."
+  },
+  {
+    "en": "Public Services and Procurement Canada is to:",
+    "fr": "Services publics et Approvisionnement Canada est responsable de ce qui suit :"
+  },
+  {
+    "en": "Conduct security screening of contractors, other individuals and organizational entities as part of the government contracting process, including those participating in foreign contracts; and",
+    "fr": "Effectuer le filtrage de sécurité des entrepreneurs, d’autres personnes et d’entités organisationnelles dans le cadre du processus d’octroi de contrats du gouvernement, y compris de ceux qui participent à des marchés étrangers."
+  },
+  {
+    "en": "Manage a visit-clearance request system for visitors accessing classified information in private sector premises and for foreign private sector individuals accessing classified information on government premises.",
+    "fr": "Gérer un système de demande de permis de visite pour les visiteurs ayant accès à des renseignements classifiés dans des locaux du secteur privé et pour des particuliers du secteur privé de l’étranger qui ont accès à des renseignements classifiés dans des locaux du gouvernement."
+  },
+  {
+    "en": "The Royal Canadian Mounted Police is to:",
+    "fr": "La Gendarmerie royale du Canada est responsable de ce qui suit :"
+  },
+  {
+    "en": "Conduct criminal record checks and law enforcement records checks to verify whether an individual has been convicted of a criminal offence and, when appropriate, to assess the person’s involvement with criminality or with criminal organizations.",
+    "fr": "Effectuer les vérifications du casier judiciaire et les vérifications des dossiers policier, en vue de vérifier si une personne a été trouvée coupable d’un acte criminel et, au besoin, évaluer sa participation à des organisations criminelles ou à des activités criminelles."
+  },
+  {
+    "en": "The Treasury Board of Canada Secretariat is to:",
+    "fr": "Le Secrétariat du Conseil du Trésor du Canada est responsable de ce qui suit :"
+  },
+  {
+    "en": "Determine the personal information that is to be collected, used, disclosed, retained and disposed of for the purpose of security screening, and maintain the description of the for this purpose.",
+    "fr": "Déterminer les renseignements personnels à recueillir, à utiliser, à communiquer, à conserver et à éliminer aux fins du filtrage de sécurité, et maintenir la description figurant au à cette fin."
+  },
+  {
+    "en": "This directive applies to the organizations listed in subsection 6.1 of the .",
+    "fr": "La présente directive s’applique aux organisations indiquées dans le paragraphe 6.1 de la Politique sur la sécurité du gouvernement."
+  },
+  {
+    "en": "The heads of the following organizations are solely responsible for monitoring and ensuring compliance with this directive within their organizations:",
+    "fr": "Les administrateurs généraux des organisations suivantes sont les seuls responsables d’assurer le contrôle et le respect de la présente directive au sein de leur organisation :"
+  },
+  {
+    "en": "Subsections 4.1.4 and 4.2.3.1 of this directive apply only to interdepartmental agreements pursuant to subsection 29.2 of the and to arrangements with Crown corporations, other orders of government, the private sector or other entities that are not governed by the , where the department has authority to enter into such agreements or arrangements.",
+    "fr": "Les paragraphes 4.1.4 et 4.2.3.1 de la présente directive ne s’appliquent qu’aux accords interministériels conclus en vertu du paragraphe 29.2 de la et aux ententes conclues avec des sociétés d’État, d’autres organes du gouvernement, le secteur privé ou d’autres entités qui ne sont pas régies par la Politique sur la sécurité du gouvernement, lorsque le ministère a le pouvoir de conclure de tels accords ou de telles ententes."
+  },
+  {
+    "en": "Subsections 4.1.4 and 4.2.3.1 of this directive apply to contracts for the production or delivery of goods or services and to any other arrangement that involves the sharing of sensitive information or assets with organizations or individuals that do not fall under the application of the .",
+    "fr": "Les paragraphes 4.1.4 et 4.2.3.1 de la présente directive s’appliquent aux contrats de production ou de livraison de biens ou de services, et à toute autre entente exigeant l’échange de biens ou de renseignements sensibles avec des organisations ou des personnes qui ne sont pas assujetties à la Politique sur la sécurité du gouvernement."
+  },
+  {
+    "en": "Legislation",
+    "fr": "Législation"
+  },
+  {
+    "en": "Related policy instruments",
+    "fr": "Instruments de politique connexes"
+  },
+  {
+    "en": "Related guidance",
+    "fr": "Orientations connexes"
+  },
+  {
+    "en": "Members of the public may contact for information about this directive.",
+    "fr": "Les membres du grand public peuvent communiquer avec le pour obtenir de plus amples renseignements sur la présente directive."
+  },
+  {
+    "en": "Individuals from departments should contact their departmental security management group for any questions regarding this directive.",
+    "fr": "Les employés des ministères doivent communiquer avec leur groupe de gestion de la sécurité ministérielle s’ils ont des questions au sujet de la présente directive."
+  },
+  {
+    "en": "Individuals from the departmental security group may contact the Security Policy Division at the Treasury Board of Canada Secretariat by email at for interpretation of this directive.",
+    "fr": "Les membres du groupe de sécurité ministériel peuvent communiquer avec la Division de la politique de sécurité du Secrétariat du Conseil du Trésor du Canada par courriel à l’adresse pour obtenir de l’aide quant à l’interprétation de la présente directive."
+  }
+]

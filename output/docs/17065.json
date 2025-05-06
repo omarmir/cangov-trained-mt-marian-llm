@@ -1,0 +1,890 @@
+[
+  {
+    "en": "This guideline takes effect October 18, 2017 and was updated on September 1, 2020.",
+    "fr": "La présente ligne directrice entre en vigueur le 18 octobre 2017 et a été mis à jour le 1er septembre 2020."
+  },
+  {
+    "en": "This guideline replaces the following Treasury Board policy instruments:",
+    "fr": "Elle remplace les instruments de politique du Conseil du Trésor ci-après :"
+  },
+  {
+    "en": "This guideline is to assist departments in implementing the financial management requirements described in the .",
+    "fr": "La présente ligne directrice a pour but d’aider les ministères à mettre en œuvre les exigences en matière de gestion financière décrites dans la ."
+  },
+  {
+    "en": "The objectives of this guideline are to:",
+    "fr": "Les objectifs de la présente ligne directrice sont les suivants :"
+  },
+  {
+    "en": "This guideline is intended to help departments implement and exercise spending and financial authorities as described in the in the context of pay transactions.",
+    "fr": "La présente ligne directrice vise à aider les ministères dans l’application et l’exercice des pouvoirs de dépenser et des pouvoirs financiers selon la dans le cadre des opérations de la paye."
+  },
+  {
+    "en": "PSPC is the pay administrator for the Government of Canada. PSPC maintains the system used for processing pay (Phoenix) and manages the centralized pay processing centre (Pay Centre). All departments use Phoenix, but not all departments use the services of the Pay Centre. In addition, a department’s Human Resources Management System (HRMS) may or may not be integrated with Phoenix. As a result, the departmental end-to-end processes will vary. A system overview of pay administration is provided in Appendix D of this guideline.",
+    "fr": "SPAC est l’administrateur de la paye pour le gouvernement du Canada . Il gère le système de traitement de la paye (Phénix) et le centre de traitement centralisé de la paye (Centre des services de paye). Tous les ministères utilisent Phénix, mais ce ne sont pas tous les ministères qui ont recours aux services du Centre des services de paye. En outre, le Système de gestion des ressources humaines (SGRH) d’un ministère peut être intégré ou non à Phénix. Par conséquent, les processus ministériels de bout en bout varieront d’un ministère à l’autre. L’annexe D de la présente ligne directrice présente un aperçu des systèmes utilisés pour l’administration de la paye."
+  },
+  {
+    "en": "There are cases where a system other than Phoenix is used to administer pay. Most of the practices and controls included in this document apply in these situations as well.",
+    "fr": "Certains ministères utilisent un autre système que Phénix pour l’administration de la paye. La plupart des pratiques et des contrôles compris dans le présent document s’appliquent également à ces ministères."
+  },
+  {
+    "en": "Departments follow one of four pay administration models:",
+    "fr": "Les ministères suivent l’un des quatre modèles d’administration de la paye énumérés ci-après."
+  },
+  {
+    "en": "In all four pay administration models, departments must follow the Financial Administration Act (FAA), specifically, section 32 (commitment authority), section 33 (payment authority) and section 34 (certification authority), and the associated Treasury Board policy instruments, including those listed in section 5.0 of this guideline.",
+    "fr": "Pour les quatre modèles d’administration de la paye, les ministères doivent respecter la (LGFP), en particulier l’article 32 (pouvoir d’engager des fonds), l’article 33 (pouvoir de payer) et l’article 34 (pouvoir d’attestation), et les instruments de politique connexes du Conseil du Trésor, y compris ceux qui sont énumérés à la section 5.0 de la présente ligne directrice."
+  },
+  {
+    "en": "The departmental controls and management practices to support compliance with the FAA will vary depending on the pay administration model used.",
+    "fr": "Les contrôles et les pratiques de gestion ministériels à l’appui de la conformité à la LGFP varient en fonction du modèle d’administration de la paye utilisé."
+  },
+  {
+    "en": "There are significant interdependencies between departments and PSPC. Departments rely on the effectiveness of the Phoenix system primarily for pay processing and time and labour reporting. Departments, specifically those that are fully serviced by PSPC, also rely on the effectiveness of Pay Centre activities and practices (including controls). Similarly, PSPC relies on the effectiveness of departmental activities and practices to ensure that information provided to Phoenix and the Pay Centre, where applicable, is valid, timely, complete and accurate. When a department relies on the Pay Centre or Phoenix to perform certain controls, the department is not expected to repeat these controls.",
+    "fr": "Il existe des interdépendances importantes entre les ministères et SPAC. Les ministères sont tributaires de l’efficacité du système Phénix, surtout pour le traitement de la paye et la déclaration du temps et de la main d’œuvre. Les ministères, en particulier ceux dont les services sont entièrement fournis par le Centre des services de paye de SPAC, comptent également sur l’efficacité des activités et des pratiques du Centre des services de paye (y compris les contrôles). De la même façon, SPAC compte sur l’efficacité des activités et des pratiques ministérielles pour s’assurer que l’information consignée dans Phénix et fournie au Centre des services de paye, s’il y a lieu, est valide, opportune, complète et exacte. Lorsque le ministère a recours au Centre des services de paye ou à Phénix pour effectuer certains contrôles, il n’a pas à refaire ces contrôles."
+  },
+  {
+    "en": "The following roles within departments are responsible for performing key activities in the pay process:",
+    "fr": "Ceux qui exercent les rôles ci-dessous dans les ministères ont la responsabilité d’exécuter les activités clés du processus de paye."
+  },
+  {
+    "en": "These roles are defined in more detail in Appendix E of this guideline.",
+    "fr": "Ces rôles sont définis en détail à l’annexe E de la présente ligne directrice."
+  },
+  {
+    "en": "The guideline provides practical guidance common to all departments and provides examples of generic internal controls (Appendix A), as well as a recommended approach for post-payment verification of pay transactions (Appendix B). The intent is to integrate with, but not duplicate, documentation provided by PSPC and the Treasury Board of Canada Secretariat.",
+    "fr": "La présente ligne directrice fournit une orientation pratique commune à tous les ministères, contient des exemples de contrôles internes génériques (annexe A) et recommande une approche à adopter pour la vérification après paiement des opérations de la paye (annexe B), le but étant l’intégration avec la documentation fournie par SPAC et le Secrétariat du Conseil du Trésor du Canada, mais non la duplication de celle-ci."
+  },
+  {
+    "en": "This guideline outlines the requirements of legislation, regulations and Treasury Board policies relating to the financial administration of pay. If there are conflicts between this guideline and legislation, regulations or policy, the most authoritative reference will apply. In addition, any examples, considerations and recommendations are provided for illustrative purposes only and may not apply to all departments or situations.",
+    "fr": "La présente ligne directrice décrit les exigences des lois et des règlements ainsi que des politiques du Conseil du Trésor relativement à l’administration financière de la paye. En cas de conflit entre ces instruments et la présente ligne directrice, le document de référence faisant le plus autorité s’appliquera. Par ailleurs, les exemples sont fournis à titre d’illustration seulement et peuvent ne pas s’appliquer à tous les ministères ou à toutes les situations, tout comme les facteurs à considérer et les recommandations."
+  },
+  {
+    "en": "Definitions are included in Appendix E.",
+    "fr": "Les définitions figurent à l’annexe E."
+  },
+  {
+    "en": "The pay administration process is divided into three sub-processes (see Figure 1).",
+    "fr": "Le processus d’administration de la paye est divisé en trois sous-processus (voir la figure 1)."
+  },
+  {
+    "en": "Figure 1 illustrates the order of three sub processes: pre-payroll, payroll and post-payroll.",
+    "fr": "La figure 1 illustre l’ordre des trois sous-processus : activités précédant la paye, activités de la paye et activités suivant la paye."
+  },
+  {
+    "en": "The purpose of the pre-payroll sub-process is to ensure that pay-related actions are initiated with correct, valid and complete information and that spending and financial authorities are applied by an individual with the appropriate delegated authority. The sub-process starts with a pay-related action initiated by a responsibility centre manager or an employee (for example, self-service). Pre-payroll activities may also be initiated by HR and/or compensation (either in the department or at the Pay Centre) such as mandatory cash-out of leave. The sub-process ends with complete, accurate and valid transactions in Phoenix. Figure 2 shows the process flow of the pre-payroll sub-process. Activities 4.1.2, 4.1.3, 4.1.4 and 4.1.5 are completed simultaneously, as indicated by the dotted line around those activities. Appendix F of this guideline provides a legend for the flowchart.",
+    "fr": "Le sous-processus des activités précédant la paye a pour but de s’assurer que l’information de l’intervention liée à la paye est exacte, valide et complète et que les pouvoirs de dépenser et les pouvoirs financiers sont exercés par la personne compétente. Le sous-processus commence par une intervention liée à la paye lancée par un gestionnaire de centre de responsabilité ou un employé (par exemple, à l’aide du libre-service). Les activités du sous-processus précédant la paye, par exemple le paiement obligatoire des congés, peuvent également être lancées par les RH et/ou la Rémunération (au sein du ministère ou au Centre des services de paye)."
+  },
+  {
+    "en": "Figure 2 provides an overview of the pre-payroll sub‐process. It starts with the initiation of pay-related action requests, followed by a decision regarding whether the expenditure initiation authority is required.",
+    "fr": "Le sous-processus se termine par des opérations complètes, exactes et valides dans Phénix. La figure 2 montre le déroulement du sous-processus précédant la paye. Les activités 4.1.2, 4.1.3, 4.1.4 et 4.1.5 sont effectuées simultanément, comme l’indique la ligne pointillée autour de ces activités. L’annexe F de la présente ligne directrice comprend une légende des diagrammes des sous-processus."
+  },
+  {
+    "en": "When the expenditure initiation authority is required, all of the following four activities must be completed:",
+    "fr": "La figure 2 donne un aperçu du sous-processus des activités précédant la paye. Il commence par le traitement des demandes d’intervention liée à la paye, suivi d’une décision à savoir s’il faut ou non obtenir une autorisation pour engager les dépenses."
+  },
+  {
+    "en": "These four activities can be completed simultaneously. Once they are completed, approval from the delegated human resources authority must be obtained and pay-related actions must be certified (this first portion of certification is required under section 34 of the ).",
+    "fr": "Lorsqu’il faut obtenir une autorisation pour engager les dépenses, les quatre activités suivantes doivent être réalisées :"
+  },
+  {
+    "en": "When expenditure initiation authority is not required, the process continues to validate and verify the pay‐related actions before the data is entered into the Human Resources Management System and/or Phoenix.",
+    "fr": "Ces quatre activités peuvent être réalisées simultanément. Une fois qu’elles sont terminées, il faut obtenir l’autorisation de la personne investie du pouvoir délégué en matière de ressources humaines et valider la demande d’intervention liée à la paye (cette première partie de la validation est requise en vertu de l’article 34 de la )."
+  },
+  {
+    "en": "If a manual intervention is required in Phoenix, the issues should be identified and resolved before the pay-related actions are ready for the payroll sub-process.",
+    "fr": "Lorsqu’il n’est pas nécessaire d’obtenir l’autorisation d’engager les dépenses, il faut passer à l’étape de la validation et de la vérification de l’intervention liée à la paye, avant que les données ne soient saisies dans le Système de gestion des ressources humaines et/ou dans Phénix."
+  },
+  {
+    "en": "If no manual intervention is required in Phoenix, then the pay-related actions are ready to be moved to the payroll sub-process.",
+    "fr": "S’il faut faire une intervention manuelle dans Phénix, il est nécessaire de cerner le problème et de le résoudre avant d’entreprendre le sous-processus des activités de la paye."
+  },
+  {
+    "en": "A pay-related action request includes HR actions, pay actions and employee-initiated actions that impact pay. Pay-related actions include the addition of new hires, whether they be indeterminate or determinate (casual, student, term, and so on), promotions, terminations, leaves with or without pay, and acting appointments. A responsibility centre manager or employee initiates a transaction in accordance with his or her approved budget and annual plan, as described in the HR policy suite documentation. The HR policy suite documentation contains detailed information for many elements of this sub-process and may be referred to at various steps in the sub-process.",
+    "fr": "Si aucune intervention manuelle n’est nécessaire dans Phénix, il faut alors entreprendre le sous-processus des activités de la paye."
+  },
+  {
+    "en": "For pay-related actions that result in a payment (for example, new hires, vacation payouts and overtime), expenditure initiation, commitment control and updating salary forecast are the next steps.",
+    "fr": "Une demande d’intervention liée à la paye comprend des interventions de RH, des interventions de paye et des interventions lancées par l’employé qui touchent la paye. Les interventions liées à la paye comprennent l’ajout de nouveaux employés, qu’ils soient nommés pour une période indéterminée ou déterminée (étudiants, employés occasionnels ou temporaires, et ainsi de suite), les promotions, les cessations d’emploi, les congés payés ou non payés et les nominations intérimaires. Un gestionnaire de centre de responsabilité ou un employé lance une opération conformément au budget et au plan annuel approuvés, comme il est décrit dans la documentation de l’ensemble des politiques des RH. Cette documentation contient des renseignements détaillés sur bon nombre d’éléments de ce sous-processus et peut être consultée à différentes étapes du sous-processus."
+  },
+  {
+    "en": "When pay-related actions do not require expenditure initiation authority (for example, retirements, transfers out, leave, retroactive pay under the terms and conditions of a new collective agreement), the process continues to validate and verify the pay-related actions before the data is entered into the HRMS or Phoenix. In these instances, certification under section 34 of the FAA is not needed. Certain employee-driven pay-related actions do not require expenditure initiation; these include, employee self-service entries such as changes in banking information, changes of address and certain leave requests (for example, leave without pay less than or equal to 5 days).",
+    "fr": "Pour les interventions liées à la paye qui donnent lieu à un paiement (par exemple, salaires des nouveaux employés, paiements de vacances et heures supplémentaires), il faut procéder aux étapes de l’engagement des dépenses, du contrôle des engagements et de la mise à jour des prévisions salariales."
+  },
+  {
+    "en": "For certain types of transactions, consultation with other organizational units or with other government departments may be required to complete the pay-related action. For example, garnishments or salary recovery requires coordination with Finance staff to ensure that the amount is accurate and compliant with regulations or policies; and employee transfers into or out of the department require communication and coordination between departments.",
+    "fr": "Lorsque les interventions liées à la paye ne nécessitent pas une autorisation d’engager des dépenses (par exemple, retraites, mutations dans un autre ministère, congés, paye rétroactive selon les modalités d’une nouvelle convention collective), il faut dans le cadre du processus continuer à valider et à vérifier les interventions liées à la paye avant que les données soient entrées dans le SGRH ou dans Phénix. Dans ces situations, il n’est pas nécessaire d’obtenir une attestation aux termes de l’article 34 de la LGFP. Pour certaines interventions liées à la paye effectuées par un employé, il n’est pas nécessaire d’engager des dépenses, notamment les entrées au libre-service des employés, par exemple les changements d’information bancaire, les changements d’adresse et certaines demandes de congés (par exemple, congés non payés de cinq jours ou moins)."
+  },
+  {
+    "en": "Before the appropriate expenditure initiation authority is exercised and HR authorities are obtained, individuals with delegated spending and financial authorities must confirm that there are sufficient unencumbered funds to cover all applicable costs and that related policy restrictions are considered. If there are insufficient unencumbered funds, budgets must be reallocated or adjusted, the resource requirement must be revised, or the pay-related action must be terminated.",
+    "fr": "Pour certains types d’opérations, il peut être nécessaire de consulter d’autres unités organisationnelles ou d’autres ministères pour effectuer l’intervention liée à la paye. Par exemple, dans les cas de saisies-arrêts ou de recouvrement des salaires, il faut assurer une coordination des activités avec le personnel des Finances pour veiller à ce que le montant soit exact et conforme aux règlements ou aux politiques et pour les mutations d’employés d’un ministère à un autre, il faut assurer une communication et une coordination des activités entre les ministères concernés."
+  },
+  {
+    "en": "For transactions such as new hires (including promotions) and overtime, authorization of the planned expenditure must be obtained before entering into a contract, undertaking an HR action or other arrangement, and making a commitment against the budget. Authorization may be documented through an email, a departmental form, a system (electronic approval), an approval of a work schedule or an overtime request.",
+    "fr": "Avant d’engager des dépenses et d’obtenir les autorisations des RH, les personnes investies des pouvoirs de dépenser et des pouvoirs financiers délégués doivent déterminer s’il y a suffisamment de fonds non grevés pour prendre en charge tous les coûts applicables et si les restrictions des politiques connexes ont été prises en compte . S’il n’y a pas suffisamment de fonds non grevés, il faut réaffecter les fonds ou rajuster les budgets, revoir les besoins en ressources ou mettre fin à l’intervention liée à la paye."
+  },
+  {
+    "en": "All anticipated expenditures charged to a department’s appropriation, including expenditures that will eventually be cost-recovered, should be committed in the department’s financial system. The responsibility centre manager is accountable for ensuring that the commitment is recorded in accordance with departmental policy and procedure, including continuing commitments that impact future fiscal years. The ultimate objective is that all commitments are managed and that responsibility centre managers do not exceed their allocated budgets and, by extension, that the department does not exceed its appropriations. Commitment authority is exercised when the expenditure is authorized (see 4.1.3), the unencumbered balance is verified (see 4.1.2) and the commitment is recorded (see 4.1.4).",
+    "fr": "Pour les opérations liées aux nouveaux employés (y compris les promotions) ou aux heures supplémentaires, il faut obtenir une autorisation d’engager les dépenses prévues avant de conclure un marché, de prendre une mesure de dotation ou tout autre arrangement, et d’engager les fonds du budget . L’autorisation peut être consignée dans un courriel, un formulaire ministériel, un système (approbation électronique), une approbation d’horaire de travail ou une demande d’heures supplémentaires."
+  },
+  {
+    "en": "When necessary, the department may use its salary forecasting process as a compensating control for commitment control.",
+    "fr": "Toutes les dépenses prévues imputées aux crédits du ministère, y compris les dépenses qui finiront par être recouvrées, devraient être consignées comme un engagement dans le système financier du ministère . Il appartient au gestionnaire de centre de responsabilité de s’assurer que les engagements sont consignés conformément aux politiques et aux procédures ministérielles, y compris les engagements continus qui touchent des exercices futurs . L’objectif ultime est d’assurer la gestion de tous les engagements et de veiller à ce que le gestionnaire de centre de responsabilité ne dépasse pas son budget, et, ainsi, que le ministère demeure dans les limites des crédits qui lui ont été accordés. Le pouvoir d’engager des fonds est lorsque les dépenses sont autorisées (voir 4.1.3), que le solde non grevé est vérifié (voir 4.1.2) et que l’engagement est consigné (voir 4.1.4) ."
+  },
+  {
+    "en": "Departments should make every effort to maintain the ongoing accuracy of their salary forecast in order to capture the most current information on salaries. The responsibility centre manager is accountable for ensuring that the salary forecast, and therefore commitments, is maintained and is up to date. Changes in employee pay information (for example, wage increases) or a staffing event (for example, a resignation) that has pay implications require an update to the salary forecast. The timing for updating the salary forecast may vary and can occur at different points in the end-to-end process, depending on departmental practices. Responsibility centre managers should work with their financial management advisor to complete this task.",
+    "fr": "Au besoin, le ministère peut recourir à son processus de prévisions salariales comme solution de rechange au contrôle des engagements ."
+  },
+  {
+    "en": "Before a pay-related action is processed, it must be approved by the appropriate HR authority or authorities, as described in the department’s HR delegation of authority instruments. In the context of an approved operational plan and organizational model, a responsibility centre manager or HR initiates the process based on provisions within the appropriate HR policy suite. For more information on obtaining delegated HR authorities, refer to the departmental HR delegation of authority instruments documentation.",
+    "fr": "Les ministères ne doivent ménager aucun effort pour assurer en tout temps l’exactitude de leurs prévisions salariales. Ils doivent s’assurer de consigner les renseignements les plus récents sur les salaires . Le gestionnaire de centre de responsabilité est chargé de faire en sorte que les prévisions salariales, et donc les engagements, soient tenues à jour. Il faut mettre à jour les prévisions salariales pour tout changement apporté à l’information sur la paye des employés (par exemple, augmentations salariales) ou à une activité de dotation (par exemple, démission) qui a des répercussions sur la paye. La mise à jour des prévisions salariales peut être effectuée à divers moments au cours du processus de bout en bout, selon les pratiques du ministère. Les gestionnaires des centres de responsabilité devraient collaborer avec leur conseiller en gestion financière à l’exécution de cette tâche."
+  },
+  {
+    "en": "After approval by the HR delegated authority has been obtained, the appropriate delegated authority performs the first portion of the certification required under section 34 of the FAA by confirming that the payment is reasonable. This is done by reviewing or signing a letter of offer, a timesheet or a vacation pay cash-out, for example. It is important to note that certification of section 34 is performed manually for many types of pay actions and therefore there is an increased risk that this certification does not take place in a timely manner. However, given that timely certification of section 34 (that is, prior to entering these pay actions in the HR systems) is essential to support the accuracy and validity of departmental pay-related expenses, departments should take steps to implement robust processes for certification of section 34 pay actions.",
+    "fr": "Avant le traitement d’une demande d’intervention liée à la paye, il faut s’assurer qu’elle est approuvée par la personne ou les personnes compétentes des RH, conformément aux instruments de délégation des pouvoirs des RH du ministère. Dans le cadre d’un plan opérationnel et d’un modèle organisationnel approuvés, le gestionnaire d’un centre de responsabilité ou la personne responsable des RH entreprend le processus, d’après les dispositions pertinentes de l’ensemble des politiques des RH. Pour de plus amples renseignements sur les pouvoirs délégués en matière de RH, se reporter aux instruments de délégation des pouvoirs en matière de RH du ministère."
+  },
+  {
+    "en": "Because not all of the details of pay such as the account coding can be verified at this point, certification under section 34 of the FAA cannot be completed until the pay has been issued. Refer to section 4.3.3 and Appendix C.",
+    "fr": "Une fois l’autorisation obtenue de la personne qui détient le pouvoir délégué en matière de RH, la personne investie du pouvoir approprié fournit la première partie de l’attestation requise en vertu de l’article 34 de la LGFP, c’est-à-dire qu’elle confirme que le paiement est raisonnable, par exemple, en examinant ou en signant une lettre d’offre, une feuille de temps ou une demande de paiement forfaitaire de congé annuel. Il est important de noter que l’attestation en vertu de l’article 34 est produite manuellement pour de nombreux types d’interventions de paye et qu’il y a donc un risque accru que cette attestation n’ait pas lieu en temps opportun. Toutefois, étant donné que l’attestation en temps opportun (c’est-à-dire avant l’entrée de ces interventions de paye dans les systèmes des RH) est essentielle pour assurer l’exactitude et la validité des dépenses ministérielles liées à la paye, les ministères sont tenus de prendre des mesures nécessaires pour mettre en œuvre des processus d’attestation en vertu de l’article 34 solides."
+  },
+  {
+    "en": "For extra duty pay, timesheets and other time-related events, this certification can be provided electronically in the system (HRMS or Phoenix). Employees input their time in the system, and the individual with delegated authority approves the transaction and exercises the first portion of certification under section 34 of the FAA directly in the system. The individual with delegated authority is informed of the transactions, either by the employee, through an automated notification, or by verifying pending transactions in Phoenix.",
+    "fr": "À ce stade-ci, ce ne sont pas tous les détails de la paye qui peuvent être vérifiés, par exemple le codage de compte. Par conséquent, l’attestation en vertu de l’article 34 de la LGFP ne peut pas être fournie avant que la paye ne soit versée. Se reporter à la section 4.3.3 et à l’annexe C."
+  },
+  {
+    "en": "For departments that are using the common HRMS, MyGCHR, certain transactions such as leave without pay (5 days or less), recoveries and cash-outs are approved directly in MyGCHR by a delegated authority; the pay-related action is then entered again into Phoenix.",
+    "fr": "Dans le cas de la rémunération pour services supplémentaires, des feuilles de temps et d’autres activités liées aux temps, cette attestation peut être fournie par voie électronique dans le système (SGRH ou Phénix). Les employés entrent leurs heures dans le système, et la personne investie du pouvoir délégué approuve l’opération et fournit la première partie de l’attestation en vertu de l’article 34 de la LGFP directement dans le système. La personne investie du pouvoir délégué est informée des opérations, soit par l’employé au moyen d’une notification automatisée, soit en vérifiant les opérations en attente dans Phénix."
+  },
+  {
+    "en": "Sufficient controls must be in place to maintain appropriate segregation of duties between incompatible functions. Refer to Appendix E for definition of segregation of duties and examples of incompatible duties as per the Directive on Delegation of Spending and Financial Authorities. Specific controls pertaining to segregation of duties are described in Appendix A.",
+    "fr": "Pour les ministères qui utilisent le SGRH commun, MesRHGC, certaines opérations telles que les congés sans solde (cinq jours ou moins), les recouvrements et les paiements forfaitaires sont approuvés directement dans MesRHGC par une personne investie du pouvoir délégué; l’intervention liée à la paye est ensuite consignée encore une fois dans Phénix. Des contrôles suffisants doivent être en place pour assurer en tout temps une séparation des fonctions appropriée entre les fonctions incompatibles . Se reporter à l’annexe E pour obtenir la définition de la séparation des fonctions et des exemples des fonctions incompatibles selon la . Les contrôles précis se rapportant à la séparation des fonctions sont décrits à l’annexe A."
+  },
+  {
+    "en": "Pay-related actions are then validated and verified. Before HR enters the pay-related action into the departmental HRMS, HR ensures that pay-related actions are:",
+    "fr": "Les interventions liées à la paye sont ensuite validées et vérifiées. Avant de consigner l’intervention liée à la paye dans le SGRH du ministère, la personne responsable des RH doit s’assurer que l’intervention :"
+  },
+  {
+    "en": "Departments may use checklists or other tools to promote a consistent approach to validation activities.",
+    "fr": "Les ministères peuvent utiliser des listes de vérification ou d’autres outils pour favoriser une approche cohérente à l’égard des activités de validation."
+  },
+  {
+    "en": "For departments served by the Pay Centre, a Pay Action Request (PAR) form and the required supporting documentation is sent to the Pay Centre by the departmental Trusted Source when a financial or HR authority is required.",
+    "fr": "En ce qui concerne les ministères qui ont recours au Centre des services de paye, la source fiable du ministère envoie le formulaire de demande d’intervention de paye (DIP) et les documents à l’appui au Centre des services de paye lorsqu’une autorisation en matière de finances ou de RH est nécessaire."
+  },
+  {
+    "en": "Before submitting PAR forms to the Pay Centre on behalf of a department, the Trusted Source is responsible for:",
+    "fr": "Avant d’envoyer les formulaires de DIP au Centre des services de paye au nom d’un ministère, la source fiable est tenue :"
+  },
+  {
+    "en": "Each client department of the Pay Centre is responsible for informing the Pay Centre of the departmental email address or addresses that are authorized to send PAR forms that require a Trusted Source. Requests for changes to the official Trusted Source email listing must be cc’d to the department’s Head of HR or Chief Financial Officer. The Pay Centre will accept only PAR forms that require a Trusted Source from an authorized email address. For audit and control purposes, departments must maintain a list of:",
+    "fr": "Il incombe à chaque ministère client du Centre des services de paye de fournir à celui-ci l’adresse ou les adresses électroniques ministérielles autorisées pour l’envoi des formulaires de DIP qui doivent être authentifiés par une source fiable. Il faut faire parvenir une copie de toute demande de modification de la liste officielle des adresses électroniques des sources fiables au chef des ressources humaines ou au dirigeant principal des finances du ministère. Le Centre de paye n’acceptera que les formulaires de DIP qui doivent être authentifiés par une source fiable en provenance d’une adresse électronique autorisée. À des fins d’audit et de contrôle, les ministères doivent tenir à jour une liste :"
+  },
+  {
+    "en": "Departments are expected to maintain their list of Trusted Sources and periods of validity for the current period plus six fiscal years, and make the list available to the Pay Centre within 24 hours of any request to view it.",
+    "fr": "Les ministères doivent tenir à jour leur liste des sources fiables et des périodes de validité pour la période en cours et six autres exercices financiers, et mettre cette liste à la disposition du Centre des services de paye dans les 24 heures suivant toute demande de consultation de la liste."
+  },
+  {
+    "en": "For transactions that do not require a financial or HR authority, employees can use a PAR form to send information directly to the Pay Centre (for example, to enroll in voluntary insurance plans or repayment plans).",
+    "fr": "Les employés peuvent utiliser un formulaire de DIP pour envoyer des renseignements directement au Centre de services de paye lorsque les opérations ne nécessitent pas une autorisation en matière de finances ou de RH (par exemple, inscription à des régimes d’assurance à participation volontaire ou plans de remboursement)."
+  },
+  {
+    "en": "When employees use employee self-service in PeopleSoft, they are responsible for validating and verifying their own data, such as their banking information, for completeness and accuracy. Employees can also enter time and labour transactions, such as overtime or part-time hours, using employee self-service.",
+    "fr": "Lorsque les employés utilisent la fonction libre-service des employés dans PeopleSoft, il leur appartient de valider et de vérifier leurs propres données, par exemple leur information bancaire, pour en assurer l’intégralité et l’exactitude. Les employés peuvent également entrer les opérations liées au temps et à la main d’œuvre, comme les heures supplémentaires ou les heures à temps partiel, en utilisant la fonction libre-service des employés."
+  },
+  {
+    "en": "Once the transaction has been verified, the pay-related action is entered into the departmental HRMS. When the department’s HRMS is integrated with Phoenix (fully serviced by the Pay Centre, integration, or web services), information input into the HRMS is directly transferred to Phoenix. Departments require effective internal controls to ensure that data is valid, complete and accurate as a preventative measure because this data directly impacts the quality of information used for payroll processing. Enforcing strong data quality minimizes the level of effort required to address issues and perform adjustments post-payroll.",
+    "fr": "Une fois l’opération vérifiée, l’intervention liée à la paye est saisie dans le SGRH du ministère. Lorsque le SGRH du ministère est intégré à Phénix (services entièrement fournis par le Centre des services de paye, intégration ou services Web), l’information saisie dans le SGRH est transférée directement à Phénix. Les ministères ont besoin de contrôles internes efficaces pour s’assurer, comme mesure préventive, que les données sont valides, complètes et exactes, car ces données ont une incidence directe sur la qualité de l’information utilisée pour le traitement de la paye. Assurer l’application de normes élevées en matière de qualité des données réduit au minimum le niveau d’effort requis pour résoudre les problèmes et apporter des rajustements suivant la période de paye."
+  },
+  {
+    "en": "For some departments, data may be entered directly by the employee in the HRMS or other departmental systems, such as employee data and overtime. For some entries, a delegated authority may exercise the first portion of certification under section 34 of the FAA directly in the HRMS.",
+    "fr": "Pour certains ministères, les données peuvent être saisies directement par l’employé dans le SGRH ou d’autres systèmes ministériels, comme les renseignements de l’employé et les heures supplémentaires. Pour certaines entrées, une personne investie du pouvoir délégué peut effectuer la première partie de l’attestation en vertu de l’article 34 de la LGFP directement dans le SGRH."
+  },
+  {
+    "en": "Depending on the department’s pay administration model (fully serviced by the Pay Centre, integration, direct entry or web services) and the type of pay-related action, data may flow through directly to Phoenix or data may need to be manually entered into Phoenix. For more information on roles and responsibilities for different types of pay-related transactions, refer to the pay process roles and responsibilities prepared by PSPC which explains which information is entered by the department through HRMS and which information is entered directly by compensation at the Pay Centre.",
+    "fr": "Selon le modèle d’administration de la paye du ministère (services entièrement fournis par le Centre des services de paye, intégration, saisie directe ou services Web) et le type d’intervention liée à la paye, les données peuvent être acheminées directement à Phénix, ou une intervention manuelle dans Phénix peut être requise. Pour de plus amples renseignements sur les rôles et les responsabilités liés à différents types d’opérations de paye, se reporter au tableau des rôles et des responsabilités préparé par SPAC qui affiche les renseignements qui sont entrés par le ministère au moyen du SGRH et ceux qui sont saisis directement par la Rémunération au Centre des services de paye."
+  },
+  {
+    "en": "When data does not come from the HRMS, the compensation advisor keys the transaction into Phoenix. Compensation advisors are responsible for verifying the accuracy of the data they input.",
+    "fr": "Lorsque les données ne proviennent pas du SGRH, le conseiller en rémunération entre l’opération dans Phénix. Les conseillers en rémunération sont responsables de l’exactitude des données qu’ils saisissent dans le système."
+  },
+  {
+    "en": "Certain actions can be done directly by the employee in Phoenix using employee self-service. This service allows employees to directly enter their own data that impacts pay including overtime, timesheets, leave without pay less than or equal to 5 days, changes to the employee’s bank account information, or voluntary deductions.",
+    "fr": "Certaines interventions peuvent être effectuées directement par l’employé dans Phénix au moyen de la fonction libre-service. Ce service permet aux employés d’entrer directement leurs propres données qui ont une incidence sur la paye, y compris les heures supplémentaires, les feuilles de temps, les congés sans solde de cinq jours ou moins, les changements apportés à l’information sur le compte bancaire de l’employé ou les retenues volontaires."
+  },
+  {
+    "en": "There are instances when the employee is not able to input their own time-related data in Phoenix (for example, employees who are in remote locations or on travel status). The department may choose to establish a timekeeper role in Phoenix where a designated individual enters time and labour in Phoenix. In these instances, the employee submits the pay-related action to the delegated authority, who certifies the pay action before forwarding it to the timekeeper. The timekeeper then ensures that the first portion of certification under section 34 of the FAA was provided and enters the information into Phoenix and approves the transaction directly into Phoenix, on behalf of the delegated authority. Departments should independently review entries performed by timekeepers using a risk-based approach to ensure that transactions are valid.",
+    "fr": "Il arrive que l’employé ne soit pas en mesure d’entrer ses propres données relatives au temps dans Phénix (par exemple, les employés qui se trouvent dans une région éloignée ou en voyage). Le ministère peut choisir d’établir un rôle de responsable de la comptabilisation du temps dans Phénix qui sera chargé d’y consigner les données relatives au temps ou à la main d’œuvre. Dans ce cas, l’employé soumet l’intervention liée à la paye à la personne investie du pouvoir délégué, à qui il appartient de valider l’intervention avant de l’acheminer au responsable de la comptabilisation du temps. Ce dernier s’assure que la première partie de l’attestation en vertu de l’article 34 de la LGFP a été fournie avant d’entrer l’information dans Phénix, puis approuve l’opération directement dans Phénix, au nom de la personne investie du pouvoir délégué. Les ministères devraient examiner de façon indépendante les entrées effectuées par les responsables de la comptabilisation du temps, à l’aide d’une approche fondée sur les risques, pour s’assurer que les opérations sont valides."
+  },
+  {
+    "en": "Phoenix is configured to calculate the pay accurately and ensure that the payment is in accordance with the various collective agreements. This verification supports section 34 of the FAA.",
+    "fr": "Phénix est configuré de manière à calculer la paye avec exactitude et à assurer la conformité des paiements avec les diverses conventions collectives. Cette vérification appuie l’article 34 de la LGFP."
+  },
+  {
+    "en": "When issues are identified in the pre-payroll processes, HR, compensation, responsibility centre managers, finance and employees may be involved to resolve them. Issues, such as denying a leave without pay, may require commitments to be updated. Some issues will require resolution through the initiation of a new pay-related action, such as when the current pay-related action is rejected or when a significant error is identified.",
+    "fr": "Lorsque des problèmes sont cernés lors du sous-processus des activités précédant la paye, il peut être nécessaire de faire appel au personnel des RH ou de la Rémunération, aux gestionnaires des centres de responsabilité, au personnel des Finances ou aux employés pour les résoudre. Des problèmes comme le refus d’accorder un congé sans solde peuvent exiger la mise à jour des engagements. Certains problèmes devront être résolus au moyen d’une nouvelle intervention liée à la paye, comme lorsqu’une intervention en cours est rejetée ou une erreur grave est constatée."
+  },
+  {
+    "en": "Table 1 provides an overview of roles and responsibilities, using the responsible, accountable, consulted and informed (RACI) approach. The terms used in this approach are defined in Appendix E.",
+    "fr": "Le tableau 1 donne un aperçu des rôles et des responsabilités à l’aide de l’approche RACI (responsable, agent comptable, consulté et informé). Les termes utilisés dans cette approche sont définis à l’annexe E."
+  },
+  {
+    "en": "Pay-related actions are initiated by either a responsibility centre manager or an employee. The responsibility centre manager provides expenditure initiation, verifies whether there are sufficient unencumbered funds, records a commitment and updates the salary forecast. The responsibility centre manager is also responsible for obtaining appropriate HR delegation as required. The pay-related action is certified, for the first portion, by the appropriate delegated authority under section 34 of the FAA, typically, the responsibility centre manager.",
+    "fr": "Les interventions liées à la paye sont lancées soit par un gestionnaire de centre de responsabilité, soit par un employé. Le gestionnaire de centre de responsabilité fournit l’autorisation d’engager les dépenses, vérifie s’il y a suffisamment de fonds non grevés, consigne un engagement et met les prévisions salariales à jour. Le gestionnaire de centre de responsabilité est également chargé d’obtenir l’autorisation de la personne investie du pouvoir délégué aux RH, au besoin. La première partie de l’attestation du caractère raisonnable de l’intervention liée à la paye est fournie par la personne investie du pouvoir délégué en vertu de l’article 34 de la LGFP, habituellement le gestionnaire de centre de responsabilité."
+  },
+  {
+    "en": "As there can only be one accountable role per RACI, the RACIs for activities 4.1.1 and 4.1.8 to 4.1.10 of this sub-process were broken down into two scenarios, depending on who processes data into Phoenix or HRMS. In , designated HR representatives review and validate the information on the pay-related action. HR or compensation processes data in the HRMS, and compensation processes data in Phoenix. For self-service transactions, as demonstrated in , employees initiate the pay-related action and validate their own entry before the certification under section 34 of the FAA is performed by the delegated authority, where applicable. Certain self-service transactions initiated by employees may not require expenditure initiation authority or certification under section 32 of the FAA; therefore, there are no RACI tables for activities 4.1.2 to 4.1.7 for this scenario.",
+    "fr": "Puisqu’il ne peut y avoir qu’un rôle d’agent comptable selon l’approche RACI, les rôles et responsabilités des activités 4.1.1 et 4.1.8 jusqu’à 4.1.10 de ce sous-processus ont été divisés en deux scénarios, selon la personne qui traite les données dans Phénix ou dans le SGRH. Selon le , les représentants désignés des RH vérifient et valident l’information portant sur l’intervention liée à la paye. Le personnel des RH ou de la Rémunération traite les données dans le SGRH, et le personnel de la Rémunération traite les données dans Phénix. Pour les opérations à l’aide de la fonction libre-service, selon le l’employé lance l’intervention liée à la paye et valide sa propre entrée avant que l’attestation en vertu de l’article 34 de la LGFP soit fournie par la personne investie du pouvoir délégué, s’il y a lieu. Certaines opérations de la fonction libre-service effectuées par les employés peuvent ne pas nécessiter une autorisation d’engager des dépenses ou une attestation en vertu de l’article 32 de la LGFP. Par conséquent, il n’y a pas de tableaux RACI pour les activités des sections 4.1.2 à 4.1.7 en ce qui a trait à ce scénario."
+  },
+  {
+    "en": "COMP: Compensation (departmental or Pay Centre)",
+    "fr": "EÉ - Employé"
+  },
+  {
+    "en": "EE: Employee",
+    "fr": "FIN - Finances"
+  },
+  {
+    "en": "FIN: Finance",
+    "fr": "GCR - Gestionnaire de centre de responsabilité"
+  },
+  {
+    "en": "HR: Human resources",
+    "fr": "RÉM - Rémunération (ministérielle ou Centre des services de paye)"
+  },
+  {
+    "en": "RCM: Responsibility centre manager",
+    "fr": "RH - Ressources humaines"
+  },
+  {
+    "en": "S1: RCM",
+    "fr": "Ce sous-processus a pour but d’autoriser les paiements en vertu de l’article 33 de la LGFP avant que la paye ne soit versée à un employé. Le sous-processus des activités de la paye commence par la réception d’une demande de paiement de SPAC et se poursuit par l’examen et l’approbation de l’opération et l’autorisation du paiement (article 33 de la LGFP) avant le versement du paiement. Les activités du sous-processus s’appliquent à tous les modèles d’administration de la paye. La figure 3 montre le déroulement du sous-processus des activités de la paye. L’annexe F de la présente ligne directrice comprend une légende du diagramme du processus."
+  },
+  {
+    "en": "S1: RCM",
+    "fr": "La figure 3 illustre le sous-processus des activités de la paye, qui commence à la réception d’une demande de paiement, suivi d’une vérification d’assurance de la qualité (première vérification)."
+  },
+  {
+    "en": "S1: COMP, EE, HR",
+    "fr": "Si aucun problème n’est relevé lors de la première vérification, la personne investie du pouvoir délégué peut autoriser le paiement en vertu de l’article 33 de la ."
+  },
+  {
+    "en": "S1: EE",
+    "fr": "Si un problème est relevé au cours de la première vérification, il faut mener une enquête, une consultation et une évaluation. Une fois le suivi effectué, il y a quatre options possibles :"
+  },
+  {
+    "en": "S2: EE",
+    "fr": "Lorsque le ministère fournit une autorisation en vertu de l’article 33 de la , Phénix envoie la demande au Système normalisé des paiements du receveur général pour le traitement du paiement. Il peut y avoir des circonstances exceptionnelles où il sera nécessaire d’annuler ou d’intercepter un paiement après qu’il a été demandé. Si ce n’est pas le cas, les paiements et les talons de paye sont transmis aux employés selon la période de paye."
+  },
+  {
+    "en": "S2: EE",
+    "fr": "Lorsqu’il faut annuler ou intercepter un paiement, ou lorsque la personne investie du pouvoir délégué n’a pris aucune mesure ou a suspendu le paiement ou rejeté l’opération, il est recommandé d’informer le gestionnaire du centre de responsabilité et, au besoin, le personnel des Ressources humaines ou de la Rémunération, afin qu’il puisse faire un suivi auprès de l’employé. Ce suivi peut donner lieu à une intervention liée à la paie, c’est-à-dire recommencer le processus d’administration de la paye (le sous-processus des activités précédant la paye)."
+  },
+  {
+    "en": "S2: COMP, HR, RCM",
+    "fr": "Pour tous les modèles d’administration de la paye, la demande de paiement, qui comprend les données sur l’opération de la paye, les détails du paiement et les données de l’employé, est fournie aux Finances pour autorisation dans Phénix. La paye ne sera pas traitée dans Phénix tant que l’autorisation du paiement n’aura pas été obtenue (article 33 de la LGFP)."
+  },
+  {
+    "en": "S2: RCM",
+    "fr": "Afin d’établir un juste équilibre entre l’exercice adéquat de la délégation de pouvoir et le versement de la paye en temps opportun, les ministères peuvent avoir recours à une approche fondée sur les risques , qui s’applique à tous les modèles d’administration de la paye. L’approche fondée sur les risques comporte des processus d’assurance de la qualité effectués par les personnes qui détiennent le pouvoir de payer, aussi bien avant l’exercice du pouvoir de payer (vérification avant paiement) qu’après l’exercice du pouvoir de payer (vérification après paiement) . Les pouvoirs peuvent être validés avant ou après le traitement des opérations aux fins de décision en matière de dépenses ."
+  },
+  {
+    "en": "RCM",
+    "fr": "Le niveau de la vérification effectuée avant le paiement aura une incidence directe sur le niveau de la vérification effectuée immédiatement après le paiement (deuxième vérification) (voir la section 4.3.2), ainsi que sur la vérification après paiement effectuée à l’appui du programme d’assurance de la qualité (voir la section 2.2.1 de l’annexe B pour de plus amples renseignements sur l’approche fondée sur les risques). Plus la vérification avant le paiement sera approfondie, moins celle après le paiement devra l’être. Les ministères peuvent déterminer l’approche qui fonctionne le mieux pour eux. L’approche devrait être consignée par écrit et être approuvée par le dirigeant principal des finances. Les ministères ne devraient pas répéter le travail effectué par Phénix ou le Centre des services de paye. Le niveau et le choix du moment de la vérification dépendront de l’évaluation du risque effectuée par le ministère et de la tolérance au risque de celui-ci."
+  },
+  {
+    "en": "RCM",
+    "fr": "Les opérations de la paye peuvent être considérées comme étant des opérations moins risquées, car elles visent un bénéficiaire établi qui a un bilan de rendement uniforme et parce qu’il existe une relation établie et continue . Néanmoins, le ministère voudra s’assurer que la paye est raisonnable et qu’il n’y a pas d’erreurs importantes. Le ministère effectue donc une évaluation fondée sur les risques avant de verser le paiement. Se reporter à la section 2.2 de l’annexe B pour en savoir plus sur l’établissement d’une approche fondée sur les risques pour les opérations de la paye."
+  },
+  {
+    "en": "FIN",
+    "fr": "La vérification pourrait comprendre un suivi des opérations qui dépassent un certain seuil, l’utilisation de rapports fournis par SPAC ou produits par le ministère, un examen ciblé de certains types d’opérations de la paye (paye de nouveaux employés, indemnité de départ, et ainsi de suite) ainsi qu’un examen du caractère raisonnable de l’ensemble des montants de la paye. La vérification doit être suffisamment approfondie pour permettre de s’assurer qu’il n’y a pas d’erreurs importantes, tout en tenant compte des limites de temps liées à l’exécution de la paye."
+  },
+  {
+    "en": "FIN",
+    "fr": "Il est possible de voir et de corriger les erreurs pendant la période qui précède la paye; les ministères sont invités à vérifier continuellement l’information liée à la paye avant la date limite de la période de paye. Les erreurs relevées pendant cette vérification peuvent servir à améliorer le programme de vérification ministériel après le paiement. Se reporter à l’annexe B pour en savoir plus sur la vérification après paiement."
+  },
+  {
+    "en": "RCM",
+    "fr": "Lorsque des problèmes liés aux paiements sont relevés, il faut passer à l’activité 4.2.3 afin de mener une enquête, une consultation et une évaluation sur la mesure à prendre."
+  },
+  {
+    "en": "RCM",
+    "fr": "Lorsque des problèmes sont cernés pendant la première vérification (voir la section 4.2.2), il peut être nécessaire de mener une enquête et de consulter le gestionnaire de centre de responsabilité, le personnel des RH, le personnel de la Rémunération ou l’employé pour confirmer s’il y a bien une erreur et pour en déterminer la cause."
+  },
+  {
+    "en": "FIN",
+    "fr": "Le ministère détermine ensuite la mesure à prendre d’après le suivi effectué. Voici les quatre mesures possibles :"
+  },
+  {
+    "en": "FIN",
+    "fr": "Une fois que la personne détenant le pouvoir de payer estime que les étapes requises, décrites dans le programme d’assurance de la qualité du ministère (voir la section 4.2.2 et l’annexe B) ont été exécutées, elle peut exercer le pouvoir de payer. L’exercice du pouvoir de payer consiste, entre autres, à s’assurer qu’il y a suffisamment d’éléments probants vérifiables pour démontrer que la première partie de l’attestation en vertu de l’article 34 de la LGFP a eu lieu et que le paiement n’entraînera pas le dépassement des crédits lorsque les engagements existants sont aussi pris en compte. Il est important de noter que c’est seulement la première partie de l’attestation en vertu de l’article 34 de la LGFP qui est effectuée avant le versement du paiement. L’attestation est achevée après le versement du paiement (voir la section 4.3.3)."
+  },
+  {
+    "en": "RCM",
+    "fr": "Pour exercer le pouvoir en vertu de l’article 33 de la LGFP, il faut recourir au processus de prévisions salariales approprié et au processus de budgétisation et de prévisions du ministère, afin de s’assurer qu’il y a suffisamment de fonds non grevés. De plus, les ministères comptent sur Phénix ou sur le Centre de services de paye pour l’exécution de certains contrôles et ne devraient donc pas avoir à les exécuter à nouveau."
+  },
+  {
+    "en": "RCM",
+    "fr": "Pour exercer le pouvoir de payer, il faut valider la demande d’intervention liée à la paye, conformément à l’article 33 de la LGFP, directement dans Phénix. De plus, lorsque Phénix calcule la paye et doit la rajuster en conformité avec les conventions collectives (par exemple, dans le cas de nominations intérimaires et de la paye de vacances de 4 %), il faut aussi obtenir une autorisation de rajuster le montant en vertu de l’article 33 de la LGFP."
+  },
+  {
+    "en": "FIN",
+    "fr": "Seules les personnes qui possèdent le pouvoir délégué approprié peuvent autoriser un paiement dans Phénix. En outre, les pouvoirs délégués devraient être exercés de façon à assurer la séparation de certaines fonctions . Se reporter aux annexes A et E pour obtenir des précisions."
+  },
+  {
+    "en": "FIN",
+    "fr": "Si le paiement n’est pas autorisé, la personne détenant le pouvoir délégué en vertu de l’article 33 de la LGFP peut rejeter le changement, suspendre le paiement ou ne prendre aucune mesure comme il est décrit ci-après."
+  },
+  {
+    "en": "RCM",
+    "fr": "La personne qui détient le pouvoir délégué en vertu de l’article 33 de la LGFP peut rejeter les changements apportés à un paiement régulier. L’employé recevra alors un paiement équivalant au montant le plus bas correspondant aux codes de gains connexes par rapport au montant versé à la période de paye précédente. Le montant refusé apparaîtra dans l’outil de visualisation des annulations dans Phénix , qui comprend tous les montants non payés sur tout paiement annulé. Il faut examiner les paiements rejetés et y donner suite dès que possible."
+  },
+  {
+    "en": "RCM",
+    "fr": "La personne qui possède le pouvoir délégué en vertu de l’article 33 de la LGFP peut suspendre un paiement, ce qui interrompt la paye de l’employé jusqu’à ce que le problème soit résolu et que le paiement soit autorisé. La suspension du paiement est utilisée lorsqu’un employé n’a droit à aucun paiement (par exemple, congé sans solde pour lequel la documentation n’a pas encore été traitée) ou qu’une erreur grave est relevée. La personne investie du pouvoir délégué devrait consulter les RH avant de suspendre un paiement. S’il y a lieu, il est conseillé de suspendre le paiement à ce stade-ci au lieu de procéder à une interception par l’intermédiaire du Système normalisé des paiements (SNP) du receveur général."
+  },
+  {
+    "en": "FIN, HR",
+    "fr": "La personne qui possède le pouvoir délégué en vertu de l’article 33 de la LGFP peut ne prendre aucune mesure. Le cas échéant, les montants des paiements demeurent en suspens à la fin du cycle de paye. Les éléments pour lesquels aucune mesure n’a été prise sont traités comme des paiements rejetés (voir la section 4.2.5), à l’exception des écarts dans la paye qui sont entrés dans l’outil de visualisation des annulations de Phénix. Ces opérations portent l’étiquette « en suspens » dans l’outil et seront traitées plus tard (par exemple, dans une période de paye hors cycle ultérieure)."
+  },
+  {
+    "en": "FIN, HR",
+    "fr": "Après que le ministère a donné l’autorisation en vertu de l’article 33 de la LGFP, Phénix transmet les demandes au SNP du receveur général pour le traitement des paiements."
+  },
+  {
+    "en": "RCM",
+    "fr": "Après que les demandes de paiement ont été transmises, il peut y avoir des circonstances exceptionnelles où il est nécessaire d’intercepter un paiement. Se reporter à la pour obtenir des instructions précises. Le but de l’interception d’un paiement est d’empêcher qu’un compte soit crédité en cas d’une cessation d’emploi, d’un trop-payé projeté ou de toute autre raison d’inadmissibilité. Les interceptions arrêtent les paiements après qu’ils ont été traités, mais avant qu’ils ne soient versés au compte bancaire de l’employé."
+  },
+  {
+    "en": "RCM",
+    "fr": "Si l’opération n’est pas approuvée et que la personne investie du pouvoir délégué en vertu de l’article 33 de la LGFP n’a pris aucune mesure, a suspendu le paiement ou a refusé l’opération, il est recommandé d’informer le gestionnaire de centre de responsabilité et, au besoin, le personnel des RH ou de la Rémunération de la situation, afin qu’il puisse faire le suivi auprès de l’employé. Il faut aussi faire de même dans le cas d’une interception, que seul le personnel de la Rémunération peut effectuer. Ce suivi peut entraîner une intervention liée à la paye, c’est-à-dire recommencer le processus d’administration de la paye à la section 4.1.1."
+  },
+  {
+    "en": "RCM",
+    "fr": "À chaque période de paye, les paiements (dépôts directs et, exceptionnellement, chèques) et les talons de paye sont transmis aux employés. Les talons de paye sont accessibles au moyen de la fonction libre-service, sauf pour les employés qui quittent leur emploi, qui recevront leur talon de paye par la poste de la part du conseiller en rémunération."
+  },
+  {
+    "en": "RCM",
+    "fr": "Le tableau 2 présente un aperçu des rôles et des responsabilités selon l’approche RACI. Ces termes sont décrits plus en détail à l’annexe E."
+  },
+  {
+    "en": "EE, FIN, HR",
+    "fr": "La section des Finances est responsable des activités liées à l’autorisation des paiements (article 33 de la LGFP) . En cas de problèmes, il peut être nécessaire de consulter et d’informer le personnel des RH ou de la Rémunération, le gestionnaire de centre de responsabilité ou, parfois, l’employé."
+  },
+  {
+    "en": "EE, FIN",
+    "fr": "DGAP-SPAC - Direction générale de l’administration de la paye de Services publics et Approvisionnement Canada"
+  },
+  {
+    "en": "S1: COMP, FIN, HR",
+    "fr": "EÉ - Employé"
+  },
+  {
+    "en": "S1: HR",
+    "fr": "FIN - Finances"
+  },
+  {
+    "en": "S1: EE, HR, RCM",
+    "fr": "GCR - Gestionnaire de centre de responsabilité"
+  },
+  {
+    "en": "S1: HR",
+    "fr": "RÉM - Rémunération (ministérielle ou Centre des services de paye)"
+  },
+  {
+    "en": "S2: EE, RCM",
+    "fr": "RH - Ressources humaines"
+  },
+  {
+    "en": "S2: EE",
+    "fr": "s.o. - Sans objet"
+  },
+  {
+    "en": "S2: HR, RCM",
+    "fr": "Le but de ce sous-processus est de mener à bien le processus d’administration de la paye et de consigner les opérations dans le SMGFM. Ce sous-processus commence par la réception du fichier de retour des paiements de Phénix. Vient ensuite la consignation des opérations liées à la paye dans le SMGFM. Il se termine lorsque tous les rapprochements et toutes les vérifications, y compris la vérification après paiement, ont été effectués et que les prévisions salariales ont été mises à jour. Les activités du sous-processus s’appliquent à tous les modèles d’administration de la paye. La figure 4 montre le déroulement du sous-processus des activités suivant la paye. L’annexe F de la présente ligne directrice comprend une légende du diagramme du processus."
+  },
+  {
+    "en": "S2: HR, RCM",
+    "fr": "La figure 4 illustre le déroulement du sous-processus des activités suivant la paye, soit la dernière étape du processus d’administration de la paye."
+  },
+  {
+    "en": "S1: HR",
+    "fr": "Le sous-processus des activités suivant la paye commence par la réception du fichier de retour des paiements de Phénix, vient ensuite la consignation de l’opération liée à la paye dans le Système ministériel de gestion des finances et du matériel."
+  },
+  {
+    "en": "S1: HR",
+    "fr": "Une fois l’opération consignée dans le Système ministériel de gestion des finances et du matériel, il faut effectuer les quatre activités suivantes :"
+  },
+  {
+    "en": "S1: HR",
+    "fr": "Le sous-processus des activités suivant la paye donne lieu à des informations exactes, valides et complètes."
+  },
+  {
+    "en": "S1: HR",
+    "fr": "Si les informations ne sont pas exactes, valides et complètes, il faut régler la situation avant la fin du sous-processus. Ce sous-processus peut donner lieu à la nécessité de recommencer le sous-processus des activités précédant la paye ou le sous-processus des activités de la paye."
+  },
+  {
+    "en": "S2: EE",
+    "fr": "Le SNP crée un fichier de retour qui contient des renseignements sur les paiements et les numéros de référence des paiements, puis retourne le fichier à Phénix. Phénix met à jour le fichier du chèque de paye et le numéro de référence du paiement. Le fichier IO33 est créé, puis envoyé au grand livre général du système de paye (GLG-SP), et un fichier d’extraits des dépenses détaillées, appelé IO50, est créé qui comprend toutes les données sur la paye des ministères. Au moyen d’un logiciel supplémentaire, les données sur la paye de l’IO50 sont ensuite réparties par ministère, et chaque ministère reçoit son rapport IO50 individuel."
+  },
+  {
+    "en": "S2: EE",
+    "fr": "Le rapport IO50 est utilisé pour consigner les opérations de la paye brute et les rajustements, y compris les paiements annulés. Le ministère surveille la réception et le traitement du fichier de retour des paiements et veille à ce qu’il soit affiché entièrement et de façon précise dans le SMGFM. Les ministères peuvent choisir l’attribution de codes financiers dans Phénix; autrement, les codes financiers sont attribués directement dans le SMGFM."
+  },
+  {
+    "en": "S2: HR",
+    "fr": "Certaines opérations liées au salaire, comme les détachements et les affectations dans le cadre d’un programme d’échange, ne sont pas comprises dans le fichier d’extraits des dépenses détaillées parce qu’elles ne font pas partie de la portée de Phénix. Ces opérations sont coordonnées par les RH et Finances, à qui il appartient de comptabiliser et compenser correctement les dépenses liées à la paye."
+  },
+  {
+    "en": "S2: HR",
+    "fr": "Dans le cadre du programme d’assurance de la qualité (voir la section 4.2.2 et l’annexe B), le ministère peut choisir d’effectuer une autre vérification de la paye fondée sur les risques, afin de régler les problèmes qui n’ont pas été entièrement réglés avant la paye. Le niveau de la vérification dépendra de ce qui a été effectué avant la paye et de ce qui peut être effectué dans le cadre d’une vérification suivant la paye. Les ministères peuvent déterminer le niveau de vérification qui convient le mieux à leur situation."
+  },
+  {
+    "en": "S1: COMP",
+    "fr": "La vérification, qui appuie le pouvoir de payer en vertu de l’article 33 de la LGFP, permet au ministère de cerner les problèmes plus rapidement avant d’effectuer la vérification après paiement. La vérification peut porter sur le rapport IO50, les rapports d’audit de la paye et les rapports d’audit sur le temps et la main d’œuvre de Phénix. D’autres données pourraient aussi servir à appuyer cette vérification, dont les renseignements tirés du SGRH et d’autres systèmes du ministère."
+  },
+  {
+    "en": "S1: COMP",
+    "fr": "Cette vérification, effectuée par le personnel des Finances avec l’aide des RH, pourrait comprendre une vérification de certaines opérations, la réalisation d’une analyse des données afin de cerner des problèmes éventuels, un examen des domaines particulièrement préoccupants ou une comparaison de la paye réelle avec les prévisions salariales afin de relever les exceptions. Les ministères ne sont pas tenus de répéter le travail effectué par Phénix ou le Centre des services de paye."
+  },
+  {
+    "en": "S1: HR",
+    "fr": "Étant donné que la paye est une opération considérée comme étant moins risquée (voir la section 4.2.2) et qu’elle doit être versée en temps opportun, les ministères fournissent leur attestation en vertu de l’article 34 de la LGFP après le versement de la paye. Une fois la paye affichée, le gestionnaire de centre de responsabilité vérifie les opérations de la paye et termine l’attestation requise pour les opérations qui se rapportent à son propre budget. Il atteste que le travail a été effectué, que la bonne personne a été payée et que le montant est raisonnable. De plus, il examine les opérations pour s’assurer que les bons codes financiers ont été appliqués."
+  },
+  {
+    "en": "S1: EE, HR",
+    "fr": "La vérification peut être appuyée soit par une signature physique, soit en utilisant les approbations dans le système. Le ministère devra déterminer la fréquence de la vérification (par exemple, toutes les deux semaines, une fois par mois, chaque trimestre ou selon ce qui est prévu dans le cadre du processus de prévisions budgétaires du ministère). Cependant, il est recommandé de l’effectuer plus souvent que moins souvent. Il doit exister des éléments probants vérifiables que l’attestation requise en vertu de l’article 34 a été fournie pour toutes les opérations durant la période visée . Il faut obtenir l’attestation de manière à assurer en tout temps une séparation appropriée des fonctions incompatibles . Se reporter à l’annexe E pour des renseignements sur la séparation des fonctions aux termes de la . L’annexe A présente les contrôles se rapportant à la séparation des fonctions."
+  },
+  {
+    "en": "S2: EE, RCM",
+    "fr": "En même temps, la paye est rapprochée avec les prévisions salariales. Les prévisions sont mises à jour, ce qui permet au gestionnaire de centre de responsabilité de cerner les problèmes éventuels liés à la paye, comme les erreurs dans la date de début et de fin et les paiements en double. Il serait avantageux pour les ministères de donner une orientation aux gestionnaires des centres de responsabilité sur cette vérification, y compris une orientation sur le niveau de la vérification, les domaines ciblés, les critères pour le suivi et la façon de documenter la vérification. Les gestionnaires de centre de responsabilité devraient communiquer avec leur conseiller en gestion financière s’ils ont besoin d’aide."
+  },
+  {
+    "en": "S2: EE",
+    "fr": "Les ministères font le rapprochement des dépenses de la paye et des soldes du compte de contrôle chaque période de paye. Tous les mois, le ministère reçoit par l’entremise de la boîte postale des systèmes centraux un rapport final sur le solde du compte de contrôle de la paye, qui est harmonisé avec le solde du compte de contrôle de la paye dans le SMGFM de chaque ministère en vue de préparer la balance de vérification du Système central de gestion des rapports financiers (SCGRF). Les ministères ajoutent un compte de contrôle de la paye à leur balance de vérification, qui est vérifiée dans le SCGRF par rapport au compte de contrôle de la paye des ministères transmis par le GLG-SP dans le cadre du ."
+  },
+  {
+    "en": "S2: HR",
+    "fr": "Ces sections connexes fournissent de l’information aux ministères et organismes afin de les aider à répondre aux . Les ministères sont responsables de toutes les et portant sur les salaires nécessaires à la fin d’une période comptable et à la fin de l’exercice. Le calendrier et les procédures sont fournis dans la section du ."
+  },
+  {
+    "en": "S2: HR",
+    "fr": "La vérification après paiement (ou l’examen après paiement) est le troisième élément du programme d’assurance de la qualité (voir l’annexe B). Cette vérification permet d’assurer la conformité à l’article 33 de la LGFP, car elle a pour but de s’assurer qu’il existe suffisamment d’éléments probants pour confirmer que les paiements ont été versés pour le travail qui a été effectué, que les services ont été rendus, que les modalités des accords pertinents ont été respectées, que l’opération est exacte et que les autorisations afférentes ont été obtenues en conformité avec l’article 34 de la LGFP ."
+  },
+  {
+    "en": "COMP, EE, HR, RCM",
+    "fr": "L’approche utilisée pour la vérification après paiement peut varier selon le niveau de vérification avant paiement et le niveau de la première et de la deuxième vérification (voir les sections 4.2.2 et 4.3.2). Les ministères ne devraient pas répéter le travail effectué par Phénix ou le Centre des services de paye. L’annexe B contient de plus amples renseignements et des conseils sur le programme d’assurance de la qualité."
+  },
+  {
+    "en": "COMP",
+    "fr": "Les ministères devraient consigner par écrit leurs procédures de vérification après paiement et y ajouter une description de l’approche utilisée et une explication de la raison pour laquelle il faut vérifier le traitement des opérations de la paye après les paiements . Il est recommandé d’informer la direction des résultats des vérifications après paiement, en plus d’indiquer les erreurs systémiques et de faire un suivi des taux d’erreurs. Voir l’annexe B pour d’autres conseils sur les activités de vérification après paiement."
+  },
+  {
+    "en": "COMP, EE, HR, RCM",
+    "fr": "Il est possible de relever des écarts à partir des diverses activités de vérification, de validation et de rapprochement de la paye. Lorsque l’information n’est pas exacte, valide ou complète, il faut régler le problème rapidement, ce qui peut nécessiter, entre autres, une intervention liée à la paye (sous-processus des activités précédant la paye, section 4.1.1) ou une modification des écritures financières ou des prévisions salariales. Une bonne pratique consiste à cerner la nature de l’erreur et à déterminer s’il y a un problème systémique. Si l’erreur se reproduit continuellement, des mesures supplémentaires peuvent être requises pour la corriger."
+  },
+  {
+    "en": "EE, RCM",
+    "fr": "Le tableau 3 présente un aperçu des rôles et des responsabilités selon l’approche RACI. Ces termes sont décrits plus en détail à l’annexe E."
+  },
+  {
+    "en": "The objective of this sub-process is to provide payment authority under section 33 of the FAA before pay is issued to an employee. The Payroll sub-process starts with receiving the request for payment authority from PSPC and continues with the review and approval of the transaction and providing payment authority (section 33 of the FAA) before the payment is issued. The activities in the sub-process are applicable for all pay administration models. Figure 3 shows the process flow of the payroll sub-process. Appendix F of this guideline provides a legend for the flowchart.",
+    "fr": "En général, le personnel des Finances est responsable des activités après paiement, à l’exception de la validation de la paye et de la mise à jour des prévisions salariales, qui relèvent du gestionnaire de centre de responsabilité. Lorsqu’il mène des activités après paiement, le personnel des Finances collabore avec le personnel des RH, qui possède l’expertise nécessaire pour examiner les opérations de la paye et qui peut fournir une documentation à l’appui. Le receveur général et la DGAP de SPAC peuvent être consultés et informés au sujet des dossiers reçus et des rapprochements effectués."
+  },
+  {
+    "en": "Figure 3 illustrates the payroll sub‐process. The payroll sub-process starts when a request for a payment is received and is followed by a quality assurance review (review 1).",
+    "fr": "DGAP-SPAC : Direction générale de l’administration de la paye de Services publics et Approvisionnement Canada"
+  },
+  {
+    "en": "If there are no issues identified during review 1, the delegated authority can perform payment authority under section 33 of the .",
+    "fr": "EÉ - Employé"
+  },
+  {
+    "en": "If issues are identified during review 1, an investigation, consultation and assessment are required. Once the follow‐up is conducted, there are four options available:",
+    "fr": "FIN - Finances"
+  },
+  {
+    "en": "If the department provides authorization under section 33 of the , Phoenix sends the requisition to the Receiver General Standard Payment System for payment processing. After the payment has been requisitioned, there may be exceptional circumstances when it may be necessary to reverse or intercept a payment. Otherwise, payments and pay stubs are released to employees on a pay‐period basis.",
+    "fr": "GCR - Gestionnaire de centre de responsabilité"
+  },
+  {
+    "en": "When a reversal or intercept of a payment is required, or if the delegated authority took no action, performed a stop payment or rejected the transaction, it is recommended that the responsibility centre manager, and, as needed, the human resources or compensation unit, be advised so that they can follow up with the employee. This follow‐up may result in a pay-related action, returning to the beginning of the pay administration process (the pre-payroll sub‐process).",
+    "fr": "RÉM - Rémunération (ministérielle ou Centre des services de paye)"
+  },
+  {
+    "en": "For all pay administration models, the request for payment, which includes the pay transaction data, payment details, and employee data, is provided to Finance for authorization in Phoenix. Phoenix will not process pay until payment authority (section 33 of the FAA) is provided.",
+    "fr": "RG - Receveur général"
+  },
+  {
+    "en": "To balance the appropriate execution of delegation of authority with timely delivery of pay, departments may use a risk-based approach, which is applicable for all pay administration models. The risk-based approach includes quality assurance processes carried out by those with payment authority, both before exercising payment authority (pre-payment verification) and after exercising payment authority (post-payment verification). Authorities can be authenticated before or after processing of the transactions for expenditure decisions.",
+    "fr": "RH - Ressources humaines"
+  },
+  {
+    "en": "The level of review performed pre-payment will directly impact the level of review performed immediately post-payment (Review 2) (see section 4.3.2), as well as the post-payment review performed in support of the quality assurance program (see Appendix B, section 2.2.1, for more details on a risk-based approach). The more in-depth the review conducted during pre-payment, the lower the level of review required post-payment. Departments have the flexibility to determine which approach works best for them. The approach should be documented and should be approved by the Chief Financial Officer. Departments are not expected to repeat work that is done by Phoenix or the Pay Centre. The level and timing of review will depend on the department’s assessment of, and tolerance for, risk.",
+    "fr": "Comme il est indiqué dans l’introduction, l’un des objectifs de la présente ligne directrice est d’aider les ministères à exercer les principaux pouvoirs financiers, notamment, ceux qui sont énoncés aux articles 32, 34 et 33 de la LGFP. Le tableau ci-dessous résume la façon dont chacun de ces articles est abordé dans la ligne directrice."
+  },
+  {
+    "en": "Pay transactions can be viewed as lower risk because they are with an established payee, who has a consistent record of performance and because there is an established and continued relationship. Nevertheless, the department would want to ensure that the pay is reasonable and that there are no significant errors. The department therefore performs a risk-based review before the payment is issued. Refer to section 2.2 of Appendix B for more details on establishing a risk-based approach for pay transactions.",
+    "fr": "Voir les définitions dans la , section 4.1"
+  },
+  {
+    "en": "The review could include follow-up of transactions that exceed a certain threshold, using the reports provided by PSPC or developed by the department, a focused review of certain types of pay transactions (pay for new hires, termination severance, and so on) and a reasonability review of overall pay amounts. The review must be sufficient to ensure that there are no significant errors, but it must also consider the time constraints related to the payroll run.",
+    "fr": "Les ministères sont tenus d’imputer les dépenses liées à la paye à leurs crédits. Ils peuvent utiliser leur processus de prévisions salariales comme un outil de contrôle compensatoire. Voir la section 4.1.4."
+  },
+  {
+    "en": "There are opportunities to view and correct errors during the period leading up to the pay; departments are encouraged to continuously review the pay information before the cut-off for the pay run. Errors found during this review can be used to inform the departmental post-payment verification program. Refer to Appendix B for more details on post-payment verification.",
+    "fr": "Les gestionnaires de centre de responsabilité, les conseillers en rémunération ou le personnel des Ressources humaines vérifient les opérations liées à la paye tout au long du processus. Les ministères comptent également sur les mécanismes de contrôle configurés dans Phénix pour calculer la paye avec exactitude, conformément aux conventions collectives. Pour de plus amples renseignements sur l’article 34 de la LGFP, voir l’annexe C."
+  },
+  {
+    "en": "For payments where issues are identified, the process continues with activity 4.2.3 to investigate, consult and assess action.",
+    "fr": "En raison de contraintes de temps et de l’utilisation de Phénix, ce ne sont pas tous les renseignements de la paye qui peuvent faire l’objet d’une attestation avant que la paye ne soit versée. Les deux activités suivantes doivent être exécutées par le gestionnaire de centre de responsabilité pour exercer le pouvoir d’attestation :"
+  },
+  {
+    "en": "When issues are identified during review 1 (see section 4.2.2), it may be necessary to investigate and consult with the responsibility centre manager, with HR, with compensation or with the employee to confirm whether there is an error and to identify the cause of it.",
+    "fr": "Le pouvoir de payer est appuyé par le programme d’assurance de la qualité en vigueur au ministère (voir l’annexe B). Les ministères devraient utiliser l’approche fondée sur les risques la plus appropriée pour leur organisation, compte tenu des risques associés aux opérations et de l’importance du facteur temps dans les opérations liée à la paye. La présente ligne directrice propose trois vérifications à différentes étapes du processus :"
+  },
+  {
+    "en": "The department then assesses what action is required given the follow-up conducted. Four options are available:",
+    "fr": "Le niveau de la vérification effectuée avant le paiement aura une incidence directe sur le niveau de la vérification effectuée immédiatement après le paiement, ainsi que sur la vérification après paiement. Plus la vérification effectuée avant le paiement sera approfondie, moins celle après le paiement devra l’être, s’il y a lieu. Les ministères peuvent déterminer le niveau de vérification qui convient le mieux à leur situation."
+  },
+  {
+    "en": "Once the individual with payment authority is satisfied that the required steps, as described in the department’s quality assurance program (refer to section 4.2.2 and Appendix B), have been met, they can perform payment authority. Performing payment authority includes ensuring that there is sufficient, auditable evidence to demonstrate that the first portion of certification under section 34 of the FAA has taken place and that the payment will not result in the appropriation being exceeded when existing commitments are also factored in. It is important to note that it is only the first portion of certification under section 34 of the FAA that is performed before the payment is made. Completion of certification is performed after the payment (refer to section 4.3.3).",
+    "fr": "Les documents de référence suivants s’appliquent à la présente ligne directrice."
+  },
+  {
+    "en": "Exercising authorization under section 33 of the FAA requires reliance on the appropriate salary forecasting process, as well as on the departmental budgeting and forecasting process, to ensure that sufficient unencumbered funds are available. Furthermore, departments rely on the Pay Centre or Phoenix to perform certain controls, and departments are not expected to repeat these controls.",
+    "fr": "7.1 Les membres du public peuvent communiquer avec le pour toute question relative à la présente ligne directrice."
+  },
+  {
+    "en": "For payment authority to be exercised, the request for pay transaction is certified under section 33 of the FAA, directly in Phoenix. In addition, when Phoenix calculates a pay and is required to adjust the pay to comply with collective agreements (for example, in the case of acting appointments and 4% vacation pay), authorization under section 33 of the FAA is also required to authorize the change in amount.",
+    "fr": "7.2 Les employés des ministères devraient communiquer avec le groupe ministériel des politiques financières de leur ministère pour toute question relative à la présente ligne directrice."
+  },
+  {
+    "en": "Only individuals with appropriate delegated authority can provide payment authority in Phoenix. In addition, delegated authorities should be exercised in a manner that segregates certain duties. Refer to Appendix A and E for clarification.",
+    "fr": "7.3 Les employés d’un groupe ministériel des politiques financières peuvent communiquer par courriel avec le personnel du en ce qui concerne l’interprétation de la présente ligne directrice."
+  },
+  {
+    "en": "If the payment is not authorized, the delegated authority for section 33 of the FAA may reject the change, perform a stop payment or take no action, as described in the following sections.",
+    "fr": ", article 12"
+  },
+  {
+    "en": "The delegated authority for section 33 of the FAA can reject the changes to a regular payment. The employee will be issued payment equal to the lower amount on the matched earnings codes as compared to the previous pay period. The rejected amount will appear in the rollback viewer in Phoenix, which includes all amounts not paid on any rolled-back payment. Any rejected payment should be reviewed and addressed as soon as possible.",
+    "fr": "Le SGRH du ministère pourrait être un système ou plusieurs systèmes (automatisés ou manuels) ministériels qui traitent les données liées à des secteurs tels la planification des RH, la classification, la dotation, l’apprentissage et le perfectionnement, la rémunération, les congés, la déclaration des heures et les relations de travail."
+  },
+  {
+    "en": "The delegated authority for section 33 of the FAA can perform a stop payment, which completely halts the employee’s pay until the issue is resolved and the payment is allowed to be completed. Stop payments are used when an employee is not entitled to be paid anything (for example, leave without pay where paperwork has not yet been processed) or a significant error has been identified. The delegated authority may want to consult with HR before proceeding with the stop payment. It is advisable to stop the payment if needed at this stage rather than perform an intercept through the Receiver General Standard Payment System (SPS).",
+    "fr": "Voir les ."
+  },
+  {
+    "en": "The delegated authority for section 33 of the FAA can take no action. If no action is taken, the amounts associated with payments are left pending at the end of the pay cycle. Non-actioned items are treated in the same way rejected payments are treated (see section 4.2.5) with the exception that the differences in pay are entered into the Phoenix rollback viewer. These transactions are labelled as “pending status” in the rollback viewer to be addressed later (for example, in a later off-cycle pay run).",
+    "fr": ", annexe A, section A.2.2.1.4"
+  },
+  {
+    "en": "Once the department provides authorization under section 33 of the FAA, Phoenix sends requisitions to the Receiver General SPS for payment processing.",
+    "fr": ", annexe A, section A.2.2.1.5"
+  },
+  {
+    "en": "After payments have been requisitioned, there are exceptional circumstances when it may be necessary to intercept a payment. Refer to the for specific instructions. The purpose of intercepting a payment is to prevent an account from being credited in the event of a termination, a projected overpayment or any other reason for non-entitlement. Intercepts stop payments after they are processed, but before they are credited to the employee’s bank account.",
+    "fr": ", section A.2.2.1.5"
+  },
+  {
+    "en": "If the transaction is not approved and the individual with delegated authority under section 33 of the FAA took no action, performed a stop payment or rejected the transaction, it is recommended that the responsibility centre manager, and, as needed, HR or compensation, be advised so that they can follow up with the employee. This would also be the case when an intercept, which can only be done by compensation, has taken place. This follow-up may result in a pay-related action, returning to the beginning of the pay administration process at 4.1.1.",
+    "fr": ", sections A.2.2.1.4; A.2.2.1.5 et A.2.2.1.6"
+  },
+  {
+    "en": "On a pay-period basis, payments (direct deposits and, as an exception, cheques) and pay stubs are released to employees. Pay stubs are available via self-service, with the exception of terminated employees, who receive pay stubs by mail from the compensation advisor.",
+    "fr": "Ibidem"
+  },
+  {
+    "en": "Table 2 provides an overview of roles and responsibilities, using the RACI approach. These terms are further described in Appendix E.",
+    "fr": ", section 4.1.11"
+  },
+  {
+    "en": "Finance is accountable for the activities related to authorizing payments (section 33 of the FAA). When issues arise, it may be necessary to consult and inform HR, compensation, the responsibility centre manager or, at times, the employee.",
+    "fr": ", section 4.2.8"
+  },
+  {
+    "en": "COMP: Compensation (departmental or Pay Centre)",
+    "fr": ", section 4.1.2"
+  },
+  {
+    "en": "EE: Employee",
+    "fr": ", section 4.1.3"
+  },
+  {
+    "en": "FIN: Finance",
+    "fr": ", section 4.1.11"
+  },
+  {
+    "en": "HR: Human resources",
+    "fr": ", section A.2.2.1.10.1"
+  },
+  {
+    "en": "n/a: Not applicable",
+    "fr": ", section 4.1.11"
+  },
+  {
+    "en": "PSPC-PAB: Public Services and Procurement Canada, Pay Administration Branch",
+    "fr": ", section 6.2.1"
+  },
+  {
+    "en": "RCM: Responsibility centre manager",
+    "fr": ", sections A.2.2.1.7 et A.2.2.1.8"
+  },
+  {
+    "en": "FIN",
+    "fr": ", section 4.1.12.3"
+  },
+  {
+    "en": "FIN",
+    "fr": ", section 4.2.8"
+  },
+  {
+    "en": "HR, RCM",
+    "fr": ", section 4.1.6"
+  },
+  {
+    "en": "COMP, HR, PSPC-PAB, RCM",
+    "fr": ", section A.2.2.1.10.3"
+  },
+  {
+    "en": "FIN, HR",
+    "fr": ", section 4.1.12.3"
+  },
+  {
+    "en": "FIN",
+    "fr": ", annexe E"
+  },
+  {
+    "en": "HR, RCM",
+    "fr": ", annexe E"
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": ", annexe E"
+  },
+  {
+    "en": "COMP, FIN, HR",
+    "fr": "Ibidem"
+  },
+  {
+    "en": "FIN",
+    "fr": ", section A.2.2.1.10.2.2"
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": ", chapitre 7.5.1"
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": ", annexe B : Définitions"
+  },
+  {
+    "en": "FIN, HR",
+    "fr": ", annexe B : Définitions"
+  },
+  {
+    "en": "FIN",
+    "fr": ", annexe B : Définitions"
+  },
+  {
+    "en": "HR, RCM",
+    "fr": ", annexe B : Définitions"
+  },
+  {
+    "en": "COMP, HR, PSPC-PAB, RCM",
+    "fr": "Par « tribunal », on entend tout organe externe dont le mandat prévu par la loi l’autorise à ordonner la retenue du salaire d’un employé (par exemple, tribunal de la famille, Agence du revenu du Canada) ou le versement de paiements à des employés (par exemple, Commission des droits de la personne)."
+  },
+  {
+    "en": "FIN, HR",
+    "fr": ", section 4.1.11"
+  },
+  {
+    "en": "FIN",
+    "fr": "Outil lié au cadre de contrôle de l’administration de la paye (1er octobre 2009);"
+  },
+  {
+    "en": "COMP, EE, HR, RCM",
+    "fr": "Ligne directrice sur la gestion financière de l’administration de la paye (1er octobre 2009);"
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": "Ligne directrice sur le processus opérationnel commun en gestion financière 5.1 - administration de la paye (28 janvier 2013)."
+  },
+  {
+    "en": "FIN, HR",
+    "fr": "donner un aperçu du processus de paye de bout en bout et recommander des procédures, des contrôles et des activités de surveillance à mettre en œuvre par les ministères;"
+  },
+  {
+    "en": "FIN",
+    "fr": "définir les rôles et les responsabilités des ministères relativement à l’administration de la paye;"
+  },
+  {
+    "en": "COMP, EE, HR RCM",
+    "fr": "fournir des liens, s’il y a lieu, vers les processus d’administration de la paye dont la responsabilité incombe à d’autres organisations, comme Services publics et Approvisionnement Canada (SPAC) ou le Bureau du dirigeant principal des ressources humaines (BDPRH)."
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": ": le ministère délègue le traitement de la paye au Centre des services de paye, et le SGRH ministériel est intégré à Phénix."
+  },
+  {
+    "en": "FIN, HR",
+    "fr": ": le ministère n’a pas recours au Centre des services de paye, et le SGRH ministériel est intégré à Phénix."
+  },
+  {
+    "en": "FIN",
+    "fr": ": le ministère n’a pas recours au Centre des services de paye, et le SGRH ministériel n’est pas intégré à Phénix. L’information est consignée directement dans les deux systèmes."
+  },
+  {
+    "en": "COMP, EE, HR, RCM",
+    "fr": ": le ministère n’a pas recours au Centre des services de paye. Le SGRH ministériel a une interface intégrée avec Phénix, tout comme d’autres systèmes ministériels, s’il y a lieu."
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": ": appuyer l’établissement des versements de la paye et des retenues et le calcul des montants de paye."
+  },
+  {
+    "en": "FIN, HR, COMP",
+    "fr": ": veiller à l’application quotidienne de contrôles financiers des dépenses liées à la paye."
+  },
+  {
+    "en": "FIN",
+    "fr": ": exécuter les activités ayant trait, par exemple, à la classification, à la dotation, aux relations de travail, aux langues officielles, à la formation et au perfectionnement, et à la gestion du rendement (y compris les prix et la reconnaissance) et à la validation des approbations en vertu de l’article 34 des opérations soumises aux RH aux fins de traitement."
+  },
+  {
+    "en": "n/a",
+    "fr": ": engager les dépenses, gérer les engagements financiers et fournir une attestation conformément à l’article 34 de la LGFP."
+  },
+  {
+    "en": "n/a",
+    "fr": "Le vise à entreprendre, à approuver et à vérifier une intervention de paye ou des RH (« intervention liée à la paye ») avant le paiement."
+  },
+  {
+    "en": "COMP, FIN",
+    "fr": "Le vise à calculer la paye nette, à exercer le pouvoir de payer et à verser les paiements."
+  },
+  {
+    "en": "FIN",
+    "fr": "Le vise à surveiller les paiements, à veiller à ce que l’attestation et la vérification des opérations de la paye aient été effectuées, à consigner les interventions de paye dans le Système ministériel de gestion des finances et du matériel (SMGFM) et à effectuer les rapprochements en fin de période."
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": "vérifier les soldes non grevés;"
+  },
+  {
+    "en": "COMP, HR, RCM",
+    "fr": "obtenir l’autorisation d’engager les dépenses;"
+  },
+  {
+    "en": "PSPC-PAB",
+    "fr": "consigner les engagements et le pouvoir d’engager les fonds;"
+  },
+  {
+    "en": "FIN",
+    "fr": "mettre à jour les prévisions salariales."
+  },
+  {
+    "en": "FIN",
+    "fr": "est valide (autorisée par les personnes investies des pouvoirs délégués);"
+  },
+  {
+    "en": "COMP, EE, HR, RCM",
+    "fr": "est complète et exacte, conformément aux politiques et aux directives ministérielles ainsi qu’aux décrets en conseil;"
+  },
+  {
+    "en": "The purpose of this sub-process is to complete the pay administration process and record the transactions in the DFMS. Post-payroll begins with the return payment file from Phoenix, continues with recording pay transactions in the DFMS and ends once all reconciliations and verifications, including post-payment verification, have been completed and the salary forecast is updated. The activities in the sub-process are applicable for all pay administration models. Figure 4 shows the process flow of the post-payroll sub-process. Appendix F of this guideline provides a legend for the flowchart.",
+    "fr": "est appuyée par la documentation appropriée (par exemple, feuilles de temps, lettres d’offre ou autres formulaires ministériels)."
+  },
+  {
+    "en": "Figure 4 depicts the process flow of the post-payroll sub‐process, which completes the pay administration process.",
+    "fr": "de valider le pouvoir délégué en matière de RH ou de finances, y compris la signature;"
+  },
+  {
+    "en": "The post‐payroll sub‐process begins with the return payment file from Phoenix and continues with the recording of the pay transaction in the departmental financial and materiel management system.",
+    "fr": "de s’assurer que le formulaire de DIP contient de l’information complète et exacte et qu’il est accompagné de tous les documents à l’appui nécessaires."
+  },
+  {
+    "en": "Once the transaction is recorded in the departmental financial and materiel management system, the following four activities must be completed:",
+    "fr": "des noms de leurs sources fiables et des adresses électroniques qu’elles sont autorisées à utiliser;"
+  },
+  {
+    "en": "The post-payroll sub‐process ends with accurate, valid and complete information.",
+    "fr": "les périodes pendant lesquelles ces personnes sont autorisées à effectuer des validations à titre de sources fiables."
+  },
+  {
+    "en": "If the information is not accurate, valid and complete, the discrepancies must be resolved before the process ends. This process may result in returning to the beginning of the pre-payroll sub‐process or payroll sub-process.",
+    "fr": "exercer le pouvoir de payer en vertu de l’article 33 de la ;"
+  },
+  {
+    "en": "The SPS creates a return file with the payment detail and the payment reference number, and returns the file to Phoenix. Phoenix updates the pay cheque record with the payment reference number. A file, the IO33, is created and sent to the Payroll System-General Ledger (PS-GL), and a detailed expenditure extract file known as the IO50 is created that includes the payroll data for all departments. Using additional software, the payroll data from the IO50 is then separated by department, and each department receives their individual IO50 report.",
+    "fr": "rejeter les changements apportés au paiement régulier;"
+  },
+  {
+    "en": "The IO50 is used to record gross pay transactions and adjustments including cancelled payments. The department monitors the receipt and processing of the return payment file and ensures that it is posted completely and accurately in the DFMS. Departments can choose to have financial coding assigned in Phoenix; otherwise, the financial coding is assigned directly in the DFMS.",
+    "fr": "suspendre le paiement;"
+  },
+  {
+    "en": "Some salary-related transactions, such as secondments and interchanges, are not included in the detailed expenditure extract file because these transactions are outside the scope of Phoenix. These activities depend on coordination between HR and Finance to correctly account for and offset pay-related expenditures.",
+    "fr": "ne prendre aucune mesure."
+  },
+  {
+    "en": "As part of the quality assurance program (refer to section 4.2.2 and Appendix B), the department may choose to conduct an additional risk-based review of pay to address issues that could not be fully resolved before pay. The level of review will depend on what was conducted pre-payroll and on what may be conducted as part of post-payroll verification. Departments have the flexibility to determine the level of review that works best for them.",
+    "fr": "exercer le pouvoir de payer en vertu de l’article 33 de la LGFP;"
+  },
+  {
+    "en": "The review, which supports section 33 of the FAA payment authority, helps the department identify issues on a more timely basis before post-payment verification. The review could be based on the IO50, pay audit reports, and time and labour audit reports from Phoenix. Other data could also be used, such as information from the department’s HRMS or other systems.",
+    "fr": "rejeter les changements apportés au paiement régulier;"
+  },
+  {
+    "en": "This review, performed by Finance, with assistance from HR, could include verifying certain transactions, performing data analysis to identify potential issues, reviewing areas of specific concern or comparing actual pay against the salary forecast to detect exceptions. Departments are not expected to repeat work that is done by Phoenix or the Pay Centre.",
+    "fr": "suspendre le paiement;"
+  },
+  {
+    "en": "Because pay is a lower-risk transaction (see 4.2.2) and because pay must be issued on a timely basis, departments complete certification under section 34 of the FAA after pay has been issued. Once pay is posted, the responsibility centre manager reviews the pay transactions and completes the required certification of transactions that relate to their own budget. The responsibility centre manager certifies that the work has been performed, that the appropriate employee has been paid and that the amount is reasonable. In addition, the responsibility centre manager reviews the transactions to ensure that the correct financial coding has been applied.",
+    "fr": "ne prendre aucune mesure."
+  },
+  {
+    "en": "The review can be documented through either physical sign-off or using approvals in the system. The department will need to determine the frequency of the review (for example, every two weeks, once a month, quarterly or as defined by the departmental periodic forecast process). However, it is suggested to do the review more frequently than less. There must be auditable evidence that the certification required under section 34 has been completed for all transactions in the selected period. Certification should be obtained in a manner that maintains appropriate segregation of duties between incompatible functions. Refer to Appendix E for required segregation of duties under the . Specific controls pertaining to segregation of duties are described in Appendix A.",
+    "fr": "mettre en œuvre le processus d’assurance de la qualité (deuxième vérification);"
+  },
+  {
+    "en": "At the same time, pay is reconciled to the salary forecasts. Forecasts are updated and provide an opportunity for the responsibility centre manager to identify potential pay issues such as errors in start and end date and potential duplicate payments. It is good practice for departments to provide guidance to responsibility centre managers on this review, including guidance on the level of review, areas of focus, criteria for follow-up and how this review should be documented. Responsibility centre managers are encouraged to contact their financial management advisor for assistance where required.",
+    "fr": "valider la paye (dernière partie de l’attestation requise en vertu de l’article 34 de la ) et rajuster les prévisions salariales, au besoin;"
+  },
+  {
+    "en": "Departments reconcile pay expenditures and the control account balances on a pay-period basis. On a monthly basis, the department receives a final payroll control account balance report through the Central System Mailbox, which is reconciled to the payroll control account in the individual DFMS for trial balance reporting purposes to the Central Financial Management and Reporting System (CFMRS). Departments include a payroll control account in their trial balance, which is verified in CFMRS against the respective departmental payroll control account submitted by the PS-GL as part of the .",
+    "fr": "le rapprochement des comptes de contrôle du receveur général (comptabilité mensuelle et de fin d’exercice);"
+  },
+  {
+    "en": "These linked sections provide information to departments and agencies to help them meet . Departments are responsible for all and required at the end of an accounting period and at the fiscal year-end. The timetable and procedures are outlined in , .",
+    "fr": "effectuer une vérification après paiement (assurance de la qualité)."
+  },
+  {
+    "en": "Post-payment verification (or post-payment examination ) is the third component of the quality assurance program (refer to Appendix B). It ensures compliance with section 33 of the FAA by verifying that there is sufficient evidence to confirm that payments have been made for work that has been performed, that services have been rendered, that the relevant agreement terms and conditions have been met, that the transaction is accurate, and that compliance with associated authorities has been met in support of section 34 of the FAA.",
+    "fr": "autoriser l’opération avant la paye (voir la section 4.1.7), par exemple, signature de la lettre d’offre;"
+  },
+  {
+    "en": "The approach used for post-payment verification may vary depending on the level of verification pre-payment and on the level of examination in reviews 1 and 2 (see 4.2.2 and 4.3.2). Departments are not expected to repeat work that is done by Phoenix or the Pay Centre. Appendix B provides additional information and guidance on the quality assurance program.",
+    "fr": "valider la paye après le paiement (voir la section 4.3.3), par exemple, vérifier en fonction du processus de prévisions salariales périodiques du ministère."
+  },
+  {
+    "en": "Departments should document their post-payment verification procedures to provide a description of the approach being used and the reasoning behind the treatment of pay transactions being reviewed post-payment. It is good practice to report the results of the post-payment verification review to management, as well as to identify systemic errors and track error rates. See Appendix B for further guidance on post-payment verification activities.",
+    "fr": "avant le paiement : assurance de la qualité, première vérification (voir la section 4.2.2);"
+  },
+  {
+    "en": "Discrepancies may be identified from the various activities conducted to review, validate and reconcile payroll. When information is not accurate, valid or complete, the issue should be resolved in a timely manner. A pay-related action (return to pre-payroll sub-process, 4.1.1), a change in financial posting, a change in salary forecast, or some other action may be required. It is good practice to identify the nature of the error and to determine whether there is a systemic issue. If the error keeps occurring, then additional steps for remediation may be necessary.",
+    "fr": "immédiatement après le paiement : assurance de la qualité, deuxième vérification (voir la section 4.3.2);"
+  },
+  {
+    "en": "Table 3 provides an overview of roles and responsibilities, using the RACI approach. These terms are further described in Appendix E.",
+    "fr": "périodiquement : vérification après paiement (voir la section 4.3.5)."
+  },
+  {
+    "en": "Finance is generally accountable for post-payment activities, with the exception of validating pay and updating the salary forecast, for which the responsibility centre manager is accountable. When performing post-payment activities, Finance works collaboratively with HR, which has the expertise to review pay transactions and which may provide supporting documentation. The Receiver General and PSPC’s Pay Administration Branch may be consulted and informed in terms of the files received and the reconciliations.",
+    "fr": "Cadre de contrôle à jour du Centre des services de paye, 30 novembre 2015"
+  },
+  {
+    "en": "COMP: Compensation (departmental or Pay Centre)",
+    "fr": "Cadre de contrôle de la paye à jour (contrôles de l’application Phénix et contrôle généraux de la TI), 30 novembre 2015"
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "en": "This guide is effective as of November 22, 2019 and incorporates changes effective April 1, 2023.",
+    "fr": "Le présent guide est entré en vigueur le 22 novembre 2019 et incorpore les modifications en vigueur le 1er avril 2023."
+  },
+  {
+    "en": "This guide applies to the organizations listed in section 6 of the .",
+    "fr": "Le présent guide s’applique aux organisations qui figurent à la section 6 de la ."
+  },
+  {
+    "en": "This guide is intended to help managers and staff develop and implement key internal control frameworks and measures as described in the .",
+    "fr": "Il vise à aider les gestionnaires et les employés à élaborer et à mettre en œuvre les principaux cadres et mesures de contrôle interne décrits dans la ."
+  },
+  {
+    "en": "This guide elaborates on the form and content of:",
+    "fr": "Le guide explique la forme et le contenu devant s’appliquer aux éléments suivants :"
+  },
+  {
+    "en": "Examples in the appendices to this guide are provided for illustrative purposes and may not apply to all departments or situations.",
+    "fr": "Des exemples sont fournis à titre d’illustration dans les annexes du présent guide. Toutefois, certains de ces exemples pourraient ne pas s’appliquer à tous les ministères ou à toutes les situations."
+  },
+  {
+    "en": "Canadians expect:",
+    "fr": "Les Canadiens s’attendent :"
+  },
+  {
+    "en": "Numerous internal control frameworks have been developed by associations of internal control practitioners and other related organizations. One widely recognized framework is that of the Committee of Sponsoring Organizations of the Treadway Commission (COSO), which was established in the United States in 1985. Within the COSO integrated framework, everyone in an organization is responsible for internal control to some extent.",
+    "fr": "De nombreux cadres de contrôle interne ont été élaborés par des associations de professionnels du contrôle interne et d’autres organisations connexes. L’un des cadres les plus reconnus est celui du « Committee of Sponsoring Organizations de la Treadway Commission » (COSO), qui a été établi aux États-Unis en 1985. Dans le cadre intégré du COSO, tous les employés d’une organisation sont responsables, dans une certaine mesure, du contrôle interne."
+  },
+  {
+    "en": "After the was introduced in 2009, departments conducted an in-depth review of their internal control over financial reporting, which is a subset of internal control over financial management. Departments:",
+    "fr": "Après l’adoption de la en 2009, les ministères ont procédé à un examen approfondi de leur contrôle interne en matière de rapports financiers, un volet du contrôle interne en matière de gestion financière. Les ministères :"
+  },
+  {
+    "en": "The introduction of the in 2017, which replaced the , did not alter the need for internal control over financial management, including internal control over financial reporting. The requirement to maintain a reliable system of internal control over financial management remains, but as departments evolve, so do the:",
+    "fr": "L’introduction, en 2017, de la , qui a remplacé la , n’a pas modifié la nécessité du contrôle interne en matière de gestion financière, y compris le contrôle interne en matière de rapports financiers. L’obligation de maintenir un système fiable de contrôle interne en matière de gestion financière reste inchangée; or à mesure que les ministères évoluent, il en va de même pour :"
+  },
+  {
+    "en": "Departments must continue to review their system of internal control to ensure that it is effective. Existing controls may need to be amended, and new controls may need to be introduced.",
+    "fr": "Les ministères doivent continuer à examiner leur système de contrôle interne pour garantir son efficacité. Il se peut que les contrôles existants doivent être modifiés et que de nouveaux contrôles doivent être introduits."
+  },
+  {
+    "en": "The deputy head accountabilities are described in section 16.4 of the (FAA).",
+    "fr": "Les responsabilités de l’administrateur général sont décrites à l’article 16.4 de la (LGFP)."
+  },
+  {
+    "en": "As set out in the FAA, deputy heads are designated as accounting officers who have the legal obligation to appear before committees of the Senate and the House of Commons regarding their financial management responsibilities, including but not limited to:",
+    "fr": "Conformément à la LGFP, les administrateurs généraux, à titre d’administrateurs des comptes, ont l’obligation de comparaître devant les comités du Sénat et de la Chambre des communes au sujet de leurs responsabilités en matière de gestion financière, notamment en ce qui a trait aux éléments suivants :"
+  },
+  {
+    "en": "The (Policy) sets out the following key responsibilities for deputy heads, chief financial officers and senior departmental managers with respect to internal controls.",
+    "fr": "La (Politique) établit les responsabilités clés suivantes des administrateurs généraux, des dirigeants principaux des finances et des cadres supérieurs du ministère en ce qui concerne les contrôles internes."
+  },
+  {
+    "en": "In accordance with subsection 4.1.6 of the Policy, the deputy head is responsible for ensuring that a risk-based departmental system of internal control over financial management is established, monitored and maintained.",
+    "fr": "Conformément à la sous-section 4.1.6 de la Politique, l’administrateur général doit veiller à l’établissement, à la surveillance et au maintien d’un système ministériel de contrôle interne en matière de gestion financière axé sur les risques."
+  },
+  {
+    "en": "In accordance with subsections 4.2.8 and 4.2.9 of the Policy, the chief financial officer is responsible for establishing, monitoring and maintaining:",
+    "fr": "Conformément aux sous-sections 4.2.8 et 4.2.9 de la Politique, il incombe au dirigeant principal des finances d’établir, de surveiller et maintenir :"
+  },
+  {
+    "en": "In accordance with subsection 4.2.10 of the Policy, the chief financial officer is also responsible for ensuring that prompt corrective action is taken when control weaknesses and material unmitigated risks are identified.",
+    "fr": "Conformément à la sous-section 4.2.10 de la Politique, le dirigeant principal des finances est également responsable de s’assurer que des mesures correctives sont prises rapidement lorsque des lacunes concernant les contrôles et des risques importants n’ayant pas fait l’objet de mesures d’atténuation sont repérés."
+  },
+  {
+    "en": "In accordance with subsections 4.3.6 and 4.3.7 of the Policy, senior departmental managers are responsible for:",
+    "fr": "Conformément aux sous-sections 4.3.6 et 4.3.7 de la Politique, les cadres supérieurs du ministère ont les responsabilités suivantes :"
+  },
+  {
+    "en": "Subsection 4.2 of this guide describes the system of internal control in greater detail.",
+    "fr": "La sous-section 4.2 du présent guide décrit le système de contrôle interne plus en détail."
+  },
+  {
+    "en": "Internal control is conducted by an organization’s oversight body, management and other personnel to provide reasonable assurance that the objectives of the organization will be achieved.",
+    "fr": "Le contrôle interne est exécuté par l’organe de surveillance, la direction et d’autres employés d’une organisation dans le but d’offrir une assurance raisonnable que les objectifs de l’organisation seront atteints."
+  },
+  {
+    "en": "Internal control management ensures that organizations have well-established governance and accountability structures in place to support the assessment and oversight of their systems of internal control. In particular, internal control management ensures that:",
+    "fr": "La gestion des contrôles internes donne une assurance que les organisations ont mis en place des structures de gouvernance et de reddition de comptes bien établies pour appuyer l’évaluation et la surveillance de leur système de contrôle interne. Plus précisément, la gestion des contrôles internes permet de s’assurer des éléments suivants :"
+  },
+  {
+    "en": "Figure 1 illustrates the responsibilities of the deputy head and the chief financial officer with respect to the system of internal control.",
+    "fr": "La figure 1 illustre les responsabilités de l’administrateur général et du dirigeant principal des finances en ce qui concerne le système de contrôle interne."
+  },
+  {
+    "en": "This guide focuses on the inner two circles related to internal control over financial management and internal control over financial reporting.",
+    "fr": "Le présent guide porte principalement sur les deux cercles intérieurs liés au contrôle interne en matière de gestion financière et au contrôle interne en matière de rapports financiers."
+  },
+  {
+    "en": "Figure 1 shows 3 superimposed circles, which represent, from the largest to the smallest circle, the system of internal control, the system of internal control over financial management or ICFM, and the system of internal control over financial reporting or ICFR.",
+    "fr": "La figure 1 montre 3 cercles superposés qui représentent, du plus grand au plus petit, le système de contrôle interne, le système de contrôle interne en matière de gestion financière ou le CIGF et le système de contrôle interne en matière de rapports financiers ou le CIRF."
+  },
+  {
+    "en": "The deputy head is responsible for the system of internal control across the department according to the Financial Administration Act, section 16.4, and the Policy on Financial Management, subsection 4.1.6. The chief financial officer is responsible for the system of internal control over financial management and the system of internal control over financial reporting according to the Policy on Financial Management, subsections 4.2.8, 4.2.9, and 4.2.10.",
+    "fr": "L’administrateur général est responsable du système de contrôle interne dans l’ensemble du ministère, selon l’article 16.4 de la Loi sur la gestion des finances publiques et la sous-section 4.1.6 de la Politique sur la gestion financière. Le dirigeant principal des finances est responsable du système de contrôle interne en matière de gestion financière et du système de contrôle interne en matière de rapports financiers, selon les sous-sections 4.2.8, 4.2.9 et 4.2.10 de la Politique sur la gestion financière."
+  },
+  {
+    "en": "ICFM internal control over financial management ICFR: internal control over financial reporting",
+    "fr": "CIGF : contrôle interne en matière de gestion financière CIRF : contrôle interne en matière de rapports financiers"
+  },
+  {
+    "en": "Internal control over financial management:",
+    "fr": "Le contrôle interne en matière de gestion financière :"
+  },
+  {
+    "en": "In addition to the business processes supporting financial reporting, internal control over financial management could include, but is not limited to:",
+    "fr": "En plus des processus opérationnels à l’appui de l’établissement de rapports financiers, le contrôle interne en matière de gestion financière pourrait comprendre, sans toutefois s’y limiter :"
+  },
+  {
+    "en": "Internal control over financial reporting:",
+    "fr": "Le contrôle interne en matière de rapports financiers :"
+  },
+  {
+    "en": "Example of business processes supporting financial reporting could include, but is not limited to:",
+    "fr": "Voici des exemples de processus opérationnels à l’appui des rapports financiers :"
+  },
+  {
+    "en": "The results of the assessment of the internal control over financial reporting must be reported in the annex to the SMR, in accordance with subsection 4.1.8.3 of the Policy.",
+    "fr": "Les résultats de l’évaluation du contrôle interne en matière de rapports financiers doivent être déclarés à l’annexe à la DRD, conformément à la sous-section 4.1.8.3 de la Politique."
+  },
+  {
+    "en": "More information on the SMR is provided in section 6 of this guide.",
+    "fr": "Des renseignements supplémentaires sur la DRD sont fournis à la section 6 du présent guide."
+  },
+  {
+    "en": "Internal control over financial management offers many benefits to an organization, such as:",
+    "fr": "Le contrôle interne en matière de gestion financière offre de nombreux avantages à une organisation, tels que les suivants :"
+  },
+  {
+    "en": "To ensure the establishment and monitoring of effective internal controls over financial management, including internal control over financial reporting, departments perform the following five key steps regarding their internal controls assessment process, ultimately bringing each control to the stage of ongoing monitoring:",
+    "fr": "Pour garantir la mise en place et la surveillance d’un contrôle interne efficace en matière de gestion financière, y compris le contrôle interne en matière de rapports financiers, les ministères franchissent les cinq étapes principales suivantes au cours de leur processus d’évaluation des contrôles internes, amenant finalement chaque contrôle à l’étape de la surveillance continue :"
+  },
+  {
+    "en": "Departments that have completed their internal control assessment process of identified business processes, including the implementation of corrective actions or compensating controls to address gaps or weaknesses, are considered to be at the ongoing monitoring stage for the internal controls assessed. Ongoing monitoring assesses whether internal controls over financial management and over financial reporting continue to operate effectively and as designed.",
+    "fr": "Les ministères qui ont achevé leur processus d’évaluation des contrôles internes pour les processus opérationnels désignés, y compris la mise en œuvre de mesures correctives ou de contrôles compensatoires visant à combler les lacunes ou les faiblesses, sont considérés comme étant à l’étape de la surveillance continue des contrôles internes évalués. La surveillance continue permet de s’assurer que les contrôles internes en matière de gestion financière et en matière de rapports financiers continuent de fonctionner efficacement et comme prévu."
+  },
+  {
+    "en": "Once a department reaches the ongoing monitoring stage, it will continue to remain at this stage, even when new processes are implemented, or the scope of the program is adjusted to reflect changes in the department’s operations or to incorporate new elements of internal control over financial management.",
+    "fr": "Une fois qu’un ministère atteint l’étape de la surveillance continue, il demeurera à cette étape, même lorsque de nouveaux processus sont mis en œuvre ou lorsque la portée du programme est rajustée pour tenir compte des changements apportés aux opérations du ministère ou des nouveaux éléments de contrôle interne en matière de gestion financière."
+  },
+  {
+    "en": "In accordance with the Policy, the deputy head, chief financial officer and senior departmental managers remain responsible for the sound management of the department’s system of internal control over financial management. This responsibility is demonstrated through:",
+    "fr": "Conformément à la Politique, l’administrateur général, le dirigeant principal des finances et les cadres supérieurs du ministère demeurent responsables de la saine gestion du système ministériel de contrôle interne en matière de gestion financière. Ils démontrent cette responsabilité :"
+  },
+  {
+    "en": "More information on developing and maintaining an ongoing monitoring plan is available in the .",
+    "fr": "Le contient d’autres renseignements sur l’élaboration et la tenue à jour d’un plan de surveillance continue."
+  },
+  {
+    "en": "To support deputy heads and chief financial officers in ensuring that a sound system of internal control over financial management exists within their organization, departments are expected to regularly assess their processes for internal control over financial management and report the results internally. This assessment could be reported in the annex to the Statement of Management Responsibility Including Internal Control Over Financial Reporting (SMR).",
+    "fr": "Afin d’aider les administrateurs généraux et les dirigeants principaux des finances à s’assurer qu’il y a en place au sein de leur ministère un système de contrôle interne robuste en matière de gestion financière, les ministères sont censés évaluer régulièrement leurs processus liés au contrôle interne en matière de gestion financière et rendre compte des résultats à l’interne. Cette évaluation pourrait être déclarée à l’annexe à la Déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers (DRD)."
+  },
+  {
+    "en": "In accordance with subsection 4.2.13.4.1 of the , departments are required to report on their annual assessment of internal control over financial reporting in the annex to the SMR which accompanies the departmental financial statements. The content of the annex will depend on the size of the department and the level of maturity of internal control processes attained by the department according to its assessment.",
+    "fr": "Conformément à la sous-section 4.2.13.4.1 de la , les ministères doivent faire rapport de leur évaluation annuelle du contrôle interne en matière de rapports financiers dans l’annexe à leur DRD qui accompagne leurs états financiers ministériels. Le contenu de l’annexe dépendra de la taille du ministère et du niveau de maturité des processus de contrôle interne que le ministère a atteint, d’après son évaluation."
+  },
+  {
+    "en": "The annex to the SMR provides an opportunity for departments to highlight:",
+    "fr": "Pour les ministères, l’annexe à la DRD se veut une occasion de souligner :"
+  },
+  {
+    "en": "Departments are to report on progress since the previous fiscal year and provide a high-level picture of the overall status of the complete assessment process, including what has been achieved to date.",
+    "fr": "Les ministères doivent rendre compte des progrès réalisés depuis l’exercice précédent et fournir une vue d’ensemble de l’état d’avancement général du processus complet d’évaluation, y compris ce qui a été réalisé depuis le début."
+  },
+  {
+    "en": "The previous fiscal year’s plan would be the starting point for reporting the results of the annual assessment in the annex to the SMR. Departments are to explain deviations from the previous fiscal year’s plan and describe any significant changes to the scope of the department’s risk-based ongoing monitoring plan. The department should demonstrate that it has considered changes or new risks within its environment and reflected them in its annual assessment.",
+    "fr": "Le plan de l’exercice précédent serait le point de départ pour la déclaration des résultats de l’évaluation annuelle dans l’annexe à la DRD. Les ministères doivent expliquer les écarts par rapport au plan de l’exercice précédent et décrire tout changement important de la portée du plan ministériel de surveillance continue axée sur les risques. Le ministère doit démontrer qu’il a pris en considération les changements ou les nouveaux risques dans son environnement et qu’il en a tenu compte dans son évaluation annuelle."
+  },
+  {
+    "en": "More information on the annex to the SMR is provided in subsection 6.1 of this guide.",
+    "fr": "Des renseignements supplémentaires sur l’annexe à la DRD sont fournis à la sous-section 6.1 du présent guide."
+  },
+  {
+    "en": "In the context of internal control over financial management, common service providers are departments that provide services and key information, or perform a business activity, function or process on behalf of other government departments. The provision of these services to the broader government community impacts the financial statements of the recipient departments. The following is a non-exhaustive list of common service providers and the services they provide:",
+    "fr": "Dans le contexte du contrôle interne en matière de gestion financière, les fournisseurs de services communs sont les ministères qui fournissent des services et des renseignements clés ou qui exécutent une activité, une fonction ou un processus opérationnel au nom d’autres ministères. La prestation de ces services à l’ensemble de la collectivité gouvernementale a une incidence sur les états financiers des ministères bénéficiaires. Voici une liste non exhaustive de fournisseurs de services communs ainsi que les services qu’ils offrent :"
+  },
+  {
+    "en": "Under subsection 4.2.13.4.2 of the , common service providers must report in their annex to the SMR on the results of their annual assessment of the system of internal control for the services that they provide to recipient departments. This requirement ensures transparency on the state of controls in common service organizations for the services they provide to recipient departments.",
+    "fr": "Conformément à la sous-section 4.2.13.4.2 de la , les fournisseurs de services communs doivent faire état dans leur annexe à la DRD des résultats de leur évaluation annuelle du système de contrôle interne pour les services qu’ils fournissent aux ministères bénéficiaires. Cette exigence assure la transparence de l’état des contrôles dans les organisations de services communs en ce qui a trait aux services qu’elles fournissent aux ministères bénéficiaires."
+  },
+  {
+    "en": "Subsection A.5 of Appendix A to this guide is dedicated to common service providers to present the annual results of their assessment of the internal control over the common services that they deliver. Other departments are not to include this subsection when completing their annex to the SMR.",
+    "fr": "La sous-section A.5 de l’appendice A du présent guide permet aux fournisseurs de services communs de présenter les résultats annuels de leur évaluation du contrôle interne pour les services communs qu’ils offrent. Les autres ministères ne doivent pas inclure cette sous-section lorsqu’ils remplissent leur annexe à la DRD."
+  },
+  {
+    "en": "Similar to the approach for assessments that departments conduct on their internal control over financial reporting, common service providers are encouraged to use a risk-based approach when conducting their assessment of controls for the services provided to recipient departments.",
+    "fr": "Lorsqu’ils évaluent le contrôle pour les services fournis aux ministères bénéficiaires, les fournisseurs de services communs sont invités à utiliser une approche axée sur les risques qui est semblable à celle qu’utilisent les ministères pour évaluer le contrôle interne en matière de rapports financiers."
+  },
+  {
+    "en": "If a common service provider determines that its common service controls are not scheduled for an assessment in a given fiscal year, it should state this in subsection A.5 of Appendix A. Common service providers may instead give an update on any remediation activities that are underway.",
+    "fr": "Si un fournisseur de services communs détermine que ses contrôles pour les services communs ne feront pas l’objet d’une évaluation au cours d’un exercice donné, il devrait l’indiquer à la sous-section A.5 de l’appendice A. Les fournisseurs de services communs peuvent plutôt présenter un compte rendu des mesures correctives en cours."
+  },
+  {
+    "en": "It should be noted that although common service providers must report on the system of internal control for the common services that they provide, this requirement is not intended to provide assurance of the reliability of the information in the financial statements of recipient departments.",
+    "fr": "Il convient de souligner que, bien que les fournisseurs de services communs doivent rendre compte du système de contrôle interne pour les services communs qu’ils fournissent, ils n’ont pas à fournir une assurance de la fiabilité de l’information dans les états financiers des ministères bénéficiaires."
+  },
+  {
+    "en": "Recipient departments using a common service provider’s services are still accountable for the control environment within their own organization and retain the responsibility for certain elements, for example:",
+    "fr": "Les ministères bénéficiaires qui utilisent les services d’un fournisseur de services communs demeurent responsables de l’environnement de contrôle au sein de leur propre organisation et conservent la responsabilité de certains éléments, par exemple :"
+  },
+  {
+    "en": "The Statement of Management Responsibility Including Internal Control Over Financial Reporting (SMR) is signed by the deputy head and the chief financial officer consistent with responsibilities assigned through subsections 4.1.8 and 4.2.13 of the . The SMR accompanies the departmental financial statements that are linked to, and published concurrently with, the Departmental Results Reports.",
+    "fr": "La déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers (DRD) est signée par l’administrateur général et le dirigeant principal des finances conformément aux responsabilités attribuées en vertu des sous-sections 4.1.8 et 4.2.13 de la . La DRD accompagne les états financiers ministériels qui sont liés aux Rapports sur les résultats ministériels et qui sont publiés en même temps que ceux-ci."
+  },
+  {
+    "en": "The SMR:",
+    "fr": "La DRD :"
+  },
+  {
+    "en": "Through the SMR, the deputy head and the chief financial officer are providing reasonable assurance that at a minimum:",
+    "fr": "Par l’intermédiaire de la DRD, l’administrateur général et le dirigeant principal des finances donnent une assurance raisonnable, à tout le moins, à l’égard des éléments suivants :"
+  },
+  {
+    "en": "A model of a SMR is provided in the .",
+    "fr": "Un modèle de DRD est fourni dans la ."
+  },
+  {
+    "en": "Common service providers are to include information on the system of internal control over the services they provide to recipient organizations in their SMR as per their annual assessment.",
+    "fr": "Les fournisseurs de services communs doivent inclure dans leur DRD des renseignements sur le système de contrôle interne pour les services qu’ils fournissent aux organisations bénéficiaires conformément à leur évaluation annuelle."
+  },
+  {
+    "en": "The SMR is also accompanied by an annex, which summarizes the measures taken by the department to maintain an effective system of internal control over financial reporting. More information on the annex to the SMR is provided in subsection 6.1 of this guide.",
+    "fr": "La DRD est également accompagnée d’une annexe, qui résume les mesures prises par le ministère pour maintenir un système efficace de contrôle interne en matière de rapports financiers. Des renseignements supplémentaires sur l’annexe à la DRD sont fournis à la sous-section 6.1 du présent guide."
+  },
+  {
+    "en": "This annex provides users of financial statements with summary information that demonstrates how the departmental system of internal control over financial reporting, is being managed through annual assessments, associated action plans and future assessment plans. Departments are encouraged to use the example annex that is appropriate to the department’s circumstances and to adapt, as necessary, the level of detail, content and key messages.",
+    "fr": "Cette annexe présente aux utilisateurs des états financiers de l’information sommaire indiquant comment le ministère gère son système de contrôle interne en matière de rapports financiers (évaluations annuelles, plans d’action connexes et plans d’évaluation futurs). Les ministères sont invités à utiliser le modèle d’annexe qui reflète le plus leur réalité et à adapter le niveau de détail, le contenu et les messages clés en fonction de leurs besoins."
+  },
+  {
+    "en": "Two common types of annexes are offered.",
+    "fr": "Deux types d’annexes courants sont offerts."
+  },
+  {
+    "en": "The standard annex in Appendix A is for departments to report on their assessment efforts and the progress achieved since the previous fiscal year. As most departments have reached the ongoing monitoring phase of their system of internal controls over financial reporting, departments can also include in this annex information on internal control over financial management. Appendix A to this guide provides an example of the standard annex for departments that are at the ongoing monitoring stage for their internal control as well as those that are in the process of reaching the ongoing monitoring stage.",
+    "fr": "Dans l’annexe normalisée de l’appendice A, les ministères font état des efforts d’évaluation déployés et des progrès réalisés depuis l’exercice précédent. Comme la plupart des ministères ont atteint l’étape de la surveillance continue de leur système de contrôle interne en matière de rapports financiers, les ministères peuvent également inclure dans cette annexe des renseignements sur le contrôle interne en matière de gestion financière. L’appendice A du présent guide fournit un exemple d’annexe normalisée applicable aux ministères qui en sont à l’étape de la surveillance continue de leur contrôle interne, ainsi qu’à ceux qui sont sur le point d’atteindre cette étape."
+  },
+  {
+    "en": "The simplified annex in Appendix B is for departments that do not have an internal audit function in accordance with the . These departments are required, starting in fiscal year 2022-23, to report on the results of their Core Control Self-Assessments in their annex to the SMR, as well as the results of any supplemental assessments of internal control that have been conducted by the Office of the Comptroller General (OCG). For example, the results of targeted audits conducted by the Internal Audit Sector of the OCG on selected departments.",
+    "fr": "L’annexe simplifiée de l’appendice B s’applique aux ministères qui n’ont pas de fonction d’audit interne conformément à la . Ces ministères sont tenus, à compter de l’exercice 2022-2023, de faire état des résultats de leurs auto-évaluations des contrôles de base dans leur annexe à la DRD, en plus des résultats de toute autre évaluation du contrôle interne qui a été réalisée par le Bureau du contrôleur général (BCG). Il s’agit par exemple des résultats des audits ciblés réalisés par le Secteur de l’audit interne du BCG auprès de certains ministères."
+  },
+  {
+    "en": "Members of the public may contact regarding any questions about this guide.",
+    "fr": "Les membres du public peuvent communiquer avec le personnel chargé des s’ils ont des questions au sujet du présent guide."
+  },
+  {
+    "en": "Individuals from departments should contact their departmental financial policy group regarding any questions about this guide.",
+    "fr": "Les employés des ministères devraient communiquer avec le groupe responsable des politiques financières de leur ministère s’ils ont des questions au sujet du présent guide."
+  },
+  {
+    "en": "Individuals from a departmental financial policy group may contact for interpretation of this guide.",
+    "fr": "Les employés d’un groupe ministériel responsable des politiques financières peuvent communiquer avec le personnel chargé des en ce qui concerne l’interprétation du présent guide."
+  },
+  {
+    "en": "For additional information on the Core Control Self-Assessments Tools, you may contact the .",
+    "fr": "Pour en savoir plus sur les outils d’auto-évaluation des contrôles de base, vous pouvez communiquer avec le ."
+  },
+  {
+    "en": "summary information on internal control over financial management;",
+    "fr": "les renseignements sommaires sur le contrôle interne en matière de gestion financière;"
+  },
+  {
+    "en": "the reporting of assessment results; and",
+    "fr": "la déclaration des résultats de l’évaluation;"
+  },
+  {
+    "en": "information that is annexed to the annual Statement of Management Responsibility Including Internal Control Over Financial Reporting.",
+    "fr": "les renseignements qui accompagnent la Déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers, laquelle est produite annuellement."
+  },
+  {
+    "en": "the financial resources of the Government of Canada to be well-managed and safeguarded through internal controls; and",
+    "fr": "à ce que les ressources financières du gouvernement du Canada soient bien gérées et protégées au moyen de contrôles internes;"
+  },
+  {
+    "en": "reliable reporting that provides transparency and accountability for how public funds are spent to achieve results.",
+    "fr": "à des rapports fiables qui montrent la transparence et la responsabilité du gouvernement quant à l’utilisation des fonds publics en vue d’obtenir des résultats."
+  },
+  {
+    "en": "identified the financial statement items and associated processes that have the highest risk of causing financial misstatement; and",
+    "fr": "ont repéré les éléments des états financiers et les processus connexes qui présentaient le plus haut risque de causer des inexactitudes financières;"
+  },
+  {
+    "en": "established processes to document, assess and improve key controls.",
+    "fr": "ont établi des processus pour documenter, évaluer et améliorer les principaux contrôles."
+  },
+  {
+    "en": "people;",
+    "fr": "les personnes;"
+  },
+  {
+    "en": "processes (including guidance and procedures);",
+    "fr": "les processus (y compris l’orientation et les procédures);"
+  },
+  {
+    "en": "systems and structures; and",
+    "fr": "les systèmes et les structures;"
+  },
+  {
+    "en": "internal controls.",
+    "fr": "les contrôles internes."
+  },
+  {
+    "en": "the steps taken to maintain an effective system of internal control;",
+    "fr": "les mesures prises pour que le ministère soit doté de mécanismes de contrôle interne efficaces;"
+  },
+  {
+    "en": "the controls that are in place;",
+    "fr": "les contrôles en place;"
+  },
+  {
+    "en": "how the controls function; and",
+    "fr": "le fonctionnement des contrôles;"
+  },
+  {
+    "en": "the measures taken to ensure that the controls are effective.",
+    "fr": "les mesures prises pour assurer l’efficacité des contrôles."
+  },
+  {
+    "en": "a risk-based system of internal control over financial management to provide reasonable assurance that:",
+    "fr": "un système de contrôle interne en matière de gestion financière axé sur les risques pour fournir une assurance raisonnable que :"
+  },
+  {
+    "en": "public resources are used prudently and in an economical manner;",
+    "fr": "les ressources publiques sont utilisées prudemment et de façon économique,"
+  },
+  {
+    "en": "financial management processes are effective and efficient; and",
+    "fr": "les processus de gestion financière sont efficaces et efficients,"
+  },
+  {
+    "en": "relevant legislation, regulations and financial management policy instruments are being complied with.",
+    "fr": "les lois, les règlements et les instruments de politique de gestion financière pertinents sont respectés;"
+  },
+  {
+    "en": "a risk-based system of internal control over financial reporting, as demonstrated by the departmental Statement of Management Responsibility Including Internal Control Over Financial Reporting (SMR).",
+    "fr": "un système de contrôle interne en matière de rapports financiers axé sur les risques, comme le souligne la Déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers (DRD) du ministère."
+  },
+  {
+    "en": "implementing and maintaining a risk-based system of internal control over financial management in their area of responsibility;",
+    "fr": "mettre en œuvre et maintenir un système de contrôle interne en matière de gestion financière axé sur les risques dans leur domaine de responsabilité;"
+  },
+  {
+    "en": "notifying the chief financial officer of material control weaknesses; and",
+    "fr": "aviser le dirigeant principal des finances des faiblesses du contrôle importantes;"
+  },
+  {
+    "en": "ensuring that prompt corrective action is taken when control weaknesses are identified in their area of responsibility.",
+    "fr": "s’assurer que des mesures correctives sont prises rapidement lorsque de telles faiblesses sont cernées dans leur domaine de responsabilité."
+  },
+  {
+    "en": "key internal controls are assessed and periodically reassessed for monitoring purposes using a risk-based approach;",
+    "fr": "les principaux contrôles internes sont évalués et réévalués régulièrement à des fins de surveillance, selon une approche axée sur les risques;"
+  },
+  {
+    "en": "corrective actions are taken when necessary; and",
+    "fr": "des mesures correctives sont prises au besoin;"
+  },
+  {
+    "en": "formal oversight of activities takes place through effective governance, including the establishment of an internal control management framework and regular reporting to senior management, the deputy head and, as applicable, the Departmental Audit Committee.",
+    "fr": "une surveillance officielle des activités est effectuée grâce à une gouvernance efficace, y compris l’établissement d’un cadre de gestion des contrôles internes et la présentation de rapports périodiques à la haute direction, à l’administrateur général et, le cas échéant, au Comité ministériel d’audit."
+  },
+  {
+    "en": "comprises measures and activities that provide reasonable assurance of the effectiveness and efficiency of the financial management activities of the department; and",
+    "fr": "comprend des mesures et des activités qui offrent une assurance raisonnable de l’efficacité et de l’efficience des activités de gestion financière du ministère;"
+  },
+  {
+    "en": "involves not only financial reporting, but also those activities that ensure that public resources are prudently and economically managed.",
+    "fr": "porte sur les rapports financiers et sur les activités qui permettent d’assurer une gestion prudente et économique des ressources publiques."
+  },
+  {
+    "en": "planning (budgeting and forecasting);",
+    "fr": "la planification (budgétisation et prévisions);"
+  },
+  {
+    "en": "costing;",
+    "fr": "l’établissement des coûts;"
+  },
+  {
+    "en": "investment planning;",
+    "fr": "la planification des investissements;"
+  },
+  {
+    "en": "chief financial officer attestations (included in Cabinet submissions);",
+    "fr": "les attestations du dirigeant principal des finances (comprises dans les présentations au Cabinet);"
+  },
+  {
+    "en": "payroll/salary management process; and",
+    "fr": "le processus de gestion de la paie et des salaires;"
+  },
+  {
+    "en": "project management.",
+    "fr": "la gestion de projet."
+  },
+  {
+    "en": "is a subset of the system of internal control over financial management; and",
+    "fr": "est un volet du système de contrôle interne en matière de gestion financière;"
+  },
+  {
+    "en": "comprises measures and activities that provide reasonable assurance that a department’s financial statements are accurate and complete.",
+    "fr": "comprend des mesures et des activités qui fournissent une assurance raisonnable que les états financiers du ministère sont exacts et complets."
+  },
+  {
+    "en": "entity-level controls;",
+    "fr": "les contrôles au niveau de l’entité;"
+  },
+  {
+    "en": "information technology general controls;",
+    "fr": "les contrôles généraux des technologies de l’information;"
+  },
+  {
+    "en": "financial close and reporting;",
+    "fr": "la clôture financière et les rapports financiers;"
+  },
+  {
+    "en": "procure to payment (including contracting);",
+    "fr": "l’approvisionnement jusqu’au paiement (y compris la passation de marchés);"
+  },
+  {
+    "en": "operating and capital expenditures; and",
+    "fr": "les dépenses d’exploitation et en capital;"
+  },
+  {
+    "en": "revenue.",
+    "fr": "les revenus."
+  },
+  {
+    "en": "provide insight into how the organization is functioning;",
+    "fr": "il donne un aperçu du fonctionnement de l’organisation;"
+  },
+  {
+    "en": "provide reasonable assurance on the effectiveness and efficiency of operations, the reliability of reporting, and compliance with applicable legislations, regulations, and financial management instruments;",
+    "fr": "il fournit une assurance raisonnable de l’efficacité et de l’efficience des opérations, de la fiabilité des rapports et de la conformité avec les lois, les règlements et les instruments de gestion financière applicables;"
+  },
+  {
+    "en": "identify key risks and their mitigation strategies; and",
+    "fr": "il fait état des principaux risques et de leurs stratégies d’atténuation;"
+  },
+  {
+    "en": "reasonable assurance that financial resources are safeguarded against material loss that may result from waste, abuse, mismanagement, errors, fraud, omissions and other irregularities.",
+    "fr": "il donne l’assurance raisonnable que les ressources financières sont protégées contre les pertes importantes découlant de gaspillage, d’abus, d’une mauvaise gestion, d’erreurs, de fraudes, d’omissions et d’autres irrégularités."
+  },
+  {
+    "en": "this requires carrying out a risk-based assessment of a department’s most important business processes.",
+    "fr": "il s’agit de procéder à une évaluation axée sur les risques des processus opérationnels les plus importants d’un ministère."
+  },
+  {
+    "en": "this requires updating or documenting the business processes, including the controls expected to be in place.",
+    "fr": "il s’agit de mettre à jour ou de documenter les processus opérationnels, y compris les contrôles censés être en place."
+  },
+  {
+    "en": "this relates to assessing the risks associated with a specific business process and ensuring that controls are designed to address the risks.",
+    "fr": "il s’agit d’évaluer les risques associés à un processus opérationnel en particulier et de s’assurer que les contrôles sont conçus pour aborder les risques."
+  },
+  {
+    "en": "this involves testing the controls identified under the design-effectiveness phase to ensure that they are working as intended throughout the year.",
+    "fr": "il s’agit de mettre à l’essai les contrôles désignés pendant l’étape de l’efficacité de la conception afin de s’assurer qu’ils fonctionnent comme prévu tout au long de l’année."
+  },
+  {
+    "en": "this involves putting in place a program of continuous monitoring of internal controls, which means conducting ongoing testing to ensure that the controls continue to operate effectively.",
+    "fr": "il s’agit de mettre en place un programme de surveillance continue des contrôles internes, c’est-à-dire de procéder à des essais continus pour s’assurer que les contrôles continuent de fonctionner efficacement."
+  },
+  {
+    "en": "the conduct of the department’s annual risk-based assessment of the design and operation of internal controls; and",
+    "fr": "en réalisant annuellement l’évaluation de l’efficacité opérationnelle et de la conception des contrôles internes du ministère selon une approche axée sur les risques;"
+  },
+  {
+    "en": "the identification of actions needed to address any significant or material weaknesses.",
+    "fr": "en déterminant les mesures qui seront nécessaires pour corriger toute faiblesse importante."
+  },
+  {
+    "en": "the effectiveness of their management of internal control over financial reporting; and",
+    "fr": "l’efficacité de leur gestion du contrôle interne en matière de rapports financiers;"
+  },
+  {
+    "en": "the status of their assessment efforts based on their plans for risk-based ongoing monitoring of internal control over financial reporting.",
+    "fr": "l’état d’avancement des évaluations par rapport à leurs plans de surveillance continue axée sur les risques du contrôle interne en matière de rapports financiers."
+  },
+  {
+    "en": "Public Services and Procurement Canada administers the payment of salaries, the procurement of goods and services, and provides accommodation services;",
+    "fr": "Services publics et Approvisionnement Canada gère le paiement des salaires, l’acquisition de biens et de services, et fournit des services de gestion des locaux;"
+  },
+  {
+    "en": "Shared Services Canada provides information technology infrastructure services;",
+    "fr": "Services partagés Canada offre des services d’infrastructure de technologie de l’information;"
+  },
+  {
+    "en": "Department of Justice Canada provides legal services;",
+    "fr": "le ministère de la Justice Canada fournit des services juridiques;"
+  },
+  {
+    "en": "Treasury Board of Canada Secretariat provides information on public service insurance and centrally administers payment of the employer’s share of contributions toward statutory employee benefit plans; and",
+    "fr": "le Secrétariat du Conseil du Trésor du Canada fournit des renseignements sur l’assurance de la fonction publique et qui gère centralement le paiement de la part de l’employeur des cotisations aux régimes d’avantages sociaux des employés prévus par la loi;"
+  },
+  {
+    "en": "Departments hosting system services, such as human resources or financial management.",
+    "fr": "les ministères qui hébergent les services du système, tels que les ressources humaines ou la gestion financière."
+  },
+  {
+    "en": "approving access to various systems;",
+    "fr": "approuver l’accès à divers systèmes;"
+  },
+  {
+    "en": "ensuring that the information sent to the common service provider is complete and accurate;",
+    "fr": "s’assurer que les renseignements envoyés au fournisseur de services communs sont complets et exacts;"
+  },
+  {
+    "en": "verifying that the services received are appropriate and in line with memoranda of understanding and contracts; and",
+    "fr": "s’assurer que les services reçus sont appropriés et conformes aux protocoles d’entente et aux contrats;"
+  },
+  {
+    "en": "managing the relationship with the common service provider, including participating in any governance bodies, as required.",
+    "fr": "gérer la relation avec le fournisseur de services communs, notamment en participant à des organes de gouvernance, au besoin."
+  },
+  {
+    "en": "acknowledges management’s responsibility for maintaining an effective system of internal control over financial reporting; and",
+    "fr": "atteste de la responsabilité de la direction à l’égard du maintien d’un système efficace de contrôle interne en matière de rapports financiers;"
+  },
+  {
+    "en": "refers to the annual assessment of the system’s effectiveness and the associated action plan for the next and subsequent fiscal years.",
+    "fr": "fait référence à l’évaluation annuelle de l’efficacité du système ainsi qu’au plan d’action connexe du prochain exercice et des exercices subséquents."
+  },
+  {
+    "en": "records are maintained that support and represent fairly all financial transactions;",
+    "fr": "les documents conservés correspondent fidèlement à toutes les opérations financières et les appuient;"
+  },
+  {
+    "en": "the recording of financial transactions allows for the preparation of internal and external financial information, reports and statements in compliance with financial management policy instruments;",
+    "fr": "la consignation des opérations financières facilite la préparation d’information, de rapports et d’états financiers internes et externes, conformément aux instruments de politique relatifs à la gestion financière;"
+  },
+  {
+    "en": "expenditures are in accordance with delegated authorities, and unauthorized transactions that could have a material effect on the financial statements are prevented or detected in a timely manner;",
+    "fr": "les dépenses sont engagées dans le respect de la délégation des pouvoirs, et les opérations non autorisées qui pourraient avoir des répercussions importantes sur les états financiers sont évitées ou repérées en temps opportun;"
+  },
+  {
+    "en": "financial resources are safeguarded against material loss because of waste, abuse, mismanagement, errors, fraud, omissions and other irregularities; and",
+    "fr": "les ressources financières sont protégées contre les pertes importantes découlant de gaspillage, d’abus, d’une mauvaise gestion, d’erreurs, de fraudes, d’omissions et d’autres irrégularités;"
+  },
+  {
+    "en": "prompt corrective action is taken when control weaknesses and material unmitigated risks are identified, including the risk of fraud, in the system of internal control over financial management and over financial reporting.",
+    "fr": "des mesures correctives sont prises rapidement lorsque des faiblesses dans les contrôles et des risques importants non atténués sont détectés, y compris le risque de fraude, dans le système de contrôle interne en matière de gestion financière et en matière de rapports financiers."
+  },
+  {
+    "en": ", subsection 16.4",
+    "fr": ", article 16.4"
+  },
+  {
+    "en": "(accessible only on the Government of Canada network)",
+    "fr": "(uniquement accessible sur le réseau du gouvernement du Canada)"
+  }
+]

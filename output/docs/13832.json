@@ -1,0 +1,1110 @@
+[
+  {
+    "en": "refers to the scientific, technological and engineering disciplines and to the management technologies used in information handling, communication and processing; their applications; and associated software and equipment, together with their interaction with humans and machines.",
+    "fr": "désignent les disciplines scientifiques, technologiques et techniques ainsi que les technologies de gestion utilisées dans la manipulation, la communication et le traitement de l'information; leurs applications; et le logiciel et le matériel connexes, ainsi que leur interaction avec les humains et les machines."
+  },
+  {
+    "en": "Although the above definition includes all information technology resources, the application of specific aspects of the policy may be restricted in some cases and will be the subject of bilateral agreements between the Treasury Board Secretariat and institutions concerned. In the case of the Information Management Plan, the annual instructions delineate the specific items to be included.",
+    "fr": "Bien que cette définition comprenne toutes les ressources liées aux technologies de l'information, l'application d'aspects particuliers de la politique peut être restreinte dans certains cas et fera l'objet d'ententes bilatérales entre le Secrétariat du Conseil du Trésor et les institutions concernées. Dans le cas du Plan de gestion de l'information, les directives publiées annuellement délimitent les points particuliers à y inclure."
+  },
+  {
+    "en": "The following terms are defined in the Treasury Board Project Management policy: .",
+    "fr": "Les termes suivants sont définis dans la politique du Conseil du Trésor portant sur la ."
+  },
+  {
+    "en": "The Strategic Direction for Information Management in Chapter 1-1 describes the evolution that is occurring with respect to information management planning. Beginning with long-term plans for information technology, this planning has placed increasing emphasis on information holdings. This and converging technologies have led to greater coordination of the planning for all information-based resources. This section provides a brief overview of the strategic planning process in the government. Institutions should employ the business-case approach (see section 3) as a methodology to carry out this strategic planning.",
+    "fr": "L'Orientation stratégique en matière de gestion de l'information dans le chapitre 1-1 décrit l'évolution qui a eu lieu et qui se poursuit dans le domaine de la planification de la gestion de l'information. Fondé sur l'établissement de plans à long terme de technologies de l'information, cette planification insiste davantage sur les fonds de renseignements. Cette nouvelle orientation et la fusion des technologies ont donné lieu à une meilleure coordination de la planification de toutes les ressources liées à l'information. Cette section fournit un bref aperçu du processus de planification stratégique au gouvernement. Les institutions devraient utiliser l'approche d'entreprise (voir la section 3) comme méthode de planification stratégique."
+  },
+  {
+    "en": "Each institution should develop its Information Management Plan to meet its particular requirements and circumstances. Figure 1 has been included to show a typical example of an information management planning framework that could be adopted by an institution.",
+    "fr": "Chaque institution devrait élaborer son plan de gestion de l'information de manière qu'il réponde à ses besoins particuliers et s'adapte à sa situation unique. La figure 1 donne un exemple typique du cadre de planification de la gestion de l'information que pourrait adopter une institution."
+  },
+  {
+    "en": "The institution should first set objectives based on its mission and operational plans. Once this is done, strategies describing how these objectives can be achieved should be developed. To be most effective, these strategies should be in such terms that they will remain valid for up to five years. This phase should only need to be performed every three to five years.",
+    "fr": "L'institution devrait d'abord se fixer des objectifs en fonction de sa mission et de ses plans opérationnels. Cela fait, elle devrait établir des stratégies pour atteindre ses objectifs. Pour être efficaces, ces stratégies devraient être telles qu'elles demeureront valables pour une période maximale de cinq ans. Les objectifs ne devraient être établis que tous les trois à cinq ans."
+  },
+  {
+    "en": "The Information Management Plan is a multi-year plan that is normally updated annually. The plan outlines the goals, actions, priorities, resources, policies, standards, and procedures that are required to achieve the objectives. It can be thought of as a prioritized action plan in terms of a moving three- to five-year window. The last event is the production of specific performance targets, tasks, schedules and resource requirements for the upcoming year.",
+    "fr": "Le Plan de gestion de l'information est un plan pluriannuel qui est normalement mis à jour chaque année. Le plan expose les buts, les mesures, les priorités, les ressources, les politiques, les normes et les procédures qui sont nécessaires pour atteindre les objectifs. On peut le comparer à un plan d'action qui fait état des priorités dans un cadre évolutif d'une durée de trois à cinq ans. La dernière étape consiste en l'établissement d'objectifs de rendement, de tâches, de calendriers et de besoins en ressources particuliers pour l'année à venir."
+  },
+  {
+    "en": "The effectiveness of the institution's strategies and plans can be increased by considering other factors such as: any overall government directions and objectives as stated in \"Enhancing Services Through the Innovative Use of Information and Technology\" (see Chapter 1-2); the strategies and plans of the common-service organizations; human resource management processes including training, classification, affirmative action and official languages; applicable security requirements; compliance with approved government information technology standards; and relevant items specifically agreed to by the institution and the Treasury Board Secretariat.",
+    "fr": "L'institution peut accroître l'efficacité de ses plans et stratégies en tenant compte d'autres facteurs comme : l'orientation et les objectifs généraux énoncés au chapitre 1-2 intitulé \" Améliorer les services en utilisant l'information et les technologies de façon novatrice \"; les stratégies et les plans des organismes de services communs, les processus de gestion des ressources humaines dont la formation, la classification, l'action positive et les langues officielles; les exigences en matière de sécurité applicables; le respect des normes gouvernementales approuvées en matière de technologies de l'information et les question pertinentes qui ont été convenues par l'institution et le Secrétariat du Conseil du Trésor."
+  },
+  {
+    "en": "To obtain full benefits, institutions and common-service organizations should plan for information technology, and information management as it is implemented, within a wider framework that includes other institutions and common-service organizations. This is because an appropriate degree of government-wide compatibility is necessary for organizations with different equipment and software to exchange information and to obtain economies from sharing facilities. This requires institutions and common-service organizations to cooperate and accept the necessity to coordinate and standardize certain aspects of their information-based resources. This coordination will be achieved by continuing the government-wide consensus approach; i.e. all parties participate in reaching a solution that balances the degree of government-wide standardization against institution-specific needs, thus optimizing overall benefits.",
+    "fr": "Pour obtenir les plus grands avantages possibles, les institutions et organismes de services communs devraient planifier les technologies de l'information, et la gestion de l'information au fur et à mesure de son adoption, dans un cadre plus vaste qui comprend d'autres institutions et organismes de services communs. Une certaine mesure de compatibilité est nécessaire à l'échelle de l'administration fédérale pour permettre aux organismes ayant du matériel et du logiciel différents d'échanger de l'information et d'économiser en partageant des installations. Pour ce faire, les institutions et organismes de services communs doivent collaborer et reconnaître la nécessité de coordonner et de normaliser certains aspects de leurs ressources liées à l'information. Cette coordination est possible si l'on poursuit l'approche de consensus à l'échelle de l'administration fédérale, c'est-à-dire si toutes les parties participent à la recherche d'une solution qui établit un équilibre entre le degré de normalisation à l'échelle de l'administration fédérale et les besoins particuliers de l'institution, de manière à optimiser les avantages globaux."
+  },
+  {
+    "en": "The coordination of plans for information technology has evolved over time and can be expected to evolve to other information-based resources. It will continue to adapt to changing circumstances. The following paragraphs describe the activities involved in achieving government-wide coordination.",
+    "fr": "La coordination des plans relatifs aux technologies de l'information a évolué au fil des ans, et on peut s'attendre à ce qu'elle soit appliquée à d'autres ressources liées à l'information. Elle continuera de s'adapter au contexte changeant. Les paragraphes qui suivent décrivent les activités nécessaires à la coordination à l'échelle de l'administration fédérale."
+  },
+  {
+    "en": "The Treasury Board Secretariat issues a statement of priorities and government-wide issues in information management (e.g. \"Enhancing Services Through the Innovative Use of Information and Technology\" - see Chapter 1-2). This statement is developed with the advice and assistance of institutions working primarily through the Advisory Committee on Information Management. Institutions and common-service organizations should consider this statement in their planning.",
+    "fr": "Le Secrétariat du Conseil du Trésor publie un état des priorités gouvernementales et des questions liées à la gestion de l'information à l'échelle de l'administration fédérale (p. ex. \" Améliorer les services en utilisant l'information et les technologies de façon novatrice \" - voir le chapitre 1-2). Cet état est établi à l'aide des institutions qui relèvent du Comité consultatif de la gestion de l'information. Les institutions et les organismes de services communs devraient tenir compte de cet état dans leur planification."
+  },
+  {
+    "en": "The Treasury Board Secretariat ensures that common-service organizations coordinate their long-term strategies, develop a cohesive direction on government information management issues, and adopt a shared foundation for long-range planning. Institutions are advised about the plans of the common-service organizations so that they can take them into consideration in planning for their future needs.",
+    "fr": "Le Secrétariat du Conseil du Trésor s'assure que les organismes de services communs coordonnent leurs stratégies à long terme, établissent une orientation cohérente des questions liées à la gestion de l'information touchant l'ensemble de l'administration fédérale et constituent une base commune pour la planification à long terme. Les plans des organismes de services communs seront communiqués aux institutions afin qu'elles en tiennent compte dans la planification de leurs besoins futurs."
+  },
+  {
+    "en": "Although their strategies and plans are primarily for their own use, once institutions approve them, copies are provided to the Treasury Board Secretariat so that their contents can be shared with other institutions and common-service organizations.",
+    "fr": "Bien que les stratégies et les plans servent principalement à leurs propres fins, les institutions peuvent, une fois qu'elles ont approuvé ces documents, en transmettre des exemplaires au Secrétariat du Conseil du Trésor de manière que leur contenu puisse être partagé avec d'autres institutions et organismes de services communs."
+  },
+  {
+    "en": "Figure 2 illustrates the interactions that take place among the Treasury Board Secretariat, institutions and common-service organizations to coordinate government-wide information management.",
+    "fr": "La figure 2 illustre l'interaction qui se produit entre le Secrétariat du Conseil du Trésor, les institutions et les organismes de services communs et qui se traduit par la coordination de la gestion de l'information à l'échelle de l'administration fédérale."
+  },
+  {
+    "en": "The coordination of information management planning government-wide results in benefits for all parties involved-institutions, central agencies and common-service organizations.",
+    "fr": "La coordination des plans de gestion de l'information à l'échelle de l'administration fédérale devrait être avantageuse pour toutes les parties concernées-institutions, organismes centraux et organismes de services communs."
+  },
+  {
+    "en": "Some of the benefits that accrue are:",
+    "fr": "Voici quelques-uns des avantages :"
+  },
+  {
+    "en": "Central agencies and common-service organizations use government-wide information management planning to:",
+    "fr": "Les organismes centraux et les organismes de services communs recourent aux plans de gestion de l'information qui s'appliquent à l'échelle de l'administration fédérale pour :"
+  },
+  {
+    "en": "A major objective of the strategic planning process in institutions is to involve senior and program managers in setting the objectives and strategies and making the plans for information technology in their institution. In the process, a concerted effort should be made to avoid technical language.",
+    "fr": "Un des principaux objectifs du processus de planification stratégique dans les institutions est d'amener les cadres supérieurs et les gestionnaires de programmes à établir les objectifs et les stratégies et à dresser les plans en matière de technologies de l'information dans leur institution. Ce faisant, ils devraient se concerter afin d'éviter l'utilisation d'une terminologie technique."
+  },
+  {
+    "en": "Institutions invest in information technology to increase their productivity, to reduce operating costs and to improve their service. Because they have limited investment capacity, institutions want to be certain that they are making the right investment choices.",
+    "fr": "Les institutions investissent dans les technologies de l'information pour accroître leur productivité, réduire leurs coûts de fonctionnement et améliorer leur service. Comme leur capacité d'investissement est limitée, les institutions veulent être sûres de faire les bons choix en matière d'investissement."
+  },
+  {
+    "en": "The is a framework for making these decisions. It is based on the principles that a direct relationship exists between every investment made by the institution and its programs or \"business\" and that each investment should clearly demonstrate benefits to the institution or the government as a whole.",
+    "fr": "L' est un cadre servant à prendre ces décisions. Elle repose sur les principes suivants : il existe une relation directe entre chaque investissement réalisé par l'institution et ses programmes ou \" affaires \" et il faut montrer clairement que l'investissement profite à toute l'institution ou à toute l'administration fédérale."
+  },
+  {
+    "en": "This process for selecting and approving investments allows senior managers to determine the value of investments by understanding their impact on program performance. Fundamental to this approach, therefore, is the premise that information technology proposals are treated as investments rather than expenditures.",
+    "fr": "Ce processus de choix et d'approbation des investissements permet aux cadres supérieurs de déterminer la valeur des investissements en les aidant à comprendre l'incidence de ces derniers sur la performance des programmes. L'approche d'entreprise part donc aussi de la prémisse fondamentale que les propositions en matière de technologies de l'information sont traitées comme des investissements plutôt que comme des dépenses."
+  },
+  {
+    "en": "Adopting a business-case approach as their strategic planning process for information technology provides senior and program managers with the following benefits:",
+    "fr": "L'adoption d'une approche d'entreprise dans leur planification stratégique des technologies de l'information procure aux cadres supérieurs et aux gestionnaires des programmes les avantages suivants :"
+  },
+  {
+    "en": "No particular methodology for the business-case approach is prescribed; institutions decide for themselves how they implement it. However, institutions are required to use a business-case approach for selecting and approving information technology investments. Using a business-case approach is a key part of the institution's processes for developing its Information Management Plan (see section 2), Multi-Year Operating Plan and Long-Term Capital Plan, and implementing the Treasury Board's Project Management and Project Approval policies. Investments proposed by government institutions should also relate to government-wide strategic directions (see Enhancing services through the innovative use of information and technology in Chapter 1-2).",
+    "fr": "Aucune méthode particulière pour l'approche d'entreprise n'est prescrite; les institutions décident elles-mêmes comment elles vont la mettre en oeuvre. Toutefois, elles doivent absolument utiliser cette approche pour choisir et approuver les investissements en technologies de l'information. Le recours à une approche d'entreprise est un élément clé des processus appliqués par l'institution pour élaborer son Plan de gestion de l'information (voir la section 2), le Plan opérationnel pluriannuel et le Plan d'immobilisations à long terme, et pour mettre en oeuvre les politiques du Conseil du Trésor en matière de gestion des projets et d'approbation de projet. Les investissements proposés par les institutions gouvernementales doivent aussi se conformer aux grandes orientations stratégiques adoptées à l'échelle de l'administration fédérale. (voir Améliorer les services en utilisant l'information et les technologies de façon novatrice au chapitre 1-2)."
+  },
+  {
+    "en": "Senior and program managers of the institution have to be involved if the business-case approach is to be implemented successfully. This will only happen if it is conducted with a firm resolve to minimize technical terminology and detail. Other factors critical to its success are:",
+    "fr": "Les cadres supérieurs et les gestionnaires des programmes de l'institution doivent participer à l'approche d'entreprise si l'on veut qu'elle soit efficace. Ces derniers ne participeront à une telle approche que si l'on évite le plus possible d'utiliser des termes techniques. Les autres facteurs essentiels de succès incluent notamment les éléments suivants :"
+  },
+  {
+    "en": "The following outline of a business-case approach describes a conceptual process for assessing the current and potential contribution of information technology to the institution; for developing information technology strategies and plans; for establishing the appropriate level of investment in information technology over the planning period; and, finally, for approving specific investment projects.",
+    "fr": "L'esquisse ci-dessous d'une approche d'entreprise décrit un processus conceptuel servant à évaluer la contribution actuelle et éventuelle de la technologies de l'information à l'institution, à élaborer des stratégies et des plans en matière de technologies de l'information, à établir le niveau approprié des investissements en technologies de l'information sur une période de planification donnée, et enfin à approuver des projets d'investissement précis."
+  },
+  {
+    "en": "First, the business direction and strategies of the institution should be clearly understood. Why is it in business? What factors, programs and activities are most critical to its success? The activities of the institution should be reviewed and rated according to their contribution to the key objectives of the institution.",
+    "fr": "D'abord, les stratégies et l'orientation générale comme entreprise de l'institution doivent être bien comprises. Pourquoi l'institution est-elle en affaires? Quels facteurs, programmes et activités sont les plus essentiels à son succès? Les activités de l'institution doivent être évaluées et cotées selon leur contribution aux objectifs clés de l'institution."
+  },
+  {
+    "en": "The adequacy of the existing information technology support should be assessed for each activity. In addition, the overall user satisfaction with their existing information technology support should be measured. These provide the basis from which the optimum levels of information technology support can be determined for each program and function.",
+    "fr": "La pertinence de l'apport des systèmes de technologie de l'information existants doit être évaluée pour chaque activité. De plus, la satisfaction globale des utilisateurs à l'égard de cet apport doit être mesurée. Ces données serviront de base au calcul des niveaux optimums de technologie d'information pour chaque programme et fonction."
+  },
+  {
+    "en": "The implications of new programs and major program changes should be determined and analysed. A of how the organization wishes to operate in the future should be developed along with an overall strategy for getting there and for recognizing opportunities and obstacles along the way. A review of information technology trends may suggest new opportunities to enhance the services of the institution.",
+    "fr": "Il faut ensuite déterminer et analyser les répercussions des nouveaux programmes et des principaux changements apportés aux programmes existants. Une de la façon dont l'organisation veut fonctionner dans les années à venir doit être élaborée, ainsi qu'une stratégie globale pour y parvenir et pour reconnaître les possibilités et les obstacles en cours de route. Une analyse des tendances dans le domaine des technologies de l'information pourrait faire ressortir de nouvelles façons d'améliorer les services offerts par l'institution."
+  },
+  {
+    "en": "Each organization in the institution should propose initiatives, some involving information technology, to improve the current performance and service of the institution as well as the future directions defined in the business strategy. Expected results should be expressed in terms of their anticipated contribution to improved program performance and enhanced service, and their predicted cost benefit. Using these preliminary assessments, the institution can establish its investment priorities and make an initial ranking of competing proposals.",
+    "fr": "Chaque organisation de l'institution devrait proposer des initiatives, dont certaines se rapportant à la technologie de l'information, pour améliorer le service et la performance actuels de l'institution et les grandes orientations futures précisées dans la stratégie d'entreprise. Les résultats attendus doivent être exprimés en fonction de la contribution anticipée de l'initiative à l'amélioration de la performance et du service, ainsi qu'en fonction des coûts et avantages prévus. à l'aide de ces estimations préliminaires, l'institution peut établir ses priorités en matière d'investissement et procéder à un classement initial des propositions concurrentes."
+  },
+  {
+    "en": "A strategic plan for the future evolution of information technology in the institution can be developed from the investment priorities and initial set of investment projects. Strategies should be derived from and strongly support the institution's business directions and plans.",
+    "fr": "Un plan stratégique pour l'évolution future des technologies de l'information dans l'institution peut être élaboré à partir des priorités d'investissement et d'une série initiale de projets d'investissement. Les stratégies mêmes devraient être élaborées à partir des grandes orientations et des plans d'entreprise de l'institution et appuyées fermement par ces orientations et ces plans."
+  },
+  {
+    "en": "This business focus allows the institution to define target for information technology, that is, the long-range configurations of data, applications, networks and computer technology (hardware and software) that will best respond to the predicted needs and priorities of the institution. Initiatives can be defined to move the institution from its existing information technology architecture to the proposed new one. These architecture or infrastructure initiatives should also support, albeit indirectly, the approved business initiatives. The development of these architectures is evolutionary, not a single project, and the target architectures should change over time to reflect changed business priorities and new advances in information technology.",
+    "fr": "Cette façon d'être vue comme une entreprise permet à l'institution de définir les pour les technologies de l'information, c'est-à-dire les configurations à long terme des données, les applications, les réseaux et la technologie informatique (matériel et logiciel), qui répondront le mieux aux besoins qu'elle prévoit avoir et à ses priorités. Les initiatives doivent contribuer à faire passer l'institution de son architecture existante à la nouvelle architecture proposée. Ces initiatives en matière d'architecture ou d'infrastructure doivent aussi appuyer, quoique indirectement, les projets d'entreprise approuvés. Le développement de ces architectures est évolutionniste, c'est-à-dire qu'il ne doit pas se résumer à un seul projet, et les architectures visées devraient évoluer au fil des ans de manière à refléter les changements de priorités et les nouvelles percées réalisées dans le domaine des technologies de l'information."
+  },
+  {
+    "en": "The linkage between the proposed architecture or infrastructure projects and program-support projects should be clearly understood and their expected results clearly defined in terms of their contribution to program performance and improved service. Technology projects do not have to be described in technological terms; they should be understood by all.",
+    "fr": "Le lien entre les projets d'architecture ou d'infrastructure proposés et les projets visant à appuyer les programmes doit être bien compris et les résultats attendus de ces projets d'architecture ou d'infrastructure doivent être clairement définis par rapport à leur apport à la performance des programmes et à l'amélioration du service. Les projets technologiques ne doivent pas être décrits en termes techniques; il est plus important que tout le monde comprenne."
+  },
+  {
+    "en": "This analysis of information technology's role and contribution towards improved program performance should result in a clearer recognition and understanding of its importance to the institution. Senior management can consider proposals with an understanding of their relative importance to the institution as a whole. Management will also have an appreciation of the projected impact of any proposals on program performance as well as their linkage to the institution's Long Term Capital Plan, Multi-Year Operating Plan and other planning processes. Proposed investment levels can be justified by program managers based on expected results. From this analysis, an appropriate information technology expenditure level for the institution can be established.",
+    "fr": "Cette analyse du rôle des technologies de l'information et de leur apport à l'amélioration de la performance des programmes devrait aider à mieux saisir et à mieux comprendre leur importance pour l'institution. La haute direction peut alors examiner les propositions en comprenant leur importance relative pour l'institution dans son ensemble. Elle pourra aussi évaluer l'incidence que les propositions auront sur la performance des programmes et leur relation avec le Plan d'immobilisations à long terme, le Plan opérationnel pluriannuel et les autres plans de l'institution. Les niveaux d'investissement proposés devraient être justifiés par les gestionnaires des programmes en fonction des résultats attendus. à partir de cette analyse, un niveau de dépenses d'investissement convenant à l'institution peut être établi."
+  },
+  {
+    "en": "When determining the appropriate expenditure level for information technology, senior management should also consider full life-cycle costs for their investments, e.g. design and development, implementation, operation and enhancements and eventual replacement. Experience has shown that operational expenditures on information technology rise in proportion to the investment in new systems. Often these costs are not budgeted for.",
+    "fr": "Quand ils cherchent à déterminer ce niveau de dépenses approprié en technologie de l'information, les cadres supérieurs doivent aussi tenir compte de tous les coûts de durée de vie utile totale de leurs investissements, ce qui inclut par exemple les coûts de conception et de développement, les coûts de mise en oeuvre, les coûts de fonctionnement et d'amélioration et le remplacement éventuel. La pratique a montré que les dépenses de fonctionnement au titre des technologies de l'information augmentent proportionnellement à l'investissement réalisé dans les nouveaux systèmes. Souvent ces coûts ne sont pas prévus dans les budgets."
+  },
+  {
+    "en": "A business-case approach should also be used to justify and approve specific information technology investment proposals. Note, however, that the extent of the justification required for an investment should reflect its size. The justification for a microcomputer, for example, should be considerably less than is required for a major investment. In many cases, a significant information technology project may be part of what is essentially a non-information technology project. Even though the overall project may be appropriately justified, the information technology project component should still be reviewed separately to optimize its contribution to the institution's goals and to ensure that it is in accord with the institution's architectural strategies for information technology.",
+    "fr": "Une approche d'entreprise devrait aussi être utilisée pour justifier et approuver des projets d'investissement précis en technologie de l'information. à noter, toutefois, que le degré de justification requis pour un investissement devrait refléter sa taille. Par exemple, la justification pour un micro-ordinateur devrait être beaucoup moindre que pour un investissement majeur. Dans beaucoup de cas, un projet d'envergure en technologie de l'information peut faire partie de ce qui est essentiellement un projet dans un autre domaine que les technologies de l'information. Même si le projet global est justifié, la composante projet en technologie de l'information doit quand même être évaluée à part de manière à optimiser son apport aux objectifs de l'institution et à assurer qu'elle cadre avec les stratégies architecturales de l'institution en matière de technologie de l'information."
+  },
+  {
+    "en": "This process can ensure that the optimum set of investment projects is chosen. Projects that provide the best combination of performance and service benefits include:",
+    "fr": "Ce processus peut assurer que la série optimale de projets d'investissement est choisie, à savoir les projets qui offrent la meilleure combinaison possible d'avantages au niveau de la performance et du service, ce qui comprend notamment :"
+  },
+  {
+    "en": "The main reasons for proposing the investment, how it links to the business strategy or plan and how it is consistent with the information technology architecture should all be stated. Whenever possible, expected business benefits and impacts should be described by the users of the system. In addition, the opportunities and risks of proceeding or not proceeding should be outlined.",
+    "fr": "Les principales raisons pour lesquelles l'investissement est proposé, la façon dont il est lié à la stratégie ou au plan d'entreprise et sa cohérence avec l'architecture des technologies de l'information en place sont autant d'éléments qui doivent être indiqués. Dans la mesure du possible, les avantages et les effets possibles devraient être décrits par les utilisateurs du système. Les possibilités et les risques associés avec le fait d'aller de l'avant ou non avec l'investissement devraient aussi être précisés."
+  },
+  {
+    "en": "A benefit and impact profile should be projected over several years. Quantifiable benefits and costs should be calculated as an annual cash-flow schedule and the net return or net cost summarized. The full costs of undertaking the investment should also be shown as an annual cash-flow schedule. Negative business impacts should appear in this analysis as costs.",
+    "fr": "Un profil des avantages et des effets devrait être calculé pour plusieurs années. Les coûts et les avantages quantifiables devraient être calculés et reproduits dans un tableau présentant les flux annuel de trésorerie et le bénéfice net ou le coût net devrait être résumé. Le coût complet de l'investissement devrait aussi être calculé, ventilé et reproduit dans un tableau présentant les flux annuels de trésorerie. Les effets négatifs devraient aussi figurer dans cette analyse comme des coûts."
+  },
+  {
+    "en": "Soft or intangible benefits should also be projected. Although this process is subjective, this information should be available to decision-makers so they can make an informed and effective decision regarding the investment.",
+    "fr": "Les avantages moins solides ou les avantages intangibles devraient aussi être projetés. Même si ce processus est subjectif, ces renseignements pourront quand même aider les décideurs à prendre une décision éclairée et efficace au sujet de l'investissement."
+  },
+  {
+    "en": "If this detailed analysis of costs and benefits indicates that a proposed project is less desirable than others being put forward, it should be delayed or dropped, thereby allowing more attractive proposals to be selected.",
+    "fr": "Si cette analyse détaillée des coûts et des avantages indique qu'un projet proposé est moins souhaitable que d'autres projets mis de l'avant, il devrait être reporté ou abandonné, ce qui permet de retenir les propositions les plus intéressantes."
+  },
+  {
+    "en": "Institutions should ensure that methodologies and controls are implemented to realize the benefits set out in the investment business case. This implies appropriate project management practices (refer to the Treasury Board Project Management policy) to ensure the project is delivered within approved cost and time limits and that projected benefits are achieved. If these projected benefits are not achieved, applying the business-case approach at the investment level serves little purpose. All returns on investments should be captured and returned to the institution as a whole. In this way, senior managers can re-investment these resource savings in new initiatives.",
+    "fr": "Les institutions doivent veiller à ce que des méthodes et des contrôles soient mis en oeuvre afin à pouvoir réaliser les avantages énoncés dans l'approche d'entreprise. Il faut donc appliquer les pratiques de gestion de projet appropriées (voir la politique du Conseil du Trésor en matière de Gestion des projets) pour s'assurer que le projet est exécuté dans les limites de temps et de coûts approuvées et que les avantages sont bel et bien obtenus. Si ces avantages prévus ne sont pas obtenus, il n'aura pas servi à grand-chose d'appliquer l'approche d'entreprise au domaine de l'investissement. Il faut retirer tous les bénéfices possibles de l'investissement et les retourner à l'institution dans son ensemble. De cette façon, les cadres supérieurs peuvent réinvestir dans d'autres projets les ressources économisées."
+  },
+  {
+    "en": "This section encompasses all information and technology standards and applies to federal participation in all national and international information technology standards activities.",
+    "fr": "La présente section englobe toutes les normes sur la technologie et l'information et traite de la participation du gouvernement fédéral à toutes les activités de normalisation en technologies de l'information à l'échelle nationale et internationale."
+  },
+  {
+    "en": "A Treasury Board information or technology standard is one that has been approved by the Treasury Board for mandatory use throughout the federal government. Treasury Board approval will usually be based on the following grounds:",
+    "fr": "Une norme du Conseil du Trésor sur la technologie ou l'information du Conseil du Trésor en est une qui a été approuvée par le Conseil du Trésor en vue de son utilisation obligatoire dans l'ensemble de l'administration fédérale. Le Conseil du Trésor approuve habituellement une norme en fonction des deux critères suivant"
+  },
+  {
+    "en": "The Treasury Board Secretariat is authorized to revise the technical content of a Treasury Board information or technology standard, provided the revisions are endorsed by the Advisory Committee on Information Management prior to their reissue, and there is no change to its overall intent.",
+    "fr": "Le Secrétariat du Conseil du Trésor est autorisé à réviser le contenu technique d'une norme du Conseil du Trésor sur la technologie ou l'information, pourvu que les révisions soient approuvées par le Comité consultatif de la gestion de l'information avant d'être publiées à nouveau et que l'esprit général de la norme ne soit pas modifié."
+  },
+  {
+    "en": "The objectives of the Government Information and Technology Standards Program are:",
+    "fr": "Le Programme fédéral des normes sur la technologie et l'information a pour objectifs :"
+  },
+  {
+    "en": "The components of the Government Information and Technology Standards Program are:",
+    "fr": "Voici les composantes du Programme fédéral des normes sur la technologie et l'information :"
+  },
+  {
+    "en": "Government policy promotes developing, distributing and using information and technology standards to acquire, manage and use information technology effectively and to protect investments.",
+    "fr": "La politique fédérale favorise l'élaboration, la diffusion et l'application de normes sur la technologie et l'information de manière à rentabiliser l'acquisition, la gestion et l'exploitation de ces technologies et de protéger les investissements."
+  },
+  {
+    "en": "Standards are implemented when they meet a government strategic direction or result in a significant benefit. Whenever appropriate, Treasury Board Information and Technology Standards are national or international standards. The government develops new standards only when a need is specific to the federal government or when the accredited standards writing agency cannot assign sufficient priority to the proposal. When the decision is made to develop a new standard independently of an accredited standards writing organization, the standards developed by institutions such as other governments, NATO, and private sector organizations are reviewed for relevance and, if appropriate, adapted or adopted. As standards are approved for the government, institutions should make this information available to their responsibility centres, as appropriate.",
+    "fr": "Les normes sont mises en oeuvre lorsqu'elles répondent à une orientation stratégique du gouvernement ou lui procurent un avantage important. Dans la mesure du possible, le Conseil du Trésor adopte des normes nationales ou internationales sur la technologie et l'information. Le gouvernement élabore de nouvelles normes uniquement pour satisfaire ses besoins particuliers ou lorsque les organismes accrédités de rédaction de normes ne peuvent accorder la priorité voulue au projet. Lorsque la décision et prise d'élaborer une nouvelle norme sans l'intervention d'un tel organisme, il faut examiner la pertinence des normes élaborées par d'autres administrations publiques, des institutions comme l'OTAN et des organisations du secteur privé et, s'il y a lieu, les adopter après les avoir adaptées si nécessaire. Comme les normes s'appliquent à l'administration fédérale, les institutions devraient les mettre à la disposition de leurs centres de responsabilités, au besoin."
+  },
+  {
+    "en": "The development of standards is voluntary, and technical content is based on the consensus of all the involved parties. In standardization practice, consensus is achieved when substantial agreement is reached by concerned parties involved in preparing a standard. Consensus includes an attempt to resolve all objections; it implies much more than the concept of a simple majority, but it does not necessarily mean there is unanimity.",
+    "fr": "La participation à l'élaboration des normes est volontaire et leur contenu technique doit faire l'objet du consensus des parties intéressées. En matière de normalisation, le consensus est obtenu lorsque ceux qui participent à l'élaboration de la norme s'entendent de façon générale. Le consensus comprend les efforts déployés pour régler toutes les objections et déborde la notion de simple majorité, sans toutefois nécessiter l'unanimité."
+  },
+  {
+    "en": "This section describes a process that is based on consensus. This process provides not only for developing and approving standards, but also for implementing them throughout government, for the ongoing maintenance of existing standards and for evaluating institutional compliance. Institutions participate in the development of standards by identifying and reporting to the Treasury Board Secretariat opportunities for standardization and by reviewing and voting on proposed standards prior to Treasury Board approval.",
+    "fr": "La présente section présente le processus fondé sur le consensus. Ce processus prévoit non seulement l'élaboration et l'approbation des normes, mais aussi leur mise en oeuvre dans l'administration fédérale, la mise à jour des normes en vigueur et l'évaluation de leur observation par les institutions. La participation des institutions à l'élaboration des normes se résume à signaler au Secrétariat du Conseil du Trésor les besoins de normalisation qu'elles ont décelés, puis à examiner les normes proposées et à voter à leur égard avant que le Conseil du Trésor donne son approbation."
+  },
+  {
+    "en": "Institutions are expected to develop plans to achieve full compliance with Treasury Board standards once they have been approved. Each standard includes an introductory section which, among other things, defines the application of the standard and the anticipated length of time for full compliance to be reached across government. These are based on institutional comments during the approval process and the advice of the Advisory Committee on Information Management and other advisory committees.",
+    "fr": "Les institutions sont censées élaborer des plans qui leur permettent d'observer intégralement les normes une fois qu'elles ont été approuvées par le Conseil du Trésor. Chaque norme comprend une section préliminaire qui sert notamment à en définir le champ d'application et le délai prévu pour son observation intégrale dans toute l'administration fédérale. Ces sections tiennent compte des observations faites par les institutions pendant le processus d'approbation et des conseils offerts par le Comité consultatif de la gestion de l'information et les autres comités consultatifs."
+  },
+  {
+    "en": "The federal government maintains contact with standards user groups in other governments and in the private sector to share information and, when appropriate, to develop common positions on standards and their implementation.",
+    "fr": "Le gouvernement fédéral entretient des rapports avec les groupes d'utilisateurs de normes d'autres administrations publiques et du secteur privé de manière à échanger des renseignements avec eux et, s'il y a lieu, à élaborer des positions communes concernant les normes ou leur mise en oeuvre."
+  },
+  {
+    "en": "Government policy requires that the activities of officers who represent the government as a user when participating in information technology standards activities be planned and coordinated. This will optimize the use of valuable resources and ensure that information is shared among government information technology managers.",
+    "fr": "La politique fédérale stipule que les activités des agents qui représentent le gouvernement à titre d'utilisateur dans le cadre des travaux de normalisation doivent être planifiées et coordonnées. Cela permettra d'optimiser les ressources et de garantir la diffusion des renseignements obtenus parmi les gestionnaires fédéraux des technologies de l'information."
+  },
+  {
+    "en": "Institutions should encourage their qualified officials to participate in developing, implementing and evaluating standards important to them. Institutions should also advise the Treasury Board Secretariat of personnel with relevant expertise to participate in government, national or international standards activities. In addition, institutions whose officers participate in national or international standards work as representatives of the federal government are responsible for ensuring that the federal government's position is developed, coordinated and presented to the standards body according to directives issued by the Treasury Board.",
+    "fr": "Les institutions devraient encourager leurs agents compétents à participer à l'élaboration, à la mise en oeuvre et à l'évaluation des normes qui leur semblent importantes. Elles devraient indiquer au Secrétariat du Conseil du Trésor qu'elles comptent des employés ayant les compétences voulues pour participer aux travaux de normalisation fédéraux, nationaux ou internationaux. En outre, les institutions dont les agents participent aux travaux de normalisation nationaux ou internationaux à titre de représentants du gouvernement fédéral doivent veiller à élaborer la position de ce dernier, à la coordonner et à la présenter à l'organisme de normalisation conformément aux directives publiées par le Conseil du Trésor."
+  },
+  {
+    "en": "Government policy requires that the participation and activities of officers who represent institutions that are responsible for national programs or policies involving information technology be coordinated. This will ensure that all institutions with an interest in this work are involved and will keep government users aware of these activities.",
+    "fr": "La politique fédérale stipule que la participation et les activités des agents fédéraux qui représentent les institutions chargées de politiques ou de programmes nationaux faisant appel aux technologies de l'information doivent être coordonnées de manière à garantir que les institutions touchées par ces travaux s'y intéressent et que les utilisateurs fédéraux connaissent les résultats de ces activités."
+  },
+  {
+    "en": "Federal institutions also participate in national and international standards work within their mandates for national programs or policies. In this role, they represent a constituency wider than federal government users. An institution with such a mandate is responsible for selecting its participants and for developing a position on a standard that is in line with government policy. Such institutions should advise the Treasury Board Secretariat of their activities so that government users can be kept up-to-date and provide feedback in return. They may request the help of the Treasury Board Secretariat in identifying suitable government experts to participate in standards work. These participating institutions should inform all other institutions with relevant national program or policy responsibilities of their activities. In this way, these other institutions can become involved in the project if their interests require them to do so.",
+    "fr": "Les institutions fédérales participent également aux travaux de normalisation nationaux et internationaux aux termes des mandats que leur assignent leurs politiques ou programmes nationaux. En vertu de ce rôle, la compétence dépasse celle des utilisateurs du gouvernement fédéral. Il incombe à l'institution qui détient un tel mandat de choisir les participants et d'élaborer une position à l'égard d'une norme donnée en conformité avec la politique fédérale. Ces institutions doivent tenir le Secrétariat du Conseil du Trésor au courant de leurs activités de manière à ce que les utilisateurs fédéraux puissent en être informés et donner leur avis à cet égard. Elles peuvent demander au Secrétariat du Conseil du Trésor de les aider à désigner des spécialistes fédéraux pour participer aux travaux de normalisation. Les institutions participantes doivent signaler leurs activités aux autres institutions chargées de politiques ou de programmes nationaux. Cette mesure leur permettra de participer au projet si cela est dans leur intérêt."
+  },
+  {
+    "en": "Standards development should be voluntary and cooperative in nature. The technical content should represent a consensus of the parties involved. This principle of consensus should apply to government standards as well as to national and international standards. This imposes a responsibility upon the organizations that initiate, develop and approve standards. The process within the federal government for developing, approving, implementing and maintaining information and technology standards is as follows (see Figure 1).",
+    "fr": "L'élaboration des normes devrait se faire sous le signe de la collaboration et devrait être volontaire. Le contenu technique devrait faire l'objet d'un consensus entre les parties intéressées. Ce principe du consensus devrait s'appliquer aux normes tant fédérales que nationales et internationales. Il impose une responsabilité aux organisations qui proposent, élaborent et approuvent les normes. Voici donc la marche à suivre dans l'administration fédérale pour l'élaboration, l'approbation, la mise en oeuvre et la mise à jour des normes sur la technologie et l'information (voir la figure 1)."
+  },
+  {
+    "en": "The main objectives of the process are the approval of government standards and confirmation that consensus has been reached. This process provides:",
+    "fr": "Les principaux objectifs du processus consistent à approuver les normes fédérales et à confirmer l'obtention d'un consensus. Cette façon de procéder permet d'assurer :"
+  },
+  {
+    "en": "The process consists of five phases.",
+    "fr": "Le processus comprend cinq étapes."
+  },
+  {
+    "en": "As stated earlier, standards are implemented when they meet a recognized government strategic direction or will result in a significant benefit. Standards projects can, therefore, be initiated either as a result of monitoring national or international work or on the recommendation of any user institution or common-service organization.",
+    "fr": "Tel qu'indiqué plus tôt, les normes sont mises en oeuvre lorsqu'elles répondent à une orientation stratégique reconnue du gouvernement ou lorsqu'elles procurent un avantage important. Des projets de normalisation peuvent donc être amorcés à la suite de travaux réalisés sur le plan national ou international ou sur la recommandation de tout ministère utilisateur ou organisme de services communs."
+  },
+  {
+    "en": "From information received from institutions, from consultation with industry and from international standardization work, the Treasury Board Secretariat maintains a government standardization work plan. Wherever feasible, existing national or international standards are adopted or endorsed as federal government standards. It may occasionally be necessary to develop standards independently of accredited agencies, but normally this should happen only when the need is specific to the federal government, or when an accredited agency cannot give sufficient priority to the proposal.",
+    "fr": "Le Secrétariat du Conseil du Trésor élabore un plan de travail de normalisation fédérale à partir des renseignements obtenus auprès des institutions, des consultations avec l'industrie et du travail de normalisation internationale. Dans la mesure du possible, le gouvernement fédéral adopte ou entérine les normes nationales ou internationales en vigueur. à l'occasion, il élabore des normes sans l'aide des organismes accrédités, mais n'agit ainsi que lorsque le besoin est particulier à l'administration fédérale ou lorsque l'organisme accrédité ne peut accorder la priorité voulue au projet."
+  },
+  {
+    "en": "The Treasury Board Secretariat normally convenes working groups from institutions and members of appropriate advisory committees to undertake specific tasks, such as defining requirements for government standards, assessing the applicability of standards produced by other standards bodies, and developing new standards. When deemed appropriate, working groups should include industry representatives or other members from outside government. Working groups should be dissolved when they have completed their assigned tasks.",
+    "fr": "Le Secrétariat du Conseil du Trésor charge habituellement les groupes de travail des institutions et les membres des comités consultatifs pertinents d'exécuter des tâches particulières, notamment d'établir le besoin de normes fédérales, d'évaluer l'applicabilité des normes établies par d'autres organismes de normalisation et d'élaborer des normes. Les groupes de travail devraient s'adjoindre, au besoin, des représentants du secteur privé ou de l'extérieur de l'administration fédérale et se dissoudre dès que leurs tâches sont terminées."
+  },
+  {
+    "en": "To reach consensus, a working group may circulate several versions of a draft standard to voting institutions for review. The reasons for which institution have not accepted a draft are then used to develop the next one. After the merits of the standard have been verified and consensus is reached, the working group recommends the proposed standard and a general implementation schedule to the Treasury Board Secretariat for formal approval.",
+    "fr": "Pour obtenir un consensus, le groupe de travail devra peut-être faire circuler plusieurs ébauches de la norme aux institutions participantes pour qu'elles l'étudient. Les motifs de refus de ces dernières pourraient servir à rédiger la prochaine ébauche. Une fois établi le bien-fondé de la norme et le consensus obtenu, le groupe de travail recommande le projet de norme et son calendrier de mise en oeuvre au Secrétariat du Conseil du Trésor pour qu'il les approuve officiellement."
+  },
+  {
+    "en": "If necessary, the Treasury Board Secretariat refers the proposed standard to appropriate government advisory committees. Before Treasury Board approval, the Advisory Committee on Information Management is asked to review the validity of the development process and to comment on the impact of the standard and on the proposed implementation schedule. After this review, the proposed standard is submitted to the Treasury Board for approval.",
+    "fr": "Au besoin, le Secrétariat du Conseil du Trésor renvoie le projet de norme aux comités consultatifs fédéraux compétents. Avant que le Conseil du Trésor n'accorde son approbation, le Comité consultatif de la gestion de l'information est prié de se prononcer sur la validité du processus d'élaboration et de faire ses observations sur les répercussions de la norme et sur son calendrier de mise en oeuvre. Après cet examen, le projet de norme est soumis à l'approbation du Conseil du Trésor."
+  },
+  {
+    "en": "After the standard and its implementation plan have been approved, the Treasury Board Secretariat is responsible for overseeing the implementation plan. Typically, this requires institutions to develop timetables to comply with the new standard in all of their activities. In some cases, several years may elapse before equipment is replaced or large systems are converted as part of the normal maintenance or refurbishing cycle. Institutions are expected to report their progress towards compliance in their Information Management plans. Periodically, internal audit groups review their institution's conformity with Treasury Board standards.",
+    "fr": "Lorsque la norme et son calendrier de mise en oeuvre ont été approuvés, le Secrétariat du Conseil du Trésor veille à l'exécution du calendrier. Habituellement, les institutions sont tenues d'établir leur propre calendrier d'assujettissement de leurs activités à la norme. Dans certains cas, elles mettront peut-être plusieurs années à remplacer leur matériel ou à convertir leurs gros systèmes compte tenu de leur cycle normal d'entretien et de reconstruction. Elles seront tenues de faire état du degré de conformité qu'elles auront atteint dans leurs plans de gestion de l'information. Périodiquement, les groupes de vérification interne des institutions examineront dans quelle mesure ces dernières observent les normes du Conseil du Trésor."
+  },
+  {
+    "en": "Changes in technology or patterns of use may require changes to an existing Treasury Board standard. All Treasury Board Information and Technology Standards are reviewed when necessary, but at least once every five years. The action taken following this review depends on the use being made of the standard and the extent of technological change. Generally, the process for changing a standard is the same as that for developing it. Similarly, standards are cancelled when they are no longer relevant. When a Treasury Board standard is changed, it is reissued as an amended Treasury Board information or technology standard.",
+    "fr": "L'évolution des technologies ou de son emploi peut entraîner la modification des normes du Conseil du Trésor. Toutes les normes du Conseil du Trésor sur la technologie et l'information font au moins l'objet d'un examen quinquennal. La mise à jour qui suit l'examen est fonction de l'utilisation de la norme et de l'ampleur du changement technologique survenu. En règle générale, pour modifier une norme, on procède de la même façon pour son élaboration, et les normes désuètes sont supprimées. Les normes du Conseil du Trésor qui sont modifiées sont publiées à nouveau sous forme de normes sur la technologie ou l'information modifiées."
+  },
+  {
+    "en": "Chapter 2-1, Appendix C contains a list of the information and technology standards approved for government use by the Treasury Board. For specific details concerning these standards and their approved implementation and application criteria, refer to the Treasury Board Information and Technology Standard (TBITS) documents contained in the Information Technology Standards volume of the .",
+    "fr": "L'appendice C au chapitre 2-1 présente une liste des normes fédérales sur la technologie et l'information approuvées par le Conseil du Trésor. Prière de consulter les documents relatifs aux Normes du Conseil du Trésor sur la technologie et l'information (NCTTI) figurant dans le volume du intitulé Normes sur les technologies de l'information."
+  },
+  {
+    "en": "This policy requires common-service organizations and lead agencies in the information management sector to obtain advice, guidance and feedback from their clients. Common-service organizations and lead agencies are free to establish whatever method they feel is most appropriate to achieve effective liaison with their clients. To assist those in common-service organizations and lead agencies who may be considering establishing a client liaison process, the following general guidance is included. This may be adapted to particular circumstances.",
+    "fr": "Cette politique oblige les organismes de services communs et les organismes compétents dans le secteur de la gestion de l'information à obtenir des avis, des conseils et des commentaires auprès de leurs clients. Pour ce faire, ils sont libres d'utiliser la méthode qu'ils jugent la plus appropriée. Voici des indications générales pour les responsables des organismes de services communs et des organismes compétents qui envisagent la possibilité d'établir un processus de liaison avec les clients. Ces indications peuvent être adaptées à la situation particulière de chaque organisme."
+  },
+  {
+    "en": "Clients can provide the common-service organization or lead agency with advice and assistance in long-range planning and government-wide coordination. Good liaison will create feedback at a senior level by providing a forum for:",
+    "fr": "Les clients sont en mesure de fournir à l'organisme de services communs ou à l'organisme compétent de l'aide et des conseils pour la planification à long terme et la coordination à l'échelle de l'administration fédérale. L'établissement de bons rapports permettra d'obtenir des renseignements de la part des cadres supérieurs puisqu'il favorisera :"
+  },
+  {
+    "en": "The use of information technology over the past few years has become increasingly pervasive. In the past, a relative handful of technically qualified and highly trained personnel were actually involved in applying technology. The introduction of powerful personal computers and the continuing need to increase both productivity and quality of service to the public mean that this technology now has the potential to be used as an everyday working tool by virtually all staff (employees, supervisors and managers) in the Public Service.",
+    "fr": "Au cours des dernières années, les technologies de l'information ont commencé à se répandre de plus en plus. Dans le passé, ces technologies n'étaient utilisées que par un nombre relativement restreint d'employés ayant les compétences techniques voulues et ayant reçu une formation très poussée. Grâce à l'arrivée sur le marché d'ordinateurs personnels très puissants et au besoin constant d'accroître la productivité et la qualité du service offert au public, ces technologies ont la possibilité de servir d'outil de travail quotidien à pratiquement tous les fonctionnaires (employés, superviseurs et gestionnaires)."
+  },
+  {
+    "en": "The challenge we have is to effectively integrate the skills and potential of people with the tools provided by technology. The challenge should not be limited to the technology itself, but should be clearly focused on the people and their participation in change. We should accept the basic premise that people, not technology, are the key to increasing productivity and the quality of service to the public.",
+    "fr": "Le défi consiste à marier efficacement les compétences et le potentiel des employés et les outils que procurent les technologies. Ce défi ne devrait pas se limiter aux technologies comme telles, mais devrait être clairement axé sur les employés et leur participation au changement. Il faudrait accepter comme prémisse fondamentale que ce sont les employés, et non les technologies, qui jouent le principal rôle dans l'accroissement de la productivité et de la qualité du service au public."
+  },
+  {
+    "en": "In order to increase productivity and the quality of service to the public, education and training should be viewed as an investment. The obvious need is to create an environment where consultation and communication at all levels are viewed as the prime factors of success.",
+    "fr": "Pour accroître la productivité et améliorer la qualité du service au public, la formation doit être considérée comme un investissement. Il faut absolument créer un milieu où la consultation et la communication à tous les niveaux sont perçus comme étant les principaux facteurs de réussite."
+  },
+  {
+    "en": "All staff (employees, supervisors and managers), whether directly or indirectly involved, will require varying degrees of education and training.",
+    "fr": "Tous les fonctionnaires (employés, superviseurs et gestionnaires), qu'ils soient visés directement ou indirectement, devront suivre une formation plus ou moins poussée."
+  },
+  {
+    "en": "In order to clearly establish defined critical training points, the following three-phase approach should be implemented:",
+    "fr": "Afin d'établir clairement les éléments essentiels de la formation, il convient de mettre en oeuvre l'approche à trois volets suivante :"
+  },
+  {
+    "en": "This is the period following the decision to introduce technology and prior to the actual installation of equipment.",
+    "fr": "C'est l'étape qui suit la décision d'implanter les technologies et qui précède l'installation comme telle du matériel."
+  },
+  {
+    "en": "Management should ensure that a total awareness and sensitization program is implemented that has as its focus the need to:",
+    "fr": "Les gestionnaires devraient veiller à la mise en oeuvre d'un programme complet de sensibilisation axé sur le besoin de :"
+  },
+  {
+    "en": "This refers to the time at which those persons directly and indirectly affected by the technology are expected to use the system (i.e. after delivery or installation of the equipment).",
+    "fr": "C'est à ce moment-ci que l'on s'attend que les personnes touchées directement et indirectement par les technologies commenceront à utiliser le système (c'est-à-dire après la livraison ou l'installation du matériel)."
+  },
+  {
+    "en": "Management should ensure that this phase addresses:",
+    "fr": "Pendant cette étape, les gestionnaires devraient se pencher sur :"
+  },
+  {
+    "en": "This is the time when monitoring the effect of the change upon the organization from a people and systems point of view is taking place, and necessary adjustments are made.",
+    "fr": "C'est pendant cette étape que l'on évalue les effets du changement sur l'organisation du point de vue des employés et des systèmes et que l'on apporte les rajustements nécessaires."
+  },
+  {
+    "en": "Management should ensure that this phase addresses:",
+    "fr": "Au cours de cette étape, les gestionnaires devraient se pencher sur :"
+  },
+  {
+    "en": "In recent years, there has been increasing pressure to improve productivity in the Public Service as well as in the private sector. The effective use of technology is certainly one means to this end. Technology, however, has not always yielded the predicted results. Many studies describe why the results of technology sometimes fall short of expectations. More often than not, the problems are related to human factors. The people who use the new tools have rarely been consulted and there has been little effective strategic planning that would have assessed the implications on the work force. Training often consists of hands-on operation with little follow-up or coaching.",
+    "fr": "Au cours des dernières années, des pressions de plus en plus fortes s'exercent en vue d'améliorer la productivité tant dans le secteur public que dans le secteur privé. L'utilisation efficace de la technologie est, sans aucun doute, l'un des moyens de parvenir à cette fin. Toutefois, la technologie n'a pas toujours donné les résultats escomptés, comme en témoignent d'ailleurs de nombreuses études effectuées dans le domaine. Plus souvent qu'autrement, les problèmes sont liés à des facteurs humains. Les personnes qui utilisent les nouveaux outils ont rarement été consultées et très peu de planification stratégique efficace a été effectuée pour évaluer les répercussions de la technologie sur la main-d'oeuvre. La formation se limite souvent à l'utilisation pratique du matériel, sans qu'il n'y ait de formation officielle ni de suivi."
+  },
+  {
+    "en": "The challenge for managers is to achieve the best combination of human skills and tools provided by technology to realize the full potential of people. Implementing new technology is more than just installing equipment and software. It is, above all, an exercise in managing people, in guiding change, and in reshaping the work environment.",
+    "fr": "Le défi qui se présente aux gestionnaires, consiste à établir le meilleur équilibre qui soit entre les compétences humaines et les outils que procure la technologie, afin de réaliser le plein potentiel des employés. La mise en oeuvre d'une nouvelle technologie ne se limite pas à l'installation de l'équipement et du logiciel. C'est avant tout un exercice de gestion, d'orientation du changement et de restructuration du milieu de travail."
+  },
+  {
+    "en": "The purpose of this guide is to increase government managers' awareness of some of the people issues that should be considered at the planning stage in order to realize the full potential benefits of information technology.",
+    "fr": "Le présent guide a pour objet de sensibiliser davantage les gestionnaires fédéraux à certains des aspects humains dont il faudrait tenir compte pendant l'étape de la planification afin de tirer pleinement partie des avantages éventuels des technologies de l'information."
+  },
+  {
+    "en": "Experience has shown that information technology can improve productivity if its introduction has been carefully planned. Within the federal Public Service, planning strategies should concentrate primarily on:",
+    "fr": "L'expérience démontre que les technologies de l'information peuvent accroître la productivité si l'implantation a été planifiée soigneusement. Dans la fonction publique fédérale, les stratégies de planification devraient être axées principalement sur :"
+  },
+  {
+    "en": "Moreover, the planning process should take place in the broader context of the government legislative framework, policies, regulations and existing collective agreements. Managers should be familiar with all pertinent provisions in collective agreements relating to technological change. The participation of employees and their representatives in the consultation process will greatly facilitate the effective introduction of information technology in the workplace.",
+    "fr": "En outre, la planification doit se dérouler dans un contexte plus vaste, c'est-à-dire qu'elle doit tenir compte du cadre législatif, des politiques et des règlements fédéraux ainsi que des conventions collectives en vigueur. Les gestionnaires devraient connaître toutes les dispositions des conventions collectives touchant le virage technologique. La participation des employés et de leurs représentants au processus de consultation facilitera énormément l'implantation efficace des technologies de l'information dans le milieu de travail."
+  },
+  {
+    "en": "Since planning is a dynamic process, it should be based broadly enough to take into account some of the government-wide priorities such as improvement in the quality and level of service to clients, employee satisfaction and motivation, official languages, employment equity, human rights and revitalization of the Public Service. The challenge for managers at the planning stage is to integrate the technology factor with the people factor. When these two factors interact harmoniously, the result is a better motivated work force and a more effective and productive organization.",
+    "fr": "Comme la planification constitue un processus dynamique, elle devrait être fondée sur une assise assez vaste qui tient compte de certaines des priorités de l'ensemble de l'administration fédérale, comme l'amélioration de la qualité du service à la clientèle et des niveaux de service, la satisfaction et la motivation des employés, les langues officielles, l'équité en matière d'emploi, les droits de la personne et la revitalisation de la fonction publique. Au cours de la planification, les gestionnaires sont appelés à intégrer le facteur \" technologie \" au facteur \" ressources humaines \". Lorsqu'on réussit à harmoniser ces deux facteurs, la main-d'oeuvre se trouve plus motivée et l'organisation s'avère plus efficace et plus productive."
+  },
+  {
+    "en": "The approach used in this guide is based on a practical strategic planning model that incorporates human-resource issues at each stage. A complementary approach to implementing new technology at the project-planning stage is described in , a 1984 Treasury Board Secretariat publication. Although the strategic- and project-planning approaches focus on information technology management, both models are generic and can be applied to any workplace where change is a major factor. The strategic planning process outlined in this guide, and illustrated in Figure 1, calls for these questions to be addressed:",
+    "fr": "L'approche préconisée dans ce guide se fonde sur un modèle de planification stratégique pratique qui tient compte des questions touchant les ressources humaines à chaque étape. Une approche complémentaire à la mise en oeuvre des nouvelles technologies à l'étape de la planification du projet est décrite dans un document du Secrétariat du Conseil du Trésor publié en 1984 et intitulé . Bien que les approches fondées sur la planification stratégique et la planification du projet soient axées sur la gestion des technologies de l'information, elles constituent des modèles généraux et peuvent être appliquées à tout milieu de travail où le changement constitue un facteur important. Le processus de planification stratégique expliqué dans le présent guide, et illustré à la figure 1, nécessite l'examen des questions suivantes :"
+  },
+  {
+    "en": "The response to the question, \"Where are we now?\" involves a thoughtful assessment of the situation in which the institution currently finds itself. This is the logical point of departure in the planning process, and the following questions should be asked:",
+    "fr": "Pour répondre à cette question, il faut évaluer sérieusement la situation actuelle dans laquelle se trouve l'institution. C'est le point de départ logique de tout processus de planification, et il convient de se poser les questions suivantes :"
+  },
+  {
+    "en": "Managing change effectively may require challenging existing values, as well as the culture within the organization. It should, therefore, involve careful consideration of the social, institutional and technical aspects of change to optimize the effectiveness of the change itself.",
+    "fr": "La gestion efficace du changement peut en effet mettre en question les valeurs actuelles ainsi que la culture de l'organisation. Il convient donc d'effectuer un examen sérieux des aspects sociaux, institutionnels et techniques du changement afin d'en optimiser l'efficacité."
+  },
+  {
+    "en": "Change always has an impact on people. The effects differ according to such factors as age, education, experience and readiness. Managing change effectively goes beyond acquiring new skills and knowledge; it depends on recognizing individual employee needs, including official language considerations.",
+    "fr": "Le changement a toujours une incidence sur les gens, qui varie selon les facteurs comme l'âge, les études, l'expérience et la volonté de changer. La gestion efficace du changement ne se limite pas à l'acquisition de nouvelles aptitudes et connaissances; elle dépend de la reconnaissance des besoins particuliers des employés, y compris des considérations relatives aux langues officielles."
+  },
+  {
+    "en": "Institutional policies may need to be reviewed and some of them changed. Institutional policies should provide clear statements of intent. They are essential to setting objectives, making decisions and taking action. They should be so structured and worded as to reduce confusion and uncertainty among staff who are affected by the change. They should also act as catalysts for developing innovative ways of meeting goals and objectives.",
+    "fr": "Il se peut que certaines politiques de l'institution soient examinées et modifiées. Ces politiques devraient constituer des déclarations d'intention claires. Elles sont essentielles à l'établissement d'objectifs, à la prise de décisions et à la mise à exécution de mesures concrètes. Elles devraient être structurées et libellées de manière à réduire la confusion et l'incertitude chez les employés qui sont touchés par le changement. Elles devraient en outre servir de catalyseurs pour l'élaboration de moyens novateurs d'atteindre les buts et les objectifs."
+  },
+  {
+    "en": "Projects involving the introduction of new technologies often fail or fall short of expectations because they lack focus, are not part of an overall, well-defined strategy and lack any real involvement of the people affected. It is important, therefore, to take into consideration the long-term goals of improved institutional effectiveness and service to the public, as well as the continuing objective of enhanced employee satisfaction. Without a strategy to unify these factors, the process may become fragmented and ineffective. Managers should, at this stage, set objectives that will answer the following:",
+    "fr": "Les projets d'implantation de nouvelles technologies échouent souvent ou n'atteignent pas les résultats escomptés parce qu'ils ne sont pas bien définis dans le cadre d'une stratégie globale claire et ne font pas intervenir réellement les personnes touchées. Il est donc important de tenir compte des objectifs à long terme relatifs à l'amélioration de l'efficacité de l'institution et du service au public ainsi que de l'objectif permanent d'amélioration de la satisfaction des employés. Sans une stratégie pour harmoniser ces facteurs, le processus peut devenir fragmenté et inefficace. à cette étape, les gestionnaires devraient fixer des objectifs qui permettent de répondre aux questions suivantes :"
+  },
+  {
+    "en": "Establish what will be done about the people affected. Ensure that training, retraining, job and organization redesign will be considered as priorities, and that information will be available about the nature of the change. Well-informed, involved employees feel more secure, are better motivated and more open to change than those who are uninformed. Performance also improves as employees realize the potential of a new and challenging work environment for which they have been well prepared.",
+    "fr": "Déterminer les mesures à prendre dans le cas des personnes touchées. S'assurer que la formation, le recyclage et le remaniement des emplois et de l'organisation seront considérés comme des priorités et que des renseignements sur la nature du changement seront disponibles. Les employés qui sont bien informés et qui participent au processus de changement se sentent plus en sécurité et plus motivés et ils sont plus ouverts au changement que ceux qui ne sont pas informés. Leur rendement s'améliore également, au fur et à mesure qu'ils se rendent compte des possibilités de leur nouveau milieu de travail auquel ils ont été bien préparés."
+  },
+  {
+    "en": "Integrate the strategic objectives with current realities; for example, where employees need new skills to operate the technology involved, training is essential. There may also be a need to redesign jobs and relationships to create a more effective organization.",
+    "fr": "Intégrer les objectifs stratégiques aux réalités courantes; par exemple, lorsque les employés nécessitent de nouvelles compétences pour exploiter la technologie, la formation est essentielle. Il se peut qu'il faille également remanier les emplois et les liens hiérarchiques afin de créer une organisation plus efficace."
+  },
+  {
+    "en": "Develop a training and retraining strategy, but recognize that training alone will not bring about all the solutions to achieving organizational change. Training is costly, labour-intensive, time-consuming and can be disruptive to the operation. Nevertheless, training is also an investment. Its results often determine where people will best fit into a renewed organization and how their individual potential can best be developed.",
+    "fr": "élaborer une stratégie de formation et de recyclage tout en reconnaissant que la formation n'est pas, à elle seule, une panacée. La formation est onéreuse, fait appel à la main-d'oeuvre, demande beaucoup de temps et peut perturber les activités de l'institution. Néanmoins, elle constitue également un investissement. Ses résultats permettent souvent de réorganiser les ressources humaines dans la nouvelle organisation et de déterminer comment réaliser le mieux le potentiel de chaque employé."
+  },
+  {
+    "en": "The major aspects of change should, at this stage, be reduced to workable components that are easily understood and accepted. These components should be small, manageable and specific, and should demonstrate short-term results. Once the direction is set, it also becomes easier to assign priorities and resources. Action plans will emerge from this process, together with performance indicators and expected results. Questions at this stage might include:",
+    "fr": "à cette étape, les principaux aspects du changement devraient se limiter à des composantes pratiques, faciles à comprendre et à accepter. Ces composantes devraient être restreintes, faciles à gérer et bien précises et devraient refléter les résultats à court terme. Une fois que l'orientation est déterminée, il devient plus facile de fixer les priorités et d'affecter les ressources. Le plan d'action, ainsi que les indicateurs de rendement et une série de résultats escomptés, ressortiront de ce processus. à cette étape, on pourrait se poser les questions suivantes :"
+  },
+  {
+    "en": "An incremental approach to implementation will allow policies and procedures to be developed and adjusted gradually for the users. Change ought to be carefully considered and gradual, giving people as much time as possible to adapt.",
+    "fr": "Une approche progressive à la mise en oeuvre permettra l'élaboration graduelle de politiques et de procédures et leur adaptation progressive aux usagers. Les changements devraient être examinés attentivement et apportés graduellement, de façon à donner aux gens le plus de temps possible pour s'adapter."
+  },
+  {
+    "en": "A well-designed office environment in which people can make the best use of equipment and facilities in performing their duties will ease the transition from the old to the new work environment. Equipment design, furniture heights, levels of artificial lighting, ventilation, temperature, natural lighting, acoustics and privacy should be accorded particular attention. Employee performance also depends on a sense of well-being and comfort in the workplace. For example, any task that requires employees to remain in the same position for long periods of time will generate stress and physical strain that, in turn, will adversely affect productivity.",
+    "fr": "Un milieu de travail bien conçu dans lequel les employés peuvent optimiser l'équipement et les installations dans l'exécution de leurs fonctions facilitera la transition. Il faut accorder une attention particulière à la conception du matériel, à la hauteur des meubles, à la quantité de lumière artificielle, à la ventilation, à la température, à l'éclairage naturel, à l'acoustique et à l'intimité. Le rendement des employés est également fonction de leur bien-être et de leur confort dans le milieu de travail. Par exemple, toute activité qui exige des employés qu'ils demeurent dans la même position pendant de longues périodes peut entraîner du stress et des efforts physiques qui, à leur tour, nuiront à la productivité."
+  },
+  {
+    "en": "Provide employees with equipment and systems that accommodate their language of choice. This will also contribute to effective employee performance.",
+    "fr": "Enfin, le fait de fournir aux employés du matériel et des systèmes qui leur permettent d'utiliser la langue de leur choix contribuera également à accroître leur rendement."
+  },
+  {
+    "en": "To be successful, the strategic plan should become a road-map where reference points, milestones and general directions taken by the planners will be communicated to people. These people will, in turn, have or be given opportunities to influence decisions. Questions at this stage become even more practical and are usually based on short-term expectations.",
+    "fr": "Pour être efficace, le plan stratégique devrait servir de guide qui permet de communiquer aux employés les repères et les étapes ainsi que l'orientation générale des planificateurs. Ces personnes auront à leur tour l'occasion d'influer sur les décisions. Les questions à se poser à cette étape sont d'ordre plus pratique et devraient habituellement se fonder sur des attentes à court terme."
+  },
+  {
+    "en": "The human-resource management plan should take into account all changes that will affect employees collectively and individually, notably:",
+    "fr": "Le plan de gestion des ressources humaines devrait tenir compte de tous les changements qui influeront sur les employés, tant collectivement qu'individuellement, notamment :"
+  },
+  {
+    "en": "It is essential to anticipate the effects of innovation on individual workers and to understand that individuals will have to develop new skills to adapt to change. A sound human-resource plan permits resources to be redeployed to anticipate any work-force or other difficulties well in advance of implementation.",
+    "fr": "Il faut absolument anticiper les effets de l'innovation sur chacun des employés et comprendre que ceux-ci doivent acquérir de nouvelles compétences pour pouvoir s'adapter au changement. Un plan des ressources humaines efficace permet la réaffectation des ressources de manière à parer aux difficultés relatives à la main-d'oeuvre ou à d'autres difficultés bien avant la mise en oeuvre."
+  },
+  {
+    "en": "Constant communication should be maintained with unions, service users and other agencies. Feedback mechanisms should be established to provide advice, information and support. The workplace should function in a climate of mutual trust, respect and loyalty. It is the responsibility of managers to create a climate of openness among all participants.",
+    "fr": "Il faut demeurer en communication constante avec les syndicats, les utilisateurs de services et les autres organismes. Des mécanismes de retour d'information qui permettent d'obtenir des avis, de l'information et de l'aide devraient être établis. Un climat de confiance mutuelle, de respect et de loyauté devrait régner dans le milieu de travail. C'est aux gestionnaires qu'il incombe de créer un milieu qui incite tous les participants à faire preuve de franchise."
+  },
+  {
+    "en": "Employees and their representatives should be involved in the innovation process. Employees tend to be more committed to decisions in which they have participated. When staff are offered the opportunity to respond, to understand and cooperate, bad feelings, problems, grievances and disputes are less likely to arise. Allowing employees to participate in decision-making also provides a systematic way to tap their experience and expertise. Failing to consult with employees creates communication problems, increases anxiety, intensifies frustrations and ultimately lowers employees' acceptance of change.",
+    "fr": "Les employés et leurs représentants devraient participer au processus d'innovation. Les employés ont tendance à respecter davantage les décisions dans lesquelles ils ont eu un mot à dire. Lorsqu'ils ont l'occasion de faire connaître leurs commentaires, de comprendre et de collaborer, il risque moins d'y avoir d'animosité, de problèmes, de griefs et de conflits. La participation des employés au processus décisionnel permet de tirer profit de l'expérience et des connaissances spécialisées de chaque employé. Le fait de ne pas consulter les employés contribue à créer des problèmes de communication, à accroître l'anxiété, à intensifier les frustrations et, enfin de compte, à réduire le degré d'acceptation du changement par les employés."
+  },
+  {
+    "en": "Training and education programs should be carefully planned. As the new work requirements become more specific, employees requiring training and their training needs should be identified. It is important to provide this training in the employee's choice of official language. Well-prepared, informed employees accept change more readily than uninformed employees. Training also reduces stress, supplements employees' qualifications, and encourages staff to become more versatile and useful to the employer and more confident in themselves. Ensure that training budgets and plans are respected. Although training is usually planned for, the costs are often underestimated. If budget cuts have to be made, it is preferable to consider phasing in the systems over a longer period rather than reducing training. We should not trade off equipment for training.",
+    "fr": "Les programmes de formation devraient être planifiés sérieusement. Au fur et à mesure que les nouvelles exigences de travail se précisent, il faut déterminer quels employés nécessitent de la formation et quels sont effectivement leurs besoins à ce chapitre. Il importe d'offrir la formation aux employés dans la langue officielle de leur choix. Les employés bien préparés et informés acceptent plus facilement le changement que les employés qui ne le sont pas. La formation réduit le stress, accroît les compétences des employés et les encourage à devenir plus polyvalents, et donc plus utiles pour l'employeur, et leur permet d'augmenter leur confiance en soi. Il faut s'assurer que les budgets et les plans de formation sont respectés. Bien que la formation découle habituellement de plans bien établis, les coûts sont souvent sous-estimés. Si des coupures budgétaires sont nécessaires, il est préférable d'envisager l'implantation des systèmes sur une plus longue période plutôt que de réduire les sommes affectées à la formation. Il ne faut pas échanger de la formation pour de l'équipement."
+  },
+  {
+    "en": "As noted earlier, the implementation of technological change should provide opportunities for organizational renewal, individual job enrichment and personal growth for those involved. Highly motivated people, challenged by change, can accomplish results beyond anyone's initial expectations. In particular, individuals cooperating as a team can collectively generate superior results. Whether the earlier objectives, strategies and operational plans were well-conceived will inevitably show up in the implementation stage in response to the following questions:",
+    "fr": "Comme il a déjà été noté, la mise en oeuvre d'un changement technologique devrait favoriser le renouvellement de l'organisation, l'enrichissement des emplois et la croissance personnelle des intervenants. Les réalisations d'employés hautement motivés et stimulés par le changement peuvent aller bien au-delà des attentes initiales. En particulier, les employés qui participent à une équipe peuvent, collectivement, donner un rendement supérieur. C'est en se posant les questions qui suivent au cours de l'étape de la mise en oeuvre que l'on pourra déterminer si les objectifs, les stratégies et les plans opérationnels établis à l'origine ont été bien pensés :"
+  },
+  {
+    "en": "The Treasury Board publication, Changing Technologies: Human Resource Management Considerations, will be most helpful at this stage. It can be used by managers as a checklist of key human-resource management issues they may want to consider in the change process.",
+    "fr": "La publication du Conseil du Trésor intitulée sera particulièrement utile pendant cette étape. Les gestionnaires peuvent s'en servir comme liste de contrôle des principales questions touchant la gestion des ressources humaines qu'ils voudront aborder dans le cadre du processus de changement."
+  },
+  {
+    "en": "Identify and redesign jobs that are affected; assist people in anticipating change that will almost certainly affect their career development plans. People prepared for change are more amenable to it. They are less apprehensive about how it will influence their lives.",
+    "fr": "Relever les emplois touchés par le changement et les remanier en conséquence; aider les employés à anticiper les changements qui influeront vraisemblablement sur leurs projets de carrière. Les personnes qui sont préparées au changement l'acceptent plus facilement. Elles ont moins de craintes quant à l'incidence que cela aura dans leurs vies."
+  },
+  {
+    "en": "Help design new work arrangements to accommodate the new technology. Part-time work and job sharing, as employment options, may reduce costs, permit flexibility in job scheduling, meet individual employee's needs and satisfy new management priorities.",
+    "fr": "Participer à la conception de nouvelles modalités de travail qui s'adaptent aux nouvelles technologies. à titre d'options sur le plan de l'emploi, le travail à temps partiel et le partage des emplois peuvent réduire les coûts, permettre une plus grande souplesse dans la préparation des horaires de travail, répondre aux besoins d'employés en particulier et être conforme aux nouvelles priorités de gestion."
+  },
+  {
+    "en": "Develop and provide sustained training at every step of implementation. Part of what people learn is often lost if training is given too early or too late. Furthermore, people can only absorb a given quantity of knowledge at any one time.",
+    "fr": "Mettre au point et fournir un programme de formation soutenu à chaque étape de la mise en oeuvre. Les employés ont tendance à oublier ce qu'ils ont appris si la formation leur est donnée de façon trop hâtive ou trop tardive. En outre, les gens ne sont en mesure d'absorber qu'une certaine quantité de connaissances à un moment donné."
+  },
+  {
+    "en": "Train motivated or key end-users first. They usually become steadfast advocates of the change and effective leaders in the change process.",
+    "fr": "Former les principaux utilisateurs ou ceux qui sont le plus motivés d'abord. Ils sont habituellement de fermes défenseurs du changement et constituent des leaders efficaces dans le processus de changement."
+  },
+  {
+    "en": "Integrate new management and supervisory practices such as employee participation. Employees should cooperate to combine new skills and knowledge and to teach each other.",
+    "fr": "Intégrer de nouvelles pratiques de gestion et de supervision, par exemple faire participer les employés. Les employés devraient collaborer afin de combiner leurs nouvelles compétences et connaissances et de se former entre eux."
+  },
+  {
+    "en": "Throughout the implementation phase, progress should be monitored and compared with expected results, and corrective action taken as required. Progress should be assessed by comparing measurable indicators of performance against established targets.",
+    "fr": "Tout au long de la mise en oeuvre, il faut suivre les progrès, et les comparer aux résultats escomptés et prendre des mesures correctives au besoin. Les progrès devraient être évalués en comparant les indicateurs de rendement mesurables aux objectifs fixés."
+  },
+  {
+    "en": "At this stage, it is vitally important that managers be well-informed of the findings in order to effectively implement recommended corrective measures. Subsequently, results would again be evaluated and further corrective action taken, if necessary, until all functions are working smoothly.",
+    "fr": "à cette étape, il est essentiel que le gestionnaire soit bien au courant des constatations afin de mettre en oeuvre efficacement les mesures correctives recommandées. Par la suite, les résultats sont évalués encore une fois et d'autres mesures correctives sont prises, au besoin, jusqu'à ce qu'il n'y ait plus de problèmes."
+  },
+  {
+    "en": "Again, participation and involvement of employees will pay dividends. Highly motivated, enthusiastic people with focused objectives can solve problems creatively with minimal intervention. Uninformed employees, on the other hand, can create crises and cause constant difficulties. It is clearly the manager's responsibility to correct any deviation from the basic objectives by responding to such critical questions as:",
+    "fr": "Encore une fois, la participation des employés sera avantageuse. Des gens hautement motivés et enthousiastes ayant des objectifs bien définis ont tendance à faire appel à leur esprit de créativité pour résoudre les problèmes sans aucune intervention, ou presque. Par contre, des employés mal informés peuvent provoquer des situations de crise et causer des difficultés constantes. Il incombe clairement aux gestionnaires de rectifier toute déviation par rapport aux objectifs fondamentaux en répondant à des questions critiques comme :"
+  },
+  {
+    "en": "Build results of the implementation review into an action plan to maintain the new activities in an operational environment. This ensures a smooth transition of responsibility from those who plan and implement the project to those involved in managing it on an ongoing basis.",
+    "fr": "Intégrer les résultats de l'examen de la mise en oeuvre dans un plan d'action visant à maintenir les nouvelles activités dans un contexte opérationnel. On peut assurer ainsi le transfert en douceur des responsabilités des employés qui sont chargés de la planification et de la mise en oeuvre du projet aux gestionnaires qui sont responsables du projet."
+  },
+  {
+    "en": "Review objectives and set measurable targets and indicators to ensure that people are functioning productively in the new work for which they have been trained.",
+    "fr": "Examiner les objectifs et fixer des objectifs et des indicateurs mesurables qui permettent de vérifier si les employés sont productifs dans les nouvelles tâches pour lesquelles ils ont été formés."
+  },
+  {
+    "en": "Communicate results of assessment and evaluation reviews to those involved. This will provide opportunities for people to make their own adjustments and to contribute to further improvements in work methods.",
+    "fr": "Communiquer les résultats des évaluations aux personnes concernées. Celles-ci auront donc l'occasion de rajuster leur tir par elles-mêmes et d'améliorer davantage leurs méthodes de travail."
+  },
+  {
+    "en": "Ensure that training is kept as an ongoing priority.",
+    "fr": "Veiller à ce que la formation continue toujours d'être une priorité."
+  },
+  {
+    "en": "Inexpensive, yet increasingly powerful, multi-functional office-support systems with a wide choice of software products that can be used quickly and easily by novice users are being promoted by vendors as the answer to many problems faced by managers. In spite of their affordability and ease of use, their acceptance has resulted in two major concerns. Firstly, they are proliferating rapidly and, if order and control are absent, major problems requiring expensive solutions can develop. Secondly, the impact of these systems on the organization can be enormous.",
+    "fr": "Pour résoudre un certain nombre de problèmes de gestion, les vendeurs proposent aux gestionnaires des systèmes de bureautique bon marché, polyvalents et puissants et un vaste choix de logiciels pouvant dépanner aussitôt et sans peine les utilisateurs débutants. Malgré leur prix très raisonnable et leur simplicité d'utilisation, les systèmes de bureautique ont créé deux principaux problèmes. Premièrement, ces systèmes se multiplient rapidement et en l'absence d'ordre et de contrôle, ils peuvent causer de grandes difficultés qui nécessitent des solutions onéreuses. Deuxièmement, les répercussions de ces systèmes sur l'organisation peuvent être énormes."
+  },
+  {
+    "en": "All office-support systems, including personal computers, word-processing systems or terminals, fall within the purview of the Treasury Board Management of Information Technology policy. The various constituent elements of office-support systems are to be considered within the perspective of overall institutional use and management of information technology. Acquiring and managing information technology continues to be delegated to institutions.",
+    "fr": "Tous les systèmes de bureautique, qu'il s'agisse d'ordinateurs personnels ou de systèmes ou terminaux de traitement de textes, sont assujettis à la politique du Conseil du Trésor sur la gestion des technologies de l'information. Les différents éléments constitutifs des systèmes de bureautique doivent être considérés du point de vue de leur utilisation générale dans l'institution et de la gestion des technologies de l'information. L'acquisition et la gestion des technologies de l'information sont toujours déléguées aux institutions."
+  },
+  {
+    "en": "Office-support systems provide important benefits to any organization because of:",
+    "fr": "Les systèmes de bureautique procurent d'importants avantages à toute organisation à cause :"
+  },
+  {
+    "en": "The relatively low cost of office-support systems has been used to argue that such acquisitions should be free of controls of any kind. While that approach might be defensible on a small scale, experience has shown that this view ignores a number of important considerations.",
+    "fr": "On a invoqué le prix relativement bas des systèmes de bureautique pour soutenir que leur achat ne devrait pas faire l'objet de contrôles quels qu'ils soient. Bien que ce point de vue soit en partie justifiable dans des cas individuels, l'expérience a démontré qu'il ne tient pas compte de certains points importants."
+  },
+  {
+    "en": "The initial cost of an office-support system is only a small part of its ultimate true cost to the institution. Additional expenses have been found, by experience, to be from two to six times the initial cost of the hardware. These expenses include training (including the cost of employee time while on training), additional software, additional peripherals, additional furniture and office space, charges for access to public databases, work to provide the appropriate telecommunications infrastructure, work in the institutional data centre to make data accessible to office-support system users, the provision of advisory services, arrangements for back-ups, maintenance, and additional costs for subsequent physical moves.",
+    "fr": "Le prix initial d'un système de bureautique ne représente qu'une petite partie de son coût réel pour l'institution. On s'est aperçu que les frais additionnels qu'il entraîne représente de deux à six fois son prix initial. Ces frais comprennent les frais de formation (y compris les coûts liés au temps que les employés consacrent à la formation), le logiciel, les périphériques, les meubles et les locaux supplémentaires, les droits d'accès aux bases de données publiques, les frais d'aménagement des réseaux de télécommunications nécessaires et du centre informatique institutionnel pour fournir les données aux utilisateurs du système de bureautique, les frais de prestation des services consultatifs, les frais des services de sauvegarde et d'entretien et les frais additionnels de déménagement."
+  },
+  {
+    "en": "Compatibility and the capability of integrating systems into larger networks are important considerations that should be dealt with early in the planning stages. This is necessary to ensure that the equipment will be utilized to its full potential and to avoid redundant capital investment as institutional requirements change.",
+    "fr": "Au moment de la planification des achats, les institutions doivent s'assurer que le matériel est compatible et que les systèmes peuvent être intégrés à des réseaux plus grands, faute de quoi on ne pourra l'utiliser à pleine capacité et les capitaux affectés à son achat seront improductifs quand les besoins du ministère seront différents."
+  },
+  {
+    "en": "The government's long-term strategies of having interconnecting open systems and portable applications should be considered, and compliance with approved government standards is required in applicable procurements. Where existing investments in proprietary architectures are significant, institutions should develop plans that permit them to use conforming items as soon as possible.",
+    "fr": "Les institutions doivent tenir compte des stratégies à long terme relatives à l'interconnexion des systèmes ouverts et à l'interchangeabilité des applications, et s'assurer que leurs achats sont conformes aux normes fédérales approuvées. Lorsque les investissements en architectures privées sont importantes, les institutions doivent élaborer des plans qui leur permettent d'utiliser des éléments compatibles dès que possible."
+  },
+  {
+    "en": "As with conventional paper records, information stored on computer media should be carefully indexed, filed, and protected. It is important that the reliability, integrity and security of data stored in office-support systems be maintained. This is particularly true for information that is input directly into these systems and not stored in non-electronic form. The policies and practices that have been developed in this area by the institutional information technology centres need to be adapted and applied in the context of office-support systems. Guidance on this subject is also available from National Archives of Canada and security offices.",
+    "fr": "Comme pour les supports de papier classiques, l'information qui figure sur les supports informatiques doit être convenablement indexée, classée et protégée. Il est important que la fiabilité, l'intégrité et la sécurité des données stockées dans les systèmes de bureautique soient assurées. Il est particulièrement important de le faire quand on introduit directement l'information dans les systèmes sans faire de doubles sous une forme non électronique. Les politiques et les pratiques élaborées dans ce domaine par les centres de technologies de l'information des institutions doivent être adaptées pour s'appliquer aux systèmes de bureautique. Les Archives nationales du Canada et les services de sécurité sont en mesure de fournir des directives à ce sujet."
+  },
+  {
+    "en": "Corporate information needs can be compromised by the improper use of office-support systems for end-user computing. If managers can satisfy their own personal requirements with an office-support system, they may give only secondary attention to institution-wide systems, thus inadvertently undermining the need for information at the institutional executive level. The requirements of the Management of Government Information Holdings policy and the government Security policy are to be applied to office-support systems.",
+    "fr": "Les besoins d'information d'une organisation peuvent être compromis par l'utilisation inappropriée des systèmes de bureautique par les utilisateurs. Si les gestionnaires peuvent satisfaire leurs propres besoins avec un système de bureautique, ils risquent de n'accorder qu'une attention superficielle aux systèmes de l'organisation et de compromettre ainsi par inadvertance les besoins d'information de la direction. Les exigences de la politique sur la gestion des renseignements détenus par le gouvernement et la politique du gouvernement sur la sécurité s'appliquent aux systèmes de bureautique."
+  },
+  {
+    "en": "The need for adequate documentation of operational systems that are developed and run on office-support systems is often not recognized; as a result, the continuity of the function is seriously threatened when the originators of the system leave the organization.",
+    "fr": "On oublie parfois que les systèmes d'exploitation élaborés et exploités sur un système de bureautique doivent être accompagnés de la documentation pertinente pour assurer la continuité des opérations quand les auteurs du système quittent l'organisation."
+  },
+  {
+    "en": "Managers should consider the effects of introducing office-support systems into an office so that anticipated benefits are not cancelled out by unforeseen problems. The impact of office-support systems on employees' work habits, quality of work and job functions, on the organization, and also the potential for job displacement or job change all need to be considered before office-support systems are acquired. It is important that employees are fully informed and participate, as appropriate, so that fears based on misinformation do not develop. For additional guidance on this topic, refer to sections 6 and 7.",
+    "fr": "Avant d'acheter des systèmes de bureautique, les gestionnaires doivent étudier l'effet que ces systèmes pourraient avoir sur le milieu de travail pour prévoir les problèmes pouvant annuler les avantages de ces machines. Ils doivent notamment examiner les répercussions de ces systèmes sur les habitudes de travail des employés, sur la qualité du travail, sur les fonctions connexes et sur l'organisation en tenant compte, entre autres choses, des possibilités de mutation ou de changement de travail. Il est important de donner aux employés suffisamment de renseignements sur les systèmes et de les faire participer éventuellement à leur implantation afin qu'ils ne redoutent pas ce qu'ils connaissent mal. Pour plus de renseignements à ce sujet, prière de consulter les sections 6 et 7."
+  },
+  {
+    "en": "Although a good case can be made for controlled experimentation, there is also a risk of inexperienced users in many areas duplicating the efforts of others and re-inventing the wheel. Inexperienced users tend to overestimate the expected benefits. At the same time, they underestimate the effort required to enter large amounts of data into a system and the amount of training required to be able to perform effective data retrieval and to generate reports. It is not uncommon for disillusioned users who do not receive adequate support to give up trying to use their office-support systems after a few months of frustration. Refer to sections 6 and 7 for additional guidance on this subject.",
+    "fr": "Bien que l'expérimentation contrôlée ait ses mérites, elle présente cependant un risque quand on confie des systèmes à des débutants, qui redécouvrent l'un après l'autre les mêmes possibilités. Ceux-ci ont tendance à surestimer la capacité des machines. De plus, ils sous-estiment le travail que requiert l'introduction de grande quantité de données et la formation nécessaire pour apprendre à extraire les données utiles et à produire des rapports. Il ne faut donc pas s'étonner si des débutants mal informés abandonnent leur système de bureautique après quelques mois de déception et de frustration. Pour plus de renseignements à ce sujet, prière de consulter les sections 6 et 7."
+  },
+  {
+    "en": "Institutions should include reference to office-support systems in their information technology policies. While each institution will wish to address its specific concerns and reflect its own management philosophies in formulating its office-support system policy, institutions may find the following guidelines useful.",
+    "fr": "Les institutions doivent faire mention de leurs systèmes de bureautique dans leurs politiques sur les technologies de l'information. Bien que chacune des institutions voudra sans doute aborder ses préoccupations particulières et faire connaître sa propre philosophie de gestion en ce qui concerne la formulation d'une politique relative aux systèmes de bureautique, les directives suivantes pourraient leur être utiles."
+  },
+  {
+    "en": "Institutions should maintain an inventory of the various elements (e.g. hardware, software, and networks) of their office-support systems as part of their overall computer inventory. Office-support system equipment and software should be defined as an institutional resource.",
+    "fr": "Les institutions doivent répertorier les divers éléments (p. ex. matériel, logiciel et réseaux) de leurs systèmes de bureautique dans leur inventaire global de matériel informatique. Le matériel et le logiciel utilisés pour le système de bureautique devraient être définis comme des ressources institutionnelles."
+  },
+  {
+    "en": "To reduce acquisition costs, institutions should purchase office-support system equipment and software from national master standing offers or should establish their own individual standing offers.",
+    "fr": "Pour réduire les coûts d'acquisition, les institutions devraient faire l'acquisition du matériel et du logiciel relatifs à leur système de bureautique dans le cadre d'offres permanentes principales et nationales ou elles devraient établir leurs propres offres permanentes."
+  },
+  {
+    "en": "In meeting their specific needs, institutions should address their requirements for office-support systems in generic terms, as much as possible, to encourage the consideration of office-support system products that maximize benefits to Canadian industry.",
+    "fr": "Les ministères doivent décrire leurs besoins en systèmes de bureautique en des termes aussi flexibles que possible afin d'encourager la considération des systèmes de bureautique qui représentent le plus d'avantages pour l'industrie canadienne."
+  },
+  {
+    "en": "Institutions should ensure that, depending upon the type of acquisition (e.g. pilot project or system implementation), an appropriate business-case analysis that addresses such aspects as the cost-benefit, compatibility with other equipment, productivity pay-backs and impacts is carried out before office-support systems are acquired. In particular, the acquisition should be explicitly linked to the institution's Information Management Plan. Institutions should also ensure that the extent of these studies is reasonable for the expenditure involved, keeping in mind that the ultimate cost may be two to six times the initial investment, that the acquisition may be only the first of several for that office and that the acquisition should be supportive of institutional productivity-enhancement programs and operational plans.",
+    "fr": "Selon le type d'achat (pour un projet pilote ou l'implantation d'un système), les institutions doivent s'assurer que les achats sont précédés d'analyses des approches d'entreprises portant sur les coûts et les avantages, la compatibilité du matériel, les gains de productivité qui en résulteront et les effets. En particulier, les achats devraient être liés explicitement au Plan de gestion de l'information de l'institution. Les institutions doivent aussi s'assurer que l'étendue des études est en rapport avec les dépenses envisagées et elles ne doivent pas oublier que le coût réel des systèmes peut représenter deux à six fois leur prix initial, qu'un achat peut en amener un autre et que les systèmes doivent être achetés pour accroître la productivité et pour appuyer les plans opérationnels."
+  },
+  {
+    "en": "Institutions should prepare guidelines for users on the expected level of end-user programming. It is not generally cost-effective for users to devote extensive time to programming their applications. Professional programmers should be responsible for such programming, while users employ the office-support system as a tool to assist them in their function. The use of commonly available software packages should be encouraged and the duplication of software development should be minimized. Turnkey (i.e. ready-to-use) application software should be supplied to non-expert users whenever possible.",
+    "fr": "Les ministères doivent établir des lignes directrices à l'intention des utilisateurs au sujet du niveau de programmation. Il n'est généralement pas avantageux que les utilisateurs des systèmes fassent leurs programmes. Il vaut mieux laisser ce travail aux programmeurs de métier. Il faut encourager l'utilisation de logiciels commerciaux et décourager la duplication dans la programmation. Le logiciel prêt à servir doit être fourni si possible aux utilisateurs peu expérimentés."
+  },
+  {
+    "en": "Institutional standards should stipulate the documentation that is required for continuing operational uses of office-support systems to ensure data security, data integrity and continuity of use of the application if trained personnel leave.",
+    "fr": "Les normes ministérielles doivent préciser les documents devant accompagner les systèmes de bureautique pour assurer la sécurité et l'intégrité des données et la continuité des opérations en cas de départ des employés formés."
+  },
+  {
+    "en": "The benefit of office-support systems is generally much greater when these are networked together. When appropriate, institutions should adopt standards for interconnecting open systems and portable applications between office-support systems, networks (public and private) and the institution's central databases and systems to ensure mutual compatibility. Although office-support systems may be purchased as stand-alone units, all such acquisitions should conform to these standards (i.e. the question of interconnection and portability should be examined), not just those that have been initially identified as being linked together. Guidance in this area is available from the Government Information and Technology Standards Program.",
+    "fr": "En règle générale, les systèmes de bureautique sont beaucoup plus avantageux s'ils sont intégrés à un réseau. Les institutions devraient adopter, le cas échéant, des normes d'interconnexion des systèmes ouverts et d'interchangeabilité des applications entre les systèmes de bureautique, les réseaux publics et privés et les bases de données centrales ainsi que les systèmes de l'institution pour assurer la compatibilité des systèmes. Bien que les systèmes de bureautique puissent être achetés séparément par unité autonome, toutes ces acquisitions devraient se conformer à ces normes (c'est-à-dire que la question de l'interconnexion et de l'interchangeabilité devrait être examinée), et non seulement à celles qui ont été déterminées à l'origine comme étant reliées entre elles. Pour de plus amples renseignements à ce sujet, il convient de prendre connaissance du Programme fédérale des normes sur la technologie et l'information."
+  },
+  {
+    "en": "Institutions should ensure that adequate security provisions are put into place and maintained for all micro-based applications for both equipment and data. These provisions should recognize that there is likely a lack of knowledge and expertise in this type of security in user areas. Advice should be sought from the institution's security officer.",
+    "fr": "Les institutions doivent veiller à protéger les applications micro-informatiques, le matériel et les données, puisque les utilisateurs n'ont pas toujours les connaissances et l'expertise voulues pour assurer la sécurité nécessaire dans le domaine de l'informatique. à ce sujet, on devrait demander conseil à l'agent de sécurité de l'institution."
+  },
+  {
+    "en": "In particular, institutions should advise computer users on practices and procedures to protect their systems and data from computer viruses. Computer viruses are malicious programs which can attach to other programs or data and propagate copies of themselves. These copies then infect other programs or data and, after some predetermined event, execute their malicious code. To guard against damage from viruses, institutions should ensure that virus scanning programs are widely available and distributed to users. These programs are inexpensive and available off-the-shelf. In addition, users should:",
+    "fr": "En particulier, les institutions devraient informer les utilisateurs d'ordinateurs des pratiques et procédures de protection de leurs systèmes et de leurs données contre les virus informatiques. Les virus informatiques sont des programmes malicieux qui peuvent s'intégrer à d'autres programmes ou données et se propager de manière à contaminer d'autres programmes ou données puis, après un événement déterminé à l'avance, exécuter leur code malicieux. Pour protéger leurs systèmes contre les dommages que causent les virus, les institutions devraient s'assurer que des programmes de recherche de virus sont disponibles et sont distribués aux utilisateurs. Ces programmes sont peu coûteux et on peut se les procurer immédiatement. De plus, les utilisateurs devraient :"
+  },
+  {
+    "en": "Institutional procedures should give priority to proposed acquisitions that promise definite productivity improvements in terms of reduced resources, measurable improvements in approved service levels, or offsets to justifiable future resource requirements. Subsequent reviews of implementation should ascertain that these improvements were achieved or should identify the reasons why they were not achieved. These experiences should be fed back into the institution's planning and approval process, including budgetary incentives or constraints, as required.",
+    "fr": "Les institutions devraient d'abord acheter des systèmes qui peuvent accroître sensiblement la productivité en réduisant les ressources, en améliorant les services ou en réduisant les besoins en ressources futures. Au cours des examens ultérieurs à la mise en place de ces systèmes, les institutions doivent vérifier si des améliorations se sont effectivement produites, ou déterminer les raisons pour lesquelles elles n'ont pas eu lieu. Il faut signaler ces raisons aux responsables du processus de planification et d'approbation des achats de l'institution, en indiquant les stimulants budgétaires ou les contraintes, selon le cas."
+  },
+  {
+    "en": "Institutions should develop procedures to allow knowledge of office-support systems and software products gained by employees to be transferred to other employees. Where size warrants, institutions may find it appropriate to set up a small office-support system advisory or training group to provide this function; otherwise, an expert user should be appointed as a coordinator. Other institutions may contact the Management of Information Technology, Office of Information Management, Systems and Technology, Treasury Board Secretariat, which will assist in locating sources of expertise. To facilitate the training and sharing of expertise, institutions may wish to standardize or restrict the range of office-support system products that may be acquired, and may wish to establish Information centres.",
+    "fr": "Les institutions devraient établir des procédures permettant aux employés de partager leur expérience des systèmes de bureautique et des logiciels. Si leur taille le justifie, les institutions peuvent soit former un petit groupe de consultation ou de formation sur les systèmes de bureautique pour assurer cette fonction, soit la confier à un utilisateur expérimenté qui fera fonction de coordonnateur. Les institutions peuvent aussi communiquer avec le Groupe de gestion des technologies de l'information, Bureau de la gestion, des systèmes et des technologies de l'information, Secrétariat du Conseil du Trésor, qui les aidera à trouver des sources d'expertise. Pour faciliter la formation et l'échange des connaissances, les institutions désireront peut-être normaliser ou limiter la gamme des systèmes de bureautique qu'elles peuvent acheter ou établir des centres d'information."
+  },
+  {
+    "en": "Information management common-service organizations have acquired considerable expertise in many areas common to both large computers and office-support systems such as telecommunications, electronic mail, data and records management, security, software, standards and documentation. This expertise should be used to solve office-support system issues. In particular, they have the knowledge to consider alternatives that can achieve cost savings and operational benefits, and minimize risks of failure.",
+    "fr": "Les organismes de services communs chargés de la gestion de l'information connaissent bien plusieurs domaines communs aux gros ordinateurs et aux systèmes de bureautique, notamment les domaines des télécommunications, du courrier électronique, de la gestion des données et des documents, de la sécurité, des logiciels, des normes et de la documentation. On pourrait donc leur demander de résoudre des problèmes liés aux systèmes de bureautique puisqu'ils ont les connaissances requises pour examiner les options qui peuvent faire réaliser des économies, augmenter les avantages opérationnels et réduire les risques d'échec au minimum."
+  },
+  {
+    "en": "In developing policies and in establishing institutional standards and procedures, institutions should recognize that office-support systems represent a new, rapidly evolving technology. It is important to provide an environment that encourages creativity, where some experimentation can be fostered. However, to counter the risks implicit in this approach, institutions should maintain an overall perspective of the implementation of various office-support systems that are under way. These should be reviewed periodically so that the equipment from unsuccessful projects can be recycled, and an overall direction may evolve and be developed.",
+    "fr": "Dans les politiques, les normes et les procédures qu'elles établissent, les institutions devraient reconnaître que les systèmes de bureautique sont de nouveaux outils en évolution rapide. Il est important de créer un milieu de travail qui favorise à la fois la créativité et l'expérimentation. Toutefois, pour éviter les risques que pose cette approche, il faudrait que les institutions aient une vue d'ensemble des applications des divers systèmes de bureautique. Elles devraient les examiner périodiquement pour que le matériel ayant servi aux travaux qui ont échoué puisse être recyclé et qu'une orientation générale se dégage de l'examen et soit suivie."
+  },
+  {
+    "en": "The institution's office-support system policy should contain specific directives to respect the copyright on computer software, specifically by prohibiting illegal copying of software. To reduce the cost of individual purchases of copies of the same software package, and thereby discourage illegal copying, institutions should try to negotiate site licences or discounted bulk purchases.",
+    "fr": "La politique de l'institution relative aux systèmes de bureautique devrait renfermer des directives particulières pour protéger les droits d'auteur associés au logiciel, en interdisant expressément sa reproduction illégale. Pour réduire le coût des achats individuels de copies du même logiciel et ainsi décourager la reproduction illégale, les institutions devraient essayer de négocier des ententes de permis d'utilisation sur le site ou de faire des achats en vrac à prix réduit."
+  },
+  {
+    "en": "A typical information management planning framework is driven by the institutional mission, objectives, strategies and operational plans. From these, objectives and strategies are developed every 3-5 years which identify the opportunities and risks to be considered, identify the results to be achieved and the approach selected to achieve objectives. These are used to develop an Information Management Plan which identifies goals and actions to achieve identified objectives. These contribute to the implementation of the plan during which tasks, targets, schedules and resource requirements for acquisitions and projects are identified.",
+    "fr": "Le cadre type de planification de la gestion de l'information est orienté en fonction de la mission, des objectifs, des stratégies et des plans opérationnels de l'institution. À partir de ces éléments, des objectifs et des stratégies sont établis tous les trois à cinq ans et comprennent les perspectives et les risques à examiner, les résultats à obtenir ainsi que l'approche à adopter pour atteindre les objectifs. Ces objectifs et ces stratégies servent à l'élaboration du Plan de gestion de l'information dans lequel sont déterminés les buts et les mesures qui serviront à atteindre les objectifs. Enfin, tout ceci mène à la mise en œuvre du plan au cours de laquelle on détermine les tâches, les objectifs, les calendriers et les besoins en matière de ressources en vue des acquisitions et des projets."
+  },
+  {
+    "en": "Figure 2 illustrates the interactions that take place among the Treasury Board Secretariat, institutions and common-service organizations to coordinate government-wide information management.",
+    "fr": "La Figure 1 présente le processus d'élaboration et d'approbation des normes gouvernementales sur la technologie et l'information."
+  },
+  {
+    "en": "Among its interactions, TBS:",
+    "fr": "Le processus d'élaboration et d'approbations des normes gouvernementales sur la technologie et l'information est lancé lorsque des usagers gouvernementaux présentent une demande."
+  },
+  {
+    "en": "In addition, interactions take place among these organizations external to their interactions with TBS.",
+    "fr": "Ensuite, dans le cadre de l'élaboration des normes nationales et l'élaboration des normes internationales, on repère les projets de normalisation."
+  },
+  {
+    "en": "The process for developing and approving government information technology standards beings with a government user request.",
+    "fr": "On envoie ensuite une invitation aux porte-paroles des ministères et des organismes pour que ces derniers participent au projet et aident le ministère à décider s'il doit seulement voter ou s'il doit participer aux délibérations du groupe de travail."
+  },
+  {
+    "en": "From this, National standards developments and International Standards developments contribute to a standards project identification.",
+    "fr": "À la suite du vote, le Conseil des dirigeants principaux de l'information étudie le projet de NCTTI avant de le soumettre au Conseil du Trésor aux fins d'approbation. Une fois l'approbation obtenue, la NCTTI est publiée."
+  },
+  {
+    "en": "A departmental spokesperson is sent an invitation to participate in the project and contribute to a Departmental decision either as a vote only or a as a participant in a working group.",
+    "fr": "Un examen approfondi est réalisé après la mise en application."
+  },
+  {
+    "en": "Following the vote process, the proposed TBITS is reviewed by the Advisory Committee on Information Management prior to being submitted for Treasury Board approval. Once approval is granted a TBITS is issued.",
+    "fr": "Le modèle de planification stratégique présente une approche pour atténuer les répercussions sur les personnes touchées par un changement technologique. L'approche consiste à : 1. évaluer la situation; 2. fixer des objectifs stratégiques; 3. élaborer une stratégie; 4. formuler un plan; et 5. mettre en œuvre le plan. L'efficacité du modèle est évaluée par suite de la mise en œuvre; s'il y a lieu, l'étape de formulation du plan pourrait être revue."
+  },
+  {
+    "en": "A complete review is conducted post-implementation.",
+    "fr": "les plans de gestion de l'information sont liés aux processus de planification générale et opérationnelle de l'institution et à l'orientation globale du gouvernement;"
+  },
+  {
+    "en": "The strategic planning model provides an approach to addressing the issues affecting people when there is technological change by: 1. assessing the situation; 2. setting strategic objectives; 3. developing a strategy; 4. formulating a plan; and 5. implementing the plan. This effectiveness of the model is evaluated following implementation and if required, a return to the plan formulation step may be required.",
+    "fr": "les investissements en gestion de l'information sont liés directement aux résultats de leurs programmes;"
+  },
+  {
+    "en": "information management plans are linked to the institution's corporate and operational planning processes and to overall government directions;",
+    "fr": "l'infrastructure technologique est évaluée;"
+  },
+  {
+    "en": "information management investments are directly related to the institution's program results;",
+    "fr": "une distinction est établie entre la nouvel investissement et les coûts d'exploitation."
+  },
+  {
+    "en": "an assessment is made of the technology infrastructure; and",
+    "fr": "établir l'orientation globale du gouvernement;"
+  },
+  {
+    "en": "the new investment is distinguished from the cost of maintaining the operating \"plant.\"",
+    "fr": "examiner et évaluer les activités et les tendances à l'échelle de l'administration fédérale;"
+  },
+  {
+    "en": "develop overall government directions;",
+    "fr": "faire de la gestion de l'information un élément essentiel de l'exécution des programmes;"
+  },
+  {
+    "en": "provide an overview and assessment of government-wide activity and trends;",
+    "fr": "obtenir l'information voulue pour être en mesure de coordonner les activités des organismes de services communs;"
+  },
+  {
+    "en": "focus on information management as an essential element of program delivery;",
+    "fr": "produire les données touchant l'ensemble de l'administration fédérale nécessaires à l'élaboration et au contrôle des politiques;"
+  },
+  {
+    "en": "obtain the information needed to be able to coordinate common-service organizations;",
+    "fr": "fournir des données institutionnelles et globales permettant de répondre aux préoccupations de l'industrie des technologies de l'information, aux questions parlementaires et aux demandes de renseignements de la part du public;"
+  },
+  {
+    "en": "produce government-wide information necessary to support policy development and monitoring;",
+    "fr": "mettre l'accent sur certains objectifs \" d'intérêt particulier \" dans le domaine des technologies de l'information au sein de l'administration fédérale."
+  },
+  {
+    "en": "provide institutional and aggregate data allowing responses to be given to concerns of the information technology industry, to parliamentary questions and queries from the public; and",
+    "fr": "les gestionnaires des technologies de l'information comprennent les priorités de l'institution;"
+  },
+  {
+    "en": "provide a focus on selected \"special interest\" targets within government information technology.",
+    "fr": "les gestionnaires des programmes comprennent comment les technologies de l'information améliorent aujourd'hui et peuvent améliorer demain le service et la performance des programmes;"
+  },
+  {
+    "en": "information technology management understands the institution's priorities",
+    "fr": "les cadres supérieurs peuvent déterminer le niveau optimum des investissements à faire dans les technologies de l'information, et peuvent se prononcer en toute confiance sur des investissements précis;"
+  },
+  {
+    "en": "program management understands the existing and potential contribution of information technology to improved program performance and enhanced service;",
+    "fr": "les améliorations à apporter à la performance des programmes et au service peuvent être prévues, réalisées et suivies de près;"
+  },
+  {
+    "en": "senior management can determine the optimum level of investment in information technology, and can select and approve specific information technology investments with confidence;",
+    "fr": "on sait dans quelle mesure l'institution se conforme aux politiques et aux normes du gouvernement en matière de gestion de l'information."
+  },
+  {
+    "en": "performance and service improvements can be projected, monitored and realized; and",
+    "fr": "l'institution doit avoir des objectifs et des principaux généraux clairs et bien articulés;"
+  },
+  {
+    "en": "the extent to which the institution complies with government information management policies and standards is known.",
+    "fr": "il doit y avoir une contribution et une participation actives de tous les membres au sein de l'institution;"
+  },
+  {
+    "en": "the institution must have clear, well-articulated corporate objectives and principles;",
+    "fr": "il doit exister une relation étroite entre les organismes qui sont responsable des programmes et de la technologie; p. ex. la mission en matière de technologie de l'information des institutions doit comprendre un volet \" apport aux programmes \" clairement défini et doit être exprimée en termes d'entreprise;"
+  },
+  {
+    "en": "there must be active involvement and participation across the whole institution;",
+    "fr": "les investissements doivent s'inscrire dans la logique des idées de l'institution en tant qu'entreprise, ce qui comprend : l'appui des objectifs et des priorités de l'institution (et du gouvernement), les possibilités offertes, les avantages, les résultats, les coûts et les risques);"
+  },
+  {
+    "en": "a strong sense of partnership must exist between the program and information technology organizations, e.g. the information technology mission should have a definite program-support focus and should be expressed in business terms;",
+    "fr": "les institutions doivent pouvoir quantifier les avantages tirés des investissements et doivent pouvoir en profiter."
+  },
+  {
+    "en": "investments must demonstrate a sound business justification including: support of the institution's (and the government's) objectives and priorities, opportunities offered, benefits, results, cost, and risk; and",
+    "fr": "un meilleur service au public;"
+  },
+  {
+    "en": "the institutions must manage the benefits from investments to ensure that they are quantified and captured.",
+    "fr": "une plus grande efficacité organisationnelle;"
+  },
+  {
+    "en": "improved service to the public;",
+    "fr": "le meilleur apport possible aux objectifs stratégiques de l'institution;"
+  },
+  {
+    "en": "improved organizational effectiveness;",
+    "fr": "un meilleur temps de réponse;"
+  },
+  {
+    "en": "maximized contribution to the institution's strategic objectives;",
+    "fr": "des économies de ressources et d'argent;"
+  },
+  {
+    "en": "improved response time;",
+    "fr": "la possibilité d'éviter des coûts;"
+  },
+  {
+    "en": "resource and cost savings;",
+    "fr": "la production de recettes;"
+  },
+  {
+    "en": "cost avoidance;",
+    "fr": "une meilleure qualité."
+  },
+  {
+    "en": "revenue generation; and",
+    "fr": "la norme représente une orientation stratégique qui est conforme aux tendances nationales et internationales et aux politiques et objectifs du gouvernement, comme l'expansion industrielle; ou"
+  },
+  {
+    "en": "improved quality.",
+    "fr": "la mise en oeuvre de la norme procurera au gouvernement un avantage important en favorisant la compatibilité, la concurrence et l'optimisation de ses technologies de l'information."
+  },
+  {
+    "en": "the standard represents a strategic direction that is in line with national and international trends and government policies and objectives, such as industrial development; or",
+    "fr": "d'accroître l'efficacité et la rentabilité de l'acquisition et de la gestion des ressources en technologies de l'information dans l'administration fédérale en favorisant la compatibilité et l'interchangeabilité du matériel, des programmes, des données et des caractéristiques de ces dernières. Il permettra ainsi d'accroître l'efficience, l'utilité et la durée des systèmes, de minimiser la duplication des données, d'optimiser les investissements, de faciliter les échanges d'information, d'adopter les mesures de sécurité permanentes et de remplacer ou de perfectionner de façon ordonnée le matériel;"
+  },
+  {
+    "en": "implementation of the standard will result in a significant benefit to the government by promoting compatibility, competition and optimization in its information technology.",
+    "fr": "d'établir une marche à suivre unique pour l'élaboration, l'approbation et la mise en oeuvre ou à jour des normes sur la technologie et l'information dans l'administration fédérale, notamment une méthode pour établir le bien-fondé des normes qu'il est proposé d'adopter pour l'administration fédérale et les priorités connexes, une méthode pour assurer la participation intégrale des institutions, et un mécanisme pour affecter des ressources aux projets de normalisation fédérau;"
+  },
+  {
+    "en": "to increase effectiveness and economy in acquiring and administering information technology resources throughout government by promoting compatibility and interchangeability of equipment, programs, data and the characteristics of data. This, in turn, will extend the efficiency, usefulness, and life of systems; minimize duplication of data; optimize investments; facilitate information interchange; ensure proper security safeguards including business resumption planning; and allow the orderly replacement or upgrading of components;",
+    "fr": "de réduire le travail en double et d'optimiser les ressources affectées aux travaux de normalisation de l'administration fédérale;"
+  },
+  {
+    "en": "to establish a single process for developing, approving, implementing and maintaining information and technology standards throughout government, which includes a procedure to identify the need for and establish the priorities of standards proposed for government use, a process that ensures full institutional participation, and a mechanism to assign resources to government standards projects;",
+    "fr": "d'accroître l'influence de l'administration fédérale auprès des organisations de normalisation nationales et internationales, tant en ce qui concerne l'utilisation des technologies de l'information que l'établissement des politiques;"
+  },
+  {
+    "en": "to reduce duplication of effort and optimization of resources in government standards work;",
+    "fr": "de coordonner la participation fédérale aux activités de normalisation nationales et internationales;"
+  },
+  {
+    "en": "to increase the influence of the federal government, both as a user of information technology and as a policy-maker, in national and international standards organizations;",
+    "fr": "de diffuser à toutes les parties intéressées les résultats des activités en cours dans le domaine;"
+  },
+  {
+    "en": "to coordinate government participation in national and international standards activities;",
+    "fr": "d'améliorer et de mieux coordonner les stratégies fondées sur des normes communes qu'adopteront les institutions fédérales, les organismes de services communs ainsi que les programmes et les politiques axés sur l'expansion industrielle."
+  },
+  {
+    "en": "to share information with all interested parties on current activities in the field; and",
+    "fr": "l'élaboration, l'approbation et la mise en oeuvre ou à jour de normes fédérales sur la technologie et l'information;"
+  },
+  {
+    "en": "to improve and better coordinate strategies, based on common standards, among government institutions, common-service organizations and industrial development programs and policies.",
+    "fr": "l'élaboration de la position du gouvernement fédéral concernant un nouveau projet de normalisation et la présentation de cette position à titre d'utilisateur des technologies de l'information;"
+  },
+  {
+    "en": "to improve and better developing, approving, implementing and maintaining federal government information and technology standards;",
+    "fr": "la coordination de la participation des agents fédéraux à des travaux de normalisation nationaux et internationaux et la diffusion de leurs résultats;"
+  },
+  {
+    "en": "as a user of information technology developing and presenting the federal government's position on a proposed new standard;",
+    "fr": "le maintien des échanges avec d'autres administrations publiques et des intervenants du secteur privé qui s'intéressent aux mêmes questions de normalisation."
+  },
+  {
+    "en": "coordinating the participation of federal officers in national and international standards work and the sharing of the resultant information; and",
+    "fr": "la mise en place d'un système qui renseigne tous les intéressés;"
+  },
+  {
+    "en": "providing ongoing liaison with other governments and the private sector where there is a common interest in standards issues.",
+    "fr": "une représentation équilibrée des intéressés au sein des groupes de travail;"
+  },
+  {
+    "en": "a system to ensure that all interested parties are informed;",
+    "fr": "des cycles d'examen assez longs pour permettre aux intéressés de réagir;"
+  },
+  {
+    "en": "balanced representation in working groups of those interested in the subject;",
+    "fr": "une coordination convenable des diverses disciplines de l'administration fédérale."
+  },
+  {
+    "en": "review cycles long enough to permit response; and",
+    "fr": "l'échange de renseignements au sujet du coût et de l'efficacité des services que fournissent l'organisme de services communs ou l'organisme compétent et d'autres organismes;"
+  },
+  {
+    "en": "appropriate coordination among the various disciplines within government.",
+    "fr": "la discussion de questions et de problèmes importants touchant la gestion de l'information, et la détermination de lignes de conduite possibles;"
+  },
+  {
+    "en": "exchanging information about the cost and effectiveness of services received from the common-service organization or lead agency and other sources;",
+    "fr": "l'évaluation des principaux projets de gestion de l'information dans l'administration fédérale et l'évaluation des mécanismes de coordination en place à l'heure actuelle;"
+  },
+  {
+    "en": "discussing major issues and problems affecting information management, and for suggesting possible courses of action;",
+    "fr": "la discussion des projets de modifications des politiques, des directives et des lignes directrices en ce qui concerne la planification, la coordination, l'acquisition, l'exploitation et l'évaluation de la gestion de l'information dans l'administration fédérale."
+  },
+  {
+    "en": "encouraging the evaluation of major information management initiatives in the government and the evaluation of present coordinating mechanisms in government; and",
+    "fr": "fournir des renseignements clairs et précis au sujet du changement proposé - il convient d'expliquer en détail en quoi consiste le changement et d'aborder les questions touchant sa raison d'être, le moment de sa mise en oeuvre et les secteurs ainsi que les personnes qui seront touchés;"
+  },
+  {
+    "en": "discussing proposals for changes in policy, directives and guidelines regarding the planning, coordination, acquisition, operation, and evaluation of information management in government.",
+    "fr": "de favoriser la confiance et la motivation;"
+  },
+  {
+    "en": "provide clear and direct information about the proposed change - questions regarding the what, why, when, where, and who should be addressed in detail;",
+    "fr": "de favoriser la participation et l'innovation;"
+  },
+  {
+    "en": "enhance confidence and motivation;",
+    "fr": "de fournir un aperçu du changement ainsi que les avantages escomptés, les effets possibles et les répercussions sur les employés et les procédés de travail;"
+  },
+  {
+    "en": "foster participation and encourage creativity;",
+    "fr": "de perfectionner les compétences nécessaires en gestion, en formation et en exploitation des technologies."
+  },
+  {
+    "en": "provide an overview of the change, along with its expected benefits and possible effects and impact on people and work processes; and",
+    "fr": "le perfectionnement des compétences de manière à ce que les employés soient plus à l'aise avec le nouveau système;"
+  },
+  {
+    "en": "develop the necessary skills in managing, coaching, and using the equipment and software.",
+    "fr": "la création d'un milieu qui favorise l'échange d'information entre les gestionnaires et les employés;"
+  },
+  {
+    "en": "the further development of competence and comfort in working with the new system;",
+    "fr": "l'accroissement de la compréhension, des connaissances et des aptitudes;"
+  },
+  {
+    "en": "the creation of an environment that will encourage feedback from and to all staff;",
+    "fr": "la nécessité de fournir, au besoin, une formation supplémentaire à tous les niveaux (gestionnaires, exécutants);"
+  },
+  {
+    "en": "the further enhancement of understanding, knowledge, and skills;",
+    "fr": "la nécessité d'aider tous les employés à utiliser efficacement le nouveau système au moyen d'une formation adéquate."
+  },
+  {
+    "en": "the need for additional skills training at all levels (managing, working) when and where needed; and",
+    "fr": "le maintien de l'efficacité et de la satisfaction au travail;"
+  },
+  {
+    "en": "the need to help all staff be effective in using the new system by providing adequate training.",
+    "fr": "le maintien et l'amélioration de l'échange d'information entre les gestionnaires et les employés;"
+  },
+  {
+    "en": "the maintenance of effectiveness and job satisfaction;",
+    "fr": "la nécessité d'apporter les rajustements voulus pour assurer la formation continue des gestionnaires, des superviseurs et des employés;"
+  },
+  {
+    "en": "the continuance and enhancement of feedback from and to all staff;",
+    "fr": "la prestation d'un service permanent de soutien à la formation."
+  },
+  {
+    "en": "the need to make necessary adjustments so that skills training for managers, supervisors and employees continues; and",
+    "fr": "la mission et les objectifs de l'administration fédérale et de l'institution;"
+  },
+  {
+    "en": "the provision of ongoing training support.",
+    "fr": "les objectifs du changement, les valeurs de l'organisation et le milieu de travail en particulier;"
+  },
+  {
+    "en": "the mission and goals of the government and of the institution;",
+    "fr": "les ressources nécessaires à la réalisation efficace du projet."
+  },
+  {
+    "en": "the objectives of the change, organizational values and specific work environment; and",
+    "fr": "Où en sommes-nous? (évaluation de la situation)"
+  },
+  {
+    "en": "the resources required to accomplish the task effectively.",
+    "fr": "Quels sont nos objectifs? (établissement des objectifs stratégiques)"
+  },
+  {
+    "en": "where are we now? (assessing the situation);",
+    "fr": "Comment procéderons-nous? (élaboration d'une stratégie)"
+  },
+  {
+    "en": "where do we want to go? (setting strategic objectives);",
+    "fr": "Quelle mesure concrète prendrons-nous? (formulation du plan)"
+  },
+  {
+    "en": "how do we get there? (developing a strategy);",
+    "fr": "Comment exécuterons-nous le plan? (mise en oeuvre du plan)"
+  },
+  {
+    "en": "how do we make it happen? (formulating the plan);",
+    "fr": "Avons-nous pris les bons moyens? (évaluation des progrès par rapport au plan)"
+  },
+  {
+    "en": "how do we put the plan into action? (implementing the plan); and",
+    "fr": "Quels sont les objectifs et la mission de l'institution?"
+  },
+  {
+    "en": "are we doing the right things? (measuring progress against the plan).",
+    "fr": "Quels sont les points forts et les points faibles de l'organisation?"
+  },
+  {
+    "en": "what are the institution's missions and goals?",
+    "fr": "Quelles possibilités le changement offre-t-il et quels risques comporte-t-il?"
+  },
+  {
+    "en": "what are the organization's strengths and weaknesses?",
+    "fr": "Dans quelle mesure le changement proposé correspond-il aux objectifs et stratégies de l'institution, et s'agit-il d'un changement réalisable?"
+  },
+  {
+    "en": "what opportunities does the change offer and what risks are involved?",
+    "fr": "Les gestionnaires, les employés et les représentants syndicaux sont-ils disposés à entériner le changement?"
+  },
+  {
+    "en": "how does the proposed change correspond to institutional objectives and strategies, and is the change reasonably achievable?",
+    "fr": "Dans quelle mesure le changement influera-t-il sur les employés, les emplois et les relations de travail?"
+  },
+  {
+    "en": "are management, employees and union representatives ready to endorse the change?",
+    "fr": "L'organisation est-elle prête au changement?"
+  },
+  {
+    "en": "to what extent will the change affect people, jobs and work relationships?",
+    "fr": "Qui sera avantagé par le changement et qui risque d'être perdant?"
+  },
+  {
+    "en": "is the organization ready for change? and",
+    "fr": "Dans quelle direction l'institution devrait-elle s'orienter afin de s'assurer que les objectifs du projet sont conformes aux principaux objectifs opérationnels à long terme?"
+  },
+  {
+    "en": "who are the beneficiaries and who stands to lose as a result of the change?",
+    "fr": "Comment le changement peut-il être géré de manière à demeurer conforme aux objectifs stratégiques de l'institution?"
+  },
+  {
+    "en": "in what direction should the institution move to ensure that project objectives are consistent with major long-term operational goals?",
+    "fr": "Comme les nouvelles technologies peuvent-elles être utilisées pour réaliser ces objectifs?"
+  },
+  {
+    "en": "how can the change be managed to ensure that it remains consistent with and relevant to the strategic objectives of the institution?",
+    "fr": "Pendant combien de temps les objectifs actuels de l'institution demeureront-ils pertinents?"
+  },
+  {
+    "en": "how can new technology be used to realize these objectives?",
+    "fr": "Dans quelle mesure devrions-nous investir dans les nouvelles technologies?"
+  },
+  {
+    "en": "how long will the current institutional goals remain relevant? and",
+    "fr": "Que peut-on faire pour convertir facilement les objectifs en activités, en objectifs de rendement et en dates d'achèvement prévues?"
+  },
+  {
+    "en": "what kind of investment should we make in new technology?",
+    "fr": "Quel plan de communications devrait être dressé afin de permettre aux employés de comprendre le processus de changement et d'y participer? Qui se chargera de ce plan? Une décision stratégique est-elle nécessaire?"
+  },
+  {
+    "en": "how can we ensure that the objectives are easily converted into activities, performance targets and planned completion dates?",
+    "fr": "Existe-t-il des groupes consultatifs appropriés?"
+  },
+  {
+    "en": "what communications plan do we require to allow employees to understand and participate in the change process? Who will be responsible for it? Is a policy decision needed?",
+    "fr": "L'organisme dispose-t-il de moyens efficaces d'obtenir l'apport des employés?"
+  },
+  {
+    "en": "are there appropriate consultative groups in place?",
+    "fr": "Qui sont les principaux gestionnaires responsables, conseillers et intervenants du projet ainsi que les personnes susceptibles d'en tirer le plus parti? Quel sera leur rôle respectif?"
+  },
+  {
+    "en": "does the organization have effective ways and means of getting employee input? and",
+    "fr": "Quelle est la meilleure façon de faire participer les employés à des équipes chargées de résoudre les problèmes? Qui devrait faire partie de ces équipes?"
+  },
+  {
+    "en": "who are the responsible managers, consultants, stakeholders and beneficiaries important to the project? What will their respective roles be?",
+    "fr": "Comment peut-on favoriser la direction efficace de ces équipes?"
+  },
+  {
+    "en": "what is the best way to include people in teams organized to solve problems? Who will be included?",
+    "fr": "Comment les programmes de formation peuvent-ils servir à préparer les employés au changement?"
+  },
+  {
+    "en": "how can effective team leadership be created?",
+    "fr": "les exigences techniques;"
+  },
+  {
+    "en": "how can training programs be used to prepare employees for the change?",
+    "fr": "le nouveau contenu du travail - les changements au niveau des attitudes et des relations de travail;"
+  },
+  {
+    "en": "technical requirements;",
+    "fr": "les nouvelles compétences et connaissances nécessaires (y compris les exigences linguistiques);"
+  },
+  {
+    "en": "new job content - changes in attitudes and work relations;",
+    "fr": "les besoins d'ordre social;"
+  },
+  {
+    "en": "new skills and knowledge requirements (including language requirements);",
+    "fr": "tout autre besoin qui pourrait créer un problème pour l'organisation au fur et à mesure qu'elle s'adapte aux nouvelles techniques et aux nouvelles façons de faire."
+  },
+  {
+    "en": "social needs; and",
+    "fr": "Les systèmes de soutien, les procédures, les contrôles et les examens des projets peuvent-ils être intégrés avec succès dans le processus de changement?"
+  },
+  {
+    "en": "any additional requirements that may create problems for the organization as it adapts to new techniques and ways of doing work.",
+    "fr": "Les principaux besoins et exigences en matière de formation et de perfectionnement ont-ils été satisfaits?"
+  },
+  {
+    "en": "can supporting systems, procedures, project controls and reviews be successfully incorporated into the change process?",
+    "fr": "Avons-nous les ressources financières et humaines nécessaires à la mise en oeuvre efficace?"
+  },
+  {
+    "en": "have the major training and development needs and requirements been met?",
+    "fr": "Les cadres supérieurs sont-ils en mesure d'assurer une direction et une gestion éclairée?"
+  },
+  {
+    "en": "do we have the financial and human resources needed for successful implementation?",
+    "fr": "Comment les employés peuvent-ils faire connaître leurs réalisations et participer à la résolution des problèmes?"
+  },
+  {
+    "en": "can senior staff provide sufficient informed leadership and management?",
+    "fr": "Les étapes de la mise en oeuvre ont-elles été définies, et les responsabilités en matière de rapports ont-elles été établies à nouveau?"
+  },
+  {
+    "en": "how can people communicate their accomplishments and help to correct problems? and",
+    "fr": "Quels critères sont nécessaires pour évaluer l'amélioration globale de la qualité et de la productivité?"
+  },
+  {
+    "en": "have the implementation milestones been identified and the reporting responsibilities been redefined?",
+    "fr": "A-t-on dûment déterminé et défini les activités d'évaluation et de vérification?"
+  },
+  {
+    "en": "what criteria are required to assess overall quality and productivity improvement?",
+    "fr": "Dans quelle mesure le changement a-t-il été réalisé efficacement?"
+  },
+  {
+    "en": "have assessment, evaluation and audit activities been properly identified and defined?",
+    "fr": "Quelles interventions sont nécessaires pour combler les lacunes?"
+  },
+  {
+    "en": "to what extent has change been effectively achieved? and",
+    "fr": "de leur prix relativement bas qui justifie habituellement son utilisation pour une seule application;"
+  },
+  {
+    "en": "what interventions are needed to correct deficiencies?",
+    "fr": "du risque limité associé à l'expérimentation et à l'utilisation créative du matériel, pourvu que le succès de tels projets soit examiné après une période donnée;"
+  },
+  {
+    "en": "the relatively low cost of an office-support system that can usually be justified by a single application;",
+    "fr": "de leur facilité d'installation et d'utilisation; aucun aménagement spécial n'est nécessaire;"
+  },
+  {
+    "en": "limited risk associated with experimentation and imaginative use of the equipment, provided that the success of such projects is reviewed after a fixed period;",
+    "fr": "de la grande disponibilité de matériel et de la vaste gamme de logiciels, ce qui élimine les longs délais associés à des systèmes de plus grande envergure;"
+  },
+  {
+    "en": "the ease of installation and use; no special physical environment is necessary;",
+    "fr": "de leur capacité de servir de terminaux pour les ordinateurs centraux et les mini-ordinateurs de l'institution ainsi que pour des bases de données de l'extérieur;"
+  },
+  {
+    "en": "the ready availability of hardware and a wide variety of software, which eliminates the long lead times associated with larger scale systems;",
+    "fr": "à cause du fait qu'ils peuvent être utilisés à des fins particulières, ce qui permet l'utilisation plus constante des ordinateurs centraux pour des applications particulières de l'organisation."
+  },
+  {
+    "en": "the capability to act as a terminal to corporate mainframes and minicomputers as well as outside databases; and",
+    "fr": "éviter les usages qui permettent aux virus de se propager, comme :"
+  },
+  {
+    "en": "the fact that office-support systems can be used for specialized and ad-hoc requirements, thus allowing central computing power to be used more consistently for corporate applications.",
+    "fr": "l'introduction de programmes ou de données obtenues auprès de sources douteuses comme des babillards électroniques (ils devraient être mis à l'essai sur une machine à deux unités à disque souple sans disque dur);"
+  },
+  {
+    "en": "avoid practices that allow viruses to spread such as:",
+    "fr": "l'essai de programmes problèmes sur d'autres machines pour voir si les erreurs se répètent; ou"
+  },
+  {
+    "en": "introducing programs or data from questionable sources such as computer billboards (suspicious items should be tested on a dual floppy machine without a hard disk);",
+    "fr": "le transfert de fichiers d'autres ordinateurs (par exemple, un ordinateur à la maison) qui ne sont pas aussi bien protégés que leurs ordinateurs au travail;"
+  },
+  {
+    "en": "trying problem programs on other machines to see if errors repeat; or",
+    "fr": "être vigilants afin de capter tout incident douteux comme une activité anormale d'écriture sur l'unité à disque, les fichiers qui changent de taille pour aucune raison ou des erreurs inexpliquées;"
+  },
+  {
+    "en": "transferring files from other computers (a home computer, for example) that are not as well safeguarded as their computers at work;",
+    "fr": "mettre immédiatement en quarantaine tout ordinateur que l'on croit être contaminé par un virus, jusqu'à ce qu'il ait été vérifié par un spécialiste (communiquer avec l'agent de sécurité de l'institution)."
+  },
+  {
+    "en": "be alert to any suspicious happening on their computer such as unexpected disk activity, files that change in size for no reason, or any unexplained errors; and",
+    "fr": "Le groupe de travail élabore un projet de Normes du Conseil du Trésor sur la technologie de l'information (NCTTI) et y intègre les commentaires de l'industrie."
+  },
+  {
+    "en": "immediately quarantine any computer suspected of having been infected by a virus until it has been checked and cleared by an expert (refer to the institution's security officer).",
+    "fr": "À la suite du projet de NCTTI ou en l'absence d'un groupe de travail (si le ministère a décidé de voter seulement), on procède à un vote ministériel; c'est à cette étape qu'un groupe de travail peut être établi si le ministère a fait état d'inquiétudes ou que le groupe de travail examine les inquiétudes avant le vote."
+  }
+]

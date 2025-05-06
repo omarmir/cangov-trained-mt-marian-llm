@@ -1,0 +1,118 @@
+[
+  {
+    "en": "This document is part of the Appendix A of the .",
+    "fr": "Ce document fait partie de l’Annexe A de la ."
+  },
+  {
+    "en": "PS 1000 Financial statement concepts",
+    "fr": "SP 1000 Fondements conceptuels des états financiers"
+  },
+  {
+    "en": "PS 1201 Financial statement presentation",
+    "fr": "SP 1201 Présentation des états financiers"
+  },
+  {
+    "en": "Materiality is a matter of professional judgment in the particular circumstances. Materiality may be judged in relation to the reasonable prospect of its significance in the making of assessments and judgments by the users of financial statements. A material item would be expected to affect assessments of and judgments on government financial operations and management (PS 1201.15)",
+    "fr": "L’appréciation de l’importance relative d’un élément relève du jugement professionnel dans une situation donnée. L’importance relative d’un élément peut être définie en termes de probabilité que cet élément puisse influer sur les évaluations et les jugements éventuels des utilisateurs d’états financiers. Un élément d'information important est un élément dont on peut croire qu'il influerait sur les évaluations et jugements des utilisateurs relativement aux activités et à la gestion financières du gouvernement. (SP 1201.15)"
+  },
+  {
+    "en": "There are two basic types of users of financial information: those internal to the organization and users external to the organization. PS 1000.14-.20 discusses external user needs.",
+    "fr": "Il existe deux types fondamentaux d’utilisateurs de l’information financière : les utilisateurs internes et les utilisateurs externes. La norme SP 1000.14-.20 décrit les utilisateurs externes et leurs besoins."
+  },
+  {
+    "en": "Internal users include parliamentarians and members of the public service. The list of potential internal uses of financial information is virtually endless. Examples include:",
+    "fr": "Les utilisateurs internes comprennent les parlementaires et les fonctionnaires. La liste des utilisations internes de l’information financière est pratiquement infinie. En voici des exemples :"
+  },
+  {
+    "en": "Determining what services can be provided at what cost;",
+    "fr": "déterminer quels services peuvent être fournis et à quel coût;"
+  },
+  {
+    "en": "Planning for future funding requirements for asset maintenance and replacement;",
+    "fr": "prévoir les besoins de fonds futurs pour l’entretien et le remplacement des actifs;"
+  },
+  {
+    "en": "Managing cash position and financing requirements; and",
+    "fr": "gérer la position de trésorerie et les besoins de financement; et"
+  },
+  {
+    "en": "Finding ways to deliver services more efficiently.",
+    "fr": "trouver des moyens de fournir les services de façon plus efficiente."
+  },
+  {
+    "en": "Assessing whether an omission or misstatement could influence decisions of users, and so be material, requires consideration of the characteristics of those users. Users are assumed to have a reasonable knowledge of the public sector and economic activities and accounting, and a willingness to study the information with reasonable diligence. Therefore, the assessment needs to take into account how users with such attributes could reasonably be expected to be influenced in making and evaluating decisions. (International Public Sector Accounting Standard (IPSAS) 1.13 – Presentation of Financial Statements)",
+    "fr": "L’information revêt un caractère significatif si son omission ou son inexactitude est de nature à influer sur les décisions des utilisateurs; il faut donc tenir compte des caractéristiques de ceux‐ci. Il faut présumer que les utilisateurs ont une connaissance raisonnable du secteur public et des activités économiques ainsi que de la comptabilité, et qu’ils sont disposés à analyser les informations avec une diligence raisonnable. Par conséquent, l’évaluation doit tenir compte de la façon dont les utilisateurs ayant ces attributs pourraient raisonnablement être influencés au moment de prendre et d’évaluer des décisions (Normes comptables internationales pour le secteur public (IPSAS) 1.13 – Présentation des états financiers)"
+  },
+  {
+    "en": "Given this range of users and decisions, it may be difficult to say whether a particular piece of information would influence a decision. This would suggest that all financial information be recorded and reported in excessive detail. However, excessive detail would make most financial reports too confusing and cumbersome for users. Properly applying the concept of materiality ensures that sufficient and appropriate information is presented in such a manner as to assist the user in the decision-making process.",
+    "fr": "Étant donné cette multitude d’utilisateurs et de décisions, il peut parfois être difficile d’affirmer qu’un élément d’information particulier influerait ou non sur une décision. On pourrait donc faire valoir que toutes les informations financières doivent être comptabilisées et présentées dans leurs moindres détails. Cependant, un niveau de détail trop poussé rendrait les rapports financiers trop lourds et risquerait de confondre les utilisateurs des rapports financiers. L’application adéquate du principe de l’importance relative permet de faire en sorte que les informations présentées sont suffisantes et appropriées et permettent d’aider l’utilisateur dans la prise de décisions."
+  },
+  {
+    "en": "There are two aspects that should be considered when applying materiality:",
+    "fr": "Il y a deux aspects à retenir dans l’application du principe de l’importance relative :"
+  },
+  {
+    "en": ": Determining materiality involves the exercise of professional judgement. A percentage is often applied to a chosen benchmark as a starting point in determining materiality for the financial statements as a whole. Factors that may affect the identification of an appropriate benchmark in the Government of Canada include: the elements of the financial statements (assets, liabilities, revenue, expenses) and whether there are items on which the attention of the users of the particular entity’s financial statements tend to focus (Canadian Auditing Standard (CAS) 320, paragraph A4). In general, quantitative materiality is defined as 0.5% to 2% of total expenses, unless there is a clear metric which is more relevant. This threshold is applied to the aggregate of all errors and misstatements, not on an individual item basis.",
+    "fr": ": L’appréciation de l’importance relative d’un élément relève du jugement professionnel. Comme point de départ pour établir l’importance relative de l’ensemble des états financiers, on applique souvent un pourcentage à un point de repère établi. Au gouvernement du Canada, parmi les facteurs qui peuvent influer sur l’établissement d’un point de repère pertinent, on retrouve les éléments des états financiers (actifs, passifs, revenus, charges) et les éléments qui attirent généralement l’attention des utilisateurs des états financiers de cette entité particulière (norme canadienne d’audit (NCA) 320, paragraphe A4). En règle générale, l’importance quantitative varie entre 0.5 % et 2 % des charges totales, à moins qu’une autre quantification claire soit plus appropriée. Ce seuil est appliqué à l’ensemble des erreurs et inexactitudes et non à chaque élément d’information pris individuellement."
+  },
+  {
+    "en": ": The qualitative aspect recognizes that materiality cannot be determined solely by means of the application of a numeric threshold. There are many instances, beyond consideration of influence in decision-making, where an item may be material even though it is below a quantitative threshold. Qualitative considerations include but are not limited to:",
+    "fr": ": Sur le plan qualitatif, l’importance relative ne peut être déterminée seulement en appliquant un seuil numérique. Il existe de nombreux cas, autres que l’incidence sur la prise de décisions, où un élément d’information peut être important même si le montant en question est inférieur à un seuil quantitatif. Voici certains points dont il faut tenir compte pour déterminer l’importance relative sur le plan qualitatif :"
+  },
+  {
+    "en": "Deviations from accounting policies - materiality is not a reason to disregard the rules;",
+    "fr": "dérogations aux conventions comptables ‐ l’importance relative ne donne pas le droit de faire abstraction des règles;"
+  },
+  {
+    "en": "Potential effect of a misstatement on trends and their analysis by users;",
+    "fr": "répercussions éventuelles d’une inexactitude sur les tendances et leur analyse par les utilisateurs;"
+  },
+  {
+    "en": "Whether the misstatement affects determination of an entity’s compliance with legislation, regulations, etc.;",
+    "fr": "inexactitude qui empêche de déterminer si une entité respecte la loi, les règlements, etc.;"
+  },
+  {
+    "en": "Nature of the misstatement - does it arise from an item that can be accurately and objectively measured, or arise from the subjectivity of estimated amounts;",
+    "fr": "nature de l’inexactitude - découle-t-elle d’informations qui peuvent être mesurées de façon précise et objective ou de montants estimatifs subjectifs;"
+  },
+  {
+    "en": "Potential of offsetting effects of individually material misstatements;",
+    "fr": "possibilité d’atténuer les effets potentiels d’inexactitudes qui, prises individuellement, ont de l’importance;"
+  },
+  {
+    "en": "An amount that is immaterial now, but may become material in future with accumulation over several periods;",
+    "fr": "importance minime pour l’instant, mais les effets peuvent s’accumuler sur plusieurs périodes et prendre de l’ampleur à l’avenir;"
+  },
+  {
+    "en": "Motivation – for instance, using materiality to manage financial reporting results, continuing unwillingness to correct known weaknesses in the financial reporting process, etc.; and",
+    "fr": "motivation - utiliser l’importance relative pour gérer les résultats des rapports financiers; continuer de refuser de corriger des lacunes connues dans le processus d’établissement des rapports financiers, etc.;"
+  },
+  {
+    "en": "Misstatement on segment information.",
+    "fr": "inexactitude des informations sectorielles."
+  },
+  {
+    "en": "Materiality is an important element in designing the accounting policies and practices of a department or agency. Materiality should be an opportunity for departments to apply accounting policies taking into consideration administrative ease in the handling of certain types of transactions. However, this must be done within the overall materiality limits and without deviating from the recommendations of PSAS, the Directive on Accounting Standards (DAS) or the Government of Canada Accounting Handbook (GCAH).",
+    "fr": "L’importance relative joue un rôle de premier plan dans la conception des conventions et des méthodes comptables d’un ministère ou d’un organisme. Les ministères devraient se servir du principe de l’importance relative pour concevoir des conventions comptables qui facilitent le traitement de certains types d’opérations. Ils doivent toutefois respecter les seuils d’importance relative susmentionnés et ne pas déroger aux recommandations des NCSP, de la Directive sur les normes comptables (DNC) ou du Manuel de comptabilité du Gouvernement du Canada (MCGC)."
+  },
+  {
+    "en": "Departmental accounting policies should be established in a way that ensures there is no material deviation from generally accepted accounting principles, as non-adherence could negatively impact the accuracy of the financial statements.",
+    "fr": "Les conventions comptables ministérielles devraient être établies de manière à faire en sorte qu’il n’y ait pas de dérogation importante aux principes comptables généralement reconnus, leur non-respect pouvant avoir un impact négatif sur l’exactitude des états financiers."
+  },
+  {
+    "en": "It is important to note that although a transaction in itself may not be material, the summation of a number of transactions may have a material impact on the financial statements.",
+    "fr": "Il importe de souligner que même si une opération en soi peut ne pas être importante, la somme d’un certain nombre d’opérations peut avoir un impact important sur les états financiers."
+  },
+  {
+    "en": "Professional judgment is required when determining an appropriate threshold for materiality. However, it is recommended that the quantitative departmental materiality threshold be towards the lower end of the range mentioned above; near 0.5%.",
+    "fr": "L’exercice du jugement professionnel est requis pour déterminer un seuil d’importance relative approprié. Cependant, il est recommandé que le seuil d’importance quantitative du ministère se rapproche de la limite inférieure de la plage susmentionnée, soit près de 0.5 %."
+  },
+  {
+    "en": "With very few exceptions, the concept of materiality does not apply in recording and reporting on appropriations usage; all amounts are important.",
+    "fr": "À peu d’exceptions près, le principe de l’importance relative ne s’applique pas à la comptabilisation des crédits et à la présentation d’informations sur leur utilisation, puisque tous les montants sont importants."
+  },
+  {
+    "en": "Applies without additional policy choices or interpretation for Departmental Financial Statements.",
+    "fr": "Des exigences similaires, sans autre choix de convention ni interprétation, s’appliquent aux états financiers ministériels."
+  }
+]

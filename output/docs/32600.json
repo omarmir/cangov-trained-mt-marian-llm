@@ -1,0 +1,974 @@
+[
+  {
+    "en": "The Guide to Costing takes effect on May 10, 2023 and replaces the .",
+    "fr": "Le Guide d’établissement des coûts entre en vigueur le 10 mai 2023 et remplace le ."
+  },
+  {
+    "en": "This guide was published on May 10, 2023, and it replaces the (June 10, 2019).",
+    "fr": "Le présent guide a été publié le 10 mai 2023 et remplace le (10 juin 2019)."
+  },
+  {
+    "en": "This guide explains costing in the Government of Canada (GC) and outlines the principles and process, along with the corresponding approaches and techniques, used to develop costing information that is credible.",
+    "fr": "Le présent guide explique comment l’établissement des coûts s’effectue au gouvernement du Canada (GC) et expose les principes, le processus, les approches et les techniques connexes qui sont utilisés pour produire des renseignements crédibles sur l’établissement des coûts."
+  },
+  {
+    "en": "This guide sets out how to develop credible costing information that:",
+    "fr": "Le guide indique comment obtenir des renseignements crédibles sur l’établissement des coûts qui :"
+  },
+  {
+    "en": "Costing has a role to play in many different policy areas in the GC, and the costing principles and process in this guide can be applied to inform decision-making in many different fields.",
+    "fr": "L’établissement des coûts a un rôle à jouer dans de nombreux domaines stratégiques différents au sein du GC, et les principes et le processus d’établissement des coûts présentés dans le présent guide peuvent être appliqués pour éclairer la prise de décisions dans de nombreux domaines différents."
+  },
+  {
+    "en": "This guide can be used:",
+    "fr": "Le présent guide peut servir dans les situations suivantes :"
+  },
+  {
+    "en": "Costing in the GC includes:",
+    "fr": "L’établissement des coûts au GC comprend :"
+  },
+  {
+    "en": "Credible costing information, as outlined in this guide, supports decision-making that is based on evidence and data. Developing costing information that is credible requires time and effort; there are several challenges to developing such information, including:",
+    "fr": "Comme le mentionne le présent guide, des renseignements crédibles sur l’établissement des coûts facilitent la prise de décisions fondée sur des éléments probants et des données. Pour obtenir des renseignements crédibles sur l’établissement des coûts, il faut y consacrer du temps, et de l’effort et relever plusieurs défis, notamment les suivants :"
+  },
+  {
+    "en": "Despite these challenges, credible costing information can be produced if a standardized process that is rooted in internationally recognized best practice is followed.",
+    "fr": "Malgré ces défis, il est possible d’obtenir des renseignements crédibles sur l’établissement des coûts en suivant un processus normalisé fondé sur les pratiques exemplaires reconnues à l’échelle internationale. ."
+  },
+  {
+    "en": "Decision-making in the GC requires credible costing information.",
+    "fr": "La prise de décision au sein du GC nécessite des renseignements crédibles sur l’établissement des coûts."
+  },
+  {
+    "en": "Costing exercises that apply the principles and process described in this guide produce credible costing information to support decisions in the GC. These decisions range from those made by Cabinet to those made internally within an organization. Some of the ways costing information can be applied to support various types of decisions are outlined in .",
+    "fr": "Les exercices d’établissement des coûts qui reposent sur les principes et le processus décrits dans le présent guide donnent lieu à des renseignements crédibles sur l’établissement des coûts à l’appui des décisions du GC. Ces décisions vont de celles prises par le Cabinet à celles prises au sein d’une organisation. Certaines des façons dont les renseignements sur l’établissement des coûts peuvent servir à faciliter la prise de divers types de décisions sont décrites à l’ ."
+  },
+  {
+    "en": "Costing information supports:",
+    "fr": "Les renseignements sur l’établissement des coûts facilitent :"
+  },
+  {
+    "en": "While some common applications are described, the guide does not focus on how costing information can be used. These requirements are outlined in other legislation and policy instruments.",
+    "fr": "Le guide comprend une description de certaines applications courantes, mais il ne traite pas particulièrement de la manière dont les renseignements sur l’établissement des coûts peuvent être utilisées, des exigences qui sont plutôt décrites dans des lois et d’autres instruments de politique."
+  },
+  {
+    "en": "For example, the costing process in this guide can be used to develop credible costing information to support charging. However, the requirements for how the costing information is used in external charging (fees) and internal charging are identified in the and the .",
+    "fr": "Par exemple, le processus d’établissement des coûts présenté dans le présent guide peut être utilisé pour produire des renseignements crédibles sur l’établissement des coûts à l’appui de l’imputation. Toutefois, les exigences relatives à la façon dont les renseignements sur l’établissement des coûts sont utilisées dans le cadre de l’imputation externe (frais) et de l’imputation interne sont définies dans la et la ."
+  },
+  {
+    "en": "Costing is a collaborative effort that involves multiple stakeholders who have a range of knowledge and expertise. This section outlines roles and responsibilities that may be assigned to stakeholders in order to enable the development of credible costing information.",
+    "fr": "L’établissement des coûts est un effort de collaboration qui mobilise plusieurs intervenants possédant un éventail de connaissances et d’expertise. Cette section décrit les rôles et les responsabilités qui peuvent être attribués aux intervenants afin d’obtenir des renseignements crédibles sur l’établissement des coûts."
+  },
+  {
+    "en": "The roles and responsibilities listed in this section are not exhaustive; the structure may vary by organization and additional responsibilities are outlined in the associated policy instruments.",
+    "fr": "Il convient de noter que cette section ne contient pas une liste exhaustive des rôles et responsabilités. La structure peut varier selon l’organisation, et d’autres responsabilités sont décrites dans les instruments de politique connexes."
+  },
+  {
+    "en": "Deputy heads may support the following:",
+    "fr": "Les administrateurs généraux peuvent avoir les responsabilités suivantes :"
+  },
+  {
+    "en": "Refer to relevant policy instruments for a complete list of deputy head responsibilities, such as subsection 4.1 of the and subsection 4.1 of the .",
+    "fr": "Se reporter aux instruments de politique pertinents pour obtenir la liste complète des responsabilités des administrateurs généraux, par exemple la section 4.1 de la et la section 4.1 de la ."
+  },
+  {
+    "en": "Chief financial officers may support the following:",
+    "fr": "Les dirigeants principaux des finances peuvent avoir les responsabilités suivantes :"
+  },
+  {
+    "en": "Refer to relevant policy instruments for a complete list of chief financial officer responsibilities, such as subsection 4.2 of the and section 3 of the .",
+    "fr": "Se reporter aux instruments de politique pertinents pour obtenir la liste complète des responsabilités des dirigeants principaux des finances, par exemple la section 4.2 de la et la section 3 de la ."
+  },
+  {
+    "en": "Senior departmental managers may support the following:",
+    "fr": "Les cadres supérieurs du ministère peuvent avoir les responsabilités suivantes :"
+  },
+  {
+    "en": "Refer to relevant policy instruments for a complete list of the responsibilities of senior departmental managers, such as subsection 4.3 of the .",
+    "fr": "Se reporter aux instruments de politique pertinents pour obtenir une liste complète des responsabilités des cadres supérieurs du ministère, par exemple la section 4.3 de la ."
+  },
+  {
+    "en": "In certain circumstances these responsibilities could apply to the roles of senior designated officials, as outlined in subsection 4.1 of the .",
+    "fr": "Dans certaines circonstances, ces responsabilités pourraient s’appliquer aux rôles des cadres supérieurs désignés, comme l’indique la section 4.1 de la ."
+  },
+  {
+    "en": "The manager of a program or investment (that is, the director or manager) may support senior departmental managers by:",
+    "fr": "Les gestionnaires d’un programme ou d’un investissement (il peut aussi s’agir d’un directeur) peuvent appuyer les cadres supérieurs du ministère en prenant les mesures suivantes :"
+  },
+  {
+    "en": "In certain circumstances these responsibilities may apply to the role of project and programme sponsors, as outlined in subsection 4.1.12 of the .",
+    "fr": "Dans certaines circonstances, ces responsabilités pourraient s’appliquer aux rôles des promoteurs de projet et de programme, comme l’indique la section 4.1.12 de la ."
+  },
+  {
+    "en": "Costing practitioners may support the manager of a program or investment by:",
+    "fr": "Les praticiens de l’établissement des coûts peuvent appuyer le gestionnaire d’un programme ou d’un investissement en prenant les mesures suivantes :"
+  },
+  {
+    "en": "Since costing practitioners operate out of many different areas and may have different roles, they are defined as any individual who performs work related to costing. For example, the manager of a program or investment may also be a costing practitioner.",
+    "fr": "Étant donné que les praticiens de l’établissement des coûts mènent leurs activités dans de nombreux domaines différents et peuvent avoir des rôles différents, ils sont définis comme toute personne qui effectue un travail lié à l’établissement des coûts. Par exemple, le gestionnaire d’un programme ou d’un investissement peut également être un praticien de l’établissement des coûts."
+  },
+  {
+    "en": "Credible costing information supports informed decision-making in the GC by assessing the costs related to a decision. .",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts permettent de prendre des décisions éclairées au sein du GC grâce à l’évaluation des coûts liés à une décision. ."
+  },
+  {
+    "en": "Credible costing information is defined by the following criteria.",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts sont définies par les critères énumérés ci-dessous."
+  },
+  {
+    "en": "Credible costing information is the result of a rigorous and repeatable process that includes the participation of a wide range of stakeholders.",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts sont le résultat d’un processus rigoureux et reproductible qui comprend la participation d’un large éventail d’intervenants."
+  },
+  {
+    "en": "Process-driven costing information ensures that:",
+    "fr": "Des renseignements sur l’établissement des coûts découlant d’un processus permettent :"
+  },
+  {
+    "en": "Credible costing information has a defined scope that considers all cost elements related to the decision that the costing information supports. Costing exercises should include clearly defined boundaries in terms of time and scope and all related costs, such as inflation, internal services and life-cycle costs.",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts ont une portée définie qui prend en compte tous les éléments de coût liés à la décision qu’elle appuie. Les exercices d’établissement des coûts doivent comprendre des limites clairement définies en ce qui concerne le temps et la portée et tous les coûts connexes, par exemple l’inflation, les services internes et les coûts du cycle de vie."
+  },
+  {
+    "en": "Comprehensive costing information ensures that:",
+    "fr": "Des renseignements complètent sur l’établissement des coûts permet :"
+  },
+  {
+    "en": "Figure 1 shows the evolution of costs over the life cycle of a project or programme.",
+    "fr": "La figure 1 montre l’évolution des coûts au cours du cycle de vie d’un projet ou d’un programme."
+  },
+  {
+    "en": "Figure 1 is a line graph. Time is indicated on the X-axis and cost is indicated on the Y-axis. The four lines on the graph represent the following phases: planning, acquisition, operations and sustainment, and disposal. The lines show when the costs for each phase occur and how they grow and decline over time.",
+    "fr": "La figure 1 est un graphique linéaire. La période est indiquée sur l’axe des X et le coût, sur l’axe des Y. Les quatre lignes du graphique représentent les étapes de la planification, de l’acquisition, de l’utilisation et de l’entretien, et de la disposition. Les lignes indiquent quand les coûts de chaque étape sont engagés et dans quelle mesure ils augmentent ou diminuent au fil du temps."
+  },
+  {
+    "en": "Credible costing information is supported by evidence and uses data as the basis for costs. Actual or historical data, which can include information in an organization’s financial system of record, is the foundation of evidence-based costing.",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts sont étayées par des éléments probants et repose sur des données. Les données réelles ou historiques, qui peuvent comprendre l’information contenue dans le système des documents financiers d’une organisation, constituent la base de l’établissement des coûts fondé sur des éléments probants."
+  },
+  {
+    "en": "Evidence-based costing information ensures that:",
+    "fr": "Des renseignements sur l’établissement des coûts fondées sur des éléments probants permettent :"
+  },
+  {
+    "en": "Credible costing information considers the cost impacts of uncertainty and risk.",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts tiennent compte de l’incidence de l’incertitude et du risque sur les coûts."
+  },
+  {
+    "en": "Risk-assessed costing information ensures that:",
+    "fr": "Des renseignements sur l’établissement des coûts évaluées en fonction des risques permettent :"
+  },
+  {
+    "en": "Credible costing information is comparable to past performance, similar initiatives or activities, or recognized benchmarks. Validated costing information ensures that decision-makers and other stakeholders have confidence that the costing information is reasonable.",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts peuvent être comparées à de l’information sur des rendements antérieurs, des initiatives ou activités semblables ou des repères reconnus. De l’information validée sur l’établissement des coûts permettent aux décideurs et aux autres intervenants d’avoir l’assurance quant au caractère raisonnable des renseignements sur l’établissement des coûts."
+  },
+  {
+    "en": "Credible costing information is chronicled in sufficient detail such that an independent party could reproduce the results of the costing exercise.",
+    "fr": "Des renseignements crédibles sur l’établissement des coûts sont présentées de manière suffisamment détaillée pour qu’une partie indépendante puisse reproduire les résultats de l’exercice d’établissement des coûts."
+  },
+  {
+    "en": "Documented costing information ensures that:",
+    "fr": "Des renseignements sur l’établissement des coûts consignées dans un document permettent :"
+  },
+  {
+    "en": "These criteria for credible costing relate to various policy areas in the GC.",
+    "fr": "Ces critères qui s’appliquent à des renseignements crédibles sur l’établissement des coûts sont liés à divers domaines stratégiques du GC."
+  },
+  {
+    "en": "For example, the criteria support the development of rough order of magnitude (ROM), indicative, and substantive cost estimates for programme or project approvals and expenditure authorities, as outlined in the . Moreover, ensuring costing information is credible supports other policy objectives, such as:",
+    "fr": "Par exemple, les critères facilitent l’établissement d’un Ordre de grandeur approximatif (OGA), d’estimations de coûts indicatives et substantielles pour les approbations de programmes ou de projets et les autorisations de dépenses, comme l’indique la . En outre, le fait de s’assurer de la crédibilité des renseignements sur l’établissement des coûts permet de contribuer à la réalisation d’autres objectifs des politiques, par exemple les suivants :"
+  },
+  {
+    "en": "The costing process outlined below applies to all costing exercises in the GC. The level of effort associated with the development of costing information should be consistent with the purpose, complexity, risk and materiality of the costing exercise. The application of the costing process in organizations should be periodically reviewed to continually implement lessons learned.",
+    "fr": "Le processus d’établissement des coûts décrit ci-dessous s’applique à tous les exercices d’établissement des coûts du GC. Le niveau d’effort associé à la production des renseignements sur l’établissement des coûts devrait être déterminé en fonction de l’objectif, de la complexité, des risques et de l’importance relative de l’exercice d’établissement des coûts. L’application du processus d’établissement des coûts dans les organisations devrait faire l’objet d’un examen périodique afin de mettre continuellement en œuvre les leçons apprises."
+  },
+  {
+    "en": "Some actions may be required throughout the costing process, including stakeholder engagement, documentation and the collection of lessons learned. While the steps are presented in a logical order, they are not always sequential. Some steps may need to be executed simultaneously or iteratively. Additionally, early steps in the process may need to be revisited as the costing exercise progresses or more information is obtained about the initiative or activity. For example, ground rules, assumptions, uncertainties and risks are assessed as they relate to prior initiatives or activities and as the current initiative or activity evolves.",
+    "fr": "Il sera peut-être nécessaire de prendre certaines mesures tout au long du processus d’établissement des coûts, notamment mobiliser les intervenants, obtenir des documents et recueillir les leçons apprises. Bien que les étapes soient présentées dans un ordre logique, ce dernier n’est pas toujours respecté. Il faudra peut-être exécuter certaines étapes simultanément ou de manière itérative ou revoir les premières étapes du processus à mesure que l’exercice d’établissement des coûts progresse ou si on a accès à d’autres informations sur l’initiative ou l’activité. Par exemple, les règles de base, les hypothèses, les incertitudes et les risques sont évalués en fonction des initiatives ou activités antérieures et de l’évolution de l’initiative ou de l’activité en cours."
+  },
+  {
+    "en": "Figure 2 illustrates the steps in the costing process.",
+    "fr": "La figure 2 montre les étapes du processus d’établissement des coûts."
+  },
+  {
+    "en": "Figure 2 is cycle graph. The seven steps of the costing process are shown:",
+    "fr": "La figure 2 est un diagramme du cycle. Elle montre les sept étapes du processus d’établissement des coûts."
+  },
+  {
+    "en": "Arrows indicate which steps might need to be revisited. At step 3, it may be necessary to go back to step 2. At steps 4, 5 or 6, it may be necessary to go back to step 3.",
+    "fr": "Les flèches indiquent les étapes qu’il faudra peut-être revoir. À l’étape 3, il peut être nécessaire de retourner à l’étape 2. Aux étapes 4, 5 ou 6, il peut être nécessaire de retourner à l’étape 3."
+  },
+  {
+    "en": "* In some cases, the costing process ends at step 7. In other cases, the process may occur more than once and step 7 may lead back to step 1 as indicated in Figure 2.",
+    "fr": "* Dans certains cas, le processus d’établissement des coûts prend fin à l’étape 7. Dans d’autres cas, le processus peut se dérouler plus d’une fois et l’étape 7 peut ramener à l’étape 1, comme l’indique la figure 2."
+  },
+  {
+    "en": "The purpose of the costing exercise is influenced by the decision that the costing information will support. Establishing a purpose and plan helps determine:",
+    "fr": "L’objectif de l’exercice d’établissement des coûts est tributaire de la décision que les renseignements sur l’établissement des coûts appuieront. L’établissement d’un objectif et d’un plan permet de déterminer :"
+  },
+  {
+    "en": "The plan for the costing exercise should include:",
+    "fr": "Le plan de l’exercice d’établissement des coûts devrait comprendre les éléments suivants :"
+  },
+  {
+    "en": "The chief financial officer should always be identified as a key stakeholder when a costing exercise is prepared for a Cabinet submission.",
+    "fr": "Le dirigeant principal des finances devrait toujours faire partie des principaux intervenants lorsqu’il est nécessaire de préparer un exercice d’établissement des coûts en prévision d’une présentation au Cabinet."
+  },
+  {
+    "en": "Other stakeholders may include:",
+    "fr": "Parmi les autres intervenants possibles, notons les suivants :"
+  },
+  {
+    "en": "The scope of activities that are included in the costing exercise should be defined in consultation with stakeholders.",
+    "fr": "La portée des activités comprises dans l’exercice d’établissement des coûts devrait être définie en consultation avec les intervenants."
+  },
+  {
+    "en": "A cost breakdown structure (CBS) defines the scope by breaking down an initiative or activity into cost elements that will need to be assessed. A CBS should be selected or developed at the outset of a costing exercise.",
+    "fr": "Une structure de répartition des coûts (SRC) définit la portée en décomposant une initiative ou une activité en éléments de coût qui devront être évalués. Il faudrait choisir ou élaborer une SRC au début de l’exercice d’établissement des coûts."
+  },
+  {
+    "en": "A CBS is a hierarchical structure in which overarching or “parent” cost elements are subdivided into independent “children” cost elements. The sum of the children cost elements should amount to the value of the parent cost element. In this way, a costing exercise can capture costs comprehensively and prevent double counting. The subdivision should stop at the lowest level that adds value for the purpose of comparison or data analysis.",
+    "fr": "Une SRC est une structure hiérarchique dans laquelle les éléments de coût principaux ou « parents » sont subdivisés en éléments de coût « enfants » indépendants. La somme des éléments de coût « enfants » devrait correspondre à la valeur de l’élément de coût « parent ». De cette manière, un exercice d’établissement des coûts peut déterminer les coûts de manière exhaustive et éviter les doubles comptages. La subdivision devrait s’arrêter au niveau le plus bas qui apporte une valeur ajoutée à des fins de comparaison ou d’analyse des données."
+  },
+  {
+    "en": "A CBS should be consistent across similar initiatives or activities. A consistent CBS organizes the gathered data and allows comparison, even if the initiatives or activities have different sizes or complexities. In instances where an initiative or activity already has a work breakdown structure (WBS) used for project management, the CBS is usually developed in conjunction with the WBS so that the breakdown of cost elements aligns with the planned tasks.",
+    "fr": "Une SRC devrait être cohérente pour des initiatives ou des activités semblables. Une SRC cohérente permet d’organiser les données recueillies et de faire des comparaisons, même si les initiatives ou les activités sont d’envergure ou de complexité différente. Lorsqu’une initiative ou activité a déjà une structure de répartition du travail (SRT) utilisée pour la gestion de projet, la SRC est généralement élaborée en tenant compte de la SRT afin que la répartition des éléments de coût s’aligne sur les tâches prévues."
+  },
+  {
+    "en": "Ground rules and assumptions establish the baseline conditions of a costing exercise. Ground rules and assumptions are necessary components of every costing exercise.",
+    "fr": "Les règles de base et les hypothèses établissent les conditions de base d’un exercice d’établissement des coûts. Les règles de base et les hypothèses sont des éléments nécessaires à tout exercice d’établissement des coûts."
+  },
+  {
+    "en": "are a prescribed set of conditions that provide guidance to the direction of a costing exercise. They often become constraints that define the boundaries and scope of the costing exercise. For example, a ground rule for a construction project may be that all materials are to be procured in Canada, which means that a costing exercise is limited to forecasting costs for domestic materials.",
+    "fr": "Les sont un ensemble de conditions établies qui aident à orienter l’exercice d’établissement des coûts. Elles deviennent souvent des contraintes qui définissent les limites et la portée de l’exercice d’établissement des coûts. Par exemple, une règle de base pour un projet de construction peut imposer que tous les matériaux doivent être achetés au Canada, ce qui signifie qu’il faudra seulement prévoir les coûts des matériaux nationaux dans le cadre de l’exercice d’établissement des coûts."
+  },
+  {
+    "en": "are the underpinning hypotheses upon which a costing exercise is built and from which the costing requirements are drawn. Assumptions use evidence to make judgments to fill the gaps between input data and the results of the costing exercise. Assumptions are deemed to be true in the absence of facts and supported by data when possible. An example of an assumption might be that a new digital service can be delivered using existing information technology infrastructure.",
+    "fr": "Les sont celles qui sous-tendent l’exercice d’établissement des coûts et dont découlent les exigences en matière d’établissement des coûts. Les hypothèses reposent sur des éléments probants pour permettre de discerner ce qui comblera l’écart entre les données d’entrée et les résultats de l’exercice d’établissement des coûts. Les hypothèses sont considérées comme étant exactes en l’absence de faits et, dans la mesure du possible, sont étayées par des données. Par exemple, on pourrait émettre l’hypothèse qu’un nouveau service numérique peut être fourni en utilisant l’infrastructure informatique existante."
+  },
+  {
+    "en": "Ground rules and assumptions enable the determination of costs when evidence and data may not be available for all cost elements. Ground rules and assumptions should be documented so that the basis of a costing exercise can be clearly demonstrated. Furthermore, documentation helps costing practitioners ascertain when the ground rules, assumptions and subsequent results are no longer valid, and provides a clear rationale for revisiting a costing exercise.",
+    "fr": "Les règles de base et les hypothèses permettent de déterminer les coûts lorsque des éléments probants et des données ne sont pas disponibles pour tous les éléments de coût. Les règles de base et les hypothèses consignées dans des documents pour qu’il soit possible de démontrer clairement la base d’un exercice d’établissement des coûts. De plus, ces documents aideront également les praticiens de l’établissement des coûts à déterminer quand les règles de base, les hypothèses et les résultats ultérieurs ne sont plus valables et, s’il y a lieu, permettront d’obtenir une justification claire pour réexaminer un exercice d’établissement des coûts."
+  },
+  {
+    "en": "Evidence and data are required to determine costs. The data used in a costing exercise should be the best available. In the absence of actual or historical data, qualitative evidence from subject matter experts can be transformed into data by using robust qualitative and quantitative research techniques, as described in .",
+    "fr": "Des éléments probants et des données sont nécessaires pour déterminer les coûts. Pour l’exercice d’établissement des coûts, il y a lieu d’utiliser les meilleures données disponibles. En l’absence de données réelles ou historiques, les données qualitatives fournies par les experts en la matière peuvent être transformées en données en utilisant des techniques de recherche qualitatives et quantitatives robustes, comme il est décrit dans la section du présent document ."
+  },
+  {
+    "en": "After data is collected, it should be normalized for consistency and comparability. Normalization adjusts for differences between the historical data and the initiative or activity that is the subject of the costing exercise. Some common forms of normalization are adjustments to the value of money over time (for example, inflation) and differences in purchase location (for example, foreign exchange or regional price differences).",
+    "fr": "Une fois les données recueillies, elles doivent être normalisées pour des raisons de cohérence et de comparabilité. La normalisation permet d’ajuster les différences entre les données historiques et les données de l’initiative ou l’activité qui fait l’objet de l’exercice d’établissement des coûts. Parmi les formes courantes de normalisation figurent les ajustements de la valeur de l’argent au fil du temps (par exemple, inflation) et les différences de lieu d’achat (par exemple, différences dans les taux de change ou les prix régionaux)."
+  },
+  {
+    "en": "Data that is collected and normalized should be stored in an accessible location for future use. Contextual information associated with the data should also be saved so that the data can be interpreted correctly in the future.",
+    "fr": "Les données recueillies et normalisées doivent être stockées dans un endroit accessible pour un usage ultérieur. Il faut aussi sauvegarder les informations contextuelles liées aux données pour être en mesure de bien interpréter les données à l’avenir."
+  },
+  {
+    "en": "This step applies to the gathered data and evidence to determine costs.",
+    "fr": "Cette étape consiste à appliquer des aux données et aux éléments probants recueillis afin de déterminer les coûts."
+  },
+  {
+    "en": "A deterministic estimate, sometimes known as a point estimate, should be established using one of the costing approaches.",
+    "fr": "Une estimation déterministe, parfois appelée estimation ponctuelle, devrait être établie à l’aide de l’une des approches d’établissement des coûts."
+  },
+  {
+    "en": "A deterministic estimate is a single value that:",
+    "fr": "Une estimation déterministe est une valeur unique qui :"
+  },
+  {
+    "en": "The uncertainty and risk associated with the cost elements should also be determined to identify the range of cost impacts and their associated likelihood.",
+    "fr": "Cela dit, il faut également déterminer le niveau d’incertitude et de risque associé aux éléments de coût pour connaître la gamme d’incidences sur les coûts et la probabilité connexe."
+  },
+  {
+    "en": "stems from fluctuations in costs that . The exact impact of cost uncertainty is unknown due to imperfect information. An example of cost uncertainty is the future foreign exchange rate for materials or services procured in foreign currency.",
+    "fr": "L’ découle des fluctuations des coûts qui . L’incidence exacte de l’incertitude liée aux coûts est inconnue en raison d’une information imparfaite. Un exemple d’incertitude liée aux coûts est le taux de change futur des matériaux ou des services achetés en devises étrangères."
+  },
+  {
+    "en": "is something that and that may increase or decrease cost. An example of cost risk is the cost impact of a potential mechanical breakdown in a manufacturing environment.",
+    "fr": "Le est un événement imprévisible qui et qui peut augmenter ou diminuer le coût. Un exemple de risque lié aux coûts est l’incidence financière d’une panne mécanique éventuelle dans un lieu de fabrication."
+  },
+  {
+    "en": "A cost uncertainty and risk analysis helps assess whether an estimate for an initiative or activity is realistic. The analysis quantifies the cost impact of the uncertainty and risk associated with the initiative or activity. The results of this analysis are more useful to decision-makers than a deterministic estimate alone because the results communicate the range of potential costs and the likelihood and impact of cost fluctuations.",
+    "fr": "Une analyse de l’incertitude et des risques liés aux coûts permet de déterminer si l’estimation obtenue pour une initiative ou une activité est réaliste."
+  },
+  {
+    "en": "Sensitivity analysis is a related tool that can be applied to show how individual cost elements or assumptions influence the overall cost.",
+    "fr": "L’analyse quantifie l’incidence sur les coûts de l’incertitude et des risques associés à l’initiative ou à l’activité. Les résultats de cette analyse sont plus utiles aux décideurs qu’une estimation déterministe seule, car les résultats leur indiquent la fourchette de coûts éventuels ainsi que l’incidence des fluctuations des coûts et la probabilité connexe."
+  },
+  {
+    "en": "In general, an initiative or activity has greater cost uncertainty during the early stages when there is less information available. As the initiative or activity matures, the uncertainty associated with the estimated costs decreases. For example, an initiative at the Memorandum to Cabinet stage will have many more unknowns than an initiative at the Treasury Board submission stage.",
+    "fr": "L’analyse de sensibilité est un outil connexe qui peut servir à montrer comment chaque élément de coût ou hypothèse influe sur le coût global."
+  },
+  {
+    "en": "Figure 3 illustrates this concept for a project or programme using the cone of uncertainty, where over time, two distinct costing trends are noted:",
+    "fr": "En général, une initiative ou une activité présente un niveau d’incertitude plus élevé quant à son coût au cours des premières étapes, lorsqu’il y a moins d’informations disponibles. Au fur et à mesure que l’initiative ou l’activité évolue, le niveau d’incertitude quant aux coûts estimés diminue. Par exemple, une initiative à l’étape du mémoire au Cabinet comportera un plus grand nombre d’éléments inconnus qu’une initiative à l’étape de la présentation au Conseil du Trésor."
+  },
+  {
+    "en": "Figure 3 is a graph. Time is indicated on the X-axis and cost is indicated on the Y-axis. There are two bands: one that represents the upper cost-estimate boundary and another that represents the lower cost-estimate boundary. Cost estimates at different phases are labelled as follows:",
+    "fr": "La figure 3 illustre ce concept pour un projet ou un programme à l’aide du cône d’incertitude. Il est possible de voir deux tendances distinctes dans les coûts au fil du temps :"
+  },
+  {
+    "en": "Over time, the space between the bands narrows. The upper and lower cost-estimate boundaries practically meet at E, the cost estimate at close-out phase.",
+    "fr": "La figure 3 est un graphique. La période est indiquée sur l’axe des X et le coût, sur l’axe des Y. Il y a deux bandes : une qui représente la limite supérieure de l’estimation des coûts et l’autre, la limite inférieure de l’estimation des coûts. Les estimations de coûts sont présentées selon les différentes étapes :"
+  },
+  {
+    "en": "Uncertainty and risk can be assessed qualitatively or quantitatively according to the complexity of the costing exercise and the availability of data and evidence. For complex cost estimates, quantitative statistical methods, such as Monte Carlo or methods of moments analysis, should be used to determine cost uncertainty and risk.",
+    "fr": "Au fil du temps, l’espace entre les bandes se rétrécit. Les limites supérieure et inférieure de l’estimation des coûts se rejoignent pratiquement à E, soit à l’étape de clôture."
+  },
+  {
+    "en": "Cost uncertainty and risk should be considered for every costing exercise. The level of effort associated with assessing cost uncertainty and risk should be proportional to the complexity, risk, and materiality of an initiative or activity. Costing exercises should present a range of potential cost outcomes based on an uncertainty and risk analysis, as well as on a deterministic estimate, unless the range is insignificant. If the range is insignificant, the rationale for not assessing cost uncertainty and risk should be documented.",
+    "fr": "L’incertitude et le risque peuvent être évalués qualitativement ou quantitativement en fonction de la complexité de l’exercice d’établissement des coûts et de la disponibilité des données et des éléments probants. Pour les estimations de coûts complexes, des méthodes statistiques quantitatives, par exemple l’analyse par la méthode de Monte Carlo ou la méthode des moments, doivent être utilisées pour déterminer l’incertitude et les risques liés aux coûts."
+  },
+  {
+    "en": "For example, in many cost accounting applications, the data and evidence used to determine costs is very reliable and provides confidence that there is little uncertainty or risk in the results.",
+    "fr": "Chaque exercice d’établissement des coûts devrait tenir compte de l’incertitude et des risques liés aux coûts. Le niveau d’effort associé à l’évaluation de l’incertitude et des risques liés aux coûts devrait être proportionnel au niveau de complexité, de risque et de l’importance relative d’une initiative ou d’une activité. Les exercices d’établissement des coûts devraient présenter une fourchette de résultats possibles en matière de coûts, d’après une analyse de l’incertitude et des risques et une estimation déterministe, sauf s’il s’agit d’une fourchette statistiquement négligeable.Si la fourchette est négligeable, il faut indiquer par écrit la raison pour laquelle l’incertitude et les risques liés aux coûts n’ont pas été évalués."
+  },
+  {
+    "en": "One response to a cost uncertainty and risk assessment is contingency, which is sometimes included in a cost estimate. Contingency should be based on a cost uncertainty and risk analysis, as well as on the risk tolerance of decision-makers, which can vary by initiative or activity. As a response to cost uncertainty and risk, contingency may not reduce the residual risk completely, but it should provide confidence to decision-makers that the initiative or activity can be implemented.",
+    "fr": "Par exemple, dans de nombreuses applications de comptabilité des coûts, les données et les éléments probants utilisés pour déterminer les coûts sont très fiables et permettent de donner l’assurance que les résultats présentent un faible niveau d’incertitude ou de risque."
+  },
+  {
+    "en": "Figure 4 is an S-curve that demonstrates the estimated cost range of a project or programme at a specific point in time. A point along the S-curve identifies a confidence level that describes the probability that a project or programme will finish at or below a given cost. The range of potential cost outcomes is based on the uncertainty and risk faced by the project or programme. This information can be used to inform a given risk-adjusted cost estimate and contingency and help make decisions about trade-offs.",
+    "fr": "Une éventualité est une solution possible pour faire face à l’incertitude et aux risques liés aux coûts relevés dans le cadre de l’évaluation. Cette éventualité est parfois prise en compte dans l’estimation des coûts. L’éventualité devrait reposer sur une analyse de l’incertitude et des risques liés aux coûts et tenir compte du degré de tolérance au risque des décideurs, qui peut varier selon l’initiative ou l’activité. En tant que solution pour faire face à l’incertitude et aux risques liés aux coûts, l’éventualité peut ne pas éliminer complètement le risque résiduel, mais il devrait permettre de donner aux décideurs l’assurance que l’initiative ou l’activité peut être mise en œuvre."
+  },
+  {
+    "en": "Figure 4 is a graph. Cost is indicated on the X-axis and confidence level is indicated on the Y-axis. The confidence level refers to the likelihood that the actual cost will be equal to or less than the cost estimate.",
+    "fr": "La figure 4 est une courbe en S qui illustre la fourchette de coûts estimés d’un projet ou d’un programme à un moment précis. Un point le long de la courbe en S correspond à un niveau de confiance qui indique la probabilité qu’un projet ou un programme se termine à un coût donné ou à un coût inférieur. La fourchette des résultats éventuels en matière de coûts est basée sur l’incertitude et les risques auxquels il faut faire face dans le cadre du projet ou du programme. Cette information peut servir à orienter l’estimation des coûts ajustés en fonction des risques et la détermination du montant de l’éventualité. Elle peut aussi aider à prendre des décisions quant aux compromis à faire."
+  },
+  {
+    "en": "There are two points indicated on the S-curve:",
+    "fr": "La figure 4 est un graphique. Le coût est indiqué sur l’axe des X et le niveau de confiance, sur l’axe des Y. Le niveau de confiance fait référence à la probabilité que le coût réel soit égal ou inférieur au coût estimé."
+  },
+  {
+    "en": "The space between the deterministic estimate and the risk-adjusted cost estimate along the X-axis represents the risk-adjusted contingency. The space along the X-axis after the risk-adjusted cost estimate represents the potential financial impact if the actual cost exceeds the risk-adjusted cost estimate.",
+    "fr": "Il y a deux points indiqués sur la courbe en S :"
+  },
+  {
+    "en": "The space along the Y-axis above the risk-adjusted cost estimate represents the likelihood that the actual cost will exceed the risk-adjusted cost estimate.",
+    "fr": "L’espace entre l’estimation déterministe et l’estimation du coût ajusté en fonction des risques le long de l’axe X représente l’éventualité ajusté en fonction des risques. L’espace situé le long de l’axe X après l’estimation du coût ajusté en fonction des risques représente l’incidence financière éventuelle si le coût réel dépasse le coût estimé ajusté en fonction des risques. L’espace le long de l’axe Y au-dessus de l’estimation du coût ajusté en fonction des risques représentent la probabilité que le coût réel dépasse le coût estimé ajusté en fonction des risques."
+  },
+  {
+    "en": "Assuring and validating a costing exercise provides confidence in the rigour of the application of the costing process and the quality of the results. The level of effort employed in this step should be consistent with the level of effort required for the costing exercise.",
+    "fr": "Le fait d’assurer la qualité de l’exercice d’établissement des coûts et de procéder à une validation de celui-ci donne confiance dans la rigueur de l’application du processus d’établissement des coûts et dans la qualité des résultats. Le niveau d’effort déployé à cette étape devrait correspondre au niveau d’effort requis pour l’exercice d’établissement des coûts."
+  },
+  {
+    "en": "provides confidence that:",
+    "fr": "L’ permet de s’assurer :"
+  },
+  {
+    "en": "ensures that the results reflect the real world by demonstrating that the results are reasonable when compared to past performance, comparable or historical examples, independent estimates, or recognized benchmarks.",
+    "fr": "La garantit que les résultats reflètent le monde réel, c’est-à-dire qu’ils sont raisonnables par rapport à des rendements antérieurs, des exemples comparables ou historiques, des estimations indépendantes ou des repères reconnus."
+  },
+  {
+    "en": "Some activities that can form part of this step are:",
+    "fr": "Voici quelques activités qui peuvent faire partie de cette étape :"
+  },
+  {
+    "en": "For Cabinet submissions, the chief financial officer attestation, as outlined in the , forms an important part of this step.",
+    "fr": "Pour les présentations au Cabinet, l’attestation du dirigeant principal des finances, telle qu’elle est décrite dans les , constitue une partie importante de cette étape."
+  },
+  {
+    "en": "Effective communication is crucial to the success of a costing exercise as it explains the results to audiences unfamiliar with the initiative or activity, thereby promoting informed decision-making and the transparent disclosure of financial risk. Communication tools may include briefing notes and slide decks that incorporate visuals, such as figures 1, 3, and 4 of this guide.",
+    "fr": "Une communication efficace est essentielle à la réussite d’un exercice d’établissement des coûts, car elle permet d’expliquer les résultats à des publics qui ne connaissent pas l’initiative ou l’activité, favorisant ainsi une prise de décision éclairée et une communication transparente des risques financiers. Les outils de communication peuvent comprendre des notes d’information et des dossiers de présentation intégrant des éléments visuels, tels que les figures 1, 3 et 4 du présent guide."
+  },
+  {
+    "en": "The costing process and results should be documented. One common form of documentation is a cost report. A cost report describes the costing process, ground rules, assumptions, data sources and results. Its audience may include future costing practitioners and those responsible for challenge functions, evaluations, and audits.",
+    "fr": "Le processus d’établissement des coûts et les résultats doivent être appuyés par des documents. Une forme courante de documentation est le rapport sur les coûts. Un rapport sur les coûts contient une description du processus d’établissement des coûts, des règles de base, des hypothèses, des sources de données et des résultats. Son public peut comprendre les futurs praticiens de l’établissement des coûts, des fonctions de remise en question et des responsabilités des évaluateurs et des auditeurs."
+  },
+  {
+    "en": "A cost report also ensures that lessons learned can be captured and retained to improve future costing exercises, as well as periodic reviews of the implementation of the costing process across an organization.",
+    "fr": "De surcroît, un rapport sur les coûts permet de souligner et de conserver les leçons apprises afin d’améliorer les futurs exercices d’établissement des coûts, ainsi que les examens périodiques de la mise en œuvre du processus d’établissement des coûts dans l’ensemble de l’organisation."
+  },
+  {
+    "en": "The documentation should communicate any limitations of the analysis and uncertainty or subjectivity about source data and assumptions.",
+    "fr": "La documentation devrait présenter les limites de l’analyse et l’incertitude ou la subjectivité des données de base et des hypothèses."
+  },
+  {
+    "en": "When considering how to determine uncertainty, risk and cost in of the costing process, it is important to weigh the benefits of the costing information against the time and effort required to produce this information.",
+    "fr": "Au moment d’envisager la marche à suivre pour déterminer le degré d’incertitude et de risque et les coûts à l’ du processus d’établissement des coûts, il est important d’évaluer les avantages de la production des renseignements sur l’établissement des coûts par rapport au temps et aux efforts qu’il faudra consacrer à la production de ces renseignements."
+  },
+  {
+    "en": "The tools used to calculate costs can range from a simple table of expected annual costs to a complex computer model that uses cost estimating relationships to assess the results of thousands of scenarios. Data availability and the maturity of an initiative or activity can influence the costing approach or technique selected.",
+    "fr": "Les outils utilisés pour calculer les coûts peuvent aller d’un simple tableau des coûts annuels prévus à un modèle informatique complexe qui prévoit l’établissement de relations au niveau de l’estimation des coûts pour évaluer les résultats de milliers de scénarios. La disponibilité des données et la maturité d’une initiative ou d’une activité peuvent influer sur le choix de l’approche ou de la technique d’établissement des coûts."
+  },
+  {
+    "en": "Costing approaches describe different ways that costing techniques are applied to determine costs. Costing techniques describe the basic methods that are used to determine the value of a single cost element. A single costing exercise may use multiple approaches and multiple techniques.",
+    "fr": "Les approches d’établissement des coûts décrivent les différentes façons dont les techniques d’établissement des coûts sont appliquées pour déterminer les coûts. Les techniques d’établissement des coûts décrivent les méthodes de base utilisées pour déterminer la valeur d’un élément de coût unique. Un seul exercice d’établissement des coûts peut utiliser plusieurs approches et plusieurs techniques."
+  },
+  {
+    "en": "The following are three types of costing approaches, which apply costing techniques to produce credible costing information.",
+    "fr": "Les paragraphes suivants présentent trois types d’approches pour l’établissement des coûts, qui appliquent des techniques d’établissement des coûts pour produire des renseignements crédibles sur l’établissement des coûts."
+  },
+  {
+    "en": "A top-down approach assesses the total costs of an initiative or activity and divides the assessed costs into smaller cost elements. A top-down approach is often used when costing information is most appropriately assessed at the highest level compared to lower levels. For instance, at the early stages of an initiative or activity, it may be difficult to gather the data and evidence required to calculate the value of cost elements in more detail. Furthermore, a top-down approach may require less effort and be just as credible.",
+    "fr": "Une approche descendante prévoit l’évaluation des coûts totaux d’une initiative ou d’une activité et la répartition des coûts évalués en éléments de coût plus petits. Une approche descendante est souvent utilisée lorsqu’il est plus approprié d’évaluer des renseignements sur l’établissement des coûts au niveau le plus élevé qu’aux niveaux inférieurs. Par exemple, il peut être difficile de rassembler les données et les éléments probants nécessaires pour calculer la valeur des éléments de coût de manière plus détaillée aux premières étapes d’une initiative ou d’une activité. En outre, une approche descendante peut nécessiter moins d’efforts et être tout aussi crédible."
+  },
+  {
+    "en": "An example of a top-down approach is estimating the cost of a project management office at an early stage of a project, where it is assumed to be a percentage of total project cost based on other analogous data.",
+    "fr": "Un exemple d’une approche descendante est l’estimation du coût d’un bureau de gestion de projet à un stade précoce d’un projet, lorsque celui-ci est considéré comme un pourcentage du coût total du projet basé sur d’autres données analogues."
+  },
+  {
+    "en": "A bottom-up approach determines the cost of each cost element, the sum of which is the total cost of the initiative or activity. This approach involves using costing techniques to determine a cost for each cost element based on actual data. Bottom-up approaches are best employed when determining the costs at later stages of an initiative or activity when detailed information is available.",
+    "fr": "Une approche ascendante permet de déterminer le coût de chaque élément de coût, dont la somme constitue le coût total de l’initiative ou de l’activité. Cette approche consiste à utiliser des techniques d’établissement des coûts pour déterminer le coût de chaque élément de coût à partir de données réelles. Il est plus avantageux d’utiliser les approches ascendantes pour déterminer les coûts à des étapes ultérieures d’une initiative ou d’une activité, soit à un moment où il est possible d’avoir accès à de l’information détaillée."
+  },
+  {
+    "en": "An engineering build-up approach may sometimes be considered a bottom-up approach.",
+    "fr": "Une « approche par regroupement » peut parfois être considérée comme une approche ascendante."
+  },
+  {
+    "en": "An example of a bottom-up approach could be estimating the cost of a project management office by determining all the individual salary and non-salary cost elements and estimating a cost for each of them.",
+    "fr": "Un exemple d’approche ascendante pourrait consister à estimer le coût d’un bureau de gestion de projet en déterminant tous les éléments de coût salariaux et non salariaux individuels et en estimant le coût de chacun de ces éléments."
+  },
+  {
+    "en": "An activity-based costing (ABC) approach uses actual or historical data and applies costing techniques to allocate costs. An ABC approach captures all costs related to an initiative by breaking down costs by activity and related resources consumed to produce costing information. Once the relevant breakdown is determined, costs may be described as direct, indirect, variable, fixed and/or step.",
+    "fr": "Une approche d’établissement des coûts par activité (ECA) utilise des données réelles ou historiques et applique des techniques d’établissement des coûts pour répartir les coûts. Une approche d’ECA repose sur la répartition de tous les coûts liés à une initiative par activité et des ressources connexes utilisées pour produire des renseignements sur l’établissement des coûts. Une fois que la répartition pertinente est déterminée, les coûts peuvent être présentés comme directs, indirects, variables, fixes et/ou par étape."
+  },
+  {
+    "en": "ABC supports decision-making by organizing and improving the visibility of costs, which identifies the resource requirements of a given activity and links them to a department’s overarching objectives and results. Another benefit of the approach is that activities are linked to cost drivers, so the impact on resources due to changes to activities can be readily assessed.",
+    "fr": "L’approche d’ECA facilite la prise de décision parce qu’elle permet d’organiser les coûts et d’en améliorer la transparence, et de définir les besoins en ressources d’une activité donnée et d’en établir le lien avec les objectifs et résultats globaux d’un ministère. Un autre avantage de cette approche est que les activités sont liées aux facteurs générateurs de coûts, ce qui permet d’évaluer facilement l’incidence des changements apportés aux activités sur les ressources."
+  },
+  {
+    "en": "Multiple approaches may be combined in a costing exercise to determine the costs of an initiative or activity.",
+    "fr": "Il est possible d’utiliser plusieurs approches pour déterminer les coûts d’une initiative ou d’une activité dans le cadre d’un exercice d’établissement des coûts."
+  },
+  {
+    "en": "For example, a new initiative to deliver a capital asset (such as a bridge) may use:",
+    "fr": "Par exemple, une nouvelle initiative visant un investissement dans une immobilisation (tel qu’un pont) peut nécessiter l’utilisation :"
+  },
+  {
+    "en": "There are two primary techniques used to determine the cost of a cost element.",
+    "fr": "Il existe deux techniques principales pour déterminer le coût d’un élément de coût."
+  },
+  {
+    "en": "An analogous technique uses data from a comparable initiative, activity or cost element as the basis for determining costs. Adjustments are then made using scaling parameters that represent differences in size, performance, technology, complexity and other factors.",
+    "fr": "Une technique d’établissement des coûts analogique fait appel aux données liées à une initiative, une activité ou un élément de coût comparable comme base pour déterminer les coûts. Des ajustements sont ensuite effectués en utilisant des paramètres d’échelle qui représentent les différences de taille, de rendement, de technologie, de complexité et d’autres facteurs."
+  },
+  {
+    "en": "An analogous technique is best used when historical data is available and is closely aligned to cost elements. It is often used during the early stages of an initiative or activity when there is little data and evidence to inform the use of more advanced techniques. It is best to use a parametric technique for complex initiatives, activities or cost elements that do not have straightforward analogies.",
+    "fr": "Une technique analogique est plus efficace lorsque des données historiques sont disponibles et que celles-ci sont étroitement liées aux éléments de coût. Elle est souvent utilisée au cours des premières étapes d’une initiative ou d’une activité, lorsqu’il y a peu de données et d’éléments probants pour orienter l’utilisation de techniques plus avancées. Il est préférable d’utiliser une technique paramétrique pour les initiatives, les activités ou les éléments de coût complexes qui n’ont pas d’analogies directes."
+  },
+  {
+    "en": "An analogous technique often relies on expert opinion to adjust historical costs so that they approximate the total cost of an initiative or activity. If possible, the adjustments should be quantitative rather than qualitative to avoid subjective judgments.",
+    "fr": "Une technique analogique repose souvent sur l’avis d’experts pour ajuster les coûts historiques afin qu’ils se rapprochent du coût total d’une initiative ou d’une activité. Si possible, les ajustements doivent être quantitatifs plutôt que qualitatifs afin d’éviter les jugements subjectifs."
+  },
+  {
+    "en": "The costing practitioner should document the assumptions and data sources used with this technique.",
+    "fr": "Le praticien de l’établissement des coûts devrait documenter les hypothèses et les sources de données utilisées avec cette technique."
+  },
+  {
+    "en": "A parametric technique applies statistical analysis to data from similar initiatives and activities to develop a cost estimating relationship (CER) that is used to generate costing information. A CER is an equation that determines the numerical value of a given cost element using an established relationship with one or more independent cost drivers. The relationship may be mathematically simple, such as a proportion, ratio or rate, or it may involve a complex equation or method, such as a regression analysis. CERs should be applicable to the cost element and appropriate for the range of data being considered.",
+    "fr": "Une technique d’établissement des coûts paramétrique applique une analyse statistique à des données provenant d’initiatives et d’activités semblables pour établir une relation au niveau de l’estimation des coûts (REC) qui est utilisée pour produire des renseignements sur l’établissement des coûts. Une REC est une équation qui permet de déterminer la valeur numérique d’un élément de coût donné en utilisant une relation établie avec un ou plusieurs facteurs générateurs de coûts indépendants. La relation peut être mathématiquement simple, telle qu’une proportion, un rapport ou un taux, ou elle peut être liée à une équation ou à une méthode complexe, telle qu’une analyse de régression. Il faut que la REC puisse s’appliquer à l’élément de coût et qu’elle convienne pour la gamme de données examinées."
+  },
+  {
+    "en": "A parametric technique in costing relies on data from many initiatives or activities. In general, a parametric technique should be applied when there is data available from several historical initiatives, activities or cost elements that have relationships based on cost drivers. A parametric technique is often used when an initiative or activity has progressed beyond the early stages and detailed information is known about cost drivers.",
+    "fr": "Une technique paramétrique pour l’établissement des coûts repose sur des données provenant de nombreuses initiatives ou activités. En général, une technique paramétrique devrait être appliquée lorsqu’il existe des données disponibles provenant de plusieurs initiatives, activités ou éléments de coût historiques qui ont des relations basées sur des facteurs générateurs de coûts. Une technique paramétrique est souvent utilisée lorsqu’une initiative ou une activité a dépassé les premières étapes et que des renseignements détaillés sont connus sur les facteurs générateurs de coûts."
+  },
+  {
+    "en": "The costing practitioner should document the related mathematical methods, statistics, assumptions, normalization processes and data sources used for this technique.",
+    "fr": "Le praticien de l’établissement des coûts devrait documenter les méthodes mathématiques, les statistiques, les hypothèses, les processus de normalisation et les sources de données connexes utilisés pour cette technique."
+  },
+  {
+    "en": "Figure 5 shows the cost estimating relationship between a cost driver and cost. The graph shows that the cost driver has a direct influence on cost such that an increase in the quantity of the cost driver results in an increase in cost.",
+    "fr": "La figure 5 illustre la REC entre un facteur générateur de coûts et le coût. Le graphique montre que le facteur générateur de coûts influe directement sur le coût, de sorte qu’une augmentation de la quantité des facteurs générateurs de coûts entraîne une augmentation du coût."
+  },
+  {
+    "en": "Figure 5 is a scatter plot graph. A cost driver is indicated on the X-axis and cost is indicated on the Y-axis.",
+    "fr": "La figure 5 est un graphique en nuage de points. Un facteur générateur de coûts est indiqué sur l’axe des X et le coût, sur l’axe des Y."
+  },
+  {
+    "en": "The scatter plot is populated with dots that represent data points and a line of best fit. The line is positively and strongly correlated with the data points, which tightly surround the line of best fit in an upward fashion.",
+    "fr": "Le nuage de points est peuplé de points qui représentent des points de données et une ligne de meilleur ajustement. La ligne est positivement et fortement corrélée avec les points de données, qui entourent étroitement la ligne de meilleur ajustement de manière ascendante."
+  },
+  {
+    "en": "Costing practitioners often use data from other initiatives and activities and apply analogous or parametric techniques in order to determine cost. However, at times, actual data about costs or trends can be used to determine future costs for the same initiative or activity. In these cases, the analogous or parametric technique may also be known as",
+    "fr": "Les praticiens de l’établissement des coûts utilisent souvent des données provenant d’autres initiatives et activités et appliquent des techniques analogiques ou paramétriques afin de déterminer les coûts. Cependant, il arrive que des données réelles sur les coûts ou les tendances soient utilisées pour déterminer les coûts futurs de la même initiative ou activité. Dans ces cas, la technique analogique ou paramétrique peut également être appelée extrapolation à partir des données réelles."
+  },
+  {
+    "en": "An example of extrapolation from actuals using an analogous technique is an assumption that the cost to perform an activity in the future will be the same as the cost of the activity in the past. An example of extrapolation from actuals using a parametric technique is an “estimate at completion” from earned value management.",
+    "fr": "Un exemple d’extrapolation à partir de données réelles à l’aide d’une technique analogique est l’hypothèse selon laquelle le coût de l’exécution d’une activité dans le futur sera le même que le coût de l’activité dans le passé. Un exemple d’extrapolation à partir de données réelles à l’aide d’une technique paramétrique est l’« estimation des coûts à l’achèvement » de la gestion de la valeur acquise."
+  },
+  {
+    "en": "Expert opinion uses an expert or group of experts to determine costs without a basis in an identifiable data source. Expert opinion tends to produce subjective costing information and produces results that are less reliable than other costing techniques due to an increased risk of cognitive bias. When possible, costing practitioners should favour techniques that use actual or historical data instead of expert opinion.",
+    "fr": "Une demande d’avis d’experts consiste à recourir à un expert ou à un groupe d’experts pour déterminer les coûts sans s’appuyer sur une source de données identifiable. L’avis d’experts a tendance à donner lieu à de l’information subjective sur les coûts et à des résultats moins fiables que les autres techniques d’établissement des coûts en raison d’un risque accru de biais cognitif. Dans la mesure du possible, les praticiens de l’établissement des coûts devraient privilégier les techniques qui utilisent des données réelles ou historiques plutôt que l’avis d’experts."
+  },
+  {
+    "en": "Expert opinion can be useful in the absence of other viable alternatives. The subjectivity of expert opinion can be mitigated through comparisons to other initiatives or activities, independent estimates, or an uncertainty analysis. Qualitative evidence from subject matter experts can be transformed into data by using robust qualitative and quantitative research techniques.",
+    "fr": "Cela dit, l’avis d’experts peut s’avérer utile en l’absence d’autres solutions de rechange viables. La subjectivité de l’avis d’experts peut être atténuée par des comparaisons avec d’autres initiatives ou activités, des estimations indépendantes ou une analyse du degré d’incertitude. Les éléments probants qualitatifs fournis par les experts en la matière peuvent être transformés en données en utilisant des techniques de recherche qualitatives et quantitatives solides."
+  },
+  {
+    "en": "When expert opinion is used to determine costs, the costing practitioner should document the method used to obtain the expert opinion (for example, interviews) along with the credentials, experience, and position titles of the experts consulted.",
+    "fr": "Lorsque l’avis d’experts est utilisé pour déterminer les coûts, le praticien de l’établissement des coûts devrait documenter la méthode utilisée pour obtenir l’avis d’experts (par exemple, entrevues) ainsi que les titres de compétences, l’expérience et les titres de poste des experts consultés."
+  },
+  {
+    "en": "The use of experts to interpret and provide context to data can improve the quality of the analogous or parametric technique used. It is good practice to engage experts when using costing techniques. When experts inform the use of data-driven techniques, consulting experts is not considered using an expert opinion.",
+    "fr": "Le recours à des experts pour interpréter et mettre en contexte les données peut améliorer la qualité de la technique analogique ou paramétrique utilisée. C’est une bonne pratique que de faire appel à des experts lorsque des techniques d’établissement des coûts sont utilisées. La consultation d’experts pour orienter l’utilisation de techniques fondées sur des données n’est pas considérée comme un recours à un avis d’experts."
+  },
+  {
+    "en": "Costing is an essential component of many GC activities and, consequently, is related in some way to most policy instruments in the GC. The following sets out key references that should be read in conjunction with this guide:",
+    "fr": "L’établissement des coûts est un aspect essentiel de nombreuses activités du GC et, par conséquent, est lié d’une manière ou d’une autre à la plupart des instruments de politique du GC. Les principaux documents de référence qu’il convient de lire avec le présent guide sont présentés ci-dessous."
+  },
+  {
+    "en": "The GCpedia page (accessible only on the Government of Canada network) exists to connect, support and engage costing practitioners across the GC.",
+    "fr": "La page de la de GCpédia (accessible uniquement sur le réseau du gouvernement du Canada) a pour but de favoriser la communication entre les praticiens de l’établissement des coûts à l’échelle du gouvernement, de les appuyer et de faciliter leur participation à l’établissement des coûts."
+  },
+  {
+    "en": "Additional guidance, tools, templates and training that expand on the concepts presented in this guide are available:",
+    "fr": "Il est possible d’obtenir d’autres directives, outils, modèles et formations qui contiennent plus de détails sur les concepts présentés dans le présent guide par l’intermédiaire :"
+  },
+  {
+    "en": "Members of the public may contact the Treasury Board of Canada Secretariat (TBS) Public Enquiries at if they have questions about this guide.",
+    "fr": "Les membres du public peuvent faire parvenir toute question au sujet du présent guide au personnel chargé des demandes de renseignements du public du Secrétariat du Conseil du Trésor du Canada (SCT) par courriel à l’adresse ."
+  },
+  {
+    "en": "Individuals from departments, agencies, or other governmental organizations should direct enquiries about this guide to the relevant unit in their organization.",
+    "fr": "Les personnes des ministères, organismes ou d’autres organisations gouvernementales doivent adresser leurs demandes de renseignements sur le présent guide à l’équipe concernée de leur organisation."
+  },
+  {
+    "en": "For interpretation of this guide, relevant units should contact the Costing Centre of Expertise at .",
+    "fr": "Pour l’interprétation du présent guide, les équipes concernées des organisations doivent communiquer avec le Centre d’expertise sur l’établissement des coûts à l’adresse ."
+  },
+  {
+    "en": "provides contextual insight that supports decision-making",
+    "fr": "donne un aperçu contextuel à l’appui de la prise de décision;"
+  },
+  {
+    "en": "improves the understanding of cost uncertainty, cost risk and cost drivers",
+    "fr": "permet de mieux comprendre les incertitudes et les risques liés aux coûts, ainsi que les facteurs générateurs de coûts;"
+  },
+  {
+    "en": "aligns with the objectives and expected government-wide results identified in the and supports the assertions and conclusions of the chief financial officer, as required by the",
+    "fr": "s’aligne sur les objectifs et les résultats attendus à l’échelle du gouvernement figurant dans la et appuie les assertions et les conclusions du dirigeant principal des finances, comme l’exige la ;"
+  },
+  {
+    "en": "supports the obligations and requirements for external charging (fees) and internal charging identified in the and the obligations and requirements for fees prescribed under the",
+    "fr": "favorise le respect des obligations et des exigences en matière d’imputation externe (frais) et d’imputation interne prévues dans la et des obligations et des exigences s’appliquant aux frais prévus par la ;"
+  },
+  {
+    "en": "supports assessing life-cycle costs for investment decisions, as identified in the",
+    "fr": "aide à évaluer les coûts du cycle de vie pour les décisions d’investissement, comme le précise la ;"
+  },
+  {
+    "en": "assists in the development of rough order of magnitude (ROM), indicative and substantive estimates that are required when seeking Treasury Board approvals or expenditure authorities for projects or programmes, as detailed in the",
+    "fr": "contribue à l’établissement d’un ordre de grandeur approximatif (OGA) et d’estimations indicatives et substantielles qui sont nécessaires lorsqu’il faut obtenir l’approbation du Conseil du Trésor ou des autorisations de dépenses pour des projets ou des programmes, comme le précise la ;"
+  },
+  {
+    "en": "supports the life-cycle management of real property, as described in the",
+    "fr": "facilite la gestion du cycle de vie des biens immobiliers, comme le décrit la ;"
+  },
+  {
+    "en": "supports the management of procurements, as described in the",
+    "fr": "appuie la gestion de l’approvisionnement, comme l’indique en détail la ."
+  },
+  {
+    "en": "as a resource to understand the credibility of recipient costing information under the",
+    "fr": "obtenir une meilleure compréhension du degré de crédibilité des renseignements sur l’établissement des coûts fournies par les bénéficiaires, selon la ;"
+  },
+  {
+    "en": "when analyzing the cost impacts of procurements that contribute to economic growth in Canada",
+    "fr": "analyser l’incidence sur les coûts des achats qui contribuent à la croissance économique du Canada;"
+  },
+  {
+    "en": "to analyze the life-cycle costs of investments when considering commitments made in the",
+    "fr": "analyser les coûts du cycle de vie des investissements, compte tenu des engagements pris dans le cadre de la ."
+  },
+  {
+    "en": "cost accounting, which emphasizes the allocation of costs (for example, direct and indirect)",
+    "fr": "la comptabilité des coûts, qui met l’accent sur la répartition des coûts (par exemple, coûts directs et indirects);"
+  },
+  {
+    "en": "cost estimating, which emphasizes forecasting costs and the associated level of uncertainty and risk",
+    "fr": "l’estimation des coûts, qui met l’accent sur les prévisions des coûts et le niveau de risque et d’incertitude connexe."
+  },
+  {
+    "en": "data availability and quality limitations",
+    "fr": "des limites quant à la disponibilité et la qualité des données;"
+  },
+  {
+    "en": "limited information about associated cost uncertainties and risks",
+    "fr": "peu d’informations sur les incertitudes et les risques liés aux coûts;"
+  },
+  {
+    "en": "limited interaction between stakeholder groups (for example, project managers, financial officers, subject matter experts)",
+    "fr": "peu d’interaction entre les groupes d’intervenants (par exemple, gestionnaires de projet, agents des finances et experts en la matière);"
+  },
+  {
+    "en": "resource constraints (for example, people, tools and time)",
+    "fr": "des ressources limitées (par exemple, personnes, outils et temps)."
+  },
+  {
+    "en": "decisions between different courses of action",
+    "fr": "la prise de décisions touchant les différents plans d’action;"
+  },
+  {
+    "en": "legislative or policy changes",
+    "fr": "la détermination des modifications à apporter aux lois ou aux politiques;"
+  },
+  {
+    "en": "decisions about offering a new initiative or activity",
+    "fr": "la prise de décisions concernant l’offre d’une nouvelle initiative ou activité;"
+  },
+  {
+    "en": "level-of-service decisions",
+    "fr": "la prise de décisions relatives au niveau de service;"
+  },
+  {
+    "en": "charging and cost-recovery decisions",
+    "fr": "la prise de décisions relatives à l’imputation des frais et au recouvrement des coûts;"
+  },
+  {
+    "en": "investment decisions",
+    "fr": "la prise de décisions en matière d’investissement;"
+  },
+  {
+    "en": "contracting and procurement decisions",
+    "fr": "la prise de décisions en matière de contrats et d’approvisionnement;"
+  },
+  {
+    "en": "decisions about reorganizations",
+    "fr": "la prise de décisions relatives aux réorganisations;"
+  },
+  {
+    "en": "assessments of results",
+    "fr": "l’évaluation des résultats."
+  },
+  {
+    "en": "establishing and maintaining appropriate governance and oversight structures to enable the production of credible costing information and support engagement with key stakeholders",
+    "fr": "établir et tenir à jour les structures de gouvernance et de surveillance appropriées pour assurer la production des renseignements crédibles sur l’établissement des coûts et la participation des principaux intervenants;"
+  },
+  {
+    "en": "ensuring that costing exercises apply the GC’s costing process, that resulting costing information is credible, and that relevant costing information is disclosed for decision-making",
+    "fr": "s’assurer que les exercices d’établissement des coûts reposent sur le processus d’établissement des coûts du GC, que les renseignements sur l’établissement des coûts qui en résultent sont crédibles et que l’information pertinente sur l’établissement des coûts est communiquée aux fins de la prise de décisions."
+  },
+  {
+    "en": "ensuring that their organization’s costing capacity is aligned with the level of complexity, risk and materiality of the initiatives",
+    "fr": "s’assurer que la capacité d’établissement des coûts de leur organisation est adaptée au niveau de complexité, de risque et d’importance relative des initiatives;"
+  },
+  {
+    "en": "coordinating the collection and retention of costing information and the provision of tools required to develop credible costing information",
+    "fr": "coordonner la collecte et le maintien des renseignements sur l’établissement des coûts et fournir les outils nécessaires pour obtenir des renseignements crédibles sur l’établissement des coûts;"
+  },
+  {
+    "en": "ensuring due diligence in the application of the costing process and challenging the credibility of the costing information where necessary",
+    "fr": "assurer une diligence raisonnable dans l’application du processus d’établissement des coûts et remettre en question la crédibilité des renseignements sur l’établissement des coûts, au besoin;"
+  },
+  {
+    "en": "ensuring that key costing information, including the cost impact of key assumptions and the level of uncertainty and risk associated with the initiative, is disclosed by way of a chief financial officer attestation",
+    "fr": "s’assurer de communiquer dans son attestation l’information clé sur l’établissement des coûts, y compris l’incidence des principales hypothèses sur les coûts et le niveau d’incertitude et de risque lié à l’initiative."
+  },
+  {
+    "en": "ensuring that the appropriate resources (for example, people, tools, time) are assigned to develop and deliver credible costing information in a manner that is consistent with the level of complexity, risk and materiality associated with the initiatives",
+    "fr": "s’assurer de prévoir suffisamment de ressources (par exemple, personnes, outils et temps) pour la production et communication des renseignements crédibles sur l’établissement des coûts en tenant compte du niveau de complexité, de risque et d’importance relative lié aux initiatives;"
+  },
+  {
+    "en": "encouraging collaboration with stakeholders throughout the development of the costing exercise",
+    "fr": "promouvoir la collaboration avec les intervenants tout au long de l’élaboration de l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "ensuring that the key costing information (for example, quality of the data, impact of key assumptions and cost drivers, level of uncertainty and risk, quality assurance and validation efforts) is disclosed to the deputy head and chief financial officer, when applicable, to support obligations for accountability and strategic decision-making",
+    "fr": "veiller à ce que les renseignements sur l’établissement des coûts (par exemple, qualité des données, incidence des principales hypothèses, facteurs générateurs de coûts, niveau d’incertitude et de risque, assurance de la qualité et efforts de validation) soient communiquées à l’administrateur général et au dirigeant principal des finances, s’il y a lieu, pour assurer le respect des obligations en matière de responsabilisation et de prise de décisions stratégiques."
+  },
+  {
+    "en": "ensuring that costing practitioners have the information needed to develop credible costing information (for example, documentation, data and evidence, ground rules)",
+    "fr": "veiller à ce que les praticiens de l’établissement des coûts disposent de l’information nécessaire pour produire des renseignements crédibles sur l’établissement des coûts (par exemple, documentation, données et éléments probants, règles de base);"
+  },
+  {
+    "en": "engaging departmental costing expertise, costing practitioners and other stakeholders early and often throughout the initiative, so that costing practitioners have sufficient time to develop credible costing information",
+    "fr": "mobiliser dès le début et souvent tout au long de l’initiative les experts en matière d’établissement des coûts, les praticiens de l’établissement des coûts et les autres intervenants du ministère, afin que les praticiens de l’établissement des coûts aient suffisamment de temps pour produire des renseignements crédibles sur l’établissement des coûts;"
+  },
+  {
+    "en": "ensuring that the development of costing information is clearly assigned in alignment with delivering results and includes establishing a work plan and schedule",
+    "fr": "s’assurer que la production des renseignements sur l’établissement des coûts est clairement attribuée en fonction de l’atteinte des résultats et qu’elle comprend l’établissement d’un plan de travail et d’un calendrier;"
+  },
+  {
+    "en": "ensuring that key costing information is documented and communicated, including the quality of the data, impact of key assumptions and cost drivers, level of uncertainty and risk, and quality assurance and validation efforts",
+    "fr": "veiller à ce que l’information clé sur l’établissement des coûts soit consignée et communiquée, notamment en ce qui a trait à la qualité des données, à l’incidence des principales hypothèses, aux facteurs générateurs de coûts, au niveau d’incertitude et de risque et aux efforts d’assurance qualité et de validation."
+  },
+  {
+    "en": "ensuring that the roles and responsibilities and work plan for costing exercises are outlined in a manner that supports the delivery of results",
+    "fr": "s’assurer que les rôles et les responsabilités ainsi que le plan de travail pour les exercices d’établissement des coûts sont présentés en détail de manière à assurer l’atteinte des résultats;"
+  },
+  {
+    "en": "identifying and engaging stakeholders, including subject matter experts, early and often to establish assumptions, gather data and identify risks",
+    "fr": "désigner et mobiliser les intervenants, y compris les experts en la matière, dès le début et souvent tout au long de l’initiative pour établir les hypothèses, recueillir des données et cerner les risques;"
+  },
+  {
+    "en": "applying the costing process to produce credible costing information that supports the transparent disclosure of financial risk for decision-making",
+    "fr": "appliquer le processus d’établissement des coûts pour produire des renseignements crédibles sur l’établissement des coûts à l’appui de la communication transparente des risques financiers aux fins de la prise de décisions;"
+  },
+  {
+    "en": "clearly and concisely documenting the steps that were taken to develop the costing information",
+    "fr": "consigner de manière claire et concise les étapes suivies pour les renseignements sur l’établissement des coûts;"
+  },
+  {
+    "en": "ensuring that key costing information and detailed costing information are communicated",
+    "fr": "s’assurer de communiquer l’information clé et l’information détaillée sur l’établissement des coûts."
+  },
+  {
+    "en": "the purpose and deliverables of the costing exercise are well defined",
+    "fr": "de s’assurer de bien définir l’objectif et les résultats de l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "there is agreement on ground rules, assumptions and data sources",
+    "fr": "de s’entendre sur les règles de base, les hypothèses et les sources de données;"
+  },
+  {
+    "en": "stakeholders are engaged throughout the costing exercise",
+    "fr": "de s’assurer de mobiliser les intervenants tout au long de l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "errors are identified and corrected throughout the costing exercise",
+    "fr": "de relever et de corriger les erreurs tout au long de l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "the results of the costing exercise are clearly communicated to stakeholders",
+    "fr": "de s’assurer de communiquer clairement aux intervenants les résultats de l’exercice d’établissement des coûts."
+  },
+  {
+    "en": "the boundaries of the costing exercise can be communicated to decision-makers and stakeholders",
+    "fr": "de faire en sorte que les limites de l’exercice d’établissement des coûts puissent être communiquées aux décideurs et aux intervenants;"
+  },
+  {
+    "en": "all relevant cost elements are included in the costing exercise",
+    "fr": "de s’assurer que tous les éléments de coût pertinents font partie de l’exercice d’établissement des coûts."
+  },
+  {
+    "en": "subjectivity in a costing exercise is reduced",
+    "fr": "d’éliminer la subjectivité dans un exercice d’établissement des coûts;"
+  },
+  {
+    "en": "the costing information has a traceable source that can be examined and assessed by stakeholders and reviewers",
+    "fr": "d’avoir une source traçable qui peut être examinée et évaluée par les intervenants et les évaluateurs;"
+  },
+  {
+    "en": "data analysis can be used to improve the application of costing techniques",
+    "fr": "de recourir à l’analyse de données pour améliorer l’application des techniques d’établissement des coûts."
+  },
+  {
+    "en": "costing exercises are more reliable as the uncertainty associated with the underlying data and assumptions has been considered",
+    "fr": "d’accroître le degré de fiabilité des exercices d’établissement des coûts, l’incertitude liée aux données et aux hypothèses sous-jacentes ayant été prise en considération;"
+  },
+  {
+    "en": "contingency amounts:",
+    "fr": "de s’assurer que les montants de l’éventualité :"
+  },
+  {
+    "en": "provide confidence that the estimate or budget is sufficient for the initiative or activity",
+    "fr": "permettent d’avoir l’assurance que l’estimation ou le budget est suffisant pour l’initiative ou l’activité,"
+  },
+  {
+    "en": "are based on an uncertainty and risk assessment",
+    "fr": "sont fondés sur une évaluation du niveau d’incertitude et de risque;"
+  },
+  {
+    "en": "financial risk is transparently disclosed to stakeholders and decision-makers",
+    "fr": "de communiquer le risque financier de manière transparente aux intervenants et aux décideurs."
+  },
+  {
+    "en": "reviewers can understand how the costing information was produced",
+    "fr": "aux évaluateurs de mieux comprendre comment les renseignements sur l’établissement des coûts ont été produites;"
+  },
+  {
+    "en": "the details of the costing exercise are transparent and traceable, including costs that were not included in the costing exercise",
+    "fr": "d’assurer la transparence et la traçabilité des détails de l’exercice d’établissement des coûts, y compris les coûts qui n’ont pas été pris en considération dans l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "the costing information can support scrutiny and audits",
+    "fr": "d’utiliser les renseignements sur l’établissement des coûts dans le cadre d’examens et d’audits;"
+  },
+  {
+    "en": "information (for example, assumptions, ground rules and data sources) is stored in a location that is accessible to current and future costing practitioners",
+    "fr": "de s’assurer que l’information (par exemple, hypothèses, règles de base et sources de données) est stockée dans un endroit accessible aux praticiens de l’établissement des coûts actuels et futurs;"
+  },
+  {
+    "en": "lessons learned are recorded and used to inform best practices for future exercises",
+    "fr": "de veiller à ce que les leçons apprises soient consignées et utilisées pour orienter le développement de pratiques exemplaires pour les exercices futurs."
+  },
+  {
+    "en": "ensuring oversight and sound stewardship of public resources, as identified in the",
+    "fr": "assurer le contrôle et une saine gestion des ressources publiques, comme l’indique la ;"
+  },
+  {
+    "en": "making risk disclosure assertions, as explained in the",
+    "fr": "formuler des assertions sur la communication des risques, comme l’explique la ;"
+  },
+  {
+    "en": "using costing information to identify indicators, collect data and conduct evaluations, as outlined in the",
+    "fr": "utiliser les renseignements sur l’établissement des coûts pour définir les indicateurs, recueillir des données et effectuer des évaluations, comme le souligne la ."
+  },
+  {
+    "en": "Establish a purpose and a plan",
+    "fr": "Établir un objectif et un plan."
+  },
+  {
+    "en": "Employ a cost breakdown structure",
+    "fr": "Mettre en place une structure de répartition des coûts."
+  },
+  {
+    "en": "Identify ground rules and assumptions",
+    "fr": "Définir les règles de base et formuler les hypothèses."
+  },
+  {
+    "en": "Gather data and evidence",
+    "fr": "Recueillir les éléments probants et les données."
+  },
+  {
+    "en": "Determine uncertainty, risk and cost",
+    "fr": "Déterminer le niveau d’incertitude et de risque et les coûts."
+  },
+  {
+    "en": "Assure and validate the exercise",
+    "fr": "Donner l’assurance quant à la qualité de l’exercice et le valider."
+  },
+  {
+    "en": "Communicate the results*",
+    "fr": "Communiquer les résultats.*"
+  },
+  {
+    "en": "which stakeholders to engage",
+    "fr": "les intervenants à mobiliser;"
+  },
+  {
+    "en": "the cost elements to be established by the costing exercise",
+    "fr": "les éléments de coût à établir dans le cadre de l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "the time frame covered by the costing exercise",
+    "fr": "la période visée par l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "how to deliver the costing information",
+    "fr": "la façon de communiquer les renseignements sur l’établissement des coûts."
+  },
+  {
+    "en": "reviewing lessons learned from previous costing exercises",
+    "fr": "l’examen des leçons tirées des exercices d’établissement des coûts antérieurs;"
+  },
+  {
+    "en": "completing a work plan for each step of the costing process",
+    "fr": "l’élaboration d’un plan de travail pour chaque étape du processus d’établissement des coûts;"
+  },
+  {
+    "en": "establishing a schedule to meet deadlines and communicate progress and delays",
+    "fr": "l’établissement d’un calendrier pour respecter les délais et communiquer les progrès et les retards;"
+  },
+  {
+    "en": "specifying which stakeholders will be consulted and agreeing on how they will be engaged",
+    "fr": "des précisions sur les intervenants qui seront consultés et la méthode de consultation convenue;"
+  },
+  {
+    "en": "specifying and assigning responsibilities (stakeholders may need to be consulted)",
+    "fr": "des précisions sur les responsabilités et l’attribution de celles-ci (il faudra peut-être consulter les intervenants à cet égard)."
+  },
+  {
+    "en": "representatives from internal service groups",
+    "fr": "des représentants des groupes de services internes;"
+  },
+  {
+    "en": "managers who are responsible for the initiative or activity or are otherwise impacted",
+    "fr": "les gestionnaires responsables de l’initiative ou de l’activité ou qui sont autrement touchés par celle-ci;"
+  },
+  {
+    "en": "employees engaged in the costing work, such as financial management advisors or other functional specialists",
+    "fr": "les employés qui participent à l’établissement des coûts, comme les conseillers en gestion financière ou d’autres spécialistes fonctionnels;"
+  },
+  {
+    "en": "employees who are responsible for data",
+    "fr": "les employés chargés des données;"
+  },
+  {
+    "en": "other departments, agencies or governmental organizations for cross-departmental initiatives or activities",
+    "fr": "des représentants d’autres ministères, organismes ou organisations gouvernementales pour les initiatives ou activités interministérielles."
+  },
+  {
+    "en": "represents the total expected cost of an initiative or activity within a range of potential outcomes",
+    "fr": "représente le coût total attendu d’une initiative ou d’une activité dans une fourchette de résultats possibles;"
+  },
+  {
+    "en": "does not consider the uncertainty and risk associated with the cost elements",
+    "fr": "ne tient pas compte de l’incertitude ou du risque associé aux éléments de coût."
+  },
+  {
+    "en": "uncertainty decreases (represented by the narrowing boundaries) as requirements become more concrete and risks either materialize or are mitigated",
+    "fr": "le niveau d’incertitude diminue (représenté par le rétrécissement des limites) à mesure que les exigences deviennent plus concrètes et que les risques se concrétisent ou sont atténués;"
+  },
+  {
+    "en": "estimates change (represented by points A through E) as the level of effort to achieve objectives is better understood and some risks materialize",
+    "fr": "les estimations changent (représentées par les points A à E) à mesure que le niveau d’effort pour atteindre les objectifs est mieux compris et que certains risques se matérialisent."
+  },
+  {
+    "en": "A: cost estimate at conception phase",
+    "fr": "A : estimation des coûts à l’étape de conception;"
+  },
+  {
+    "en": "B: cost estimate at identification phase",
+    "fr": "B : estimation du coût à l’étape de détermination;"
+  },
+  {
+    "en": "C: cost estimate at definition phase",
+    "fr": "C : estimation du coût à l’étape de définition;"
+  },
+  {
+    "en": "D: cost estimate at implementation phase",
+    "fr": "D : estimation du coût à l’étape de mise en œuvre;"
+  },
+  {
+    "en": "E: cost estimate at close-out phase",
+    "fr": "E : estimation des coûts à l’étape de clôture."
+  },
+  {
+    "en": "deterministic estimate",
+    "fr": "l’estimation déterministe;"
+  },
+  {
+    "en": "risk-adjusted cost estimate",
+    "fr": "l’estimation du coût ajusté en fonction des risques."
+  },
+  {
+    "en": "the results are trustworthy in that they reflect the ground rules, assumptions and requirements of the costing exercise",
+    "fr": "de la fiabilité des résultats dans la mesure où ils tiennent compte des règles de base, des hypothèses et des exigences de l’exercice d’établissement des coûts;"
+  },
+  {
+    "en": "there are no calculation errors",
+    "fr": "de l’exactitude du calcul."
+  },
+  {
+    "en": "checking for calculation errors and inconsistencies",
+    "fr": "vérifier s’il y a des erreurs de calcul et des incohérences;"
+  },
+  {
+    "en": "assessing whether the costing process was applied appropriately",
+    "fr": "déterminer si le processus d’établissement des coûts a été appliqué de manière appropriée;"
+  },
+  {
+    "en": "reviewing and challenging the assumptions used to generate the results",
+    "fr": "examiner et remettre en question les hypothèses utilisées pour produire les résultats;"
+  },
+  {
+    "en": "comparing the data and results from similar initiatives, activities or data sources",
+    "fr": "comparer les données et les résultats d’initiatives, d’activités ou de sources de données semblables;"
+  },
+  {
+    "en": "cross-checking the costing exercise against recognized benchmarks or authoritative sources and explaining material differences",
+    "fr": "contre-vérifier l’exercice d’établissement des coûts avec des repères reconnus ou des sources faisant autorité et expliquer les différences importantes;"
+  },
+  {
+    "en": "performing an independent estimate",
+    "fr": "effectuer une estimation indépendante."
+  },
+  {
+    "en": "a top-down approach to determine design and construction costs",
+    "fr": "d’une approche descendante pour déterminer les coûts de conception et de construction;"
+  },
+  {
+    "en": "a bottom-up approach to determine detailed project management requirements (for example, full-time equivalent costs and non-salary costs)",
+    "fr": "d’une approche ascendante pour déterminer les exigences détaillées en matière de gestion de projet (par exemple, coûts liés aux équivalents temps plein et coûts non salariaux);"
+  },
+  {
+    "en": "an activity-based costing approach to determine the internal services required to enable successful delivery",
+    "fr": "d’une approche d’ECA pour déterminer les services internes nécessaires à la réussite du projet."
+  },
+  {
+    "en": "on the Costing Community of Practice GCpedia page",
+    "fr": "de la page de la Communauté de pratique sur l’établissement des coûts de GCpédia;"
+  },
+  {
+    "en": "through professional associations, academic institutions and other GC publications",
+    "fr": "d’associations professionnelles, d’établissements d’enseignement et d’autres publications du GC."
+  }
+]

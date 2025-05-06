@@ -1,0 +1,274 @@
+[
+  {
+    "en": "Accessibility Standards Canada (ASC) has officially adopted the European harmonized standard on Information and Communication Technologies (ICT) for use in Canada. The standard EN 301 549 states the accessibility requirements for ICT products and service. Under the code , this standard is now approved for use throughout the country as an official standard for the Government of Canada",
+    "fr": "Normes d'accessibilité Canada (NAC) a officiellement adopté la Norme européenne harmonisée en matière de technologies de l'information et de la communication (TIC) pour usage au Canada. La norme EN 301 549 précise les exigences en matière d'accessibilité pour les produits et services liés aux TIC. En vertu du code , l'utilisation de cette norme est maintenant approuvée dans tout le pays en tant que norme officielle pour le gouvernement du Canada."
+  },
+  {
+    "en": "The official endorsement of this standard re-iterates the importance for federal organizations to take action in adopting the measures therein and follow the guidance provided in the Guideline on Making Information Technology Usable by All. It is recommended that organizations adopt the standard in support of the Government's commitment to an accessible and barrier-free Canada.",
+    "fr": "L'approbation officielle de cette norme réitère l'importance pour les organismes fédéraux d'agir en adoptant les mesures qui y sont prévues et de suivre les conseils fournis dans la Ligne directrice sur l'utilisabilité de la technologie de l'information par tous. Il est recommandé aux organismes d'adopter la norme afin de soutenir l'engagement du gouvernement envers un Canada accessible et sans obstacle."
+  },
+  {
+    "en": "This standard took effect on August 1, 2011 and was updated March 31, 2013. It replaces Part 2 of the Common Look and Feel 2.0 Standards for the Internet.",
+    "fr": "La présente Norme est entrée en vigueur le 1 août 2011 et elle a été révisée le 31 mars 2013. Elle remplace la partie 2 de la Normalisation des sites Internet 2.0"
+  },
+  {
+    "en": "This standard applies to \"departments\" as defined in section 2 of the , with the exception of paragraphs (b) and (c), and unless excluded by specific acts, regulations or Orders in Council.",
+    "fr": "La présente Norme s'applique aux ministères énumérés aux annexes I, I.1 et II de la , à l'exception des alinéas et , à moins qu'ils ne soient exclus par une loi, un règlement ou un décret."
+  },
+  {
+    "en": "Section 6 applies to all :",
+    "fr": "La section 6 s'applique à tous les :"
+  },
+  {
+    "en": "Section 6 does not apply to:",
+    "fr": "La section 6 ne s'applique pas à ce qui suit :"
+  },
+  {
+    "en": "Section 6.1.1 is implemented in phases and applies as follows:",
+    "fr": "La section 6.1.1 est mise en œuvre par étapes et s'applique comme suit :"
+  },
+  {
+    "en": "Specific requirements of section 6.1.1 do not apply to:",
+    "fr": "Les exigences particulières à la section 6.1.1 ne s'appliquent pas à ce qui suit :"
+  },
+  {
+    "en": "A list of exclusions is attached in .",
+    "fr": "La liste des exclusions figure à l' ."
+  },
+  {
+    "en": "Sections , and relating to the role of the Treasury Board Secretariat in monitoring compliance and directing consequences for non-compliance do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with the standard within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance.",
+    "fr": "Les sections , et concernant le rôle du Secrétariat du Conseil du Trésor en matière de surveillance de la conformité et de détermination des conséquences de la non-conformité ne s'appliquent pas au Bureau du vérificateur général, au Commissariat à la vie privée, au Commissariat à l'information, au Bureau du directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l'intégrité du secteur public. L'administrateur général de chacun de ces organismes est l'unique responsable de la surveillance de la conformité à la Norme dans son organisme et de la réponse aux cas de non-conformité, conformément aux instruments du Conseil du Trésor qui servent de principes et d'orientation en matière de gestion de la conformité."
+  },
+  {
+    "en": "The Web channel is an important part of the Government of Canada's commitment to multi-channel access and service delivery. The Government of Canada is committed to ensuring that a high level of Web accessibility is applied uniformly across its websites and Web applications.",
+    "fr": "Le canal Web est un élément important de l'engagement du gouvernement du Canada visant la prestation de services multimodes. Le gouvernement du Canada veille à ce qu'un haut niveau d'accessibilité des sites Web soit appliqué uniformément à l'ensemble de ses sites Web et applications Web."
+  },
+  {
+    "en": "Web technologies and standards are constantly evolving and web accessibility plays a major role in making the Government of Canada Web channel more effective and inclusive. To meet the Government of Canada commitment to Web accessibility, the Government of Canada has adopted the 2.0. The 2.0 states: \"Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. Following these guidelines will also often make your Web content more usable to users in general.\"",
+    "fr": "Les normes et les technologies du Web évoluent constamment et l'accessibilité des sites Web contribue grandement à l'efficacité et à l'efficience du canal Web au sein du gouvernement du Canada. Afin de respecter son engagement en matière d'accessibilité des sites Web, le gouvernement du Canada a adopté les 2.0. Il y est précisé ce qui suit (traduction) : « L'observation des présentes lignes directrices rendra le contenu accessible à un plus vaste éventail de personnes handicapées, y compris les personnes aveugles et à vision réduite, les personnes sourdes et ayant une perte de l'ouïe, les personnes ayant des troubles d'apprentissage, ayant des limitations cognitives, une mobilité réduite, un trouble de la parole, ou des problèmes de photosensibilité, ou une combinaison de ceux-ci. L'observation des présentes lignes directrices rendra aussi votre contenu Web plus accessible aux utilisateurs en général »."
+  },
+  {
+    "en": "This standard supports the and the management of Web presence by providing departmental Chief Information Officers ( ) or equivalents as well as heads of communications or other officials supporting the management of with additional requirements to ensure consistency in management processes.",
+    "fr": "La présente Norme appuie la et la gestion de la présence du dans le Web en précisant aux dirigeants principaux de l'information ( ) des ministères ou à leur équivalent de même qu'aux chefs des communications, ou à d'autres fonctionnaires appuyant la gestion de la , les exigences additionnelles qui permettent d'assurer la cohérence des processus de gestion de la ."
+  },
+  {
+    "en": "This standard is issued under the authority of section 7 of the by the Secretary of the Treasury Board pursuant to subsection 6(4) of the and section 3.5 of the .",
+    "fr": "La présente Norme est émise conformément à l'article 7 de la par la secrétaire du Secrétariat du Conseil du Trésor, conformément au paragraphe 6(4) de la , et l'article 3.5 de la ."
+  },
+  {
+    "en": "This standard is to be read in conjunction with the , the and the .",
+    "fr": "Il faut lire la présente Norme de concert avec la , la et la ."
+  },
+  {
+    "en": "Definitions to be used in the interpretation of this standard are attached in .",
+    "fr": "Les définitions servant à l'interprétation de la présente Norme figurent à l' ."
+  },
+  {
+    "en": "The objective of this standard is to ensure a high level of Web accessibility is applied uniformly across .",
+    "fr": "La présente Norme vise à ce qu'un haut niveau d'accessibilité des sites Web et applications Web soit appliqué uniformément à l'ensemble des ."
+  },
+  {
+    "en": "respect internationally accepted guidelines for Web accessibility and are measured consistently.",
+    "fr": "Les respectent les lignes directrices acceptées à l'échelle internationale en matière d'accessibilité des sites Web et applications Web et sont mesurés avec cohérence."
+  },
+  {
+    "en": "Ensuring each meets all five :",
+    "fr": "Veiller à ce que chaque satisfasse aux cinq , selon les conditions suivantes :"
+  },
+  {
+    "en": "A list of exclusions is attached in .",
+    "fr": "La liste des exclusions figure à l' ."
+  },
+  {
+    "en": "Overseeing the implementation of this standard in their department and carrying out the activities referred to in 7.2.",
+    "fr": "S'assurer que les logiciels et les systèmes achetés par les ministères permettent aux sites Web et applications Webde se conformer aux exigences des sections 6.1.1 ou de les modifier afin qu'ils s'y conforment."
+  },
+  {
+    "en": "Ensuring that software and systems acquired by departments enable websites and Web applications to meet the requirements of section 6.1.1 or are modifiable to enable them to meet these requirements.",
+    "fr": "Surveiller la mise en œuvre de la présente Norme dans son ministère et réaliser les activités mentionnées à la rubrique 7.2."
+  },
+  {
+    "en": "Deputy heads are responsible for monitoring adherence to this standard within their departments, consistent with the provisions of the Treasury Board's , and , and for ensuring that appropriate remedial action is taken to address any deficiencies within their departments.",
+    "fr": "Les administrateurs généraux sont chargés de veiller à ce que la présente Norme soit respectée au sein de leur ministère respectif en suivant les consignes de la et la du Conseil du Trésor. De plus, ils doivent apporter les mesures correctives qui s'imposent pour combler toute lacune au sein de leur ministère."
+  },
+  {
+    "en": "The senior departmental official, designated by the deputy head, is responsible for supporting their deputy head by overseeing the implementation and monitoring of this standard in their department, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues and developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.",
+    "fr": "Le cadre supérieur ministériel désigné par l'administrateur général doit appuyer ce dernier en supervisant la mise en œuvre et le suivi de la présente Norme au sein du ministère, en signalant à l'administrateur général les problèmes de taille, les lacunes de rendement et les questions de conformité, en élaborant des propositions visant à les corriger, et en signalant les problèmes sérieux de rendement ou de conformité à la Direction du dirigeant principal de l'information du Secrétariat du Conseil du Trésor du Canada."
+  },
+  {
+    "en": "The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:",
+    "fr": "Le Secrétariat du Conseil du Trésor du Canada surveillera la conformité à la présente Politique de diverses manières grâce, entre autres :"
+  },
+  {
+    "en": "Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted).",
+    "fr": "Le Secrétariat du Conseil du Trésor du Canada examinera la présente Norme et son degré d'efficacité cinq ans après sa mise en œuvre (ou avant cette date, au besoin)."
+  },
+  {
+    "en": "In instances of non-compliance, deputy heads are responsible for taking corrective measures, within their organization with those responsible for implementing the requirements of this standard.",
+    "fr": "En cas de non-conformité, l'administrateur général a la responsabilité de prendre des mesures correctives dans son organisation, de concert avec les personnes responsables de la mise en œuvre des exigences de la présente Norme."
+  },
+  {
+    "en": "Consequences of non-compliance with this standard can include any measure allowed by the that the Treasury Board would determine as appropriate and acceptable in the circumstances.",
+    "fr": "Les conséquences de l'inobservation de la présente Norme peuvent comprendre toute mesure qui est permise en vertu de la que le Conseil du Trésor pourrait déterminer comme étant appropriée ou acceptable, selon les circonstances."
+  },
+  {
+    "en": "Potential corrective actions, including consequences, are included in Appendix C and align with the .",
+    "fr": "Les mesures correctives possibles, y compris les conséquences, sont comprises dans l'annexe C et sont décrites dans le ."
+  },
+  {
+    "en": "Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments;",
+    "fr": "L'élaboration de normes, de lignes directrices et d'outils ainsi que la prestation de services de conseil et d'interprétation en regard de ces instruments."
+  },
+  {
+    "en": "Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government; and",
+    "fr": "La communication avec la collectivité Web dans l'ensemble du gouvernement et la mobilisation de cette collectivité relativement aux plans, progrès, risques et enjeux liés à la mise en œuvre de la présente Norme et des instruments à l'appui au gouvernement fédéral."
+  },
+  {
+    "en": "Providing support to the Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.",
+    "fr": "La prestation de soutien au Conseil des dirigeants principaux de l'information ( ) et à d'autres comités et groupes de travail, au besoin, afin d'examiner les enjeux et les possibilités du gouvernement relativement à la mise en œuvre de la présente Norme et des instruments à l'appui."
+  },
+  {
+    "en": "Publishing and maintaining the list of exclusions from specific requirements of section 6.1.1.",
+    "fr": "La publication et la mise à jour de la liste des exclusions provenant des exigences particulières de la section 6.1.1."
+  },
+  {
+    "en": "Please direct enquiries about this standard to your department's Web Standards Centre of Expertise. For interpretation of this standard, Web Standards Centres of Expertise should contact:",
+    "fr": "Veuillez transmettre toute question au sujet de la présente Norme au Centre d'expertise des normes Web de votre ministère. Les Centres d'expertise des normes Web peuvent obtenir des interprétations de la présente Norme en communiquant avec :"
+  },
+  {
+    "en": "Digital Policy Office of the Chief Information Officer Treasury Board of Canada Secretariat Ottawa ON K1A 0R5 E-mail:",
+    "fr": "Politique numérique Bureau du dirigeant principal de l’information Secrétariat du Conseil du Trésor du Canada Ottawa (Ontario) K1A 0R5 Courriel :"
+  },
+  {
+    "en": "That are public-facing (i.e., available to individuals and businesses outside of the Government of Canada);",
+    "fr": "qui s'adressent au public (c.-à-d., accessibles aux particuliers et aux entreprises de l'extérieur du gouvernement du Canada);"
+  },
+  {
+    "en": "For which the department is accountable; and",
+    "fr": "dont le ministère est responsable;"
+  },
+  {
+    "en": "That are provided through and Web applications.",
+    "fr": "publiées dans les sites et applications Web du gouvernement du Canada."
+  },
+  {
+    "en": "that the department is not accountable for;",
+    "fr": "le pour lequel le ministère n'a pas à rendre compte;"
+  },
+  {
+    "en": "that are ; and",
+    "fr": "les qui sont ."
+  },
+  {
+    "en": "Phase I (August 1, 2011 – February 29, 2012)",
+    "fr": "le ."
+  },
+  {
+    "en": "All home pages and pages referenced from website and Web application home pages.",
+    "fr": "Étape I (1 août 2011 – 29 février 2012)"
+  },
+  {
+    "en": "Significant number of Web pages that provide the most important information and services for individuals and businesses including rights and benefits.",
+    "fr": "Toutes les pages d'accueil des sites Web et les pages auxquelles on fait référence à partir des pages d'accueil des sites Web et applications Web."
+  },
+  {
+    "en": "Significant number of Web pages that are the most frequently used.",
+    "fr": "Le nombre important de pages Web qui fournissent aux particuliers et aux entreprises les renseignements et services les plus importants, y compris les droits et avantages."
+  },
+  {
+    "en": "All new Web pages published post October 1, 2011 must immediately conform",
+    "fr": "Le nombre important de pages Web qui servent le plus fréquemment."
+  },
+  {
+    "en": "Phase II (March 1, 2012 – July 31, 2012)",
+    "fr": "Toutes les nouvelles pages Web parues après le 1 octobre 2011 doivent être conformes sans délai."
+  },
+  {
+    "en": "Additional Web pages that provide the most important information and services for individuals and businesses including rights and benefits.",
+    "fr": "Étape II (1 mars 2012 – 31 juillet 2012)"
+  },
+  {
+    "en": "Additional Web pages that are the most frequently used.",
+    "fr": "Les autres pages Web qui fournissent aux particuliers et aux entreprises les renseignements et services les plus importants, y compris les droits et avantages."
+  },
+  {
+    "en": "Phase III (August 1, 2012 - July 31, 2013)",
+    "fr": "Les autres pages Web qui servent le plus fréquemment."
+  },
+  {
+    "en": "Remaining Web pages.",
+    "fr": "Étape III (1 août 2012 – 31 juillet 2013)"
+  },
+  {
+    "en": "Web content where exclusion for a period of time can be demonstrably justified; and",
+    "fr": "Les pages Web restantes."
+  },
+  {
+    "en": "Web content that is excluded by the , such as essential images of text.",
+    "fr": "le contenu Web dont l'exclusion pendant un certain temps peut être justifiée au moyen d'une attestation;"
+  },
+  {
+    "en": "defines the levels of conformance. It can only be met if the following are true:",
+    "fr": "le contenu Web qui est exclu au titre des , comme les images essentielles d'un texte/."
+  },
+  {
+    "en": "Level AA conformance is met in full.",
+    "fr": "La définit les niveaux de conformité. Elle ne peut être remplie que si ce qui suit est vrai :"
+  },
+  {
+    "en": "are avoided for all applicable .",
+    "fr": "un niveau de conformité AA est entièrement atteint;"
+  },
+  {
+    "en": "are used to meet all applicable .",
+    "fr": "les sont évités pour tous les applicables;"
+  },
+  {
+    "en": "specific to each (that is ) are used where applicable.",
+    "fr": "des sont utilisées de manière à observer tous les applicables;"
+  },
+  {
+    "en": "defines what needs to be assessed for a Web page.",
+    "fr": "des propres à chaque (dont on ) sont adoptées, le cas échéant."
+  },
+  {
+    "en": "defines what needs to be assessed for a Web page that is part of a .",
+    "fr": "La définit ce qui doit être évalué dans une page Web."
+  },
+  {
+    "en": "defines the ways of using that can be to satisfy the . It can only be met by use of the following :",
+    "fr": "La définit ce qui doit être évalué dans une page Web qui fait partie d'un ."
+  },
+  {
+    "en": "1.0 or later excluding ,",
+    "fr": "La définit les usages des sur lesquels on peut pour répondre aux . Elle ne peut être remplie qu'au moyen de l'utilisation des suivantes :"
+  },
+  {
+    "en": "4.01 excluding ,",
+    "fr": "1.0 ou version plus récente, à l'exception des ;"
+  },
+  {
+    "en": "or later excluding , or",
+    "fr": "4.01 ou version plus récente, à l'exception des ;"
+  },
+  {
+    "en": "with (specific to each ) to meet all applicable .",
+    "fr": "5 ou version plus récente, à l'exception des ;"
+  },
+  {
+    "en": "defines requirements for ways of using which are not to satisfy the .",
+    "fr": "assorties de (propres à chaque ) pour observer tous les applicables."
+  },
+  {
+    "en": "assessments under the ;",
+    "fr": "La définit les exigences pour les usages des sur lesquelles on ne peut pas pour répondre aux ."
+  },
+  {
+    "en": "examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and",
+    "fr": "aux évaluations menées aux termes du ;"
+  },
+  {
+    "en": "work performed in collaboration with departments.",
+    "fr": "aux examens des présentations au Conseil du Trésor, aux rapports ministériels sur le rendement, aux résultats des vérifications, aux évaluations et aux études;"
+  }
+]

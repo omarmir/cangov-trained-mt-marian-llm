@@ -1,0 +1,282 @@
+[
+  {
+    "en": "This document is part of the Appendix A of the .",
+    "fr": "Ce document fait partie de l’Annexe A de la ."
+  },
+  {
+    "en": "N/A",
+    "fr": "S.O."
+  },
+  {
+    "en": "This section provides further guidance on the application of section 37.1 of the .",
+    "fr": "La présente section fournit des précisions supplémentaires sur l’application de l’article 37.1 de la ."
+  },
+  {
+    "en": "The timing of when a transaction should be recorded for accrual accounting purposes (i.e. an expense) may not coincide with the charging of the transaction as an expenditure against the appropriation, since the basis of accounting is different (i.e. accrual accounting vs. expenditure basis of accounting). For the purpose of this section, the term “payable” is used to represent transactions that are to be charged against the appropriation at year-end. As a result, this section focuses on whether transactions are payables that are to be charged against appropriations at fiscal year-end. It does not cover whether transactions should be recorded in accordance with the Government’s stated accounting policies, which are based on Public Sector Accounting Standards. Liabilities, including allowances, should be recorded in the financial statements in accordance with Public Sector Accounting Standards and the Government of Canada Accounting Handbook.",
+    "fr": "Le moment choisi pour l’enregistrement d’une transaction aux fins de la comptabilité d’exercice (c.-à-d. une charge) peut ne pas coïncider avec le moment de l’imputation de la transaction comme dépense sur le crédit puisque la méthode de comptabilité est différente (c.‐à‐d. comptabilité d’exercice versus comptabilité de caisse modifiée). Aux fins de la présente section, le terme « créditeur » est utilisé pour représenter des transactions qui doivent être imputées au crédit à la fin de l’exercice. Par conséquent, la présente section vise à déterminer si la transaction représente des comptes créditeurs qui doivent être imputés sur des crédits à la fin de l’exercice. Elle ne précise pas si les transactions devraient être enregistrées conformément aux politiques comptables énoncées du gouvernement, qui sont fondées les Normes comptables pour le secteur public. Les éléments de passif, y compris les provisions, devraient être enregistrés aux états financiers conformément aux normes comptables pour le secteur public et le Manuel de comptabilité du gouvernement du Canada."
+  },
+  {
+    "en": "Appropriations represent spending authority that is approved by Parliament. In order to accurately measure the use of this authority and to demonstrate accountability for departmental spending, the appropriate recording and reporting of all payables as at year-end is essential.",
+    "fr": "Les crédits représentent l’autorisation de dépenser qui est approuvée par le Parlement. Afin de mesurer de manière précise l’utilisation de cette autorisation et de faire preuve de responsabilisation en matière de dépenses ministérielles, il est essentiel de bien enregistrer tous les comptes créditeurs en fin d’exercice et d’établir des rapports à ce sujet de façon appropriée."
+  },
+  {
+    "en": "Payables resulting in a charge against an appropriation are certified in accordance with section 33 of the FAA, following certification pursuant to section 34 of the FAA by individuals who are responsible for the performance of account verification and who have delegated financial signing authority.",
+    "fr": "Les comptes créditeurs qui donnent lieu à une imputation sur un crédit sont certifiés conformément à l’article 33 de la LGFP, suivant la certification en vertu de l’article 34 de la LGFP par des personnes chargées de l’exécution de la vérification des comptes et qui possèdent le pouvoir de signer des documents financiers."
+  },
+  {
+    "en": "Payables can be determined and recorded on an individual basis, or by group or class of recipients when practical and economical to do so.",
+    "fr": "Les comptes créditeurs peuvent être déterminés et enregistrés sur une base individuelle, par groupe ou par catégorie de bénéficiaires, lorsqu’il est pratique et économique de le faire."
+  },
+  {
+    "en": "When the exact value of the payable cannot be determined, an estimate is used to record the amount of the payable, provided that a reasonably accurate value can be assigned. An audit trail allowing verification of the reasonableness of the estimate is to be kept.",
+    "fr": "Lorsqu’il est impossible de déterminer la valeur exacte du compte créditeur, une estimation est utilisée pour enregistrer le montant d’un compte créditeur, à condition qu’une valeur raisonnablement précise puisse y être attribuée. Il importe de maintenir une piste de vérification qui permet de vérifier le caractère raisonnable de l’estimation."
+  },
+  {
+    "en": "Payables are to be charged to the appropriation if the following conditions are met at March 31:",
+    "fr": "Les comptes créditeurs sont imputés au crédit si les conditions suivantes sont respectées au 31 mars :"
+  },
+  {
+    "en": "in the case of debt incurred for work, the work has been satisfactorily performed whether or not the amount of the debt is due;",
+    "fr": "dans le cas d’une dette contractée pour des travaux, que les travaux ont été réalisés de manière satisfaisante, peu importe si le montant de la dette est exigible ou non;"
+  },
+  {
+    "en": "in the case of debt incurred for goods, the goods have been satisfactorily received and ownership is obtained whether or not the amount of the debt is due;",
+    "fr": "dans le cas d’une dette contractée pour des biens, que les biens ont bien été reçus et que la propriété est obtenue, peu importe si le montant de la dette est exigible ou non;"
+  },
+  {
+    "en": "in the case of debt incurred for services, the services have been satisfactorily rendered whether or not the amount of the debt is due;",
+    "fr": "dans le cas d’une dette contractée pour des services, que les services ont été rendus de manière satisfaisante, peu importe si le montant de la dette est exigible ou non;"
+  },
+  {
+    "en": "in the case of an amount payable between federal organizations, it is subject to conditions listed above as if it is a debt;",
+    "fr": "dans le cas d’un montant payable entre organismes fédéraux, il est assujetti aux conditions qui précèdent comme s’il s’agissait d’une dette;"
+  },
+  {
+    "en": "in the case of a debt resulting from a transfer payment, the amount is due; that is, the Government’s obligation to make a transfer payment and/or the entitlement of the recipient to receive a transfer payment has been established;",
+    "fr": "dans le cas d’une dette qui résulte d’un paiement de transfert, le montant est exigible, c’est-à-dire que l’obligation du gouvernement d’effectuer un paiement de transfert et/ou que le droit du bénéficiaire de recevoir un paiement de transfert a été établi;"
+  },
+  {
+    "en": "in all other cases, the amount of the debt is due and owed according to a contractual agreement or other legally binding agreement or memorandum of understanding; and,",
+    "fr": "dans tous les autres cas, le montant de la dette est exigible en application d’un accord contractuel ou autre entente exécutoire ou protocole d’entente; et,"
+  },
+  {
+    "en": "in all cases, the amount of the debt should be substantiated (i.e. is auditable) and valued.",
+    "fr": "dans tous les cas, le montant de la dette doit être justifié (c.-à-d. est vérifiable) et estimée."
+  },
+  {
+    "en": "The value of work performed and services rendered is determined on the basis of performance up to year-end and on billings or estimates of the debt owing for the related performance.",
+    "fr": "La valeur des travaux effectués et des services rendus est déterminée en fonction de leur exécution jusqu’à la fin de l’exercice ainsi que des facturations ou estimations de la dette exigible relié à l’exécution de ces travaux/services."
+  },
+  {
+    "en": "A payable is recorded and charged to the appropriation when:",
+    "fr": "Un compte créditeur est enregistré et imputé au crédit dans les cas où :"
+  },
+  {
+    "en": "there is a binding purchase agreement at year-end;",
+    "fr": "il existe un accord d’achat exécutoire à la fin de l’exercice;"
+  },
+  {
+    "en": "all required approvals have been obtained; and,",
+    "fr": "toutes les approbations requises ont été obtenues; et"
+  },
+  {
+    "en": "title to the property has been obtained or, under exceptional circumstances, title has not been obtained but the Crown has effective use and control over the real property.",
+    "fr": "le titre de propriété a été obtenu ou, dans des circonstances exceptionnelles, le titre n’a pas été obtenu mais que la Couronne bénéficie de l’utilisation et du contrôle efficaces du bien immobilier."
+  },
+  {
+    "en": "Salaries and wages owed at year-end, such as regular salaries, overtime, unused compensatory leave, extra duty, shift work, and performance management pay for work performed as at year-end, or unused vacation leave in excess of carry-over provisions stipulated in collective agreements, are recorded as payables and charged to the relevant appropriation.",
+    "fr": "Les salaires et traitements exigibles à la fin de l’exercice, par exemple les salaires réguliers, le temps supplémentaire, le temps compensatoire non utilisé, les services supplémentaires, le travail par quarts, la rémunération au rendement pour le travail effectué à la fin de l’exercice, et les congés annuels non utilisés qui excèdent les dispositions sur les reports maximaux des conventions collectives, sont enregistrés en tant que comptes créditeurs et imputés au crédit pertinent."
+  },
+  {
+    "en": "Payables owed to employees for severance pay or other separation entitlements are charged to the relevant appropriation when they become due and owing to the employee. The circumstances and related terms and conditions for each type of entitlement (e.g. severance pay, education allowance, transitional support measure) must be assessed individually in order to determine when the amount becomes due and owing to the employee.",
+    "fr": "Les comptes créditeurs payables aux employés en guise d’indemnité de départ ou d’autres versements de fin d’emploi sont imputés au crédit pertinent lorsqu’ils deviennent exigibles à l’employé. Les circonstances et modalités connexes pour chaque type de versements (p. ex. indemnité de départ, indemnité d’études, mesure de soutien à la transition) doivent être évaluées au cas par cas afin de déterminer à quel moment les montants deviennent payables à l’employé."
+  },
+  {
+    "en": "Unpaid amounts for employees seconded or transferred are recorded as payables and charged to the appropriation.",
+    "fr": "Les montants non payés pour les employés en détachement ou en mutation sont enregistrés en tant que comptes créditeurs et imputés au crédit."
+  },
+  {
+    "en": "Retroactive wage and salary settlements owed are recorded as payables and charged to the appropriation when salary agreements have been ratified and signed on or before March 31.",
+    "fr": "Les règlements salariaux rétroactifs sont enregistrés en tant que comptes créditeurs et imputés au crédit lorsque les ententes salariales ont été ratifiées et signées le 31 mars au plus tard."
+  },
+  {
+    "en": "Payables for advance payments that are due on or before year-end are recorded and charged to the appropriation if they meet the requirements described in the Directive on Payments.",
+    "fr": "Les comptes créditeurs pour les paiements anticipés qui sont exigibles à la fin de l’exercice sont enregistrés et imputés au crédit s’ils satisfont aux exigences énoncées dans la Directive sur les paiements."
+  },
+  {
+    "en": "Payables for which there is a holdback of payment for work performed, service rendered or goods received are recorded and charged to the appropriation for both the net amount due and the holdback at year-end. Payables relating to holdbacks on transfer payments are recorded and charged to the appropriation only when the amounts of holdbacks are due and owing at year-end.",
+    "fr": "Les comptes créditeurs pour lesquels il y une retenue de garantie relativement à des travaux exécutés, des services rendus ou des biens reçus sont enregistrés et imputés au crédit en fin d’exercice à la fois pour le montant net exigible et la retenue. Les comptes créditeurs se rapportant à des retenues relatives à des paiements de transfert ne sont enregistrés et imputés au crédit que lorsque les montants des retenues sont exigibles en fin d’exercice."
+  },
+  {
+    "en": "Payables for loans are recorded and charged to the appropriation if, in accordance with the loan agreement, the conditions for payment are met by year-end.",
+    "fr": "Les comptes créditeurs pour les prêts sont enregistrés et imputés au crédit si, conformément à l’entente de prêt, les modalités de paiement sont satisfaites en fin d’exercice."
+  },
+  {
+    "en": "Payables for transfer payments should be charged against the appropriation as long as:",
+    "fr": "Les comptes créditeurs pour les paiements de transfert devraient être imputés au crédit dans la mesure où :"
+  },
+  {
+    "en": "the transfer payment is authorized;",
+    "fr": "le paiement de transfert est autorisé;"
+  },
+  {
+    "en": "all eligibility criteria have been met by the recipient;",
+    "fr": "tous les critères d’admissibilité ont été satisfaits par le bénéficiaire;"
+  },
+  {
+    "en": "a funding agreement has been signed by both parties, when an agreement is required by the program; and,",
+    "fr": "un accord de financement a été signé par les deux parties, lorsqu’un accord est exigé par le programme; et"
+  },
+  {
+    "en": "the Government’s obligation to make the payment and/or the entitlement of the recipient to receive the payment has been established at year-end.",
+    "fr": "l’obligation du gouvernement de verser le paiement et/ou le droit du bénéficiaire de recevoir le paiement a été établi en fin d’exercice."
+  },
+  {
+    "en": "The Government’s obligation or recipient’s entitlement is established at year-end only when:",
+    "fr": "L’obligation du gouvernement ou le droit du bénéficiaire n’est établi en fin d’exercice que dans les cas suivants :"
+  },
+  {
+    "en": "Grants",
+    "fr": "Subventions"
+  },
+  {
+    "en": "the grant payment is due and owing at year-end;",
+    "fr": "la subvention est devenue exigible en fin d’exercice;"
+  },
+  {
+    "en": "a commitment to payment has been made and approved by a designated authorized person pursuant to section 34 of the FAA.",
+    "fr": "un engagement de paiement a été fait et approuvé par une personne autorisée désignée en vertu de l’article 34 de la LGFP."
+  },
+  {
+    "en": "Contributions",
+    "fr": "Contributions"
+  },
+  {
+    "en": "for a shared cost reimbursement arrangement, the amount represents eligible expenses incurred by the recipient up to year-end and is determined by reference to a payment claim or based on an estimate with supporting documentation submitted by the recipient;",
+    "fr": "pour un accord de remboursement de partage des frais, le montant représente des charges admissibles engagées par le bénéficiaire jusqu’à la fin de l’exercice et est déterminé en se basant sur la demande de paiement ou en fonction d’une estimation accompagnée de documents à l’appui présentée par le bénéficiaire;"
+  },
+  {
+    "en": "for a shared cost financing arrangement, all the conditions for payment are met and the amount is due and owing by year-end pursuant to the funding arrangement;",
+    "fr": "pour un accord de financement de partage des frais, toutes les conditions de paiement sont satisfaites et le montant est exigible en fin d’exercice conformément à l’entente de financement;"
+  },
+  {
+    "en": "for all other cases, a claim for payment has to be received by the department to establish entitlement by the recipient by year-end. If, in exceptional circumstances, an advance payment has to be made, such condition is to be included in the funding arrangement.",
+    "fr": "pour tous les autres cas, une demande de paiement doit être reçue par le ministère afin d’établir l’admissibilité du bénéficiaire en fin d’exercice. Si, dans des circonstances exceptionnelles, un paiement anticipé doit être effectué, cette condition doit être incluse dans l’entente de financement."
+  },
+  {
+    "en": "Payables are not recorded at year-end for entitlements of certain continuing benefit programs (e.g. Old Age Security and Employment Insurance benefits) since such payments remain valid only on a month-to-month basis. However, payables must be recorded for eligible retroactive payments that have been verified and quantified for the portion up to year-end or for the amounts already owed to eligible individuals but not yet paid at year-end.",
+    "fr": "Les comptes créditeurs ne sont pas enregistrés à la fin de l’exercice relativement à l’admissibilité de certains programmes de prestations continues (p. ex. Sécurité de la vieillesse et assurance-emploi) puisque de tels paiements demeurent valides seulement sur une base mensuelle. Toutefois, les comptes créditeurs doivent être enregistrés pour les paiements rétroactifs admissibles qui ont été vérifiés et quantifiés pour la partie allant jusqu’à la fin de l’exercice ou pour les montants déjà exigibles aux personnes admissibles, mais pas encore versés à la fin de l’exercice."
+  },
+  {
+    "en": "In certain cases where an accrued allowance or liability has been recorded, such as for a series of payments in an up-front multi-year funding agreement, the previously accrued amount should be reduced by the amount payable recorded at March 31.",
+    "fr": "Dans certains cas, lorsqu’une provision ou un passif à payer a été enregistré, par exemple pour une série de paiements dans le cadre d’une entente de financement pluriannuel initial, le montant de la provision précédemment mentionné devrait être réduit par le montant exigible au 31 mars."
+  },
+  {
+    "en": "Where a department provides financing to a Crown corporation through a drawdown of funds from an appropriation, the department is responsible for recording amounts payable to the Crown Corporation. However, when responsibility and signing authority to draw from the Consolidated Revenue Fund have been delegated to the corporation, the department must require a designated officer of the corporation to be responsible for recording payables and charges against appropriations according to this section.",
+    "fr": "Dans le cas où un ministère finance une société d’État au moyen d’un prélèvement de fonds sur un crédit, il incombe au ministère d’enregistrer les montants payables à la société d’État. Toutefois, lorsque la responsabilité et le pouvoir de signature liés au prélèvement de fonds sur le Trésor ont été délégués à la société, le ministère doit exiger qu’un agent désigné de la société soit responsable de l’enregistrement des comptes créditeurs ainsi que des charges imputables sur le crédit conformément à cette directive."
+  },
+  {
+    "en": "The following amounts are recorded as payables, provided that all the requirements in the Directive on Public Money and Receivables are met:",
+    "fr": "Les montants suivants sont enregistrés en tant que comptes créditeurs à condition que toutes les exigences de la Directive sur les fonds et les comptes débiteurs soient remplies :"
+  },
+  {
+    "en": "amounts payable to a Crown corporation as at year-end by the Government of Canada in accordance with the terms of a contribution arrangement;",
+    "fr": "les montants payables à une société d’État à la fin de l’exercice par le gouvernement du Canada conformément aux modalités d’un accord de contribution;"
+  },
+  {
+    "en": "amounts payable to a Crown corporation as at year-end by the Government of Canada under the provisions of a vote which specifically provides for the reimbursement of expenses or costs incurred by the corporation and,",
+    "fr": "les montants payables à une société d’État à la fin de l’exercice par le gouvernement du Canada en vertu des dispositions d’un crédit qui prévoit spécifiquement le remboursement de charges ou de coûts engagés par la société; et"
+  },
+  {
+    "en": "amounts owing to a Crown corporation as at year-end by the Government of Canada in respect of program, operating or capital expenses incurred by the corporation as at year-end.",
+    "fr": "les montants payables à une société d’État à la fin de l’exercice par le gouvernement du Canada relativement aux charges de programmes, de fonctionnement ou en capital engagés par la société à la fin de l’exercice."
+  },
+  {
+    "en": "A payable is not charged against the appropriation for an ex gratia payment unless the deputy head or his/her delegate has formally approved such payment through section 34 of the FAA and the economic event, if applicable, occurred before year-end.",
+    "fr": "Un compte créditeur n’est pas imputé au crédit pour un paiement à titre gracieux sauf si l’administrateur général ou son délégué a formellement approuvé un tel paiement en vertu de l’article 34 de la LGFP et que la transaction financière, le cas échéant, a eu lieu avant la fin de l’exercice."
+  },
+  {
+    "en": "Payables are only charged against an appropriation if all required authorizations as specified in the Directive on Payments have been obtained before year-end.",
+    "fr": "Les comptes créditeurs ne sont imputés à un crédit que si toutes les autorisations requises, telles que précisées dans la Directive sur les paiements, ont été obtenues avant la fin de l’exercice."
+  },
+  {
+    "en": "Payables are charged against the specified purpose accounts when appropriate.",
+    "fr": "Les comptes créditeurs sont imputés aux comptes à fins déterminées, le cas échéant."
+  },
+  {
+    "en": "Goods and Services Tax (GST) and Harmonized Sales Tax (HST) amounts are to be recorded in the GST-HST Refundable Advance Account when payables are recorded against an appropriation. Similarly, the amount of Quebec Sales Tax (QST), if applicable, is to be recorded in the QST Refundable Advance Account when payables are recorded against an appropriation.",
+    "fr": "Le montant de la taxe sur les produits et services (TPS) et de la taxe de vente harmonisée (TVH) doit être enregistré dans le Compte des avances remboursables de la TPS/TVH lorsque les comptes créditeurs sont imputés à un crédit. De façon semblable, le montant de la taxe de vente du Québec (TVQ), le cas échéant, doit être enregistré dans le Compte des avances remboursables de la TVQ lorsque les comptes créditeurs sont imputés à un crédit."
+  },
+  {
+    "en": "Payables incurred up to and including March 31 that exceed the lesser of $5,000 or one-half of one percent of the appropriation authority are charged to existing voted or statutory appropriations and recorded in the appropriate payable account as described in the Government-wide Chart of Accounts for Canada.",
+    "fr": "Les comptes créditeurs engagés jusqu’au 31 mars inclusivement, qui dépassent le montant le moins élevé entre 5 000 $ et un demi d’un pour cent du total du crédit ministériel, sont imputés aux crédits annuels ou législatifs et enregistrés dans le compte créditeur approprié tel que décrit dans le Plan comptable à l’échelle de l’administration fédérale."
+  },
+  {
+    "en": "A lower materiality limit, other than that referenced in paragraph 20.1 above, may be established as appropriate by departments.",
+    "fr": "Un seuil d’importance relative inférieur, autre que celui dont il est fait mention au paragraphe 20.1 ci-dessus, peut être établi, le cas échéant, par les ministères."
+  },
+  {
+    "en": "Payables recorded during the fiscal year or at year-end are either cleared following settlement or revalued before the close of the subsequent accounting period.",
+    "fr": "Les comptes créditeurs enregistrés au cours de l’exercice ou à la fin de l’exercice sont soit débités après le règlement ou évalués de nouveau avant la fin de la période comptable subséquente."
+  },
+  {
+    "en": "When the amount paid to settle a payable is less than the amount of the recorded payable, the excess is applied, as needed, against another debt that was underestimated or for which no payable was recorded, provided that both debts were chargeable to the same appropriation. This means that:",
+    "fr": "Lorsque le montant payé pour régler un compte créditeur est inférieur au montant du compte créditeur enregistré, l’excédent est appliqué, au besoin, contre une autre dette qui avait été sous-estimée ou pour laquelle aucun compte créditeur n’a été enregistré, pourvu que les deux dettes soient imputables au même crédit. Cela signifie que :"
+  },
+  {
+    "en": "for voted appropriations, the appropriation was given for the same fiscal year; and,",
+    "fr": "pour les crédits annuels, le crédit a été accordé pour le même exercice, et"
+  },
+  {
+    "en": "all other authorities, such as those related to grants, are respected.",
+    "fr": "toutes les autres autorisations, comme celles liées aux subventions, sont respectées."
+  },
+  {
+    "en": "When the total of all settlements is less than the recorded payable, any remaining balance is to be credited to current year non-tax, non-respendable revenue, rather than the current year appropriation.",
+    "fr": "Lorsque le montant total de tous les règlements est inférieur au compte créditeur enregistré, tout solde restant doit être crédité aux revenus non fiscaux, non disponibles de l’exercice en cours, plutôt qu’aux crédits de l’exercice en cours."
+  },
+  {
+    "en": "When the total of all settlements exceeds the recorded payable, the excess is to be charged to the new fiscal year appropriation.",
+    "fr": "Lorsque le montant total de tous les règlements dépasse le compte créditeur enregistré, l’excédent doit être imputé au crédit du nouvel exercice."
+  },
+  {
+    "en": "Settlement of payables recorded during the year or at year-end, is treated in one of two methods:",
+    "fr": "Le règlement des comptes créditeurs, enregistré au cours de l’exercice ou à la fin de l’exercice, est traité de l’une de deux façons :"
+  },
+  {
+    "en": "payments may be cleared against the payable account in which the payable was originally recorded; or",
+    "fr": "les paiements peuvent être débités du compte créditeur établi à l’origine; ou"
+  },
+  {
+    "en": "the balance of recorded payables may be reversed against the new fiscal year’s appropriation and payments charged to the appropriation.",
+    "fr": "le solde des comptes créditeurs enregistrés peut être reporté sur le crédit de l’exercice suivant et les paiements imputés au crédit."
+  },
+  {
+    "en": "Payables to outside organizations or individuals remain recorded until settled or for as long as the debts exist. Therefore, they are to be carried forward from fiscal year to fiscal year until they cease to exist.",
+    "fr": "Les dettes envers des tiers demeurent enregistrées jusqu’à ce qu’elles soient réglées ou jusqu’à leur extinction. Par conséquent, elles doivent être reportées d’un exercice à l’autre jusqu’à ce qu’elles soient réglées."
+  },
+  {
+    "en": "Payables to other government departments and Crown corporations are reversed based on mutual agreement.",
+    "fr": "Les montants à payer à d’autres ministères et sociétés d’État sont renversés selon une entente réciproque."
+  },
+  {
+    "en": "Recorded amounts that cease to be payables are cleared from the accounts before the end of the fiscal year in which they cease to be debts. If this circumstance arises and relates to a payable set up in the current year, it should be credited to the original appropriation. Should the payable stem from a previous fiscal year, it is to be credited:",
+    "fr": "Les montants enregistrés qui cessent d’être des comptes créditeurs sont retirés des comptes avant la fin de l’exercice au cours duquel ils cessent d’être des dettes. Si cette circonstance survient et se rapporte à un compte créditeur créé pendant l’exercice en cours, le montant doit être crédité au crédit d’origine. Si le compte créditeur a été créé au cours d’un exercice précédent, il doit être crédité :"
+  },
+  {
+    "en": "to the other revenue authority code (Adjustments of Previous Years Accounts Payable (PAYE)) as specified in the Government-wide Chart of Accounts for Canada for amounts charged to lapsing or expired appropriations;",
+    "fr": "au code d’autorisation de revenus (ajustements des créditeurs à la fin de l’exercice précédents (CAFE)) tel que précisé dans le Plan comptable à l’échelle de l’administration fédérale pour les montants imputés aux crédits annuels ou échus;"
+  },
+  {
+    "en": "to a revolving fund if the amount was originally charged against a revolving fund authority; or",
+    "fr": "à un fonds renouvelable si le montant avait initialement été imputé à une autorisation relative à un fonds renouvelable;"
+  },
+  {
+    "en": "to the statutory authority against which the original debt was charged.",
+    "fr": "à l’autorisation législative à laquelle la dette d’origine a été imputée."
+  },
+  {
+    "en": "Only receivables resulting from recoveries and revenue transactions with other government departments are credited to an appropriation at year-end.",
+    "fr": "Seules les créances provenant de recouvrements et de transactions de revenus avec d’autres ministères gouvernementaux sont imputées à un crédit à la fin de l’exercice."
+  }
+]

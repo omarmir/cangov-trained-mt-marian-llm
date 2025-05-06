@@ -1,0 +1,210 @@
+[
+  {
+    "en": "The purpose of this standard is to define the numeric format for calendar dates for the purpose of interchange of machine-readable data between departments and agencies.",
+    "fr": "L'objectif de cette norme est de définir la structure numérique de présentation des dates civiles aux fins d'échange de données sur des supports exploitables par une machine entre les divers ministères et organismes du gouvernement."
+  },
+  {
+    "en": "The term \"Gregorian Date\", as frequently used in Electronic Data Processing parlance, is the equivalent of the term \"Calendar Date\" as used in this document, i.e. date format consisting of three numeric fields to represent year, month and day of month respectively.",
+    "fr": "L'expression 'date grégorienne' d'usage courant dans les milieux informatique, a été remplacée, aux fins de rédaction du présent document, par l'expression équivalente 'date civile', qui sert à désigner la représentation familière d'une date sous forme de trois nombres, identifiant respectivement l'année, le mois et le jour du mois."
+  },
+  {
+    "en": "The term \"Julian Date\", also frequently used in parlance, is the equivalent of the term \"Ordinal Date\" as used in this document, i.e. date format consisting of two numeric fields, often conjoined, to represent year and sequential day within the year commencing with 001 for January 1st.",
+    "fr": "L'espression 'date julienne' également d'usage courant en informatique, a été remplacée, aux fins de rédaction de la présente norme, par l'expression équivalente 'date ordinale', qui sert à désigner la représentation d'une date sous forme de deux nombres (souvent réunis en un seul), identifiant respectivement l'année et le jour de l'année, celui-ci correspondant au numéro d'ordre du jour dans l'année en commençant par 001 pour le 1er janvier."
+  },
+  {
+    "en": "This standard shall apply when describing either calendar or ordinal dates in an all-numeric form for interchange of machine-readable data between departments and agencies.",
+    "fr": "Cette norme s'appliquera lorsqu'on décrira soit la date civile, soit la date ordinale, dans une présentation entièrement numérique aux fins d'échange de données sur des supports exploitables par une machine entre les divers ministères et organismes du gouvernement."
+  },
+  {
+    "en": "An all-numeric date consists of the following data elements from left to right:",
+    "fr": "Une date entièrement numérique doit comporter les éléments d'information suivants, disposés de gauche à droite :"
+  },
+  {
+    "en": "Arabic numerals from set 0, 1, 2, ... 9 are used.",
+    "fr": "On doit utiliser les chiffres arabes, tirés de la série de caractères 0, 1, 2, ... 9."
+  },
+  {
+    "en": "4.3.1 A calendar date consists of three elements:",
+    "fr": "4.3.1 Une date civile comporte trois éléments :"
+  },
+  {
+    "en": "4.3.2 An ordinal date consists of two elements:",
+    "fr": "4.3.2 Une date ordinale comporte deux éléments :"
+  },
+  {
+    "en": "For person-to-machine (input) or machine-to-person (output) purposes, as well as for person-to-person purposes, the calendar date may be edited by the inclusion of either of the separators space or hyphen to partition the elements, e.g.:",
+    "fr": "Aux fins de l'échange d'informations entre l'homme et la machine (entrée des données et sortie des résultats), aussi bien qu'aux fins d'échange d'informations d'homme à homme, la date civile devra être disposée avec des séparateurs, du type espace ou trait d'union, pour diviser chacun des éléments; ainsi, par exemple, on écrira la date du 1er juillet 1975 sous sa forme entièrement numérique :"
+  },
+  {
+    "en": "but the internal machine representation does not include separators.",
+    "fr": "Toutefois, la représentation interne dans la mémoire d'une machine ne comportera aucun séparateur."
+  },
+  {
+    "en": "The permitted period for conformance to this standard shall not exceed six months subsequent to its publication date.",
+    "fr": "La période allouée pour se conformer aux exigences de cette norme ne devra pas dépasser six mois après la date de sa publication."
+  },
+  {
+    "en": "Copies of the technical specification may be obtained as follows:",
+    "fr": "Pour obtenir les spécifications techniques, procéder comme suit :"
+  },
+  {
+    "en": "FIPS PUB 4-1,",
+    "fr": "FIPS PUB 4-1,"
+  },
+  {
+    "en": "Representation for calendar date and ordinal date for information interchange",
+    "fr": "Representation for calendar date and ordinal date for information interchange National Technical Information Service U.S. Department of Commerce ATTN: Sales Office, Sills Building 5285 Port Royal Road Springfield, VA 22161 U.S.A. Téléphone : (703) 487-4650 Télécopieur : (703) 321-8547"
+  },
+  {
+    "en": "National Technical Information Service U.S. Department of Commerce ATTN: Sales Office, Sills Building 5285 Port Royal Road Springfield, VA 22161 U.S.A. Telephone: (703) 487-4650 Facsimile: (703) 321-8547 ISO 8601:1988,",
+    "fr": "ISO 8601 : 1988,"
+  },
+  {
+    "en": "Data elements and interchange format - Information interchange - Representation of dates and times",
+    "fr": "Éléments de données et formats d'échange - Échange d'information"
+  },
+  {
+    "en": "CAN/CSA-Z243.4-89, All-numeric date and time Canadian Standards Association 178 Rexdale Blvd. Etobicoke, Ontario M9W 1R3 Telephone: (416) 747-4044 Facsimile: (416) 747-247",
+    "fr": "CAN/CSA-Z243.4-89, Représentation numérique de la date et de l'heure Association canadienne de normalisation 178, boul. Rexdale Etobicoke (Ontario) M9W 1R3 Téléphone : (416) 747-4044 Télécopieur : (416) 747-2475"
+  },
+  {
+    "en": "All-numeric representation of dates and times",
+    "fr": "Représentation numérique de la date et de l'heure"
+  },
+  {
+    "en": "-36",
+    "fr": "-36"
+  },
+  {
+    "en": "Standard",
+    "fr": "Norme"
+  },
+  {
+    "en": "Immediately Upon Publication",
+    "fr": "Prend effet dès la publication"
+  },
+  {
+    "en": "Updated per Information Technology Guidelines – Part 2",
+    "fr": "Mise à jour conformément à la partie 2 des lignes directrices sur les technologies de l'information"
+  },
+  {
+    "en": "Endorsement (Dec. 18, 1997)",
+    "fr": "Approbation du (le 18 décembre, 1997)"
+  },
+  {
+    "en": "Infrastructure Investment Management",
+    "fr": "Gestion des investissements dans les infrastructures"
+  },
+  {
+    "en": "Treasury Board Secretariat",
+    "fr": "Secrétariat du Conseil du Trésor"
+  },
+  {
+    "en": "4-1, Representation for calendar date and ordinal date for information interchange",
+    "fr": "4-1, Representation for calendar date and ordinal date for information interchange"
+  },
+  {
+    "en": "8601:1988, Data elements and interchange formats - Information interchange - Representation of dates and times",
+    "fr": "-8601 : 1988, Éléments de données et formats d'échange - Échange d'information - Représentation de la date et de l'heure"
+  },
+  {
+    "en": "CAN/ -Z243.4-89, All-numeric date and time",
+    "fr": "CAN/ -Z234.4-89, Représentation numérique de la date et de l'heure"
+  },
+  {
+    "en": "X3.30-1985 (R1991) - for information systems - Representation for calendar date and ordinal date for information interchange",
+    "fr": "X3.30-1985 (R1991) - for information systems - Representation for calendar date and ordinal date for information interchange"
+  },
+  {
+    "en": "-2/A-1977-04-01 is replaced by this publication",
+    "fr": "Le présent bulletin remplace le bulletin GES/NGI-2/A-1977-04-01."
+  },
+  {
+    "en": "(Calendar) year-month-day",
+    "fr": "(date civile) année-mois-jour"
+  },
+  {
+    "en": "(Ordinal) year-day of year",
+    "fr": "(date ordinale) année-jour de l'année"
+  },
+  {
+    "en": "four digits to represent \"year\"",
+    "fr": "quatre chiffres pour représenter « l'année »"
+  },
+  {
+    "en": "two digits to represent \"month\"",
+    "fr": "deux chiffres pour représenter « le mois »"
+  },
+  {
+    "en": "two digits to represent \"day\"",
+    "fr": "deux chiffres pour représenter « le jour »"
+  },
+  {
+    "en": "four digits to represent \"year\"",
+    "fr": "quartre pour représenter « l'année »"
+  },
+  {
+    "en": "three digits to represent \"day of the year\"",
+    "fr": "trois chiffres pour représenter « le jour de l'année »"
+  },
+  {
+    "en": "1975 07 01 (space separators)",
+    "fr": "(soit avec des espaces) 1975 07 01"
+  },
+  {
+    "en": "1975-07-01 (hyphen separators)",
+    "fr": "(soit avec des traits d'union) 1975-07-01"
+  },
+  {
+    "en": "G.E. Henderson (Chairman)",
+    "fr": "G.E. Henderson (Président)"
+  },
+  {
+    "en": "B. Laidlaw",
+    "fr": "B. Laidlaw"
+  },
+  {
+    "en": "G. Beauséjour",
+    "fr": "G. Beauséjour"
+  },
+  {
+    "en": "R.E. Blasius",
+    "fr": "R.E. Blasius"
+  },
+  {
+    "en": "N.D. Brewer",
+    "fr": "N.D. Brewer"
+  },
+  {
+    "en": "D.S. Brooks",
+    "fr": "D.S. Brooks"
+  },
+  {
+    "en": "D.M. Brown",
+    "fr": "D.M. Brown"
+  },
+  {
+    "en": "A.B. Donaldson",
+    "fr": "A.B. Donaldson"
+  },
+  {
+    "en": "J.A. Guminski",
+    "fr": "J.A. Guminski"
+  },
+  {
+    "en": "T.J. Jones",
+    "fr": "T.J. Jones"
+  },
+  {
+    "en": "P. McLellan",
+    "fr": "P. McLellan"
+  },
+  {
+    "en": "S. Poretski",
+    "fr": "S. Poretski"
+  },
+  {
+    "en": "J.M. Selman",
+    "fr": "J.M. Selman"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "en": "Under the , when Treasury Board approval is required for either project approval ( ) or expenditure authority ( ), including amendments to a or an decision, a project brief must be appended to the Treasury Board submission. For guidance on or and the Treasury Board submission process, please refer to the .",
+    "fr": "Aux termes de la quand le Conseil du Trésor doit donner son approbation de projet ( ) ou son autorisation de dépenser ( ), y compris des modifications à une décision d’ ou d’ , un énoncé de projet doit être joint à la présentation au Conseil du Trésor . Pour obtenir des lignes directrices sur l’ ou l’ et le processus de présentation au Conseil du Trésor, veuillez consulter"
+  },
+  {
+    "en": "A project brief ensures that Treasury Board ministers or the department's approval authority have a thorough understanding of the proposed initiative by providing additional detail and/or context not in the Treasury Board submission. The project brief is an iterative document that progressively reflects the state of the project with each update and shows the relationship between the project, government priorities, departmental priorities, and long-term strategic planning objectives and outcomes.",
+    "fr": "Un énoncé de projet fait en sorte que les ministres du Conseil du Trésor ou les personnes qui détiennent le pouvoir d’approbation au ministère ont une compréhension approfondie de l’initiative proposée en fournissant des renseignements additionnels et (ou) un contexte qui n’est pas exposé dans la présentation au Conseil du Trésor. L’énoncé de projet est un document évolutif qui reflète progressivement l’état du projet en faisant état de chaque mise à jour et illustre le lien entre le projet, les priorités du gouvernement, les priorités du ministère, ainsi que les objectifs et les résultats en matière de planification stratégique à long terme."
+  },
+  {
+    "en": "In accordance with the , a project brief is to be supported by a business case, project charter and project management plan. The project brief contains a synopsis of the key components of these core project documents and provides a concise but complete description of the scope of the project, permitting the Treasury Board submission to be as succinct as possible.",
+    "fr": "Conformément à la , un énoncé de projet est appuyé par une analyse de rentabilisation, une charte de projet et un plan de gestion du projet. L’énoncé de projet résume les éléments clés des documents de base du projet et décrit de manière à la fois brève et complète la portée du projet, ce qui permet de produire la présentation au Conseil du Trésor la plus brève possible."
+  },
+  {
+    "en": "Departments are encouraged to update their core project documents, and subsequently their project brief, at regular and meaningful intervals throughout the life-cycle of the project . Although these intervals could coincide with Treasury Board decisions, the timing of Treasury Board submissions should not be the determining factor for ensuring that current information is available to decision makers. Each time the project brief is submitted to the Treasury Board, reconciliation with the previous Treasury Board decision should be apparent in the project brief.",
+    "fr": "Les ministères sont invités à mettre à jour ces documents de base, puis leur énoncé de projet à intervalles réguliers et importants pendant le cycle de vie du projet . Ces intervalles pourraient coïncider avec les décisions du Conseil du Trésor; cependant, le choix du moment des présentations au Conseil du Trésor ne devrait pas constituer le facteur déterminant pour veiller à ce que des renseignements à jour soient mis à la disposition des décideurs. Chaque fois que l’énoncé de projet est présenté au Conseil du Trésor, un rapprochement avec la décision précédente du Conseil du Trésor devrait être apparent dans l’énoncé de projet."
+  },
+  {
+    "en": "Appendix B of the lists the required content of a project brief. The Guide to a Project Brief has been designed to provide guidance on the level and type of information required in a project brief by the policy. The Guide aligns with those requirements and includes additional guidance in the form of headings, examples and descriptions. The structure of the Guide to a Project Brief follows that of Appendix B and is intended to ensure the completeness of the required content. Excerpts from Appendix B are included throughout the Guide.",
+    "fr": "L’annexe B de la énumère le contenu requis d’un énoncé de projet. Le Guide de présentation des énoncés de projet a été conçu pour exposer des lignes directrices sur le niveau et le type de renseignements requis dans un énoncé de projet par la politique. Le Guide s’harmonise à ces exigences et comprend d’autres indications sous forme d’en-têtes, d’exemples et de descriptions. La structure du Guide de présentation des énoncés de projet s’inspire de l’annexe B et vise à faire en sorte que le contenu requis soit complet. Des extraits de l’annexe B figurent dans le Guide."
+  },
+  {
+    "en": "It is important to note that the Guide is provided as guidance and that the content of the project brief may be tailored to better reflect a particular project. Departments are encouraged to consult with the Treasury Board of Canada Secretariat about the content of their project briefs.",
+    "fr": "Il importe de signaler que le Guide a pour but d’exposer une orientation et que le contenu de l’énoncé de projet peut être adapté pour mieux refléter un projet en particulier. Les ministères sont invités à consulter le Secrétariat du Conseil du Trésor du Canada au sujet du contenu de leurs énoncés de projet."
+  },
+  {
+    "en": "This section provides a brief high-level summary of the important details of the project.",
+    "fr": "La présente section donne un bref aperçu des renseignements importants relatifs au projet."
+  },
+  {
+    "en": "This section presents a high-level description of the project’s history, a summary of any relevant Cabinet or Treasury Board decisions, any project approval ( ) and expenditure authority ( ) decisions or conditions, including the Treasury Board Number and the appropriate date, and the general context of the initiative’s progress in terms of any Cabinet decisions or other key decision points.",
+    "fr": "La présente section donne une description globale de l’historique du projet, résume les décisions pertinentes du Cabinet ou du Conseil du Trésor, les décisions ou conditions relatives à l’approbation de projet ( ) ou à l’autorisation de dépenser ( ), dont le numéro de document du Conseil du Trésor et la date appropriée, et le contexte général des progrès de l’initiative sur le plan des décisions du Cabinet ou d’autres points de décision importants."
+  },
+  {
+    "en": "It is critical to position the proposed project or project phase in the context of the identified program requirement and the full investment proposal.",
+    "fr": "Il est crucial de situer le projet ou le stade de projet proposé dans le contexte de l’exigence de programme établie et de la proposition d’investissement complète."
+  },
+  {
+    "en": "This section provides a description of the service or capability that the project intends to develop, create or improve, as well as the benefits that are to be derived and how that service or capability will be managed once the solution is in place at project closeout. In the context of the definition of a project, in accordance with the , the service or capability is the defined output that the project is required to produce.",
+    "fr": "La présente section décrit le service ou la capacité que le projet entend développer, créer ou améliorer, de même que les avantages que l’on peut en tirer et la façon dont ce service ou cette capacité seront gérés lorsque la solution aura été mise en place à la clôture du projet. Dans le contexte de la définition d’un projet, conformément à la , le service ou la capacité est l’extrant que le projet doit produire."
+  },
+  {
+    "en": "Project scope can be defined as the work that needs to be accomplished to deliver a product, service or result with the specified features and functions. This section describes the project scope in terms of a scope statement. Depending on the maturity of the project, this can be either the preliminary scope statement at the early stages of a project’s life-cycle or a more detailed scope statement that is the basis for future project decisions. The scope statement should be fully articulated and detailed in a project document. This document should be the source document for the content of this section and appropriately referenced.",
+    "fr": "La portée du projet peut se définir comme les tâches qui doivent être exécutées pour réaliser un produit, offrir un service ou générer un résultat à l’aide d’éléments et de fonctions en particulier . La présente section décrit la portée du projet dans un énoncé de la portée. Selon le degré de maturité du projet, il peut s’agir d’un énoncé préliminaire de la portée aux premiers stades du cycle de vie d’un projet ou d’un énoncé de la portée plus détaillé qui constitue le fondement des décisions sur le projet à venir. L’énoncé de la portée devrait être exposé de manière exhaustive dans un document de projet. Ce document devrait constituer le document d’origine du contenu de la présente section et il devrait y être fait référence adéquatement."
+  },
+  {
+    "en": "The scope statement should address a number of key factors (refer to the Guide), the key activities and outputs, and any significant performance criteria. The presentation of scope is to align with the key deliverables and planned phases of the project.",
+    "fr": "L’énoncé de la portée devrait traiter d’un certain nombre de facteurs clés (se reporter au Guide), des activités clés et des principaux extrants, et des critères de rendement importants. La présentation de la portée doit concorder avec les principaux produits et avec les étapes prévues du projet."
+  },
+  {
+    "en": "In addition, this section should include a description of how the scope was developed, including the requirements determination, a scope definition in response to the defined requirements, and a summary of the key deliverables from the work breakdown structure.",
+    "fr": "En outre, la présente section devrait comprendre une description de la façon dont la portée a été développée, y compris l’établissement des exigences, une définition de la portée en réponse aux exigences définies, et un résumé des principales réalisations établi à partir de la structure de répartition des travaux."
+  },
+  {
+    "en": "A table may be used to present what is in and out of scope for the project. The table below provides an example output and a succinct description of the scope.",
+    "fr": "Il est possible d’utiliser un tableau pour présenter ce qui s’inscrit dans la portée du projet et ce qui est hors portée. Le tableau ci-après donne un exemple de produit et décrit brièvement la portée."
+  },
+  {
+    "en": "Financial Reporting Form",
+    "fr": "Formule de rapport financier"
+  },
+  {
+    "en": "A common form and guide to annually report financial data with an income tax return.",
+    "fr": "Formule et guide communs de présentation annuelle de données financières avec une déclaration de revenus."
+  },
+  {
+    "en": "This section presents the approved sources of funds and either a total indicative cost estimate or substantive estimate for the entire project. Project cost estimates for are likely to be at an indicative level, and include all activities and project deliverables from the project definition phase through to project closeout. In accordance with the , and , the cost estimate for is to be substantive in nature and can only be sought for phases of the project that have been appropriately defined and assessed using the Project Complexity and Risk Assessment ( ) Tool.",
+    "fr": "La présente section fait état des sources de financement approuvées et donne une estimation indicative des coûts totaux ou une estimation des coûts fondée pour l’ensemble du projet. Les estimations des coûts du projet pour l’ sont vraisemblablement indicatives et couvrent toutes les activités et réalisations du projet, de l’étape de sa définition jusqu’à sa clôture. Conformément à la et au consulter , l’estimation des coûts de l’ doit être fondée et peut être demandée seulement aux étapes du projet qui ont été bien définies et évaluées à l’aide de l’outil d’Évaluation de la complexité et des risques des projets ( )."
+  },
+  {
+    "en": "In this section, the sources of funds are identified and all assumptions and constraints related to funding are clearly described.",
+    "fr": "Dans la présente section, les sources de financement sont déterminées et toutes les hypothèses et les contraintes liées au financement sont décrites clairement."
+  },
+  {
+    "en": "The Secretariat’s has been developed to advance stewardship, accountability, and value for money across the Government of Canada. Departments are encouraged to prepare the cost estimates for all Treasury Board submissions using the , and to present the cost estimates for all Treasury Board submissions using the .",
+    "fr": "Le a été élaboré pour favoriser l’intendance, la reddition de comptes et l’optimisation des ressources dans l’ensemble du gouvernement du Canada. Les ministères sont invités à préparer des estimations de coûts pour toutes les présentations au Conseil du Trésor au moyen du , et à présenter ces estimations pour toutes les présentations au Conseil du Trésor à l’aide du ."
+  },
+  {
+    "en": "The following are considerations for inclusion in articulating the project cost estimates in a project brief.",
+    "fr": "Voici des facteurs d’inclusion applicables à l’exposé des estimations des coûts de projet dans un énoncé de projet."
+  },
+  {
+    "en": "A high-level project schedule summarized for Treasury Board ministers is presented in this section. The schedule reflects a documented and authoritative project schedule and baseline and includes:",
+    "fr": "La présente section expose un calendrier global d’exécution du projet résumé à l’intention des ministres du Conseil du Trésor. Il s’agit d’un calendrier d’exécution du projet et d’un échéancier documentés et fondés qui comprennent :"
+  },
+  {
+    "en": "A project gate is a key decision and control point that occurs before the next major milestone or project deliverable or a new project phase (e.g., implementation) begins. The gate represents a logical point at which executive \"gatekeepers\" can determine whether and how to proceed. Project gates effectively \"open\" or \"close\" the path leading to a subsequent project phase. The project gate schedule is developed to fit the needs of the project and to identify to the Treasury Board at which gates the project will seek .",
+    "fr": "Une borne de projet est une décision clé et un point de contrôle survenant avant le début du prochain jalon majeur ou d’une réalisation ou d’une nouvelle étape du projet (p. ex., la mise en œuvre). La borne représente un point logique où les dirigeants contrôleurs peuvent déterminer si et comment procéder. Les bornes de projet « ouvrent » ou « ferment » la voie qui mène à une étape ultérieure du projet. Le calendrier de la borne du projet est établi pour répondre aux besoins du projet et pour déterminer pour le Conseil du Trésor à quelles bornes le projet demandera une ."
+  },
+  {
+    "en": "This section describes all assumptions relevant to the project, explains the possible impacts and considerations of these assumptions, and outlines any strategies for addressing assumptions that do not materialize.",
+    "fr": "La présente section décrit toutes les hypothèses qui s’appliquent de façon pertinente au projet, explique les répercussions possibles et les facteurs de ces hypothèses à considérer, et expose les stratégies pour faire face aux hypothèses qui ne se concrétisent pas."
+  },
+  {
+    "en": "All specific constraints or restrictions that limit or place conditions on the project are described in this section. The description includes dependencies on common service providers and other stakeholders, or a limited time frame for developing and implementing the proposed project or project phase when applicable. Potential impacts are explained and quantified whenever possible, and strategies are described for managing these constraints.",
+    "fr": "La présente section décrit toutes les contraintes ou restrictions qui limitent le projet ou y imposent des conditions. Elle fait état des facteurs de dépendance à l’égard des fournisseurs de services communs et des autres intervenants, ou d’un calendrier limité d’élaboration et de mise en œuvre du projet ou de l’étape de projet proposé s’il y a lieu. Elle explique et quantifie les répercussions potentielles lorsque c’est possible, et décrit les stratégies de gestion de ces contraintes."
+  },
+  {
+    "en": "This section provides a description of the links between the project outcomes and the mandate and programs of the sponsoring department, as well as to other government-wide objectives. The department’s Program Alignment Architecture ( ) usually supports this explanation. (Visit the Secretariat’s website for more information on the .)",
+    "fr": "La présente section décrit les liens entre les résultats des projets et le mandat et les programmes du ministère parrain, et avec les autres objectifs pangouvernementaux. L’architecture d’harmonisation des programmes ( ) du ministère étaye généralement cette explication. (Prière de visiter le site Web du Secrétariat pour plus de renseignements sur l’ .)"
+  },
+  {
+    "en": "The goals and expected business outcomes or benefits of the project are described in this section.",
+    "fr": "La présente section décrit les buts et les résultats opérationnels ou les avantages du projet."
+  },
+  {
+    "en": "Project goals are high-level statements about what the project is expected to accomplish. Project goals are broad, general intentions and are typically intangible and abstract. An example of a project goal is “greater flexibility in responding to stakeholder requests.”",
+    "fr": "Les buts du projet sont des énoncés généraux de ce que le projet est censé permettre de réaliser . Les buts du projet sont des intentions générales qui sont habituellement intangibles et abstraites. Mentionnons comme exemple de but du projet « davantage de souplesse dans les réponses aux demandes des intervenants »."
+  },
+  {
+    "en": "Business outcomes can be used to articulate the value of the initiative. In an organizational context, an outcome involves an intentional change (people, processes, technology) being imposed on the system, with a resulting end state that can be measured. Examples of business outcomes are “decreased inspection time” and “increased public confidence.”",
+    "fr": "Les résultats opérationnels peuvent servir à énoncer la valeur de l’initiative. En contexte organisationnel, un résultat comporte un changement intentionnel (personnes, processus, technologie) imposé au système, qui s’accompagne d’un état final qui en résulte pouvant être mesuré . Mentionnons comme exemples de résultats opérationnels un « temps d’inspection en baisse » et la « confiance accrue du public »."
+  },
+  {
+    "en": "It is recommended that departments articulate business outcomes over the life-cycle of the project and tie the measurement of intermediate outcomes to the proposed gating model for the project so that outcome realization is being reviewed at key “go” and “no-go” decision points.",
+    "fr": "Il est recommandé que les ministères exposent les résultats opérationnels sur la durée du cycle de vie du projet et établissent un lien entre la mesure des résultats intermédiaires du modèle de borne proposé pour le projet afin que la réalisation des résultats soit revue à des points de décision clés « approuvés » et « non approuvés »."
+  },
+  {
+    "en": "As the brief is to enable decision makers to fully understand the proposed initiative, it is important that the project’s expected business outcomes be clearly articulated in commonly understood terms. Decision makers must also be informed of the criticality of the proposed project.",
+    "fr": "Comme le document vise à permettre aux décideurs de comprendre pleinement l'initiative proposée, il est important que les résultats opérationnels attendus du projet soient clairement définis de façon que tous puissent les comprendre. Les décideurs doivent également être informés du caractère crucial du projet proposé."
+  },
+  {
+    "en": "Specifically:",
+    "fr": "En particulier :"
+  },
+  {
+    "en": "This section briefly describes the mandate of the sponsoring department and any partnering departments in a joint project, along with any branches, if applicable, and relates the business outcomes to each relevant mandate.",
+    "fr": "Deux exemples de description d'un projet et de ses résultats opérationnels sont inclus en annexe au présent guide."
+  },
+  {
+    "en": "This section describes the program outcomes to be supported by the end result of the project and explains how the achievement of project goals will enable the intended program outcomes.",
+    "fr": "La présente section décrit brièvement le mandat du ministère parrain et de tous les ministères partenaires dans un projet conjoint, ainsi que celui des directions, s’il y a lieu, et établit un lien entre les résultats opérationnels et chaque mandat pertinent."
+  },
+  {
+    "en": "Where possible, the degree of alignment with the department’s and Management Resources and Results Structure ( ) should be articulated.",
+    "fr": "La présente section décrit les résultats du programme qui doivent être étayés par le résultat final du projet et explique comment la réalisation des buts du projet permettra d’atteindre les résultats du programme souhaités."
+  },
+  {
+    "en": "This section, when applicable, describes linkages with other public sector programs and projects (e.g., federal, non-federal, provincial, municipal, First Nations) and how this project solution supports broader government-wide priorities.",
+    "fr": "Lorsque c’est possible, il conviendrait d’exposer le degré d’harmonisation avec l’ et la structure de gestion, des ressources et des résultats ( ) du ministère."
+  },
+  {
+    "en": "This section clearly positions the project, as part of an investment, within the departmental investment plan.",
+    "fr": "La présente section décrit, s’il y a lieu, les liens avec d’autres programmes et projets du secteur public (p. ex., fédéraux, non-fédéraux, provinciaux, municipaux, des Premières nations) et la façon dont cette solution de projet appuie les priorités pangouvernementales plus générales."
+  },
+  {
+    "en": "The importance and magnitude of the project as part of an investment and how it supports and aligns with other investments included in the investment plan are described. The project proposal should be consistent with the project information in the investment plan and should describe the total estimated life-cycle costs of the entire investment. This includes both the project required to produce the defined outcome or product, and the subsequent operations, maintenance and disposal, if applicable, of that outcome or product. The plan should clearly confirm the affordability not only of the proposed project but also of all ongoing (i.e., life-cycle) costs of the entire investment.",
+    "fr": "La présente section situe clairement le projet, dans le cadre d’un investissement, dans le plan d’investissement ministériel."
+  },
+  {
+    "en": "If the project was not in the most recent investment plan provided to the Secretariat and/or the Treasury Board, this section includes an explanation of what caused the change (e.g., additional funding provided through a Cabinet decision or a change in priority) and a brief description of the incremental capacity needed to deliver this new, unplanned project. Departments should also confirm that departmental operations remain affordable and sustainable over the long term.",
+    "fr": "L’importance et l’ampleur du projet qui s’inscrit dans un investissement et la façon dont le projet cadre avec les autres investissements inclus dans le plan d’investissement sont décrites. La proposition de projet devrait concorder avec les renseignements sur le projet contenus dans le plan d’investissement et devrait décrire les coûts estimatifs totaux pour le cycle de vie de tout l’investissement, ce qui englobe à la fois le projet requis pour produire le résultat ou le produit défini, et les opérations subséquentes, l’entretien et la disposition de ce résultat ou de ce produit, s’il y a lieu. Le plan devrait confirmer clairement le caractère abordable non seulement du projet proposé, mais également de tous les coûts continus (durée du cycle de vie) de tout l’investissement."
+  },
+  {
+    "en": "This section describes the project’s performance management and outcome management measures.",
+    "fr": "Si le projet n’était pas inscrit dans le plan d’investissement le plus récent fourni au Secrétariat et (ou) au Conseil du Trésor, la présente section explique ce qui a occasionné le changement (p. ex. du financement additionnel obtenu à la suite d’une décision du Cabinet ou d’un changement de priorité) et décrit brièvement la capacité graduelle requise pour exécuter ce nouveau projet non prévu. Les ministères devraient également confirmer que les opérations ministérielles demeurent abordables et viables à long terme."
+  },
+  {
+    "en": "In any performance management framework, it is critical to adequately define the expected outcomes at the outset. This section provides a description of the strategy for measuring, monitoring, reporting and managing the business outcomes described in Section 2 of the project brief. The measurement of any intermediate outcomes, in accordance with the proposed gating model for the project, is articulated so that outcome realization is reviewed at key “go” and “no-go” decision points over the project life-cycle.",
+    "fr": "La présente section décrit la gestion du rendement du projet et les paramètres de gestion des résultats."
+  },
+  {
+    "en": "An outcomes register may be used to present the outcomes and the associated measures.",
+    "fr": "Dans tout cadre de gestion du rendement, il est crucial de définir adéquatement les résultats prévus dès le départ. La présente section décrit la stratégie de mesure, de suivi, de déclaration et de gestion des résultats opérationnels exposés dans la section 2 de l’énoncé de projet. La mesure des résultats intermédiaires, conformément au modèle de borne proposé pour le projet, est énoncée afin que la réalisation des résultats soit revue à des points de décision clés « approuvés » et « non approuvés » durant le cycle de vie du projet."
+  },
+  {
+    "en": "This section provides a description of the integrated and disciplined approach to managing project performance and results. It also includes a succinct explanation of how project progress will be monitored and tracked in terms of the project performance metrics associated with cost, schedule, scope and any other critical objectives.",
+    "fr": "Un registre des résultats peut être utilisé pour présenter les résultats et les paramètres connexes."
+  },
+  {
+    "en": "In addition, this section includes the strategy outlined in the Project Management Plan and aligns the strategy with the project schedule (refer to the for more information).",
+    "fr": "La présente section donne une description de l’approche intégrée et rigoureuse de gestion du rendement et des résultats du projet. Elle comprend également une explication succincte de la façon d’assurer le suivi des progrès du projet sur le plan des paramètres de rendement du projet liés aux coûts, au calendrier, à la portée et aux autres objectifs cruciaux."
+  },
+  {
+    "en": "This section presents a detailed audit and evaluation strategy for the project, including any provisions for independent third-party evaluations, reviews or audits as and when required. This section also addresses when and at what phases of the project life-cycle monitoring and reporting activities are planned. All planned reporting to the project authority (i.e., Treasury Board or the sponsoring minister) is included, at a minimum. Relevant reporting to the Secretariat and other stakeholders is also described.",
+    "fr": "De plus, la présente section comprend la stratégie exposée dans le Plan de gestion du projet et fait concorder la stratégie avec le calendrier du projet (se reporter à pour plus de renseignements)."
+  },
+  {
+    "en": "In considering any project delivery option, it is important for the sponsoring department to recognize that the project life-cycle is only a subset of the investment life-cycle. The decision to proceed with a particular project solution is expected to consider the full implications of that decision over the entirety of the investment. The direct comparison of different investment options and the resulting cost-benefit analyses support the planned investment and the project proposal. For example, the decision to acquire an asset must consider, at a minimum, all applicable costs directly attributable to that asset over its entire useful life.",
+    "fr": "La présente section énonce une stratégie d’audit et d’évaluation du projet, y compris des dispositions en vue d’évaluations, d’examens ou d’audits par des tiers indépendants au besoin. La présente section indique également quand et à quelles étapes du cycle de vie du projet des activités de surveillance et de rapport sont prévues. Tous les rapports que l’on prévoit présenter au responsable de projet (le Conseil du Trésor ou le ministre parrain) sont inclus. Les rapports pertinents qui sont présentés au Secrétariat et à d’autres intervenants sont également décrits."
+  },
+  {
+    "en": "For instance, an acquisition decision that is based on the lowest purchase price but that ignores potential operations and maintenance costs may result in higher overall costs. Decision making in life-cycle management is an iterative process that considers all phases of an asset's life cycle, at key points throughout its life cycle. Effective management requires that an appropriate level of management interest and control be maintained throughout the investment's life cycle.",
+    "fr": "Dans le cadre de l’examen d’une option d’exécution de projet, il importe que le ministère parrain reconnaisse que le cycle de vie du projet représente seulement un sous-ensemble du cycle de vie de l’investissement. La décision d’appliquer une solution en particulier au projet devrait tenir compte de toutes les répercussions de cette décision sur l’intégralité de l’investissement. La comparaison directe des options d’investissement différentes et les analyses coûts-avantages qui en résultent appuient l’investissement prévu et la proposition de projet. Par exemple, la décision d’acquérir un actif doit au moins tenir compte de tous les coûts applicables qui sont directement attribuables à ce actif sur toute sa vie utile."
+  },
+  {
+    "en": "Although the project may be affordable on its own, the continued affordability of the entire asset portfolio as well as departmental operations must be confirmed in accordance with the before the project can be approved.",
+    "fr": "À titre d’exemple, une décision d’acquisition fondée sur le prix d’achat le plus bas, mais qui ne tient pas compte des coûts d’opération et d’entretien, peut entraîner des coûts généraux plus élevés. Le processus décisionnel qui se rattache à la gestion du cycle de vie est un processus itératif qui prend en compte toutes les étapes du cycle de vie d’un actif. Une gestion efficace nécessite le maintien d’un niveau approprié d’intérêt et de contrôle à l’égard de la gestion tout au long du cycle de vie de l’investissement."
+  },
+  {
+    "en": "This section summarizes each of the considered viable options, including at a minimum the status quo and the recommended option.",
+    "fr": "Bien que le projet puisse être abordable en tant que tel, le maintien du caractère abordable de l’ensemble du portefeuille des actifs et des opérations ministérielles doit être confirmé conformément à la avant que le projet puisse être approuvé."
+  },
+  {
+    "en": "When describing the project options, Treasury Board ministers must be assured that the proposed investment is affordable over the entire life-cycle. For example, once the project to acquire the use of an asset is approved, the government begins to spend resources; once the asset is operational, there can be legal obligations and the government is committed financially. The project’s business case provides an analysis of investment options to achieve the intended business outcomes based on life-cycle cost estimates, likely future conditions, relevant risks, impacts, and life-cycle management issues. The recommended project option supports the recommended investment option in consideration of the cost-benefit of the investment over its entire life-cycle. Therefore, when articulating project options, it is important to ensure alignment with, and support of, the investment plan and the affordability of the investment, not just the project.",
+    "fr": "La présente section résume chaque option viable envisagée, dont au moins le statu quo et l’option recommandée."
+  },
+  {
+    "en": "In accordance with Appendix B (Section 4.6) of the , the options analysis summary captures the specific required details of the business case. However, the summary is not repeated verbatim in this section.",
+    "fr": "Dans le cadre de la description des options de projet, les ministres du Conseil du Trésor doivent être assurés que l’investissement proposé demeure abordable pendant tout le cycle de vie. Par exemple, une fois que le projet d’acquérir le droit d’utiliser un actif est approuvé, le gouvernement commence à dépenser des ressources; lorsque l’actif est opérationnel, il peut y avoir des obligations juridiques et le gouvernement prend des engagements financiers. L’analyse de rentabilisation du projet comporte une analyse des possibilités d’investissement dans le but de permettre d’atteindre les résultats opérationnels voulus sur la base des estimations du coût du cycle de vie, des conditions futures probables, des risques pertinents, des répercussions et des questions de gestion du cycle de vie. L’option de projet recommandée appuie la possibilité d’investissement recommandée en tenant compte du coût-avantage de l’investissement pendant tout son cycle de vie. Par conséquent, lorsque l’on énonce les options de projet, il importe de s’assurer qu’elles s’harmonisent avec le plan d’investissement et avec le caractère abordable de l’investissement, et non seulement avec le projet. Il faut également veiller à ce que les options de projet appuient le plan et le caractère abordable de l’investissement."
+  },
+  {
+    "en": "The methodology used to screen, assess and compare options and select the recommended option is described in this section, including a summary of each option that was considered. In accordance with the Appendix B (Section 4.6) of the , the options analysis is to be based, at a minimum, on preliminary life-cycle cost estimates for each investment option.",
+    "fr": "Conformément à l’annexe B (section 4.6) de la , le résumé analytique des options fait état de certains renseignements de l’analyse de rentabilisation. Toutefois, le résumé n’est pas repris mot pour mot dans la présente section."
+  },
+  {
+    "en": "In considering viable project options that will deliver the solution or output needed to achieve the defined outcomes, it is important that each project option be considered as part of the total life-cycle of the investment. This ensures that the cost-benefit analysis considers the entire investment resulting from the project being approved.",
+    "fr": "La méthodologie utilisée pour présélectionner, évaluer et comparer les options et pour choisir l’option recommandée est décrite dans la présente section, y compris un résumé de chaque option envisagée. Conformément à l’annexe B (section 4.6) de la , l’analyse des options doit au moins reposer sur des estimations de coûts préliminaires du cycle de vie de chaque possibilité d’investissement."
+  },
+  {
+    "en": "Should the activities and resources required to operate, maintain and dispose of the project outcome or solution be precisely the same, irrespective of each option considered, this should be clearly noted and those cost estimates articulated in this section.",
+    "fr": "Dans le cadre de l’examen des options de projet viables qui produiront la solution ou l’extrant requis pour réaliser les résultats définis, il importe que chaque option de projet soit étudiée dans le contexte du cycle de vie total de l’investissement. Ainsi, l’analyse coûts-avantages tient compte de tout l’investissement qui découle du projet approuvé."
+  },
+  {
+    "en": "A succinct description of the status quo option is provided in this section.",
+    "fr": "Si les activités et les ressources nécessaires pour opérer, maintenir et aliéner le résultat du projet ou la solution sont exactement les mêmes, sans égard à chacune des options examinées, il faut l’indiquer clairement et les estimations de coûts doivent être énoncées dans la présente section."
+  },
+  {
+    "en": "The Secretariat’s describes the status quo option as the . Status quo shows how an organization would perform if it did not pursue one of the investment proposal options or otherwise change its method of operation.",
+    "fr": "La présente section décrit brièvement l’option du statu quo."
+  },
+  {
+    "en": "This section provides a description of the considered investment option, including the full life-cycle cost estimate. It should also include a brief description of the rationale for choosing this option; what was considered in the decision-making process (e.g., a public-private partnership ( ) option was considered and screened in consultation with Canada) and how this option is linked to the achievement of the intended outcome.",
+    "fr": "Le du Secrétariat décrit l’option du statu quo comme un . Le statu quo révèle de quelle façon se comporterait une organisation si elle ne donnait pas suite à l’une des options de proposition d’investissement ou si elle ne modifiait pas sa méthode de fonctionnement."
+  },
+  {
+    "en": "This section provides a description of the considered investment option, including the full life-cycle cost estimate; a short description of the rationale for choosing this option; what was considered in the decision-making process (e.g., Crown construction and outsourced operations and maintenance were considered), and how this option is linked to the achievement of the intended outcome.",
+    "fr": "La présente section décrit la possibilité d’investissement envisagée, y compris l’estimation du coût sur l’ensemble du cycle de vie. Elle devrait aussi exposer brièvement la raison pour laquelle cette option a été retenue et ce qui a été pris en compte dans le processus décisionnel (p. ex., l’option d’un partenariat public-privé ( ) a été envisagée et examinée de concert avec Canada) et la façon dont cette option est liée à la réalisation du résultat souhaité."
+  },
+  {
+    "en": "As stipulated in Budget 2011, federal departments are required to assess planned investments for potential. Planned investments that consider the creation of an infrastructure asset with a capital cost of $100 million or more and with a useful life of at least 20 years must include a screening of the entire investment life-cycle, in consultation with Canada, to determine the viability of a . The results of the screening are to be presented in the project brief.",
+    "fr": "La présente section décrit la possibilité d’investissement envisagée, y compris l’estimation du coût sur l’ensemble du cycle de vie; elle expose brièvement la raison pour laquelle cette option a été retenue et ce qui a été pris en compte dans le processus décisionnel (p. ex., les travaux de construction réalisés par la Couronne et les opérations d’externalisation et d’entretien ont été considérés), et la façon dont cette option est liée à la réalisation du résultat souhaité."
+  },
+  {
+    "en": "Departments are also encouraged to explore the potential of s for other types of investments in assets and acquired services when there is demonstrated value.",
+    "fr": "Comme le prévoit le budget de 2011, les ministères fédéraux doivent évaluer les investissements prévus afin de déterminer leur potentiel de . Les investissements prévus qui envisagent la création d’un actif d’infrastructure qui comporte un coût en capital de 100 millions de dollars ou plus et dont la vie utile est d’au moins 20 ans doivent inclure une vérification de l’ensemble du cycle de vie de l’investissement, de concert avec Canada, afin de déterminer la viabilité d’un . Les résultats de la vérification doivent être présentés dans l’énoncé de projet."
+  },
+  {
+    "en": "To assist departments, the Secretariat has developed the .",
+    "fr": "Les ministères sont également incités à étudier la possibilité des pour d’autres types d’investissements dans des actifs et services acquis lorsque la valeur de ces est démontrée."
+  },
+  {
+    "en": "This section identifies the preferred option and demonstrates why the option is deemed preferable over all others. This includes a summary of a thorough cost-benefit analysis fully documented in the business case.",
+    "fr": "Dans le but d’aider les ministères, le Secrétariat a élaboré la ."
+  },
+  {
+    "en": "A summary of the project management plan is provided in this section. A project management plan defines the planned objectives and outcomes of the project, and establishes the scope, work breakdown structure, budget, schedule, risks, roles, resources, functional strategies, project monitoring and control strategies, governance, process deviations and management approach. This section supports the proposal to the project approval authority and establishes the baseline for the project reflected in the project charter, against which changes and performance are measured and reported.",
+    "fr": "La présente section précise l’option privilégiée et illustre les raisons pour lesquelles l’option est jugée préférable aux autres. Elle comprend le résumé d’une analyse coûts-avantages minutieuse entièrement étayée dans l’analyse de rentabilisation."
+  },
+  {
+    "en": "This section describes the project gating strategy, incorporating any planned independent third-party evaluations, reviews or audits. A project gating strategy ensures that resource implications and results are made fully visible to the project approval authority at logical, predetermined checkpoints or \"project gates.\"",
+    "fr": "La présente section donne un résumé du plan de gestion de projet. Un plan de gestion de projet définit les objectifs et les résultats prévus du projet, et établit la portée, la structure de répartition du travail, le budget, le calendrier, les risques, les rôles, les ressources, les stratégies fonctionnelles, les stratégies de vérification et de contrôle du projet, la gouvernance, les écarts par rapport au processus et l’approche de gestion. La présente section appuie la proposition faite au responsable de l’approbation de projet et jette les bases du projet qui se reflète dans la charte du projet, bases à partir desquelles les changements et le rendement sont mesurés et présentés."
+  },
+  {
+    "en": "As stipulated in Appendix B of the , the project gating strategy articulates off-ramps linked to specific, identified project gates, allowing the project approval authority the option to end the government’s involvement if required and at appropriate decision points.",
+    "fr": "La présente section décrit la stratégie d’établissement des bornes de projet et intègre les évaluations, les examens et les audits faits par un tiers indépendant. Une stratégie d’établissement des bornes de projet fait en sorte que les répercussions sur les ressources et les résultats sont plus visibles pour la personne qui détient les pouvoirs d’approbation de projet à des points de vérification logiques et déterminés d’avance, ou « bornes de projet »."
+  },
+  {
+    "en": "This section provides a summary of proposed Treasury Board and Secretariat engagement and reporting aligned to the project gating strategy and over fiscal years when the project spans multiple years. For example, for large and complex projects, it may be determined that the most effective way to ensure that the Treasury Board is appropriately informed is through annual status reports and regular updating of the shared with the Secretariat.",
+    "fr": "Tel qu’il est indiqué à l’annexe B de la , la stratégie d’établissement des bornes de projet énonce des voies de sortie liées à certaines bornes de projet désignées, ce qui offre à la personne qui détient les pouvoirs d’approbation de projet la possibilité de mettre fin à la participation du gouvernement si nécessaire, aux points de décision adéquats."
+  },
+  {
+    "en": "This section provides a summary any future Treasury Board submissions (e.g., , contracting, real property) and their proposed timing, including submission of the project close-out report.",
+    "fr": "La présente section résume l’engagement et la production de rapports proposés du Conseil du Trésor et du Secrétariat qui s’harmonisent à la stratégie d’établissement des bornes de projet au cours des exercices, lorsque le projet s’étend sur plusieurs années. Par exemple, dans le cas de grands projets complexes, il peut être établi que la façon la plus efficace de s’assurer que le Conseil du Trésor est bien informé est la production de rapports d’étape annuels et la mise à jour régulière de l’ÉCRP partagée avec le Secrétariat."
+  },
+  {
+    "en": "This section describes the project change management strategy and the methodology on which the strategy is based. Departments should consider including a description of:",
+    "fr": "La présente section résume les présentations au Conseil du Trésor à venir (p. ex., , marchés, immobilier) et leur calendrier proposé, y compris la présentation du rapport de clôture du projet."
+  },
+  {
+    "en": "The methods, tools and techniques to be used for communications are described in this section. The communication strategy includes communication plans for all stakeholders, both internal and external to the project, and relevant ministerial announcements.",
+    "fr": "La présente section décrit la stratégie de gestion du changement dans les projets et la méthodologie sur laquelle la stratégie repose. Les ministères devraient envisager d’inclure une description des éléments suivants :"
+  },
+  {
+    "en": "This section provides information on the risk factors that could affect the project and a description of the risk management plan for identifying, analyzing, and prioritizing project risks. Plans for assessing initial risk factors and for the ongoing identification, assessment, and mitigation of risk factors throughout the project life-cycle are specified.",
+    "fr": "Les méthodes, les outils et les techniques devant être utilisés à des fins de communications sont décrits dans la présente section. La stratégie de communications comprend des plans de communication pour tous les intervenants, internes et externes au projet, ainsi que les annonces ministérielles pertinentes."
+  },
+  {
+    "en": "The provides the basis for determining the level of project risk and complexity and the project approval authority. Its use will assist in identifying areas of project risk and complexity warranting further assessment and active risk management. In this way, the can be used as a tool to mitigate project risk. This section can elaborate on which areas of risk or complexity the exposed and what actions the department took or plans to take to mitigate project risks. For example, a project affected by procurement risks, as identified through a high score in the Procurement Knowledge area, may warrant the creation of a Senior Project Advisory Committee to mitigate the risks.",
+    "fr": "La présente section fournit des renseignements sur les facteurs de risque qui pourraient avoir une incidence sur le projet et une description du plan de gestion des risques à des fins d’identification, d’analyse et d’établissement des priorités des risques du projet. Les plans d’évaluation des facteurs de risque initiaux et d’identification, d’évaluation et d’atténuation continues des facteurs de risque dans l’ensemble du cycle de vie du projet sont précisés."
+  },
+  {
+    "en": "This section provides an assessment (probability and impact) of the most significant project risks and how they are addressed. Risks may be presented in a table format, as shown below. The probability and impact of the risks, as well as the planned mitigation strategy should be included. The risk owner is the individual who has accountability for the risks.",
+    "fr": "L’ÉCRP sert à déterminer le niveau de risque et la complexité du projet et l’identité du responsable de l’approbation des projets. Elle contribue à cerner les aspects risqués et complexes du projet qui nécessitent une évaluation plus approfondie et une gestion active des risques. Ainsi, l’ÉCRP peut servir d’outil pour atténuer les risques du projet. La présente section peut expliquer les secteurs de risque ou de complexité traités dans l’ÉCRP et les mesures que le ministère a pris ou prévoit prendre pour atténuer les risques du projet. Par exemple, un projet touché par des risques dans le domaine de l’approvisionnement, tel qu’il est établi par un pointage élevé dans le volet des connaissances sur l’approvisionnement de l’ÉCRP, peut justifier de former un comité consultatif des principaux projets pour limiter les risques."
+  },
+  {
+    "en": "Training manuals may not be ready by the planned training date; this may affect the schedule.",
+    "fr": "La présente section évalue (probabilité et impact) les risques de projet les plus importants et la façon d’y faire face. Les risques peuvent être présentés sous forme de tableau, tel qu’il est indiqué ci-après. La probabilité et l’impact des risques ainsi que la stratégie d’atténuation prévue devraient être inclus. Le responsable du risque est la personne à laquelle la responsabilité en incombe."
+  },
+  {
+    "en": "Wikis will be used as an alternative solution to publish essential training material.",
+    "fr": "Les guides de formation pourraient ne pas être prêts d’ici la date de formation prévue, ce qui pourrait avoir une incidence sur le calendrier."
+  },
+  {
+    "en": "Training Lead",
+    "fr": "Des wikis seront utilisés comme solution de rechange à la publication de matériel de formation essentiel."
+  },
+  {
+    "en": "This section summarizes the results of the and highlights key risk factors identified in the .",
+    "fr": "Responsable de la formation"
+  },
+  {
+    "en": "The details of the and the assessment requirements can be found in the .",
+    "fr": "La présente section résume les résultats de l’ÉCRP et fait ressortir les principaux facteurs de risque indiqués dans l’ÉCRP."
+  },
+  {
+    "en": "This section addresses any issues that have not been addressed earlier in the project brief.",
+    "fr": "Les détails de l’ÉCRP et des exigences de l’évaluation peuvent se trouver dans la ."
+  },
+  {
+    "en": "When requirements are to be met through procurement activities, the procurement strategy is described in this section.",
+    "fr": "La présente section traite des questions qui n’ont pas été abordées précédemment dans l’énoncé de projet."
+  },
+  {
+    "en": "The procurement strategy for a project outlines the Crown procurement contracts or contractual arrangements necessary to achieve the defined project outcomes. It includes a description of the deliverables, by contract, as well as the relationship to other phases of the project and suppliers. It explains which department(s) will be responsible to issue the contracts, the anticipated value and duration of each contract, and whether the anticipated contracts will require Treasury Board approval.",
+    "fr": "Lorsqu’il est satisfait aux exigences au moyen d’activités d’approvisionnement, la stratégie d’approvisionnement est décrite dans la présente section."
+  },
+  {
+    "en": "The procurement strategy also sets out the approach for solicitation and evaluation of bids as well as the manner in which contracts will be awarded. Economic considerations are factored into the process during the development of the procurement strategy. It explains how the proposed approach meets the objectives of fair, open, and transparent procurement.",
+    "fr": "La stratégie d’approvisionnement qui s’applique à un projet décrit les marchés d’approvisionnement de la Couronne ou les ententes contractuelles requises pour réaliser les résultats des projets définis. Elle comprend une description des réalisations, par marché, ainsi que le lien avec les autres étapes du projet et les fournisseurs. Elle explique à quel(s) ministère(s) il incombera d’émettre les contrats, la valeur et la durée prévues de chaque contrat, et précise si les contrats prévus nécessiteront l’approbation du Conseil du Trésor."
+  },
+  {
+    "en": "This section also explains the process and outcome of interdepartmental consultations with key federal stakeholders as well as any recommendations in developing the procurement strategy. It discusses the relevance and application of any applicable legislative, contractual or regulatory impacts on the various contracts (e.g., , trade agreements, and comprehensive land claims agreements). A discussion on the impact of socio-economic and national procurement policies should also be presented, including the identification of any incremental costs, if applicable, and risks associated with the strategy.",
+    "fr": "La stratégie d’approvisionnement énonce également la méthode de sollicitation et d’évaluation des soumissions et la façon dont les contrats seront accordés. Des facteurs économiques sont intégrés dans le processus au cours de l’élaboration de la stratégie d’approvisionnement. Ils expliquent comment la méthode proposée répond aux objectifs d’un approvisionnement équitable, ouvert et transparent."
+  },
+  {
+    "en": "This section provides a description of the governance for the project. The Secretariat’s provides detailed guidance on governing projects in the Government of Canada.",
+    "fr": "La présente section explique également le processus et le résultat des consultations interministérielles avec les principaux intervenants fédéraux ainsi que les recommandations en matière d’élaboration de la stratégie d’approvisionnement. Elle traite de la pertinence et de l’application des répercussions législatives, contractuelles ou réglementaires sur les divers contrats (p. ex., le , les accords commerciaux, et les ententes sur les revendications territoriales globales). Un exposé sur les répercussions des politiques socio-économiques et des politiques nationales d’approvisionnement devrait également être présenté, y compris l’établissement des coûts différentiels, s’il y a lieu, et les risques liés à la stratégie."
+  },
+  {
+    "en": "4.9 The governance and management approach to the overall project including:",
+    "fr": "La présente section décrit la gouvernance du projet. Le du Secrétariat donne des lignes directrices détaillées sur la gouvernance de projets au gouvernement du Canada."
+  },
+  {
+    "en": "This section provides the approval authority with a clear understanding of the oversight of the project. Oversight encompasses accountability, requires authority, and is a critical part of project governance. Refer to the for more information.",
+    "fr": "4.9 Méthode de gouvernance et de gestion du projet en entier, y compris ce qui suit :"
+  },
+  {
+    "en": "This section describes the roles and responsibilities established to manage the project, including other participating departments if applicable. It also identifies and describes Memoranda of Understanding (MOUs) or Service Level Agreements ( ) that have been signed by the sponsoring department and participating departments. Refer to the Secretariat’s for more information.",
+    "fr": "La présente section permet au responsable de l’approbation des projets de bien comprendre la surveillance du projet. La surveillance comprend la reddition de comptes, requiert certains pouvoirs, et constitue un volet essentiel de la gouvernance de projet. Se reporter au pour plus de renseignements."
+  },
+  {
+    "en": "When an organization establishes an interdepartmental agreement in the form of a project charter or with the other participating organizations, the project brief should identify the governance structure in the agreement, as well as the titles of the individuals accountable to the deputy heads for the successful management of the project.",
+    "fr": "La présente section décrit les rôles et responsabilités établis pour gérer le projet, y compris ceux et celles des autres ministères participants s’il y a lieu. Elle précise et décrit également les protocoles d’entente ( ) ou les accords sur les niveaux de service ( ) qui ont été signés par le ministère parrain et les ministères participants. Se reporter au pour plus de renseignements."
+  },
+  {
+    "en": "The roles and responsibilities may be presented in a table format, as in the example below.",
+    "fr": "Quand une organisation établit une entente interministérielle sous forme de charte de projet ou de avec les autres organisations participantes, l’énoncé de projet devrait indiquer la structure de gouvernance dans l’entente, ainsi que les titres des personnes qui doivent rendre des comptes aux administrateurs généraux sur le plan de la gestion réussie du projet."
+  },
+  {
+    "en": "Project Manager",
+    "fr": "Les rôles et les responsabilités peuvent être présentés sous forme de tableau, tel qu’il est indiqué ci-après."
+  },
+  {
+    "en": "Business Sponsor",
+    "fr": "Gestionnaire du projet"
+  },
+  {
+    "en": "Senior Project Advisory Committee ( )",
+    "fr": "Responsable opérationnel"
+  },
+  {
+    "en": "This section includes a summary of the structure within which the decision makers are situated and, when applicable, the mandate (e.g., terms of reference) of each committee involved.",
+    "fr": "Comité consultatif supérieurs de projet ( )"
+  },
+  {
+    "en": "If the project requires oversight by the Treasury Board, or if the project has departmental impacts, the related governance committees established to support appropriate engagement of the Secretariat and other potential stakeholders, including Public Works and Government Services Canada, Shared Services Canada, the Department of Justice Canada, Canada and other departments, are described in this section.",
+    "fr": "La présente section comprend un résumé de la structure dans laquelle se situent les décideurs et, s’il y a lieu, le mandat (p. ex., les attributions) de chaque comité impliqué."
+  },
+  {
+    "en": "Privacy Impact Assessments (PIAs) are used to identify the potential privacy risks of new or redesigned federal government programs or services. PIAs also help eliminate or reduce those risks to an acceptable level. Information on PIAs can be found on the website of the .",
+    "fr": "Si le projet nécessite une surveillance par le Conseil du Trésor, ou si le projet a des répercussions ministérielles, les comités de gouvernance connexes formés pour soutenir une mobilisation adéquate du Secrétariat et d’autres intervenants possibles, dont Travaux publics et Services gouvernementaux Canada, Services partagés Canada, le ministère de la Justice du Canada, Canada et d’autres ministères, sont décrits dans la présente section."
+  },
+  {
+    "en": "In accordance with the , this section provides a high-level description of the results of the or the Preliminary Privacy Impact Assessment ( ) and the measures taken or planned to address privacy issues and risks if applicable.",
+    "fr": "Les évaluations des facteurs relatifs à la vie privée ( ) sont utilisées pour déterminer les risques possibles pour la vie privée des programmes ou services du gouvernement fédéral nouveaux ou remaniés. Les aident également à éliminer ces risques ou à les ramener à un niveau acceptable. On peut trouver des renseignements sur les dans le site Web du ."
+  },
+  {
+    "en": "The following departments contributed to the preparation of this guide:",
+    "fr": "Conformément à la , la présente section donne une description globale des résultats de l’ ou de l’évaluation préliminaire des facteurs relatifs à la vie privée (EPFVP) et des mesures prises ou prévues pour cerner les aspects susceptibles de comporter des risques d’entrave à la vie privée s’il y a lieu."
+  },
+  {
+    "en": "Please direct enquiries about this policy instrument to the organizational unit in your department responsible for this subject matter. For interpretation of this policy instrument, the responsible organizational unit should contact: .",
+    "fr": "Les ministères suivants ont contribué à l’élaboration du présent guide :"
+  },
+  {
+    "en": "Estimated project costs are provided at a level of detail that provides assurance that detailed costing due diligence was performed. This will include a description of the costing methodology, references to source documents, and a statement on whether the cost estimates presented are substantive or indicative in nature.",
+    "fr": "Veuillez adresser vos demandes de renseignements concernant le présent instrument de politique à l'unité organisationnelle de votre ministère responsable de la question. Pour obtenir l'interprétation du présent instrument de politique, l'unité organisationnelle responsable de la question doit communiquer avec : ."
+  },
+  {
+    "en": "Costing is detailed, at a minimum, by project phase (e.g., definition, implementation, closeout), as well as by fiscal year if the project spans fiscal years. To fully substantiate the cost estimate provided, costing is to be further detailed by each defined work package or project stage and tied to a discrete project deliverable (output). For those phases of the project for which the organization is seeking , the sponsoring department must clearly demonstrate that the estimates supporting this request are substantive in nature.",
+    "fr": "Les coûts de projet estimatifs sont suffisamment détaillés pour fournir l’assurance que l’on a effectué la diligence raisonnable du calcul détaillé des coûts. Cette démarche comprend une description de la méthodologie d’établissement des coûts, des renvois aux documents d’origine, et une déclaration qui précise si l’estimation des coûts est fondée ou indicative."
+  },
+  {
+    "en": "For projects spanning more than a single fiscal year, project costs are to be presented in both current and constant dollars. The annual escalator and its source and appropriateness to the project must be clearly articulated.",
+    "fr": "Le calcul des coûts est au moins établi par étape du projet (p. ex., définition, mise en œuvre, clôture), et par exercice si le projet s’étend sur plusieurs exercices. Pour justifier pleinement l’estimation de coût fournie, le calcul des coûts doit être explicité davantage en fonction de chacun des ensembles de travaux définis ou de chacune des étapes de projet et lié à un produit concret du projet (extrant). Dans le cas des étapes du projet dont l’organisation requiert une , le ministère parrain doit établir clairement que l’estimation qui étaye cette demande est fondée."
+  },
+  {
+    "en": "Salary costs are included to reflect the organization’s practice for attributing salary costs to projects. A brief description of the practice and these estimated costs are clearly highlighted. The provides more information.",
+    "fr": "Dans le cas des projets qui s’étendent sur plus d’un exercice, les coûts du projet doivent être présentés en dollars courants et en dollars constants. Le facteur d’augmentation annuelle ainsi que sa source et son caractère approprié doivent être énoncés clairement."
+  },
+  {
+    "en": "Costing, which covers the full life-cycle of the recommended investment option, is also presented. The TBS defines the phases of life-cycle management as: assessing requirements; analyzing options; planning acquisition; acquiring; operating, using, and maintaining; and disposing and replacing. This cost estimate is to be prepared in accordance with departmental standards and processes for developing a total investment life-cycle cost estimate. The investment life-cycle will include the project life-cycle (i.e., activities required to produce the project output) and the operations, use and maintenance costs covering the useful life of the proposed project output. This information is to reflect the detailed options analysis considered in the business case, which is to be referenced.",
+    "fr": "Les coûts salariaux sont inclus afin de refléter la pratique de l’organisation en matière d’attribution des coûts salariaux aux projets. Une brève description claire de la pratique et de ces coûts estimatifs est donnée. Le fournit davantage de renseignements."
+  },
+  {
+    "en": "Costing information is to include a list of assumptions and exclusions, and risk and contingency broken down as appropriate by deliverable, phase and work package.",
+    "fr": "L’établissement des coûts, qui englobe le cycle de vie complet de l’option d’investissement recommandée, est également présenté. Le du définit les étapes de la gestion du cycle de vie : la détermination des exigences; l'analyse des possibilités; la planification des acquisitions; l'acquisition; l'exploitation, l'utilisation et l'entretien; ainsi que l'aliénation et la substitution d'un bien matériel. L’estimation des coûts doit être préparée conformément aux normes et processus ministériels d’élaboration de l’estimation du coût du cycle de vie total de l’investissement. Le cycle de vie de l’investissement comprendra le cycle de vie du projet (soit les activités requises pour générer le produit résultant du projet) et les coûts de fonctionnement, d’utilisation et d’entretien qui couvrent la vie utile du produit de projet proposé. Ces renseignements doivent refléter l’analyse détaillée des possibilités envisagées dans l’analyse de rentabilisation, à laquelle il faut faire référence."
+  },
+  {
+    "en": "For projects involving more than one department, costing tables are to be developed to provide a full project costing estimate, including costs incurred by all contributing partners, including non-federal partners.",
+    "fr": "Les données sur les coûts doivent comprendre une liste d’hypothèses et d’exclusions, ainsi que les risques et les éventualités répartis par réalisation, par étape et par ensembles de travaux au besoin."
+  },
+  {
+    "en": "The reference documents and methodology used to derive the project cost estimates are described.",
+    "fr": "Dans le cas des projets qui concernent plus d’un ministère, des tableaux d’établissement des coûts doivent être créés pour donner une estimation complète des coûts, y compris les coûts engagés par tous les partenaires qui apportent une contribution, dont ceux qui ne sont pas de l’administration fédérale."
+  },
+  {
+    "en": "For example: “The was used to develop all cost estimates presented, in close collaboration with the . Further details on the cost estimate are available in the cost estimation document, approved on January DD, YYYY. These estimates were based on , which was closed out on December DD, YYYY. A workshop with all key stakeholders was held, and the findings were documented in the cost estimation document. A quantity surveyor and professional costing firm were then engaged, and the relevant costing documents are referenced.”",
+    "fr": "Les documents de référence et la méthodologie utilisée pour dégager les estimations des coûts du projet sont décrits."
+  },
+  {
+    "en": "A table may also be useful in presenting the cost estimates.",
+    "fr": "Par exemple : « Le a été utilisé pour établir toutes les estimations de coûts présentées, en étroite collaboration avec le . Vous pouvez obtenir des renseignements complémentaires sur l’estimation des coûts dans le document d’estimation des coûts , approuvé le JJ janvier AAAA. Ces estimations s’appuyaient sur le , qui a pris fin le JJ décembre AAAA. Un atelier regroupant tous les intervenants principaux a eu lieu, et les constatations ont été étayées dans le document d’estimation des coûts. Un évaluateur de la quantité et une société professionnelle d’établissement des coûts ont alors été recrutées, et il est fait référence aux documents pertinents d’établissement des coûts. »"
+  },
+  {
+    "en": "Milestones and key project outputs (i.e., deliverables);",
+    "fr": "Un tableau pourrait être utile pour présenter des estimations des coûts."
+  },
+  {
+    "en": "Checkpoints within the project governance hierarchy, including the department and the Treasury Board of Canada Secretariat (the Secretariat);",
+    "fr": "des jalons et les principaux produits du projet (réalisations);"
+  },
+  {
+    "en": "Details on implementation planning; and,",
+    "fr": "les points de vérification dans la hiérarchie de gouvernance du projet, y compris le ministère et le Secrétariat du Conseil du Trésor du Canada (le Secrétariat);"
+  },
+  {
+    "en": "Project gates at which consideration by Treasury Board ministers will be relevant.",
+    "fr": "des renseignements sur la planification de la mise en œuvre;"
+  },
+  {
+    "en": "What is the business outcome?",
+    "fr": "des bornes de projet que les ministres du Conseil du Trésor devraient examiner."
+  },
+  {
+    "en": "Why is the specific business outcome needed?",
+    "fr": "Quel est le résultat opérationnel?"
+  },
+  {
+    "en": "Why is the project to deliver the business outcome needed now? (i.e. What are the consequences of not going forward with this proposed solution now?)",
+    "fr": "Pourquoi ce résultat opérationnel en particulier est-il nécessaire?"
+  },
+  {
+    "en": "Two examples of a description of a project and its business outcomes are included as an annex to this guide.",
+    "fr": "Pourquoi le projet doit-il fournir le résultat opérationnel voulu maintenant? (c.-à-d., quelles sont les conséquences de ne pas aller de l'avant avec cette solution proposée maintenant?)"
+  },
+  {
+    "en": "The process for logging, analyzing and approving project change requests;",
+    "fr": "le processus d’enregistrement, d’analyse et d’approbation des demandes de changement dans les projets;"
+  },
+  {
+    "en": "Change control board procedures;",
+    "fr": "les procédures de modification des comités de contrôle;"
+  },
+  {
+    "en": "The tracking of project changes in progress; and",
+    "fr": "le suivi des changements de projet en cours;"
+  },
+  {
+    "en": "Procedures for notification of concerned parties, including the Secretariat, when changes to the project baseline are being proposed to the project approval authority.",
+    "fr": "les procédures de préavis aux parties touchées, dont le Secrétariat, lorsque des changements au cadre du projet sont proposés au responsable de l’approbation de projet."
+  },
+  {
+    "en": "Achieving the approved project scope within the planned (baseline) cost and schedule;",
+    "fr": "Réaliser le projet selon la portée approuvée en respectant les coûts (de base) et le calendrier prévus."
+  },
+  {
+    "en": "Reporting to the Business Sponsor or the Project Steering Committee ( ) and managing the Project Team;",
+    "fr": "Faire rapport au parrain ou au comité de direction du projet ( ) et gérer l’équipe du projet."
+  },
+  {
+    "en": "Tracking project status by comparing cost-schedule performance to approved and documented cost-schedule baseline; and",
+    "fr": "Assurer un suivi de l’évolution du projet en comparant le rendement en matière de coûts et de délais au cadre des coûts et des délais approuvé et documenté."
+  },
+  {
+    "en": "Ensuring proactive and continuous risk and issue management and escalating risks and/or issues for resolution.",
+    "fr": "Assurer une gestion des risques et des enjeux proactive et continue et des risques et problèmes en croissance à des fins de résolution."
+  },
+  {
+    "en": "Delivering the business outcomes and benefits;",
+    "fr": "Produire les résultats et les avantages opérationnels."
+  },
+  {
+    "en": "Ensuring the engagement of required project stakeholder groups (e.g., project interdependencies); and",
+    "fr": "Assurer la mobilisation des groupes d’intervenants de projet requis (p. ex., les interdépendances de projet)."
+  },
+  {
+    "en": "Ensuring resolution of risks and issues escalated by the project manager.",
+    "fr": "Régler les risques et les problèmes transmis par le gestionnaire de projet."
+  },
+  {
+    "en": "Establishing business buy-in and support;",
+    "fr": "Établir l’adhésion et le soutien opérationnels."
+  },
+  {
+    "en": "Considering appropriate steps to orient a risk project to achieve national objectives;",
+    "fr": "Envisager les étapes appropriées pour orienter un projet à risque de manière à réaliser des objectifs nationaux."
+  },
+  {
+    "en": "Enabling success of the project through appropriate resourcing; and",
+    "fr": "Permettre le succès du projet par une affectation adéquate des ressources."
+  },
+  {
+    "en": "Resolving issues that arise and facilitating communication with all stakeholders;",
+    "fr": "Régler les problèmes qui surviennent et faciliter la communication avec tous les intervenants."
+  },
+  {
+    "en": "Fisheries and Oceans Canada",
+    "fr": "Pêches et Océans Canada"
+  },
+  {
+    "en": "Human Resources and Skills Development Canada",
+    "fr": "Ressources humaines et Développement des compétences Canada"
+  },
+  {
+    "en": "National Defence",
+    "fr": "Défense nationale"
+  },
+  {
+    "en": "Natural Resources Canada",
+    "fr": "Ressources naturelles Canada"
+  },
+  {
+    "en": "Royal Canadian Mounted Police",
+    "fr": "Gendarmerie royale du Canada"
+  },
+  {
+    "en": "Treasury Board of Canada Secretariat, Chief Information Officer Branch (CIOB)",
+    "fr": "Secrétariat du Conseil du Trésor du Canada, Direction du dirigeant principal de l’information ( )"
+  }
+]
