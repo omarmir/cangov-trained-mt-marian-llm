@@ -1,0 +1,9 @@
+transformers
+datasets
+evaluate
+torch
+numpy
+sentencepiece
+protobuf
+sacrebleu
+accelerate>=0.26.0
