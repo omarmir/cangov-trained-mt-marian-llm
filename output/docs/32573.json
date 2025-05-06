@@ -1,210 +1,140 @@
 [
   {
     "en": "Policy on Green Procurement.",
-    "fr": "Politique d’achats écologiques."
+    "fr": "Politique d’achats écologiques.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "This policy is effective as of April 1, 2006 and incorporates changes effective as of May 14, 2018.",
-    "fr": "La politique est entrée en vigueur le 1er avril 2006 et incorpore les modifications en vigueur le 14 mai 2018."
+    "fr": "La politique est entrée en vigueur le 1er avril 2006 et incorpore les modifications en vigueur le 14 mai 2018.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "The policy applies to all departments within the meaning of section 2 of the , unless specific acts or regulations override it.",
-    "fr": "La présente politique s’applique à tous les ministères au sens de l’article 2 de la , à moins que des lois et des règlements spécifiques ne prévalent."
+    "en": "The policy applies to all departments within the meaning of section 2 of the Financial Administration Act, unless specific acts or regulations override it.",
+    "fr": "La présente politique s’applique à tous les ministères au sens de l’article 2 de la Loi sur la gestion des finances publiques, à moins que des lois et des règlements spécifiques ne prévalent.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "The federal government is a significant purchaser in Canada. As such, its activities impact the national economy and can influence both the price and the availability of goods and services, including construction services, in the marketplace. Through the increased promotion of environmental sustainability, and by integrating environmental considerations in its procurement process, the federal government is in a position to influence the demand for environmentally preferable goods and services, the ability of industry to respond to the escalating use of environmental standards in global markets, and the resiliency of Canadian assets to climate change.",
-    "fr": "Le gouvernement fédéral est un acheteur important au Canada. À ce titre, ses activités ont des répercussions sur l’économie nationale et peuvent influer tant sur le prix que sur la disponibilité des biens et services sur le marché, y compris les services de construction. En faisant de plus en plus la promotion de l’environnement durable et en intégrant des considérations environnementales à son processus d’achats, le gouvernement fédéral est en position d’influer sur la demande de biens et services à privilégier du point de vue environnemental, sur la capacité de répondre à l’utilisation grandissante des normes environnementales dans les marchés globaux et la résilience des biens canadiens aux changements climatiques."
+    "fr": "Le gouvernement fédéral est un acheteur important au Canada. À ce titre, ses activités ont des répercussions sur l’économie nationale et peuvent influer tant sur le prix que sur la disponibilité des biens et services sur le marché, y compris les services de construction. En faisant de plus en plus la promotion de l’environnement durable et en intégrant des considérations environnementales à son processus d’achats, le gouvernement fédéral est en position d’influer sur la demande de biens et services à privilégier du point de vue environnemental, sur la capacité de répondre à l’utilisation grandissante des normes environnementales dans les marchés globaux et la résilience des biens canadiens aux changements climatiques.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
     "en": "As part of its ongoing commitment to improve the environment and the quality of life of Canadians, this policy seeks to reduce the environmental impacts of government operations, promote environmental stewardship, and adapt to climate change by integrating environmental considerations in the procurement process.",
-    "fr": "Dans le cadre de l’engagement continu du gouvernement en vue d’améliorer l’environnement et la qualité de vie des Canadiens, la présente politique vise à réduire les répercussions des activités du gouvernement sur l’environnement, à promouvoir la gérance de l’environnement et à s’adapter aux changements climatiques en intégrant des facteurs environnementaux au processus d’achats."
+    "fr": "Dans le cadre de l’engagement continu du gouvernement en vue d’améliorer l’environnement et la qualité de vie des Canadiens, la présente politique vise à réduire les répercussions des activités du gouvernement sur l’environnement, à promouvoir la gérance de l’environnement et à s’adapter aux changements climatiques en intégrant des facteurs environnementaux au processus d’achats.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
     "en": "Green procurement is set within the context of achieving value for money. It requires the integration of environmental considerations into the procurement process including planning, acquisition, use and disposal. In this context, value for money includes the consideration of many factors such as cost, performance, availability, quality and environmental performance. Green procurement also requires an understanding of the whole lifecycle of goods and services being acquired from resource extraction through to disposal, including the total cost of ownership, the relevant risks and opportunities, the environmental and economic costs or benefits to society, and any environmental or economic non-monetized positive or negative impacts to society. In addition, the supporting administrative processes and procurement methods can also offer opportunities to reduce the environmental impacts of government operations.",
-    "fr": "Les achats écologiques s’inscrivent dans un contexte visant à établir le meilleur rapport qualité-prix. Ils demandent l’intégration de facteurs environnementaux au processus d’achats qui comprend les éléments de planification, d’achat, d’utilisation et d’aliénation. Dans ce contexte, le principe d’optimisation des ressources repose sur plusieurs éléments comme le coût, la performance, la disponibilité, la qualité et la performance environnementale. La politique d’achats écologiques exige également une compréhension de tout le cycle de vie des biens et services achetés, de l’extraction des ressources jusqu’à leur aliénation, y compris le coût total de leur détention, des risques pertinents et des possibilités, les coûts environnementaux et économiques ou les avantages pour la société, et toutes incidences environnementales ou économiques non monétaires positives ou négatives pour la société. De même, pour ce qui est du soutien, les processus administratifs et les méthodes d’approvisionnement peuvent également fournir des occasions de réduire les répercussions environnementales des activités du gouvernement."
+    "fr": "Les achats écologiques s’inscrivent dans un contexte visant à établir le meilleur rapport qualité-prix. Ils demandent l’intégration de facteurs environnementaux au processus d’achats qui comprend les éléments de planification, d’achat, d’utilisation et d’aliénation. Dans ce contexte, le principe d’optimisation des ressources repose sur plusieurs éléments comme le coût, la performance, la disponibilité, la qualité et la performance environnementale. La politique d’achats écologiques exige également une compréhension de tout le cycle de vie des biens et services achetés, de l’extraction des ressources jusqu’à leur aliénation, y compris le coût total de leur détention, des risques pertinents et des possibilités, les coûts environnementaux et économiques ou les avantages pour la société, et toutes incidences environnementales ou économiques non monétaires positives ou négatives pour la société. De même, pour ce qui est du soutien, les processus administratifs et les méthodes d’approvisionnement peuvent également fournir des occasions de réduire les répercussions environnementales des activités du gouvernement.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "This policy is issued pursuant to section 7 of the , the , section 4 of the and section 5 and 6 of the .",
-    "fr": "La présente politique est émise conformément à l’article 7 de la , de la de l’article 4 de la et des articles 5 et 6 de la ."
+    "en": "This policy is issued pursuant to section 7 of the Financial Administration Act, the Department of Public Works and Government Services Act, section 4 of the Department of the Environment Act and section 5 and 6 of the Department of Natural Resources Act.",
+    "fr": "La présente politique est émise conformément à l’article 7 de la Loi sur la gestion des finances publiques, de la Loi sur le ministère des Travaux publics et des Services gouvernementaux, de l’article 4 de la Loi sur le ministère de l’Environnement et des articles 5 et 6 de la Loi sur le ministère des Ressources naturelles.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
     "en": "The policy also supports the federal government in targeting specific environmental outcomes where procurement can effectively be used to mitigate the impact of – or adapt to – environmental issues such as climate change and can support the protection of biodiversity, natural areas, air, soil and water. Where decisions are made to move forward on realizing specific environmental outcomes through procurement, it is expected this will:",
-    "fr": "La présente politique vient également appuyer le gouvernement fédéral pour cibler des résultats environnementaux spécifiques relativement auxquels la politique d’achats peut servir à atténuer les incidences environnementales – ou à s’y adapter – telles que les répercussions des changements climatiques et aider à protéger la biodiversité, l’aire naturelle ainsi que l’air, le sol et l’eau. On s’attend à ce que les mesures d’achats résultant des décisions prises en vue d’atteindre des résultats environnementaux spécifiques contribuent à :"
+    "fr": "La présente politique vient également appuyer le gouvernement fédéral pour cibler des résultats environnementaux spécifiques relativement auxquels la politique d’achats peut servir à atténuer les incidences environnementales – ou à s’y adapter – telles que les répercussions des changements climatiques et aider à protéger la biodiversité, l’aire naturelle ainsi que l’air, le sol et l’eau. On s’attend à ce que les mesures d’achats résultant des décisions prises en vue d’atteindre des résultats environnementaux spécifiques contribuent à :",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "demonstrate environmental leadership and influence industry and citizens to use environmentally preferable and climate-resilient goods, services and processes;stimulate innovation and market development of, and demand for, environmentally preferred goods and services, making these available and mainstream for other sectors of society; andsupport emerging environmental technologies.",
+    "fr": "démontrer l’esprit de leadership du gouvernement dans le secteur environnemental et à inciter l’industrie et les citoyens à utiliser les biens, les services et les processus résilients aux changements climatiques et à privilégier du point de vue environnemental; stimuler l’esprit d’innovation et le développement de marchés et de la demande relativement aux biens et services à privilégier du point de vue environnemental, de manière à rendre ces biens et services disponibles et courants pour d’autres secteurs de la société; et appuyer les nouvelles technologies environnementales.",
+    "anchor": "4",
+    "tag": "ul"
   },
   {
     "en": "Environmentally preferable goods and services are those that have a lesser or reduced impact on the environment over the life cycle of the good or service, when compared with competing goods or services serving the same purpose. Environmental considerations include, among other things: the reduction of greenhouse gas emissions and air contaminants; improved energy and water efficiency; reduced waste and support reuse and recycling; the use of renewable resources; reduced hazardous waste; reduced toxic and hazardous substances; and biodiversity.",
-    "fr": "Les biens et services à privilégier du point de vue environnemental sont ceux qui ont une incidence moindre ou réduite sur l’environnement pendant le cycle de vie du bien ou du service, lorsqu’on les compare aux biens et services concurrentiels servant aux mêmes fins. Les facteurs environnementaux comprennent entre autres : la réduction des émissions de gaz à effet de serre et des contaminants atmosphériques; l’accroissement de l’efficacité énergétique et de l’économie des ressources en eau; la diminution des déchets et la promotion de la réutilisation et du recyclage; l’utilisation des ressources renouvelables; la réduction des déchets dangereux; la réduction des substances toxiques et chimiques dangereuses; et la biodiversité."
+    "fr": "Les biens et services à privilégier du point de vue environnemental sont ceux qui ont une incidence moindre ou réduite sur l’environnement pendant le cycle de vie du bien ou du service, lorsqu’on les compare aux biens et services concurrentiels servant aux mêmes fins. Les facteurs environnementaux comprennent entre autres : la réduction des émissions de gaz à effet de serre et des contaminants atmosphériques; l’accroissement de l’efficacité énergétique et de l’économie des ressources en eau; la diminution des déchets et la promotion de la réutilisation et du recyclage; l’utilisation des ressources renouvelables; la réduction des déchets dangereux; la réduction des substances toxiques et chimiques dangereuses; et la biodiversité.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "It is the objective of this policy to advance the protection of the environment and support sustainable development by integrating environmental performance considerations into the procurement decision-making process.",
-    "fr": "La présente politique a pour objectif de favoriser la protection de l’environnement et d’appuyer le développement durable en intégrant des facteurs de performance environnementale au processus de prise de décision en matière d’achats."
+    "en": "ObjectiveIt is the objective of this policy to advance the protection of the environment and support sustainable development by integrating environmental performance considerations into the procurement decision-making process.",
+    "fr": "ObjectifLa présente politique a pour objectif de favoriser la protection de l’environnement et d’appuyer le développement durable en intégrant des facteurs de performance environnementale au processus de prise de décision en matière d’achats.",
+    "anchor": "6",
+    "tag": "section"
   },
   {
-    "en": "The expected results of this policy are:",
-    "fr": "Les résultats attendus de la présente politique sont les suivants :"
+    "en": "Expected resultsThe expected results of this policy are:contribution to environmental objectives, such as: reducing greenhouse gas emissions and air contaminants;improving energy and water efficiency;reducing ozone depleting substances;reducing waste and supporting reuse and recycling;reducing hazardous waste; reducing toxic and hazardous chemicals and substances; andsupporting biodiversity lever the purchasing power of the federal government to achieve economies of scale in the acquisition of environmentally preferable goods and services, thereby reducing the cost for government and strengthening greener markets and industries; result in more environmentally responsible planning, acquisition, use and disposal practices in the federal government;support a healthier healthy working environmentworkplace for employees and for citizens in general through the purchase of environmentally preferable goods and services; anda federal government that is resilient to climate change.",
+    "fr": "Résultats attendusLes résultats attendus de la présente politique sont les suivants : la contribution aux objectifs environnementaux, notamment : la réduction des émissions de gaz à effet de serre et des contaminants atmosphériques; l’accroissement de l’efficacité énergétique et de l’économie des ressources en eau; la diminution des substances appauvrissant la couche d’ozone; la diminution des déchets et la promotion de la réutilisation et du recyclage; la réduction des déchets dangereux; la réduction des substances toxiques et chimiques dangereuses; etle soutien à la biodiversité.constitue un moyen d’utiliser le pouvoir d’achat du gouvernement fédéral comme un levier pour réaliser des économies d’échelle dans le cadre de l’achat de biens et services à privilégier du point de vue environnemental, de manière à réduire les coûts pour le gouvernement et à renforcer les marchés et les industries écologiques; entraîne la mise en œuvre de pratiques de planification, d’achat, d’utilisation et d’aliénation plus respectueuses de l’environnement au gouvernement fédéral; favorise l’établissement d’un milieu de travail sain pour les employés et les citoyens en général par l’achat de biens et services à privilégier du point de vue environnemental; etun gouvernement fédéral qui est résilient aux changements climatiques.",
+    "anchor": "6",
+    "tag": "section"
   },
   {
     "en": "Deputy heads are accountable to ensure their management control frameworks incorporate environmental considerations: from procurement planning, identification and definition of requirements, acquisition, operation and maintenance of assets, to disposal of goods or closure activities of services.",
-    "fr": "Les administrateurs généraux doivent veiller à ce que leurs cadres de contrôle de la gestion incorporent des facteurs environnementaux : à partir de la planification des achats, de la détermination et de la définition des exigences, de l’acquisition, de l’exploitation et de l’entretien des biens jusqu’aux activités d’aliénation des biens ou aux activités de clôture relativement aux services."
+    "fr": "Les administrateurs généraux doivent veiller à ce que leurs cadres de contrôle de la gestion incorporent des facteurs environnementaux : à partir de la planification des achats, de la détermination et de la définition des exigences, de l’acquisition, de l’exploitation et de l’entretien des biens jusqu’aux activités d’aliénation des biens ou aux activités de clôture relativement aux services.",
+    "anchor": "7.2",
+    "tag": "p"
   },
   {
     "en": "Specifically, Deputy heads are accountable to:",
-    "fr": "Plus précisément, les administrateurs généraux doivent veiller à ce que leur organisation respective :"
+    "fr": "Plus précisément, les administrateurs généraux doivent veiller à ce que leur organisation respective :",
+    "anchor": "7.2",
+    "tag": "p"
   },
   {
-    "en": "This Policy is to be read in conjunction with the .",
-    "fr": "La présente politique doit être lue parallèlement à la ."
+    "en": "Treasury Board of Canada Secretariat will:",
+    "fr": "Le Secrétariat du Conseil du Trésor :",
+    "anchor": "8",
+    "tag": "p"
   },
   {
-    "en": "Additional relevant legislation and regulations include:",
-    "fr": "Les lois et les règlements pertinents comprennent les suivants :"
+    "en": "in collaboration with Public Works and Government Services Canada, Environment Canada, Natural Resources Canada, and Shared Services Canada, develop directives and standards and recommend these for approval to the Secretary of the Treasury Board;in collaboration with Public Works and Government Services Canada, Environment Canada, Natural Resources Canada, and Shared Services Canada develop tools, guidance, and training necessary to support this policy consistent with best practices in the public and private sector;develop performance measures for planning and reporting on green procurement to be used by federal departments;issue guidelines for planning and reporting on green procurement performance in the annual Departmental Plan and Departmental Results Report; support departments in analyzing and reporting, on a government-wide basis, departmental efforts in setting and achieving green procurement targets;ensure the core curriculum for managers as well as procurement and materiel communities, incorporates green procurement; andevaluate the effectiveness of this policy periodically.",
+    "fr": "en collaboration avec Travaux publics et services gouvernementaux Canada, Environnement Canada, Ressources naturelles Canada, et Services partagés Canada élaborera les directives et les normes qu’il recommandera à l’approbation du Secrétaire du Conseil du Trésor du Canada; en collaboration avec Travaux publics et services gouvernementaux Canada, Environnement Canada, Ressources naturelles Canada, et Services partagés Canada élaborera les outils, les lignes directrices et les cours de formation appropriés requis pour appuyer cette politique en conformité avec les meilleures pratiques des secteurs public et privé;élaborera des mesures de performance pour la planification et l’établissement de rapports sur l’approvisionnement écologique qui seront utilisées par les ministères fédéraux;émettra des lignes directrices en matière de planification et d’établissement de comptes rendus sur la performance en matière d’achats écologiques notamment en faisant mention dans le plan ministériel annuel et le rapport ministériel sur les résultats; appuiera les ministères dans l’analyse et la production de rapports, à l’échelle du gouvernement, et les efforts ministériels à établir et à atteindre les objectifs en matière d’achats écologiques;établira le programme de base à l’intention des gestionnaires de même qu’à l’intention des secteurs des achats et du matériel, en y incorporant des mesures d’achats écologiques; et évaluera périodiquement l’efficacité de la présente politique.",
+    "anchor": "8",
+    "tag": "ul"
   },
   {
-    "en": "This Policy is to be read in conjunction with the (or its replacement) and associated policies and directives; the ; the Policy on Transfer Payments; the ; and the",
-    "fr": "La présente politique doit être lue parallèlement aux documents suivants : (ou son remplacement) et ses politiques et directives connexes; la ; la ; la ; et la ."
+    "en": "Public Works and Government Services Canada and Shared Services Canada will:",
+    "fr": "Travaux publics et services gouvernementaux Canada et Services partagés Canada :",
+    "anchor": "8",
+    "tag": "p"
   },
   {
-    "en": "This Policy is to be read in conjunction with the Treasury Board of Canada Secretariat Management Accountability Framework.",
-    "fr": "La présente politique doit être lue parallèlement au Cadre de responsabilisation de gestion du Secrétariat du Conseil du Trésor du Canada."
+    "en": "support the Treasury Board of Canada Secretariat in implementing this policy government-wide. This will include: scientific, technical and environmental policy expertise; advice on environmental aspects and impacts, and environmental standards; setting environmental performance measures; and information on performance data and availability of environmental goods and services; andinclude environmentally preferable options (i.e. that have a lesser or reduced impact on the environment over the life cycle of the good or service, when compared with competing goods or services serving the same purpose) in the procurement services offered to client departments where feasible.",
+    "fr": "appuiera le Secrétariat du Conseil du Trésor du Canada dans la mise en œuvre de cette politique à l’échelle du gouvernement. Cela comportera la prestation : d’expertise au chapitre de la politique dans les secteurs scientifiques, techniques et environnementaux; de conseils sur divers aspects environnementaux et les répercussions environnementales et sur les normes environnementales; l’établissement de mesures de performance environnementale; et la prestation de renseignements sur les données de performance et sur la disponibilité de biens et services environnementaux.inclura des options privilégiées sur le plan environnemental (c’est-à-dire, qui ont une incidence moindre ou réduite sur l’environnement au cours du cycle de vie du bien ou du service, comparativement aux biens et aux services concurrents qui ont la même utilité) dans les services d’approvisionnement offerts aux ministères clients dans la mesure du possible.",
+    "anchor": "8",
+    "tag": "ul"
   },
   {
-    "en": "For interpretation of any aspect of this policy, .",
-    "fr": "Pour l’interprétation de tout aspect de la présente politique, veuillez communiquer avec le service chargé de répondre aux"
-  },
-  {
-    "en": "demonstrate environmental leadership and influence industry and citizens to use environmentally preferable and climate-resilient goods, services and processes;",
-    "fr": "démontrer l’esprit de leadership du gouvernement dans le secteur environnemental et à inciter l’industrie et les citoyens à utiliser les biens, les services et les processus résilients aux changements climatiques et à privilégier du point de vue environnemental;"
-  },
-  {
-    "en": "stimulate innovation and market development of, and demand for, environmentally preferred goods and services, making these available and mainstream for other sectors of society; and",
-    "fr": "stimuler l’esprit d’innovation et le développement de marchés et de la demande relativement aux biens et services à privilégier du point de vue environnemental, de manière à rendre ces biens et services disponibles et courants pour d’autres secteurs de la société; et"
-  },
-  {
-    "en": "support emerging environmental technologies.",
-    "fr": "appuyer les nouvelles technologies environnementales."
-  },
-  {
-    "en": "contribution to environmental objectives, such as:",
-    "fr": "la contribution aux objectifs environnementaux, notamment :"
-  },
-  {
-    "en": "reducing greenhouse gas emissions and air contaminants;",
-    "fr": "la réduction des émissions de gaz à effet de serre et des contaminants atmosphériques;"
-  },
-  {
-    "en": "improving energy and water efficiency;",
-    "fr": "l’accroissement de l’efficacité énergétique et de l’économie des ressources en eau;"
-  },
-  {
-    "en": "reducing ozone depleting substances;",
-    "fr": "la diminution des substances appauvrissant la couche d’ozone;"
-  },
-  {
-    "en": "reducing waste and supporting reuse and recycling;",
-    "fr": "la diminution des déchets et la promotion de la réutilisation et du recyclage;"
-  },
-  {
-    "en": "reducing hazardous waste;",
-    "fr": "la réduction des déchets dangereux;"
-  },
-  {
-    "en": "reducing toxic and hazardous chemicals and substances; and",
-    "fr": "la réduction des substances toxiques et chimiques dangereuses; et"
-  },
-  {
-    "en": "supporting biodiversity",
-    "fr": "le soutien à la biodiversité."
-  },
-  {
-    "en": "lever the purchasing power of the federal government to achieve economies of scale in the acquisition of environmentally preferable goods and services, thereby reducing the cost for government and strengthening greener markets and industries;",
-    "fr": "constitue un moyen d’utiliser le pouvoir d’achat du gouvernement fédéral comme un levier pour réaliser des économies d’échelle dans le cadre de l’achat de biens et services à privilégier du point de vue environnemental, de manière à réduire les coûts pour le gouvernement et à renforcer les marchés et les industries écologiques;"
-  },
-  {
-    "en": "result in more environmentally responsible planning, acquisition, use and disposal practices in the federal government;",
-    "fr": "entraîne la mise en œuvre de pratiques de planification, d’achat, d’utilisation et d’aliénation plus respectueuses de l’environnement au gouvernement fédéral;"
-  },
-  {
-    "en": "support a healthier healthy working environmentworkplace for employees and for citizens in general through the purchase of environmentally preferable goods and services; and",
-    "fr": "favorise l’établissement d’un milieu de travail sain pour les employés et les citoyens en général par l’achat de biens et services à privilégier du point de vue environnemental; et"
-  },
-  {
-    "en": "a federal government that is resilient to climate change.",
-    "fr": "un gouvernement fédéral qui est résilient aux changements climatiques."
-  },
-  {
-    "en": "in collaboration with Public Works and Government Services Canada, Environment Canada, Natural Resources Canada, and Shared Services Canada, develop directives and standards and recommend these for approval to the Secretary of the Treasury Board;",
-    "fr": "en collaboration avec Travaux publics et services gouvernementaux Canada, Environnement Canada, Ressources naturelles Canada, et Services partagés Canada élaborera les directives et les normes qu’il recommandera à l’approbation du Secrétaire du Conseil du Trésor du Canada;"
-  },
-  {
-    "en": "in collaboration with Public Works and Government Services Canada, Environment Canada, Natural Resources Canada, and Shared Services Canada develop tools, guidance, and training necessary to support this policy consistent with best practices in the public and private sector;",
-    "fr": "en collaboration avec Travaux publics et services gouvernementaux Canada, Environnement Canada, Ressources naturelles Canada, et Services partagés Canada élaborera les outils, les lignes directrices et les cours de formation appropriés requis pour appuyer cette politique en conformité avec les meilleures pratiques des secteurs public et privé;"
-  },
-  {
-    "en": "develop performance measures for planning and reporting on green procurement to be used by federal departments;",
-    "fr": "élaborera des mesures de performance pour la planification et l’établissement de rapports sur l’approvisionnement écologique qui seront utilisées par les ministères fédéraux;"
-  },
-  {
-    "en": "issue guidelines for planning and reporting on green procurement performance in the annual Departmental Plan and Departmental Results Report;",
-    "fr": "émettra des lignes directrices en matière de planification et d’établissement de comptes rendus sur la performance en matière d’achats écologiques notamment en faisant mention dans le plan ministériel annuel et le rapport ministériel sur les résultats;"
-  },
-  {
-    "en": "support departments in analyzing and reporting, on a government-wide basis, departmental efforts in setting and achieving green procurement targets;",
-    "fr": "appuiera les ministères dans l’analyse et la production de rapports, à l’échelle du gouvernement, et les efforts ministériels à établir et à atteindre les objectifs en matière d’achats écologiques;"
-  },
-  {
-    "en": "ensure the core curriculum for managers as well as procurement and materiel communities, incorporates green procurement; and",
-    "fr": "établira le programme de base à l’intention des gestionnaires de même qu’à l’intention des secteurs des achats et du matériel, en y incorporant des mesures d’achats écologiques; et"
-  },
-  {
-    "en": "evaluate the effectiveness of this policy periodically.",
-    "fr": "évaluera périodiquement l’efficacité de la présente politique."
-  },
-  {
-    "en": "support the Treasury Board of Canada Secretariat in implementing this policy government-wide. This will include: scientific, technical and environmental policy expertise; advice on environmental aspects and impacts, and environmental standards; setting environmental performance measures; and information on performance data and availability of environmental goods and services; and",
-    "fr": "appuiera le Secrétariat du Conseil du Trésor du Canada dans la mise en œuvre de cette politique à l’échelle du gouvernement. Cela comportera la prestation : d’expertise au chapitre de la politique dans les secteurs scientifiques, techniques et environnementaux; de conseils sur divers aspects environnementaux et les répercussions environnementales et sur les normes environnementales; l’établissement de mesures de performance environnementale; et la prestation de renseignements sur les données de performance et sur la disponibilité de biens et services environnementaux."
-  },
-  {
-    "en": "include environmentally preferable options (i.e. that have a lesser or reduced impact on the environment over the life cycle of the good or service, when compared with competing goods or services serving the same purpose) in the procurement services offered to client departments where feasible.",
-    "fr": "inclura des options privilégiées sur le plan environnemental (c’est-à-dire, qui ont une incidence moindre ou réduite sur l’environnement au cours du cycle de vie du bien ou du service, comparativement aux biens et aux services concurrents qui ont la même utilité) dans les services d’approvisionnement offerts aux ministères clients dans la mesure du possible."
+    "en": "Environment Canada and Natural Resources Canada will:",
+    "fr": "Environnement Canada et Ressources naturelles Canada :",
+    "anchor": "8",
+    "tag": "p"
   },
   {
     "en": "support the Treasury Board of Canada Secretariat in implementing this policy government-wide. This will include: scientific, technical and environmental policy expertise; advice on environmental aspects and impacts, and environmental standards; setting environmental performance measures; and information on performance data and availability of environmental goods and services.",
-    "fr": "appuiera le Secrétariat du Conseil du Trésor du Canada dans la mise en œuvre de cette politique à l’échelle du gouvernement, ce qui comportera la prestation : d’expertise au chapitre de la politique dans les secteurs scientifiques, techniques et environnementaux ; de conseils sur divers aspects environnementaux et sur les répercussions environnementales et sur les normes environnementales; l’établissement de mesures de performance environnementale ; et la prestation de renseignements sur les données de performance et sur la disponibilité de biens et services environnementaux."
+    "fr": "appuiera le Secrétariat du Conseil du Trésor du Canada dans la mise en œuvre de cette politique à l’échelle du gouvernement, ce qui comportera la prestation : d’expertise au chapitre de la politique dans les secteurs scientifiques, techniques et environnementaux ; de conseils sur divers aspects environnementaux et sur les répercussions environnementales et sur les normes environnementales; l’établissement de mesures de performance environnementale ; et la prestation de renseignements sur les données de performance et sur la disponibilité de biens et services environnementaux.",
+    "anchor": "8",
+    "tag": "ul"
   },
   {
-    "en": "Deputy heads are required to ensure that the objectives of green procurement are realized while maintaining compliance with all legislative, regulatory and policy obligations.",
-    "fr": "Les administrateurs généraux doivent s’assurer que les objectifs en matière d’achats écologiques sont atteints tout en assurant la conformité avec toutes les obligations législatives, réglementaires et politiques."
+    "en": "Legislation and regulations This Policy is to be read in conjunction with the Financial Administration Act.Additional relevant legislation and regulations include:Alternative Fuels ActCanadian Environmental Protection ActRegulationsToxic Substances ListConsumer Packaging and Labelling ActEnergy Efficiency ActFederal Sustainable Development ActForestry ActHazardous Products ActHazardous Products RegulationsTransportation of Dangerous Goods Act, 1992",
+    "fr": "Législation et réglementationLa présente politique doit être lue parallèlement à la Loi sur la gestion des finances publiques.Les lois et les règlements pertinents comprennent les suivants :Loi sur les carburants de remplacementLoi canadienne sur la protection de l’environnementRèglementsListe des substances toxiquesLoi sur l’emballage et l’étiquetage des produits de consommationLoi sur l’efficacité énergétiqueLoi fédérale sur le développement durableLoi sur les forêtsLoi sur les produits dangereuxRèglement sur les produits dangereuxLoi de 1992 sur le transport des marchandises dangereuses",
+    "anchor": "9",
+    "tag": "section"
   },
   {
-    "en": "Integrate environmental stewardship and life-cycle principles in procurement planning and practices, including the government’s supply chain;",
-    "fr": "Intègre la gérance environnementale et les principes du cycle de vie dans la planification et les pratiques en matière d’achats, y compris la chaîne d’approvisionnement du gouvernement;"
+    "en": "Treasury Board policy instrumentsThis Policy is to be read in conjunction with the Policy Framework for the Management of Assets and Acquired Services (or its replacement) and associated policies and directives; the Policy on Financial Management; the Policy on Transfer Payments; the Policy on Internal Audit; and the Directive on Results.This Policy is to be read in conjunction with the Treasury Board of Canada Secretariat Management Accountability Framework.",
+    "fr": "Instruments de politiques du Conseil du Trésor La présente politique doit être lue parallèlement aux documents suivants : le Cadre de politique sur la gestion des actifs et services acquis (ou son remplacement) et ses politiques et directives connexes; la Politique sur la gestion financière; la Politique sur les paiements de transfert; la Politique sur l’audit interne; et la Directive sur les résultats.La présente politique doit être lue parallèlement au Cadre de responsabilisation de gestion du Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "9",
+    "tag": "section"
   },
   {
-    "en": "Establish management processes and controls to identify environmental risks and mitigation and adaptation strategies, as appropriate;",
-    "fr": "Établisse des processus et des mesures de contrôle afin de déterminer les facteurs de risques pour l’environnement et les facteurs d’atténuation et des stratégies relatives à l’adaptation, selon le cas;"
-  },
-  {
-    "en": "Set green procurement targets tailored to reflect mandates, departmental buying patterns, as well as the nature and risks associated with the assets and services used to support the achievement of program objectives;",
-    "fr": "Établisse des objectifs en matière d’achats écologiques adaptés à chaque situation de manière à tenir compte des mandats, des modèles d’achat des ministères et de la nature des biens et des services utilisés à l’appui des objectifs du programme et des risques associés à ceux-ci;"
-  },
-  {
-    "en": "Buy environmentally preferable goods and services where value for money is demonstrated (i.e. appropriate balance of many factors, such as cost, performance, availability, quality, and environmental performance) and meet green procurement targets;",
-    "fr": "Achète de préférence des biens et des services écologiques lorsque l’optimisation des ressources est démontrée (c’est-à-dire, un équilibre approprié de nombreux facteurs tels que le coût, le rendement, la disponibilité, la qualité et le rendement environnemental) et répond aux objectifs en matière d’achats écologiques;"
-  },
-  {
-    "en": "Ensure that officials in key management, procurement, materiel and asset management, and oversight positions, have the necessary training to support the objectives of the policy;",
-    "fr": "Assure la formation adéquate des fonctionnaires chargés des principales fonctions de la gestion, de l’approvisionnement, de la gestion du matériel et des biens, et de la supervision, en vue d’appuyer les objectifs de la politique;"
-  },
-  {
-    "en": "Include the contribution and support for the green procurement policy objectives in the performance evaluations of managers and functional heads of procurement and materiel, as appropriate; and",
-    "fr": "Ajoute les éléments de contribution et d’appui aux objectifs de la politique d’achats écologiques aux évaluations de rendement des gestionnaires et des administrateurs fonctionnels chargés un approvisionnement et du matériel, le cas échéant;"
-  },
-  {
-    "en": "Monitor and report on green procurement performance through the annual Departmental Plan, the Departmental Results Report or the Departmental Sustainable Development Strategy.",
-    "fr": "Contrôle la performance au chapitre des achats écologiques et en rende compte dans le plan ministériel annuel et le rapport sur les résultats ministériels ou la stratégie ministérielle sur le développement durable."
-  },
-  {
-    "en": "Deputy heads will contribute scientific, technical and environmental expertise where possible to support the Treasury Board of Canada Secretariat in its lead role in ensuring the implementation of this policy and PWGSC in the development of procurement or materiel strategies and instruments.",
-    "fr": "Les administrateurs généraux contribueront en fournissant une expertise scientifique, technique et environnementale dans la mesure du possible pour soutenir le Secrétariat du Conseil du Trésor du Canada dans son rôle de premier plan afin d’assurer la mise en œuvre de cette politique et Travaux publics et services gouvernementaux Canada dans l’élaboration de stratégies et d’instruments d’approvisionnement ou de matériel."
+    "en": "EnquiriesFor interpretation of any aspect of this policy, please contact Treasury Board of Canada Secretariat Public Enquiries.",
+    "fr": "DemandesPour l’interprétation de tout aspect de la présente politique, veuillez communiquer avec le service chargé de répondre aux demandes de renseignements au public du Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "9",
+    "tag": "section"
   }
 ]

@@ -1,102 +1,104 @@
 [
   {
     "en": "These guidelines outline considerations related to sex, gender, sexual orientation, race, ethnicity, disability, religion or any other identity factors, and are intended to help departments create diverse and inclusive communications products and activities.",
-    "fr": "Les lignes directrices présentent des considérations liées au sexe, au genre, à l’orientation sexuelle, à la race, à l’origine ethnique, au handicap, à la religion ou à tout autre facteur identitaire, et visent à aider les ministères à créer des produits et des activités de communication diversifiés et inclusifs."
+    "fr": "Les lignes directrices présentent des considérations liées au sexe, au genre, à l’orientation sexuelle, à la race, à l’origine ethnique, au handicap, à la religion ou à tout autre facteur identitaire, et visent à aider les ministères à créer des produits et des activités de communication diversifiés et inclusifs.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Departments are strongly encouraged to:",
-    "fr": "Les ministères sont fortement encouragés à :"
+    "en": "ResearchDepartments are strongly encouraged to:Use a variety of research sources to examine the barriers and inequalities of diverse populations in order to help inform the development of communications products;Consult media monitoring and/or public environment analysis teams to obtain relevant media scans on target audiences; andConsult with departmental or government-wide working groups with expertise in diversity and inclusion.",
+    "fr": "RechercheLes ministères sont fortement encouragés à :recourir à diverses sources de recherche pour examiner les obstacles et les inégalités auxquels sont confrontées les populations diversifiées afin d’éclairer l’élaboration des produits de communication;consulter les équipes chargées de la surveillance des médias ou de l’analyse de l’environnement public pour obtenir des analyses médiatiques pertinentes au sujet des publics cibles;consulter les groupes de travail ministériels ou pangouvernementaux qui ont une expertise en matière de diversité et d’inclusion.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "Departments are strongly encouraged to:",
-    "fr": "Les ministères sont fortement encouragés à :"
+    "en": "LanguageDepartments are strongly encouraged to:Consult with internal resources with relevant expertise to ensure content accurately reflects diverse perspectives and lived experiences; and Apply the principles of plain language writing and inclusive communication.",
+    "fr": "LanguesLes ministères sont fortement encouragés à :consulter les ressources internes ayant l’expertise pertinente pour s’assurer que le contenu traduit fidèlement la diversité des points de vue et les expériences vécues;appliquer les principes de la rédaction en langage clair et des communications inclusives.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "Departments are strongly encouraged to:",
-    "fr": "Les ministères sont fortement encouragés à :"
+    "en": "ImageryDepartments are strongly encouraged to:Ensure diversity is considered when showcasing various audiences by:Using a range of images/illustrations that are reflective of Canada’s diverse population;Using accurate images and avoiding stereotypes;Balancing representation of groups based on race, ethnicity, gender identity and expression, age, etc.; Using images that represent different types of family units, people with physical differences and disabilities; Consult with internal resources with relevant expertise to ensure images are culturally appropriate and reflect the intended audiences;Build an inventory of photos and images that reflect a diverse population and consider sharing it with other communications teams across the Government of Canada; and Ensure accurate representation of target audiences when using stock imagery.",
+    "fr": "ImagesLes ministères sont fortement encouragés à :veiller à ce que la diversité soit prise en compte lors de la présentation de divers publics par les moyens suivants :utiliser une variété d’images et d’illustrations qui reflètent la diversité de la population canadienne;utiliser des images précises et éviter les stéréotypes;équilibrer la représentation des groupes selon la race, l’origine ethnique, l’identité et l’expression de genre, l’âge, etc.;utiliser des images qui représentent différents types d’unités familiales et les personnes présentant des différences physiques et en situation de handicap;consulter les ressources internes possédant l’expertise nécessaire pour s’assurer que les images sont appropriées sur le plan culturel et reflètent les publics cibles;créer un répertoire de photos et d’images qui témoignent de la diversité de la population et envisager de le mettre à la disposition d’autres équipes des communications à l’échelle du gouvernement du Canada;s’assurer de la représentation fidèle des publics cibles lors de l’utilisation de la banque d’images.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "TestingDepartments are strongly encouraged to:Evaluate the effectiveness of communications products and activities and share relevant findings with the broader communications community.",
+    "fr": "TestsLes ministères sont fortement encouragés à :évaluer l’efficacité des produits et des activités de communication et diffuser les conclusions pertinentes auprès de l’ensemble de la collectivité des communications.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "Ensure diversity is considered when showcasing various audiences by:",
-    "fr": "veiller à ce que la diversité soit prise en compte lors de la présentation de divers publics par les moyens suivants :"
+    "fr": "veiller à ce que la diversité soit prise en compte lors de la présentation de divers publics par les moyens suivants :",
+    "anchor": "4.6",
+    "tag": "p"
   },
   {
-    "en": "Departments are strongly encouraged to:",
-    "fr": "Les ministères sont fortement encouragés à :"
+    "en": "Legislation",
+    "fr": "Textes de loi",
+    "anchor": "5.1",
+    "tag": "p"
   },
   {
-    "en": "(accessible only on the Government of Canada network)",
-    "fr": "Pour toute question, communiquer avec l’équipe des ."
+    "en": "Canadian Gender Budgeting ActCanadian Charter of Rights and FreedomsCanadian Human Rights Act",
+    "fr": "Loi canadienne sur la budgétisation sensible aux sexesCharte canadienne des droits et libertésLoi canadienne sur les droits de la personne",
+    "anchor": "5.1",
+    "tag": "ul"
   },
   {
-    "en": "For questions, contact .",
-    "fr": "(accessible uniquement sur le réseau du gouvernement du Canada)"
+    "en": "Related policy instruments",
+    "fr": "Textes législatifs",
+    "anchor": "5.2",
+    "tag": "p"
   },
   {
-    "en": "(accessible only on the Government of Canada network)",
-    "fr": "Les présentes lignes directrices soutiennent les efforts que déploie le gouvernement du Canada pour promouvoir l’inclusion et le respect de la diversité et visent à aider les ministères à planifier et à élaborer des produits et des activités de communication. Un produit de communication est un produit créé par le gouvernement du Canada ou en son nom dans le but d’informer le public au sujet des politiques, des programmes, des services et des initiatives, ainsi que des dangers ou risques liés à la santé, à la sécurité ou à l’environnement. Les produits de communication peuvent aussi viser à expliquer les droits et les obligations des personnes."
+    "en": "Policy on Communications and Federal IdentityDirective on the Management of CommunicationsGuidelines on Making Communications Products and Activities Accessible- Canada.ca",
+    "fr": "Politique sur les communications et l’image de marqueDirective sur la gestion des communicationsLignes directrices sur l’accessibilité des produits et des activités de communication",
+    "anchor": "5.2",
+    "tag": "ul"
   },
   {
-    "en": "These guidelines support the Government of Canada’s efforts to promote inclusion and respect for diversity and are intended to support departments when planning and developing communications products and activities. A communications product is any product produced by or on behalf of the Government of Canada that informs the public about policies, programs, services and initiatives, as well as dangers or risks to health, safety or the environment. Communications products can also aim to explain the rights, entitlements and obligations of individuals.",
-    "fr": "Les présentes lignes directrices sont destinées à tous les ministères fédéraux assujettis à la ."
+    "en": "Government of Canada resources",
+    "fr": "Instruments de politique connexes",
+    "anchor": "5.3",
+    "tag": "p"
   },
   {
-    "en": "These guidelines are intended for all Government of Canada departments subject to the .",
-    "fr": "Les lignes directrices appuient l’engagement du gouvernement du Canada de mettre en œuvre dans tous les ministères et organismes fédéraux. L’ACS Plus fait en sorte que les politiques, les programmes et d’autres initiatives soient adaptés et inclusifs et qu’ils reflètent la diversité des expériences et réalités afin d’éliminer les inégalités et les obstacles."
+    "en": "Communications Community Office (CCO) – Plain Language and Accessibility - GCpediaOffice of Public Service AccessibilityInclusive writing – Guidelines and resourcesCentre on Diversity and InclusionDiversity and inclusion in the public serviceBuilding a Foundation for Change: Canada’s Anti-Racism Strategy 2019–2022Gender, diversity and inclusion statistics (statcan.gc.ca)",
+    "fr": "Bureau de la collectivité des communications (BCC) – Langage clair et accessibilité - GCpédiaBureau de l’accessibilité au sein de la fonction publiqueÉcriture inclusive – Lignes directrices et ressourcesCentre sur la diversité et l’inclusionDiversité et équité en matière d’emploiConstruire une fondation pour le changement : La stratégie canadienne de lutte contre le racisme 2019-2022Statistiques sur le genre, la diversité et l’inclusion (statcan.gc.ca)",
+    "anchor": "5.3",
+    "tag": "ul"
   },
   {
-    "en": "These guidelines support the Government of Canada’s commitment to implement across federal departments and agencies. GBA Plus helps to ensure that federal government policies, programs and other initiatives are responsive, inclusive and reflective of diverse experiences and realities in order to address inequities and barriers.",
-    "fr": "Ces lignes directrices s’appliquent aux produits et activités de communication qui s’adressent aux publics internes et externes."
+    "en": "Lexicons",
+    "fr": "Ressources du gouvernement du Canada",
+    "anchor": "5.4",
+    "tag": "p"
   },
   {
-    "en": "These guidelines apply to communications products and activities for both internal and external audiences.",
-    "fr": "recourir à diverses sources de recherche pour examiner les obstacles et les inégalités auxquels sont confrontées les populations diversifiées afin d’éclairer l’élaboration des produits de communication;"
+    "en": "Guide on Equity, Diversity and Inclusion Terminology - Glossaries and vocabularies - TERMIUM Plus® - Resources of the Language Portal of CanadaAccessibility glossary - Glossaries and vocabularies - TERMIUM Plus® - Resources of the Language Portal of Canada - Languages - Canadian identity and society - Culture, history and sportWords Matter 2022 (accessible only on the Government of Canada network) Inclusionary: A collection of gender-inclusive solutions",
+    "fr": "Guide de la terminologie liée à l’équité, la diversité et l’inclusion - Lexiques et vocabulaires - TERMIUM Plus® - Ressources du Portail linguistique du CanadaLexique sur l’accessibilité - Lexiques et vocabulaires - TERMIUM Plus® - Ressources du Portail linguistique du Canada - Langues - Identité canadienne et société - Culture, histoire et sportL'Importance des mots 2022 (accessible uniquement sur le réseau du gouvernement du Canada) Inclusionnaire : recueil de solutions inclusives",
+    "anchor": "5.4",
+    "tag": "ul"
   },
   {
-    "en": "Use a variety of research sources to examine the barriers and inequalities of diverse populations in order to help inform the development of communications products;",
-    "fr": "consulter les équipes chargées de la surveillance des médias ou de l’analyse de l’environnement public pour obtenir des analyses médiatiques pertinentes au sujet des publics cibles;"
+    "en": "Government of Canada employee networks (accessible only on the Government of Canada network)",
+    "fr": "Réseaux de fonctionnaires du gouvernement du Canada (accessibles uniquement sur le réseau du gouvernement du Canada)",
+    "anchor": "5.5",
+    "tag": "p"
   },
   {
-    "en": "Consult media monitoring and/or public environment analysis teams to obtain relevant media scans on target audiences; and",
-    "fr": "consulter les groupes de travail ministériels ou pangouvernementaux qui ont une expertise en matière de diversité et d’inclusion."
+    "en": "GC Diversity Networks (GCcollab)Equity, Diversity and Inclusion Communications Network (GCcollab)",
+    "fr": "Réseaux de la diversité du GC (GCcollab)Réseau des communications sur l’équité, la diversité et l’inclusion (GCcollab)",
+    "anchor": "5.5",
+    "tag": "ul"
   },
   {
-    "en": "Consult with departmental or government-wide working groups with expertise in diversity and inclusion.",
-    "fr": "consulter les ressources internes ayant l’expertise pertinente pour s’assurer que le contenu traduit fidèlement la diversité des points de vue et les expériences vécues;"
-  },
-  {
-    "en": "Consult with internal resources with relevant expertise to ensure content accurately reflects diverse perspectives and lived experiences; and",
-    "fr": "appliquer les et des communications inclusives."
-  },
-  {
-    "en": "Apply the and inclusive communication.",
-    "fr": "utiliser une variété d’images et d’illustrations qui reflètent la diversité de la population canadienne;"
-  },
-  {
-    "en": "Using a range of images/illustrations that are reflective of Canada’s diverse population;",
-    "fr": "utiliser des images précises et éviter les stéréotypes;"
-  },
-  {
-    "en": "Using accurate images and avoiding stereotypes;",
-    "fr": "équilibrer la représentation des groupes selon la race, l’origine ethnique, l’identité et l’expression de genre, l’âge, etc.;"
-  },
-  {
-    "en": "Balancing representation of groups based on race, ethnicity, gender identity and expression, age, etc.;",
-    "fr": "utiliser des images qui représentent différents types d’unités familiales et les personnes présentant des différences physiques et en situation de handicap;"
-  },
-  {
-    "en": "Using images that represent different types of family units, people with physical differences and disabilities;",
-    "fr": "consulter les ressources internes possédant l’expertise nécessaire pour s’assurer que les images sont appropriées sur le plan culturel et reflètent les publics cibles;"
-  },
-  {
-    "en": "Consult with internal resources with relevant expertise to ensure images are culturally appropriate and reflect the intended audiences;",
-    "fr": "créer un répertoire de photos et d’images qui témoignent de la diversité de la population et envisager de le mettre à la disposition d’autres équipes des communications à l’échelle du gouvernement du Canada;"
-  },
-  {
-    "en": "Build an inventory of photos and images that reflect a diverse population and consider sharing it with other communications teams across the Government of Canada; and",
-    "fr": "s’assurer de la représentation fidèle des publics cibles lors de l’utilisation de la banque d’images."
-  },
-  {
-    "en": "Ensure accurate representation of target audiences when using stock imagery.",
-    "fr": "évaluer l’efficacité des produits et des activités de communication et diffuser les conclusions pertinentes auprès de l’ensemble de la collectivité des communications."
+    "en": "For questions, contact Treasury Board of Canada Secretariat Public Enquiries.",
+    "fr": "Pour toute question, communiquer avec l’équipe des demandes d’information du Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "6",
+    "tag": "p"
   }
 ]

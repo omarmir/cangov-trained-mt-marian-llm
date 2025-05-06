@@ -1,150 +1,158 @@
 [
   {
     "en": "Federal public servants have a fundamental role to play in serving Canadians, their communities and the public interest under the direction of the elected government and in accordance with the law. As professionals whose work is essential to Canada’s well-being and the enduring strength of the Canadian democracy, public servants uphold the public trust.",
-    "fr": "Sous l’autorité du gouvernement élu et en vertu de la loi, les fonctionnaires fédéraux jouent un rôle fondamental pour servir la population canadienne, les collectivités etl’intérêt public. À titre de professionnels dont le travail est essentiel au bien-être du Canada et à la viabilité de la démocratie canadienne, ils sont garants de la confiancepublique."
+    "fr": "Sous l’autorité du gouvernement élu et en vertu de la loi, les fonctionnaires fédéraux jouent un rôle fondamental pour servir la population canadienne, les collectivités etl’intérêt public. À titre de professionnels dont le travail est essentiel au bien-être du Canada et à la viabilité de la démocratie canadienne, ils sont garants de la confiancepublique.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "The Constitution of Canada and the principles of responsible government provide the foundation for the role, responsibilities and values of the federal public sector. Constitutional conventions of ministerial responsibility prescribe the appropriate relationships among ministers, parliamentarians, public servants and the public. A professional and non-partisan federal public sector is integral to our democracy.",
-    "fr": "La Constitution du Canada et les principes de gouvernement responsable sous-tendent le rôle, les responsabilités et les valeurs du secteur public fédéral. Les principes constitutionnels quant à la responsabilité des ministres dictent les relations entre ministres, parlementaires, fonctionnaires et membres du public. Un secteur public fédéral professionnel et impartial est un élément clé de notre démocratie."
+    "en": "The Constitution of Canada and the principles of responsible government provide the foundation for the role, responsibilities and values of the federal public sector.[1] Constitutional conventions of ministerial responsibility prescribe the appropriate relationships among ministers, parliamentarians, public servants[2] and the public. A professional and non-partisan federal public sector is integral to our democracy.",
+    "fr": "La Constitution du Canada et les principes de gouvernement responsable sous-tendent le rôle, les responsabilités et les valeurs du secteur public fédéral.[1] Les principes constitutionnels quant à la responsabilité des ministres dictent les relations entre ministres, parlementaires, fonctionnaires[2] et membres du public. Un secteur public fédéral professionnel et impartial est un élément clé de notre démocratie.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Ministers are also responsible for preserving public trust and confidence in the integrity of public sector organizations and for upholding the tradition and practice of a professional non-partisan federal public sector. Furthermore, ministers play a critical role in supporting public servants’ responsibility to provide professional and frank advice.",
-    "fr": "Les ministres sont également tenus de préserver la confiance du public en l’intégrité des organisations du secteur public et d’honorer la tradition d’un secteur public fédéral professionnel et impartial, ainsi que la pratique à ces égards. En outre, les ministres jouent un rôle crucial en offrant aux fonctionnaires le soutien dont ils ont besoin pour fournir des conseils professionnels en toute franchise."
+    "en": "Ministers are also responsible for preserving public trust and confidence in the integrity of public sector organizations and for upholding the tradition and practice of a professional non-partisan federal public sector. Furthermore, ministers play a critical role in supporting public servants’ responsibility to provide professional and frank advice.[3]",
+    "fr": "Les ministres sont également tenus de préserver la confiance du public en l’intégrité des organisations du secteur public et d’honorer la tradition d’un secteur public fédéral professionnel et impartial, ainsi que la pratique à ces égards. En outre, les ministres jouent un rôle crucial en offrant aux fonctionnaires le soutien dont ils ont besoin pour fournir des conseils professionnels en toute franchise.[3]",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "This Code outlines the values and expected behaviours that guide public servants in all activities related to their professional duties. By committing to these values and adhering to the expected behaviours, public servants strengthen the ethical culture of the public sector and contribute to public confidence in the integrity of all public institutions.",
-    "fr": "Le présent code donne, dans leurs grandes lignes, les valeurs et les comportements que doivent adopter les fonctionnaires dans toutes les activités liées à l’exercice de leurs fonctions professionnelles. En adoptant ces valeurs et en se comportant selon les attentes, les fonctionnaires renforcent la culture éthique du secteur public et contribuent à maintenir la confiance du public en l’intégrité de l’ensemble des institutions publiques."
+    "fr": "Le présent code donne, dans leurs grandes lignes, les valeurs et les comportements que doivent adopter les fonctionnaires dans toutes les activités liées à l’exercice de leurs fonctions professionnelles. En adoptant ces valeurs et en se comportant selon les attentes, les fonctionnaires renforcent la culture éthique du secteur public et contribuent à maintenir la confiance du public en l’intégrité de l’ensemble des institutions publiques.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "As established by the Treasury Board, this Code fulfills the requirement of section 5 of the (PSDPA). It was developed in consultation with public servants, public sector organizations and bargaining agents. This Code should be read in conjunction with organizational codes of conduct.",
-    "fr": "Le présent code a été établi par le Conseil du Trésor conformément à l’article 5 de la (LPFDAR) en consultation avec les fonctionnaires, les organisations et les agents négociateurs du secteur public. Il se lit en parallèle avec le code d’éthique de chaque organisation."
+    "en": "As established by the Treasury Board, this Code fulfills the requirement of section 5 of the Public Servants Disclosure Protection Act (PSDPA). It was developed in consultation with public servants, public sector organizations and bargaining agents. This Code should be read in conjunction with organizational codes of conduct.",
+    "fr": "Le présent code a été établi par le Conseil du Trésor conformément à l’article 5 de la Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles (LPFDAR) en consultation avec les fonctionnaires, les organisations et les agents négociateurs du secteur public. Il se lit en parallèle avec le code d’éthique de chaque organisation.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "These values are a compass to guide public servants in everything they do. They cannot be considered in isolation from each other as they will often overlap. This Code and respective organizational codes of conduct are important sources of guidance for public servants. Organizations are expected to take steps to integrate these values into their decisions, actions, policies, processes, and systems. Similarly, public servants can expect to be treated in accordance with these values by their organization.",
-    "fr": "Les valeurs qui suivent guident les fonctionnaires dans toutes leurs activités. Elles ne peuvent être prises isolément, car elles se recoupent souvent. Le présent code et les codes de conduite des organisations constituent des guides importants pour les fonctionnaires. Les organisations auront à les intégrer à leurs décisions, mesures, politiques, processus et systèmes. De même, les fonctionnaires peuvent s’attendre à être traités selon ces valeurs."
+    "fr": "Les valeurs qui suivent guident les fonctionnaires dans toutes leurs activités. Elles ne peuvent être prises isolément, car elles se recoupent souvent. Le présent code et les codes de conduite des organisations constituent des guides importants pour les fonctionnaires. Les organisations auront à les intégrer à leurs décisions, mesures, politiques, processus et systèmes. De même, les fonctionnaires peuvent s’attendre à être traités selon ces valeurs.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
     "en": "The system of Canadian parliamentary democracy and its institutions are fundamental to serving the public interest. Public servants recognize that elected officials are accountable toParliament, and ultimately to the Canadian people, and that a non-partisan public sector is essential to our democratic system.",
-    "fr": "Le régime canadien de démocratie parlementaire et ses institutions sont fondamentaux pour servir l’intérêt public. Les fonctionnaires reconnaissent que les élus sont responsables devantle Parlement et, par conséquent, devant la population canadienne, et qu’un secteur public non partisan est essentiel à notre système démocratique."
+    "fr": "Le régime canadien de démocratie parlementaire et ses institutions sont fondamentaux pour servir l’intérêt public. Les fonctionnaires reconnaissent que les élus sont responsables devantle Parlement et, par conséquent, devant la population canadienne, et qu’un secteur public non partisan est essentiel à notre système démocratique.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "Treating all people with respect, dignity and fairness is fundamental to our relationship with the Canadian public and contributes to a safe and healthy work environment that promotesengagement, openness and transparency. The diversity of our people and the ideas they generate are the source of our innovation.",
-    "fr": "Notre relation avec la population canadienne doit être empreinte de respect, de dignité et d’équité, valeurs qui contribuent à un milieu de travail sûr et sain propice à l’engagement, à l’ouverture et à la transparence. Notre esprit d’innovation procède de la diversité de notre population et des idées qui en émanent."
+    "fr": "Notre relation avec la population canadienne doit être empreinte de respect, de dignité et d’équité, valeurs qui contribuent à un milieu de travail sûr et sain propice à l’engagement, à l’ouverture et à la transparence. Notre esprit d’innovation procède de la diversité de notre population et des idées qui en émanent.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "Integrity is the cornerstone of good governance and democracy. By upholding the highest ethical standards, public servants conserve and enhance public confidence in the honesty, fairness andimpartiality of the federal public sector.",
-    "fr": "L’intégrité est la pierre angulaire de la bonne gouvernance et de la démocratie. Forts des normes d’éthique les plus rigoureuses, les fonctionnaires maintiennent et renforcent laconfiance du public en l’honnêteté, l’équité et l’impartialité du secteur public fédéral."
+    "fr": "L’intégrité est la pierre angulaire de la bonne gouvernance et de la démocratie. Forts des normes d’éthique les plus rigoureuses, les fonctionnaires maintiennent et renforcent laconfiance du public en l’honnêteté, l’équité et l’impartialité du secteur public fédéral.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.",
-    "fr": "Les fonctionnaires fédéraux se voient confier la responsabilité d’utiliser et de gérer judicieusement les ressources publiques, tant à court qu’à long terme."
+    "fr": "Les fonctionnaires fédéraux se voient confier la responsabilité d’utiliser et de gérer judicieusement les ressources publiques, tant à court qu’à long terme.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "Excellence in the design and delivery of public sector policy, programs and services is beneficial to every aspect of Canadian public life. Engagement, collaboration, effective teamwork and professional development are all essential to a high-performing organization.",
-    "fr": "L’excellence de la conception et de l’application des politiques, l’exécution des programmes et la prestation des services du secteur public influe positivement sur tous lesaspects de la vie publique au Canada. La collaboration, l’engagement, l’esprit d’équipe et le perfectionnement professionnel contribuent tous au rendement élevé d’uneorganisation."
+    "fr": "L’excellence de la conception et de l’application des politiques, l’exécution des programmes et la prestation des services du secteur public influe positivement sur tous lesaspects de la vie publique au Canada. La collaboration, l’engagement, l’esprit d’équipe et le perfectionnement professionnel contribuent tous au rendement élevé d’uneorganisation.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "The system of Canadian parliamentary democracy and its institutions are fundamental to serving the public interest. Public servants recognize that elected officials are accountable toParliament, and ultimately to the Canadian people, and that a non-partisan public sector is essential to our democratic system.",
+    "fr": "Le régime canadien de démocratie parlementaire et ses institutions sont fondamentaux pour servir l’intérêt public. Les fonctionnaires reconnaissent que les élus sont responsables devantle Parlement et, par conséquent, devant la population canadienne, et qu’un secteur public non partisan est essentiel à notre système démocratique.",
+    "anchor": "4a",
+    "tag": "p"
+  },
+  {
+    "en": "Treating all people with respect, dignity and fairness is fundamental to our relationship with the Canadian public and contributes to a safe and healthy work environment that promotesengagement, openness and transparency. The diversity of our people and the ideas they generate are the source of our innovation.",
+    "fr": "Notre relation avec la population canadienne doit être empreinte de respect, de dignité et d’équité, valeurs qui contribuent à un milieu de travail sûr et sain propice à l’engagement, à l’ouverture et à la transparence. Notre esprit d’innovation procède de la diversité de notre population et des idées qui en émanent.",
+    "anchor": "4b",
+    "tag": "p"
+  },
+  {
+    "en": "Integrity is the cornerstone of good governance and democracy. By upholding the highest ethical standards, public servants conserve and enhance public confidence in the honesty, fairness andimpartiality of the federal public sector.",
+    "fr": "L’intégrité est la pierre angulaire de la bonne gouvernance et de la démocratie. Forts des normes d’éthique les plus rigoureuses, les fonctionnaires maintiennent et renforcent laconfiance du public en l’honnêteté, l’équité et l’impartialité du secteur public fédéral.",
+    "anchor": "4c",
+    "tag": "p"
+  },
+  {
+    "en": "Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.",
+    "fr": "Les fonctionnaires fédéraux se voient confier la responsabilité d’utiliser et de gérer judicieusement les ressources publiques, tant à court qu’à long terme.",
+    "anchor": "4d",
+    "tag": "p"
+  },
+  {
+    "en": "Excellence in the design and delivery of public sector policy, programs and services is beneficial to every aspect of Canadian public life. Engagement, collaboration, effective teamwork and professional development are all essential to a high-performing organization.",
+    "fr": "L’excellence de la conception et de l’application des politiques, l’exécution des programmes et la prestation des services du secteur public influe positivement sur tous lesaspects de la vie publique au Canada. La collaboration, l’engagement, l’esprit d’équipe et le perfectionnement professionnel contribuent tous au rendement élevé d’uneorganisation.",
+    "anchor": "4e",
+    "tag": "p"
   },
   {
     "en": "Federal public servants are expected to conduct themselves in accordance with the values of the public sector and these expected behaviours.",
-    "fr": "Les fonctionnaires fédéraux sont censés se conduire conformément aux valeurs du secteur public et aux comportements attendus suivants."
+    "fr": "Les fonctionnaires fédéraux sont censés se conduire conformément aux valeurs du secteur public et aux comportements attendus suivants.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Respect For DemocracyPublic servants shall uphold the Canadian parliamentary democracy and its institutions by:1.1 Respecting the rule of law and carrying out their duties in accordance with legislation, policies and directives in a non-partisan and impartial manner.1.2 Loyally carrying out the lawful decisions of their leaders and supporting ministers in their accountability to Parliament and Canadians.1.3 Providing decision makers with all the information, analysis and advice they need, always striving to be open, candid and impartial.Respect For PeoplePublic servants shall respect human dignity and the value of every person by:2.1 Treating every person with respect and fairness.2.2 Valuing diversity and the benefit of combining the unique qualities and strengths inherent in a diverse workforce.2.3 Helping to create and maintain safe and healthy workplaces that are free from harassment and discrimination.2.4 Working together in a spirit of openness, honesty and transparency that encourages engagement, collaboration and respectful communication.IntegrityPublic servants shall serve the public interest by:3.1 Acting at all times with integrity and in a manner that will bear the closest public scrutiny, an obligation that may not be fully satisfied by simply acting within the law.3.2 Never using their official roles to inappropriately obtain an advantage for themselves or to advantage or disadvantage others.3.3 Taking all possible steps to prevent and resolve any real, apparent or potential conflicts of interest between their official responsibilities and their private affairs in favour of the public interest.3.4 Acting in such a way as to maintain their employer’s trust.StewardshipPublic servants shall use resources responsibly by:4.1 Effectively and efficiently using the public money, property and resources managed by them.4.2 Considering the present and long-term effects that their actions have on people and the environment.4.3 Acquiring, preserving and sharing knowledge and information as appropriate.ExcellencePublic servants shall demonstrate professional excellence by:5.1 Providing fair, timely, efficient and effective services that respect Canada’s official languages.5.2 Continually improving the quality of policies, programs and services they provide.5.3 Fostering a work environment that promotes teamwork, learning and innovation.",
+    "fr": "Respect de la démocratieLes fonctionnaires préservent le régime canadien de démocratie parlementaire et ses institutions.1.1 Ils respectent la primauté du droit et exercent leurs fonctions conformément aux lois, aux politiques et aux directives de façon non partisane et impartiale.1.2 Ils exécutent avec loyauté les décisions prises par leurs dirigeants conformément à la loi et aident les ministres à rendre compte au Parlement et à la population canadienne.1.3 Ils communiquent aux décideurs l’information, les analyses et les conseils nécessaires en s’efforçant d’être toujours ouverts, francs et impartiaux.Respect des personnesLes fonctionnaires respectent la dignité humaine et reconnaissent la valeur de chaque personne en adoptant les comportements suivants :2.1 Ils traitent chaque personne avec respect et équité.2.2 Ils valorisent la diversité et l’avantage que présentent les qualités uniques et les forces propres à une main-d’œuvre diversifiée.2.3 Ils favorisent l’établissement et le maintien de milieux de travail sûrs et sains, exempts de harcèlement et de discrimination2.4 Ils travaillent ensemble dans un esprit d’ouverture, d’honnêteté et de transparence qui favorise l’engagement, la collaboration et la communication respectueuse.IntégritéLes fonctionnaires servent l’intérêt public.3.1 Ils se conduisent toujours avec intégrité et d’une manière qui puisse résister à l’examen public le plus approfondi; cette obligation ne se limite pas à la simple observation de la loi3.2 Ils n’utilisent jamais leur rôle officiel en vue d’obtenir de façon inappropriée un avantage pour eux-mêmes ou autrui ou en vue de nuire à quelqu’un.3.3 Ils prennent toutes les mesures possibles pour prévenir et résoudre, dans l’intérêt public, tout conflit d’intérêts réel, apparent ou potentiel entre leurs responsabilités officielles et leurs affaires personnelles.3.4 Ils agissent de manière à préserver la confiance de leur employeur.L’intendanceLes fonctionnaires utilisent les ressources de façon responsable.4.1 Ils veillent à l’utilisation efficace et efficiente des fonds, des biens et des ressources publics dont ils ont la responsabilité.4.2 Ils tiennent compte des répercussions à court et à long terme de leurs actions sur les personnes et sur l’environnement.4.3 Ils acquièrent, conservent et mettent en commun les connaissances et l’information de la façon indiquée.ExcellenceLes fonctionnaires font preuve d’excellence professionnelle dans l’exercice de leurs fonctions.5.1 Ils fournissent des services équitables, opportuns, efficients et efficaces dans le respect des langues officielles du Canada.5.2 Ils améliorent continuellement la qualité des politiques, des programmes et des services qu’ils fournissent.5.3 Ils privilégient un environnement de travail qui favorise l’esprit d’équipe, l’acquisition du savoir et l’innovation.",
+    "anchor": "5",
+    "tag": "ol"
   },
   {
     "en": "Acceptance of these values and adherence to the expected behaviours is a condition of employment for every public servant in the federal public sector, regardless of their level or position. Abreach of these values or behaviours may result in disciplinary measures being taken, up to and including termination of employment.",
-    "fr": "La reconnaissance de ces valeurs et des comportements attendus est une condition d’emploi de tous les fonctionnaires du secteur public fédéral, quel que soit leur niveau ou leur poste.Tout manquement à ces valeurs ou aux comportements attendus peut entraîner des mesures disciplinaires pouvant aller jusqu’au congédiement."
+    "fr": "La reconnaissance de ces valeurs et des comportements attendus est une condition d’emploi de tous les fonctionnaires du secteur public fédéral, quel que soit leur niveau ou leur poste.Tout manquement à ces valeurs ou aux comportements attendus peut entraîner des mesures disciplinaires pouvant aller jusqu’au congédiement.",
+    "anchor": "6",
+    "tag": "p"
   },
   {
-    "en": "The PSDPA defines the \"public sector\" as: (a) the departments named in Schedule I to the and the other portions of the federal public administrationnamed in Schedules I.1 to V to that Act; and (b) the Crown corporations and other public bodies set out in Schedule I of the PSDPA. However, \"the public sector\" does not include the CanadianForces, the Canadian Security Intelligence Service or the Communications Security Establishment, which are subject to separate requirements under the Act.",
-    "fr": "La LPFDAR définit le « secteur public » ainsi : a) les ministères figurant à l’annexe I de la et les autres secteurs del’administration publique fédérale figurant aux annexes I.1 à V de cette loi; b) les sociétés d’État et autres organismes publics figurant à l’annexe I de la LPFDAR. Les Forcescanadiennes, le Service canadien du renseignement de sécurité et le Centre de la sécurité des télécommunications sont toutefois exclus de cette définition, puisqu’ils sont assujettis à desexigences distinctes en vertu de la Loi."
+    "en": "The PSDPA defines the \"public sector\" as: (a) the departments named in Schedule I to the Financial Administration Act and the other portions of the federal public administrationnamed in Schedules I.1 to V to that Act; and (b) the Crown corporations and other public bodies set out in Schedule I of the PSDPA. However, \"the public sector\" does not include the CanadianForces, the Canadian Security Intelligence Service or the Communications Security Establishment, which are subject to separate requirements under the Act.",
+    "fr": "La LPFDAR définit le « secteur public » ainsi : a) les ministères figurant à l’annexe I de la Loi sur la gestion des finances publiques et les autres secteurs del’administration publique fédérale figurant aux annexes I.1 à V de cette loi; b) les sociétés d’État et autres organismes publics figurant à l’annexe I de la LPFDAR. Les Forcescanadiennes, le Service canadien du renseignement de sécurité et le Centre de la sécurité des télécommunications sont toutefois exclus de cette définition, puisqu’ils sont assujettis à desexigences distinctes en vertu de la Loi.",
+    "anchor": "6",
+    "tag": "p"
   },
   {
-    "en": "The came into force on April 2, 2012.",
-    "fr": "Le est entré en vigueur le 2 avril 2012."
+    "en": "The Values and Ethics Code for the Public Sector came into force on April 2, 2012.",
+    "fr": "Le Code de valeurs et d’éthique du secteur public est entré en vigueur le 2 avril 2012.",
+    "anchor": "6",
+    "tag": "p"
   },
   {
     "en": "The expected behaviours are not intended to respond to every possible ethical issue that might arise in the course of a public servant’s daily work. When ethical issues arise, publicservants are encouraged to discuss and resolve these matters with their immediate supervisor. They can also seek advice and support from other appropriate sources within their organization.",
-    "fr": "Les comportements attendus ne visent pas à tenir compte de toutes les questions de nature éthique pouvant se poser au quotidien. Lorsqu’une question d’éthique se pose, lesfonctionnaires sont invités à parler de ces questions et les résoudre avec leur superviseur immédiat. Ils peuvent également demander aide et conseils aux services compétents de leurorganisation."
+    "fr": "Les comportements attendus ne visent pas à tenir compte de toutes les questions de nature éthique pouvant se poser au quotidien. Lorsqu’une question d’éthique se pose, lesfonctionnaires sont invités à parler de ces questions et les résoudre avec leur superviseur immédiat. Ils peuvent également demander aide et conseils aux services compétents de leurorganisation.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "Public servants at all levels are expected to resolve issues in a fair and respectful manner and consider informal processes such as dialogue or mediation.",
-    "fr": "Les fonctionnaires, à tous les échelons, devraient résoudre les situations conflictuelles de façon équitable et respectueuse, en envisageant d’avoir recours à des processus informelscomme le dialogue ou la médiation."
+    "fr": "Les fonctionnaires, à tous les échelons, devraient résoudre les situations conflictuelles de façon équitable et respectueuse, en envisageant d’avoir recours à des processus informelscomme le dialogue ou la médiation.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "As provided by sections 12 and 13 of the PSDPA, if public servants have information that could indicate a serious breach of this Code, they can bring the matter, in confidence and without fearof reprisal, to the attention of their immediate supervisor, their senior officer for disclosure or the Public Sector Integrity Commissioner.",
-    "fr": "Comme le prévoient les articles 12 et 13 de la LPFDAR, si un fonctionnaire détient des renseignements pouvant révéler un manquement grave au présent code, il peut en informer, enconfiance et sans crainte de représailles, son superviseur immédiat, l’agent supérieur chargé des divulgations ou le commissaire à l’intégrité du secteur public."
+    "fr": "Comme le prévoient les articles 12 et 13 de la LPFDAR, si un fonctionnaire détient des renseignements pouvant révéler un manquement grave au présent code, il peut en informer, enconfiance et sans crainte de représailles, son superviseur immédiat, l’agent supérieur chargé des divulgations ou le commissaire à l’intégrité du secteur public.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "Senior officers for disclosure are responsible for supporting the chief executive in meeting the requirements of the PSDPA. They help promote a positive environment for disclosing wrongdoing,and deal with disclosures of wrongdoing made by employees of the organization. Further information on the duties and powers of senior officers for disclosure can be found in the attachedAppendix.",
-    "fr": "Les agents supérieurs chargés des divulgations ont la responsabilité d’aider les administrateurs généraux à se conformer à la LPFDAR. Ils aident à créer des conditions favorables à ladivulgation des actes répréhensibles et donnent suite aux divulgations faites par les employés de leur organisation. Pour plus de renseignements sur les obligations et pouvoirs des agentssupérieurs en matière de divulgation d’actes répréhensibles, voir l’annexe ci-jointe."
+    "fr": "Les agents supérieurs chargés des divulgations ont la responsabilité d’aider les administrateurs généraux à se conformer à la LPFDAR. Ils aident à créer des conditions favorables à ladivulgation des actes répréhensibles et donnent suite aux divulgations faites par les employés de leur organisation. Pour plus de renseignements sur les obligations et pouvoirs des agentssupérieurs en matière de divulgation d’actes répréhensibles, voir l’annexe ci-jointe.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "Members of the public who have reason to believe that a public servant has not acted in accordance with this Code can bring the matter to an organizational point of contact that has beendesignated for the handling of such concerns or to the Public Sector Integrity Commissioner to disclose a serious breach of this Code.",
-    "fr": "Tout membre du public qui croit qu’un fonctionnaire n’a pas agi conformément au présent code peut en informer le point de contact désigné au sein de l’organisation ou, dansle cas d’un manquement grave, le commissaire à l’intégrité du secteur public."
-  },
-  {
-    "en": "1.1 Respecting the rule of law and carrying out their duties in accordance with legislation, policies and directives in a non-partisan and impartial manner.",
-    "fr": "1.1 Ils respectent la primauté du droit et exercent leurs fonctions conformément aux lois, aux politiques et aux directives de façon non partisane et impartiale."
-  },
-  {
-    "en": "1.2 Loyally carrying out the lawful decisions of their leaders and supporting ministers in their accountability to Parliament and Canadians.",
-    "fr": "1.2 Ils exécutent avec loyauté les décisions prises par leurs dirigeants conformément à la loi et aident les ministres à rendre compte au Parlement et à la population canadienne."
-  },
-  {
-    "en": "1.3 Providing decision makers with all the information, analysis and advice they need, always striving to be open, candid and impartial.",
-    "fr": "1.3 Ils communiquent aux décideurs l’information, les analyses et les conseils nécessaires en s’efforçant d’être toujours ouverts, francs et impartiaux."
-  },
-  {
-    "en": "2.1 Treating every person with respect and fairness.",
-    "fr": "2.1 Ils traitent chaque personne avec respect et équité."
-  },
-  {
-    "en": "2.2 Valuing diversity and the benefit of combining the unique qualities and strengths inherent in a diverse workforce.",
-    "fr": "2.2 Ils valorisent la diversité et l’avantage que présentent les qualités uniques et les forces propres à une main-d’œuvre diversifiée."
-  },
-  {
-    "en": "2.3 Helping to create and maintain safe and healthy workplaces that are free from harassment and discrimination.",
-    "fr": "2.3 Ils favorisent l’établissement et le maintien de milieux de travail sûrs et sains, exempts de harcèlement et de discrimination"
-  },
-  {
-    "en": "2.4 Working together in a spirit of openness, honesty and transparency that encourages engagement, collaboration and respectful communication.",
-    "fr": "2.4 Ils travaillent ensemble dans un esprit d’ouverture, d’honnêteté et de transparence qui favorise l’engagement, la collaboration et la communication respectueuse."
-  },
-  {
-    "en": "3.1 Acting at all times with integrity and in a manner that will bear the closest public scrutiny, an obligation that may not be fully satisfied by simply acting within the law.",
-    "fr": "3.1 Ils se conduisent toujours avec intégrité et d’une manière qui puisse résister à l’examen public le plus approfondi; cette obligation ne se limite pas à la simple observation de la loi"
-  },
-  {
-    "en": "3.2 Never using their official roles to inappropriately obtain an advantage for themselves or to advantage or disadvantage others.",
-    "fr": "3.2 Ils n’utilisent jamais leur rôle officiel en vue d’obtenir de façon inappropriée un avantage pour eux-mêmes ou autrui ou en vue de nuire à quelqu’un."
-  },
-  {
-    "en": "3.3 Taking all possible steps to prevent and resolve any real, apparent or potential conflicts of interest between their official responsibilities and their private affairs in favour of the public interest.",
-    "fr": "3.3 Ils prennent toutes les mesures possibles pour prévenir et résoudre, dans l’intérêt public, tout conflit d’intérêts réel, apparent ou potentiel entre leurs responsabilités officielles et leurs affaires personnelles."
-  },
-  {
-    "en": "3.4 Acting in such a way as to maintain their employer’s trust.",
-    "fr": "3.4 Ils agissent de manière à préserver la confiance de leur employeur."
-  },
-  {
-    "en": "4.1 Effectively and efficiently using the public money, property and resources managed by them.",
-    "fr": "4.1 Ils veillent à l’utilisation efficace et efficiente des fonds, des biens et des ressources publics dont ils ont la responsabilité."
-  },
-  {
-    "en": "4.2 Considering the present and long-term effects that their actions have on people and the environment.",
-    "fr": "4.2 Ils tiennent compte des répercussions à court et à long terme de leurs actions sur les personnes et sur l’environnement."
-  },
-  {
-    "en": "4.3 Acquiring, preserving and sharing knowledge and information as appropriate.",
-    "fr": "4.3 Ils acquièrent, conservent et mettent en commun les connaissances et l’information de la façon indiquée."
-  },
-  {
-    "en": "5.1 Providing fair, timely, efficient and effective services that respect Canada’s official languages.",
-    "fr": "5.1 Ils fournissent des services équitables, opportuns, efficients et efficaces dans le respect des langues officielles du Canada."
-  },
-  {
-    "en": "5.2 Continually improving the quality of policies, programs and services they provide.",
-    "fr": "5.2 Ils améliorent continuellement la qualité des politiques, des programmes et des services qu’ils fournissent."
-  },
-  {
-    "en": "5.3 Fostering a work environment that promotes teamwork, learning and innovation.",
-    "fr": "5.3 Ils privilégient un environnement de travail qui favorise l’esprit d’équipe, l’acquisition du savoir et l’innovation."
+    "fr": "Tout membre du public qui croit qu’un fonctionnaire n’a pas agi conformément au présent code peut en informer le point de contact désigné au sein de l’organisation ou, dansle cas d’un manquement grave, le commissaire à l’intégrité du secteur public.",
+    "anchor": "7",
+    "tag": "p"
   }
 ]

@@ -1,358 +1,380 @@
 [
   {
     "en": "1.1 This policy takes effect on September 1, 2008.",
-    "fr": "1.1 La présente politique entre en vigueur le 1 septembre 2008."
+    "fr": "1.1 La présente politique entre en vigueur le 1er septembre 2008.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "1.2 It replaces the of June 1, 2001.",
-    "fr": "1.2 Elle remplace la datée du 1 juin 2001."
+    "en": "1.2 It replaces the Policy on the Indemnification of and Legal Assistance for Crown Servants of June 1, 2001.",
+    "fr": "1.2 Elle remplace la Politique sur l’indemnisation des fonctionnaires de l’État et sur la prestation de services juridiques datée du 1er juin 2001.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "2.1 This policy applies to Crown servants as defined in section 4 of this policy, and to all departments as defined in section 2 of the (FAA) and to the other portions of the federal public administration named in Schedule IV of the FAA, unless otherwise excluded through specific acts, regulations, or orders in council and to the Canadian Forces and the Royal Canadian Mounted Police.",
-    "fr": "2.1 La présente politique s’applique aux fonctionnaires de l’État, selon la définition donnée à l’article 4 de la présente politique, ainsi qu’à tous les ministères au sens de l’article 2 de la (LGFP) et aux autres secteurs de l’administration publique fédérale figurant à l’Annexe IV de la LGFP, à moins qu’ils en soient exclus aux termes de lois, de règlements ou de décrets particuliers, ainsi qu’aux Forces canadiennes et à la Gendarmerie royale du Canada."
+    "en": "For questions regarding this policy, please contact TBS Public Enquiries.",
+    "fr": "Pour toute question portant sur cet instrument de politique, veuillez communiquer avec le Service des demandes de renseignement du Secrétariat du Conseil du Trésor.",
+    "anchor": "10",
+    "tag": "p"
+  },
+  {
+    "en": "2.1 This policy applies to Crown servants as defined in section 4 of this policy, and to all departments as defined in section 2 of the Financial Administration Act (FAA) and to the other portions of the federal public administration named in Schedule IV of the FAA, unless otherwise excluded through specific acts, regulations, or orders in council, and to the Canadian Forces and the Royal Canadian Mounted Police.",
+    "fr": "2.1 La présente politique s’applique aux fonctionnaires de l’État, selon la définition donnée à l’article 4 de la présente politique, ainsi qu’à tous les ministères au sens de l’article 2 de la Loi sur la gestion des finances publiques (LGFP) et aux autres secteurs de l’administration publique fédérale figurant à l’Annexe IV de la LGFP, à moins qu’ils en soient exclus aux termes de lois, de règlements ou de décrets particuliers, ainsi qu’aux Forces canadiennes et à la Gendarmerie royale du Canada.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "3.1 Providing legal assistance and indemnification to Crown servants is essential to the protection of the Crown's interest, the fair treatment of its servants, and the effective management of an organization. Crown servants may be subject to legal claims/actions despite the fact that they are acting in good faith, within the scope of their duties or in the course of their employment. It is therefore necessary that they receive appropriate legal representation and be protected from personal liability as long as they are not acting against the interests of the Crown.",
-    "fr": "3.1 La prestation de services juridiques aux fonctionnaires de l’État et leur indemnisation sont essentiels à la protection des intérêts de l’État, au traitement équitable de ses fonctionnaires et à la gestion efficace d’une organisation. Les fonctionnaires de l’État peuvent faire l’objet d’une réclamation ou d’une poursuite en dépit du fait qu’ils agissent de bonne foi, dans l’exercice de leurs fonctions ou dans le cadre de leur emploi. Par conséquent, il est nécessaire qu’ils reçoivent les services juridiques appropriés et soient protégés de la responsabilité personnelle dans la mesure où ils n’agissent pas à l’encontre des intérêts de l’État."
+    "fr": "3.1 La prestation de services juridiques aux fonctionnaires de l’État et leur indemnisation sont essentiels à la protection des intérêts de l’État, au traitement équitable de ses fonctionnaires et à la gestion efficace d’une organisation. Les fonctionnaires de l’État peuvent faire l’objet d’une réclamation ou d’une poursuite en dépit du fait qu’ils agissent de bonne foi, dans l’exercice de leurs fonctions ou dans le cadre de leur emploi. Par conséquent, il est nécessaire qu’ils reçoivent les services juridiques appropriés et soient protégés de la responsabilité personnelle dans la mesure où ils n’agissent pas à l’encontre des intérêts de l’État.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "3.2 The greater public interest is served by obtaining the full collaboration of Crown servants in testifying in legal proceedings including parliamentary proceedings, commissions of inquiry, inquests or other similar proceedings. This policy is intended to encourage such collaboration.",
-    "fr": "3.2 L’intérêt public général est servi lorsqu’on obtient des fonctionnaires de l’État qu’ils collaborent pleinement aux procédures judiciaires, y compris aux procédures parlementaires, aux commissions d’enquête, aux enquêtes et autres instances similaires. La présente politique vise également à encourager une telle collaboration."
+    "fr": "3.2 L’intérêt public général est servi lorsqu’on obtient des fonctionnaires de l’État qu’ils collaborent pleinement aux procédures judiciaires, y compris aux procédures parlementaires, aux commissions d’enquête, aux enquêtes et autres instances similaires. La présente politique vise également à encourager une telle collaboration.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "3.3 This policy is issued pursuant to section 7 of the .",
-    "fr": "3.3 La présente politique est publiée conformément à l’article 7 de la ."
+    "en": "3.3 This policy is issued pursuant to section 7 of the Financial Administration Act.",
+    "fr": "3.3 La présente politique est publiée conformément à l’article 7 de la Loi sur la gestion des finances publiques.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "3.4 This policy reflects the values of the federal public service.",
-    "fr": "3.4 La présente politique souscrit aux valeurs de la fonction publique fédérale."
+    "fr": "3.4 La présente politique souscrit aux valeurs de la fonction publique fédérale.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "4.1 For the purpose of this policy, the following definitions apply:",
-    "fr": "4.1 Aux fins de la présente politique, les définitions suivantes s’appliquent :"
+    "fr": "4.1 Aux fins de la présente politique, les définitions suivantes s’appliquent :",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "The objectives of this policy are to:protect Crown servants from personal financial losses or expenses incurred while they were acting within the scope of their duties or in the course of their employment, and were not acting against the interests of the Crown;protect the Crown's interest and its potential or actual liability arising from the acts or omissions of its Crown servants; andensure continued and effective public service to Canadians.",
+    "fr": "Les objectifs de la présente politique sont les suivants :protéger les fonctionnaires de l’État de pertes financières personnelles ou de dépenses subies pendant qu’ils exerçaient leurs fonctions ou dans le cadre de leur emploi, et qu’ils n’agissaient pas à l’encontre des intérêts de l’État;protéger les intérêts de l’État en ce qui concerne sa responsabilité réelle ou éventuelle résultant des actes ou des omissions de ses fonctionnaires;assurer aux Canadiens la pérennité et l’efficacité des services de la fonction publique.",
+    "anchor": "5",
+    "tag": "section"
+  },
+  {
+    "en": "The expected results of this policy are that:Crown servants' and the Crown's interests are protected from potential or actual liability arising from the acts or omissions of Crown servants occurring while they were acting within the scope of their duties or in the course of their employment, and not acting against the interests of the Crown;Crown servants are protected against personal liability through fair and consistent policy application; the Crown and Crown servants are appropriately and promptly represented; andparliamentary proceedings, commissions of inquiry and inquests have the full collaboration of Crown servants.",
+    "fr": "Les résultats escomptés de la présente politique sont les suivants :les fonctionnaires de l’État et les intérêts de l’État sont protégés de la responsabilité réelle ou éventuelle résultant des actes ou des omissions de ses fonctionnaires pendant qu’ils exercent leurs fonctions ou dans le cadre de leur emploi, et lorsqu’ils n’agissent pas à l’encontre des intérêts de l’État;les fonctionnaires de l’État sont protégés de la responsabilité personnelle par une application équitable et cohérente de la politique;l’État et ses fonctionnaires sont représentés de façon appropriée et dans les délais les plus brefs;les fonctionnaires de l’État collaborent pleinement aux procédures parlementaires, aux commissions d’enquête et aux enquêtes.",
+    "anchor": "5",
+    "tag": "section"
   },
   {
     "en": "The objectives of this policy are to:",
-    "fr": "Les objectifs de la présente politique sont les suivants :"
+    "fr": "Les objectifs de la présente politique sont les suivants :",
+    "anchor": "5.1",
+    "tag": "p"
+  },
+  {
+    "en": "protect Crown servants from personal financial losses or expenses incurred while they were acting within the scope of their duties or in the course of their employment, and were not acting against the interests of the Crown;protect the Crown's interest and its potential or actual liability arising from the acts or omissions of its Crown servants; andensure continued and effective public service to Canadians.",
+    "fr": "protéger les fonctionnaires de l’État de pertes financières personnelles ou de dépenses subies pendant qu’ils exerçaient leurs fonctions ou dans le cadre de leur emploi, et qu’ils n’agissaient pas à l’encontre des intérêts de l’État;protéger les intérêts de l’État en ce qui concerne sa responsabilité réelle ou éventuelle résultant des actes ou des omissions de ses fonctionnaires;assurer aux Canadiens la pérennité et l’efficacité des services de la fonction publique.",
+    "anchor": "5.1",
+    "tag": "ul"
   },
   {
     "en": "The expected results of this policy are that:",
-    "fr": "Les résultats escomptés de la présente politique sont les suivants :"
+    "fr": "Les résultats escomptés de la présente politique sont les suivants :",
+    "anchor": "5.2",
+    "tag": "p"
   },
   {
-    "en": ": Making decisions to approve or not approve requests for legal assistance and indemnification from Crown servants, within the scope of authority as set out in Appendix A. Decisions in respect to a request for legal assistance or indemnification are the responsibility of the approval authority for the organization where the incident giving rise to the request first arose.",
-    "fr": "prendre la décision d’approuver ou non les demandes de services juridiques et d’indemnisation des fonctionnaires de l’État, dans les limites de leur autorité définies dans l’annexe A. Les décisions pour ce qui concerne la prestation de services juridiques ou l’indemnisation sont la responsabilité de l’autorité approbatrice de l’organisation où l’incident à l’origine de la demande a surgi."
+    "en": "Crown servants' and the Crown's interests are protected from potential or actual liability arising from the acts or omissions of Crown servants occurring while they were acting within the scope of their duties or in the course of their employment, and not acting against the interests of the Crown;Crown servants are protected against personal liability through fair and consistent policy application; the Crown and Crown servants are appropriately and promptly represented; andparliamentary proceedings, commissions of inquiry and inquests have the full collaboration of Crown servants.",
+    "fr": "les fonctionnaires de l’État et les intérêts de l’État sont protégés de la responsabilité réelle ou éventuelle résultant des actes ou des omissions de ses fonctionnaires pendant qu’ils exercent leurs fonctions ou dans le cadre de leur emploi, et lorsqu’ils n’agissent pas à l’encontre des intérêts de l’État;les fonctionnaires de l’État sont protégés de la responsabilité personnelle par une application équitable et cohérente de la politique;l’État et ses fonctionnaires sont représentés de façon appropriée et dans les délais les plus brefs;les fonctionnaires de l’État collaborent pleinement aux procédures parlementaires, aux commissions d’enquête et aux enquêtes.",
+    "anchor": "5.2",
+    "tag": "ul"
   },
   {
-    "en": ": Ensuring timely responses to Crown servants who are requesting legal assistance or indemnification under this policy, and for ensuring that claims or threats of suits are acted upon quickly and that dispute resolution mechanisms are considered, as appropriate.",
-    "fr": ": s’assurer que les fonctionnaires de l’État qui demandent des services juridiques ou une indemnisation en vertu de la présente politique obtiennent une réponse à leur demande en temps opportun, et s’assurer que les plaintes et les menaces de poursuites sont traitées rapidement et que le recours à des mécanismes de règlement des différends est envisagé s’il y a lieu."
+    "en": "6.1.1 Decision making: Making decisions to approve or not approve requests for legal assistance and indemnification from Crown servants, within the scope of authority as set out in Appendix A. Decisions in respect to a request for legal assistance or indemnification are the responsibility of the approval authority for the organization where the incident giving rise to the request first arose.6.1.2 Timely response: Ensuring timely responses to Crown servants who are requesting legal assistance or indemnification under this policy, and for ensuring that claims or threats of suits are acted upon quickly and that dispute resolution mechanisms are considered, as appropriate.6.1.3 Eligibility: In making a decision on whether to approve a request for legal assistance or indemnification, ensuring that the Crown servant meets:the three basic eligibility criteria as described in 6.1.5; orthe exceptional circumstances as described in 6.1.8; orthe two qualifying criteria pertaining to parliamentary proceedings, commissions of inquiry, inquests or other similar proceedings as described in 6.1.9; andthe requirements set out in Appendix B. The approval authority may seek the advice of any officials who may have knowledge of the facts, as well as the legal advice of the Department of Justice Canada prior to making this decision. The decision should be made before legal counsel engages with the Crown servant to avoid a potential conflict situation, which would be detrimental to the interests of both the Crown servant and the Crown.6.1.4 Initial presumption: In assessing the requests of Crown servants, presuming initially that they have met the basic eligibility criteria as described in 6.1.5 unless or until there is information to the contrary.6.1.5 Three basic eligibility criteria: In considering Crown servants for legal assistance or indemnification, determining whether the Crown servant: acted in good faith;did not act against the interests of the Crown; andacted within the scope of their duties or course of employment with respect to the acts or omissions giving rise to the request. 6.1.6 Legal assistance: Deciding whether to approve legal assistance requests of Crown servants who meet the three basic eligibility criteria in the following situations: when they are sued or threatened with a suit; when they are charged or likely to be charged with an offence; when they are named in a legal action or under threat of being named in a legal action; or when they are faced with serious personal liability before any court, tribunal or other judicial body. 6.1.7 Indemnification: Providing indemnification when the Crown servant meets the three basic eligibility criteria as described in 6.1.5. 6.1.7.1 Pre-approval of monetary settlement: Deciding whether to pre-approve a monetary settlement of a claim or an action made or brought against a Crown servant based on the Department of Justice Canada's recommendation.6.1.7.2 No claim for recovery: Where the Crown is liable as a result of incidents involving Crown servants, no claims to recover such liability are to be made by the Crown against the Crown servants provided that the applicable criteria were met. 6.1.8 Exceptional circumstances: Deciding whether to provide legal assistance or indemnification in the situations enumerated in 6.1.6 where the Crown servant does not meet one or more of the three basic eligibility criteria as set out in 6.1.5, provided the approval authority considers that it would be in the public interest to approve the request, after having consulted the Advisory Committee on Legal Assistance and Indemnification. 6.1.9 Parliamentary proceedings, commissions of inquiry, inquests or other similar proceedings: Deciding whether to approve requests for legal assistance where a Crown servant is requested or compelled to appear in connection with a parliamentary proceeding, a commission of inquiry, an inquest or other similar proceedings, provided two qualifying criteria are met: that it is in the public interest to have the Crown servant appear; andthat the matter concerns events where the Crown servant was acting within the scope of his or her duties, or in the course of employment. 6.1.10 Retroactive approval: In circumstances where it was practically unreasonable for the Crown servant to obtain approval from the approval authority in advance, and where the need for legal services was immediately necessary to protect the Crown servant's interest, deciding whether to approve legal assistance retroactively, provided that the Crown servant has made the request as soon as possible thereafter. 6.1.11 Ineligible requests: Ensuring legal assistance or indemnification requests are not approved for the following matters:matters arising while the requestor was engaged under a contract for services, with the exception of ministers' exempt staff;an action or claim initiated by a Crown servant unless it forms part of a legitimate defence to a legal claim, action or charge for which legal assistance was approved under this policy; an internal investigation or an internal administrative recourse mechanism including grievances, staffing or disciplinary proceedings; andactivities undertaken/carried out by a volunteer. 6.1.12 Termination and recovery of legal assistance: Ensuring legal assistance is terminated, if at any time during or after the proceedings it becomes clear that the Crown servant did not meet the basic eligibility criteria outlined in section 6.1.5 or did not continue to qualify under the exceptional circumstances described in section 6.1.8. Where legal assistance was approved for a Crown servant who met the criteria under 6.1.5, but it was subsequently established that they acted dishonestly or it was determined that the Crown servant did not act within the scope of their duties or course of employment, ensure that recovery action is considered and initiated for an amount equal to the legal assistance provided or the indemnification paid, and this amount shall constitute a debt owing to the Crown. 6.1.13 Reconsideration: Ensuring prior decisions refusing a request for legal assistance or indemnification because the three basic eligibility criteria were not met are reconsidered where a court or tribunal has finally concluded its proceedings and new evidence or information has demonstrated that the basic eligibility criteria were met. In such event, the approval authority seeks the advice of the Advisory Committee on Legal Assistance and Indemnification before confirming or changing the decisions. 6.1.14 Responsibility for payment: Ensuring that:any amounts paid pursuant to this policy are paid from the budget of the organization in which the person worked at the time the act or omission giving rise to the request first occurred. If the approval authority is from a different organization, then ensuring that the amount is referred over to such organization for payment. If that organization no longer exists, the successor to that organization is to handle the request and bear the financial costs. If no successor organization exists, then an application to the Clerk of the Privy Council may be made to determine from which budget the amounts are to be paid;for cases involving offences, payment by the Crown does not include any fines or costs of prosecution; andpayment is not made until the request and supporting information is provided, and the approval authority has issued an authorization in writing approving the request. 6.1.15 Education and preventing liability: Ensuring Crown servants are aware that they:are to inform the appropriate official at the earliest opportunity whenever an incident takes place that may result in a claim against the Crown or Crown servant that may give rise to the need for legal assistance; andfollow the request-making process as set out in Appendix B of this policy. 6.1.16 Private counsel: In cases where there is a conflict of interest between the Crown and the Crown servant, or when the servant is charged with an offence, deciding whether to authorize payments for private legal assistance after consulting the Department of Justice Canada with respect to the appropriateness of engaging such private counsel. Such consultation shall include the name of the proposed private counsel as well as the private counsel's proposed fee schedule. If it is determined that this source of assistance is appropriate and private legal assistance is authorized, then the approval authority shall provide written authorization to the Crown servant including the selection of private counsel, the limits of the Crown's commitment, in terms of both total expenditures and the approved fee schedules, and of the requirement for reviewing accounts by the Department of Justice Canada.",
+    "fr": "6.1.1 Prise de décision : prendre la décision d’approuver ou non les demandes de services juridiques et d’indemnisation des fonctionnaires de l’État, dans les limites de leur autorité définies dans l’annexe A. Les décisions pour ce qui concerne la prestation de services juridiques ou l’indemnisation sont la responsabilité de l’autorité approbatrice de l’organisation où l’incident à l’origine de la demande a surgi. 6.1.2 Réponse en temps opportun : s’assurer que les fonctionnaires de l’État qui demandent des services juridiques ou une indemnisation en vertu de la présente politique obtiennent une réponse à leur demande en temps opportun, et s’assurer que les plaintes et les menaces de poursuites sont traitées rapidement et que le recours à des mécanismes de règlement des différends est envisagé s’il y a lieu.6.1.3 Admissibilité : en prenant la décision d’approuver ou non une demande de services juridiques ou d’indemnisation, s’assurer que le fonctionnaire de l’État satisfait :aux trois critères d’admissibilité de base énoncés à l’article 6.1.5 ouaux circonstances exceptionnelles énoncées à l’article 6.1.8 ouaux deux critères d’admissibilité concernant les procédures parlementaires, les commissions d’enquête, les enquêtes ou autres instances similaires tels qu’ils sont énoncés à l’article 6.1.9 etaux exigences énoncées à l’annexe B.Avant de prendre cette décision, l’autorité approbatrice peut demander l’avis de tout fonctionnaire ayant connaissance des faits, et obtenir également des conseils juridiques auprès du ministère de la Justice. Cette décision doit être prise avant que l’avocat s’engage auprès du fonctionnaire afin d’empêcher un éventuel conflit d’intérêts, ce qui serait préjudiciable aux intérêts du fonctionnaire et à ceux de l’État.6.1.4 Présomption initiale : Dans l’évaluation de la demande d’un fonctionnaire de l’État, présumer initialement que celui-ci a satisfait aux exigences de base d’admissibilité énoncées à l’article 6.1.5, à moins ou jusqu’à ce qu’il y ait des renseignements contraires.6.1.5 Trois critères d’admissibilité de base : évaluer la demande de services juridiques ou d’indemnisation du fonctionnaire de l’État, en établissant si le fonctionnaire :a agi de bonne foi;n’a pas agi à l’encontre des intérêts de l’État; a agi dans l’exercice de ses fonctions ou dans le cadre de son emploi, relativement à l’acte ou à l’omission qui a donné lieu à la demande. 6.1.6 Services juridiques : décider d’approuver ou non la demande de services juridiques d’un fonctionnaire de l’État qui satisfait aux trois critères d’admissibilité de base :lorsqu’il est poursuivi en justice ou menacé de poursuite;lorsqu’il est inculpé ou susceptible d’être inculpé;lorsqu’il est nommé ou susceptible d’être nommé dans une poursuite;lorsqu’il fait face à une responsabilité personnelle grave devant tout tribunal, cour ou autre organisme judiciaire. 6.1.7 Indemnisation : indemniser le fonctionnaire de l’État lorsque celui-ci satisfait aux trois critères d’admissibilité de base énoncés à l’article 6.1.5. 6.1.7.1 Approbation préalable pour un règlement monétaire : décider d’approuver ou non préalablement le règlement monétaire pour une action en justice ou une réclamation déposée contre un fonctionnaire de l’État sur la recommandation du ministère de la Justice.6.1.7.2 Aucune demande de recouvrement : dans le cas où l’État est responsable à la suite d’un incident impliquant l’un de ses fonctionnaires, l’État ne peut faire aucune demande de recouvrement contre celui-ci s’il satisfait aux critères applicables. 6.1.8 Circonstances exceptionnelles : décider de fournir ou non des services juridiques ou une indemnisation dans les situations énumérées à l’article 6.1.6 où le fonctionnaire de l’État ne satisfait pas à un ou plusieurs critères d’admissibilité de base tels qu’ils sont énoncés à l’article 6.1.5, à condition que l’autorité approbatrice estime qu’il est dans l’intérêt public d’approuver la demande, après avoir consulté le Comité consultatif sur les services juridiques et l’indemnisation.6.1.9 Procédures parlementaires, commissions d’enquête, enquêtes et autres instances similaires : décider d’approuver ou non la demande de services juridiques dans le cas où le fonctionnaire de l’État est convoqué ou contraint de se présenter dans le cadre d’une procédure parlementaire, d’une commission d’enquête, d’une enquête ou d’une autre instance similaire, à condition qu’il satisfasse aux deux critères d’admissibilité suivants : il est dans l’intérêt public que le fonctionnaire de l’État se présente;l’affaire concerne des événements où le fonctionnaire de l’État exerçait ses fonctions ou agissait dans le cadre de son emploi. 6.1.10 Approbation rétroactive : dans les circonstances où il est pratiquement impossible d’obtenir à l’avance l’approbation de l’autorité approbatrice et où il faut que des services juridiques soient fournis immédiatement afin de protéger les intérêts du fonctionnaire de l’État, décider d’approuver ou non de façon rétroactive la demande de services juridiques, à condition que le fonctionnaire de l’État fasse sa demande le plus tôt possible par la suite.6.1.11 Demandes inadmissibles : s’assurer que les demandes de services juridiques ou d’indemnisation ne sont pas approuvées :dans les cas survenant pendant que le demandeur était engagé dans le cadre d’un marché de services, à l’exception du personnel exonéré d’un ministre;lorsqu’une action en justice est entreprise ou une plainte est déposée par un fonctionnaire de l’État à moins qu’elle ne fasse partie d’une défense légitime face à une réclamation ou une action en justice pour laquelle des services juridiques ont été approuvés conformément à la présente politique;lors d’une enquête interne ou un mécanisme de recours administratif interne qui comprend les griefs, les procédures de dotation ou les mesures disciplinaires; lors d’activités menées par des bénévoles. 6.1.12 Cessation et recouvrement des services juridiques : s’assurer que la prestation de services juridiques cesse si, à tout moment pendant ou après les procédures, il devient évident que le fonctionnaire de l’État n’a pas agi conformément aux critères d’admissibilité de base énoncés à la section 6.1.5 ou que son cas ne correspond plus aux circonstances exceptionnelles énoncées à la section 6.1.8. Lorsque les services juridiques ont été approuvés pour un fonctionnaire de l’État qui satisfaisait aux critères énoncés à la section 6.1.5, puis il est établi par la suite que le fonctionnaire de l’État a agi de mauvaise foi ou qu’il est établi que le fonctionnaire de l’État n’a pas agi dans l’exercice de ses fonctions ou dans le cadre de son emploi, s’assurer que des mesures de recouvrement soient considérées et entreprises pour un montant équivalent à celui des services juridiques fournis ou à l’indemnisation qui a été versée. Ce montant constitue une dette envers la Couronne.6.1.13 Réexamen : s’assurer que les demandes de services juridiques ou d’indemnisation précédemment rejetées parce qu’elles ne satisfaisaient pas aux trois critères d’admissibilité de base sont réexaminées dans le cas où un tribunal ou une cour a finalement achevé ses procédures et où de nouveaux renseignements ou éléments de preuve ont démontré que les critères d’admissibilité de base ont été satisfaits.Dans de tels cas, l’autorité approbatrice demandera l’avis du Comité consultatif sur les services juridiques et l’indemnisation avant de confirmer ou de modifier une décision. 6.1.14 Responsabilité du paiement : s’assurer que :tous les montants versés conformément à la présente politique proviennent du budget de l’organisation pour laquelle la personne travaillait au moment où l’acte ou l’omission à l’origine de la demande a surgi. Si l’autorité approbatrice est rattachée à une autre organisation, s’assurer que le montant est renvoyé à celle-ci pour paiement. Si cette organisation n’existe plus, celle qui lui succède devra s’occuper de la demande et couvrir les coûts. Si aucune organisation n’a succédé à l’organisation qui n’existe plus, une demande peut être présentée au greffier du Conseil privé afin de déterminer de quel budget les montants peuvent être payés;en ce qui concerne les accusations, le paiement par l’État ne comprend pas les amendes ni les coûts de poursuites judiciaires;le paiement n’est pas effectué avant que la demande soit faite et que les renseignements relatifs à la demande aient été fournis, et que l’autorité approbatrice ait délivré une autorisation écrite approuvant la demande. 6.1.15 Information et prévention contre la responsabilité : s’assurer que les fonctionnaires de l’État savent qu’ils doivent :prévenir l’autorité appropriée le plus rapidement possible lorsque se produit un incident pouvant entraîner une réclamation contre l’État ou contre le fonctionnaire de l’État, et pour lequel des services juridiques peuvent être nécessaires; suivre le processus de présentation d’une demande tel que décrit à l’annexe B de la présente politique. 6.1.16 Avocats du secteur privé : dans les cas où il y a conflit d’intérêt entre la Couronne et le fonctionnaire de l’État, ou lorsque le fonctionnaire est inculpé, l’autorité approbatrice doit décider d’autoriser ou non le paiement des services d’un avocat du secteur privé après avoir consulté le ministère de la Justice en ce qui a trait à la pertinence de cette mesure. Une telle consultation comprend le nom de l’avocat du secteur privé choisi, ainsi que son barème d’honoraires. Si l’on démontre la pertinence de ces services juridiques, l’autorité approbatrice doit remettre une autorisation écrite au fonctionnaire de l’État dans laquelle figurent le nom de l’avocat du secteur privé choisi, les limites de l’engagement de l’État en termes de dépenses totales et de barème d’honoraires accepté, et les exigences relatives à l’examen des comptes par le ministère de la Justice.",
+    "anchor": "6",
+    "tag": "section"
   },
   {
-    "en": ": In making a decision on whether to approve a request for legal assistance or indemnification, ensuring that the Crown servant meets:",
-    "fr": ": en prenant la décision d’approuver ou non une demande de services juridiques ou d’indemnisation, s’assurer que le fonctionnaire de l’État satisfait :"
+    "en": "6.2.1 Within organizationsThe approval authority is responsible for ensuring that records are maintained for the amounts of: claims or settlements paid;territorial, provincial and federal court awards paid by the Crown;legal costs and related expenses paid under this policy; and numbers of requests refused.The approval authority will ensure an annual analysis of the trends in requests and decisions made under this policy is undertaken to address any identified risk areas. 6.2.2 Government-wideThe Office of the Chief Human Resources Officer (OCHRO) will review the policy and its effectiveness at the five-year mark of implementation. Where substantiated by risk analysis, the OCHRO will ensure an evaluation is conducted. 6.2.3 By organizations Where there is evidence of non-compliance or inconsistent application of the policy in any organization, OCHRO may request and shall be provided with additional or more frequent reporting on the use of the policy. This information and its analysis may be included in the Management Accountability Framework (MAF) process.This section does not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with this policy within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments that address the management of compliance.",
+    "fr": "6.2.1 À l’intérieur des organisationsL’autorité approbatrice est responsable de s’assurer que sont tenus des registres des frais payés dans le cadre :d’une réclamation ou d’un règlement;de sommes accordées par des tribunaux de compétence territoriale, provinciale ou fédérale et payées par l’État;d’honoraires et de coûts connexes assumés en application de la présente politique; du nombre de demandes refusées.L’autorité approbatrice veillera à ce que soit entreprise une analyse annuelle des tendances relatives aux demandes et décisions faites aux termes de la présente politique, dans le but d’examiner tout secteur de risque déterminé. 6.2.2 À l’échelle du gouvernementLe Bureau du dirigeant principal des ressources humaines examinera la présente politique ainsi que son efficacité cinq ans après son entrée en vigueur. Le BDPRH veillera également à ce qu’une évaluation soit effectuée si une analyse des risques le justifie. 6.2.3 Par les organisationsLorsqu’il est évident qu’une organisation n’applique pas la présente politique ou si elle ne l’applique pas uniformément, le BDPRH peut demander que lui soient présentés davantage de rapports (ou plus fréquemment) sur la mise en application de la présente politique. Ces renseignements et leur analyse peuvent être ajoutés au processus du cadre de responsabilisation de gestion (CRG).Cette section ne s’applique pas au Bureau du vérificateur général, au Commissariat à la protection de la vie privée, au Commissariat à l’information, au Bureau du directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l’intégrité du secteur public. L’administrateur général de chacun de ces organismes est l’unique responsable de la surveillance de la conformité à la Politique dans son organisme et de la réponse aux cas de non conformité, conformément aux instruments du Conseil du Trésor qui concernent la gestion de la conformité.",
+    "anchor": "6",
+    "tag": "section"
+  },
+  {
+    "en": "6.1.1 Decision making: Making decisions to approve or not approve requests for legal assistance and indemnification from Crown servants, within the scope of authority as set out in Appendix A. Decisions in respect to a request for legal assistance or indemnification are the responsibility of the approval authority for the organization where the incident giving rise to the request first arose.",
+    "fr": "6.1.1 Prise de décision : prendre la décision d’approuver ou non les demandes de services juridiques et d’indemnisation des fonctionnaires de l’État, dans les limites de leur autorité définies dans l’annexe A. Les décisions pour ce qui concerne la prestation de services juridiques ou l’indemnisation sont la responsabilité de l’autorité approbatrice de l’organisation où l’incident à l’origine de la demande a surgi.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.1.2 Timely response: Ensuring timely responses to Crown servants who are requesting legal assistance or indemnification under this policy, and for ensuring that claims or threats of suits are acted upon quickly and that dispute resolution mechanisms are considered, as appropriate.",
+    "fr": "6.1.2 Réponse en temps opportun : s’assurer que les fonctionnaires de l’État qui demandent des services juridiques ou une indemnisation en vertu de la présente politique obtiennent une réponse à leur demande en temps opportun, et s’assurer que les plaintes et les menaces de poursuites sont traitées rapidement et que le recours à des mécanismes de règlement des différends est envisagé s’il y a lieu.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.1.3 Eligibility: In making a decision on whether to approve a request for legal assistance or indemnification, ensuring that the Crown servant meets:",
+    "fr": "6.1.3 Admissibilité : en prenant la décision d’approuver ou non une demande de services juridiques ou d’indemnisation, s’assurer que le fonctionnaire de l’État satisfait :",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "the three basic eligibility criteria as described in 6.1.5; orthe exceptional circumstances as described in 6.1.8; orthe two qualifying criteria pertaining to parliamentary proceedings, commissions of inquiry, inquests or other similar proceedings as described in 6.1.9; andthe requirements set out in Appendix B.",
+    "fr": "aux trois critères d’admissibilité de base énoncés à l’article 6.1.5 ouaux circonstances exceptionnelles énoncées à l’article 6.1.8 ouaux deux critères d’admissibilité concernant les procédures parlementaires, les commissions d’enquête, les enquêtes ou autres instances similaires tels qu’ils sont énoncés à l’article 6.1.9 etaux exigences énoncées à l’annexe B.",
+    "anchor": "6.1",
+    "tag": "ul"
   },
   {
     "en": "The approval authority may seek the advice of any officials who may have knowledge of the facts, as well as the legal advice of the Department of Justice Canada prior to making this decision. The decision should be made before legal counsel engages with the Crown servant to avoid a potential conflict situation, which would be detrimental to the interests of both the Crown servant and the Crown.",
-    "fr": "Avant de prendre cette décision, l’autorité approbatrice peut demander l’avis de tout fonctionnaire ayant connaissance des faits, et obtenir également des conseils juridiques auprès du ministère de la Justice. Cette décision doit être prise avant que l’avocat s’engage auprès du fonctionnaire afin d’empêcher un éventuel conflit d’intérêts, ce qui serait préjudiciable aux intérêts du fonctionnaire et à ceux de l’État."
+    "fr": "Avant de prendre cette décision, l’autorité approbatrice peut demander l’avis de tout fonctionnaire ayant connaissance des faits, et obtenir également des conseils juridiques auprès du ministère de la Justice. Cette décision doit être prise avant que l’avocat s’engage auprès du fonctionnaire afin d’empêcher un éventuel conflit d’intérêts, ce qui serait préjudiciable aux intérêts du fonctionnaire et à ceux de l’État.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": In assessing the requests of Crown servants, presuming initially that they have met the basic eligibility criteria as described in 6.1.5 unless or until there is information to the contrary.",
-    "fr": ": Dans l’évaluation de la demande d’un fonctionnaire de l’État, présumer initialement que celui-ci a satisfait aux exigences de base d’admissibilité énoncées à l’article 6.1.5, à moins ou jusqu’à ce qu’il y ait des renseignements contraires."
+    "en": "6.1.4 Initial presumption: In assessing the requests of Crown servants, presuming initially that they have met the basic eligibility criteria as described in 6.1.5 unless or until there is information to the contrary.",
+    "fr": "6.1.4 Présomption initiale : Dans l’évaluation de la demande d’un fonctionnaire de l’État, présumer initialement que celui-ci a satisfait aux exigences de base d’admissibilité énoncées à l’article 6.1.5, à moins ou jusqu’à ce qu’il y ait des renseignements contraires.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": In considering Crown servants for legal assistance or indemnification, determining whether the Crown servant:",
-    "fr": ": évaluer la demande de services juridiques ou d’indemnisation du fonctionnaire de l’État, en établissant si le fonctionnaire :"
+    "en": "6.1.5 Three basic eligibility criteria: In considering Crown servants for legal assistance or indemnification, determining whether the Crown servant:",
+    "fr": "6.1.5 Trois critères d’admissibilité de base : évaluer la demande de services juridiques ou d’indemnisation du fonctionnaire de l’État, en établissant si le fonctionnaire :",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Deciding whether to approve legal assistance requests of Crown servants who meet the three basic eligibility criteria in the following situations:",
-    "fr": ": décider d’approuver ou non la demande de services juridiques d’un fonctionnaire de l’État qui satisfait aux trois critères d’admissibilité de base :"
+    "en": "acted in good faith;did not act against the interests of the Crown; andacted within the scope of their duties or course of employment with respect to the acts or omissions giving rise to the request.",
+    "fr": "a agi de bonne foi;n’a pas agi à l’encontre des intérêts de l’État; a agi dans l’exercice de ses fonctions ou dans le cadre de son emploi, relativement à l’acte ou à l’omission qui a donné lieu à la demande.",
+    "anchor": "6.1",
+    "tag": "ul"
   },
   {
-    "en": ": Providing indemnification when the Crown servant meets the three basic eligibility criteria as described in 6.1.5.",
-    "fr": ": indemniser le fonctionnaire de l’État lorsque celui-ci satisfait aux trois critères d’admissibilité de base énoncés à l’article 6.1.5."
+    "en": "6.1.6 Legal assistance: Deciding whether to approve legal assistance requests of Crown servants who meet the three basic eligibility criteria in the following situations:",
+    "fr": "6.1.6 Services juridiques : décider d’approuver ou non la demande de services juridiques d’un fonctionnaire de l’État qui satisfait aux trois critères d’admissibilité de base :",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Deciding whether to pre-approve a monetary settlement of a claim or an action made or brought against a Crown servant based on the Department of Justice Canada's recommendation.",
-    "fr": ": décider d’approuver ou non préalablement le règlement monétaire pour une action en justice ou une réclamation déposée contre un fonctionnaire de l’État sur la recommandation du ministère de la Justice."
+    "en": "when they are sued or threatened with a suit; when they are charged or likely to be charged with an offence; when they are named in a legal action or under threat of being named in a legal action; or when they are faced with serious personal liability before any court, tribunal or other judicial body.",
+    "fr": "lorsqu’il est poursuivi en justice ou menacé de poursuite;lorsqu’il est inculpé ou susceptible d’être inculpé;lorsqu’il est nommé ou susceptible d’être nommé dans une poursuite;lorsqu’il fait face à une responsabilité personnelle grave devant tout tribunal, cour ou autre organisme judiciaire.",
+    "anchor": "6.1",
+    "tag": "ul"
   },
   {
-    "en": ": Where the Crown is liable as a result of incidents involving Crown servants, no claims to recover such liability are to be made by the Crown against the Crown servants provided that the applicable criteria were met.",
-    "fr": ": dans le cas où l’État est responsable à la suite d’un incident impliquant l’un de ses fonctionnaires, l’État ne peut faire aucune demande de recouvrement contre celui-ci s’il satisfait aux critères applicables."
+    "en": "6.1.7 Indemnification: Providing indemnification when the Crown servant meets the three basic eligibility criteria as described in 6.1.5.",
+    "fr": "6.1.7 Indemnisation : indemniser le fonctionnaire de l’État lorsque celui-ci satisfait aux trois critères d’admissibilité de base énoncés à l’article 6.1.5.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Deciding whether to provide legal assistance or indemnification in the situations enumerated in 6.1.6 where the Crown servant does not meet one or more of the three basic eligibility criteria as set out in 6.1.5, provided the approval authority considers that it would be in the public interest to approve the request, after having consulted the Advisory Committee on Legal Assistance and Indemnification.",
-    "fr": ": décider de fournir ou non des services juridiques ou une indemnisation dans les situations énumérées à l’article 6.1.6 où le fonctionnaire de l’État ne satisfait pas à un ou plusieurs critères d’admissibilité de base tels qu’ils sont énoncés à l’article 6.1.5, à condition que l’autorité approbatrice estime qu’il est dans l’intérêt public d’approuver la demande, après avoir consulté le Comité consultatif sur les services juridiques et l’indemnisation."
+    "en": "6.1.7.1 Pre-approval of monetary settlement: Deciding whether to pre-approve a monetary settlement of a claim or an action made or brought against a Crown servant based on the Department of Justice Canada's recommendation.",
+    "fr": "6.1.7.1 Approbation préalable pour un règlement monétaire : décider d’approuver ou non préalablement le règlement monétaire pour une action en justice ou une réclamation déposée contre un fonctionnaire de l’État sur la recommandation du ministère de la Justice.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Deciding whether to approve requests for legal assistance where a Crown servant is requested or compelled to appear in connection with a parliamentary proceeding, a commission of inquiry, an inquest or other similar proceedings, provided two qualifying criteria are met:",
-    "fr": ": décider d’approuver ou non la demande de services juridiques dans le cas où le fonctionnaire de l’État est convoqué ou contraint de se présenter dans le cadre d’une procédure parlementaire, d’une commission d’enquête, d’une enquête ou d’une autre instance similaire, à condition qu’il satisfasse aux deux critères d’admissibilité suivants :"
+    "en": "6.1.7.2 No claim for recovery: Where the Crown is liable as a result of incidents involving Crown servants, no claims to recover such liability are to be made by the Crown against the Crown servants provided that the applicable criteria were met.",
+    "fr": "6.1.7.2 Aucune demande de recouvrement : dans le cas où l’État est responsable à la suite d’un incident impliquant l’un de ses fonctionnaires, l’État ne peut faire aucune demande de recouvrement contre celui-ci s’il satisfait aux critères applicables.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": In circumstances where it was practically unreasonable for the Crown servant to obtain approval from the approval authority in advance, and where the need for legal services was immediately necessary to protect the Crown servant's interest, deciding whether to approve legal assistance retroactively, provided that the Crown servant has made the request as soon as possible thereafter.",
-    "fr": ": dans les circonstances où il est pratiquement impossible d’obtenir à l’avance l’approbation de l’autorité approbatrice et où il faut que des services juridiques soient fournis immédiatement afin de protéger les intérêts du fonctionnaire de l’État, décider d’approuver ou non de façon rétroactive la demande de services juridiques, à condition que le fonctionnaire de l’État fasse sa demande le plus tôt possible par la suite."
+    "en": "6.1.8 Exceptional circumstances: Deciding whether to provide legal assistance or indemnification in the situations enumerated in 6.1.6 where the Crown servant does not meet one or more of the three basic eligibility criteria as set out in 6.1.5, provided the approval authority considers that it would be in the public interest to approve the request, after having consulted the Advisory Committee on Legal Assistance and Indemnification.",
+    "fr": "6.1.8 Circonstances exceptionnelles : décider de fournir ou non des services juridiques ou une indemnisation dans les situations énumérées à l’article 6.1.6 où le fonctionnaire de l’État ne satisfait pas à un ou plusieurs critères d’admissibilité de base tels qu’ils sont énoncés à l’article 6.1.5, à condition que l’autorité approbatrice estime qu’il est dans l’intérêt public d’approuver la demande, après avoir consulté le Comité consultatif sur les services juridiques et l’indemnisation.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Ensuring legal assistance or indemnification requests are not approved for the following matters:",
-    "fr": ": s’assurer que les demandes de services juridiques ou d’indemnisation ne sont pas approuvées :"
+    "en": "6.1.9 Parliamentary proceedings, commissions of inquiry, inquests or other similar proceedings: Deciding whether to approve requests for legal assistance where a Crown servant is requested or compelled to appear in connection with a parliamentary proceeding, a commission of inquiry, an inquest or other similar proceedings, provided two qualifying criteria are met:",
+    "fr": "6.1.9 Procédures parlementaires, commissions d’enquête, enquêtes et autres instances similaires : décider d’approuver ou non la demande de services juridiques dans le cas où le fonctionnaire de l’État est convoqué ou contraint de se présenter dans le cadre d’une procédure parlementaire, d’une commission d’enquête, d’une enquête ou d’une autre instance similaire, à condition qu’il satisfasse aux deux critères d’admissibilité suivants :",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Ensuring legal assistance is terminated, if at any time during or after the proceedings it becomes clear that the Crown servant did not meet the basic eligibility criteria outlined in section 6.1.5 or did not continue to qualify under the exceptional circumstances described in section 6.1.8.",
-    "fr": ": s’assurer que la prestation de services juridiques cesse si, à tout moment pendant ou après les procédures, il devient évident que le fonctionnaire de l’État n’a pas agi conformément aux critères d’admissibilité de base énoncés à la section 6.1.5 ou que son cas ne correspond plus aux circonstances exceptionnelles énoncées à la section 6.1.8."
+    "en": "that it is in the public interest to have the Crown servant appear; andthat the matter concerns events where the Crown servant was acting within the scope of his or her duties, or in the course of employment.",
+    "fr": "il est dans l’intérêt public que le fonctionnaire de l’État se présente;l’affaire concerne des événements où le fonctionnaire de l’État exerçait ses fonctions ou agissait dans le cadre de son emploi.",
+    "anchor": "6.1",
+    "tag": "ul"
+  },
+  {
+    "en": "6.1.10 Retroactive approval: In circumstances where it was practically unreasonable for the Crown servant to obtain approval from the approval authority in advance, and where the need for legal services was immediately necessary to protect the Crown servant's interest, deciding whether to approve legal assistance retroactively, provided that the Crown servant has made the request as soon as possible thereafter.",
+    "fr": "6.1.10 Approbation rétroactive : dans les circonstances où il est pratiquement impossible d’obtenir à l’avance l’approbation de l’autorité approbatrice et où il faut que des services juridiques soient fournis immédiatement afin de protéger les intérêts du fonctionnaire de l’État, décider d’approuver ou non de façon rétroactive la demande de services juridiques, à condition que le fonctionnaire de l’État fasse sa demande le plus tôt possible par la suite.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.1.11 Ineligible requests: Ensuring legal assistance or indemnification requests are not approved for the following matters:",
+    "fr": "6.1.11 Demandes inadmissibles : s’assurer que les demandes de services juridiques ou d’indemnisation ne sont pas approuvées :",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "matters arising while the requestor was engaged under a contract for services, with the exception of ministers' exempt staff;an action or claim initiated by a Crown servant unless it forms part of a legitimate defence to a legal claim, action or charge for which legal assistance was approved under this policy; an internal investigation or an internal administrative recourse mechanism including grievances, staffing or disciplinary proceedings; andactivities undertaken/carried out by a volunteer.",
+    "fr": "dans les cas survenant pendant que le demandeur était engagé dans le cadre d’un marché de services, à l’exception du personnel exonéré d’un ministre;lorsqu’une action en justice est entreprise ou une plainte est déposée par un fonctionnaire de l’État à moins qu’elle ne fasse partie d’une défense légitime face à une réclamation ou une action en justice pour laquelle des services juridiques ont été approuvés conformément à la présente politique;lors d’une enquête interne ou un mécanisme de recours administratif interne qui comprend les griefs, les procédures de dotation ou les mesures disciplinaires; lors d’activités menées par des bénévoles.",
+    "anchor": "6.1",
+    "tag": "ul"
+  },
+  {
+    "en": "6.1.12 Termination and recovery of legal assistance: Ensuring legal assistance is terminated, if at any time during or after the proceedings it becomes clear that the Crown servant did not meet the basic eligibility criteria outlined in section 6.1.5 or did not continue to qualify under the exceptional circumstances described in section 6.1.8.",
+    "fr": "6.1.12 Cessation et recouvrement des services juridiques : s’assurer que la prestation de services juridiques cesse si, à tout moment pendant ou après les procédures, il devient évident que le fonctionnaire de l’État n’a pas agi conformément aux critères d’admissibilité de base énoncés à la section 6.1.5 ou que son cas ne correspond plus aux circonstances exceptionnelles énoncées à la section 6.1.8.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
     "en": "Where legal assistance was approved for a Crown servant who met the criteria under 6.1.5, but it was subsequently established that they acted dishonestly or it was determined that the Crown servant did not act within the scope of their duties or course of employment, ensure that recovery action is considered and initiated for an amount equal to the legal assistance provided or the indemnification paid, and this amount shall constitute a debt owing to the Crown.",
-    "fr": "Lorsque les services juridiques ont été approuvés pour un fonctionnaire de l’État qui satisfaisait aux critères énoncés à la section 6.1.5, puis il est établi par la suite que le fonctionnaire de l’État a agi de mauvaise foi ou qu’il est établi que le fonctionnaire de l’État n’a pas agi dans l’exercice de ses fonctions ou dans le cadre de son emploi, s’assurer que des mesures de recouvrement soient considérées et entreprises pour un montant équivalent à celui des services juridiques fournis ou à l’indemnisation qui a été versée. Ce montant constitue une dette envers la Couronne."
+    "fr": "Lorsque les services juridiques ont été approuvés pour un fonctionnaire de l’État qui satisfaisait aux critères énoncés à la section 6.1.5, puis il est établi par la suite que le fonctionnaire de l’État a agi de mauvaise foi ou qu’il est établi que le fonctionnaire de l’État n’a pas agi dans l’exercice de ses fonctions ou dans le cadre de son emploi, s’assurer que des mesures de recouvrement soient considérées et entreprises pour un montant équivalent à celui des services juridiques fournis ou à l’indemnisation qui a été versée. Ce montant constitue une dette envers la Couronne.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Ensuring prior decisions refusing a request for legal assistance or indemnification because the three basic eligibility criteria were not met are reconsidered where a court or tribunal has finally concluded its proceedings and new evidence or information has demonstrated that the basic eligibility criteria were met.",
-    "fr": ": s’assurer que les demandes de services juridiques ou d’indemnisation précédemment rejetées parce qu’elles ne satisfaisaient pas aux trois critères d’admissibilité de base sont réexaminées dans le cas où un tribunal ou une cour a finalement achevé ses procédures et où de nouveaux renseignements ou éléments de preuve ont démontré que les critères d’admissibilité de base ont été satisfaits."
+    "en": "6.1.13 Reconsideration: Ensuring prior decisions refusing a request for legal assistance or indemnification because the three basic eligibility criteria were not met are reconsidered where a court or tribunal has finally concluded its proceedings and new evidence or information has demonstrated that the basic eligibility criteria were met.",
+    "fr": "6.1.13 Réexamen : s’assurer que les demandes de services juridiques ou d’indemnisation précédemment rejetées parce qu’elles ne satisfaisaient pas aux trois critères d’admissibilité de base sont réexaminées dans le cas où un tribunal ou une cour a finalement achevé ses procédures et où de nouveaux renseignements ou éléments de preuve ont démontré que les critères d’admissibilité de base ont été satisfaits.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
     "en": "In such event, the approval authority seeks the advice of the Advisory Committee on Legal Assistance and Indemnification before confirming or changing the decisions.",
-    "fr": "Dans de tels cas, l’autorité approbatrice demandera l’avis du Comité consultatif sur les services juridiques et l’indemnisation avant de confirmer ou de modifier une décision."
+    "fr": "Dans de tels cas, l’autorité approbatrice demandera l’avis du Comité consultatif sur les services juridiques et l’indemnisation avant de confirmer ou de modifier une décision.",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Ensuring that:",
-    "fr": ": s’assurer que :"
+    "en": "6.1.14 Responsibility for payment: Ensuring that:",
+    "fr": "6.1.14 Responsabilité du paiement : s’assurer que :",
+    "anchor": "6.1",
+    "tag": "p"
   },
   {
-    "en": ": Ensuring Crown servants are aware that they:",
-    "fr": ": s’assurer que les fonctionnaires de l’État savent qu’ils doivent :"
+    "en": "any amounts paid pursuant to this policy are paid from the budget of the organization in which the person worked at the time the act or omission giving rise to the request first occurred. If the approval authority is from a different organization, then ensuring that the amount is referred over to such organization for payment. If that organization no longer exists, the successor to that organization is to handle the request and bear the financial costs. If no successor organization exists, then an application to the Clerk of the Privy Council may be made to determine from which budget the amounts are to be paid;for cases involving offences, payment by the Crown does not include any fines or costs of prosecution; andpayment is not made until the request and supporting information is provided, and the approval authority has issued an authorization in writing approving the request.",
+    "fr": "tous les montants versés conformément à la présente politique proviennent du budget de l’organisation pour laquelle la personne travaillait au moment où l’acte ou l’omission à l’origine de la demande a surgi. Si l’autorité approbatrice est rattachée à une autre organisation, s’assurer que le montant est renvoyé à celle-ci pour paiement. Si cette organisation n’existe plus, celle qui lui succède devra s’occuper de la demande et couvrir les coûts. Si aucune organisation n’a succédé à l’organisation qui n’existe plus, une demande peut être présentée au greffier du Conseil privé afin de déterminer de quel budget les montants peuvent être payés;en ce qui concerne les accusations, le paiement par l’État ne comprend pas les amendes ni les coûts de poursuites judiciaires;le paiement n’est pas effectué avant que la demande soit faite et que les renseignements relatifs à la demande aient été fournis, et que l’autorité approbatrice ait délivré une autorisation écrite approuvant la demande.",
+    "anchor": "6.1",
+    "tag": "ul"
   },
   {
-    "en": ": In cases where there is a conflict of interest between the Crown and the Crown servant, or when the servant is charged with an offence, deciding whether to authorize payments for private legal assistance after consulting the Department of Justice Canada with respect to the appropriateness of engaging such private counsel. Such consultation shall include the name of the proposed private counsel as well as the private counsel's proposed fee schedule. If it is determined that this source of assistance is appropriate and private legal assistance is authorized, then the approval authority shall provide written authorization to the Crown servant including the selection of private counsel, the limits of the Crown's commitment, in terms of both total expenditures and the approved fee schedules, and of the requirement for reviewing accounts by the Department of Justice Canada.",
-    "fr": ": dans les cas où il y a conflit d’intérêt entre la Couronne et le fonctionnaire de l’État, ou lorsque le fonctionnaire est inculpé, l’autorité approbatrice doit décider d’autoriser ou non le paiement des services d’un avocat du secteur privé après avoir consulté le ministère de la Justice en ce qui a trait à la pertinence de cette mesure. Une telle consultation comprend le nom de l’avocat du secteur privé choisi, ainsi que son barème d’honoraires. Si l’on démontre la pertinence de ces services juridiques, l’autorité approbatrice doit remettre une autorisation écrite au fonctionnaire de l’État dans laquelle figurent le nom de l’avocat du secteur privé choisi, les limites de l’engagement de l’État en termes de dépenses totales et de barème d’honoraires accepté, et les exigences relatives à l’examen des comptes par le ministère de la Justice."
+    "en": "6.1.15 Education and preventing liability: Ensuring Crown servants are aware that they:",
+    "fr": "6.1.15 Information et prévention contre la responsabilité : s’assurer que les fonctionnaires de l’État savent qu’ils doivent :",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "are to inform the appropriate official at the earliest opportunity whenever an incident takes place that may result in a claim against the Crown or Crown servant that may give rise to the need for legal assistance; andfollow the request-making process as set out in Appendix B of this policy.",
+    "fr": "prévenir l’autorité appropriée le plus rapidement possible lorsque se produit un incident pouvant entraîner une réclamation contre l’État ou contre le fonctionnaire de l’État, et pour lequel des services juridiques peuvent être nécessaires; suivre le processus de présentation d’une demande tel que décrit à l’annexe B de la présente politique.",
+    "anchor": "6.1",
+    "tag": "ul"
+  },
+  {
+    "en": "6.1.16 Private counsel: In cases where there is a conflict of interest between the Crown and the Crown servant, or when the servant is charged with an offence, deciding whether to authorize payments for private legal assistance after consulting the Department of Justice Canada with respect to the appropriateness of engaging such private counsel. Such consultation shall include the name of the proposed private counsel as well as the private counsel's proposed fee schedule. If it is determined that this source of assistance is appropriate and private legal assistance is authorized, then the approval authority shall provide written authorization to the Crown servant including the selection of private counsel, the limits of the Crown's commitment, in terms of both total expenditures and the approved fee schedules, and of the requirement for reviewing accounts by the Department of Justice Canada.",
+    "fr": "6.1.16 Avocats du secteur privé : dans les cas où il y a conflit d’intérêt entre la Couronne et le fonctionnaire de l’État, ou lorsque le fonctionnaire est inculpé, l’autorité approbatrice doit décider d’autoriser ou non le paiement des services d’un avocat du secteur privé après avoir consulté le ministère de la Justice en ce qui a trait à la pertinence de cette mesure. Une telle consultation comprend le nom de l’avocat du secteur privé choisi, ainsi que son barème d’honoraires. Si l’on démontre la pertinence de ces services juridiques, l’autorité approbatrice doit remettre une autorisation écrite au fonctionnaire de l’État dans laquelle figurent le nom de l’avocat du secteur privé choisi, les limites de l’engagement de l’État en termes de dépenses totales et de barème d’honoraires accepté, et les exigences relatives à l’examen des comptes par le ministère de la Justice.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.2.1 Within organizations",
+    "fr": "6.2.1 À l’intérieur des organisations",
+    "anchor": "6.2",
+    "tag": "p"
   },
   {
     "en": "The approval authority is responsible for ensuring that records are maintained for the amounts of:",
-    "fr": "L’autorité approbatrice est responsable de s’assurer que sont tenus des registres des frais payés dans le cadre :"
+    "fr": "L’autorité approbatrice est responsable de s’assurer que sont tenus des registres des frais payés dans le cadre :",
+    "anchor": "6.2",
+    "tag": "p"
+  },
+  {
+    "en": "claims or settlements paid;territorial, provincial and federal court awards paid by the Crown;legal costs and related expenses paid under this policy; and numbers of requests refused.",
+    "fr": "d’une réclamation ou d’un règlement;de sommes accordées par des tribunaux de compétence territoriale, provinciale ou fédérale et payées par l’État;d’honoraires et de coûts connexes assumés en application de la présente politique; du nombre de demandes refusées.",
+    "anchor": "6.2",
+    "tag": "ul"
   },
   {
     "en": "The approval authority will ensure an annual analysis of the trends in requests and decisions made under this policy is undertaken to address any identified risk areas.",
-    "fr": "L’autorité approbatrice veillera à ce que soit entreprise une analyse annuelle des tendances relatives aux demandes et décisions faites aux termes de la présente politique, dans le but d’examiner tout secteur de risque déterminé."
+    "fr": "L’autorité approbatrice veillera à ce que soit entreprise une analyse annuelle des tendances relatives aux demandes et décisions faites aux termes de la présente politique, dans le but d’examiner tout secteur de risque déterminé.",
+    "anchor": "6.2",
+    "tag": "p"
+  },
+  {
+    "en": "6.2.2 Government-wide",
+    "fr": "6.2.2 À l’échelle du gouvernement",
+    "anchor": "6.2",
+    "tag": "p"
   },
   {
     "en": "The Office of the Chief Human Resources Officer (OCHRO) will review the policy and its effectiveness at the five-year mark of implementation. Where substantiated by risk analysis, the OCHRO will ensure an evaluation is conducted.",
-    "fr": "Le Bureau du dirigeant principal des ressources humaines examinera la présente politique ainsi que son efficacité cinq ans après son entrée en vigueur. Le BDPRH veillera également à ce qu’une évaluation soit effectuée si une analyse des risques le justifie."
+    "fr": "Le Bureau du dirigeant principal des ressources humaines examinera la présente politique ainsi que son efficacité cinq ans après son entrée en vigueur. Le BDPRH veillera également à ce qu’une évaluation soit effectuée si une analyse des risques le justifie.",
+    "anchor": "6.2",
+    "tag": "p"
+  },
+  {
+    "en": "6.2.3 By organizations",
+    "fr": "6.2.3 Par les organisations",
+    "anchor": "6.2",
+    "tag": "p"
   },
   {
     "en": "Where there is evidence of non-compliance or inconsistent application of the policy in any organization, OCHRO may request and shall be provided with additional or more frequent reporting on the use of the policy. This information and its analysis may be included in the Management Accountability Framework (MAF) process.",
-    "fr": "Lorsqu’il est évident qu’une organisation n’applique pas la présente politique ou si elle ne l’applique pas uniformément, le BDPRH peut demander que lui soient présentés davantage de rapports (ou plus fréquemment) sur la mise en application de la présente politique. Ces renseignements et leur analyse peuvent être ajoutés au processus du cadre de responsabilisation de gestion (CRG)."
+    "fr": "Lorsqu’il est évident qu’une organisation n’applique pas la présente politique ou si elle ne l’applique pas uniformément, le BDPRH peut demander que lui soient présentés davantage de rapports (ou plus fréquemment) sur la mise en application de la présente politique. Ces renseignements et leur analyse peuvent être ajoutés au processus du cadre de responsabilisation de gestion (CRG).",
+    "anchor": "6.2",
+    "tag": "p"
   },
   {
     "en": "This section does not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with this policy within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments that address the management of compliance.",
-    "fr": "Cette section ne s’applique pas au Bureau du vérificateur général, au Commissariat à la protection de la vie privée, au Commissariat à l’information, au Bureau du directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l’intégrité du secteur public. L’administrateur général de chacun de ces organismes est l’unique responsable de la surveillance de la conformité à la Politique dans son organisme et de la réponse aux cas de non conformité, conformément aux instruments du Conseil du Trésor qui concernent la gestion de la conformité."
+    "fr": "Cette section ne s’applique pas au Bureau du vérificateur général, au Commissariat à la protection de la vie privée, au Commissariat à l’information, au Bureau du directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l’intégrité du secteur public. L’administrateur général de chacun de ces organismes est l’unique responsable de la surveillance de la conformité à la Politique dans son organisme et de la réponse aux cas de non conformité, conformément aux instruments du Conseil du Trésor qui concernent la gestion de la conformité.",
+    "anchor": "6.2",
+    "tag": "p"
   },
   {
     "en": "7.1 Over and above costs identified in policy requirement 6.1.14, responsible organizations will be required to pay from their budgets any costs associated with errors or inappropriate application of the terms of this policy.",
-    "fr": "7.1 En plus des coûts énoncés à l’exigence 6.1.14 de la présente politique, les organisations responsables devront payer de leur budget tous frais liés aux erreurs ou à la mauvaise application des exigences de la présente politique."
+    "fr": "7.1 En plus des coûts énoncés à l’exigence 6.1.14 de la présente politique, les organisations responsables devront payer de leur budget tous frais liés aux erreurs ou à la mauvaise application des exigences de la présente politique.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
-    "en": "7.2 Consequences of non-compliance with this policy may also include any measures allowed by the that the Treasury Board may determine as appropriate.",
-    "fr": "7.2 Les conséquences liées au non‐respect de la présente politique peuvent également comprendre toute mesure prévue par la que le Conseil du Trésor juge appropriée."
+    "en": "7.2 Consequences of non-compliance with this policy may also include any measures allowed by the Financial Administration Act that the Treasury Board may determine as appropriate.",
+    "fr": "7.2 Les conséquences liées au non‐respect de la présente politique peuvent également comprendre toute mesure prévue par la Loi sur la gestion des finances publiques que le Conseil du Trésor juge appropriée.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
-    "en": "For questions regarding this policy, please contact .",
-    "fr": "Pour toute question portant sur cet instrument de politique, veuillez communiquer avec le du Secrétariat du Conseil du Trésor."
+    "en": "providing advice and guidance to organizations on the interpretation of the policy;establishing an Advisory Committee on Legal Assistance and Indemnification, made up of selected senior managers, which will provide advice and recommendations to the approval authority in complex situations when required or requested to do so; andselecting the members of the Advisory Committee on Legal Assistance and Indemnification, coordinating the committee and chairing its meetings.",
+    "fr": "donner des conseils aux organisations quant à l’interprétation de la présente politique;former un Comité consultatif sur les services juridiques et l’indemnisation, composé de cadres supérieurs qui fourniront des conseils et des recommandations à l’autorité approbatrice dans des situations complexes, lorsque c’est requis ou sur demande;nommer les membres du Comité consultatif sur les services juridiques et l’indemnisation, assurer la coordination du comité et en présider les réunions.",
+    "anchor": "8",
+    "tag": "section"
   },
   {
-    "en": "an individual employed (or formerly employed) in a department as defined in section 2 of the and to other portions of the federal public administration named in Schedule IV of the in the Canadian Forces and the Royal Canadian Mounted Police;",
-    "fr": "particulier qui est (ou était) au service d’un ministère au sens de l’article 2 de la et de l’un des secteurs de l’administration publique fédérale figurant à l’annexe IV de la des Forces canadiennes ou de la Gendarmerie royale du Canada;"
+    "en": "providing legal advice to approval authorities and their organizations;providing litigation services to the Crown and to the Crown servants approved for assistance under this policy, including the conduct of the litigation, either through a Department of Justice counsel or an external counsel retained as an agent of the Attorney General, with the Minister of Justice having ultimate responsibility for selecting and instructing the agent; ensuring, in cases where two or more Crown servants are sued in the same action, that the same counsel is to conduct the Crown servants' defence in the absence of a conflict of interest;treating, to the greatest extent possible and consistent with counsel's obligations to protect the interest of the Crown, all communications with the Crown servant in confidence in any claim or proceeding for which the Attorney General of Canada has the authority under this policy to select and instruct counsel. The Crown will not use any information so disclosed in confidence by the Crown servant in any disciplinary or civil action against the servant; when at any time during a proceeding a conflict arises for a Department of Justice counsel or an agent of the Attorney General representing the Crown servant, the Attorney General could instruct such counsel to discontinue so acting. In such situations, the approval authority may authorize the engagement of private legal assistance in accordance with the terms of this policy; reviewing fees and disbursements proposed to be charged by private counsel to ensure they are within the limits established; andmaking recommendations in regard to a monetary settlement of a claim or an action made or brought against a Crown servant.",
+    "fr": "donner des conseils d’ordre juridique aux autorités approbatrices et à leur organisation;fournir des services de contentieux au gouvernement ou aux fonctionnaires de l’État autorisés à recevoir de tels services aux termes de la présente politique, y compris la conduite de litiges, soit par un avocat du ministère de la Justice soit par un avocat externe retenu en tant que mandataire du procureur général; le ministre de la Justice a l’entière responsabilité du choix et de l’instruction du mandataire;lorsque deux fonctionnaires de l’État ou plus sont poursuivis en justice dans le cadre de la même procédure, s’assurer que les fonctionnaires seront défendus par le même avocat en l’absence de conflit d’intérêts;le plus possible et conformément à l’obligation de protéger les intérêts de l’État, traiter toutes les communications avec le fonctionnaire de façon confidentielle dans le cadre de toute réclamation ou procédure dans laquelle le procureur général du Canada a le pouvoir, en vertu de la présente politique, de choisir et de donner des instructions à un avocat. L’État n’utilisera pas les renseignements ainsi communiqués à l’avocat sous le sceau du secret pour prendre des mesures disciplinaires ou des poursuites civiles à l’endroit du fonctionnaire concerné;À tout moment au cours des procédures, lorsqu’un conflit d’intérêts survient pour l’avocat du ministère de la Justice ou le mandataire du procureur général qui représente le fonctionnaire de l’État, le procureur général peut ordonner à l’avocat de cesser d’agir à ce titre. Dans de telles situations, l’autorité approbatrice peut autoriser le recours aux services d’un avocat du secteur privé, conformément aux exigences de la présente politique;examiner les frais et les dépenses que demande un avocat du secteur privé afin de s’assurer que les limites établies sont respectées; faire des recommandations en matière de règlement monétaire d’une action en justice ou d’une réclamation déposée contre un fonctionnaire de l’État.",
+    "anchor": "8",
+    "tag": "section"
   },
   {
-    "en": "an individual appointed (or formerly appointed) by the Governor in Council, or by the Treasury Board or by a minister; except for former and serving directors or officers of Crown Corporations;",
-    "fr": "particulier nommé (ou qui a été auparavant nommé) par le gouverneur en conseil, le Conseil du Trésor ou un ministre; à l'exception d'un ancien ou actuel administrateur ou dirigeant des sociétés d'État;"
+    "en": "providing advice and guidance to organizations on the interpretation of the policy;establishing an Advisory Committee on Legal Assistance and Indemnification, made up of selected senior managers, which will provide advice and recommendations to the approval authority in complex situations when required or requested to do so; andselecting the members of the Advisory Committee on Legal Assistance and Indemnification, coordinating the committee and chairing its meetings.",
+    "fr": "donner des conseils aux organisations quant à l’interprétation de la présente politique;former un Comité consultatif sur les services juridiques et l’indemnisation, composé de cadres supérieurs qui fourniront des conseils et des recommandations à l’autorité approbatrice dans des situations complexes, lorsque c’est requis ou sur demande;nommer les membres du Comité consultatif sur les services juridiques et l’indemnisation, assurer la coordination du comité et en présider les réunions.",
+    "anchor": "8.1",
+    "tag": "ul"
   },
   {
-    "en": "a former and serving prime minister, lieutenant-governor, governor general, minister, deputy head and ministers' exempt staff;",
-    "fr": "ancien ou actuel premier ministre, lieutenant-gouverneur, gouverneur général, ministre, administrateur général ou membre du personnel exonéré;"
+    "en": "providing legal advice to approval authorities and their organizations;providing litigation services to the Crown and to the Crown servants approved for assistance under this policy, including the conduct of the litigation, either through a Department of Justice counsel or an external counsel retained as an agent of the Attorney General, with the Minister of Justice having ultimate responsibility for selecting and instructing the agent; ensuring, in cases where two or more Crown servants are sued in the same action, that the same counsel is to conduct the Crown servants' defence in the absence of a conflict of interest;treating, to the greatest extent possible and consistent with counsel's obligations to protect the interest of the Crown, all communications with the Crown servant in confidence in any claim or proceeding for which the Attorney General of Canada has the authority under this policy to select and instruct counsel. The Crown will not use any information so disclosed in confidence by the Crown servant in any disciplinary or civil action against the servant; when at any time during a proceeding a conflict arises for a Department of Justice counsel or an agent of the Attorney General representing the Crown servant, the Attorney General could instruct such counsel to discontinue so acting. In such situations, the approval authority may authorize the engagement of private legal assistance in accordance with the terms of this policy; reviewing fees and disbursements proposed to be charged by private counsel to ensure they are within the limits established; andmaking recommendations in regard to a monetary settlement of a claim or an action made or brought against a Crown servant.",
+    "fr": "donner des conseils d’ordre juridique aux autorités approbatrices et à leur organisation;fournir des services de contentieux au gouvernement ou aux fonctionnaires de l’État autorisés à recevoir de tels services aux termes de la présente politique, y compris la conduite de litiges, soit par un avocat du ministère de la Justice soit par un avocat externe retenu en tant que mandataire du procureur général; le ministre de la Justice a l’entière responsabilité du choix et de l’instruction du mandataire;lorsque deux fonctionnaires de l’État ou plus sont poursuivis en justice dans le cadre de la même procédure, s’assurer que les fonctionnaires seront défendus par le même avocat en l’absence de conflit d’intérêts;le plus possible et conformément à l’obligation de protéger les intérêts de l’État, traiter toutes les communications avec le fonctionnaire de façon confidentielle dans le cadre de toute réclamation ou procédure dans laquelle le procureur général du Canada a le pouvoir, en vertu de la présente politique, de choisir et de donner des instructions à un avocat. L’État n’utilisera pas les renseignements ainsi communiqués à l’avocat sous le sceau du secret pour prendre des mesures disciplinaires ou des poursuites civiles à l’endroit du fonctionnaire concerné;À tout moment au cours des procédures, lorsqu’un conflit d’intérêts survient pour l’avocat du ministère de la Justice ou le mandataire du procureur général qui représente le fonctionnaire de l’État, le procureur général peut ordonner à l’avocat de cesser d’agir à ce titre. Dans de telles situations, l’autorité approbatrice peut autoriser le recours aux services d’un avocat du secteur privé, conformément aux exigences de la présente politique;examiner les frais et les dépenses que demande un avocat du secteur privé afin de s’assurer que les limites établies sont respectées; faire des recommandations en matière de règlement monétaire d’une action en justice ou d’une réclamation déposée contre un fonctionnaire de l’État.",
+    "anchor": "8.2",
+    "tag": "ul"
   },
   {
-    "en": "a representative authorized in writing to act on behalf of a serving prime minister, minister or deputy head;",
-    "fr": "mandataire autorisé par écrit d’un premier ministre, d’un ministre ou d’un administrateur général;"
+    "en": "Financial Administration ActCrown Liability and Proceedings Act",
+    "fr": "Loi sur la gestion des finances publiquesLoi sur la responsabilité civile de l’État et le contentieux administratif",
+    "anchor": "9",
+    "tag": "section"
   },
   {
-    "en": "an incoming Interchange Canada participant or former incoming Interchange Canada participant under the and the ;",
-    "fr": "participant d’Échanges Canada arrivant ou un ancien participant d’Échanges Canada arrivant en vertu de la et la ;"
+    "en": "Policy on Financial ManagementPolicies and Guidelines for Ministers' OfficesDirective on the Management of ProcurementDirective on Interchange CanadaPolicy on People ManagementTravel DirectiveSpecial Travel AuthoritiesValues and Ethics Code for the Public Service",
+    "fr": "Politique sur la gestion des personnesPolitique sur la gestion financièrePolitiques et lignes directrices à l’intention des cabinets des ministresDirective sur la gestion de l’approvisionnementDirective sur Échanges CanadaDirective sur les voyagesAutorisations spéciales de voyagerCode de valeurs et d'éthique du secteur publique",
+    "anchor": "9",
+    "tag": "section"
   },
   {
-    "en": "an individual employed (or formerly employed) in a provincial, municipal, territorial or Indigenous law enforcement agency while assigned to and working in a Royal Canadian Mounted Police-led integrated policing unit, solely in their role as part of that Royal Canadian Mounted Police-led integrated policing unit; or",
-    "fr": "particulier qui est (ou était) au service d’un organisme d’application de la loi provincial, municipal, territorial ou autochtone tout en étant affecté et en travaillant au sein d’un groupe intégré dirigé par la Gendarmerie royale du Canada, uniquement à titre de membre de ce groupe intégré dirigé par la Gendarmerie royale du Canada;"
-  },
-  {
-    "en": "an estate of an individual mentioned above.",
-    "fr": "succession d’une personne susmentionnée."
-  },
-  {
-    "en": "protect Crown servants from personal financial losses or expenses incurred while they were acting within the scope of their duties or in the course of their employment, and were not acting against the interests of the Crown;",
-    "fr": "protéger les fonctionnaires de l’État de pertes financières personnelles ou de dépenses subies pendant qu’ils exerçaient leurs fonctions ou dans le cadre de leur emploi, et qu’ils n’agissaient pas à l’encontre des intérêts de l’État;"
-  },
-  {
-    "en": "protect the Crown's interest and its potential or actual liability arising from the acts or omissions of its Crown servants; and",
-    "fr": "protéger les intérêts de l’État en ce qui concerne sa responsabilité réelle ou éventuelle résultant des actes ou des omissions de ses fonctionnaires;"
-  },
-  {
-    "en": "ensure continued and effective public service to Canadians.",
-    "fr": "assurer aux Canadiens la pérennité et l’efficacité des services de la fonction publique."
-  },
-  {
-    "en": "Crown servants' and the Crown's interests are protected from potential or actual liability arising from the acts or omissions of Crown servants occurring while they were acting within the scope of their duties or in the course of their employment, and not acting against the interests of the Crown;",
-    "fr": "les fonctionnaires de l’État et les intérêts de l’État sont protégés de la responsabilité réelle ou éventuelle résultant des actes ou des omissions de ses fonctionnaires pendant qu’ils exercent leurs fonctions ou dans le cadre de leur emploi, et lorsqu’ils n’agissent pas à l’encontre des intérêts de l’État;"
-  },
-  {
-    "en": "Crown servants are protected against personal liability through fair and consistent policy application;",
-    "fr": "les fonctionnaires de l’État sont protégés de la responsabilité personnelle par une application équitable et cohérente de la politique;"
-  },
-  {
-    "en": "the Crown and Crown servants are appropriately and promptly represented; and",
-    "fr": "l’État et ses fonctionnaires sont représentés de façon appropriée et dans les délais les plus brefs;"
-  },
-  {
-    "en": "parliamentary proceedings, commissions of inquiry and inquests have the full collaboration of Crown servants.",
-    "fr": "les fonctionnaires de l’État collaborent pleinement aux procédures parlementaires, aux commissions d’enquête et aux enquêtes."
-  },
-  {
-    "en": "the three basic eligibility criteria as described in 6.1.5; or",
-    "fr": "aux trois critères d’admissibilité de base énoncés à l’article 6.1.5 ou"
-  },
-  {
-    "en": "the exceptional circumstances as described in 6.1.8; or",
-    "fr": "aux circonstances exceptionnelles énoncées à l’article 6.1.8 ou"
-  },
-  {
-    "en": "the two qualifying criteria pertaining to parliamentary proceedings, commissions of inquiry, inquests or other similar proceedings as described in 6.1.9; and",
-    "fr": "aux deux critères d’admissibilité concernant les procédures parlementaires, les commissions d’enquête, les enquêtes ou autres instances similaires tels qu’ils sont énoncés à l’article 6.1.9 et"
-  },
-  {
-    "en": "the requirements set out in Appendix B.",
-    "fr": "aux exigences énoncées à l’annexe B."
-  },
-  {
-    "en": "acted in good faith;",
-    "fr": "a agi de bonne foi;"
-  },
-  {
-    "en": "did not act against the interests of the Crown; and",
-    "fr": "n’a pas agi à l’encontre des intérêts de l’État;"
-  },
-  {
-    "en": "acted within the scope of their duties or course of employment with respect to the acts or omissions giving rise to the request.",
-    "fr": "a agi dans l’exercice de ses fonctions ou dans le cadre de son emploi, relativement à l’acte ou à l’omission qui a donné lieu à la demande."
-  },
-  {
-    "en": "when they are sued or threatened with a suit;",
-    "fr": "lorsqu’il est poursuivi en justice ou menacé de poursuite;"
-  },
-  {
-    "en": "when they are charged or likely to be charged with an offence;",
-    "fr": "lorsqu’il est inculpé ou susceptible d’être inculpé;"
-  },
-  {
-    "en": "when they are named in a legal action or under threat of being named in a legal action; or",
-    "fr": "lorsqu’il est nommé ou susceptible d’être nommé dans une poursuite;"
-  },
-  {
-    "en": "when they are faced with serious personal liability before any court, tribunal or other judicial body.",
-    "fr": "lorsqu’il fait face à une responsabilité personnelle grave devant tout tribunal, cour ou autre organisme judiciaire."
-  },
-  {
-    "en": "that it is in the public interest to have the Crown servant appear; and",
-    "fr": "il est dans l’intérêt public que le fonctionnaire de l’État se présente;"
-  },
-  {
-    "en": "that the matter concerns events where the Crown servant was acting within the scope of his or her duties, or in the course of employment.",
-    "fr": "l’affaire concerne des événements où le fonctionnaire de l’État exerçait ses fonctions ou agissait dans le cadre de son emploi."
-  },
-  {
-    "en": "matters arising while the requestor was engaged under a contract for services, with the exception of ministers' exempt staff;",
-    "fr": "dans les cas survenant pendant que le demandeur était engagé dans le cadre d’un marché de services, à l’exception du personnel exonéré d’un ministre;"
-  },
-  {
-    "en": "an action or claim initiated by a Crown servant unless it forms part of a legitimate defence to a legal claim, action or charge for which legal assistance was approved under this policy;",
-    "fr": "lorsqu’une action en justice est entreprise ou une plainte est déposée par un fonctionnaire de l’État à moins qu’elle ne fasse partie d’une défense légitime face à une réclamation ou une action en justice pour laquelle des services juridiques ont été approuvés conformément à la présente politique;"
-  },
-  {
-    "en": "an internal investigation or an internal administrative recourse mechanism including grievances, staffing or disciplinary proceedings; and",
-    "fr": "lors d’une enquête interne ou un mécanisme de recours administratif interne qui comprend les griefs, les procédures de dotation ou les mesures disciplinaires;"
-  },
-  {
-    "en": "activities undertaken/carried out by a volunteer.",
-    "fr": "lors d’activités menées par des bénévoles."
-  },
-  {
-    "en": "any amounts paid pursuant to this policy are paid from the budget of the organization in which the person worked at the time the act or omission giving rise to the request first occurred. If the approval authority is from a different organization, then ensuring that the amount is referred over to such organization for payment. If that organization no longer exists, the successor to that organization is to handle the request and bear the financial costs. If no successor organization exists, then an application to the Clerk of the Privy Council may be made to determine from which budget the amounts are to be paid;",
-    "fr": "tous les montants versés conformément à la présente politique proviennent du budget de l’organisation pour laquelle la personne travaillait au moment où l’acte ou l’omission à l’origine de la demande a surgi. Si l’autorité approbatrice est rattachée à une autre organisation, s’assurer que le montant est renvoyé à celle-ci pour paiement. Si cette organisation n’existe plus, celle qui lui succède devra s’occuper de la demande et couvrir les coûts. Si aucune organisation n’a succédé à l’organisation qui n’existe plus, une demande peut être présentée au greffier du Conseil privé afin de déterminer de quel budget les montants peuvent être payés;"
-  },
-  {
-    "en": "for cases involving offences, payment by the Crown does not include any fines or costs of prosecution; and",
-    "fr": "en ce qui concerne les accusations, le paiement par l’État ne comprend pas les amendes ni les coûts de poursuites judiciaires;"
-  },
-  {
-    "en": "payment is not made until the request and supporting information is provided, and the approval authority has issued an authorization in writing approving the request.",
-    "fr": "le paiement n’est pas effectué avant que la demande soit faite et que les renseignements relatifs à la demande aient été fournis, et que l’autorité approbatrice ait délivré une autorisation écrite approuvant la demande."
-  },
-  {
-    "en": "are to inform the appropriate official at the earliest opportunity whenever an incident takes place that may result in a claim against the Crown or Crown servant that may give rise to the need for legal assistance; and",
-    "fr": "prévenir l’autorité appropriée le plus rapidement possible lorsque se produit un incident pouvant entraîner une réclamation contre l’État ou contre le fonctionnaire de l’État, et pour lequel des services juridiques peuvent être nécessaires;"
-  },
-  {
-    "en": "follow the request-making process as set out in Appendix B of this policy.",
-    "fr": "suivre le processus de présentation d’une demande tel que décrit à l’annexe B de la présente politique."
-  },
-  {
-    "en": "claims or settlements paid;",
-    "fr": "d’une réclamation ou d’un règlement;"
-  },
-  {
-    "en": "territorial, provincial and federal court awards paid by the Crown;",
-    "fr": "de sommes accordées par des tribunaux de compétence territoriale, provinciale ou fédérale et payées par l’État;"
-  },
-  {
-    "en": "legal costs and related expenses paid under this policy; and",
-    "fr": "d’honoraires et de coûts connexes assumés en application de la présente politique;"
-  },
-  {
-    "en": "numbers of requests refused.",
-    "fr": "du nombre de demandes refusées."
-  },
-  {
-    "en": "providing advice and guidance to organizations on the interpretation of the policy;",
-    "fr": "donner des conseils aux organisations quant à l’interprétation de la présente politique;"
-  },
-  {
-    "en": "establishing an Advisory Committee on Legal Assistance and Indemnification, made up of selected senior managers, which will provide advice and recommendations to the approval authority in complex situations when required or requested to do so; and",
-    "fr": "former un Comité consultatif sur les services juridiques et l’indemnisation, composé de cadres supérieurs qui fourniront des conseils et des recommandations à l’autorité approbatrice dans des situations complexes, lorsque c’est requis ou sur demande;"
-  },
-  {
-    "en": "selecting the members of the Advisory Committee on Legal Assistance and Indemnification, coordinating the committee and chairing its meetings.",
-    "fr": "nommer les membres du Comité consultatif sur les services juridiques et l’indemnisation, assurer la coordination du comité et en présider les réunions."
-  },
-  {
-    "en": "providing legal advice to approval authorities and their organizations;",
-    "fr": "donner des conseils d’ordre juridique aux autorités approbatrices et à leur organisation;"
-  },
-  {
-    "en": "providing litigation services to the Crown and to the Crown servants approved for assistance under this policy, including the conduct of the litigation, either through a Department of Justice counsel or an external counsel retained as an agent of the Attorney General, with the Minister of Justice having ultimate responsibility for selecting and instructing the agent;",
-    "fr": "fournir des services de contentieux au gouvernement ou aux fonctionnaires de l’État autorisés à recevoir de tels services aux termes de la présente politique, y compris la conduite de litiges, soit par un avocat du ministère de la Justice soit par un avocat externe retenu en tant que mandataire du procureur général; le ministre de la Justice a l’entière responsabilité du choix et de l’instruction du mandataire;"
-  },
-  {
-    "en": "ensuring, in cases where two or more Crown servants are sued in the same action, that the same counsel is to conduct the Crown servants' defence in the absence of a conflict of interest;",
-    "fr": "lorsque deux fonctionnaires de l’État ou plus sont poursuivis en justice dans le cadre de la même procédure, s’assurer que les fonctionnaires seront défendus par le même avocat en l’absence de conflit d’intérêts;"
-  },
-  {
-    "en": "treating, to the greatest extent possible and consistent with counsel's obligations to protect the interest of the Crown, all communications with the Crown servant in confidence in any claim or proceeding for which the Attorney General of Canada has the authority under this policy to select and instruct counsel. The Crown will not use any information so disclosed in confidence by the Crown servant in any disciplinary or civil action against the servant;",
-    "fr": "le plus possible et conformément à l’obligation de protéger les intérêts de l’État, traiter toutes les communications avec le fonctionnaire de façon confidentielle dans le cadre de toute réclamation ou procédure dans laquelle le procureur général du Canada a le pouvoir, en vertu de la présente politique, de choisir et de donner des instructions à un avocat. L’État n’utilisera pas les renseignements ainsi communiqués à l’avocat sous le sceau du secret pour prendre des mesures disciplinaires ou des poursuites civiles à l’endroit du fonctionnaire concerné;"
-  },
-  {
-    "en": "when at any time during a proceeding a conflict arises for a Department of Justice counsel or an agent of the Attorney General representing the Crown servant, the Attorney General could instruct such counsel to discontinue so acting. In such situations, the approval authority may authorize the engagement of private legal assistance in accordance with the terms of this policy;",
-    "fr": "À tout moment au cours des procédures, lorsqu’un conflit d’intérêts survient pour l’avocat du ministère de la Justice ou le mandataire du procureur général qui représente le fonctionnaire de l’État, le procureur général peut ordonner à l’avocat de cesser d’agir à ce titre. Dans de telles situations, l’autorité approbatrice peut autoriser le recours aux services d’un avocat du secteur privé, conformément aux exigences de la présente politique;"
-  },
-  {
-    "en": "reviewing fees and disbursements proposed to be charged by private counsel to ensure they are within the limits established; and",
-    "fr": "examiner les frais et les dépenses que demande un avocat du secteur privé afin de s’assurer que les limites établies sont respectées;"
-  },
-  {
-    "en": "making recommendations in regard to a monetary settlement of a claim or an action made or brought against a Crown servant.",
-    "fr": "faire des recommandations en matière de règlement monétaire d’une action en justice ou d’une réclamation déposée contre un fonctionnaire de l’État."
+    "en": "Financial Administration ActCrown Liability and Proceedings Act",
+    "fr": "Loi sur la gestion des finances publiquesLoi sur la responsabilité civile de l’État et le contentieux administratif",
+    "anchor": "9.1",
+    "tag": "ul"
   }
 ]

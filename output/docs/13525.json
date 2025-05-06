@@ -1,354 +1,68 @@
 [
   {
-    "en": "This policy takes effect on October 1, 2008.",
-    "fr": "La présente politique entre en vigueur le 1er octobre 2008."
+    "en": "DesignApproving the terms and conditions for new transfer payment programs, except when a minister is authorized, including by legislation, to establish those terms and conditions;Approving amendments to terms and conditions for existing transfer payment programs, except when a minister is authorized under this policy or by legislation to amend those terms and conditions;Approving funding agreements when required by Treasury Board or by the directives supporting this policy, or when recommended by the President of the Treasury Board; Using periodic spending reviews, such as resource alignment reviews, to review the continuation, amendment or termination of transfer payment programs; andApproving exceptions to terms and conditions, except when a minister is authorized to approve those exceptions under paragraphs 5.3.7 and 5.3.8 of this policy.",
+    "fr": "ConceptionApprouver les modalités des nouveaux programmes de paiements de transfert, sauf dans les situations où un ministre est autorisé, y compris en vertu d’une loi, à établir ces modalités.Approuver les modifications des modalités des programmes de paiement de transfert existants, sauf lorsqu’un ministre est autorisé, en vertu de la présente politique ou d’une loi, à modifier ces modalités.Approuver les ententes de financement lorsque le Conseil du Trésor l’exige ou en fonction des directives qui accompagnent la présente politique, ou lorsque le président du Conseil du Trésor le recommande. Utiliser des examens périodiques des dépenses, comme des examens d’alignement des ressources, pour examiner la continuation, la modification ou la résiliation des programmes de paiements de transfert.Approuver les exceptions aux modalités, sauf lorsqu’un ministre est autorisé à approuver ces exceptions en vertu des paragraphes 5.3.7 et 5.3.8 de la présente politique.",
+    "anchor": "5.1",
+    "tag": "section"
   },
   {
-    "en": "This version of the policy incorporates updates effective April 1, 2022.",
-    "fr": "Cette version de la politique intègre les mises à jour en vigueur le 1er avril 2022."
+    "en": "DesignRecommending to the Treasury Board that a minister has to seek approval from the Treasury Board for the continuation, amendment or termination of terms and conditions of an existing transfer payment program;Recommending to the Treasury Board that a minister has to seek approval from the Treasury Board for a funding agreement; andRecommending to the Treasury Board that a minister has to seek approval from the Treasury Board for an exception to the terms and conditions of an existing transfer payment program.",
+    "fr": "ConceptionRecommander au Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du Trésor pour la continuation, la modification ou la résiliation des modalités de n’importe quel programme de paiements de transfert existant.Recommander au Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du trésor pour une entente de financement.Recommander au Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du trésor pour une exception aux modalités de n’importe quel programme de paiements de transfert existant.",
+    "anchor": "5.2",
+    "tag": "section"
   },
   {
-    "en": "Transitional considerations:",
-    "fr": "Considérations relatives à la transition :"
+    "en": "DesignApproving the continuation or termination of terms and conditions;Approving minor amendments of terms and conditions;Delegating to the deputy head the approval of minor amendments of terms and conditions, when appropriate;Approving amendments to the following elements of terms and conditions: The eligible activities, initiatives or projects;The class of eligible recipients;The maximum amount payable to a recipient;The stacking limit; andAmendments that give effect to a Cabinet decision or direction;Informing the President of the Treasury Board when taking action under paragraph 5.3.4;Seeking approval from the Treasury Board for amendments to the following elements of terms and conditions: The program objectives;The repayment of a repayable contribution; andUp-front multi-year funding;Approving, subject to wording of appropriations, an exception to terms and conditions to provide a transfer payment to an individual recipient of an amount up to 25 per cent in excess of the maximum amount authorized by approved terms and conditions; Approving, on a case-by-case basis, an exception to terms and conditions that requires a recipient to reimburse a repayable contribution when the funding provided is less than $250,000; and Setting the strategic direction for risk tolerance for departmental transfer payment programs.",
+    "fr": "ConceptionApprouver la continuation ou la résiliation des modalités.Approuver des modifications mineures aux modalités.Déléguer à l’administrateur général l’approbation des modifications mineures des modalités, lorsqu’approprié.Approuver les modifications apportées aux éléments des modalités indiqués ci-dessous : Les activités, les initiatives ou les projets admissibles;La catégorie de bénéficiaires admissibles;Le montant maximal payable à un bénéficiaire;La limite sur le cumul de l’aide;Les modifications qui donnent effet à une décision ou à une orientation du Cabinet.Fournir de l’information à la présidente ou au président du Conseil du Trésor lorsqu’elle ou il prend des mesures en vertu du paragraphe 5.3.4.Demander l’approbation du Conseil du Trésor pour les modifications des éléments des modalités ci-dessous : Les objectifs de programmes;Le remboursement de contributions remboursables;Le financement pluriannuel initial.Approuver, sous réserve de l’énoncé des crédits, une exception aux modalités afin de verser à un bénéficiaire en particulier un paiement de transfert dont le montant est tout au plus 25 % de plus que le montant maximal autorisé par les modalités approuvées. Approuver, au cas par cas, une exception aux modalités qui exigent que le bénéficiaire rembourse une contribution remboursable, lorsque le financement accordé est inférieur à 250 000 $.Fixer l’orientation stratégique de tolérance au risque pour les programmes de paiements de transfert du ministère.",
+    "anchor": "5.3",
+    "tag": "section"
   },
   {
-    "en": "Terms and conditions of transfer payment programs that have been approved before the effective date of this policy remain in effect until a) their expiry date or b) the date of a decision for continuation or amendment made under this policy, whichever is earlier; and",
-    "fr": "Les modalités des programmes de paiements de transfert qui ont été approuvées avant la date d’entrée en vigueur de la présente politique demeurent en vigueur jusqu’à a) leur date d’expiration ou b) la date à laquelle une décision ait été prise relativement à leur continuation ou modification en vertu de la présente politique, selon celle de ces dates qui survient la première."
+    "en": "GeneralEnsuring that transfer payment programs are designed, delivered and managed so they are accessible, understandable and useable by applicants and recipients; Ensuring that transfer payment programs are designed and delivered to be inclusive and gender- and diversity-sensitive and respond to government policy objectives and priorities;Ensuring, when transfer payment programs support activities that benefit members of both official language communities, that their design and delivery respect the obligations of the Government of Canada as set out in Part VII of the Official Languages Act and that services and benefits are made available in both official languages in compliance with the Official Languages Act; Ensuring that departmental processes and procedures are in place to support the design, delivery and management of transfer payments;",
+    "fr": "GénéralitésS’assurer que les programmes de paiements de transfert sont conçus, mis en œuvre et gérés de manière à ce qu’ils soient accessibles, compréhensibles et utilisables par les demandeurs et les bénéficiaires. S’assurer que les programmes de paiements de transfert sont conçus et mis en œuvre de manière à être inclusifs, à tenir compte des différences entre les genres et de la diversité et à répondre aux objectifs et aux priorités des politiques du gouvernement.S’assurer que, lorsque les programmes de paiements de transfert soutiennent des activités au profit des membres des communautés des deux langues officielles, que leur conception et leur mise en œuvre respectent les obligations du gouvernement du Canada selon la partie VII de la Loi sur les langues officielles et que les services et les avantages seront accessibles dans les deux langues officielles conformément à la Loi sur les langues officielles.S’assurer que des processus et procédures ministériels sont en place pour appuyer la conception, la mise en œuvre et la gestion des paiements de transfert.",
+    "anchor": "5.4",
+    "tag": "section"
   },
   {
-    "en": "A funding agreement entered into before the effective date of this policy remains in effect until its expiry date. However, it may be amended by the department with the approval of the recipient to reflect the requirements of this policy.",
-    "fr": "Toute entente de financement conclue avant la date d’entrée en vigueur de la présente politique demeure en vigueur jusqu’à sa date d’expiration. Toutefois, elle peut être modifiée par le ministère avec l’approbation du bénéficiaire afin de tenir compte des exigences de la présente politique."
+    "en": "DesignEnsuring that departmental transfer payment programs are and remain relevant to and effective in meeting departmental results and government objectives;Engaging applicants and recipients, when appropriate, to achieve this policy’s objective and expected results through innovative, cost-effective transfer payment programs that are citizen- and recipient-focused; Recommending the continuation, amendment or termination of the terms and conditions of a transfer payment program based on the findings of the following: Relevant evaluations; and/orRelevant resource alignment reviews;Ensuring that each transfer payment program is identified in one or more performance information profiles when the program is designed, and that the program is maintained and updated throughout its life cycle to effectively support the evaluation or review of the relevance and effectiveness of each transfer payment program;Ensuring, when appropriate, the harmonization of transfer payment programs within the department, and ensuring collaboration with other departments; Approving minor amendments to terms and conditions when authorized to do so by the minister pursuant to paragraph 5.3.3; Consulting with the Secretary of the Treasury Board when a minister proposes to take action under paragraph 5.3.4;",
+    "fr": "ConceptionS’assurer que les programmes de paiements de transfert du ministère sont, et demeurent, pertinents et efficaces en ce qui concerne l’atteinte des résultats ministériels et des objectifs du gouvernement.Faire participer les demandeurs et les bénéficiaires, lorsqu’approprié, dans le but d’atteindre l’objectif et les résultats escomptés de la présente politique grâce à des programmes de paiements de transfert novateurs et efficients centrés sur les citoyens et les bénéficiaires. Recommander la continuation, la modification ou la résiliation des modalités d’un programme de paiements de transfert en fonction des constatations des éléments suivants : Évaluations pertinentes; et/ouExamens d’alignement des ressources pertinents.S’assurer que chaque programme de paiements de transfert est indiqué dans un ou plusieurs profils de l’information sur le rendement au moment de la conception du programme, et que le programme est maintenu et actualisé tout au long de son cycle de vie pour appuyer efficacement l’évaluation ou l’examen de la pertinence et de l’efficacité de chaque programme de paiements de transfert.Assurer, lorsqu’approprié, l’harmonisation des programmes de paiements de transfert au sein du ministère et en collaboration avec d’autres ministères. Approuver des modifications mineures apportées aux modalités lorsque cette mesure est autorisée par le ministre en vertu du paragraphe 5.3.3.Consulter le secrétaire du Conseil du Trésor lorsqu’un ministre a l’intention d’agir selon le paragraphe 5.3.4.",
+    "anchor": "5.4",
+    "tag": "section"
   },
   {
-    "en": "This policy is issued under subsection 7(1) .",
-    "fr": "La présente politique est établie en vertu du paragraphe 7 (1) de la ."
+    "en": "Delivery and managementEnsuring that the administrative requirements on recipients and recipient reporting, monitoring and auditing in particular, are proportionate to the risks specific to the following: The transfer payment program;The value of funding in relation to administrative costs; and The risk profile of applicants and recipients;Ensuring that opportunities are taken to standardize the administration of transfer payment processes, procedures and requirements within the department and with other departments, when appropriate, in order to improve the administration of transfer payment programs for applicants, recipients and the department;",
+    "fr": "Mise en œuvre et gestionS’assurer que les exigences administratives imposées aux bénéficiaires, en particulier en matière de rapports, de surveillance et de vérification des bénéficiaires, sont proportionnelles aux risques propres aux éléments suivants : Le programme de paiements de transfert;La valeur du financement par rapport aux coûts administratifs;Le profil de risque des demandeurs et des bénéficiaires.S’assurer que des occasions sont saisies pour uniformiser l’administration des processus, des procédures et des exigences en matière de paiements de transfert au sein du ministère et avec d’autres ministères, lorsqu’approprié, afin d’améliorer l’administration des programmes de paiements de transfert pour les demandeurs, les bénéficiaires et le ministère.",
+    "anchor": "5.4",
+    "tag": "section"
   },
   {
-    "en": "Transfer payments represent a large part of the Government of Canada’s spending. The tangible results of transfer payments touch the lives of Canadians and others every day in all sectors of society. Transfer payments include grants, contributions and other transfer payments, including those made to other orders of government, international organizations and Indigenous peoples.",
-    "fr": "Les paiements de transfert représentent une grande partie des dépenses du gouvernement du Canada. Les résultats tangibles des paiements de transfert ont une incidence quotidienne sur la vie de la population canadienne et d’autres personnes dans tous les secteurs de la société. Les paiements de transfert incluent les subventions, les contributions et les autres paiements de transfert, y compris ceux versés aux autres ordres de gouvernement, à des organismes internationaux et aux peuples autochtones."
+    "en": "TransparencyEnsuring that any exceptions under paragraphs 5.3.7 and 5.3.8 of this policy that have been approved by the Treasury Board or the minister are posted on the departmental website within 30 days of the approval date;",
+    "fr": "TransparenceS’assurer que toutes les exceptions relatives aux paragraphes 5.3.7 et 5.3.8 de la présente politique qui ont été approuvées par le Conseil du Trésor ou le ministre sont affichées sur le site Web du ministère dans les 30 jours suivant la date d’approbation.",
+    "anchor": "5.4",
+    "tag": "section"
   },
   {
-    "en": "Transfer payments are one of the government’s key instruments in furthering its broad policy objectives and priorities. Transfer payments enable and engage a wide diversity of skills and resources outside the federal government.",
-    "fr": "Les paiements de transfert constituent l’un des instruments essentiels dont dispose le gouvernement pour mettre de l’avant ses vastes objectifs et priorités. Les paiements de transfert favorisent et sollicitent la mobilisation de compétences et de ressources très diverses de l’extérieur du gouvernement fédéral."
+    "en": "Monitoring and oversightEnsuring that transfer payments are not made to a department defined in section 2 of the Financial Administration Act, nor made to finance the ongoing operating or capital requirements of a federal Crown corporation; Monitoring compliance with this policy and its supporting directives through periodic audits and other assessments to ensure the effective implementation of this policy and its supporting directives; andInvestigating and acting when any issues arise regarding policy compliance and ensuring that appropriate remedial action is taken to address such issues within the department.",
+    "fr": "Contrôle et surveillanceS’assurer que les paiements de transfert ne sont ni versés à un ministère tel que défini à l’article 2 de la Loi sur la gestion des finances publiques ni ne servent à financer les besoins de fonctionnement courants ou en capital d’une société d’État.Surveiller la conformité à la présente politique et aux directives qui l’accompagnent grâce à des audits et à d’autres évaluations périodiques afin d’assurer la mise en œuvre efficace de la présente politique et des directives qui l’accompagnent.Enquêter et agir lorsque des problèmes surviennent en ce qui concerne l’observation de la politique, et s’assurer que des mesures correctives appropriées sont prises pour régler ces problèmes au ministère.",
+    "anchor": "5.4",
+    "tag": "section"
   },
   {
-    "en": "Transfer payment programs assist eligible recipients in undertaking their activities or projects. These activities and projects help achieve the objectives and outcomes of the transfer payment program and contribute to departmental results.",
-    "fr": "Les programmes de paiements de transfert aident les bénéficiaires admissibles à entreprendre leurs activités ou leurs projets. Ces activités et projets contribuent à l’atteinte des objectifs et des résultats du programme de paiements de transfert ainsi qu’à celle des résultats ministériels."
+    "en": "DesignRecommending to the President of the Treasury Board, as a result of consultations under paragraph 5.4.11 of this policy or otherwise, that a minister has to seek approval from the Treasury Board, by or through the responsible minister, for the continuation, amendment or termination of terms and conditions for a transfer payment program;Recommending to the President of the Treasury Board that a minister has to seek approval from the Treasury Board for a funding agreement;Recommending to the President of the Treasury Board that a minister has to seek approval from the Treasury Board for exceptions to terms and conditions;",
+    "fr": "ConceptionRecommander au président du Conseil du Trésor, à la suite de consultations aux termes du paragraphe 5.4.11 de la présente politique ou autrement, que le ministre, lui-même ou par l’entremise du ministre responsable, doit obtenir l’approbation du Conseil du Trésor pour la continuation, la modification ou la résiliation des modalités d’un programme de paiements de transfert.Recommander au président du Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du Trésor pour une entente de financement.Recommander au président du Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du Trésor pour des exceptions aux modalités.",
+    "anchor": "5.5",
+    "tag": "section"
   },
   {
-    "en": "The government is committed to ensuring that transfer payments are designed, delivered and managed with integrity, accountability and transparency in a recipient-focused manner.",
-    "fr": "Le gouvernement s’engage à s’assurer que les paiements de transfert sont conçus, mis en œuvre et gérés de façon intègre, responsable et transparente, et d’une manière centrée sur le bénéficiaire."
+    "en": "Monitoring and oversightMonitoring, providing guidance and recommending corrective actions regarding compliance with this policy and its supporting instruments;",
+    "fr": "Contrôle et surveillanceContrôler, fournir des orientations et recommander des mesures correctives en ce qui concerne la conformité à la présente politique et aux instruments qui l’accompagnent.",
+    "anchor": "5.5",
+    "tag": "section"
   },
   {
-    "en": "Cabinet determines when transfer payment programs are the most appropriate policy instrument to use. Cabinet also determines the objectives and outcomes to be achieved by transfer payments, within the legislative authorities provided by Parliament.",
-    "fr": "Le Cabinet détermine dans quelles situations les paiements de transfert constituent l’instrument à utiliser le plus approprié. Le Cabinet détermine également les objectifs et les résultats à atteindre au moyen des paiements de transfert, conformément aux autorisations législatives accordées par le Parlement."
-  },
-  {
-    "en": "This policy sets out clear roles and responsibilities for the Treasury Board, the President of the Treasury Board, the Secretary of the Treasury Board, ministers and deputy heads in the design, delivery and management of transfer payment programs.",
-    "fr": "La présente politique énonce clairement les rôles et les responsabilités du Conseil du Trésor, du président du Conseil du Trésor, du secrétaire du Conseil du Trésor, des ministres et des administrateurs généraux en ce qui concerne la conception, la mise en œuvre et la gestion des programmes de paiements de transfert."
-  },
-  {
-    "en": "Additional mandatory requirements are set out in the directives that deal with grants, contributions and other transfer payments.",
-    "fr": "Les exigences supplémentaires obligatoires sont énoncées dans les directives relatives aux subventions, aux contributions et aux autres paiements de transfert."
-  },
-  {
-    "en": "Treasury Board has delegated authority to the President of the Treasury Board to issue, amend or rescind any directive in support of this policy and to approve any exception to the directives, as necessary.",
-    "fr": "Le Conseil du Trésor a délégué au président du Conseil du Trésor le pouvoir d’émettre, de modifier ou d’abroger toute directive qui soutient la présente politique, et d’approuver toute exception à de telles directives, selon le besoin."
-  },
-  {
-    "en": "The objective of this policy is to ensure that transfer payment programs are designed and delivered to address government priorities in achieving results for Canadians; are managed with integrity, transparency and accountability in a manner that is sensitive to risks; and are citizen- and recipient-focused.",
-    "fr": "L’objectif de la présente politique consiste à s’assurer que les programmes de paiements de transfert sont conçus et mis en œuvre en tenant compte des priorités du gouvernement en vue d’atteindre les résultats escomptés pour la population canadienne, sont gérés de façon intègre, transparente et responsable en tenant compte des risques, et sont centrés sur les citoyens et les bénéficiaires."
-  },
-  {
-    "en": "The expected results of this policy are as follows:",
-    "fr": "La présente politique vise les résultats suivants :"
-  },
-  {
-    "en": "Roles, responsibilities and accountabilities for the management of transfer payment programs are clearly defined and understood by all departments;",
-    "fr": "Les rôles, les responsabilités et les obligations en matière de gestion des programmes de paiements de transfert sont clairement définis et compris par tous les ministères."
-  },
-  {
-    "en": "Transfer payment programs are designed, delivered and managed in a way that achieves outcomes, contributes to departmental results, takes account of risk and clearly demonstrates value for money;",
-    "fr": "Les programmes de paiements de transfert sont conçus, mis en œuvre et gérés de manière à atteindre les résultats, à contribuer aux résultats ministériels, à tenir compte des risques et à démontrer clairement l’optimisation des ressources."
-  },
-  {
-    "en": "Transfer payment programs are supported by cost-effective oversight and control systems at both departmental and government-wide levels; and",
-    "fr": "Les programmes de paiements de transfert sont soutenus par des systèmes efficaces et efficients de surveillance et de contrôle au niveau des ministères et à l’échelle du gouvernement."
-  },
-  {
-    "en": "Transfer payment programs are accessible, understandable and useable by applicants and recipients, including the following:",
-    "fr": "Les programmes de paiements de transfert sont accessibles, compréhensibles et utilisables par les demandeurs et les bénéficiaires, y compris ce qui suit :"
-  },
-  {
-    "en": "The administrative requirements on applicants and recipients, which are required to ensure effective control, transparency and accountability, are proportionate to the level of risks specific to the program, the value of funding and the risk profile of applicants and recipients;",
-    "fr": "Les obligations administratives imposées aux demandeurs et aux bénéficiaires, qui sont nécessaires afin d’assurer un contrôle efficace, la transparence et la responsabilisation, sont proportionnelles au niveau de risques propres au programme, à la valeur du financement et au profil de risques des demandeurs et des bénéficiaires;"
-  },
-  {
-    "en": "Applicants and recipients are engaged in support of innovation, continuous improvement, and the establishment of fair, transparent and positive relations with them; and",
-    "fr": "Les demandeurs et les bénéficiaires sont mobilisés afin de favoriser des idées novatrices, des améliorations continuelles et l’établissement de relations équitables, transparentes et positives avec eux;"
-  },
-  {
-    "en": "Collaboration exists within and among departments to harmonize transfer payment programs and standardize their administration, when appropriate.",
-    "fr": "Il y a collaboration au sein du ministère et entre les ministères en vue d’harmoniser les programmes de paiements de transfert et d’uniformiser leur administration, lorsqu’approprié."
-  },
-  {
-    "en": "The is responsible for the following:",
-    "fr": "Le a les responsabilités suivantes :"
-  },
-  {
-    "en": "Approving the terms and conditions for new transfer payment programs, except when a minister is authorized, including by legislation, to establish those terms and conditions;",
-    "fr": "Approuver les modalités des nouveaux programmes de paiements de transfert, sauf dans les situations où un ministre est autorisé, y compris en vertu d’une loi, à établir ces modalités."
-  },
-  {
-    "en": "Approving amendments to terms and conditions for existing transfer payment programs, except when a minister is authorized under this policy or by legislation to amend those terms and conditions;",
-    "fr": "Approuver les modifications des modalités des programmes de paiement de transfert existants, sauf lorsqu’un ministre est autorisé, en vertu de la présente politique ou d’une loi, à modifier ces modalités."
-  },
-  {
-    "en": "Approving funding agreements when required by Treasury Board or by the directives supporting this policy, or when recommended by the President of the Treasury Board;",
-    "fr": "Approuver les ententes de financement lorsque le Conseil du Trésor l’exige ou en fonction des directives qui accompagnent la présente politique, ou lorsque le président du Conseil du Trésor le recommande."
-  },
-  {
-    "en": "Using periodic spending reviews, such as resource alignment reviews, to review the continuation, amendment or termination of transfer payment programs; and",
-    "fr": "Utiliser des examens périodiques des dépenses, comme des examens d’alignement des ressources, pour examiner la continuation, la modification ou la résiliation des programmes de paiements de transfert."
-  },
-  {
-    "en": "Approving exceptions to terms and conditions, except when a minister is authorized to approve those exceptions under paragraphs 5.3.7 and 5.3.8 of this policy.",
-    "fr": "Approuver les exceptions aux modalités, sauf lorsqu’un ministre est autorisé à approuver ces exceptions en vertu des paragraphes 5.3.7 et 5.3.8 de la présente politique."
-  },
-  {
-    "en": "The is responsible for the following :",
-    "fr": "Le a les responsabilités suivantes :"
-  },
-  {
-    "en": "Recommending to the Treasury Board that a minister has to seek approval from the Treasury Board for the continuation, amendment or termination of terms and conditions of an existing transfer payment program;",
-    "fr": "Recommander au Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du Trésor pour la continuation, la modification ou la résiliation des modalités de n’importe quel programme de paiements de transfert existant."
-  },
-  {
-    "en": "Recommending to the Treasury Board that a minister has to seek approval from the Treasury Board for a funding agreement; and",
-    "fr": "Recommander au Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du trésor pour une entente de financement."
-  },
-  {
-    "en": "Recommending to the Treasury Board that a minister has to seek approval from the Treasury Board for an exception to the terms and conditions of an existing transfer payment program.",
-    "fr": "Recommander au Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du trésor pour une exception aux modalités de n’importe quel programme de paiements de transfert existant."
-  },
-  {
-    "en": "are responsible for the following:",
-    "fr": "Les ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Approving the continuation or termination of terms and conditions;",
-    "fr": "Approuver la continuation ou la résiliation des modalités."
-  },
-  {
-    "en": "Approving minor amendments of terms and conditions;",
-    "fr": "Approuver des modifications mineures aux modalités."
-  },
-  {
-    "en": "Delegating to the deputy head the approval of minor amendments of terms and conditions, when appropriate;",
-    "fr": "Déléguer à l’administrateur général l’approbation des modifications mineures des modalités, lorsqu’approprié."
-  },
-  {
-    "en": "Approving amendments to the following elements of terms and conditions:",
-    "fr": "Approuver les modifications apportées aux éléments des modalités indiqués ci-dessous :"
-  },
-  {
-    "en": "The eligible activities, initiatives or projects;",
-    "fr": "Les activités, les initiatives ou les projets admissibles;"
-  },
-  {
-    "en": "The class of eligible recipients;",
-    "fr": "La catégorie de bénéficiaires admissibles;"
-  },
-  {
-    "en": "The maximum amount payable to a recipient;",
-    "fr": "Le montant maximal payable à un bénéficiaire;"
-  },
-  {
-    "en": "The stacking limit; and",
-    "fr": "La limite sur le cumul de l’aide;"
-  },
-  {
-    "en": "Amendments that give effect to a Cabinet decision or direction;",
-    "fr": "Les modifications qui donnent effet à une décision ou à une orientation du Cabinet."
-  },
-  {
-    "en": "Informing the President of the Treasury Board when taking action under paragraph 5.3.4;",
-    "fr": "Fournir de l’information à la présidente ou au président du Conseil du Trésor lorsqu’elle ou il prend des mesures en vertu du paragraphe 5.3.4."
-  },
-  {
-    "en": "Seeking approval from the Treasury Board for amendments to the following elements of terms and conditions:",
-    "fr": "Demander l’approbation du Conseil du Trésor pour les modifications des éléments des modalités ci-dessous :"
-  },
-  {
-    "en": "The program objectives;",
-    "fr": "Les objectifs de programmes;"
-  },
-  {
-    "en": "The repayment of a repayable contribution; and",
-    "fr": "Le remboursement de contributions remboursables;"
-  },
-  {
-    "en": "Up-front multi-year funding;",
-    "fr": "Le financement pluriannuel initial."
-  },
-  {
-    "en": "Approving, subject to wording of appropriations, an exception to terms and conditions to provide a transfer payment to an individual recipient of an amount up to 25 per cent in excess of the maximum amount authorized by approved terms and conditions;",
-    "fr": "Approuver, sous réserve de l’énoncé des crédits, une exception aux modalités afin de verser à un bénéficiaire en particulier un paiement de transfert dont le montant est tout au plus 25 % de plus que le montant maximal autorisé par les modalités approuvées."
-  },
-  {
-    "en": "Approving, on a case-by-case basis, an exception to terms and conditions that requires a recipient to reimburse a repayable contribution when the funding provided is less than $250,000; and",
-    "fr": "Approuver, au cas par cas, une exception aux modalités qui exigent que le bénéficiaire rembourse une contribution remboursable, lorsque le financement accordé est inférieur à 250 000 $."
-  },
-  {
-    "en": "Setting the strategic direction for risk tolerance for departmental transfer payment programs.",
-    "fr": "Fixer l’orientation stratégique de tolérance au risque pour les programmes de paiements de transfert du ministère."
-  },
-  {
-    "en": "are responsible for the following:",
-    "fr": "Les ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Ensuring that transfer payment programs are designed, delivered and managed so they are accessible, understandable and useable by applicants and recipients;",
-    "fr": "S’assurer que les programmes de paiements de transfert sont conçus, mis en œuvre et gérés de manière à ce qu’ils soient accessibles, compréhensibles et utilisables par les demandeurs et les bénéficiaires."
-  },
-  {
-    "en": "Ensuring that transfer payment programs are designed and delivered to be inclusive and gender- and diversity-sensitive and respond to government policy objectives and priorities;",
-    "fr": "S’assurer que les programmes de paiements de transfert sont conçus et mis en œuvre de manière à être inclusifs, à tenir compte des différences entre les genres et de la diversité et à répondre aux objectifs et aux priorités des politiques du gouvernement."
-  },
-  {
-    "en": "Ensuring, when transfer payment programs support activities that benefit members of both official language communities, that their design and delivery respect the obligations of the Government of Canada as set out in Part VII of the and that services and benefits are made available in both official languages in compliance with the ;",
-    "fr": "S’assurer que, lorsque les programmes de paiements de transfert soutiennent des activités au profit des membres des communautés des deux langues officielles, que leur conception et leur mise en œuvre respectent les obligations du gouvernement du Canada selon la partie VII de la et que les services et les avantages seront accessibles dans les deux langues officielles conformément à ."
-  },
-  {
-    "en": "Ensuring that departmental processes and procedures are in place to support the design, delivery and management of transfer payments;",
-    "fr": "S’assurer que des processus et procédures ministériels sont en place pour appuyer la conception, la mise en œuvre et la gestion des paiements de transfert."
-  },
-  {
-    "en": "Ensuring that departmental transfer payment programs are and remain relevant to and effective in meeting departmental results and government objectives;",
-    "fr": "S’assurer que les programmes de paiements de transfert du ministère sont, et demeurent, pertinents et efficaces en ce qui concerne l’atteinte des résultats ministériels et des objectifs du gouvernement."
-  },
-  {
-    "en": "Engaging applicants and recipients, when appropriate, to achieve this policy’s objective and expected results through innovative, cost-effective transfer payment programs that are citizen- and recipient-focused;",
-    "fr": "Faire participer les demandeurs et les bénéficiaires, lorsqu’approprié, dans le but d’atteindre l’objectif et les résultats escomptés de la présente politique grâce à des programmes de paiements de transfert novateurs et efficients centrés sur les citoyens et les bénéficiaires."
-  },
-  {
-    "en": "Recommending the continuation, amendment or termination of the terms and conditions of a transfer payment program based on the findings of the following:",
-    "fr": "Recommander la continuation, la modification ou la résiliation des modalités d’un programme de paiements de transfert en fonction des constatations des éléments suivants :"
-  },
-  {
-    "en": "Relevant evaluations; and/or",
-    "fr": "Évaluations pertinentes; et/ou"
-  },
-  {
-    "en": "Relevant resource alignment reviews;",
-    "fr": "Examens d’alignement des ressources pertinents."
-  },
-  {
-    "en": "Ensuring that each transfer payment program is identified in one or more performance information profiles when the program is designed, and that the program is maintained and updated throughout its life cycle to effectively support the evaluation or review of the relevance and effectiveness of each transfer payment program;",
-    "fr": "S’assurer que chaque programme de paiements de transfert est indiqué dans un ou plusieurs profils de l’information sur le rendement au moment de la conception du programme, et que le programme est maintenu et actualisé tout au long de son cycle de vie pour appuyer efficacement l’évaluation ou l’examen de la pertinence et de l’efficacité de chaque programme de paiements de transfert."
-  },
-  {
-    "en": "Ensuring, when appropriate, the harmonization of transfer payment programs within the department, and ensuring collaboration with other departments;",
-    "fr": "Assurer, lorsqu’approprié, l’harmonisation des programmes de paiements de transfert au sein du ministère et en collaboration avec d’autres ministères."
-  },
-  {
-    "en": "Approving minor amendments to terms and conditions when authorized to do so by the minister pursuant to paragraph 5.3.3;",
-    "fr": "Approuver des modifications mineures apportées aux modalités lorsque cette mesure est autorisée par le ministre en vertu du paragraphe 5.3.3."
-  },
-  {
-    "en": "Consulting with the Secretary of the Treasury Board when a minister proposes to take action under paragraph 5.3.4;",
-    "fr": "Consulter le secrétaire du Conseil du Trésor lorsqu’un ministre a l’intention d’agir selon le paragraphe 5.3.4."
-  },
-  {
-    "en": "Ensuring that the administrative requirements on recipients and recipient reporting, monitoring and auditing in particular, are proportionate to the risks specific to the following:",
-    "fr": "S’assurer que les exigences administratives imposées aux bénéficiaires, en particulier en matière de rapports, de surveillance et de vérification des bénéficiaires, sont proportionnelles aux risques propres aux éléments suivants :"
-  },
-  {
-    "en": "The transfer payment program;",
-    "fr": "Le programme de paiements de transfert;"
-  },
-  {
-    "en": "The value of funding in relation to administrative costs; and",
-    "fr": "La valeur du financement par rapport aux coûts administratifs;"
-  },
-  {
-    "en": "The risk profile of applicants and recipients;",
-    "fr": "Le profil de risque des demandeurs et des bénéficiaires."
-  },
-  {
-    "en": "Ensuring that opportunities are taken to standardize the administration of transfer payment processes, procedures and requirements within the department and with other departments, when appropriate, in order to improve the administration of transfer payment programs for applicants, recipients and the department;",
-    "fr": "S’assurer que des occasions sont saisies pour uniformiser l’administration des processus, des procédures et des exigences en matière de paiements de transfert au sein du ministère et avec d’autres ministères, lorsqu’approprié, afin d’améliorer l’administration des programmes de paiements de transfert pour les demandeurs, les bénéficiaires et le ministère."
-  },
-  {
-    "en": "Ensuring that any exceptions under paragraphs 5.3.7 and 5.3.8 of this policy that have been approved by the Treasury Board or the minister are posted on the departmental website within 30 days of the approval date;",
-    "fr": "S’assurer que toutes les exceptions relatives aux paragraphes 5.3.7 et 5.3.8 de la présente politique qui ont été approuvées par le Conseil du Trésor ou le ministre sont affichées sur le site Web du ministère dans les 30 jours suivant la date d’approbation."
-  },
-  {
-    "en": "Ensuring that transfer payments are not made to a department defined in section 2 of the , nor made to finance the ongoing operating or capital requirements of a federal Crown corporation;",
-    "fr": "S’assurer que les paiements de transfert ne sont ni versés à un ministère tel que défini à l’article 2 de la ni ne servent à financer les besoins de fonctionnement courants ou en capital d’une société d’État."
-  },
-  {
-    "en": "Monitoring compliance with this policy and its supporting directives through periodic audits and other assessments to ensure the effective implementation of this policy and its supporting directives; and",
-    "fr": "Surveiller la conformité à la présente politique et aux directives qui l’accompagnent grâce à des audits et à d’autres évaluations périodiques afin d’assurer la mise en œuvre efficace de la présente politique et des directives qui l’accompagnent."
-  },
-  {
-    "en": "Investigating and acting when any issues arise regarding policy compliance and ensuring that appropriate remedial action is taken to address such issues within the department.",
-    "fr": "Enquêter et agir lorsque des problèmes surviennent en ce qui concerne l’observation de la politique, et s’assurer que des mesures correctives appropriées sont prises pour régler ces problèmes au ministère."
-  },
-  {
-    "en": "The is responsible for the following:",
-    "fr": "Le a les responsabilités suivantes :"
-  },
-  {
-    "en": "Recommending to the President of the Treasury Board, as a result of consultations under paragraph 5.4.11 of this policy or otherwise, that a minister has to seek approval from the Treasury Board, by or through the responsible minister, for the continuation, amendment or termination of terms and conditions for a transfer payment program;",
-    "fr": "Recommander au président du Conseil du Trésor, à la suite de consultations aux termes du paragraphe 5.4.11 de la présente politique ou autrement, que le ministre, lui-même ou par l’entremise du ministre responsable, doit obtenir l’approbation du Conseil du Trésor pour la continuation, la modification ou la résiliation des modalités d’un programme de paiements de transfert."
-  },
-  {
-    "en": "Recommending to the President of the Treasury Board that a minister has to seek approval from the Treasury Board for a funding agreement;",
-    "fr": "Recommander au président du Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du Trésor pour une entente de financement."
-  },
-  {
-    "en": "Recommending to the President of the Treasury Board that a minister has to seek approval from the Treasury Board for exceptions to terms and conditions;",
-    "fr": "Recommander au président du Conseil du Trésor qu’un ministre doit demander l’approbation du Conseil du Trésor pour des exceptions aux modalités."
-  },
-  {
-    "en": "Monitoring, providing guidance and recommending corrective actions regarding compliance with this policy and its supporting instruments;",
-    "fr": "Contrôler, fournir des orientations et recommander des mesures correctives en ce qui concerne la conformité à la présente politique et aux instruments qui l’accompagnent."
-  },
-  {
-    "en": "Providing leadership and support in promoting and facilitating collaboration among departments for government-wide harmonization of transfer payment programs, the standardization of administrative processes, procedures and requirements, and the sharing of best practices;",
-    "fr": "Assurer un leadership et fournir un soutien afin de promouvoir et de faciliter la collaboration entre les ministères en vue de favoriser l’harmonisation des programmes de paiements de transfert dans l’ensemble du gouvernement, l’uniformisation des processus, procédures et exigences administratifs et la mise en commun de pratiques exemplaires."
-  },
-  {
-    "en": "Providing leadership for the development of the federal practitioner community involved in the design, delivery and management of transfer payment programs; and",
-    "fr": "Exercer un leadership pour le développement de communautés d’intervenants fédéraux participant à la conception, à la mise en œuvre et à la gestion des programmes de paiements de transfert."
-  },
-  {
-    "en": "Establishing a framework for the review of this policy and its supporting directives.",
-    "fr": "Établir un cadre pour l’examen de la présente politique et des directives qui l’accompagnent."
-  },
-  {
-    "en": "Not applicable.",
-    "fr": "Sans objet."
-  },
-  {
-    "en": "This policy applies to departments as defined in section 2 of the , unless excluded by specific acts, regulations or Orders in Council.",
-    "fr": "La présente politique s’applique aux ministères au sens de l’article 2 de la , sauf si des lois, des règlements ou des décrets les en excluent."
-  },
-  {
-    "en": "For an outline of the consequences of non-compliance, refer to the , Appendix C: Consequences for Institutions, and Appendix D: Consequences for Individuals.",
-    "fr": "Pour obtenir une description des conséquences de la non-conformité, consultez le (appendice C : tableau des conséquences pour les institutions et appendice D : tableau des conséquences pour les personnes)."
-  },
-  {
-    "en": "Members of the public may contact Treasury Board of Canada Secretariat Public Enquiries regarding any questions about this policy.",
-    "fr": "Les membres du public peuvent communiquer avec le personnel chargé des demandes de renseignements du Secrétariat du Conseil du Trésor du Canada s’ils ont des questions à propos de la présente politique."
-  },
-  {
-    "en": "Individuals from departments should contact their chief financial officer or departmental transfer payment centre of expertise regarding any questions about this policy.",
-    "fr": "Les représentants des ministères doivent communiquer avec leur dirigeant principal des finances ou leur centre d’expertise ministériel en matière de paiements de transfert pour toute question au sujet de la présente politique."
-  },
-  {
-    "en": "The chief financial officer or individuals from a departmental transfer payment centre of expertise may contact for interpretation of this policy.",
-    "fr": "Les dirigeants principaux des finances ou les représentants d’un centre d’expertise ministériel en matière de paiements de transfert peuvent communiquer avec pour obtenir une interprétation de la présente politique."
+    "en": "LeadershipProviding leadership and support in promoting and facilitating collaboration among departments for government-wide harmonization of transfer payment programs, the standardization of administrative processes, procedures and requirements, and the sharing of best practices;Providing leadership for the development of the federal practitioner community involved in the design, delivery and management of transfer payment programs; and Establishing a framework for the review of this policy and its supporting directives.",
+    "fr": "LeadershipAssurer un leadership et fournir un soutien afin de promouvoir et de faciliter la collaboration entre les ministères en vue de favoriser l’harmonisation des programmes de paiements de transfert dans l’ensemble du gouvernement, l’uniformisation des processus, procédures et exigences administratifs et la mise en commun de pratiques exemplaires.Exercer un leadership pour le développement de communautés d’intervenants fédéraux participant à la conception, à la mise en œuvre et à la gestion des programmes de paiements de transfert.Établir un cadre pour l’examen de la présente politique et des directives qui l’accompagnent.",
+    "anchor": "5.5",
+    "tag": "section"
   }
 ]

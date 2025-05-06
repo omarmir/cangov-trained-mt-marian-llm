@@ -1,314 +1,56 @@
 [
   {
-    "en": "The Directive on Security Management and its Mandatory Procedures took effect on July 1, 2019. It replaced the Directive on Departmental Security Management, as well as the Operational Security Standard - Business Continuity Planning (BCP) Program, the Operational Security Standard on Physical Security, the Operational Security Standard - Readiness Levels for Federal Government Facilities, and the Operational Security Standard: Management of Information Technology Security (MITS).",
-    "fr": "La Directive sur la gestion de la sécurité et ses procédures obligatoires est entrée en vigueur le 1er juillet 2019. Elle a remplacé la Directive sur la gestion de la sécurité ministérielle, ainsi que la Norme opérationnelle de sécurité – Programme de planification de la continuité des activités (PCA), la Norme opérationnelle sur la sécurité matérielle, la Norme opérationnelle de sécurité – niveaux de préparation des installations du gouvernement fédéral, et la Norme opérationnelle de sécurité : Gestion de la sécurité des technologies de l’information (GSTI)."
+    "en": "Directive on Departmental Security Management (July 1, 2009)Operational Security Standard: Business Continuity Planning (BCP) Program (April 23, 2004) Operational Security Standard: Management of Information Technology Security (MITS) (May 31, 2004) Operational Security Standard on Physical Security (February 18, 2013) Operational Security Standard: Readiness Levels for Federal Government Facilities (November 1, 2002) Security and Contracting Management Standard (June 9, 1996) Security Organization and Administration Standard (June 1, 1995)",
+    "fr": "Directive sur la gestion de la sécurité ministérielle (le 1er juillet 2009)Norme opérationnelle de sécurité – Programme du Plan de continuité des activités (PCA) (le 23 avril 2004)Norme opérationnelle de sécurité : Gestion de la sécurité des technologies de l’information (GSTI) (le 31 mai 2004)Norme opérationnelle sur la sécurité matérielle (le 18 février 2013)Norme opérationnelle de sécurité : Niveaux de préparation des installations du gouvernement fédéral (le 1er novembre 2002)Norme de sécurité et de gestion des marchés (le 9 juin 1996)Norme de sécurité relative à l’organisation et l’administration (le 1er juin 1995)",
+    "anchor": "1.2",
+    "tag": "ul"
   },
   {
-    "en": "The took effect on January 6, 2025. It replaces the Standard on Security Screening, as well as Appendix A: Mandatory Procedures for Security Screening Control of the Directive on Security Management.",
-    "fr": "La est entrée en vigueur le 6 janvier 2025. Elle remplace la Norme sur le filtrage de sécurité, ainsi que l’annexe A : Procédures obligatoires relatives aux mesures de filtrage de sécurité de la Directive sur la gestion de la sécurité."
+    "en": "Chief security officer",
+    "fr": "Dirigeant principal de la sécurité",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Directive on Departmental Security Management (July 1, 2009)",
-    "fr": "Directive sur la gestion de la sécurité ministérielle (le 1er juillet 2009)"
+    "en": "Senior officials in the department’s security governance",
+    "fr": "Les hauts fonctionnaires dans la gouvernance de la sécurité du ministère",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Operational Security Standard: Business Continuity Planning (BCP) Program (April 23, 2004)",
-    "fr": "Norme opérationnelle de sécurité – Programme du Plan de continuité des activités (PCA) (le 23 avril 2004)"
+    "en": "Security functional specialists and other designated individuals",
+    "fr": "Spécialistes fonctionnels de la sécurité et autres personnes désignées",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Operational Security Standard: Management of Information Technology Security (MITS) (May 31, 2004)",
-    "fr": "Norme opérationnelle de sécurité : Gestion de la sécurité des technologies de l’information (GSTI) (le 31 mai 2004)"
+    "en": "Supervisors",
+    "fr": "Superviseurs",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Operational Security Standard on Physical Security (February 18, 2013)",
-    "fr": "Norme opérationnelle sur la sécurité matérielle (le 18 février 2013)"
+    "en": "Employees",
+    "fr": "Employés",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Operational Security Standard: Readiness Levels for Federal Government Facilities (November 1, 2002)",
-    "fr": "Norme opérationnelle de sécurité : Niveaux de préparation des installations du gouvernement fédéral (le 1er novembre 2002)"
+    "en": "Individuals designated by deputy heads of internal enterprise service organizations to oversee their internal enterprise service activities",
+    "fr": "Personnes désignées par les administrateurs généraux des organisations internes de services intégrés pour superviser leurs activités internes de services intégrés",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Security and Contracting Management Standard (June 9, 1996)",
-    "fr": "Norme de sécurité et de gestion des marchés (le 9 juin 1996)"
+    "en": "Financial Administration ActAccess to Information ActCriminal CodePublic Service Employment ActCivil Code of Québec (articles 3 and 35 to 41)",
+    "fr": "Loi sur la gestion des finances publiquesLoi sur l’accès à l’informationCode criminelLoi sur l’emploi dans la fonction publiqueCode civil du Québec (articles 3 et 35 à 41)",
+    "anchor": "7.1",
+    "tag": "ul"
   },
   {
-    "en": "Security Organization and Administration Standard (June 1, 1995)",
-    "fr": "Norme de sécurité relative à l’organisation et l’administration (le 1er juin 1995)"
-  },
-  {
-    "en": "(articles 3 and 35 to 41)",
-    "fr": "(articles 3 et 35 à 41)"
-  },
-  {
-    "en": "This directive takes effect on July 1, 2019.",
-    "fr": "La présente Directive entre en vigueur le 1 juillet, 2019."
-  },
-  {
-    "en": "This directive replaces the following Treasury Board policy instruments:",
-    "fr": "Elle remplace les instruments de politique suivants du Conseil du Trésor :"
-  },
-  {
-    "en": "Transitional considerations:",
-    "fr": "Considérations transitoires :"
-  },
-  {
-    "en": "Subsections 4.1.3 and 4.2.5 of this directive will take effect on July 1, 2019 or on the scheduled date for the renewal of the department’s security plan, whichever is later.",
-    "fr": "Les sous-sections 4.1.3 et 4.2.5 de la présente Directive entreront en vigueur le 1 juillet, 2019 ou à la date prévue pour le renouvellement du plan de sécurité ministérielle, selon la dernière éventualité."
-  },
-  {
-    "en": "This directive is issued pursuant to the authorities indicated in section 2 of the Policy on Government Security.",
-    "fr": "La présente Directive est émise conformément aux pouvoirs indiqués à la section 2 de la Politique sur la sécurité du gouvernement (PSG)."
-  },
-  {
-    "en": "The objectives indicated in section 3 of the Policy on Government Security apply to this directive.",
-    "fr": "Les objectifs indiqués à la section 3 de la Politique sur la sécurité du gouvernement s’appliquent à la présente Directive"
-  },
-  {
-    "en": "The expected results indicated in section 3 of the Policy on Government Security apply to this directive.",
-    "fr": "Les résultats escomptés indiqués à la section 3 de la Politique sur la sécurité du gouvernement s’appliquent à la présente Directive."
-  },
-  {
-    "en": "The chief security officer (CSO) designated by the deputy head in compliance with the Policy on Government Security is responsible for managing the departmental security function and the following:",
-    "fr": "Le dirigeant principal de la sécurité (DPS), désigné par l’administrateur général conformément à la Politique sur la sécurité du gouvernement, est responsable de la gestion du programme de sécurité ministériel et de ce qui suit:"
-  },
-  {
-    "en": "Supporting the deputy head’s accountabilities under the Policy on Government Security;",
-    "fr": "appuyer les responsabilités de l’administrateur général en vertu de la Politique sur la sécurité du gouvernement;"
-  },
-  {
-    "en": "Leading the departmental security function, including:",
-    "fr": "diriger la fonction de sécurité ministérielle, y compris:"
-  },
-  {
-    "en": "Responsibilities for defining, documenting, implementing, assessing, monitoring and maintaining security requirements, practices and controls; and",
-    "fr": "les responsabilités pour définir, consigner, mettre en oeuvre, évaluer, surveiller et tenir à jour les exigences, les pratiques et les mesures de sécurité;"
-  },
-  {
-    "en": "Authorities for related security risk management decisions;",
-    "fr": "les pouvoirs pour les décisions connexes en matière de gestion des risques de sécurité;"
-  },
-  {
-    "en": "Overseeing the development, implementation and maintenance of the department’s security plan, in collaboration with other senior officials and other stakeholders, which:",
-    "fr": "diriger et surveiller l’élaboration, la mise en oeuvre et la tenue à jour du plan de sécurité ministérielle, en collaboration avec d’autres hauts fonctionnaires et d’autres intervenants, qui :"
-  },
-  {
-    "en": "Provides an integrated view of departmental security threats, risks and requirements; and",
-    "fr": "donne une vision intégrée des menaces, des risques et des exigences en matière de sécurité ministérielle;"
-  },
-  {
-    "en": "Includes strategies, priorities, responsibilities and timelines for maintaining, strengthening, monitoring and continuously improving the security practices and security controls described in appendices A to H;",
-    "fr": "définit les stratégies, les priorités, les responsabilités et le calendrier afin de tenir à jour, de renforcer, de surveiller et d’améliorer continuellement les pratiques et les mesures de sécurité décrites aux annexes A à H;"
-  },
-  {
-    "en": "Overseeing the establishment of department-wide processes to assess and document actions taken regarding residual security risks for the department’s programs and services and their supporting resources;",
-    "fr": "superviser l’établissement de processus à l’échelle du ministère pour évaluer et consigner les mesures prises concernant les risques de sécurité résiduels pour les programmes et les services du ministère et leurs ressources de soutien;"
-  },
-  {
-    "en": "Reporting at least annually to the deputy head on progress in achieving the priorities defined in the department’s security plan and, as required, recommending changes to departmental security practices, security controls and priorities;",
-    "fr": "rendre compte à l’administrateur général, au moins chaque année, sur les avancements dans la réalisation des priorités définies dans le plan de sécurité ministérielle et, comme exigé, recommander des changements aux pratiques, aux mesures ou aux priorités du ministère en matière de sécurité;"
-  },
-  {
-    "en": "Overseeing the establishment of department-wide processes to monitor and ensure a coordinated response to, and reporting of, department-specific threats, vulnerabilities, security incidents and other security events, including identification of actions to address any deficiencies;",
-    "fr": "superviser l’établissement de processus à l’échelle du ministère pour surveiller les menaces, les vulnérabilités, les incidents de sécurité et les événements de sécurité propres au ministère, en assurer une intervention coordonnées ainsi qu'un compte rendu, y compris la détermination des mesures pour remédier à toutes lacunes;"
-  },
-  {
-    "en": "Ensuring that any significant issues regarding policy compliance, suspected criminal activity, national security concerns or other security issues are assessed, investigated, documented, acted on and reported to the deputy head and, as required, to the appropriate law enforcement authority and/or security and intelligence agency (see Appendix I: Standard on Security Event Reporting), and to affected stakeholders, and as required, cooperating in any resulting criminal or other investigation(s);",
-    "fr": "veiller à ce que tous les problèmes importants de conformité aux politiques, d’activités criminelles soupçonnées, de préoccupations liées à la sécurité nationale, ou autres problèmes de sécurité soient évalués, examinés, consignés, traités, et signalés à l’administrateur général et, comme exigé, aux autorités policières compétentes ou organismes de sécurité et du renseignement (voir l’annexe I : Norme sur le signalement des événements de sécurité), et aux intervenants touchés, et comme exigé, coopérer dans toutes enquêtes criminelles résultantes ou autres enquêtes;"
-  },
-  {
-    "en": "Collaborating with other senior officials and other stakeholders to respond to direction, advice and information requests issued by the Privy Council Office, the Treasury Board of Canada Secretariat as the employer (for example, the Office of the Chief Human Resources Officer), and the Government Operations Centre regarding security events that require an immediate or coordinated government-wide action; and",
-    "fr": "collaborer avec d’autres hauts fonctionnaires et d’autres intervenants pour répondre aux demandes d’orientation, de conseils et d’information émises par le Bureau du Conseil privé, le Secrétariat du Conseil du Trésor du Canada (SCT) à titre d’employeur (p. ex., le Bureau du dirigeant principal des ressources humaines), et le Centre des opérations du gouvernement au sujet des événements de sécurité qui nécessitent une intervention immédiate ou coordonnée à l’échelle du gouvernement;"
-  },
-  {
-    "en": "Verifying that written agreements are in place when the organization provides or receives security services from another department or organization pursuant to subsections 6.2 and 6.3",
-    "fr": "vérifier qu’un accord écrit est en place lorsque le ministère fait appel ou fournit à un autre ministère ou une autre organisation pour atteindre les objectifs de sécurité du gouvernement (voir les sous-sections 6.2 et 6.3)."
-  },
-  {
-    "en": "Senior officials, who are individuals designated by the deputy head in the departmental security governance as having responsibility for aspects of security and are responsible for the following:",
-    "fr": "Les hauts fonctionnaires, personnes désignées par l’administrateur général dans la gouvernance de sécurité du ministère comme étant responsables de certains aspects de la sécurité, ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Participating in and reporting to the department’s security governance, in accordance with their assigned security responsibilities;",
-    "fr": "participer à la gouvernance de la sécurité du ministère et en rendre compte, conformément à leurs responsabilités attribuées en matière de sécurité;"
-  },
-  {
-    "en": "Assigning security responsibilities for programs, services and activities in their area of responsibility, as an integral element of the department’s security governance;",
-    "fr": "attribuer des responsabilités en matière de sécurité pour les programmes, les services et les activités dans leur domaine de responsabilité, comme une partie intégrante de la gouvernance de la sécurité du ministère;"
-  },
-  {
-    "en": "Providing advice to the deputy head, the CSO and other stakeholders on departmental security matters in their area of responsibility;",
-    "fr": "conseiller l’administrateur général, le DPS et les autres intervenants concernant les questions de sécurité ministérielle dans leur domaine de responsabilité;"
-  },
-  {
-    "en": "When the department relies on or supports another organization to fulfill a security function or to support the delivery of programs, services or activities within their area of responsibility:",
-    "fr": "lorsque le ministère compte sur un autre ministère ou l’appuie pour exercer une fonction de sécurité, ou appuyer l’exécution de programmes, de services ou d’activités dans leur domaine de responsabilité :"
-  },
-  {
-    "en": "Establishing, or recommending the establishment of, a written agreement that defines applicable security requirements and respective security responsibilities;",
-    "fr": "établir une entente écrite qui définit les exigences applicables en matière de sécurité et les responsabilités respectives en matière de sécurité, ou en recommander l’établissement;"
-  },
-  {
-    "en": "Verifying that these requirements and responsibilities are met; and",
-    "fr": "vérifier si ces exigences et responsabilités sont respectées;"
-  },
-  {
-    "en": "Monitoring continued compliance (see subsections 6.2 and 6.3);",
-    "fr": "surveiller la conformité permanente (voir les sous-sections 6.2 et 6.3);"
-  },
-  {
-    "en": "Identifying security requirements and related resource needs for programs, services and activities within their area of responsibility, while considering other stakeholders and acting in accordance with the department’s security governance;",
-    "fr": "déterminer les exigences en matière de sécurité et les besoins de ressources connexes pour les programmes, les services et les activités dans leur domaine de responsabilité, tout en tenant compte des autres intervenants, et agir conformément à la gouvernance de la sécurité du ministère;"
-  },
-  {
-    "en": "Ensuring that security practices and security controls (see appendices A to H) are defined, documented, implemented, monitored and maintained to meet identified security requirements for programs, services and activities within their area of responsibility, in accordance with the departmental security plan and in collaboration with other senior officials, security functional specialists, partners and other stakeholders;",
-    "fr": "veiller à ce que des pratiques et des mesures de sécurité (voir les annexes A à H) soient définies, consignées, mises en oeuvre, surveillées et tenues à jour en vue de respecter les exigences indiquées en matière de sécurité pour les programmes, les services et les activités dans leur secteur de responsabilité, conformément au Plan de sécurité ministérielle et en collaboration avec d’autres hauts fonctionnaires, des spécialistes fonctionnels de la sécurité, des partenaires et d’autres intervenants;"
-  },
-  {
-    "en": "Documenting or recommending actions to be taken regarding residual security risks for programs, services and activities within their area of responsibility, and their supporting resources, in accordance with their assigned authority and department-wide processes and in consultation with the CSO;",
-    "fr": "consigner ou recommander des mesures à prendre concernant les risques de sécurité résiduels pour les programmes, les services et les activités dans leur domaine de responsabilité ainsi que les ressources de soutien, conformément au pouvoir qui leur est attribué et aux processus à l’échelle du ministère, et en consultation avec le DPS;"
-  },
-  {
-    "en": "Establishing processes to monitor, respond to and report threats, vulnerabilities, security incidents and other security events within their area of responsibility, as an integral element of department-wide processes;",
-    "fr": "établir des processus afin de surveiller les menaces, les vulnérabilités, les incidents de sécurité et autres événements de sécurité dans leur domaine de responsabilité, de les signaler et d’intervenir, comme une partie intégrante des processus à l’échelle du ministère;"
-  },
-  {
-    "en": "Addressing security events that could impact programs, services and activities within their area of responsibility or that require an immediate or coordinated government-wide action, in collaboration with the CSO, partners and other stakeholders; and",
-    "fr": "aborder les événements de sécurité qui pourraient toucher les programmes, les services et les activités dans leur domaine de responsabilité, ou qui nécessitent une intervention immédiate ou coordonnée à l’échelle du gouvernement, en collaboration avec le DPS, des partenaires et d’autres intervenants;"
-  },
-  {
-    "en": "Monitoring and reporting on the effectiveness of security practices and controls within their area of responsibility, and sharing the results with the CSO.",
-    "fr": "surveiller l’efficacité des pratiques et des mesures de sécurité dans leur domaine de responsabilité et en rendre compte, et présenter les résultats au DPS."
-  },
-  {
-    "en": "Security functional specialists and other individuals are responsible for coordinating, managing and providing advice and services related to the departmental security controls and program. Other designated individuals in the department’s security governance who provide input into the departmental security program are responsible for the following:",
-    "fr": "Les spécialistes fonctionnels de la sécurité, personnes responsables de la coordination, de la gestion, de la prestation de conseils et de services liés aux mesures et au programme de sécurité ministérielle, ainsi que d’autres personnes désignées dans la gouvernance de la sécurité du ministère qui participent à l’élaboration du programme de sécurité ministériel, ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Defining, documenting, implementing, assessing, monitoring and maintaining departmental security requirements, practices and security controls (see appendices A to H and Appendix J);",
-    "fr": "définir, consigner, mettre en oeuvre, évaluer, surveiller et tenir à jour les exigences, les pratiques et les mesures de sécurité ministérielle (voir les annexes A à H et l’annexe J);"
-  },
-  {
-    "en": "Providing advice to the CSO and other stakeholders, as appropriate, on departmental security matters within their area of responsibility; and",
-    "fr": "fournir des conseils au DPS et aux autres intervenants, selon le cas, sur les questions de sécurité ministérielle dans leur domaine de responsabilité;"
-  },
-  {
-    "en": "Monitoring and reporting on the effectiveness of security practices and security controls within their area of responsibility, and sharing the results with the CSO, to:",
-    "fr": "surveiller les pratiques et les mesures de sécurité dans leur domaine de responsabilité, en rendre compte, et présenter les résultats au DPS afin de faire ce qui suit :"
-  },
-  {
-    "en": "Assess the extent to which departmental security requirements are met; and",
-    "fr": "évaluer la mesure dans laquelle les exigences de sécurité ministérielle sont satisfaites;"
-  },
-  {
-    "en": "Identify necessary actions to address any deficiencies.",
-    "fr": "déterminer les mesures nécessaires en cas d’insuffisance."
-  },
-  {
-    "en": "Supervisors are responsible for the following:",
-    "fr": "Les superviseurs ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Integrating security and related resource considerations into planning and other administrative activities;",
-    "fr": "intégrer les considérations de sécurité et de ressources connexes dans la planification et les autres activités administratives;"
-  },
-  {
-    "en": "Ensuring that individuals are informed of their security responsibilities and that employees are provided with security awareness and training to maintain the required knowledge and skills to meet their responsibilities;",
-    "fr": "veiller à ce que les personnes soient informées de leurs responsabilités en matière de sécurité et que les employés reçoivent la sensibilisation et la formation en matière de sécurité pour tenir à jour les connaissances et les compétences nécessaires pour s’acquitter de leurs responsabilités;"
-  },
-  {
-    "en": "Verifying that employees apply and adhere to departmental security practices and are taking or recommending corrective actions to address any deficiencies;",
-    "fr": "vérifier que les employés appliquent et respectent les pratiques de sécurité ministérielles, et prendre ou recommander des mesures correctives en cas d’insuffisance;"
-  },
-  {
-    "en": "Informing the CSO of any issues regarding policy compliance, suspected or alleged criminal activity, national security concerns, security incidents or other security events within their area of responsibility; and",
-    "fr": "informer le DPS de tous enjeux liés au respect des politiques, aux activités criminelles soupçonnées ou alléguées, aux préoccupations liées à la sécurité nationale, aux incidents de sécurités ou autres événements de sécurité dans leur domaine de responsabilité;"
-  },
-  {
-    "en": "Cooperating with the CSO and other stakeholders in the investigation of security incidents and other security events and in identifying and implementing corrective actions.",
-    "fr": "coopérer avec le DPS et les autres intervenants, dans l’enquête des incidents de sécurité et autres événements de sécurité, et la détermination et la mise en oeuvre des mesures correctives."
-  },
-  {
-    "en": "Employees are responsible for the following:",
-    "fr": "Les employés ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Adhering to government security policy and departmental security practices, including safeguarding information and assets under their control, whether working on-site or off-site;",
-    "fr": "respecter la politique du gouvernement en matière de sécurité et les pratiques de sécurité ministérielles, y compris la protection de l’information et des biens sous leur contrôle, à l’interne ou à l’externe;"
-  },
-  {
-    "en": "Participating in security awareness and training activities to maintain awareness of security concerns and issues and understanding of security responsibilities; and",
-    "fr": "participer aux activités de sensibilisation et de formation en matière de sécurité pour demeurer au courant des préoccupations et des enjeux connexes et bien comprendre leurs responsabilités en matière de sécurité;"
-  },
-  {
-    "en": "Maintaining vigilance and reporting changes in circumstances, potential security deficiencies, security incidents, suspected criminal activity, national security concerns and other security issues through appropriate departmental channels.",
-    "fr": "rester vigilants et signaler les insuffisances, les incidents de sécurité, les activités criminelles soupçonnées, les préoccupations liées à la sécurité nationale et tout autre enjeu par les canaux ministériels appropriés."
-  },
-  {
-    "en": "Individuals designated by deputy heads of internal enterprise service organizations to oversee their internal enterprise service activities, which is a service provided by one government of Canada department to another, under the Policy on Government Security are responsible for the following:",
-    "fr": "Les personnes désignées par les administrateurs généraux des organisations internes de services intégrés pour superviser leurs activités internes de services intégrés, qui est un service offert par un ministère du gouvernement du Canada à un autre en vertu de la Politique sur la sécurité du gouvernement, ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Leading the establishment of security governance for internal enterprise services that:",
-    "fr": "diriger l’établissement d’une gouvernance de la sécurité pour les services intégrés internes qui :"
-  },
-  {
-    "en": "Includes responsibilities and authorities for identifying and meeting security requirements throughout the planning, design, delivery, operations and maintenance of services provided to departments; and",
-    "fr": "comprend les responsabilités et les pouvoirs pour déterminer et respecter les exigences en matière de sécurité tout au long de la planification, de la conception, de la prestation, des opérations et de la tenue à jour des services offerts aux ministères;"
-  },
-  {
-    "en": "Is an integral element of the department’s security and corporate governance;",
-    "fr": "est une partie intégrante de la sécurité du ministère et la gouvernance ministérielle;"
-  },
-  {
-    "en": "Liaising with client departments when identifying security requirements for internal enterprise services, and with the Treasury Board of Canada Secretariat, for services intended to be offered government-wide;",
-    "fr": "établir la liaison avec les ministères clients pour déterminer les exigences en matière de sécurité pour les services intégrés internes, et avec le SCT, pour les services qui doivent être offerts dans l’ensemble du gouvernement;"
-  },
-  {
-    "en": "Communicating to client departments the security practices and controls that have been implemented to meet defined security requirements, the security conditions that need to be in place in the client environment, and any remaining residual risks and recommended mitigation measures;",
-    "fr": "communiquer aux ministères clients les pratiques et les mesures de sécurité qui ont été mises en oeuvre pour respecter les exigences en matière de sécurité, les conditions de sécurité qui doivent être en place dans l’environnement des clients, et tous les risques résiduels restants et les mesures d’atténuation recommandées;"
-  },
-  {
-    "en": "Establishing processes for monitoring services provided to departments to ensure that issues regarding fulfillment of security requirements are examined and acted on, in coordination with affected stakeholders, and that issues that have potential government-wide impacts are documented and reported to the Treasury Board of Canada Secretariat; and",
-    "fr": "établir des processus pour les services de surveillance offerts aux ministères afin de veiller à ce que les enjeux liés au respect des exigences en matière de sécurité soient examinés et traités, en coordination avec les intervenants touchés, et que les enjeux qui ont des incidences possibles dans l’ensemble du gouvernement soient consignés et signalés au SCT;"
-  },
-  {
-    "en": "Responding and taking necessary actions regarding security events that could impact the security of the services provided to departments, in collaboration with the CSO, clients and other stakeholders.",
-    "fr": "intervenir et prendre les mesures nécessaires liées aux événements de sécurité qui pourraient toucher la sécurité des services offerts aux ministères, en collaboration avec le DPS, les clients et les autres intervenants."
-  },
-  {
-    "en": "The roles of other government organizations in relation to this directive are described in section 5 of the Policy on Government Security.",
-    "fr": "Les rôles des autres organisations gouvernementales liés à la présente Directive sont décrits à la section 5 de la Politique sur la sécurité du gouvernement."
-  },
-  {
-    "en": "This directive applies to the organizations listed in section 6.1 of the Policy on Government Security.",
-    "fr": "La présente Directive s’applique aux organisations indiquées à la section 6.1 de la Politique sur la sécurité du gouvernement."
-  },
-  {
-    "en": "Subsections 4.1.9 and 4.2.4 of this directive apply only to interdepartmental agreements pursuant to subsection 29.2 of the Financial Administration Act, and to arrangements with Crown corporations, other orders of government, the private sector or other entities that are not governed by the Policy on Government Security, where the department has authority to enter into such agreements or arrangements.",
-    "fr": "Les sous-sections 4.1.9 et 4.2.4 de la présente Directive s’appliquent uniquement aux ententes interministérielles conformément à l’article 29.2 de la , et aux dispositions conclues avec les sociétés d’État, les autres ordres de gouvernements, le secteur privé ou les autres entités qui ne sont pas régies par la Politique sur la sécurité du gouvernement, où le ministère a le pouvoir de conclure de telles ententes ou dispositions."
-  },
-  {
-    "en": "Subsections 4.1.9 and 4.2.4 of this directive apply to contracts for the production or delivery of goods or services and to any other arrangement involving the sharing of sensitive information or assets with organizations or individuals that do not fall under the application of the Policy on Government Security (for example, memoranda of understanding with other orders of government and academic or scientific partners).",
-    "fr": "Les sous-sections 4.1.9 et 4.2.4 de la présente Directive s’appliquent aux contrats pour la production ou la livraison de biens ou de services et à toutes autres dispositions liées au partage d’information délicate ou de biens avec les organisations ou les personnes qui ne sont pas régies par la Politique sur la sécurité du gouvernement (p. ex., le protocole d’entente avec d’autres ordres de gouvernements et des partenaires universitaires ou scientifiques)."
-  },
-  {
-    "en": "Legislation",
-    "fr": "Legislation"
-  },
-  {
-    "en": "Related policy instruments",
-    "fr": "Instruments de politique connexes"
-  },
-  {
-    "en": "Members of the public may contact for information about this directive.",
-    "fr": "Les membres du grand public peuvent communiquer avec la section des pour obtenir de plus amples renseignements sur la présente Directive."
-  },
-  {
-    "en": "Individuals from departments should contact their departmental security management group for any questions regarding this directive.",
-    "fr": "Les employés des ministères doivent communiquer avec leur groupe chargé de la gestion de la sécurité ministérielle s’ils ont des questions au sujet de la présente Directive."
-  },
-  {
-    "en": "Individuals from the departmental security group may contact the Security Policy Division at the Treasury Board of Canada Secretariat, by email at , for interpretation of any aspect of this directive.",
-    "fr": "Pour l’interprétation de la présente Directive, les employés du groupe de la gestion de la sécurité ministérielle peuvent communiquer avec la Division des politiques sur la sécurité du SCT, par courriel à l’adresse ."
+    "en": "Policy on Government SecurityPolicy on Conflict of Interest and Post-EmploymentValues and Ethics Code for the Public SectorDirective on Security Screening",
+    "fr": "Politique sur la sécurité du gouvernementPolitique sur les conflits d’intérêts et l’après-mandatCode de valeurs et d’éthique du secteur publicDirective sur le filtrage de sécurité",
+    "anchor": "7.2",
+    "tag": "ul"
   }
 ]

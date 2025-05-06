@@ -1,126 +1,134 @@
 [
   {
     "en": "1.1 This guideline was issued on April 1, 2012. This guideline will be updated periodically, as required.",
-    "fr": "1.1 La présente ligne directrice a été émise le 1 avril 2012. Elle sera mise à jour de façon périodique, au besoin."
+    "fr": "1.1 La présente ligne directrice a été émise le 1er avril 2012. Elle sera mise à jour de façon périodique, au besoin.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "1.2 Note that the policy requirement related to the use of common line objects, identified in the under Appendix B: Department Classification Structure - Departmental Line Objects, will come into effect on April 1, 2013.",
-    "fr": "1.2 Veuillez noter que les exigences de la politique concernant l'utilisation d'articles d'exécution communs, qui sont désignés à l'annexe B : Structure de classification ministérielle - articles d'exécution ministériels de la , entrent en vigueur le 1 avril 2013."
+    "en": "1.2 Note that the policy requirement related to the use of common line objects, identified in the Standard on Recording Financial Transactions in the Departmental Chart of Accounts under Appendix B: Department Classification Structure - Departmental Line Objects, will come into effect on April 1, 2013.",
+    "fr": "1.2 Veuillez noter que les exigences de la politique concernant l'utilisation d'articles d'exécution communs, qui sont désignés à l'annexe B : Structure de classification ministérielle - articles d'exécution ministériels de la Norme sur l'inscription des opérations financières dans le plan comptable ministériel, entrent en vigueur le 1er avril 2013.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "This guideline serves as a tool for departments as defined in section 2 of the . Throughout this guideline, the terms \"government-wide\" and \"across government\" refer to these departments.",
-    "fr": "La présente ligne directrice est un outil à l'intention des ministères qui sont définis à l'article 2 de la . Dans la ligne directrice, les expressions « pangouvernemental » et « au gouvernement » renvoient à ces ministères."
+    "en": "This guideline serves as a tool for departments as defined in section 2 of the Financial Administration Act. Throughout this guideline, the terms \"government-wide\" and \"across government\" refer to these departments.",
+    "fr": "La présente ligne directrice est un outil à l'intention des ministères qui sont définis à l'article 2 de la Loi sur la gestion des finances publiques. Dans la ligne directrice, les expressions « pangouvernemental » et « au gouvernement » renvoient à ces ministères.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "3.1 The purpose of this guideline is to support the objectives of the ,the and specifically the by providing recommendations that will assist chief financial officers in fulfilling the requirements of the , and thereby increase the consistency of financial information government-wide.",
-    "fr": "3.1 La présente ligne directrice vise à appuyer les objectifs formulés par la , par la et en particulier par la . La ligne directrice énonce des recommandations, afin d'aider les dirigeants principaux des finances à répondre aux exigences de la et, par conséquent, à mieux uniformiser l'information financière au gouvernement."
+    "en": "3.1 The purpose of this guideline is to support the objectives of the Policy on the Stewardship of Financial Management Systems,the Directive on the Recording of Financial Transactions in the Accounts of Canada and specifically the Standard on RecordingFinancial Transactions in the Departmental Chart of Accounts by providing recommendations that will assist chief financial officers in fulfilling the requirements of the Standard on RecordingFinancial Transactions in the Departmental Chart of Accounts, and thereby increase the consistency of financial information government-wide.",
+    "fr": "3.1 La présente ligne directrice vise à appuyer les objectifs formulés par la Politique sur la gérance des systèmes de gestion financière, par la Directive sur l'inscription des opérations financières dans les comptes du Canada et en particulier par la Norme sur l'inscription des opérations financières dans le plan comptable ministériel. La ligne directrice énonce des recommandations, afin d'aider les dirigeants principaux des finances à répondre aux exigences de la Norme d'inscription des opérations financières dans le plan comptable ministériel et, par conséquent, à mieux uniformiser l'information financière au gouvernement.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "3.2 The departmental chart of accounts line object element identifies the financial reporting classification in the (financial reporting account) andthe object classification in the (object codes) for which the financial transaction is associated.",
-    "fr": "3.2 Un élément des articles d'exécution du plan comptable ministériel détermine la classification des rapports financiers sur le (compte de rapport financier) et la classification par article sur le (codes des articles) à laquelle est associée l'opérationfinancière."
+    "en": "3.2 The departmental chart of accounts line object element identifies the financial reporting classification in the Government-wide Chart of Accounts for Canada (financial reporting account) andthe object classification in the Government-wide Chart of Accounts for Canada (object codes) for which the financial transaction is associated.",
+    "fr": "3.2 Un élément des articles d'exécution du plan comptable ministériel détermine la classification des rapports financiers sur le plan comptable à l'échelle de l'administration fédérale(compte de rapport financier) et la classification par article sur le plan comptable à l'échelle de l'administration fédérale (codes des articles) à laquelle est associée l'opérationfinancière.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "3.3 The departmental chart of accounts line object element enables the classification of financial transactions into accounting categories and provides additional detail about the type of goods orservices acquired, the transfer payments made, the source of receipts or the cause of increases or decreases in assets and liabilities.",
-    "fr": "3.3 L'élément des articles d'exécution du plan comptable ministériel permet la classification des opérations financières en catégories comptables et il fournit des détailssupplémentaires concernant le type de biens ou services acquis, les paiements de transfert effectués, la provenance des rentrées de fonds ou l'origine de l'augmentation ou de ladiminution de l'actif et du passif."
+    "fr": "3.3 L'élément des articles d'exécution du plan comptable ministériel permet la classification des opérations financières en catégories comptables et il fournit des détailssupplémentaires concernant le type de biens ou services acquis, les paiements de transfert effectués, la provenance des rentrées de fonds ou l'origine de l'augmentation ou de ladiminution de l'actif et du passif.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "3.4 The requires that the departmental chart of accounts line object element must:",
-    "fr": "3.4 La Norme sur l'inscription des opérations financières dans le plan comptable ministériel exige que l'élément des articles d'exécution soit :"
+    "en": "3.4 The Standard on Recording Financial Transactions in the Departmental Chart of Accounts requires that the departmental chart of accounts line object element must:",
+    "fr": "3.4 La Norme sur l'inscription des opérations financières dans le plan comptable ministériel exige que l'élément des articles d'exécution soit :",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Definitions to be used in the interpretation of this guideline are in Appendix A of the .",
-    "fr": "Les définitions à utiliser pour l'interprétation de la présente directive se trouvent à l'Annexe A de la ."
+    "en": "Aggregate to the object classification in the Government-wide Chart of Accounts for Canada (object codes).Correlate to the financial reporting element in the departmental chart of accounts (and thus identify the financial reporting account level 5.)Correlate to the list of common line objects established by Treasury Board Secretariat.",
+    "fr": "Intégré à la classification par article sur le plan comptable à l'échelle de l'administration fédérale (codes des articles).Lié à l'élément des rapports financiers du plan comptable ministériel (et ainsi identifie le niveau 5 des comptes de rapports financiers).Lié à la liste des articles communs d'exécution établie par le Secrétariat du Conseil du Trésor.",
+    "anchor": "3",
+    "tag": "ul"
+  },
+  {
+    "en": "Definitions to be used in the interpretation of this guideline are in Appendix A of the Standard on Recording Financial Transactions in the Departmental Chart of Accounts.",
+    "fr": "Les définitions à utiliser pour l'interprétation de la présente directive se trouvent à l'Annexe A de la Norme sur l'inscription des opérations financières dans le plan comptable ministériel.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
     "en": "5.1 Line Objects are derived from valid combinations of financial reporting account and object codes from the Government-wide Chart of Accounts for Canada.",
-    "fr": "5.1 L'élément des articles d'exécution est obtenu à partir d'une combinaison valable de code et de code des articles provenant du plan comptable à l'échelle de l'administration fédérale."
+    "fr": "5.1 L'élément des articles d'exécution est obtenu à partir d'une combinaison valable de code CRF et de code des articles provenant du plan comptable à l'échelle de l'administration fédérale.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "5.2 The is based on combinations of financial reporting accounts and object codes that all departments can use. Departments must ensurethat their departmental line objects correlate to those in the list of common line objects.",
-    "fr": "5.2 La représente des combinaisons de codes de et des articles que tous les ministères peuvent utiliser. Les ministères doivents'assurer que leurs articles d'exécution soient mis en corrélation avec ceux de la liste des codes communs des articles d'exécution."
+    "en": "5.2 The list of common line objects is based on combinations of financial reporting accounts and object codes that all departments can use. Departments must ensurethat their departmental line objects correlate to those in the list of common line objects.",
+    "fr": "5.2 La liste des articles communs d'exécution représente des combinaisons de codes de CRF et des articles que tous les ministères peuvent utiliser. Les ministères doivents'assurer que leurs articles d'exécution soient mis en corrélation avec ceux de la liste des codes communs des articles d'exécution.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
     "en": "5.3 The list is not all inclusive. It excludes combinations of financial reporting account and object codes:",
-    "fr": "5.3 Cette liste n'est pas exhaustive. Elle exclut les combinaisons de codes de et des articles d'exécution :"
+    "fr": "5.3 Cette liste n'est pas exhaustive. Elle exclut les combinaisons de codes de CRF et des articles d'exécution :",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Which are not widely used, based on an analysis of the current line object codes of several departments.Where the financial reporting account or the object code are department specific (as noted in the Government-Wide Chart of Accounts.)",
+    "fr": "Dont l'utilisation n'est pas commune, selon une analyse de codes des articles d'exécution actuels de plusieurs ministères.Lorsque le code de CRF ou d'article d'exécution est particulier à un ministère (comme indiqué dans le plan comptable à l'échelle de l'administration fédérale).",
+    "anchor": "5",
+    "tag": "ul"
   },
   {
     "en": "5.4 As appropriate, departments may:",
-    "fr": "5.4 Au besoin, les ministères peuvent :"
+    "fr": "5.4 Au besoin, les ministères peuvent :",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Define additional departmental line objects correlating to combinations of financial reporting accounts and object codes not included in the list of common line objects.Define more than one departmental line object for a single common line object, provided that this lower level of detail aggregates to the related common line object.",
+    "fr": "Définir des articles d'exécution ministériels additionnels liés à des combinaisons de codes de CRF et d'articles non inclus dans la liste des codes communs des articles d'exécution. Définir plus d'un article d'exécution ministériel pour un code commun d'article d'exécution unique, pourvu que cet élément de niveau inférieur soit intégré à l'article d'exécution commun correspondant.",
+    "anchor": "5",
+    "tag": "ul"
   },
   {
     "en": "5.5 The list of common line objects will be updated periodically. Any additions, deletions or changes to the list of common line objects will be considered by the Office of the ComptrollerGeneral, in consultation with the Receiver General.",
-    "fr": "5.5 La liste des articles communs d'exécution sera mise à jour de façon périodique. Les ajouts, les suppressions ou les changements des articles d'exécution seront examinés par leBureau du contrôleur général, de concert avec le Receveur général."
+    "fr": "5.5 La liste des articles communs d'exécution sera mise à jour de façon périodique. Les ajouts, les suppressions ou les changements des articles d'exécution seront examinés par leBureau du contrôleur général, de concert avec le Receveur général.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
     "en": "Please direct enquiries about this guideline to your department's headquarters. For interpretation of this guideline, departmental headquarters should contact:",
-    "fr": "Prière de transmettre les demandes de renseignements directes au sujet de la présente ligne directrice à l'administration centrale de votre ministère. Pour interpréter la présente ligne directrice, l'administration centrale devrait communiquer avec la :"
+    "fr": "Prière de transmettre les demandes de renseignements directes au sujet de la présente ligne directrice à l'administration centrale de votre ministère. Pour interpréter la présente ligne directrice, l'administration centrale devrait communiquer avec la :",
+    "anchor": "6",
+    "tag": "p"
   },
   {
-    "en": "Financial Management Policy Division Financial Management Sector Office of the Comptroller General Treasury Board Secretariat Ottawa ON K1A 0R5",
-    "fr": "Division de la politique de gestion financière Secteur de la gestion financière Bureau du contrôleur général Secrétariat du Conseil du Trésor Ottawa (Ontario) K1A 0R5"
+    "en": "Financial Management Policy DivisionFinancial Management SectorOffice of the Comptroller GeneralTreasury Board SecretariatOttawa ON K1A 0R5",
+    "fr": "Division de la politique de gestion financièreSecteur de la gestion financièreBureau du contrôleur généralSecrétariat du Conseil du TrésorOttawa (Ontario) K1A 0R5",
+    "anchor": "6",
+    "tag": "p"
   },
   {
-    "en": "Email: Telephone: 613-957-7233 Fax: 613-952-9613",
-    "fr": "Courriel : Téléphone : 613-957-7233 Télécopieur : 613-952-9613"
+    "en": "Email: fin-www@tbs-sct.gc.caTelephone: 613-957-7233Fax: 613-952-9613",
+    "fr": "Courriel : fin-www@tbs-sct.gc.caTéléphone : 613-957-7233Télécopieur : 613-952-9613",
+    "anchor": "6",
+    "tag": "p"
   },
   {
     "en": "The figure reflects the elements of a departmental chart of accounts, in relation to the classification structures of the government-wide chart of accounts. The departmental chart of accounts includes six elements: Responsibility / Organization, Financial Reporting Account, Authority, Program Activity, Line Objects, and Internal / External. Each of these elements corresponds to an equivalent government-wide classification, and together the elements form a financial coding block used for recording financial transactions in a departmental chart of accounts.",
-    "fr": "Cette figure met en rapport les éléments d'un plan comptable ministériel et les structures de classification du plan comptable à l'échelle du gouvernement. Le plan comptable ministériel compte six éléments : Responsabilité / Organisation, Compte de rapports financiers, Autorisation, Activité de programme, Articles d'exécution et Interne / Externe. Chacun des éléments correspond à une classification équivalente du plan comptable à l'échelle du gouvernement et ensemble, ils constituent un bloc de codage financier utilisé pour enregistrer les opérations financières dans un plan comptable ministériel."
+    "fr": "Cette figure met en rapport les éléments d'un plan comptable ministériel et les structures de classification du plan comptable à l'échelle du gouvernement. Le plan comptable ministériel compte six éléments : Responsabilité / Organisation, Compte de rapports financiers, Autorisation, Activité de programme, Articles d'exécution et Interne / Externe. Chacun des éléments correspond à une classification équivalente du plan comptable à l'échelle du gouvernement et ensemble, ils constituent un bloc de codage financier utilisé pour enregistrer les opérations financières dans un plan comptable ministériel.",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "At the Departmental level (departmental chart of accounts):",
-    "fr": "Au niveau ministériel (plan comptable ministériel) :"
+    "fr": "Au niveau ministériel (plan comptable ministériel) :",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
-    "en": "Aggregate to the object classification in the Government-wide Chart of Accounts for Canada (object codes).",
-    "fr": "Intégré à la classification par article sur le plan comptable à l'échelle de l'administration fédérale (codes des articles)."
-  },
-  {
-    "en": "Correlate to the financial reporting element in the departmental chart of accounts (and thus identify the financial reporting account level 5.)",
-    "fr": "Lié à l'élément des rapports financiers du plan comptable ministériel (et ainsi identifie le niveau 5 des comptes de rapports financiers)."
-  },
-  {
-    "en": "Correlate to .",
-    "fr": "Lié à ."
-  },
-  {
-    "en": "Which are not widely used, based on an analysis of the current line object codes of several departments.",
-    "fr": "Dont l'utilisation n'est pas commune, selon une analyse de codes des articles d'exécution actuels de plusieurs ministères."
-  },
-  {
-    "en": "Where the financial reporting account or the object code are department specific (as noted in the Government-Wide Chart of Accounts.)",
-    "fr": "Lorsque le code de ou d'article d'exécution est particulier à un ministère (comme indiqué dans le plan comptable à l'échelle de l'administration fédérale)."
-  },
-  {
-    "en": "Define additional departmental line objects correlating to combinations of financial reporting accounts and object codes not included in the list of common line objects.",
-    "fr": "Définir des articles d'exécution ministériels additionnels liés à des combinaisons de codes de et d'articles non inclus dans la liste des codes communs des articles d'exécution."
-  },
-  {
-    "en": "Define more than one departmental line object for a single common line object, provided that this lower level of detail aggregates to the related common line object.",
-    "fr": "Définir plus d'un article d'exécution ministériel pour un code commun d'article d'exécution unique, pourvu que cet élément de niveau inférieur soit intégré à l'article d'exécution commun correspondant."
-  },
-  {
-    "en": "Responsibility / Organization identifies the organizational unit, for which a position has delegated authority that is responsible and accountable for the financial transaction. It aggregates to the government-wide responsibility classification.",
-    "fr": "« Responsabilité / Organisation » désigne l'unité organisationnelle pour laquelle un poste détient un pouvoir délégué et qui est responsable de l'opération financière. Cet élément est regroupé pour constituer la classification des responsabilités à l'échelle du gouvernement."
-  },
-  {
-    "en": "Financial Reporting Account enables the classification of financial transactions into accounting categories as the basis for departmental financial statements. It must correlate to the line object element, and aggregates to the government-wide financial reporting classification.",
-    "fr": "« Compte des rapports financiers » : élément qui permet de classer les opérations financières dans des catégories comptables en vue de la préparation des états financiers ministériels. Il doit correspondre à l'article d'exécution et il est regroupé pour constituer la classification des rapports financiers à l'échelle du gouvernement."
-  },
-  {
-    "en": "Authority identifies the authority (vote, statute, or other legislative authority) under which the financial transaction is authorized. It aggregates to the government-wide authority classification.",
-    "fr": "« Autorisation » désigne l'autorisation (crédit, loi ou autre fondement législatif) en vertu de laquelle l'opération financière est autorisée. Cet élément est regroupé pour constituer la classification des autorisations à l'échelle du gouvernement."
-  },
-  {
-    "en": "Program identifies the program within the department's program alignment architecture to which the financial transaction is associated. It aggregates to the government-wide program classification.",
-    "fr": "« Programme » désigne le programme figurant dans l'architecture d'alignement des programmes du ministère à laquelle l'opération financière est associée. Cet élément est regroupé pour constituer la classification des programmes à l'échelle du gouvernement."
-  },
-  {
-    "en": "Line Object provides information about the type of goods or services acquired, the transfer payments made, the source of receipts or the cause of increases and decreases in assets and liabilities. It aggregates to the government-wide object classification.",
-    "fr": "« Article d'exécution » décrit le type de biens ou services acquis, les paiements de transfert effectués, la provenance des reçus ou la raison de l'augmentation ou de la diminution des actifs ou passifs. Cet élément est regroupé pour constituer la classification des articles d'exécution à l'échelle du gouvernement."
-  },
-  {
-    "en": "Internal / External identifies whether the transaction is internal or external to the GC. It aggregates to the government-wide transaction type classification.",
-    "fr": "« Interne / Externe » détermine si l'opération est effectuée au sein du gouvernement ou avec un organisme externe. Cet élément est regroupé pour constituer la classification des types d'opérations à l'échelle du gouvernement."
+    "en": "Responsibility / Organization identifies the organizational unit, for which a position has delegated authority that is responsible and accountable for the financial transaction. It aggregates to the government-wide responsibility classification.Financial Reporting Account enables the classification of financial transactions into accounting categories as the basis for departmental financial statements. It must correlate to the line object element, and aggregates to the government-wide financial reporting classification.Authority identifies the authority (vote, statute, or other legislative authority) under which the financial transaction is authorized. It aggregates to the government-wide authority classification. Program identifies the program within the department's program alignment architecture to which the financial transaction is associated. It aggregates to the government-wide program classification.Line Object provides information about the type of goods or services acquired, the transfer payments made, the source of receipts or the cause of increases and decreases in assets and liabilities. It aggregates to the government-wide object classification.Internal / External identifies whether the transaction is internal or external to the GC. It aggregates to the government-wide transaction type classification.",
+    "fr": "« Responsabilité / Organisation » désigne l'unité organisationnelle pour laquelle un poste détient un pouvoir délégué et qui est responsable de l'opération financière. Cet élément est regroupé pour constituer la classification des responsabilités à l'échelle du gouvernement.« Compte des rapports financiers » : élément qui permet de classer les opérations financières dans des catégories comptables en vue de la préparation des états financiers ministériels. Il doit correspondre à l'article d'exécution et il est regroupé pour constituer la classification des rapports financiers à l'échelle du gouvernement.« Autorisation » désigne l'autorisation (crédit, loi ou autre fondement législatif) en vertu de laquelle l'opération financière est autorisée. Cet élément est regroupé pour constituer la classification des autorisations à l'échelle du gouvernement.« Programme » désigne le programme figurant dans l'architecture d'alignement des programmes du ministère à laquelle l'opération financière est associée. Cet élément est regroupé pour constituer la classification des programmes à l'échelle du gouvernement.« Article d'exécution » décrit le type de biens ou services acquis, les paiements de transfert effectués, la provenance des reçus ou la raison de l'augmentation ou de la diminution des actifs ou passifs. Cet élément est regroupé pour constituer la classification des articles d'exécution à l'échelle du gouvernement.« Interne / Externe » détermine si l'opération est effectuée au sein du gouvernement ou avec un organisme externe. Cet élément est regroupé pour constituer la classification des types d'opérations à l'échelle du gouvernement.",
+    "anchor": "ld1",
+    "tag": "ul"
   }
 ]

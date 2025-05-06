@@ -1,34 +1,50 @@
 [
   {
-    "en": "This document describes the accounting treatment for internal support services under section 29.2 of the .",
-    "fr": "Le présent document décrit le traitement comptable des services de soutien internes fournis aux termes de l'article 29.2 de la ."
+    "en": "This document describes the accounting treatment for internal support services under section 29.2 of the Financial Administration Act.",
+    "fr": "Le présent document décrit le traitement comptable des services de soutien internes fournis aux termes de l'article 29.2 de la Loi sur la gestion des finances publiques.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Section 29.2 of the authorizes departments to provide internal support services to, and receive such services from, one or more other departments.",
-    "fr": "L'article 29.2 de la autorise les ministères à fournir des services de soutien internes à un ou plusieurs autres ministères et à recevoir de tels services de la part d'un ou plusieurs ministères"
+    "en": "Section 29.2 of the Financial Administration Act authorizes departments to provide internal support services to, and receive such services from, one or more other departments.",
+    "fr": "L'article 29.2 de la Loi sur la gestion des finances publiques autorise les ministères à fournir des services de soutien internes à un ou plusieurs autres ministères et à recevoir de tels services de la part d'un ou plusieurs ministères",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "The authority of section 29.2 for a department to provide internal support services carries with it an implicit authority for the department to make charges for the services.",
-    "fr": "L’autorisation qu’a un ministère de fournir des services de soutien internes aux termes de l'article 29.2, comprend une autorisation implicite permettant au ministère d'imposer des frais pour les services fournis."
+    "fr": "L’autorisation qu’a un ministère de fournir des services de soutien internes aux termes de l'article 29.2, comprend une autorisation implicite permettant au ministère d'imposer des frais pour les services fournis.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "Recoveries of costs arising from the provision of internal support services are considered to be departmental revenues. A department receiving such revenues requires legislative authority to expend the revenues to offset expenditures.",
-    "fr": "Le recouvrement des coûts découlant de la fourniture de services de soutien internes sont considérés comme étant un revenu ministériel. Un ministère qui reçoit de tel revenu doit obtenir une autorisation législative pour les affecter en compensation de dépenses."
+    "fr": "Le recouvrement des coûts découlant de la fourniture de services de soutien internes sont considérés comme étant un revenu ministériel. Un ministère qui reçoit de tel revenu doit obtenir une autorisation législative pour les affecter en compensation de dépenses.",
+    "anchor": "1",
+    "tag": "p"
+  },
+  {
+    "en": "Directive on Internal Support ServicesPolicy on Special Revenue Spending AuthoritiesSection 29.2 of the Financial Administration Act",
+    "fr": "Directive sur les services de soutien internesPolitique sur les autorisations spéciales de dépenser les recettesArticle 29.2 de la Loi sur la gestion des finances publiques",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
     "en": "Scenario:",
-    "fr": "Scénario"
+    "fr": "Scénario",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Department A provides internal support services to Department B for $1,000 under section 29.2 of the .",
-    "fr": "Le ministère A fournit des services de soutien internes au ministère B d’une valeur de 1000 $ aux termes de l'article 29.2 de la ."
+    "en": "Department A provides internal support services to Department B for $1,000 under section 29.2 of the Financial Administration Act.",
+    "fr": "Le ministère A fournit des services de soutien internes au ministère B d’une valeur de 1000 $ aux termes de l'article 29.2 de la Loi sur la gestion des finances publiques.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Note: Departments with statutory respending authority are able to spend the amount received by charging expenditures directly against their relevant statutory authority code. It is up to the department to ensure that only amounts collected are spent and that the total amount charged does not exceed the amount eligible to be respent.",
-    "fr": "Remarque : Les ministères qui ont déjà l'autorisation légale de dépenser des recettes; peuvent dépenser le montant perçu en imputant les dépenses directement au code d'autorisation législatif qui s'applique. Il incombe au ministère de s'assurer que seuls les montants perçus sont dépensés et que le montant total imputé ne dépasse pas le montant admissible pouvant être réutilisé."
-  },
-  {
-    "en": "All transactions are considered to be internal; therefore, an \"I\" indicator should be used.",
-    "fr": "Toutes les opérations sont considéré internes, donc l'indicateur « I » devrait être utilisé."
+    "en": "(a) The entry to record the service provided by Department A.Financial Reporting Account (FRA)Amount ($)FRAAuthority CodeObject Code Debit: Operating Expenses 1,000 51321 B11A/B12A XXXX (see object code table) Credit: Other Government Department (OGD) Accounts Payable 1,000 21132 R300 6299 FRA coding rationaleSince services were received within the period, operating expenses must be recorded. A corresponding credit is made to OGD Accounts Payable, as the services were acquired internally.Authority coding rationaleSince this is a legitimate charge against an operating appropriation, it would be recorded against either B11A or B12A, depending on whether the department has a program expenditures vote or an operating expenditures vote. OGD Accounts Payable does not affect the appropriations, thus R300 would be used.B11A/B12AProgram expenditures vote or operating expenditures vote.R300Total (or net, as applicable) amounts of all other assets and of all other liabilities.Object coding rationaleDepending on the nature of the services acquired, the appropriate economic object under Standard Object 04 - Professional Services should be used (see the following table). Object code 6299 is used to record the establishment of an account payableObject CodeFinancial Administration Act, section 29.2(4)0402(a) Human resources management services0403(b) Financial management services0474(c) Information management services0475(d) Information technology services0404(e) Communications services0405(f) Real property services0406(g) Material services0407(h) Acquisition services0890(i) Other administrative service that is designated by order of the Governor in Council6299Net increase or decrease to other liability accounts.",
+    "fr": "(a) Écritures visant à enregistrer le service fourni par le ministère ACompte de rapports financiers (CRF)Montant ($)CRFCode d'autorisationCode d'articleDébit : Charges de fonctionnement 1 000 51321 B11A/B12A XXXX (consultez le tableau des codes d'articles) Crédit : Comptes créditeurs - Autres ministères (AM) 1 000 21132 R300 6299 Justification du code de CRFÉtant donné que les services ont été reçus durant la période, les charges de fonctionnement doivent être comptabilisées. Un crédit correspondant est porté au compte créditeur des autres ministères car les services ont été acquis à l'interne. Justification du code d'autorisationComme il s'agit d'une charge légitime sur un crédit de fonctionnement, le code utilisé serait B11A ou B12A, selon que le ministère dispose d'un crédit pour dépenses de programme ou d'un crédit pour dépenses de fonctionnement. Le compte créditeur des autres ministères n'ayant pas d'incidences sur les crédits, le code R300 serait utilisé.B11A/B12ACrédit pour dépenses de programme ou crédit pour dépenses de fonctionnementR300Montants totaux (ou nets, selon le cas) de tous les autres éléments d'actif et de passifJustification du code d'articleSelon la nature des services acquis, le code d’article approprié sous l'article courant 04, Services professionnels (consultez le tableau ci-après) est utilisé. Le code d’article 6299 est utilisé pour établir le compte créditeur.Code d'articleLoi sur la gestion des finances publiques, paragraphe 29.2(4)0402a) Services de gestion des ressources humaines0403b) Services de gestion financière0474c) Services de gestion de l’information0475d) Services de technologie de l’information0404e) Services en matière de communications0405f) Services des biens immobiliers0406g) Services du matériel0407h) Services des acquisitions0890i) Autres services administratifs désignés par décret6299Augmentation ou diminution nette des autres passifs",
+    "anchor": "3",
+    "tag": "section"
   }
 ]

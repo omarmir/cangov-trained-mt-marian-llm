@@ -1,66 +1,122 @@
 [
   {
     "en": "This guideline takes effect on November 30, 2012.",
-    "fr": "La présente Ligne directrice entrera en vigueur le 30 novembre 2012."
+    "fr": "La présente Ligne directrice entrera en vigueur le 30 novembre 2012.",
+    "anchor": "1",
+    "tag": "p"
+  },
+  {
+    "en": "For questions on this policy instrument, please contact Treasury Board of Canada Secretariat (TBS) Public Enquiries.",
+    "fr": "Pour toute question sur le présent instrument de politique, veuillez communiquer avec l'Équipe responsable desDemandes de renseignements du public du Secrétariat du Conseil du Trésor du Canada (SCT).",
+    "anchor": "10",
+    "tag": "p"
   },
   {
     "en": "This guideline sets out recommendations to assist departments when procuring network equipment, in support of the Government of Canada Internet Protocol Version 6 (IPv6) Adoption Strategy.",
-    "fr": "La présente Ligne directrice établit des recommandations visant à aider les ministères lors de l'achat d'équipement de réseau, à l'appui de la stratégie d'adoption de la version 6 du protocole Internet (IPv6) du gouvernement du Canada."
+    "fr": "La présente Ligne directrice établit des recommandations visant à aider les ministères lors de l'achat d'équipement de réseau, à l'appui de la stratégie d'adoption de la version 6 du protocole Internet (IPv6) du gouvernement du Canada.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "The Internet's remaining unused Internet Protocol Version 4 (IPv4) address blocks were allocated in early 2011 to the five Regional Internet Registries which allocate Internet addresses to network operators in their region. The Asia-Pacific region has experienced strong Internet growth and has been a lead adopter of , now using for all new growth. Due to the address space pressures, many governments and enterprises around the world are actively adopting , which provides a much larger address space.",
-    "fr": "Les derniers blocs d'adresses de la version 4 du protocole Internet (IPv4) inutilisés dans Internet ont été attribués, au début de 2011, aux cinq (registres Internet régionaux), qui attribuent des adresses Web aux exploitants de réseaux de leur région. La région de l'Asie-Pacifique a connu une forte croissance Internet et a été l'une des premières à adopter le format , qu'elle applique actuellement à toute nouvelle croissance. En raison des contraintes d'espace d'adressage, un grand nombre de gouvernements et d'entreprises à l'échelle mondiale adoptent activement le format , qui offre un espace beaucoup plus vaste."
+    "en": "The Internet's remaining unused Internet Protocol Version 4 (IPv4) address blocks were allocated in early 2011 to the five Regional Internet Registries which allocate Internet addresses to network operators in their region. The Asia-Pacific region has experienced strong Internet growth and has been a lead adopter of IPv6, now using IPv6 for all new growth. Due to the address space pressures, many governments and enterprises around the world are actively adopting IPv6, which provides a much larger address space.",
+    "fr": "Les derniers blocs d'adresses de la version 4 du protocole Internet (IPv4) inutilisés dans Internet ont été attribués, au début de 2011, aux cinq Regional Internet Registries (registres Internet régionaux), qui attribuent des adresses Web aux exploitants de réseaux de leur région. La région de l'Asie-Pacifique a connu une forte croissance Internet et a été l'une des premières à adopter le format IPv6, qu'elle applique actuellement à toute nouvelle croissance. En raison des contraintes d'espace d'adressage, un grand nombre de gouvernements et d'entreprises à l'échelle mondiale adoptent activement le formatIPv6, qui offre un espace beaucoup plus vaste.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Although and are not backwards compatible, there are mechanisms to link the two, such as translation and tunnelling, which can be used to assist in deployment during the transition from to . Both and networks will coexist in the global Internet for some time as systems become inter-connected and move to a dual-stack architecture.",
-    "fr": "Bien que les formats et ne soient pas rétrocompatibles, certains mécanismes les relient, notamment la translation et la tunnellisation, qui permettent de faciliter le déploiement lors de la transition du format au format . Les réseaux et coexisteront pendant un certain temps dans Internet, à l'échelle mondiale, pendant que les systèmes deviennent interconnectés et passent à une architecture à double pile."
+    "en": "Although IPv4 and IPv6 are not backwards compatible, there are mechanisms to link the two, such as translation and tunnelling, which can be used to assist in deployment during the transition from IPv4 toIPv6. Both IPv4 andIPv6 networks will coexist in the global Internet for some time as systems become inter-connected and move to a dual-stack architecture.",
+    "fr": "Bien que les formats IPv4 etIPv6 ne soient pas rétrocompatibles, certains mécanismes les relient, notamment la translation et la tunnellisation, qui permettent de faciliter le déploiement lors de la transition du formatIPv4 au format IPv6. Les réseaux IPv4 et IPv6 coexisteront pendant un certain temps dans Internet, à l'échelle mondiale, pendant que les systèmes deviennent interconnectés et passent à une architecture à double pile.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "The advent of will have an impact on the Government of Canada, whose business is geographically dispersed throughout the world. The Government of Canada conducts business with clients, suppliers and global partners who are (or soon will be) on networks, and as a consequence, the Government of Canada must adopt .",
-    "fr": "L'arrivée du format aura une incidence sur le gouvernement du Canada, dont les activités sont géographiquement répandues dans le monde entier. Le gouvernement du Canada mène ses affaires avec des clients, des fournisseurs et des partenaires mondiaux qui utilisent (ou utiliseront bientôt) des réseaux . Par conséquent, le gouvernement doit adopter ce format."
+    "en": "The advent of IPv6 will have an impact on the Government of Canada, whose business is geographically dispersed throughout the world. The Government of Canada conducts business with clients, suppliers and global partners who are (or soon will be) on IPv6 networks, and as a consequence, the Government of Canada must adopt IPv6.",
+    "fr": "L'arrivée du format IPv6 aura une incidence sur le gouvernement du Canada, dont les activités sont géographiquement répandues dans le monde entier. Le gouvernement du Canada mène ses affaires avec des clients, des fournisseurs et des partenaires mondiaux qui utilisent (ou utiliseront bientôt) des réseauxIPv6. Par conséquent, le gouvernement doit adopter ce format.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "The Government of Canada Adoption Strategy is designed to ensure the continuity of Government of Canada services. Adoption of by the Government of Canada will provide seamless, uninterrupted access to Government of Canada services by Canadians and users around the world. It also ensures continued access to global Internet resources by public service employees in carrying out their job functions.",
-    "fr": "La stratégie d'adoption du format du gouvernement du Canada vise à assurer la continuité des services du gouvernement. L'adoption de ce format par le gouvernement du Canada offrira à la population canadienne et aux utilisateurs du monde entier un accès uniforme et ininterrompu aux services du GC. Elle offrira également aux fonctionnaires un accès continu aux ressources Web mondiales, afin d'exercer les fonctions de leur emploi."
+    "en": "The Government of Canada IPv6 Adoption Strategy is designed to ensure the continuity of Government of Canada services. Adoption of IPv6 by the Government of Canada will provide seamless, uninterrupted access to Government of Canada services by Canadians and users around the world. It also ensures continued access to global Internet resources by public service employees in carrying out their job functions.",
+    "fr": "La stratégie d'adoption du format IPv6 du gouvernement du Canada vise à assurer la continuité des services du gouvernement. L'adoption de ce format par le gouvernement du Canada offrira à la population canadienne et aux utilisateurs du monde entier un accès uniforme et ininterrompu aux services du GC. Elle offrira également aux fonctionnaires un accès continu aux ressources Web mondiales, afin d'exercer les fonctions de leur emploi.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Network equipment (e.g., routers, proxy servers, firewalls) is procured for Government of Canada networks through a variety of means, including contracts and standing offers such as Network Equipment Support Services (NESS). functions specified in this guideline are expected to be incorporated in these procurement vehicles where IP-based network equipment is specified.",
-    "fr": "L'équipement de réseau (routeurs, serveurs mandataires, pare-feux) est fourni aux réseaux du gouvernement du Canada de diverses façons, notamment par l'intermédiaire de marchés et d'offres à commandes comme les Services de soutien de l'équipement de réseau (SSER). Les fonctions énoncées dans la présente Ligne directrice devraient être intégrées à ces modes d'approvisionnement lorsque l'équipement réseau IP est précisé."
+    "en": "Network equipment (e.g., routers, proxy servers, firewalls) is procured for Government of Canada networks through a variety of means, including contracts and standing offers such as Network Equipment Support Services (NESS).IPv6 functions specified in this guideline are expected to be incorporated in these procurement vehicles where IP-based network equipment is specified.",
+    "fr": "L'équipement de réseau (routeurs, serveurs mandataires, pare-feux) est fourni aux réseaux du gouvernement du Canada de diverses façons, notamment par l'intermédiaire de marchés et d'offres à commandes comme les Services de soutien de l'équipement de réseau (SSER). Les fonctions IPv6 énoncées dans la présente Ligne directrice devraient être intégrées à ces modes d'approvisionnement lorsque l'équipement réseau IP est précisé.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "This guideline supports the by providing functional specialists, within Government of Canada departments and at Shared Services Canada, with network equipment procurement guidance to assist in the adoption of .",
-    "fr": "À l'appui de la , la présente Ligne directrice fournit aux spécialistes fonctionnels des ministères du gouvernement du Canada et de Services partagés Canada des conseils sur l'approvisionnement en matière d’équipement réseau pour les aider à adopter le format ."
+    "en": "This guideline supports the Directive on Management of Information Technology by providing functional specialists, within Government of Canada departments and at Shared Services Canada, with network equipment procurement guidance to assist in the adoption of IPv6.",
+    "fr": "À l'appui de la Directive sur la gestion des technologies de l'information, la présente Ligne directrice fournit aux spécialistes fonctionnels des ministères du gouvernement du Canada et de Services partagés Canada des conseils sur l'approvisionnement en matière d’équipement réseau pour les aider à adopter le formatIPv6.",
+    "anchor": "6",
+    "tag": "p"
   },
   {
     "en": "The target audience for this guideline includes Government of Canada departmental clients, technical authorities, network architects, network procurement technical analysts and contracting authorities.",
-    "fr": "Le public visé par la présente Ligne directrice comprend des clients ministériels du gouvernement du Canada, des autorités techniques, des architectes de réseau, des analystes techniques de l'approvisionnement de réseau et des autorités contractantes."
+    "fr": "Le public visé par la présente Ligne directrice comprend des clients ministériels du gouvernement du Canada, des autorités techniques, des architectes de réseau, des analystes techniques de l'approvisionnement de réseau et des autorités contractantes.",
+    "anchor": "6",
+    "tag": "p"
   },
   {
-    "en": "There are numerous generic terms such as \" -enabled\", \" -ready\", \" -compatible\", and \" -capable\", that are used to identify functionality in network equipment. There is no standard interpretation of these terms, which can lead to confusion among buyers.",
-    "fr": "Divers termes génériques, notamment « -enabled » (prend en charge le format ), « -ready » (prêt pour le format ), « -compatible » (compatible avec le format ), and « -capable » (capable de supporter le format ) permettent de préciser la fonctionnalité de l'équipement réseau. Aucune interprétation normalisée ne s'applique à ces termes, qui peuvent être une source de confusion pour les acheteurs."
+    "en": "There are numerous generic terms such as \"IPv6-enabled\", \"IPv6-ready\", \"IPv6-compatible\", and \"IPv6-capable\", that are used to identifyIPv6 functionality in network equipment. There is no standard interpretation of these terms, which can lead to confusion among buyers.",
+    "fr": "Divers termes génériques, notamment « IPv6-enabled » (prend en charge le format IPv6), « IPv6-ready » (prêt pour le format IPv6), « IPv6-compatible » (compatible avec le formatIPv6), and « IPv6-capable » (capable de supporter le format IPv6) permettent de préciser la fonctionnalitéIPv6 de l'équipement réseau. Aucune interprétation normalisée ne s'applique à ces termes, qui peuvent être une source de confusion pour les acheteurs.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
-    "en": "In this guideline, the term \" -capable\" means network equipment that meets the set of functions identified in the .",
-    "fr": "Dans la présente Ligne directrice, le terme « -capable » désigne l'équipement réseau qui correspond à l'ensemble de fonctions décrit dans les ."
+    "en": "In this guideline, the term \"IPv6-capable\" means network equipment that meets the set of functions identified in the Technical Requirements for Internet Protocol Version 6 Network Equipment Procurement Guideline.",
+    "fr": "Dans la présente Ligne directrice, le terme « IPv6-capable » désigne l'équipement réseau qui correspond à l'ensemble de fonctions décrit dans les Exigences techniques relatives à la Ligne directrice sur l'achat d'équipement pour le réseau de la version 6 du protocole Internet.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
-    "en": "This document provides guidance for those procuring network equipment, by identifying functions that are essential to the proper functioning of equipment in a Government of Canada environment (see the ). A list of base functions that applies to all network equipment is followed by lists of functions that apply to the equipment when used in specific situations. Following these is a section that addresses future needs, also organized according to the network scenario in which the equipment will be used.",
-    "fr": "Pour offrir des directives aux personnes qui achètent de l'équipement réseau, le présent document décrit les fonctions essentielles à l'exploitation appropriée de l'équipement dans le contexte du format du gouvernement du Canada (voir les ). Une liste des fonctions de base qui s'applique à tout l'équipement réseau est suivie de listes de fonctions qui s'appliquent à l'équipement que l'on utilise dans certaines situations précises. La section suivante traite des besoins futurs, qui sont également présentés selon le contexte dans lequel l'équipement sera utilisé."
+    "en": "This document provides guidance for those procuring network equipment, by identifying functions that are essential to the proper functioning of equipment in a Government of Canada IPv6 environment (see the Technical Requirements for Internet Protocol Version 6 Network Equipment Procurement Guideline). A list of base functions that applies to all network equipment is followed by lists of functions that apply to the equipment when used in specific situations. Following these is a section that addresses future needs, also organized according to the network scenario in which the equipment will be used.",
+    "fr": "Pour offrir des directives aux personnes qui achètent de l'équipement réseau, le présent document décrit les fonctions essentielles à l'exploitation appropriée de l'équipement dans le contexte du formatIPv6 du gouvernement du Canada (voir lesExigences techniques relatives à la Ligne directrice sur l'achat d'équipement pour le réseau de la version 6 du protocole Internet). Une liste des fonctions de base qui s'applique à tout l'équipement réseau est suivie de listes de fonctions qui s'appliquent à l'équipement que l'on utilise dans certaines situations précises. La section suivante traite des besoins futurs, qui sont également présentés selon le contexte dans lequel l'équipement sera utilisé.",
+    "anchor": "8",
+    "tag": "p"
   },
   {
-    "en": "When preparing network equipment requirements, buyers should include the functions referred to above, as specified in the .",
-    "fr": "Lors de l'élaboration des exigences relatives à l'équipement réseau, les acheteurs doivent tenir compte des fonctions susmentionnées, conformément aux ."
+    "en": "When preparing network equipment requirements, buyers should include the IPv6 functions referred to above, as specified in the Technical Requirements for Internet Protocol Version 6 Network Equipment Procurement Guideline.",
+    "fr": "Lors de l'élaboration des exigences relatives à l'équipement réseau, les acheteurs doivent tenir compte des fonctionsIPv6 susmentionnées, conformément aux Exigences techniques relatives à la Ligne directrice sur l'achat d'équipement pour le réseau de la version 6 du protocole Internet.",
+    "anchor": "8",
+    "tag": "p"
   },
   {
-    "en": "It is possible that not all functions listed are currently supported by all vendors and that some of the quoted Internet standards may be updated or become obsolete. As a result, a \"best fit\" may be required when equipment must be replaced due to end-of-life or other considerations, and cannot wait for the availability of the full functionality recommended in this guideline.",
-    "fr": "Il se peut que les fournisseurs n'offrent pas toutes les fonctions énumérées et qu'une partie des normes Web citées soit mise à jour ou obsolète. Par conséquent, on peut devoir déterminer le scénario optimal lorsque l'équipement doit être remplacé, à la fin de sa durée de vie ou pour d'autres raisons, et que l'on ne peut attendre la mise en œuvre de la fonctionnalité complète du format recommandée dans la présente Ligne directrice."
+    "en": "It is possible that not all functions listed are currently supported by all vendors and that some of the quoted Internet standards may be updated or become obsolete. As a result, a \"best fit\" may be required when equipment must be replaced due to end-of-life or other considerations, and cannot wait for the availability of the fullIPv6 functionality recommended in this guideline.",
+    "fr": "Il se peut que les fournisseurs n'offrent pas toutes les fonctions énumérées et qu'une partie des normes Web citées soit mise à jour ou obsolète. Par conséquent, on peut devoir déterminer le scénario optimal lorsque l'équipement doit être remplacé, à la fin de sa durée de vie ou pour d'autres raisons, et que l'on ne peut attendre la mise en œuvre de la fonctionnalité complète du format IPv6 recommandée dans la présente Ligne directrice.",
+    "anchor": "8",
+    "tag": "p"
   },
   {
-    "en": "Although beyond the scope of this guideline, buyers may also wish to specify performance requirements (e.g., throughput, latency, packet loss, jitter), for both and for the equipment being procured, because their performance characteristics may differ. This could be particularly noticeable in cases where functionality requires additional hardware or software modules.",
-    "fr": "Bien que cela dépasse la portée de la présente Ligne directrice, les acheteurs peuvent également préciser des exigences en matière de rendement (p. ex., capacité de production, latence, perte de paquets, gigue), pour les formats et , de l'équipement acheté, car les caractéristiques du rendement peuvent varier. Cela peut être particulièrement évident lorsque la fonctionnalité exige des modules matériels ou logiciels supplémentaires."
+    "en": "Although beyond the scope of this guideline, buyers may also wish to specify performance requirements (e.g., throughput, latency, packet loss, jitter), for both IPv4 andIPv6 for the equipment being procured, because their performance characteristics may differ. This could be particularly noticeable in cases where IPv6 functionality requires additional hardware or software modules.",
+    "fr": "Bien que cela dépasse la portée de la présente Ligne directrice, les acheteurs peuvent également préciser des exigences en matière de rendement (p. ex., capacité de production, latence, perte de paquets, gigue), pour les formatsIPv4 et IPv6, de l'équipement acheté, car les caractéristiques du rendement peuvent varier. Cela peut être particulièrement évident lorsque la fonctionnalité IPv6 exige des modules matériels ou logiciels supplémentaires.",
+    "anchor": "8",
+    "tag": "p"
   },
   {
-    "en": "For questions on this policy instrument, please contact .",
-    "fr": "Pour toute question sur le présent instrument de politique, veuillez communiquer avec l'Équipe responsable des ."
+    "en": "Policy on Management of Information TechnologyDirective on Management of Information TechnologyPolicy on Government SecurityOperational Security Standard: Management of Information Technology Security (MITS)Policy on the Planning and Management of Investment",
+    "fr": "Politique sur la gestion des technologies de l'informationDirective sur la gestion des technologies de l'informationPolitique sur la sécurité du gouvernementNorme opérationnelle de sécurité : Gestion de la sécurité des technologies de l'information (GSTI)Politique sur la planification et la gestion des investissements",
+    "anchor": "9",
+    "tag": "section"
+  },
+  {
+    "en": "Financial Administration Act",
+    "fr": "Loi sur la gestion des finances publiques",
+    "anchor": "9",
+    "tag": "section"
+  },
+  {
+    "en": "Policy on Management of Information TechnologyDirective on Management of Information TechnologyPolicy on Government SecurityOperational Security Standard: Management of Information Technology Security (MITS)Policy on the Planning and Management of Investment",
+    "fr": "Politique sur la gestion des technologies de l'informationDirective sur la gestion des technologies de l'informationPolitique sur la sécurité du gouvernementNorme opérationnelle de sécurité : Gestion de la sécurité des technologies de l'information (GSTI)Politique sur la planification et la gestion des investissements",
+    "anchor": "9.1",
+    "tag": "ul"
+  },
+  {
+    "en": "Financial Administration Act",
+    "fr": "Loi sur la gestion des finances publiques",
+    "anchor": "9.2",
+    "tag": "ul"
   }
 ]

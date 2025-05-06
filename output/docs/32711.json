@@ -1,238 +1,116 @@
 [
   {
+    "en": "These profiles provide details in support of requirement 4.4.1.1 of the Directive on Service and Digital.The specifications for the GC IT User and Call Centre User profiles are:A single portable computing device.A single keyboard and input device.All computing devices have camera, microphone, and Wi-Fi network connectivity enabled.A single licence to the Microsoft Office M365 E3 subscription.A limit of one non-Microsoft Office M365 account for audio/web/video conferencing.A single individual enterprise email account.A single GC Digital Identity.A limit of one cellular device and one lowest-tier cellular plan.A second cellular device and second cellular plan as required for secure/classified information or communications.Eligible to be assigned a single Government of Canada Secret Infrastructure (GCSI) account.Eligible to be assigned secure remote access (SRA).The specifications for the Remote/Field User and the Policing/Enforcement/Intelligence User in addition to the GC IT User are:Eligible for ruggedized portable computing device.Eligible for high-data limit cellular plans if principally working remotely.The specifications for the High-security User in addition to the GC IT User are:Eligible for computing device to be desktop computer.Eligible to have camera, microphone, or Wi-Fi functionalities disabled.Eligible to be assigned fixed telephony devices (Voice over Internet Protocol (VoIP), or other fixed line) if cell signal is not permitted in their work environment.The specifications for the Scientist/Lab User, Data Scientist/Analyst, and Software Developer / Power User / Graphic Designer in addition to the GC IT User are:Eligible to have a high-performance device as their base computing device.The specifications for the International Users in addition to the GC Office User are:Eligible to be assigned cellular plans appropriate for international use.Eligible to be assigned additional digital identities or third-party credentials.The base specifications for all individual and collaborative workpoint profiles are:Cellular and Wireless connectivity, with minimum -60 decibel-milliwatts (dBm) signal strength.The specifications for all individual workpoint profiles in addition to the base specified in E.2.1 are:Two screen display (monitor) devices.Screen displays have rotate, tilt, and height-adjust capabilities.Minimum screen size is 22 inches per screen.Port replicators for connection to a portable computing device.Small Workspaces may have zero or one screen display (monitor) devices.The specifications for Fixed-line Workpoints in addition to the base individual workpoint profiles are:One fixed telephony/network connection.The specifications for High-security Workpoints in addition to the base individual workpoint profiles are:Eligible for a secure desktop computer.Fixed network connection(s) to secret networks.Cell signals and wireless connectivity can be restricted.Eligible for fixed telephony, or secure fixed telephony.The specifications for High-bandwidth Workpoints in addition to the base individual workpoint profiles are:A fixed network connection point of minimum 1 Gigabit per second (Gbps).The specifications for Commissionaires Desks in addition to the base individual workpoint profiles are:One fixed telephony/network connection point.The specifications for Phone Booths are:One fixed telephony/network connection point.The specifications for all collaborative workpoint profiles in addition to the base are:Each floor in a GC building should have, at minimum, three equally spaced fixed telephony/network connection points, for backup and emergency connection purposes.The specifications for Boardrooms and Collaborative Spaces in addition to the base collaborative workpoint profiles are:At minimum, one fixed telephony/network connection point, with additional connection points possible based on their size.At minimum, one display device of at least 48 inches.Display devices include HDMI connections, and boardroom screens have screen-casting / screen-sharing capabilities.Boardrooms include cameras and microphones, as appropriate, for audio or video conferencinE.Microsoft Office 365 compatible technologies for any new implementations.The specifications for Equipment Area in addition to the base collaborative workpoint profiles are:One fixed telephony/network connection point for each communication device in the centre.The specifications for Lobby and Public Access Zones in addition to the base collaborative workpoint profiles are:Availability of guest Wi-Fi.Fixed-line telephony.",
+    "fr": "Ces profils fournissent des détails à l’appui de l’exigence 4.4.1.1 de la Directive sur les services et le numérique.Les spécifications pour les profils d’utilisateur de TI du GC et d’utilisateur du centre d’appels sont les suivantes :Un seul appareil informatique portatif.Un seul clavier et périphérique d’entrée.Tous les appareils informatiques sont équipés d’une caméra, d’un microphone et d’une capacité de connexion à un réseau Wi-Fi.Une licence unique pour l’abonnement à Microsoft Office 365 E3.Limite d’un compte distinct de Microsoft Office 365 pour les conférences audio, Web et vidéo.Un seul compte de courriel individuel du GC.Une identité numérique unique du GC.Limite d’un appareil cellulaire et d’un plan cellulaire du niveau le plus bas.Un deuxième appareil cellulaire et un deuxième plan cellulaire, selon les besoins, pour des communications ou des renseignements protégés ou classifiés.Admissibilité à un seul compte de l’Infrastructure secrète du gouvernement du Canada (ISGC).Admissibilité à un accès à distance sécurisé. (ADS).Les spécifications pour l’utilisateur à distance ou sur le terrain sont les suivantes et l’utilisateur des services de police, de l’application de la loi et du renseignement sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :Admissibilité à un appareil informatique portatif robuste.Admissibilité aux forfaits cellulaires à haute limite de données s’il travaille principalement à distance.Les spécifications pour l’utilisateur à sécurité élevée sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :Admissibilité à ce que l’appareil informatique soit un ordinateur de bureau.Admissibilité à ce que des fonctions de caméra, de microphone ou de Wi-Fi soient désactivées.Admissibilité à se voir assigner des appareils de téléphonie fixes (voix sur IP ou autres lignes fixes) si un signal cellulaire n’est pas autorisé dans l’environnement de travail.Les spécifications pour le scientifique ou utilisateur de laboratoire, le scientifique ou analyste des données et le développeur de logiciels ou utilisateur avancé sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :Admissibilité à avoir un appareil à haut rendement en tant qu’appareil informatique de base.Les spécifications pour les utilisateurs internationaux sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :Admissibilité à l’attribution de plans de téléphonie cellulaire adaptés à un usage international.Admissibilité à l’attribution d’identités numériques supplémentaires ou de justificatifs d’identité de tiers.Les spécifications de base pour tous les profils des points de travail individuels et collaboratifs sont les suivantes :Connectivité cellulaire et sans fil, avec une puissance de signal d’au moins -60 décibels-milliwatts (dBm).Les spécifications pour tous les profils des points de travail individuels sont les suivantes, en plus des spécifications de base :Appareils dotés de deux écrans (moniteurs).Les écrans doivent être ajustables sur tous les axes.La taille minimale de chaque écran est de 22 pouces.Duplicateurs de ports pour la connexion à un appareil informatique portatif.Les petits points de travail peuvent comporter un écran (moniteur), ou en être dépourvus.Les spécifications pour les postes de travail à ligne fixe sont les suivantes, en plus des spécifications pour les points de travail individuels de base:Connexion à une ligne téléphonique ou à un réseau fixe.Les spécifications pour les postes de travail à sécurité élevée sont les suivantes, en plus des spécifications pour les points de travail individuels de base :Admissibilité à un ordinateur de bureau sécurisé.Connexion du réseau fixe aux réseaux secrets.Les signaux cellulaires et la connectivité sans fil peuvent être restreints.Admissibilité à la téléphonie fixe ou à la téléphonie fixe sécurisée.Les spécifications pour les postes de travail à bande passante élevée sont les suivantes, en plus des spécifications pour les points de travail individuels de base :Point de connexion fixe d’au moins 1 gigabit par seconde (Gb/s).Les spécifications pour les bureaux des commissionnaires sont les suivantes, en plus des spécifications pour les points de travail individuels de base :Un point de raccordement à une ligne téléphonique ou à un réseau fixe.Les spécifications pour les cabines téléphoniques sont les suivantes :Un point de raccordement à une ligne téléphonique ou à un réseau fixe.Les spécifications pour tous les profils collaboratifs sont les suivantes, en plus des spécifications pour les profils de base :Chaque étage d’un immeuble du GC doit être doté d’au moins trois points de raccordement à un réseau ou à une ligne téléphonique fixes situés à égale distance pour répondre aux besoins de sauvegarde et de connexion d’urgence.Les spécifications pour les salles de conférence sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :Les salles de conférence doivent être dotées au minimum d’un point de raccordement à une ligne téléphonique ou à un réseau fixe, et offrir des points de raccordement additionnels en fonction de la taille de la salle.Au moins un dispositif d’affichage d’au moins 48 pouces.Les dispositifs d’affichage comprennent des connexions HDMI, et les écrans de salle de conférence ont des capacités de diffusion et de partage d’écran.Les salles de conférence comprennent des caméras et des microphones, selon le cas, pour les conférences audio ou vidéo.Technologies compatibles avec Microsoft Office 365 pour toute nouvelle mise en œuvre.Les spécifications pour les zones d’équipement sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :Un point de raccordement à une ligne téléphonique ou à un réseau fixe pour chaque dispositif de communication dont le centre est doté.Les spécifications pour le vestibule et les zones d’accès public sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :Disponibilité du Wi-Fi pour les invités.Téléphonie à ligne fixe.",
+    "anchor": "Appendix E",
+    "tag": "chapter"
+  },
+  {
     "en": "The specifications for the GC IT User and Call Centre User profiles are:",
-    "fr": "Les spécifications pour les profils d’utilisateur de TI du GC et d’utilisateur du centre d’appels sont les suivantes :"
+    "fr": "Les spécifications pour les profils d’utilisateur de TI du GC et d’utilisateur du centre d’appels sont les suivantes :",
+    "anchor": "E.1.2",
+    "tag": "p"
   },
   {
     "en": "A limit of one cellular device and one lowest-tier cellular plan.",
-    "fr": "Limite d’un appareil cellulaire et d’un plan cellulaire du niveau le plus bas."
+    "fr": "Limite d’un appareil cellulaire et d’un plan cellulaire du niveau le plus bas.",
+    "anchor": "E.1.2.8",
+    "tag": "p"
   },
   {
     "en": "The specifications for the Remote/Field User and the Policing/Enforcement/Intelligence User in addition to the GC IT User are:",
-    "fr": "Les spécifications pour l’utilisateur à distance ou sur le terrain sont les suivantes et l’utilisateur des services de police, de l’application de la loi et du renseignement sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :"
+    "fr": "Les spécifications pour l’utilisateur à distance ou sur le terrain sont les suivantes et l’utilisateur des services de police, de l’application de la loi et du renseignement sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :",
+    "anchor": "E.1.3",
+    "tag": "p"
   },
   {
     "en": "The specifications for the High-security User in addition to the GC IT User are:",
-    "fr": "Les spécifications pour l’utilisateur à sécurité élevée sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :"
+    "fr": "Les spécifications pour l’utilisateur à sécurité élevée sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :",
+    "anchor": "E.1.4",
+    "tag": "p"
   },
   {
     "en": "The specifications for the Scientist/Lab User, Data Scientist/Analyst, and Software Developer / Power User / Graphic Designer in addition to the GC IT User are:",
-    "fr": "Les spécifications pour le scientifique ou utilisateur de laboratoire, le scientifique ou analyste des données et le développeur de logiciels ou utilisateur avancé sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :"
+    "fr": "Les spécifications pour le scientifique ou utilisateur de laboratoire, le scientifique ou analyste des données et le développeur de logiciels ou utilisateur avancé sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :",
+    "anchor": "E.1.5",
+    "tag": "p"
   },
   {
     "en": "The specifications for the International Users in addition to the GC Office User are:",
-    "fr": "Les spécifications pour les utilisateurs internationaux sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :"
+    "fr": "Les spécifications pour les utilisateurs internationaux sont les suivantes, en plus des spécifications pour l’utilisateur de TI du GC :",
+    "anchor": "E.1.6",
+    "tag": "p"
   },
   {
     "en": "The base specifications for all individual and collaborative workpoint profiles are:",
-    "fr": "Les spécifications de base pour tous les profils des points de travail individuels et collaboratifs sont les suivantes :"
-  },
-  {
-    "en": "The specifications for all individual workpoint profiles in addition to the base specified in E.2.1 are:",
-    "fr": "Les spécifications pour tous les profils des points de travail individuels sont les suivantes, en plus des spécifications de base :"
-  },
-  {
-    "en": "Two screen display (monitor) devices.",
-    "fr": "Appareils dotés de deux écrans (moniteurs)."
-  },
-  {
-    "en": "The specifications for Fixed-line Workpoints in addition to the base individual workpoint profiles are:",
-    "fr": "Les spécifications pour les postes de travail à ligne fixe sont les suivantes, en plus des spécifications pour les points de travail individuels de base:"
-  },
-  {
-    "en": "The specifications for High-security Workpoints in addition to the base individual workpoint profiles are:",
-    "fr": "Les spécifications pour les postes de travail à sécurité élevée sont les suivantes, en plus des spécifications pour les points de travail individuels de base :"
-  },
-  {
-    "en": "The specifications for High-bandwidth Workpoints in addition to the base individual workpoint profiles are:",
-    "fr": "Les spécifications pour les postes de travail à bande passante élevée sont les suivantes, en plus des spécifications pour les points de travail individuels de base :"
-  },
-  {
-    "en": "The specifications for Commissionaires Desks in addition to the base individual workpoint profiles are:",
-    "fr": "Les spécifications pour les bureaux des commissionnaires sont les suivantes, en plus des spécifications pour les points de travail individuels de base :"
-  },
-  {
-    "en": "The specifications for Phone Booths are:",
-    "fr": "Les spécifications pour les cabines téléphoniques sont les suivantes :"
-  },
-  {
-    "en": "The specifications for all collaborative workpoint profiles in addition to the base are:",
-    "fr": "Les spécifications pour tous les profils collaboratifs sont les suivantes, en plus des spécifications pour les profils de base :"
-  },
-  {
-    "en": "The specifications for Boardrooms and Collaborative Spaces in addition to the base collaborative workpoint profiles are:",
-    "fr": "Les spécifications pour les salles de conférence sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :"
+    "fr": "Les spécifications de base pour tous les profils des points de travail individuels et collaboratifs sont les suivantes :",
+    "anchor": "E.2.1",
+    "tag": "p"
   },
   {
     "en": "The specifications for Equipment Area in addition to the base collaborative workpoint profiles are:",
-    "fr": "Les spécifications pour les zones d’équipement sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :"
+    "fr": "Les spécifications pour les zones d’équipement sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :",
+    "anchor": "E.2.10",
+    "tag": "p"
   },
   {
     "en": "The specifications for Lobby and Public Access Zones in addition to the base collaborative workpoint profiles are:",
-    "fr": "Les spécifications pour le vestibule et les zones d’accès public sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :"
+    "fr": "Les spécifications pour le vestibule et les zones d’accès public sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :",
+    "anchor": "E.2.11",
+    "tag": "p"
   },
   {
-    "en": "These profiles provide details in support of requirement 4.4.1.1 of the Directive on Service and Digital.",
-    "fr": "Ces profils fournissent des détails à l’appui de l’exigence 4.4.1.1 de la Directive sur les services et le numérique."
+    "en": "The specifications for all individual workpoint profiles in addition to the base specified in E.2.1 are:",
+    "fr": "Les spécifications pour tous les profils des points de travail individuels sont les suivantes, en plus des spécifications de base :",
+    "anchor": "E.2.2",
+    "tag": "p"
   },
   {
-    "en": "A single portable computing device.",
-    "fr": "Un seul appareil informatique portatif."
+    "en": "Two screen display (monitor) devices.",
+    "fr": "Appareils dotés de deux écrans (moniteurs).",
+    "anchor": "E.2.2.1",
+    "tag": "p"
   },
   {
-    "en": "A single keyboard and input device.",
-    "fr": "Un seul clavier et périphérique d’entrée."
+    "en": "The specifications for Fixed-line Workpoints in addition to the base individual workpoint profiles are:",
+    "fr": "Les spécifications pour les postes de travail à ligne fixe sont les suivantes, en plus des spécifications pour les points de travail individuels de base:",
+    "anchor": "E.2.3",
+    "tag": "p"
   },
   {
-    "en": "All computing devices have camera, microphone, and Wi-Fi network connectivity enabled.",
-    "fr": "Tous les appareils informatiques sont équipés d’une caméra, d’un microphone et d’une capacité de connexion à un réseau Wi-Fi."
+    "en": "The specifications for High-security Workpoints in addition to the base individual workpoint profiles are:",
+    "fr": "Les spécifications pour les postes de travail à sécurité élevée sont les suivantes, en plus des spécifications pour les points de travail individuels de base :",
+    "anchor": "E.2.4",
+    "tag": "p"
   },
   {
-    "en": "A single licence to the Microsoft Office M365 E3 subscription.",
-    "fr": "Une licence unique pour l’abonnement à Microsoft Office 365 E3."
+    "en": "The specifications for High-bandwidth Workpoints in addition to the base individual workpoint profiles are:",
+    "fr": "Les spécifications pour les postes de travail à bande passante élevée sont les suivantes, en plus des spécifications pour les points de travail individuels de base :",
+    "anchor": "E.2.5",
+    "tag": "p"
   },
   {
-    "en": "A limit of one non-Microsoft Office M365 account for audio/web/video conferencing.",
-    "fr": "Limite d’un compte distinct de Microsoft Office 365 pour les conférences audio, Web et vidéo."
+    "en": "The specifications for Commissionaires Desks in addition to the base individual workpoint profiles are:",
+    "fr": "Les spécifications pour les bureaux des commissionnaires sont les suivantes, en plus des spécifications pour les points de travail individuels de base :",
+    "anchor": "E.2.6",
+    "tag": "p"
   },
   {
-    "en": "A single individual enterprise email account.",
-    "fr": "Un seul compte de courriel individuel du GC."
+    "en": "The specifications for Phone Booths are:",
+    "fr": "Les spécifications pour les cabines téléphoniques sont les suivantes :",
+    "anchor": "E.2.7",
+    "tag": "p"
   },
   {
-    "en": "A single GC Digital Identity.",
-    "fr": "Une identité numérique unique du GC."
+    "en": "The specifications for all collaborative workpoint profiles in addition to the base are:",
+    "fr": "Les spécifications pour tous les profils collaboratifs sont les suivantes, en plus des spécifications pour les profils de base :",
+    "anchor": "E.2.8",
+    "tag": "p"
   },
   {
-    "en": "A second cellular device and second cellular plan as required for secure/classified information or communications.",
-    "fr": "Un deuxième appareil cellulaire et un deuxième plan cellulaire, selon les besoins, pour des communications ou des renseignements protégés ou classifiés."
-  },
-  {
-    "en": "Eligible to be assigned a single Government of Canada Secret Infrastructure (GCSI) account.",
-    "fr": "Admissibilité à un seul compte de l’Infrastructure secrète du gouvernement du Canada (ISGC)."
-  },
-  {
-    "en": "Eligible to be assigned secure remote access (SRA).",
-    "fr": "Admissibilité à un accès à distance sécurisé. (ADS)."
-  },
-  {
-    "en": "Eligible for ruggedized portable computing device.",
-    "fr": "Admissibilité à un appareil informatique portatif robuste."
-  },
-  {
-    "en": "Eligible for high-data limit cellular plans if principally working remotely.",
-    "fr": "Admissibilité aux forfaits cellulaires à haute limite de données s’il travaille principalement à distance."
-  },
-  {
-    "en": "Eligible for computing device to be desktop computer.",
-    "fr": "Admissibilité à ce que l’appareil informatique soit un ordinateur de bureau."
-  },
-  {
-    "en": "Eligible to have camera, microphone, or Wi-Fi functionalities disabled.",
-    "fr": "Admissibilité à ce que des fonctions de caméra, de microphone ou de Wi-Fi soient désactivées."
-  },
-  {
-    "en": "Eligible to be assigned fixed telephony devices (Voice over Internet Protocol (VoIP), or other fixed line) if cell signal is not permitted in their work environment.",
-    "fr": "Admissibilité à se voir assigner des appareils de téléphonie fixes (voix sur IP ou autres lignes fixes) si un signal cellulaire n’est pas autorisé dans l’environnement de travail."
-  },
-  {
-    "en": "Eligible to have a high-performance device as their base computing device.",
-    "fr": "Admissibilité à avoir un appareil à haut rendement en tant qu’appareil informatique de base."
-  },
-  {
-    "en": "Eligible to be assigned cellular plans appropriate for international use.",
-    "fr": "Admissibilité à l’attribution de plans de téléphonie cellulaire adaptés à un usage international."
-  },
-  {
-    "en": "Eligible to be assigned additional digital identities or third-party credentials.",
-    "fr": "Admissibilité à l’attribution d’identités numériques supplémentaires ou de justificatifs d’identité de tiers."
-  },
-  {
-    "en": "Cellular and Wireless connectivity, with minimum -60 decibel-milliwatts (dBm) signal strength.",
-    "fr": "Connectivité cellulaire et sans fil, avec une puissance de signal d’au moins -60 décibels-milliwatts (dBm)."
-  },
-  {
-    "en": "Screen displays have rotate, tilt, and height-adjust capabilities.",
-    "fr": "Les écrans doivent être ajustables sur tous les axes."
-  },
-  {
-    "en": "Minimum screen size is 22 inches per screen.",
-    "fr": "La taille minimale de chaque écran est de 22 pouces."
-  },
-  {
-    "en": "Port replicators for connection to a portable computing device.",
-    "fr": "Duplicateurs de ports pour la connexion à un appareil informatique portatif."
-  },
-  {
-    "en": "Small Workspaces may have zero or one screen display (monitor) devices.",
-    "fr": "Les petits points de travail peuvent comporter un écran (moniteur), ou en être dépourvus."
-  },
-  {
-    "en": "One fixed telephony/network connection.",
-    "fr": "Connexion à une ligne téléphonique ou à un réseau fixe."
-  },
-  {
-    "en": "Eligible for a secure desktop computer.",
-    "fr": "Admissibilité à un ordinateur de bureau sécurisé."
-  },
-  {
-    "en": "Fixed network connection(s) to secret networks.",
-    "fr": "Connexion du réseau fixe aux réseaux secrets."
-  },
-  {
-    "en": "Cell signals and wireless connectivity can be restricted.",
-    "fr": "Les signaux cellulaires et la connectivité sans fil peuvent être restreints."
-  },
-  {
-    "en": "Eligible for fixed telephony, or secure fixed telephony.",
-    "fr": "Admissibilité à la téléphonie fixe ou à la téléphonie fixe sécurisée."
-  },
-  {
-    "en": "A fixed network connection point of minimum 1 Gigabit per second (Gbps).",
-    "fr": "Point de connexion fixe d’au moins 1 gigabit par seconde (Gb/s)."
-  },
-  {
-    "en": "One fixed telephony/network connection point.",
-    "fr": "Un point de raccordement à une ligne téléphonique ou à un réseau fixe."
-  },
-  {
-    "en": "One fixed telephony/network connection point.",
-    "fr": "Un point de raccordement à une ligne téléphonique ou à un réseau fixe."
-  },
-  {
-    "en": "Each floor in a GC building should have, at minimum, three equally spaced fixed telephony/network connection points, for backup and emergency connection purposes.",
-    "fr": "Chaque étage d’un immeuble du GC doit être doté d’au moins trois points de raccordement à un réseau ou à une ligne téléphonique fixes situés à égale distance pour répondre aux besoins de sauvegarde et de connexion d’urgence."
-  },
-  {
-    "en": "At minimum, one fixed telephony/network connection point, with additional connection points possible based on their size.",
-    "fr": "Les salles de conférence doivent être dotées au minimum d’un point de raccordement à une ligne téléphonique ou à un réseau fixe, et offrir des points de raccordement additionnels en fonction de la taille de la salle."
-  },
-  {
-    "en": "At minimum, one display device of at least 48 inches.",
-    "fr": "Au moins un dispositif d’affichage d’au moins 48 pouces."
-  },
-  {
-    "en": "Display devices include HDMI connections, and boardroom screens have screen-casting / screen-sharing capabilities.",
-    "fr": "Les dispositifs d’affichage comprennent des connexions HDMI, et les écrans de salle de conférence ont des capacités de diffusion et de partage d’écran."
-  },
-  {
-    "en": "Boardrooms include cameras and microphones, as appropriate, for audio or video conferencinE.",
-    "fr": "Les salles de conférence comprennent des caméras et des microphones, selon le cas, pour les conférences audio ou vidéo."
-  },
-  {
-    "en": "Microsoft Office 365 compatible technologies for any new implementations.",
-    "fr": "Technologies compatibles avec Microsoft Office 365 pour toute nouvelle mise en œuvre."
-  },
-  {
-    "en": "One fixed telephony/network connection point for each communication device in the centre.",
-    "fr": "Un point de raccordement à une ligne téléphonique ou à un réseau fixe pour chaque dispositif de communication dont le centre est doté."
-  },
-  {
-    "en": "Availability of guest Wi-Fi.",
-    "fr": "Disponibilité du Wi-Fi pour les invités."
-  },
-  {
-    "en": "Fixed-line telephony.",
-    "fr": "Téléphonie à ligne fixe."
+    "en": "The specifications for Boardrooms and Collaborative Spaces in addition to the base collaborative workpoint profiles are:",
+    "fr": "Les spécifications pour les salles de conférence sont les suivantes, en plus en plus des spécifications pour les points de travail collaboratifs de base :",
+    "anchor": "E.2.9",
+    "tag": "p"
   }
 ]

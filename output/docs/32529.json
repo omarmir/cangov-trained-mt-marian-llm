@@ -1,30 +1,26 @@
 [
   {
-    "en": "This document is part of the Appendix A of the .",
-    "fr": "Ce document fait partie de l’Annexe A de la ."
-  },
-  {
-    "en": "The classification structure for the Accounts of Canada is composed of the following six elements:",
-    "fr": "La structure de classification des comptes du Canada regroupe les six éléments suivants :"
-  },
-  {
     "en": "N/A",
-    "fr": "S/O"
+    "fr": "S/O",
+    "anchor": "A",
+    "tag": "ul"
   },
   {
-    "en": "The objectives of this section are to:",
-    "fr": "Les objectifs de la section sont les suivants :"
+    "en": "April 1, 2017",
+    "fr": "Le 1er avril 2017",
+    "anchor": "B",
+    "tag": "p"
   },
   {
-    "en": "Ensure the organization’s classification of accounts structure is soundly managed and is based on the government-wide classification structure which allows for accurate identification, aggregation and reporting of financial transactions.",
-    "fr": "Veiller à ce que la structure organisationnelle de classification des comptes soit gérée de façon rigoureuse et conforme à la structure de classification dans l’ensemble du gouvernement, qui permet de réaliser avec précision l’identification et le regroupement des opérations financières ainsi que l’établissement de rapports à leur endroit."
+    "en": "The objectives of this section are to:Ensure the organization’s classification of accounts structure is soundly managed and is based on the government-wide classification structure which allows for accurate identification, aggregation and reporting of financial transactions.Ensure that the financial information is accurately reported in the Public Accounts of Canada and departmental accounts.The Accounts of Canada are a centralized record of the financial transactions and account balances of the Government of Canada, maintained by the Receiver General. The Accounts of Canada consist of the summarized classification of transactions and account balances by responsibility, financial reporting, authority, program, object and transaction type.The classification structure for the Accounts of Canada is composed of the following six elements:Authority classificationIs the authority (parliamentary appropriation (vote), statute or other legislative authority) under which the financial transaction is authorized. It also identifies whether the transaction is budgetary or non-budgetary and statutory or non-statutory.Financial reporting classificationIdentifies the relevant asset, liability, equity, revenue or expense account and is used to maintain the accounts in the “Receiver General-General Ledger” and to prepare financial statements and the Public Accounts of Canada.Object classificationIdentifies the type of goods or services acquired, the transfer payments made, the source of receipts or the cause of increases or decreases in assets and liabilities.Program classificationIdentifies the core responsibility within the Departmental Results Framework to which a financial transaction is associated. When applicable, the core responsibility must be broken down further to the Program Inventory to capture the lowest level.Responsibility classificationIdentifies the organizational unit that is responsible and accountable for the transaction. The responsibility structure must be consistent with the organizational structure to allow aggregation at the department or agency level.Transaction type (internal/external) classificationIdentifies transactions as being either internal to the government or external (i.e., related to parties outside the Government of Canada reporting entity), allowing the government to produce consolidated financial statements that exclude internal transactions.",
+    "fr": "Les objectifs de la section sont les suivants :Veiller à ce que la structure organisationnelle de classification des comptes soit gérée de façon rigoureuse et conforme à la structure de classification dans l’ensemble du gouvernement, qui permet de réaliser avec précision l’identification et le regroupement des opérations financières ainsi que l’établissement de rapports à leur endroit.S’assurer que les renseignements financiers sont enregistrés avec exactitude dans les Comptes publics du Canada et les comptes ministériels.Les Comptes du Canada est le registre central tenu par le receveur général pour l’enregistrement des opérations financières et des soldes de compte du gouvernement du Canada. Les comptes du Canada comprennent une classification récapitulative des opérations et des soldes de compte par responsabilité, par rapports financiers, par autorité, par programme, par objet et par type d’opération.La structure de classification des comptes du Canada regroupe les six éléments suivants :Classification par autorisationReprésente l’autorité (crédit parlementaire, loi ou autre autorisation législative) en vertu de laquelle l’opération financière est autorisée. Elle permet également de déterminer si l’opération est budgétaire ou non budgétaire et si elle a ou non un caractère législatif.Classification par rapports financiersDésigne le compte pertinent de l’actif, du passif, des capitaux propres, des revenus ou des charges en vue de la tenue à jour du Grand livre général du receveur général et de l’établissement des états financiers et des Comptes publics du Canada.Classification par objetDésigne le type de biens ou de services acquis, les paiements de transfert, la source de revenus ou la cause des augmentations ou des diminutions de l’actif et du passif.Classification par programmeDésigne la responsabilité fondamentale à l’intérieur du Cadre des résultats ministériels à laquelle l’opération financière est associée. Au besoin, ventiler la responsabilité fondamentale jusqu’au niveau du Répertoire des programmes afin d’inclure le niveau le plus bas.Classification par responsabilitéDésigne l’unité organisationnelle qui est responsable de l’opération et qui doit en rendre compte. La structure de responsabilité doit être conforme à la structure organisationnelle pour permettre le regroupement au niveau du ministère ou de l’organismeClassification par type d’opération (interne et externe)Détermine les opérations gouvernementales comme étant internes ou externes (c.-à-d. celles ne faisant pas partie de l’entité de déclaration du gouvernement du Canada), ce qui permet l’établissement d’états financiers consolidés qui excluent les opérations internes.",
+    "anchor": "C",
+    "tag": "ol"
   },
   {
-    "en": "Ensure that the financial information is accurately reported in the Public Accounts of Canada and departmental accounts.",
-    "fr": "S’assurer que les renseignements financiers sont enregistrés avec exactitude dans les Comptes publics du Canada et les comptes ministériels."
-  },
-  {
-    "en": "The Accounts of Canada are a centralized record of the financial transactions and account balances of the Government of Canada, maintained by the Receiver General. The Accounts of Canada consist of the summarized classification of transactions and account balances by responsibility, financial reporting, authority, program, object and transaction type.",
-    "fr": "Les Comptes du Canada est le registre central tenu par le receveur général pour l’enregistrement des opérations financières et des soldes de compte du gouvernement du Canada. Les comptes du Canada comprennent une classification récapitulative des opérations et des soldes de compte par responsabilité, par rapports financiers, par autorité, par programme, par objet et par type d’opération."
+    "en": "Government-wide chart of accounts for Canada - Receiver General for Canada – PSPC",
+    "fr": "Plan comptable à l’échelle de l’administration fédérale - Receveur général du Canada - SPAC",
+    "anchor": "D",
+    "tag": "ul"
   }
 ]

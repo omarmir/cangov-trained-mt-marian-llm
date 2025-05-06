@@ -1,526 +1,260 @@
 [
   {
-    "en": "Appendices F, G and H set out the authorities that are required from Treasury Board with respect to managing a programme. The content of the appendices has been developed based on international best practices and in consultation with pathfinder programmes in the Government of Canada context. Given that programme management is new to the Government of Canada, these appendices are a first iteration and may be revised to incorporate lessons from the management of different types of programmes across the government.",
-    "fr": "Les annexes F, G et H énoncent les autorisations requises de la part du Conseil du Trésor en ce qui concerne la gestion d’un programme. Leur contenu a été élaboré à partir des pratiques exemplaires internationales et en consultation avec les programmes exploratoires dans le contexte du gouvernement du Canada. La gestion des programmes étant une nouveauté pour le gouvernement du Canada, ces annexes sont une première version et peuvent être révisées pour tenir compte des leçons tirées de la gestion de différents types de programmes au sein du gouvernement."
-  },
-  {
     "en": "This directive replaces the following Treasury Board policy instruments:",
-    "fr": "Cette directive remplace les instruments du Conseil du Trésor suivants :"
+    "fr": "Cette directive remplace les instruments du Conseil du Trésor suivants :",
+    "anchor": "1.2",
+    "tag": "p"
   },
   {
-    "en": "Departments will have six months to transition to the new directive. With the following exceptions, requirements will come into full effect on .",
-    "fr": "Les ministères disposeront de six mois pour adopter progressivement cette nouvelle directive. À l’exception de ce qui suit, les exigences entreront totalement en vigueur le :"
+    "en": "Policy on the Management of Projects (December 10, 2009)Standard for Organizational Project Management Capacity (December 09, 2010)Standard for Project Complexity and Risk (December 09, 2010)",
+    "fr": "Politique sur la gestion des projets (10 décembre, 2009);Norme relative à la capacité organisationnelle de gestion de projet (9 décembre, 2010);Norme relative à la complexité et aux risques des projets (9 décembre, 2010).",
+    "anchor": "1.2",
+    "tag": "ul"
+  },
+  {
+    "en": "Departments will have six months to transition to the new directive. With the following exceptions, requirements will come into full effect on October 11, 2019.",
+    "fr": "Les ministères disposeront de six mois pour adopter progressivement cette nouvelle directive. À l’exception de ce qui suit, les exigences entreront totalement en vigueur le 11 avril, 2019 :",
+    "anchor": "1.3",
+    "tag": "p"
   },
   {
     "en": "Effective immediately:",
-    "fr": "Entre en vigueur immédiatement :"
+    "fr": "Entre en vigueur immédiatement :",
+    "anchor": "1.3.1",
+    "tag": "p"
+  },
+  {
+    "en": "Appendix C: Project Approval Limits",
+    "fr": "l’annexe C : Limites d’approbation des projets.",
+    "anchor": "1.3.1",
+    "tag": "ul"
   },
   {
     "en": "Effective one year from the effective date in section 1.1:",
-    "fr": "En vigueur un an après la date d’entrée en vigueur indiquée à l’article 1.1 :"
-  },
-  {
-    "en": "The expected results of this directive are as follows:",
-    "fr": "Les résultats attendus de cette directive sont les suivants :"
-  },
-  {
-    "en": "Senior designated official(s) for the management of projects and programmes",
-    "fr": "Cadres supérieurs désignés aux fins de la gestion des projets et des programmes"
-  },
-  {
-    "en": "The senior designated official(s) for the management of projects and programmes is responsible for the following:",
-    "fr": "Le cadre supérieur désigné (ou les cadres supérieurs désignés) pour la gestion des projets et des programmes assume (assument) les responsabilités suivantes :"
-  },
-  {
-    "en": "Embedding within the project and programme framework an approach to project gating, that establishes;",
-    "fr": "Intégrer dans le cadre des projets et des programmes une approche par points de contrôle qui établit :"
-  },
-  {
-    "en": "Supporting management and expenditure decision-making, accountability, and transparency by establishing:",
-    "fr": "Soutenir la prise de décision en matière de gestion et de dépenses ainsi que la responsabilisation et la transparence, en établissant :"
-  },
-  {
-    "en": "For all projects with a total cost of $25 million or greater, collecting and submitting to the Office of the Comptroller General, baseline project information on scope, schedule, costs, and risks, following receipt of:",
-    "fr": "Pour tous les projets dont le coût total est de 25 millions de dollars et plus, recueillir et présenter au Bureau du contrôleur général des renseignements de base sur la portée, l’échéancier, les coûts et les risques à la suite :"
-  },
-  {
-    "en": "The project sponsor (programme sponsor) is responsible for the following:",
-    "fr": "Promoteur de projet (ou promoteur de programme)"
-  },
-  {
-    "en": "Exercising due care in the assignment of the project manager by ensuring the project manager has the required competencies and experience to manage:",
-    "fr": "Le promoteur de projet (ou promoteur de programme) assume les responsabilités suivantes :"
-  },
-  {
-    "en": "Additional governance requirements for joint and enterprise projects and programmes",
-    "fr": "Faire preuve de prudence concernant la désignation du gestionnaire de projet en veillant à ce que ce dernier possède les compétences et l’expérience requises pour gérer :"
-  },
-  {
-    "en": "Establishing a project gating plan at the outset of the project, consistent with the department’s framework, that;",
-    "fr": "Exigences supplémentaires en matière de gouvernance dans le cadre des projets et des programmes communs et organisationnels"
-  },
-  {
-    "en": "Additional gating requirements for joint and enterprise projects",
-    "fr": "Mettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui :"
-  },
-  {
-    "en": "To support transition of the project or programme to operations, ensuring that:",
-    "fr": "Exigences supplémentaires en matière de points de contrôle pour les projets communs et organisationnels"
-  },
-  {
-    "en": "Additional requirements for joint and enterprise projects and programmes",
-    "fr": "Afin d’appuyer la transition du projet ou programme vers les opérations, s’assurer que :"
-  },
-  {
-    "en": "Other roles",
-    "fr": "Exigences supplémentaires en matière de projets et de programmes communs et organisationnels"
-  },
-  {
-    "en": "The Secretary of the Treasury Board is responsible for the following:",
-    "fr": "Autres rôles"
-  },
-  {
-    "en": "The Comptroller General of Canada is responsible for:",
-    "fr": "Le secrétaire du Conseil du Trésor est responsable :"
-  },
-  {
-    "en": "The Chief Information Officer of Canada is responsible for:",
-    "fr": "Le contrôleur général du Canada est responsable de :"
-  },
-  {
-    "en": "Establishing a digital investment oversight program and, as part of that program:",
-    "fr": "Le dirigeant principal de l’information du Canada assume les responsabilités suivantes :"
-  },
-  {
-    "en": "Conducting oversight activities with respect to identified digital projects or programmes, including:",
-    "fr": "Établir un programme de surveillance de l’investissement numérique et, dans le cadre de ce programme :"
-  },
-  {
-    "en": "Agents of Parliament",
-    "fr": "Tenir des activités de surveillance par rapport aux projets ou aux programmes numériques déterminés, y compris :"
-  },
-  {
-    "en": "The following organizations are considered agents of Parliament for the purposes of the directive:",
-    "fr": "Agents du Parlement"
-  },
-  {
-    "en": "With regard to the agents of Parliament, the following do not apply:",
-    "fr": "Les organisations suivantes sont considérées comme des agents du Parlement aux fins de la directive :"
-  },
-  {
-    "en": "Legislation",
-    "fr": "Ce qui suit ne s’applique pas aux agents du Parlement :"
-  },
-  {
-    "en": "Policies and related instruments",
-    "fr": "Législation"
-  },
-  {
-    "en": "( )",
-    "fr": "Policies and related instruments"
-  },
-  {
-    "en": "( )",
-    "fr": "( );"
-  },
-  {
-    "en": "( )",
-    "fr": "( );"
-  },
-  {
-    "en": "Appendix C: Project Approval Limits",
-    "fr": "( )."
+    "fr": "En vigueur un an après la date d’entrée en vigueur indiquée à l’article 1.1 :",
+    "anchor": "1.3.2",
+    "tag": "p"
   },
   {
     "en": "Requirement 4.1.6",
-    "fr": "l’annexe C : Limites d’approbation des projets."
+    "fr": "l’exigence 4.1.6.",
+    "anchor": "1.3.2",
+    "tag": "ul"
   },
   {
-    "en": "Project approval;",
-    "fr": "l’exigence 4.1.6."
+    "en": "The expected results of this directive are as follows:",
+    "fr": "Les résultats attendus de cette directive sont les suivants :",
+    "anchor": "3.2",
+    "tag": "p"
   },
   {
-    "en": "Expenditure authority;",
-    "fr": "d’une approbation de projet;"
+    "en": "Senior designated official(s) for the management of projects and programmes",
+    "fr": "Cadres supérieurs désignés aux fins de la gestion des projets et des programmes",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Amended project approval;",
-    "fr": "d’une autorisation de dépenser;"
+    "en": "Project sponsor (programme sponsor)The project sponsor (programme sponsor) is responsible for the following:The planning, definition, implementation, transition, and close-out of the project or programme;Leadership and alignmentProviding visible active leadership and timely direction to mitigate project and programme risks, resolve issues, and act on opportunities;Collaborating with key departmental stakeholders such as procurement, real property, information technology, finance, legal, and human resources in the planning and implementation of the project or programme;Where applicable, seeking integrated approval of the project, programme, procurement and real property authorities;Maintaining effective relationships with key external stakeholders including implicated departments and common service providers;Ensuring where business change is required to achieve the business outcomes, that the project and programme scope of work includes all the activities and outputs necessary to bring about this change;Ensuring programmes employ an appropriately flexible procurement strategy, to reduce risk and/or provide opportunity for earlier, incremental realization of benefits; andApplying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project or programme;GovernanceCommunicating roles, responsibilities, accountability, and authority for project and programme governance to all key stakeholders;Enable effective decision-making by ensuring essential project and programme information and performance measures are tracked and shared with all key stakeholders;Exercising due care in the assignment of the project manager by ensuring the project manager has the required competencies and experience to manage:The work needed to realize the project’s outputs; andThe relative complexity, risk, materiality, and significance of the project;Documenting roles and responsibilities, and delegating authorities to the project manager through a project charter;Documenting and communicating project and programme governance decisions to the project and programme team and all key stakeholders;Assessing the project and programme governance to confirm its effectiveness and inclusiveness, and adjusting it as needed; andEnsuring that the level of seniority at which governance is exercised and the frequency of governance meetings are commensurate with the complexity and risk of the project or programme;Additional governance requirements for joint and enterprise projects and programmesWorking with key stakeholders to establish a common governance framework and mechanisms; andEnsuring the roles, responsibilities, accountabilities and authorities of all departments are documented in signed agreements and are reviewed and maintained throughout the life cycle of the project or programme;Project gatingEstablishing a project gating plan at the outset of the project, consistent with the department’s framework, that;Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance; andReflects the specific risks of the project; input from key departmental and external stakeholders; the procurement strategy; and project dependencies and constraints;Including at each gate: a revalidation of the business case; confirmation that the intended benefits are still relevant and attainable; and an overall determination of the ongoing viability of the project;For gate decisions involving consideration of operational readiness or deployment decisions, seeking and documenting input from stakeholders that are affected by the decision; Conducting assurance activities and independent reviews in accordance with the project gating plan; andFor each gate, making a determination as to whether the project has met the requirements of the gate; andAdditional gating requirements for joint and enterprise projectsEnsuring that gate decisions consider the interests and input of all impacted stakeholders;Project Programme ApprovalEnsuring the completion of the project complexity and risk assessment in accordance with Appendix B: Mandatory Procedures for Project Complexity and Risk Assessment;Seeking project approval and expenditure authority as per the requirements outlined in Appendix C: Project Approval Limits and Appendix D: Programme Approval, Project Approval and Expenditure Authority; and programme approval and expenditure authority as per the requirements outlined in Appendix F: Programme Approval and Expenditure Authority, Appendix G: Programme Brief for Definition, and Appendix H: Programme Brief for Implementation (Tranche)Support decision-making by integrating procurement planning in project approvals by ensuring that requests for project approval include market analysis and procurement strategies;Benefits management and transition to operationsEnsuring that the project’s and programme’s expected outcomes and benefits are clearly defined and measurable as an input into the business case; Ensuring that a benefits realization plan is in place at the time of project programme approval and is monitored and updated throughout the project programme life cycle;Ensuring the business owner(s) responsible for the realization of benefits is identified in the benefits realization plan;To support transition of the project or programme to operations, ensuring that:A transition plan is developed prior to the commencement of the implementation phase; andThe transition plan is updated throughout the project or programme life cycle;Additional requirements for joint and enterprise projects and programmesWorking with participating departments to ensure that requirements 4.2.27 through 4.2.30 reflect a joint or enterprise perspective;Performance measurement and lessons learnedReviewing, at the commencement of a project or programme, lessons learned from similar project or programme;At the end of each project phase, documenting lessons learned and sharing with all key stakeholders and the Senior Designated Official responsible for the management of projects and programmes; andCompleting a project or programme close-out report and sharing with the departmental committee that approved the project or programme as well as the Senior Designated Official responsible for the management of projects and programmes;",
+    "fr": "Promoteur de projet (ou promoteur de programme)Le promoteur de projet (ou promoteur de programme) assume les responsabilités suivantes : La planification, la définition, la mise en œuvre, la transition et la clôture du projet ou du programme.Leadership et harmonisationAssumer un leadership manifeste actif et fournir en temps opportun une orientation pour atténuer les risques des projets et des programmes, résoudre les problèmes et saisir les occasions.Collaborer avec les intervenants ministériels clés responsables de l’approvisionnement, des biens immobiliers, de la technologie de l’information, des finances, du juridique et des ressources humaines dans le cadre de la planification et de la mise en œuvre du projet ou du programme.Obtenir, s’il y a lieu, une approbation intégrée des autorisations liées au projet, et programme à l’approvisionnement et aux biens immobiliers.Maintenir des relations efficaces avec les intervenants externes clés, notamment avec les ministères concernés et les fournisseurs de services communs.Lorsqu’un changement opérationnel est nécessaire afin d’atteindre les résultats opérationnels, s’assurer que la portée des travaux des projets et des programmes comprenne l’ensemble des activités et des extrants requis en vue de concrétiser le changement.S’assurer que les programmes emploient une stratégie d’approvisionnement souple et appropriée, en vue de réduire le risque ou d’offrir plus tôt une réalisation progressive des bénéfices.Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet ou programme.GouvernanceCommuniquer à l’ensemble des intervenants, les rôles, les responsabilités, la responsabilisation et les pouvoirs dans le cadre de la gouvernance des projets et des programmes.Permettre une prise de décision efficace en s’assurant que les renseignements et les mesures de rendements essentiels des projets et des programmes font l’objet d’un suivi et sont communiqués à l’ensemble des intervenants clés.Faire preuve de prudence concernant la désignation du gestionnaire de projet en veillant à ce que ce dernier possède les compétences et l’expérience requises pour gérer : les activités nécessaires à la réalisation des extrants du projet;la complexité, le risque, la portée et l’importance relative du projet.Documenter les rôles et les responsabilités et déléguer les pouvoirs au gestionnaire de projet au moyen d’une charte de projet.Documenter et communiquer à l’équipe du projet et du programme, ainsi qu’à l’ensemble des intervenants clés, les décisions liées à la gouvernance du projet et du programme.Évaluer la gouvernance des projets et des programmes afin d’en confirmer l’efficacité et l’inclusion, et y apporter des modifications lorsque cela s’avère nécessaire.S’assurer que le niveau d’ancienneté dans le cadre de l’exercice de la gouvernance et la fréquence des réunions sur la gouvernance sont proportionnels à la complexité du projet ou du programme.Exigences supplémentaires en matière de gouvernance dans le cadre des projets et des programmes communs et organisationnelsCollaborer avec les principaux intervenants afin d’établir un cadre de gouvernance et des mécanismes communs.S’assurer que les rôles, les responsabilités, la responsabilisation et les pouvoirs de l’ensemble des ministères sont documentés dans les ententes signées, et examinés et tenus à jour tout au long du cycle de vie du projet ou programme.Points de contrôle du projetMettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui : documente les décisions qui seront prises à chaque point de contrôle, les éléments probants et les renseignements requis à l’appui des décisions aux points de contrôle, les critères utilisés pour évaluer les éléments probants et la gouvernance des points de contrôle;tient compte des risques propres au projet, des suggestions formulées par les principaux intervenants ministériels et externes, de la stratégie d’approvisionnement ainsi que des dépendances et des contraintes du projet.À chaque point de contrôle, inclure une nouvelle validation de l’analyse de rentabilisation, une confirmation que les bénéfices prévus sont toujours pertinents et atteignables, et une détermination globale de la viabilité continue du projet.Pour les décisions aux points de contrôle qui impliquent un examen de l’état de préparation opérationnelle ou des décisions quant au déploiement, recueillir et documenter les commentaires des intervenants concernés par de telles décisions.Mener des activités d’assurance et des examens indépendants conformément à la planification des points de contrôle.Pour chaque point de contrôle, déterminer si le projet a satisfait aux exigences du point de contrôle en question.Exigences supplémentaires en matière de points de contrôle pour les projets communs et organisationnels S’assurer que les décisions aux points de contrôle tiennent compte des intérêts et des suggestions de tous les intervenants concernés.Approbation de projet et programmeS’assurer que l’évaluation de la complexité et des risques du projet est effectuée conformément à l’annexe B : Procédures obligatoires pour les évaluations de la complexité et des risques des projets.Demander l’approbation du projet et l’autorisation de dépenser conformément aux exigences énoncées à l’annexe C : Limites d’approbation des projets et à l’annexe D : Approbation des programmes, approbation des projets et autorisation de dépenser et approbation de programme et autorisation de dépenser selon les exigences énoncées dans l’Annexe F: Approbation de programme et autorisation de dépenser, Annexe G : Énoncé de programme pour définition, et Annexe H: Énoncé de programme pour la mise en œuvre (tranche).Appuyer la prise de décision en intégrant la planification de l’approvisionnement dans le cadre des approbations des projets, en s’assurant que les demandes d’approbation des projets comprennent une analyse de marché et des stratégies d’approvisionnement.Gestion des bénéfices et transition vers les opérationsS’assurer que les résultats et les bénéfices attendus d’un projet ou d’un programme sont clairement définis et mesurables en tant que données dans l’analyse de rentabilisation.S’assurer qu’un plan de réalisation des bénéfices a été mis en place à l’étape d’approbation du projet ou programme, et est surveillé et mis à jour tout au long du cycle de vie du projet ou programme.S’assurer que le propriétaire fonctionnel (ou les propriétaires fonctionnels) est (sont) chargé de la réalisation des bénéfices comme indiqué dans le plan de réalisation des bénéfices.Afin d’appuyer la transition du projet ou programme vers les opérations, s’assurer que : un plan de transition est élaboré avant le début de la phase de mise en œuvre;le plan de transition est mis à jour tout au long du cycle de vie du projet ou programme.Exigences supplémentaires en matière de projets et de programmes communs et organisationnelsTravailler en collaboration avec les ministères participants afin de s’assurer que les exigences énoncées aux paragraphes 4.2.27 à 4.2.30 tiennent compte de l’approche commune ou organisationnelle.Mesure du rendement et leçons apprisesExaminer, dès le début d’un projet ou programme, les leçons apprises de projet ou programme semblables.À la fin de chaque phase d’un projet, documenter les leçons apprises et les communiquer à tous les intervenants et au cadre supérieur désigné responsable de la gestion des projets et des programmes.Préparer un rapport sur la clôture de projet ou programme et le communiquer au comité ministériel qui a approuvé le projet ou programme, ainsi qu’au cadre supérieur désigné responsable de la gestion des projets et des programmes.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "Amended expenditure authority; and",
-    "fr": "d’une modification de l’approbation du projet;"
+    "en": "Other rolesThe Secretary of the Treasury Board is responsible for the following:Establishing and documenting processes for the Treasury Board of Canada Secretariat (TBS) review of departments’ Organizational Project Management Capacity Assessments and Project Complexity and Risk Assessments;The Comptroller General of Canada is responsible for:Providing government-wide functional leadership to the project management community, including the development and sustainability of the project management community through talent management and community development strategies;The Chief Information Officer of Canada is responsible for:Establishing a digital investment oversight program and, as part of that program:Identifying those digital projects or programmes that are subject to oversight by the Chief Information Officer of Canada; andConducting oversight activities with respect to identified digital projects or programmes, including:Requiring the responsible deputy head to commission, at the relevant department’s cost, one or more independent reviews of projects or programmes to ascertain whether specific actions are required to address issues or mitigate risks;Commissioning one or more independent reviews of projects or programmes, at the relevant department’s cost, to ascertain whether specific actions are required to address issues or mitigate risks; andRequiring the responsible deputy head to undertake specific course corrections as deemed necessary by the Chief Information Officer of Canada based on evidence gathered in the course of overseeing identified projects or programmes;Recommending cancellation of digital projects or programmes to the Treasury Board when evidence demonstrates that the project or programme is not viable; andAssigning a project sponsor for a digital project that involves multiple departments (joint or enterprise projects) and for which a single responsible project sponsor has not been named.",
+    "fr": "Autres rôlesLe secrétaire du Conseil du Trésor est responsable : D’établir et de documenter des processus quant à l’examen par le Secrétariat du Conseil du Trésor du Canada (SCT) des évaluations de la capacité organisationnelle de gestion de projet et des évaluations de la complexité et des risques des projets des ministères.Le contrôleur général du Canada est responsable de : Fournir une orientation fonctionnelle pangouvernementale à la communauté de gestion de projet, y compris l’élaboration et la durabilité de la communauté de gestion de projet au moyen de la gestion des talents et des stratégies de développement communautaire.Le dirigeant principal de l’information du Canada assume les responsabilités suivantes : Établir un programme de surveillance de l’investissement numérique et, dans le cadre de ce programme : Déterminer ces projets ou programmes numériques qui sont assujettis à la surveillance du dirigeant principal de l’information du Canada;Tenir des activités de surveillance par rapport aux projets ou aux programmes numériques déterminés, y compris : exiger que l’administrateur général responsable demande, aux frais du ministère pertinent, un ou plusieurs examens indépendants des projets ou des programmes afin de déterminer si des mesures précises sont requises pour traiter les enjeux ou atténuer les risques,demander un ou plusieurs examens indépendants des projets ou des programmes, aux frais du ministère pertinent, afin de déterminer si des mesures précises sont requises pour traiter les enjeux ou atténuer les risques,exiger que l’administrateur général responsable entreprenne des mesures correctives particulières jugées nécessaires par le dirigeant principal de l’information du Canada en fonction des preuves recueillies pendant la surveillance des projets ou des programmes déterminés.Recommander l’annulation de projets ou de programmes numériques au Conseil du Trésor lorsque des données probantes démontrent que le projet ou le programme n’est pas viable.Désigner un promoteur de projet pour un projet numérique auquel participent plusieurs ministères (projets communs ou organisationnels) et pour lequel un unique responsable de projet n’a pas été nommé.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "Project close-out;",
-    "fr": "d’une modification de l’autorisation de dépenser;"
+    "en": "The senior designated official(s) for the management of projects and programmes is responsible for the following:",
+    "fr": "Le cadre supérieur désigné (ou les cadres supérieurs désignés) pour la gestion des projets et des programmes assume (assument) les responsabilités suivantes :",
+    "anchor": "4.1",
+    "tag": "p"
   },
   {
-    "en": "Office of the Auditor General",
-    "fr": "de la clôture du projet."
+    "en": "Embedding within the project and programme framework an approach to project gating, that establishes;",
+    "fr": "Intégrer dans le cadre des projets et des programmes une approche par points de contrôle qui établit :",
+    "anchor": "4.1.3",
+    "tag": "p"
   },
   {
-    "en": "Office of the Chief Electoral Officer",
-    "fr": "le Bureau du vérificateur général du Canada;"
+    "en": "Supporting management and expenditure decision-making, accountability, and transparency by establishing:",
+    "fr": "Soutenir la prise de décision en matière de gestion et de dépenses ainsi que la responsabilisation et la transparence, en établissant :",
+    "anchor": "4.1.5",
+    "tag": "p"
   },
   {
-    "en": "Office of the Commissioner of Lobbying of Canada",
-    "fr": "le Bureau du directeur général des élections du Canada;"
+    "en": "For all projects with a total cost of $25 million or greater, collecting and submitting to the Office of the Comptroller General, baseline project information on scope, schedule, costs, and risks, following receipt of:",
+    "fr": "Pour tous les projets dont le coût total est de 25 millions de dollars et plus, recueillir et présenter au Bureau du contrôleur général des renseignements de base sur la portée, l’échéancier, les coûts et les risques à la suite :",
+    "anchor": "4.1.6",
+    "tag": "p"
   },
   {
-    "en": "Office of the Commissioner of Official Languages",
-    "fr": "le Commissariat au lobbying du Canada;"
+    "en": "Project approval;Expenditure authority;Amended project approval;Amended expenditure authority; andProject close-out;",
+    "fr": "d’une approbation de projet;d’une autorisation de dépenser;d’une modification de l’approbation du projet;d’une modification de l’autorisation de dépenser;de la clôture du projet.",
+    "anchor": "4.1.6",
+    "tag": "ul"
   },
   {
-    "en": "Office of the Information Commissioner of Canada",
-    "fr": "le Commissariat aux langues officielles;"
+    "en": "The project sponsor (programme sponsor) is responsible for the following:",
+    "fr": "Le promoteur de projet (ou promoteur de programme) assume les responsabilités suivantes :",
+    "anchor": "4.2",
+    "tag": "p"
   },
   {
-    "en": "Office of the Privacy Commissioner of Canada",
-    "fr": "le Commissariat à l’information du Canada;"
+    "en": "Leadership and alignmentProviding visible active leadership and timely direction to mitigate project and programme risks, resolve issues, and act on opportunities;Collaborating with key departmental stakeholders such as procurement, real property, information technology, finance, legal, and human resources in the planning and implementation of the project or programme;Where applicable, seeking integrated approval of the project, programme, procurement and real property authorities;Maintaining effective relationships with key external stakeholders including implicated departments and common service providers;Ensuring where business change is required to achieve the business outcomes, that the project and programme scope of work includes all the activities and outputs necessary to bring about this change;Ensuring programmes employ an appropriately flexible procurement strategy, to reduce risk and/or provide opportunity for earlier, incremental realization of benefits; andApplying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project or programme;",
+    "fr": "Leadership et harmonisationAssumer un leadership manifeste actif et fournir en temps opportun une orientation pour atténuer les risques des projets et des programmes, résoudre les problèmes et saisir les occasions.Collaborer avec les intervenants ministériels clés responsables de l’approvisionnement, des biens immobiliers, de la technologie de l’information, des finances, du juridique et des ressources humaines dans le cadre de la planification et de la mise en œuvre du projet ou du programme.Obtenir, s’il y a lieu, une approbation intégrée des autorisations liées au projet, et programme à l’approvisionnement et aux biens immobiliers.Maintenir des relations efficaces avec les intervenants externes clés, notamment avec les ministères concernés et les fournisseurs de services communs.Lorsqu’un changement opérationnel est nécessaire afin d’atteindre les résultats opérationnels, s’assurer que la portée des travaux des projets et des programmes comprenne l’ensemble des activités et des extrants requis en vue de concrétiser le changement.S’assurer que les programmes emploient une stratégie d’approvisionnement souple et appropriée, en vue de réduire le risque ou d’offrir plus tôt une réalisation progressive des bénéfices.Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet ou programme.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Office of the Public Sector Integrity Commissioner of Canada",
-    "fr": "le Commissariat à la protection de la vie privée du Canada;"
+    "en": "GovernanceCommunicating roles, responsibilities, accountability, and authority for project and programme governance to all key stakeholders;Enable effective decision-making by ensuring essential project and programme information and performance measures are tracked and shared with all key stakeholders;Exercising due care in the assignment of the project manager by ensuring the project manager has the required competencies and experience to manage:The work needed to realize the project’s outputs; andThe relative complexity, risk, materiality, and significance of the project;Documenting roles and responsibilities, and delegating authorities to the project manager through a project charter;Documenting and communicating project and programme governance decisions to the project and programme team and all key stakeholders;Assessing the project and programme governance to confirm its effectiveness and inclusiveness, and adjusting it as needed; andEnsuring that the level of seniority at which governance is exercised and the frequency of governance meetings are commensurate with the complexity and risk of the project or programme;",
+    "fr": "GouvernanceCommuniquer à l’ensemble des intervenants, les rôles, les responsabilités, la responsabilisation et les pouvoirs dans le cadre de la gouvernance des projets et des programmes.Permettre une prise de décision efficace en s’assurant que les renseignements et les mesures de rendements essentiels des projets et des programmes font l’objet d’un suivi et sont communiqués à l’ensemble des intervenants clés.Faire preuve de prudence concernant la désignation du gestionnaire de projet en veillant à ce que ce dernier possède les compétences et l’expérience requises pour gérer : les activités nécessaires à la réalisation des extrants du projet;la complexité, le risque, la portée et l’importance relative du projet.Documenter les rôles et les responsabilités et déléguer les pouvoirs au gestionnaire de projet au moyen d’une charte de projet.Documenter et communiquer à l’équipe du projet et du programme, ainsi qu’à l’ensemble des intervenants clés, les décisions liées à la gouvernance du projet et du programme.Évaluer la gouvernance des projets et des programmes afin d’en confirmer l’efficacité et l’inclusion, et y apporter des modifications lorsque cela s’avère nécessaire.S’assurer que le niveau d’ancienneté dans le cadre de l’exercice de la gouvernance et la fréquence des réunions sur la gouvernance sont proportionnels à la complexité du projet ou du programme.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "subsection 4.1.6",
-    "fr": "le Commissariat à l’intégrité du secteur public du Canada."
+    "en": "Additional governance requirements for joint and enterprise projects and programmesWorking with key stakeholders to establish a common governance framework and mechanisms; andEnsuring the roles, responsibilities, accountabilities and authorities of all departments are documented in signed agreements and are reviewed and maintained throughout the life cycle of the project or programme;",
+    "fr": "Exigences supplémentaires en matière de gouvernance dans le cadre des projets et des programmes communs et organisationnelsCollaborer avec les principaux intervenants afin d’établir un cadre de gouvernance et des mécanismes communs.S’assurer que les rôles, les responsabilités, la responsabilisation et les pouvoirs de l’ensemble des ministères sont documentés dans les ententes signées, et examinés et tenus à jour tout au long du cycle de vie du projet ou programme.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "subsection 4.2.25",
-    "fr": "le paragraphe 4.1.6;"
+    "en": "Project gatingEstablishing a project gating plan at the outset of the project, consistent with the department’s framework, that;Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance; andReflects the specific risks of the project; input from key departmental and external stakeholders; the procurement strategy; and project dependencies and constraints;Including at each gate: a revalidation of the business case; confirmation that the intended benefits are still relevant and attainable; and an overall determination of the ongoing viability of the project;For gate decisions involving consideration of operational readiness or deployment decisions, seeking and documenting input from stakeholders that are affected by the decision; Conducting assurance activities and independent reviews in accordance with the project gating plan; andFor each gate, making a determination as to whether the project has met the requirements of the gate; and",
+    "fr": "Points de contrôle du projetMettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui : documente les décisions qui seront prises à chaque point de contrôle, les éléments probants et les renseignements requis à l’appui des décisions aux points de contrôle, les critères utilisés pour évaluer les éléments probants et la gouvernance des points de contrôle;tient compte des risques propres au projet, des suggestions formulées par les principaux intervenants ministériels et externes, de la stratégie d’approvisionnement ainsi que des dépendances et des contraintes du projet.À chaque point de contrôle, inclure une nouvelle validation de l’analyse de rentabilisation, une confirmation que les bénéfices prévus sont toujours pertinents et atteignables, et une détermination globale de la viabilité continue du projet.Pour les décisions aux points de contrôle qui impliquent un examen de l’état de préparation opérationnelle ou des décisions quant au déploiement, recueillir et documenter les commentaires des intervenants concernés par de telles décisions.Mener des activités d’assurance et des examens indépendants conformément à la planification des points de contrôle.Pour chaque point de contrôle, déterminer si le projet a satisfait aux exigences du point de contrôle en question.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "subsection 4.5.1.1",
-    "fr": "le paragraphe 4.2.25;"
+    "en": "Additional gating requirements for joint and enterprise projectsEnsuring that gate decisions consider the interests and input of all impacted stakeholders;",
+    "fr": "Exigences supplémentaires en matière de points de contrôle pour les projets communs et organisationnels S’assurer que les décisions aux points de contrôle tiennent compte des intérêts et des suggestions de tous les intervenants concernés.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "subsection 4.5.1.2, including 4.5.1.2.1, 4.5.1.2.2 and 4.5.1.2.3",
-    "fr": "le paragraphe 4.5.1.1;"
+    "en": "Project Programme ApprovalEnsuring the completion of the project complexity and risk assessment in accordance with Appendix B: Mandatory Procedures for Project Complexity and Risk Assessment;Seeking project approval and expenditure authority as per the requirements outlined in Appendix C: Project Approval Limits and Appendix D: Programme Approval, Project Approval and Expenditure Authority; and programme approval and expenditure authority as per the requirements outlined in Appendix F: Programme Approval and Expenditure Authority, Appendix G: Programme Brief for Definition, and Appendix H: Programme Brief for Implementation (Tranche)Support decision-making by integrating procurement planning in project approvals by ensuring that requests for project approval include market analysis and procurement strategies;",
+    "fr": "Approbation de projet et programmeS’assurer que l’évaluation de la complexité et des risques du projet est effectuée conformément à l’annexe B : Procédures obligatoires pour les évaluations de la complexité et des risques des projets.Demander l’approbation du projet et l’autorisation de dépenser conformément aux exigences énoncées à l’annexe C : Limites d’approbation des projets et à l’annexe D : Approbation des programmes, approbation des projets et autorisation de dépenser et approbation de programme et autorisation de dépenser selon les exigences énoncées dans l’Annexe F: Approbation de programme et autorisation de dépenser, Annexe G : Énoncé de programme pour définition, et Annexe H: Énoncé de programme pour la mise en œuvre (tranche).Appuyer la prise de décision en intégrant la planification de l’approvisionnement dans le cadre des approbations des projets, en s’assurant que les demandes d’approbation des projets comprennent une analyse de marché et des stratégies d’approvisionnement.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "subsection 4.5.2",
-    "fr": "le paragraphe 4.5.1.2, y compris 4.5.1.2.1, 4.5.1.2.2 et 4.5.1.2.3;"
+    "en": "Benefits management and transition to operationsEnsuring that the project’s and programme’s expected outcomes and benefits are clearly defined and measurable as an input into the business case; Ensuring that a benefits realization plan is in place at the time of project programme approval and is monitored and updated throughout the project programme life cycle;Ensuring the business owner(s) responsible for the realization of benefits is identified in the benefits realization plan;To support transition of the project or programme to operations, ensuring that:A transition plan is developed prior to the commencement of the implementation phase; andThe transition plan is updated throughout the project or programme life cycle;",
+    "fr": "Gestion des bénéfices et transition vers les opérationsS’assurer que les résultats et les bénéfices attendus d’un projet ou d’un programme sont clairement définis et mesurables en tant que données dans l’analyse de rentabilisation.S’assurer qu’un plan de réalisation des bénéfices a été mis en place à l’étape d’approbation du projet ou programme, et est surveillé et mis à jour tout au long du cycle de vie du projet ou programme.S’assurer que le propriétaire fonctionnel (ou les propriétaires fonctionnels) est (sont) chargé de la réalisation des bénéfices comme indiqué dans le plan de réalisation des bénéfices.Afin d’appuyer la transition du projet ou programme vers les opérations, s’assurer que : un plan de transition est élaboré avant le début de la phase de mise en œuvre;le plan de transition est mis à jour tout au long du cycle de vie du projet ou programme.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Appendix A: Mandatory Procedures for Organizational Project Management Capacity Assessments subsections A.2.2.3.1; A.2.2.4; A.2.2.5, including A.2.2.5.1, A.2.2.5.2 and A.2.2.5.3; A.2.2.6; A.2.2.7; A.2.2.8; A.2.2.9; A.2.2.10 and A.2.2.11",
-    "fr": "le paragraphe 4.5.2;"
+    "en": "Additional requirements for joint and enterprise projects and programmesWorking with participating departments to ensure that requirements 4.2.27 through 4.2.30 reflect a joint or enterprise perspective;",
+    "fr": "Exigences supplémentaires en matière de projets et de programmes communs et organisationnelsTravailler en collaboration avec les ministères participants afin de s’assurer que les exigences énoncées aux paragraphes 4.2.27 à 4.2.30 tiennent compte de l’approche commune ou organisationnelle.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Appendix B: Mandatory Procedures for Project Complexity and Risk Assessments subsections B.2.2.4, including B.2.2.4.1; B.2.2.5, including B2.2.5.1; B.2.2.6; B.2.2.7 and B.2.2.8",
-    "fr": "les paragraphes A.2.2.3.1; A.2.2.4; A.2.2.5, y compris A.2.2.5.1, A.2.2.5.2 et A.2.2.5.3; A.2.2.6; A.2.2.7; A.2.2.8; A.2.2.9; A.2.2.10 et A.2.2.11 de l’annexe A : Procédures obligatoires pour les évaluations de la capacité organisationnelle de gestion de projet;"
+    "en": "Performance measurement and lessons learnedReviewing, at the commencement of a project or programme, lessons learned from similar project or programme;At the end of each project phase, documenting lessons learned and sharing with all key stakeholders and the Senior Designated Official responsible for the management of projects and programmes; andCompleting a project or programme close-out report and sharing with the departmental committee that approved the project or programme as well as the Senior Designated Official responsible for the management of projects and programmes;",
+    "fr": "Mesure du rendement et leçons apprisesExaminer, dès le début d’un projet ou programme, les leçons apprises de projet ou programme semblables.À la fin de chaque phase d’un projet, documenter les leçons apprises et les communiquer à tous les intervenants et au cadre supérieur désigné responsable de la gestion des projets et des programmes.Préparer un rapport sur la clôture de projet ou programme et le communiquer au comité ministériel qui a approuvé le projet ou programme, ainsi qu’au cadre supérieur désigné responsable de la gestion des projets et des programmes.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Appendix C: Project Approval Limits",
-    "fr": "les paragraphes B.2.2.4, y compris B.2.2.4.1; B.2.2.5, y compris B.2.2.5.1; B.2.2.6, B.2.2.7, et B.2.2.8 de l’annexe B : Procédures obligatoires pour les évaluations de la complexité et des risques des projets;"
+    "en": "Exercising due care in the assignment of the project manager by ensuring the project manager has the required competencies and experience to manage:",
+    "fr": "Faire preuve de prudence concernant la désignation du gestionnaire de projet en veillant à ce que ce dernier possède les compétences et l’expérience requises pour gérer :",
+    "anchor": "4.2.11",
+    "tag": "p"
   },
   {
-    "en": "Appendix D: Programme Approval, Project Approval and Expenditure Authority",
-    "fr": "l’annexe C : Limites d’approbation des projets;"
+    "en": "Establishing a project gating plan at the outset of the project, consistent with the department’s framework, that;",
+    "fr": "Mettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui :",
+    "anchor": "4.2.18",
+    "tag": "p"
   },
   {
-    "en": "Appendix E: Project Brief",
-    "fr": "l’annexe D : Approbation des programmes, approbation des projets et autorisation de dépenser;"
+    "en": "To support transition of the project or programme to operations, ensuring that:",
+    "fr": "Afin d’appuyer la transition du projet ou programme vers les opérations, s’assurer que :",
+    "anchor": "4.2.30",
+    "tag": "p"
   },
   {
-    "en": "This directive takes effect on .",
-    "fr": "l’annexe E : Énoncé de projet."
+    "en": "The Secretary of the Treasury Board is responsible for the following:",
+    "fr": "Le secrétaire du Conseil du Trésor est responsable :",
+    "anchor": "4.3",
+    "tag": "p"
   },
   {
-    "en": "In-flight projects, with final authorities in place as of the effective date in section 1.1 and that are scheduled to close within one year from the effective date, will be exempt from transitioning to the directive.",
-    "fr": "Cette directive entre en vigueur le ."
+    "en": "The Comptroller General of Canada is responsible for:",
+    "fr": "Le contrôleur général du Canada est responsable de :",
+    "anchor": "4.4",
+    "tag": "p"
   },
   {
-    "en": "This directive is issued pursuant to section 7 of the and section 31 of the .",
-    "fr": "Les projets en cours, ceux pour lesquels une autorité de dernière instance est en place à la date d’approbation indiquée à l’article 1.1 et ceux dont la clôture est prévue dans l’année suivant la date d’entrée en vigueur sont exemptés de la présente directive."
+    "en": "The Chief Information Officer of Canada is responsible for:",
+    "fr": "Le dirigeant principal de l’information du Canada assume les responsabilités suivantes :",
+    "anchor": "4.5",
+    "tag": "p"
   },
   {
-    "en": "The objective of this directive is that government projects and programmes are effectively planned, implemented, monitored and controlled, and closed to enable the realization of the expected benefits and results for Canadians.",
-    "fr": "La présente directive est émise conformément à l’article 7 de la et à l’article 31 de la ."
+    "en": "Establishing a digital investment oversight program and, as part of that program:",
+    "fr": "Établir un programme de surveillance de l’investissement numérique et, dans le cadre de ce programme :",
+    "anchor": "4.5.1",
+    "tag": "p"
   },
   {
-    "en": "Governance and controls over projects and programmes are effective;",
-    "fr": "Cette directive vise à s’assurer que les projets et les programmes du gouvernement sont planifiés, mis en œuvre, surveillés, contrôlés de façon efficace, et clos en vue de permettre la réalisation des bénéfices et des résultats attendus pour les Canadiens."
+    "en": "Conducting oversight activities with respect to identified digital projects or programmes, including:",
+    "fr": "Tenir des activités de surveillance par rapport aux projets ou aux programmes numériques déterminés, y compris :",
+    "anchor": "4.5.1.2",
+    "tag": "p"
   },
   {
-    "en": "Decisions are made throughout the life of the project and programme with a view to maximizing efficiency and ensuring the realization of benefits;",
-    "fr": "la gouvernance et les contrôles des projets et des programmes sont efficaces;"
+    "en": "Agents of Parliament",
+    "fr": "Agents du Parlement",
+    "anchor": "6.7",
+    "tag": "p"
   },
   {
-    "en": "Performance measurement data are used in support of regular monitoring of project and programme health and evidence-based decision-making; and",
-    "fr": "les décisions sont prises tout au long du cycle de vie des projets et des programmes en vue d’en optimiser l’efficience et d’assurer la réalisation des bénéfices;"
+    "en": "The following organizations are considered agents of Parliament for the purposes of the directive:",
+    "fr": "Les organisations suivantes sont considérées comme des agents du Parlement aux fins de la directive :",
+    "anchor": "6.7.1",
+    "tag": "p"
   },
   {
-    "en": "Capacity for project and programme management, commensurate with organizational need, is developed and maintained.",
-    "fr": "les données de mesure du rendement sont utilisées pour la surveillance régulière de l’état des projets et des programmes ainsi que de la prise de décision fondée sur les données probantes;"
+    "en": "Office of the Auditor GeneralOffice of the Chief Electoral OfficerOffice of the Commissioner of Lobbying of CanadaOffice of the Commissioner of Official LanguagesOffice of the Information Commissioner of CanadaOffice of the Privacy Commissioner of CanadaOffice of the Public Sector Integrity Commissioner of Canada",
+    "fr": "le Bureau du vérificateur général du Canada;le Bureau du directeur général des élections du Canada;le Commissariat au lobbying du Canada;le Commissariat aux langues officielles;le Commissariat à l’information du Canada;le Commissariat à la protection de la vie privée du Canada;le Commissariat à l’intégrité du secteur public du Canada.",
+    "anchor": "6.7.1",
+    "tag": "ul"
   },
   {
-    "en": "Establishing, documenting, and maintaining a department-wide project and programme management framework, consisting of processes, systems and controls, anchored in professional best practices;",
-    "fr": "la capacité de gestion de projets et de programmes, proportionnelle au besoin organisationnel, est développée et maintenue."
+    "en": "With regard to the agents of Parliament, the following do not apply:",
+    "fr": "Ce qui suit ne s’applique pas aux agents du Parlement :",
+    "anchor": "6.7.3",
+    "tag": "p"
   },
   {
-    "en": "Consulting key departmental stakeholders including procurement, real property, information technology, finance, and human resources in the development of the project and programme framework;",
-    "fr": "Établir, documenter et maintenir un cadre de gestion des projets et des programmes à l’échelle du ministère qui comprend les processus, les systèmes et les contrôles et qui est ancré dans les pratiques exemplaires."
+    "en": "subsection 4.1.6subsection 4.2.25subsection 4.5.1.1subsection 4.5.1.2, including 4.5.1.2.1, 4.5.1.2.2 and 4.5.1.2.3subsection 4.5.2Appendix A: Mandatory Procedures for Organizational Project Management Capacity Assessments subsections A.2.2.3.1; A.2.2.4; A.2.2.5, including A.2.2.5.1, A.2.2.5.2 and A.2.2.5.3; A.2.2.6; A.2.2.7; A.2.2.8; A.2.2.9; A.2.2.10 and A.2.2.11Appendix B: Mandatory Procedures for Project Complexity and Risk Assessments subsections B.2.2.4, including B.2.2.4.1; B.2.2.5, including B2.2.5.1; B.2.2.6; B.2.2.7 and B.2.2.8Appendix C: Project Approval LimitsAppendix D: Programme Approval, Project Approval and Expenditure AuthorityAppendix E: Project Brief",
+    "fr": "le paragraphe 4.1.6;le paragraphe 4.2.25;le paragraphe 4.5.1.1;le paragraphe 4.5.1.2, y compris 4.5.1.2.1, 4.5.1.2.2 et 4.5.1.2.3;le paragraphe 4.5.2;les paragraphes A.2.2.3.1; A.2.2.4; A.2.2.5, y compris A.2.2.5.1, A.2.2.5.2 et A.2.2.5.3; A.2.2.6; A.2.2.7; A.2.2.8; A.2.2.9; A.2.2.10 et A.2.2.11 de l’annexe A : Procédures obligatoires pour les évaluations de la capacité organisationnelle de gestion de projet;les paragraphes B.2.2.4, y compris B.2.2.4.1; B.2.2.5, y compris B.2.2.5.1; B.2.2.6, B.2.2.7, et B.2.2.8 de l’annexe B : Procédures obligatoires pour les évaluations de la complexité et des risques des projets;l’annexe C : Limites d’approbation des projets;l’annexe D : Approbation des programmes, approbation des projets et autorisation de dépenser;l’annexe E : Énoncé de projet.",
+    "anchor": "6.7.3",
+    "tag": "ul"
   },
   {
-    "en": "The project gates that each project and programme must pass through;",
-    "fr": "Consulter les intervenants ministériels clés, notamment de l’approvisionnement, des biens immobiliers, de la technologie de l’information, des finances et des ressources humaines dans l’élaboration du cadre d’un projet ou d’un programme."
+    "en": "Legislation",
+    "fr": "Législation",
+    "anchor": "7.1",
+    "tag": "p"
   },
   {
-    "en": "The evidence required in support of gate decisions; and",
-    "fr": "des points de contrôle auxquels chaque projet et programme doit être assujetti;"
+    "en": "Financial Administration Act",
+    "fr": "Loi sur la gestion des finances publiques",
+    "anchor": "7.1",
+    "tag": "ul"
   },
   {
-    "en": "The process for documenting the gate decisions;",
-    "fr": "des données probantes nécessaires à l’appui des décisions liées aux points de contrôle;"
+    "en": "Policies and related instruments",
+    "fr": "Policies and related instruments",
+    "anchor": "7.2",
+    "tag": "p"
   },
   {
-    "en": "Making available to all departments and agencies, in a manner and timeframe determined by the Comptroller General of Canada, the deputy head approved departmental project and programme management framework;",
-    "fr": "un processus de documentation des décisions liées aux points de contrôle."
-  },
-  {
-    "en": "Processes for the monitoring and control of the department’s projects and programmes; and",
-    "fr": "Rendre accessible à tous les ministères et organismes, conformément à la façon et aux délais établis par le contrôleur général du Canada, le cadre de gestion des projets et des programmes ministériels approuvés par l’administrateur général."
-  },
-  {
-    "en": "Standard performance measures and performance measurement tracking processes for the department’s projects and programmes;",
-    "fr": "des processus de surveillance et de contrôle des projets et des programmes ministériels;"
-  },
-  {
-    "en": "Implementing processes that promote the coordinated management of related projects and programmes to reduce risk, contribute to shared outcomes, and realize efficiencies and benefits not available from managing the projects and programmes individually;",
-    "fr": "des mesures du rendement et des processus de suivi des mesures du rendement normalisés des projets et des programmes ministériels;"
-  },
-  {
-    "en": "Identifying and addressing the department’s needs with respect to acquiring the necessary knowledge, experience, and skills in project and programme management;",
-    "fr": "Mettre en œuvre des processus qui visent à promouvoir la gestion coordonnée des projets et programmes connexes afin de réduire le risque, de contribuer aux résultats communs et de réaliser des économies et des bénéfices qui ne peuvent pas être obtenus en gérant les projets et programmes individuellement."
-  },
-  {
-    "en": "Putting in place a process to collect and make available best practices and lessons-learned;",
-    "fr": "Cerner et prendre en compte les besoins du ministère en matière d’acquisition des connaissances, des expériences et des compétences nécessaires à la gestion des projets et des programmes."
-  },
-  {
-    "en": "Completing the as provided for in Appendix A: ; and",
-    "fr": "Mettre en place un processus en vue de recueillir et de transmettre les pratiques exemplaires et les leçons apprises."
-  },
-  {
-    "en": "Establishing processes and standards, consistent with direction provided by the Comptroller General of Canada, for the authoring, review and approval of Project Complexity and Risk Assessments.",
-    "fr": "Achever l’évaluation de la capacité organisationnelle de gestion de projet, tel qu’il est prévu à l’annexe A : Procédures obligatoires pour les évaluations de la capacité organisationnelle de gestion de projet."
-  },
-  {
-    "en": "The planning, definition, implementation, transition, and close-out of the project or programme;",
-    "fr": "Établir des processus et des normes conformes à l’orientation fournie par le contrôleur général du Canada pour rédiger, examiner et approuver les évaluations de la complexité et des risques des projets."
-  },
-  {
-    "en": "Providing visible active leadership and timely direction to mitigate project and programme risks, resolve issues, and act on opportunities;",
-    "fr": "La planification, la définition, la mise en œuvre, la transition et la clôture du projet ou du programme."
-  },
-  {
-    "en": "Collaborating with key departmental stakeholders such as procurement, real property, information technology, finance, legal, and human resources in the planning and implementation of the project or programme;",
-    "fr": "Assumer un leadership manifeste actif et fournir en temps opportun une orientation pour atténuer les risques des projets et des programmes, résoudre les problèmes et saisir les occasions."
-  },
-  {
-    "en": "Where applicable, seeking integrated approval of the project, programme, procurement and real property authorities;",
-    "fr": "Collaborer avec les intervenants ministériels clés responsables de l’approvisionnement, des biens immobiliers, de la technologie de l’information, des finances, du juridique et des ressources humaines dans le cadre de la planification et de la mise en œuvre du projet ou du programme."
-  },
-  {
-    "en": "Maintaining effective relationships with key external stakeholders including implicated departments and common service providers;",
-    "fr": "Obtenir, s’il y a lieu, une approbation intégrée des autorisations liées au projet, et programme à l’approvisionnement et aux biens immobiliers."
-  },
-  {
-    "en": "Ensuring where business change is required to achieve the business outcomes, that the project and programme scope of work includes all the activities and outputs necessary to bring about this change;",
-    "fr": "Maintenir des relations efficaces avec les intervenants externes clés, notamment avec les ministères concernés et les fournisseurs de services communs."
-  },
-  {
-    "en": "Ensuring programmes employ an appropriately flexible procurement strategy, to reduce risk and/or provide opportunity for earlier, incremental realization of benefits; and",
-    "fr": "Lorsqu’un changement opérationnel est nécessaire afin d’atteindre les résultats opérationnels, s’assurer que la portée des travaux des projets et des programmes comprenne l’ensemble des activités et des extrants requis en vue de concrétiser le changement."
-  },
-  {
-    "en": "Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project or programme;",
-    "fr": "S’assurer que les programmes emploient une stratégie d’approvisionnement souple et appropriée, en vue de réduire le risque ou d’offrir plus tôt une réalisation progressive des bénéfices."
-  },
-  {
-    "en": "Communicating roles, responsibilities, accountability, and authority for project and programme governance to all key stakeholders;",
-    "fr": "Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet ou programme."
-  },
-  {
-    "en": "Enable effective decision-making by ensuring essential project and programme information and performance measures are tracked and shared with all key stakeholders;",
-    "fr": "Communiquer à l’ensemble des intervenants, les rôles, les responsabilités, la responsabilisation et les pouvoirs dans le cadre de la gouvernance des projets et des programmes."
-  },
-  {
-    "en": "The work needed to realize the project’s outputs; and",
-    "fr": "Permettre une prise de décision efficace en s’assurant que les renseignements et les mesures de rendements essentiels des projets et des programmes font l’objet d’un suivi et sont communiqués à l’ensemble des intervenants clés."
-  },
-  {
-    "en": "The relative complexity, risk, materiality, and significance of the project;",
-    "fr": "les activités nécessaires à la réalisation des extrants du projet;"
-  },
-  {
-    "en": "Documenting roles and responsibilities, and delegating authorities to the project manager through a project charter;",
-    "fr": "la complexité, le risque, la portée et l’importance relative du projet."
-  },
-  {
-    "en": "Documenting and communicating project and programme governance decisions to the project and programme team and all key stakeholders;",
-    "fr": "Documenter les rôles et les responsabilités et déléguer les pouvoirs au gestionnaire de projet au moyen d’une charte de projet."
-  },
-  {
-    "en": "Assessing the project and programme governance to confirm its effectiveness and inclusiveness, and adjusting it as needed; and",
-    "fr": "Documenter et communiquer à l’équipe du projet et du programme, ainsi qu’à l’ensemble des intervenants clés, les décisions liées à la gouvernance du projet et du programme."
-  },
-  {
-    "en": "Ensuring that the level of seniority at which governance is exercised and the frequency of governance meetings are commensurate with the complexity and risk of the project or programme;",
-    "fr": "Évaluer la gouvernance des projets et des programmes afin d’en confirmer l’efficacité et l’inclusion, et y apporter des modifications lorsque cela s’avère nécessaire."
-  },
-  {
-    "en": "Working with key stakeholders to establish a common governance framework and mechanisms; and",
-    "fr": "S’assurer que le niveau d’ancienneté dans le cadre de l’exercice de la gouvernance et la fréquence des réunions sur la gouvernance sont proportionnels à la complexité du projet ou du programme."
-  },
-  {
-    "en": "Ensuring the roles, responsibilities, accountabilities and authorities of all departments are documented in signed agreements and are reviewed and maintained throughout the life cycle of the project or programme;",
-    "fr": "Collaborer avec les principaux intervenants afin d’établir un cadre de gouvernance et des mécanismes communs."
-  },
-  {
-    "en": "Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance; and",
-    "fr": "S’assurer que les rôles, les responsabilités, la responsabilisation et les pouvoirs de l’ensemble des ministères sont documentés dans les ententes signées, et examinés et tenus à jour tout au long du cycle de vie du projet ou programme."
-  },
-  {
-    "en": "Reflects the specific risks of the project; input from key departmental and external stakeholders; the procurement strategy; and project dependencies and constraints;",
-    "fr": "documente les décisions qui seront prises à chaque point de contrôle, les éléments probants et les renseignements requis à l’appui des décisions aux points de contrôle, les critères utilisés pour évaluer les éléments probants et la gouvernance des points de contrôle;"
-  },
-  {
-    "en": "Including at each gate: a revalidation of the business case; confirmation that the intended benefits are still relevant and attainable; and an overall determination of the ongoing viability of the project;",
-    "fr": "tient compte des risques propres au projet, des suggestions formulées par les principaux intervenants ministériels et externes, de la stratégie d’approvisionnement ainsi que des dépendances et des contraintes du projet."
-  },
-  {
-    "en": "For gate decisions involving consideration of operational readiness or deployment decisions, seeking and documenting input from stakeholders that are affected by the decision;",
-    "fr": "À chaque point de contrôle, inclure une nouvelle validation de l’analyse de rentabilisation, une confirmation que les bénéfices prévus sont toujours pertinents et atteignables, et une détermination globale de la viabilité continue du projet."
-  },
-  {
-    "en": "Conducting assurance activities and independent reviews in accordance with the project gating plan; and",
-    "fr": "Pour les décisions aux points de contrôle qui impliquent un examen de l’état de préparation opérationnelle ou des décisions quant au déploiement, recueillir et documenter les commentaires des intervenants concernés par de telles décisions."
-  },
-  {
-    "en": "For each gate, making a determination as to whether the project has met the requirements of the gate; and",
-    "fr": "Mener des activités d’assurance et des examens indépendants conformément à la planification des points de contrôle."
-  },
-  {
-    "en": "Ensuring that gate decisions consider the interests and input of all impacted stakeholders;",
-    "fr": "Pour chaque point de contrôle, déterminer si le projet a satisfait aux exigences du point de contrôle en question."
-  },
-  {
-    "en": "Ensuring the completion of the project complexity and risk assessment in accordance with Appendix B:",
-    "fr": "S’assurer que les décisions aux points de contrôle tiennent compte des intérêts et des suggestions de tous les intervenants concernés."
-  },
-  {
-    "en": "Seeking project approval and expenditure authority as per the requirements outlined in Appendix C: Project Approval Limits and Appendix D: Programme Approval, Project Approval and Expenditure Authority; and programme approval and expenditure authority as per the requirements outlined in Appendix F: Programme Approval and Expenditure Authority, Appendix G: Programme Brief for Definition, and Appendix H: Programme Brief for Implementation (Tranche)",
-    "fr": "S’assurer que l’évaluation de la complexité et des risques du projet est effectuée conformément à l’annexe B : Procédures obligatoires pour les évaluations de la complexité et des risques des projets."
-  },
-  {
-    "en": "Support decision-making by integrating procurement planning in project approvals by ensuring that requests for project approval include market analysis and procurement strategies;",
-    "fr": "Demander l’approbation du projet et l’autorisation de dépenser conformément aux exigences énoncées à l’annexe C : Limites d’approbation des projets et à l’annexe D : Approbation des programmes, approbation des projets et autorisation de dépenser et approbation de programme et autorisation de dépenser selon les exigences énoncées dans l’Annexe F: Approbation de programme et autorisation de dépenser, Annexe G : Énoncé de programme pour définition, et Annexe H: Énoncé de programme pour la mise en œuvre (tranche)."
-  },
-  {
-    "en": "Ensuring that the project’s and programme’s expected outcomes and benefits are clearly defined and measurable as an input into the business case;",
-    "fr": "Appuyer la prise de décision en intégrant la planification de l’approvisionnement dans le cadre des approbations des projets, en s’assurant que les demandes d’approbation des projets comprennent une analyse de marché et des stratégies d’approvisionnement."
-  },
-  {
-    "en": "Ensuring that a benefits realization plan is in place at the time of project programme approval and is monitored and updated throughout the project programme life cycle;",
-    "fr": "S’assurer que les résultats et les bénéfices attendus d’un projet ou d’un programme sont clairement définis et mesurables en tant que données dans l’analyse de rentabilisation."
-  },
-  {
-    "en": "Ensuring the business owner(s) responsible for the realization of benefits is identified in the benefits realization plan;",
-    "fr": "S’assurer qu’un plan de réalisation des bénéfices a été mis en place à l’étape d’approbation du projet ou programme, et est surveillé et mis à jour tout au long du cycle de vie du projet ou programme."
-  },
-  {
-    "en": "A transition plan is developed prior to the commencement of the implementation phase; and",
-    "fr": "S’assurer que le propriétaire fonctionnel (ou les propriétaires fonctionnels) est (sont) chargé de la réalisation des bénéfices comme indiqué dans le plan de réalisation des bénéfices."
-  },
-  {
-    "en": "The transition plan is updated throughout the project or programme life cycle;",
-    "fr": "un plan de transition est élaboré avant le début de la phase de mise en œuvre;"
-  },
-  {
-    "en": "Working with participating departments to ensure that requirements 4.2.27 through 4.2.30 reflect a joint or enterprise perspective;",
-    "fr": "le plan de transition est mis à jour tout au long du cycle de vie du projet ou programme."
-  },
-  {
-    "en": "Reviewing, at the commencement of a project or programme, lessons learned from similar project or programme;",
-    "fr": "Travailler en collaboration avec les ministères participants afin de s’assurer que les exigences énoncées aux paragraphes 4.2.27 à 4.2.30 tiennent compte de l’approche commune ou organisationnelle."
-  },
-  {
-    "en": "At the end of each project phase, documenting lessons learned and sharing with all key stakeholders and the Senior Designated Official responsible for the management of projects and programmes; and",
-    "fr": "Examiner, dès le début d’un projet ou programme, les leçons apprises de projet ou programme semblables."
-  },
-  {
-    "en": "Completing a project or programme close-out report and sharing with the departmental committee that approved the project or programme as well as the Senior Designated Official responsible for the management of projects and programmes;",
-    "fr": "À la fin de chaque phase d’un projet, documenter les leçons apprises et les communiquer à tous les intervenants et au cadre supérieur désigné responsable de la gestion des projets et des programmes."
-  },
-  {
-    "en": "Establishing and documenting processes for the Treasury Board of Canada Secretariat (TBS) review of departments’ Organizational Project Management Capacity Assessments and Project Complexity and Risk Assessments;",
-    "fr": "Préparer un rapport sur la clôture de projet ou programme et le communiquer au comité ministériel qui a approuvé le projet ou programme, ainsi qu’au cadre supérieur désigné responsable de la gestion des projets et des programmes."
-  },
-  {
-    "en": "Providing government-wide functional leadership to the project management community, including the development and sustainability of the project management community through talent management and community development strategies;",
-    "fr": "D’établir et de documenter des processus quant à l’examen par le Secrétariat du Conseil du Trésor du Canada (SCT) des évaluations de la capacité organisationnelle de gestion de projet et des évaluations de la complexité et des risques des projets des ministères."
-  },
-  {
-    "en": "Identifying those digital projects or programmes that are subject to oversight by the Chief Information Officer of Canada; and",
-    "fr": "Fournir une orientation fonctionnelle pangouvernementale à la communauté de gestion de projet, y compris l’élaboration et la durabilité de la communauté de gestion de projet au moyen de la gestion des talents et des stratégies de développement communautaire."
-  },
-  {
-    "en": "Requiring the responsible deputy head to commission, at the relevant department’s cost, one or more independent reviews of projects or programmes to ascertain whether specific actions are required to address issues or mitigate risks;",
-    "fr": "Déterminer ces projets ou programmes numériques qui sont assujettis à la surveillance du dirigeant principal de l’information du Canada;"
-  },
-  {
-    "en": "Commissioning one or more independent reviews of projects or programmes, at the relevant department’s cost, to ascertain whether specific actions are required to address issues or mitigate risks; and",
-    "fr": "exiger que l’administrateur général responsable demande, aux frais du ministère pertinent, un ou plusieurs examens indépendants des projets ou des programmes afin de déterminer si des mesures précises sont requises pour traiter les enjeux ou atténuer les risques,"
-  },
-  {
-    "en": "Requiring the responsible deputy head to undertake specific course corrections as deemed necessary by the Chief Information Officer of Canada based on evidence gathered in the course of overseeing identified projects or programmes;",
-    "fr": "demander un ou plusieurs examens indépendants des projets ou des programmes, aux frais du ministère pertinent, afin de déterminer si des mesures précises sont requises pour traiter les enjeux ou atténuer les risques,"
-  },
-  {
-    "en": "Recommending cancellation of digital projects or programmes to the Treasury Board when evidence demonstrates that the project or programme is not viable; and",
-    "fr": "exiger que l’administrateur général responsable entreprenne des mesures correctives particulières jugées nécessaires par le dirigeant principal de l’information du Canada en fonction des preuves recueillies pendant la surveillance des projets ou des programmes déterminés."
-  },
-  {
-    "en": "Assigning a project sponsor for a digital project that involves multiple departments (joint or enterprise projects) and for which a single responsible project sponsor has not been named.",
-    "fr": "Recommander l’annulation de projets ou de programmes numériques au Conseil du Trésor lorsque des données probantes démontrent que le projet ou le programme n’est pas viable."
-  },
-  {
-    "en": "Not applicable.",
-    "fr": "Désigner un promoteur de projet pour un projet numérique auquel participent plusieurs ministères (projets communs ou organisationnels) et pour lequel un unique responsable de projet n’a pas été nommé."
-  },
-  {
-    "en": "This directive and related appendices apply to the organizations listed in section 6.1 of the .",
-    "fr": "Sans objet."
-  },
-  {
-    "en": "This directive and related appendices apply to all Government of Canada projects and programmes as defined in the .",
-    "fr": "Cette directive et les annexes connexes s’appliquent aux organisations indiquées à l’article 6.1 de la ."
-  },
-  {
-    "en": "Requirements within this directive and related appendices are to be applied in a scalable fashion commensurate with the needs of the department and the risk and complexity of the project or programme.",
-    "fr": "Cette directive et les annexes connexes s’appliquent à l’ensemble des projets et des programmes du gouvernement du Canada conformément à la ."
-  },
-  {
-    "en": "Requirements 4.1.1 through 4.1.4 apply to those departments with an approved Organizational Project Management Capacity Class of 1 and higher.",
-    "fr": "Les exigences de cette directive et ses annexes doivent être appliquées de manière évolutive qui est proportionnelle aux besoins du ministère ainsi qu’au risque et à la complexité du projet ou du programme."
-  },
-  {
-    "en": "Requirement 4.1.10 and Appendix A apply to those departments seeking a project approval authority limit greater than the base limit of $2.5 million.",
-    "fr": "Les exigences énoncées aux paragraphes 4.1.1 à 4.1.4 s’appliquent aux ministères ayant une catégorie 1 ou une catégorie supérieure de capacité organisationnelle de gestion de projet approuvée."
-  },
-  {
-    "en": "This directive does not apply to projects funded by the federal government through transfer payments. The Treasury Board and its supporting directives set out requirements for managing and approving projects funded through transfer payments.",
-    "fr": "L’exigence énoncée au paragraphe 4.1.10 et à l’annexe A s’appliquent à ces ministères qui désirent accroître leur limite d’autorité d’approbation de projets au-delà de la limite de base s’établissant à 2,5 millions de dollars."
-  },
-  {
-    "en": "For greater certainty, the definition of a project does not include the performance of audits, investigations, or other statutory mandate activities of the agents of Parliament.",
-    "fr": "Cette directive ne s’applique pas aux projets financés par le gouvernement fédéral au moyen de paiements de transfert. La du Conseil du Trésor et les directives connexes dressent les exigences pour la gestion et l’approbation des projets financés au moyen des paiements de transfert."
-  },
-  {
-    "en": "For interpretation of any aspect of this directive, contact .",
-    "fr": "En vue d’assurer une plus grande certitude, la définition de projet ne comprend pas l’exécution d’audits, d’enquêtes ou d’autres activités du mandat statutaire des agents du Parlement."
+    "en": "Common Services PolicyContracting PolicyGuidance for Preparation of TB SubmissionsPolicy on Financial ManagementPolicy on Government SecurityPolicy on Green ProcurementPolicy on Management of MaterielPolicy on ResultsPolicy on ServicePolicy on the Management of Information TechnologyPolicy on the Management of Real PropertyPolicy on Transfer Payments",
+    "fr": "Guide de préparation d’une présentation au Conseil du TrésorPolitique d’achats écologiquesPolitique sur la gestion des biens immobiliersPolitique sur la gestion des technologies de l’informationPolitique sur la gestion du matérielPolitique sur la gestion financière Politique sur la sécurité du gouvernementPolitique sur les marchés Politique sur les paiements de transfertPolitique sur les résultats Politique sur les servicesPolitique sur les services communs",
+    "anchor": "7.2",
+    "tag": "ul"
   }
 ]

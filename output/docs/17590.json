@@ -1,174 +1,80 @@
 [
   {
+    "en": "Stewardship",
+    "fr": "Gérance",
+    "anchor": "4.1",
+    "tag": "h3"
+  },
+  {
+    "en": "Financial management system investments",
+    "fr": "Investissements dans les systèmes de gestion financière",
+    "anchor": "4.1",
+    "tag": "h3"
+  },
+  {
+    "en": "Use of a financial management systems template and/or other approved solution for financial management systems",
+    "fr": "Utilisation d’un modèle de référence des systèmes de gestion financière et/ou solutions de SGF approuvées en matière de systèmes de gestion financière",
+    "anchor": "4.1",
+    "tag": "h3"
+  },
+  {
+    "en": "Financial management data",
+    "fr": "Données liées à la gestion financière",
+    "anchor": "4.1",
+    "tag": "h3"
+  },
+  {
+    "en": "Monitoring and reporting",
+    "fr": "Suivi et rapports",
+    "anchor": "4.1",
+    "tag": "h3"
+  },
+  {
+    "en": "Supporting workforce capacity",
+    "fr": "Soutien de la capacité de l’effectif",
+    "anchor": "4.1",
+    "tag": "h3"
+  },
+  {
     "en": "Legislation",
-    "fr": "Lois"
+    "fr": "Lois",
+    "anchor": "7.1",
+    "tag": "p"
+  },
+  {
+    "en": "Access to Information ActCanada Evidence ActFinancial Administration ActLibrary and Archives of Canada ActOfficial Languages ActPersonal Information Protection and Electronic Documents Act (Part 2)Privacy ActPublic Service Employment ActSecurity of Information ActService Fees ActShared Services Canada ActGovernment Contracts Regulations",
+    "fr": "Loi sur l’accès à l’informationLoi sur la preuve au CanadaLoi sur la gestion des finances publiquesLoi sur la Bibliothèque et les Archives du CanadaLoi sur les langues officiellesLoi sur la protection des renseignements personnels et les documents électroniques (partie 2)Loi sur la protection des renseignements personnelsLoi sur l’emploi dans la fonction publiqueLoi sur la protection de l’informationLoi sur les frais de serviceLoi sur Services partagés CanadaRèglement sur les marchés de l'État",
+    "anchor": "7.1",
+    "tag": "ul"
   },
   {
     "en": "Related policy instruments",
-    "fr": "Instruments de politiques connexes :"
+    "fr": "Instruments de politiques connexes :",
+    "anchor": "7.2",
+    "tag": "p"
+  },
+  {
+    "en": "Foundation Framework for Treasury Board PoliciesPolicy on Access to InformationPolicy on Communications and Federal IdentityPolicy on Financial ManagementPolicy on Green ProcurementPolicy on Government SecurityPolicy on the Planning and Management of InvestmentsPolicy on Official LanguagesPolicy on Privacy ProtectionPolicy on ResultsPolicy on the Duty to Accommodate Persons with Disabilities in the Federal Public ServicePolicy on Transfer PaymentsValues and Ethics Code for the Public SectorDirective on the Management of Projects and ProgrammesDirective on Charging and Special Financial AuthoritiesDirective on Management of MaterielDirective on Service and DigitalDirective on the Management of ProcurementDirective on the Management of Real PropertyDirective on Accounting Standards",
+    "fr": "Cadre principal des politiques du Conseil du TrésorPolitique sur l’accès à l’information Politique sur les communications et l’image Politique sur la gestion financière Politique d’achats écologiques Politique sur la sécurité du gouvernement Politique sur la planification et la gestion des investissements Politique sur les langues officielles Politique sur la protection de la vie privée Politique sur les résultats Politique sur l’obligation de prendre des mesures d’adaptation pour les personnes handicapées dans la fonction publique fédérale Politique sur les paiements de transfert Code de valeurs et d’éthique du secteur public Directive sur la gestion de projets et programmes Directive sur l’imputation et les autorisations financières spéciales Directive sur la gestion du matériel Directive sur les services et le numérique Directive sur la gestion de l’approvisionnement Directive sur la gestion des biens immobiliersDirective sur les normes comptables",
+    "anchor": "7.2",
+    "tag": "ul"
   },
   {
     "en": "For interpretation of any aspect of this directive, contact TBS Public Enquiries for assistance.",
-    "fr": "Pour obtenir des précisions sur l’interprétation des dispositions de la présente directive, veuillez communiquer avec le groupe chargé des demandes de renseignements du SCT."
+    "fr": "Pour obtenir des précisions sur l’interprétation des dispositions de la présente directive, veuillez communiquer avec le groupe chargé des demandes de renseignements du SCT.",
+    "anchor": "8",
+    "tag": "p"
   },
   {
     "en": "Individuals from departmental headquarters should contact FMT – TGF for interpretations, or:",
-    "fr": "Les employés des administrations centrales ministérielles, quant à eux, doivent communiquer avec le groupe FMT - TGF pour obtenir des précisions. Ils peuvent également s’adresser à :"
+    "fr": "Les employés des administrations centrales ministérielles, quant à eux, doivent communiquer avec le groupe FMT - TGF pour obtenir des précisions. Ils peuvent également s’adresser à :",
+    "anchor": "8.2",
+    "tag": "p"
   },
   {
     "en": "Financial Management Transformation Office of the Comptroller General Treasury Board Secretariat Ottawa ON K1A 0R5",
-    "fr": "Transformation de la gestion financière Bureau du contrôleur général Secrétariat du Conseil du Trésor Ottawa (Ontario) K1A 0R5"
-  },
-  {
-    "en": "Access to Information Act",
-    "fr": "La présente directive entre en vigueur le 1er avril 2023."
-  },
-  {
-    "en": "Canada Evidence Act",
-    "fr": "La présente directive est émise aux termes de l’article 7 et de la section 11.1 de la (LGFP)."
-  },
-  {
-    "en": "Financial Administration Act",
-    "fr": "Les objectifs des articles 3 de la , de la et de la s’appliquent à la présente directive."
-  },
-  {
-    "en": "Library and Archives of Canada Act",
-    "fr": "Les résultats attendus des articles 3 de la , de la et de la s’appliquent à la présente directive."
-  },
-  {
-    "en": "Official Languages Act",
-    "fr": "Le dirigeant principal des finances est responsable des fonctions suivantes :"
-  },
-  {
-    "en": "Personal Information Protection and Electronic Documents Act (Part 2)",
-    "fr": "choisir et mettre en œuvre le système ministériel de gestion des finances et du matériel (SMGFM) en respectant l’orientation du Bureau du contrôleur général;"
-  },
-  {
-    "en": "Privacy Act",
-    "fr": "mobiliser le dirigeant principal de l’information du ministère pour faire en sorte que les investissements en SMGFM ainsi que les processus liés aux données et aux opérations soient conformes à l’orientation du Bureau du dirigeant principal de l’information;"
-  },
-  {
-    "en": "Public Service Employment Act",
-    "fr": "gérer le processus de gestion du changement par rapport au SMGFM et aux exigences opérationnelles connexes;"
-  },
-  {
-    "en": "Security of Information Act",
-    "fr": "assurer qu’une gouvernance soit instaurée et assurer la disponibilité des ressources à l’appui de la normalisation et de l’interopérabilité du SMGFM, des processus opérationnels communs en matière de gestion financière, de l’information et des données;"
-  },
-  {
-    "en": "Service Fees Act",
-    "fr": "veiller à ce que le ministère soit un membre des regroupements pertinents d’utilisateurs du SMGFM;"
-  },
-  {
-    "en": "Shared Services Canada Act",
-    "fr": "garantir l’intégrité du système de gestion financière (SGF);"
-  },
-  {
-    "en": "Government Contracts Regulations",
-    "fr": "contribuer à la production de rapports annuels et aux exercices sur le modèle de coûts concernant les SGF à la demande du Bureau du contrôleur général;"
-  },
-  {
-    "en": "Foundation Framework for Treasury Board Policies",
-    "fr": "gérer l’information, les données et les processus opérationnels liés à la gestion financière conformément à l’orientation du Bureau du contrôleur général."
-  },
-  {
-    "en": "This directive takes effect on April 1st, 2023.",
-    "fr": "obtenir l'approbation du Bureau du contrôleur général avant d'investir dans un SGF (consulter l'annexe B portant sur les procédures obligatoires à suivre pour demander l'approbation des investissements dans les systèmes de gestion financière et l'annexe C liée à la norme sur les critères d'harmonisation des investissements);"
-  },
-  {
-    "en": "This directive is issued pursuant to section 7 and section 11.1 of the (FAA).",
-    "fr": "établir des structures de gouvernance au sein de son ministère pour faciliter l’examen et l’approbation des investissements en SGF."
-  },
-  {
-    "en": "The objectives indicated in section 3 of the , section 3 of the , and section 3 of the apply to this directive.",
-    "fr": "veiller à l’harmonisation du SGF avec le modèle des capacités opérationnelles de gestion financière (MCO-GF);"
-  },
-  {
-    "en": "The expected results indicated in section 3 of the , section 3 of the , and section 3 of the apply to this directive.",
-    "fr": "assurer l’utilisation d’un modèle de référence des systèmes de gestion financière et/ou solutions de SGF approuvées, tels que définis par le Bureau du contrôleur général, en tant que base de référence ou de nouvelle base de référence normalisée du ministère;"
-  },
-  {
-    "en": "The Chief Financial Officer is responsible for the following:",
-    "fr": "faire en sorte que les variances, les exemptions ou les écarts par rapport à l’utilisation prévue du MCO-GF, d’un modèle de référence des systèmes de gestion financière et/ou solutions de SGF approuvées soient autorisés par le Bureau du contrôleur général (consulter l’annexe B portant sur les procédures obligatoires à suivre pour demander l’approbation des investissements dans les systèmes de gestion financière);"
-  },
-  {
-    "en": "selecting and implementing the departmental financial and materiel management system (DFMS) in accordance with direction from the Office of the Comptroller General",
-    "fr": "collaborer avec le Bureau du contrôleur général et d’autres ministères dans le but d’améliorer, de faire évoluer et de moderniser les modèles de référence des systèmes de gestion financière approuvées."
-  },
-  {
-    "en": "engaging the departmental Chief Information Officer to ensure DFMS investments, financial management information, and data and business processes are in alignment with direction from the Office of the Chief Information Officer",
-    "fr": "s’assurer que les renseignements et les données en matière de gestion financière du ministère soient gérés de manière sûre à titre d’actifs en :"
-  },
-  {
-    "en": "managing the change management process with respect to the DFMS and the associated business requirements",
-    "fr": "supervisant la conception, la mise en œuvre et la gestion des flux de travail des données financières et en gérant le cycle de vie des données liées à la gestion financière (dont la collecte, la conservation, le stockage, l’analyse, la production de rapports, la vérification et l’élimination des données liées à la gestion financière);"
-  },
-  {
-    "en": "ensuring governance and resources are available to support the standardization and interoperability of the DFMS, common financial management business processes, information and data",
-    "fr": "veillant à ce que toute l’information et les données en matière de gestion financière provenant d’un SGF soient gérés et utilisés conformément aux normes applicables liées aux données;"
-  },
-  {
-    "en": "ensuring the department is a member of the applicable DFMS cluster group",
-    "fr": "limitant la personnalisation des SGF grâce à la modification des systèmes d’interfaçage ou de satellites afin de satisfaire aux exigences d’intégration et d’interopérabilité, au besoin."
-  },
-  {
-    "en": "ensuring the integrity of the financial management system (FMS)",
-    "fr": "assurer la conformité avec la présente directive au moyen de la surveillance, d’examens et d’autres types d’évaluations;"
-  },
-  {
-    "en": "providing input into annual reporting and cost model exercises on the FMS, as requested by the Office of the Comptroller General",
-    "fr": "assurer la mise en application des procédures obligatoires des ministères faisant partie des regroupements d’utilisateurs et des investissements dans les systèmes de gestion financière (définies dans les annexes A et B);"
-  },
-  {
-    "en": "managing financial management information, data and business processes, in accordance with direction from the Office of the Comptroller General",
-    "fr": "fournir des renseignements sur les SGF de son ministère, à la demande du Bureau du contrôleur général."
-  },
-  {
-    "en": "seeking endorsement from the Office of the Comptroller General prior to investing in an FMS (see Appendix B: mandatory procedures for seeking endorsement of financial management system investments and Appendix C: standard on investment alignment criteria)",
-    "fr": "assurer un leadership fonctionnel au sein du ministère par rapport au développement et à la durabilité des SGF grâce à la gestion des talents et aux stratégies de développement de la communauté."
-  },
-  {
-    "en": "establishing governance structures within their department to facilitate the review and endorsement of FMS investments",
-    "fr": "Les cadres supérieurs désignés de la gestion des systèmes de gestion financière sont responsables de :"
-  },
-  {
-    "en": "ensuring alignment of the FMS with the Financial Management Business Capability Model (FM-BCM)",
-    "fr": "s’assurer de l’utilisation des processus, des procédures, des outils et des modèles pertinents lors de l’intégration de l’information dans un SGF ou de leur extraction. Cela comprend :"
-  },
-  {
-    "en": "ensuring the use of an FMS template and/or approved FMS solution, as defined by the Office of the Comptroller General, as the department’s standardized core baseline/re-baseline",
-    "fr": "préciser toutes les nouvelles informations ou exigences opérationnelles qui influent sur les systèmes de gestion des finances et du matériel;"
-  },
-  {
-    "en": "ensuring that any variances, exemptions or deviations from the intended use of the FM-BCM, an FMS template or other approved financial management system solution are sought from the Office of the Comptroller General (see Appendix B: mandatory procedures for seeking endorsement of financial management system investments)",
-    "fr": "élaborer un processus de gestion du changement et un plan de mise en œuvre pour tous les changements ayant une incidence sur les systèmes de gestion des finances et du matériel;"
-  },
-  {
-    "en": "collaborating with the Office of the Comptroller General and other departments to continuously improve, evolve and modernize approved FMS templates",
-    "fr": "collaborer avec le Bureau du contrôleur général pour assurer l’harmonisation avec le SGF;"
-  },
-  {
-    "en": "ensuring that departmental financial management information and data are securely managed as assets by:",
-    "fr": "obtenir l’approbation du Bureau du contrôleur général pour les investissements ou les exigences opérationnelles qui peuvent toucher l’interopérabilité du SGF, y compris au niveau du GC;"
-  },
-  {
-    "en": "overseeing the design, implementation and management of financial data workflows, and managing the financial management data life cycle (including the collection, retention, storage, analysis, reporting, auditing and disposition of financial management data)",
-    "fr": "consulter le dirigeant principal des finances du ministère à propos des données extraites du SGF et utilisées par un système d’interfaçage ou de satellites;"
-  },
-  {
-    "en": "ensuring that all financial management information and data from an FMS is managed and used in alignment with applicable data standards",
-    "fr": "veiller à ce que le système central ou le système du programme est conforme aux procédures obligatoires déterminées dans les annexes A et B."
-  },
-  {
-    "en": "limiting customization of the FMS by ensuring that interfacing or satellite systems adjust, where necessary, to meet integration and interoperability requirements",
-    "fr": "Ne s’applique pas."
-  },
-  {
-    "en": "ensuring compliance with this directive through monitoring, reviews, and other assessments",
-    "fr": "La directive s’applique aux organisations figurant à l’article 6 de la ."
-  },
-  {
-    "en": "ensuring that mandatory procedures for host cluster departments and financial management system investments, set out in appendices A and B, are applied",
-    "fr": "Les employés des ministères devraient communiquer avec l’administration centrale de leur ministère pour obtenir des renseignements supplémentaires au sujet de cette directive."
+    "fr": "Transformation de la gestion financière Bureau du contrôleur général Secrétariat du Conseil du Trésor Ottawa (Ontario) K1A 0R5",
+    "anchor": "8.2",
+    "tag": "p"
   }
 ]

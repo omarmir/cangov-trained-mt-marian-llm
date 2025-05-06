@@ -1,170 +1,44 @@
 [
   {
     "en": "On October 21, 2005, the Government of Canada announced its commitment to proactively disclose the awarding of Gs&Cs worth more than $25,000 as part of its management improvement agenda. At the time, this commitment was part of the continued, phased introduction of proactive disclosure requirements that started with travel and hospitality expenses, contracts for goods and services, and position reclassification information.",
-    "fr": "Le 21 octobre 2005, le gouvernement du Canada a annoncé son engagement à divulguer de manière proactive l’octroi des subventions et des contributions de plus de 25 000 $ dans le cadre de son programme d’amélioration de la gestion. À l’époque, cet engagement s’inscrivait dans le cadre de l’application progressive et continue des exigences de divulgation proactive, en commençant par les dépenses de voyage et d’accueil, les contrats pour les produits et les services, et l’information sur la reclassification des postes."
+    "fr": "Le 21 octobre 2005, le gouvernement du Canada a annoncé son engagement à divulguer de manière proactive l’octroi des subventions et des contributions de plus de 25 000 $ dans le cadre de son programme d’amélioration de la gestion. À l’époque, cet engagement s’inscrivait dans le cadre de l’application progressive et continue des exigences de divulgation proactive, en commençant par les dépenses de voyage et d’accueil, les contrats pour les produits et les services, et l’information sur la reclassification des postes.",
+    "anchor": "4.1",
+    "tag": "p"
   },
   {
-    "en": "In June 2016, as part of the Open Government Action Plan, the Treasury Board of Canada Secretariat (TBS) committed to increasing the transparency and usefulness of Gs&Cs data. The initiative was spearheaded by a TBS-led committee of 37 participating departments, agencies and Crown corporations, known as the (the committee has since been disbanded).",
-    "fr": "En juin 2016, le Secrétariat du Conseil du Trésor du Canada, dans le cadre du Plan d’action pour un gouvernement ouvert, s’est engagé à accroître la transparence et l’utilité des données sur les subventions et les contributions. L’initiative a été lancée par un comité dirigé par le Secrétariat du Conseil du Trésor du Canada et comptant 37 ministères, organismes et sociétés d’état participants, appelé (le comité a depuis été dissous)."
+    "en": "In June 2016, as part of the Open Government Action Plan, the Treasury Board of Canada Secretariat (TBS) committed to increasing the transparency and usefulness of Gs&Cs data. The initiative was spearheaded by a TBS-led committee of 37 participating departments, agencies and Crown corporations, known as the Committee on the Reporting of Grants and Contributions Awards (the committee has since been disbanded).",
+    "fr": "En juin 2016, le Secrétariat du Conseil du Trésor du Canada, dans le cadre du Plan d’action pour un gouvernement ouvert, s’est engagé à accroître la transparence et l’utilité des données sur les subventions et les contributions. L’initiative a été lancée par un comité dirigé par le Secrétariat du Conseil du Trésor du Canada et comptant 37 ministères, organismes et sociétés d’état participants, appelé Comité sur la divulgation des octrois de subventions et de contributions (le comité a depuis été dissous).",
+    "anchor": "4.1",
+    "tag": "p"
   },
   {
-    "en": "These guidelines take effect on April 1, 2018.",
-    "fr": "30 juillet"
+    "en": "Table 1: reporting deadlines according to quarterReporting quarterFinal deadline for reportingQ1: April 1 to June 30July 30Q2: July 1 to September 30October 30Q3: October 1 to December 31January 30Q4: January 1 to March 31April 30",
+    "fr": "Tableau 1 : dates limites pour la divulgation des octrois par trimestreTrimestreDate limite finale pour la divulgationT1 : du 1er avril au 30 juin 30 juilletT2 : du 1er juillet au 30 septembre 30 octobreT3 : du 1er octobre au 31 décembre 30 janvierT4 : du 1er janvier au 31 mars 30 avril",
+    "anchor": "5.1.3",
+    "tag": "table"
   },
   {
-    "en": "These guidelines replace the following:",
-    "fr": "30 octobre"
+    "en": "Privacy ActAccess to Information ActFinancial Administration ActIndian Act",
+    "fr": "Loi sur la protection des renseignements personnelsLoi sur l’accès à l’informationLoi sur la gestion des finances publiquesLoi sur les Indiens",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
-    "en": "The new guidelines under paragraph 5.4.6. apply to all new reporting of grants and contributions awards after April 1, 2019",
-    "fr": "30 janvier"
+    "en": "Policy on Transfer PaymentsDirective on Transfer Payments",
+    "fr": "Politique sur les paiements de transfertDirective sur les paiements de transfert",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
-    "en": "Amendments to the guidelines under paragraph 5.1.3. apply to all new reporting of grants and contributions awards after June 1, 2019.",
-    "fr": "30 avril"
+    "en": "Standard on Web Accessibility",
+    "fr": "Norme sur l’accessibilité des sites Web",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
-    "en": "To provide guidance to managers and functional specialists on the identification, collection and publication of grants and contributions (Gs&Cs) award information.",
-    "fr": "Les présentes lignes directrices entrent en vigueur le 1er avril 2018."
-  },
-  {
-    "en": "These guidelines also support the proactive publication of grants and contributions information requirements for government entities under the Access to Information Act. Section 87 of the Act requires government entities to publicly disclose grants and contributions with a value of more than $25,000, as well as grants and contributions that are of $25,000 or less but were amended so that their value is of $25,000 or more.",
-    "fr": "Les présentes lignes directrices remplacent ce qui suit :"
-  },
-  {
-    "en": "These guidelines apply to departments and agencies that are subject to the Policy on Transfer Payments and the Directive on Transfer Payments, or that are listed in Schedules I, I.1 and II of the .",
-    "fr": "Les nouvelles lignes directrices prévues à l’alinéa 5.4.6 s’appliquent à tous les octrois de subvention et de contribution effectués après le 1er avril 2019."
-  },
-  {
-    "en": "These guidelines support the that “beginning in the spring of 2006, the government will make information on grants and contributions available through proactive disclosure, initially for those above $25,000.”",
-    "fr": "Les modifications aux lignes directrices prévues à l’alinéa 5.1.3 s’appliquent à tous les octrois de subvention et de contribution effectués après le 1er juin 2019."
-  },
-  {
-    "en": "Program terms and conditions (Ts&Cs) that exempt the reporting of awards for programs approved before the effective date of these guidelines will remain in effect until their expiry, or until their continuation or amendment is approved.",
-    "fr": "Fournir des lignes directrices et des directives aux gestionnaires et aux spécialistes fonctionnels sur la détermination, la collecte et la publication de renseignements sur l’octroi de subventions et de contributions qui doit être signalé."
-  },
-  {
-    "en": "In 2019 the was updated to legislate the proactive publication of grants and contributions with a value of more than $25,000, as well as grants and contributions that are of $25,000 or less but were amended so that their value is of $25,000 or more.",
-    "fr": "Ces lignes directrices appuient également la publication proactive des renseignements sur les subventions et les contributions exigés des entités gouvernementales en vertu de la Loi sur l’accès à l’information. L’article 87 de la Loi exige que les entités gouvernementales divulguent publiquement les subventions et les contributions d’une valeur de plus de 25 000 $, ainsi que les subventions et les contributions d’une valeur de 25 000 $ ou moins, mais qui ont été modifiées de sorte que leur valeur soit de 25 000 $ ou plus."
-  },
-  {
-    "en": "General guidelines",
-    "fr": "Les présentes lignes directrices s’appliquent aux ministères et organismes qui sont assujettis à la Politique et à la Directive sur les paiements de transfert, ou qui sont énumérés aux annexes I, I.1 et II de la ."
-  },
-  {
-    "en": "All awarded Gs&Cs are to be reported, except those exempt by provisions in the .",
-    "fr": "Les présentes lignes directrices appuient l’engagement pris par le président du Conseil du Trésor déclarant que : « à partir du printemps 2006, le gouvernement commencera à rendre accessible de l’information sur les subventions et les contributions, grâce à la divulgation proactive, initialement pour celles de plus de 25 000 $ »."
-  },
-  {
-    "en": "The total signed amount of the grant or contribution awarded is to be reported when the agreement is signed.",
-    "fr": "Les modalités de programme en vertu desquelles la divulgation des octrois est exemptée, pour les programmes approuvés avant l’entrée en vigueur des présentes lignes directrices, demeureront en place jusqu’à ce qu’elles expirent ou jusqu’à ce que leur continuation ou modification soit approuvée."
-  },
-  {
-    "en": "The Access to Information Act requires that departments must report within 30 days of the end of the reporting quarter, as indicated in Table 1.",
-    "fr": "En 2019, la a été mise à jour pour légiférer la publication proactive des subventions et contributions d’une valeur de plus de 25 000 $, ainsi que des subventions et contributions de 25 000 $ ou moins, mais a été modifiée de manière à ce que leur valeur soit de 25 000 $ ou plus."
-  },
-  {
-    "en": "Identification of Gs&Cs to be reported",
-    "fr": "Lignes directrices générales"
-  },
-  {
-    "en": "Departments should report Gs&Cs awards (including those below $25,000), except where exceptions have been granted, as highlighted in Appendix A.",
-    "fr": "Toutes les subventions et contributions octroyées doivent être déclarées, sauf celles qui sont exemptées conformément à la ."
-  },
-  {
-    "en": "Departments should report all award amendments according to the guidelines in Appendix D.",
-    "fr": "Le montant total autorisé pour l’octroi des subventions et contributions doit être déclaré lorsque l’entente est signée."
-  },
-  {
-    "en": "When there are a series of amendments to an award, they may be disclosed as one report, provided that they occur in the same reporting period.",
-    "fr": "La Loi sur l’accès à l’information exige que les ministères déclarent les octrois dans les 30 jours suivant la fin du trimestre visé par la divulgation, conformément au tableau 1."
-  },
-  {
-    "en": "When a grant or contribution is awarded and subsequently terminated, the termination should be treated as an amendment and reported as such.",
-    "fr": "Identification des subventions et contributions à déclarer"
-  },
-  {
-    "en": "For Gs&Cs awards under $25,000: when information is classified, the non-sensitive information should be reported under the award reporting exercise; departments may batch the information to protect sensitive information. Additional information on batch reporting can be found in Appendix C.",
-    "fr": "Les ministères doivent déclarer les octrois de subventions et de contributions (y compris ceux de moins de 25 000 $), sauf s’ils ont bénéficié d’une exception, comme il est indiqué à l’annexe A."
-  },
-  {
-    "en": "Collection of Gs&Cs data",
-    "fr": "Les ministères doivent déclarer toutes les modifications apportées aux octrois visés à l’annexe D des présentes lignes directrices."
-  },
-  {
-    "en": "The data fields described in Appendix B were developed by the Committee on the Reporting of Grants and Contributions Awards, in consultation with key external and internal stakeholders, to enable departments to provide consistent, useful and usable information to the public. Departments are encouraged to follow the recommended approach for each data field and move toward the recommended reporting standards over time.",
-    "fr": "Lorsqu’un octroi fait l’objet de plusieurs modifications, celles-ci peuvent être déclarées dans un seul rapport, pourvu qu’elles aient lieu au cours de la même période de divulgation."
-  },
-  {
-    "en": "Publication of Gs&Cs awards",
-    "fr": "Lorsqu’une subvention ou une contribution est octroyée, et que l’accord est résilié par la suite, la résiliation doit être traitée ce cas comme une modification et être signalée comme telle."
-  },
-  {
-    "en": "Using templates provided by TBS, departments and agencies are to report their respective Gs&Cs information on the .",
-    "fr": "Pour les octrois de subventions et contributions de moins de 25 000 $ : lorsque l’information est classifiée, les renseignements connexes de nature non délicate doivent être déclarés pour l’exercice où la subvention ou la contribution a été octroyée; les ministères peuvent regrouper les renseignements afin de protéger l’information sensible. L’annexe C contient des précisions sur l’établissement de rapports en lots."
-  },
-  {
-    "en": "Departments will begin reporting on the effective date of these guidelines.",
-    "fr": "Collecte de données sur les subventions et les contributions"
-  },
-  {
-    "en": "Departments will place text, provided by TBS, on their existing proactive disclosure pages to redirect interested parties to the open government website.",
-    "fr": "Les éléments de données décrits à l’annexe B ont été élaborés par le Comité sur la divulgation des octrois de subventions et de contributions, en collaboration avec les principaux intervenants externes et internes, afin de permettre aux ministères de fournir au public des renseignements cohérents, utiles et utilisables. Les ministères sont encouragés à suivre l’approche recommandée pour chaque élément de données et à se conformer progressivement à l’ensemble des normes de divulgation recommandée."
-  },
-  {
-    "en": "When a department issues a grant or contribution on another department’s behalf, the department issuing the funds to the recipient should report the award and note that another department participated in the “additional information” field.",
-    "fr": "Publication des renseignements sur les octrois de subventions et de contributions"
-  },
-  {
-    "en": "When more than one department or agency is funding a recipient for a shared initiative, both departments should report the award and the amount of the grant or contribution awarded by their department. Departments should communicate to ensure consistency of information, and include the name(s) of the other department(s) in the “additional information field”.",
-    "fr": "À l’aide des modèles fournis par le Secrétariat du Conseil du Trésor du Canada, les ministères et organismes doivent déclarer les renseignements sur leurs subventions et contributions respectives dans le portail de données le ."
-  },
-  {
-    "en": "A Gs&Cs award or amendment that is not reported during the reporting period in which it was awarded may be indicated in the subsequent reporting period, or as soon as practical. Any belated reporting must be identified as such in the additional information field.",
-    "fr": "Les ministères commenceront à publier leurs rapports sur ouvert.canada.ca à la date d’entrée en vigueur des présentes lignes directrices."
-  },
-  {
-    "en": "Posted information may be modified when a (defined in Appendix D) was made in the originally reported data. Any modified information should be clearly indicated within the original report’s additional information field.",
-    "fr": "Les ministères veilleront à ce que le texte fourni par le Secrétariat du Conseil du Trésor du Canada figure sur leurs pages de divulgation proactive existantes, lequel redirigera les parties intéressées vers le site Web du gouvernement ouvert."
-  },
-  {
-    "en": "Departments should provide a nil report for any quarter in which no Gs&Cs award or amendment are disclosed. Departments should populate the reporting period and the nil report data elements within the reporting template.",
-    "fr": "Lorsqu’un ministère verse une subvention ou une contribution pour le compte d’un autre ministère, le ministère qui verse les fonds au bénéficiaire doit déclarer l’octroi, en notant dans le champ « renseignements supplémentaires » le fait qu’un autre ministère y a participé."
-  },
-  {
-    "en": "Departments should complete nil reports until one calendar year has passed since their last Gs&Cs award or amendment was reported.",
-    "fr": "Lorsque plus d’un ministère ou organisme finance un bénéficiaire pour une initiative commune, chaque ministère doit déclarer l’octroi et sa part respective de subvention ou de contribution. Dans ce cas, les ministères devraient s’échanger l’information afin d’assurer l’uniformité des renseignements, et inclure le nom des autres ministères dans le champ « renseignements supplémentaires »."
-  },
-  {
-    "en": "Monitoring of award reporting",
-    "fr": "Un octroi ou une modification d’octroi qui n’a pas été signalé au cours de la période où la subvention ou la contribution a été accordée peut être divulgué dans la période de divulgation suivante, ou aussitôt que possible. Toute divulgation tardive doit être indiquée comme telle au champ renseignements supplémentaires."
-  },
-  {
-    "en": "In accordance with the Treasury Board Policy on Transfer Payments, departments and agencies are responsible for ensuring that the Gs&Cs authority (the minister of the relevant department or agency) is acting and seen to be acting within the letter and the spirit of the Treasury Board Policy on Transfer Payments.",
-    "fr": "Les renseignements affichés peuvent être modifiés lorsque les données déclarées à l’origine comportent une (définie à l’annexe D). Toute information modifiée devrait être clairement indiquée dans le champ du rapport original."
-  },
-  {
-    "en": "A department runs the risk of non-compliance if it does not ensure that Gs&Cs award and amendment information is accurate, up to date, and posted in accordance with this guideline. The department’s deputy head is responsible for ensuring that data is appropriately validated, complete, and reported in a timely manner. It is a best practice for departments to clearly indicate any limitations associated with their reported data.",
-    "fr": "Les ministères devraient fournir un rapport nul pour tous les trimestres où aucun octroi ou modification de subventions et de contributions est déclaré. Les ministères devraient remplir la période de déclaration et les éléments de données du rapport nul dans le modèle de rapport."
-  },
-  {
-    "en": "TBS may regularly monitor departmental data for Gs&Cs award reporting and ensure compliance. When a department does not have awards to disclose, it will populate a different section of the reporting template, and the information will be placed on the .",
-    "fr": "Les ministères devraient remplir des rapports nuls jusqu’à ce qu’une année civile se soit écoulée depuis la dernière déclaration d’octroi ou de modification de subventions et de contributions."
-  },
-  {
-    "en": "(accessible only on the Government of Canada network)",
-    "fr": "Surveillance de la divulgation des octrois"
-  },
-  {
-    "en": "Members of the public may contact regarding any questions about this guideline.",
-    "fr": "Conformément à la Politique sur les paiements de transfert du Conseil du Trésor, les ministères et organismes ont la responsabilité de s’assurer que l’autorité en matière de subventions et de contributions (le ministre du ministère ou de l’organisme en question) agit et est perçue comme agissant selon la lettre et l’esprit de la Politique sur les paiements de transfert."
-  },
-  {
-    "en": "Individuals from departments should contact their chief financial officer or departmental transfer payment centre of expertise regarding any questions about this guideline.",
-    "fr": "Un ministère risque de se trouver dans une situation de non-conformité s’il ne veille pas à ce que les renseignements sur l’octroi et les modifications de subventions et de contributions soient exacts, à jour et affichés conformément à cette ligne directrice. L’administrateur général du ministère est chargé de s’assurer que les données sont validées convenablement, complètes et divulguées en temps opportun. Une pratique exemplaire pour les ministères consiste à indiquer clairement toute restriction liée aux données déclarées."
-  },
-  {
-    "en": "The chief financial officer or individuals from a departmental transfer payment centre of expertise may contact for interpretation of this guideline.",
-    "fr": "Le Secrétariat du Conseil du Trésor du Canada surveillera régulièrement les données ministérielles relatives à la divulgation des octrois de subventions et de contributions et veillera à la conformité. Si un ministère n’a pas d’octroi à déclarer, il remplira une section différente du modèle de déclaration, et les renseignements seront affichés sur le site Web du ."
+    "en": "Third Biennial Plan to the Open Government PartnershipCommittee on the Reporting of Grants and Contributions Awards (accessible only on the Government of Canada network)",
+    "fr": "Le troisième Plan biannuel dans le cadre du Partenariat pour un gouvernement ouvertComité sur la divulgation des octrois de subventions et de contributions (accessible seulement sur le réseau du gouvernement du Canada)",
+    "anchor": "6",
+    "tag": "chapter"
   }
 ]

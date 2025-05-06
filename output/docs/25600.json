@@ -1,166 +1,122 @@
 [
   {
-    "en": "These guidelines take effect on April 1, 2012.",
-    "fr": "Les présentes lignes directrices entreront en vigueur le 1 avril 2012."
+    "en": "1.1 These guidelines take effect on April 1, 2012.",
+    "fr": "1.1 Les présentes lignes directrices entreront en vigueur le 1er avril 2012.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "The guidelines elaborate on the Directive on Financial Management of Pay Administration which reflectsobligations under the Garnishment, Attachment and Pension Diversion Act (GAPDA).",
-    "fr": "Les lignes directrices clarifient la Directive sur la gestion financière de l'administration de la payequi reflète les obligations en vertu de la (LSADP)."
+    "en": "2.1 The guidelines elaborate on the Directive on Financial Management of Pay Administration which reflectsobligations under the Garnishment, Attachment and Pension Diversion Act (GAPDA).",
+    "fr": "2.1 Les lignes directrices clarifient la Directive sur la gestion financière de l'administration de la payequi reflète les obligations en vertu de la Loi sur la saisie-arrêt et la distraction de pensions (LSADP).",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "The Garnishment, Attachment and Pension Diversion Act provides for the garnishment or attachment of HerMajesty in right of Canada and for the diversion of pension benefits payable by Her Majesty in right of Canada under certain enactments.",
-    "fr": "La (LSADP) prévoit lasaisie-arrêt entre les mains de Sa Majesté du chef du Canada et la distraction de prestations de pension allouées par Sa Majesté du chef du Canada en application de certaines dispositionslégislatives."
+    "en": "2.2 The Garnishment, Attachment and Pension Diversion Act provides for the garnishment or attachment of HerMajesty in right of Canada and for the diversion of pension benefits payable by Her Majesty in right of Canada under certain enactments.",
+    "fr": "2.2 La Loi sur la saisie-arrêt et la distraction de pensions (LSADP) prévoit lasaisie-arrêt entre les mains de Sa Majesté du chef du Canada et la distraction de prestations de pension allouées par Sa Majesté du chef du Canada en application de certaines dispositionslégislatives.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Part I of the allows for the garnishment of wages and other remuneration paid to governmentemployees, as well as for the garnishment of fees paid to a contractor engaged as an individual under a contract for services.",
-    "fr": "La partie I de la autorise la saisie des traitements et autres formes de rémunérationversées aux employés de l'État ainsi que la saisie des honoraires versés à un entrepreneur engagé en vertu d'un marché de services en tant que particulier."
+    "en": "2.3 Part I of the GAPDA allows for the garnishment of wages and other remuneration paid to governmentemployees, as well as for the garnishment of fees paid to a contractor engaged as an individual under a contract for services.",
+    "fr": "2.3 La partie I de la LSADP autorise la saisie des traitements et autres formes de rémunérationversées aux employés de l'État ainsi que la saisie des honoraires versés à un entrepreneur engagé en vertu d'un marché de services en tant que particulier.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Garnishment is a complex process that involves specific legislated timelines and a variety of differentparties, departments and legislation, both federal and provincial.",
-    "fr": "La saisie-arrêt est un processus laborieux qui fait intervenir des échéanciers complexes et un éventailde parties diverses, de ministères et de dispositions législatives, tant à l'échelon fédéral qu'à l'échelon provincial."
+    "en": "2.4 Garnishment is a complex process that involves specific legislated timelines and a variety of differentparties, departments and legislation, both federal and provincial.",
+    "fr": "2.4 La saisie-arrêt est un processus laborieux qui fait intervenir des échéanciers complexes et un éventailde parties diverses, de ministères et de dispositions législatives, tant à l'échelon fédéral qu'à l'échelon provincial.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Garnishment Registries as specified in the Regulations receive and review all garnishmentdocuments. They then forward the documents and instructions to departmental Human Resources and Compensation offices, who determine amounts and action the deductions through the Public Works andGovernment Services Canada payroll system. This information is then provided to the departmental finance office who then requisitions payment and produces and mails the remittance cheques. Thus, thetimely remittance of garnishment moneys is a responsibility shared between the compensation and finance officers in departments.",
-    "fr": "Comme stipulé dans le règlement pris en vertu de la , les Greffes de la saisie-arrêt reçoivent etpassent en revue tous les actes relatifs à la saisie-arrêt. Ensuite, ils acheminent les actes et les instructions aux bureaux des Ressources humaines et de la Rémunération du ministère qui déterminent les montants et appliquent les retenues dans le système de rémunération de Travaux publics et Services gouvernementaux Canada. Ces renseignements sont ensuite acheminés au bureau des finances du ministère qui sollicite le paiement, de même que produit et envoie par la poste les chèques de règlement. Par conséquent, le versement des sommes saisissables est une responsabilité partagée entre les agents ministériels de la rémunération et des finances."
+    "en": "2.5 Garnishment Registries as specified in the GAPDA Regulations receive and review all garnishmentdocuments. They then forward the documents and instructions to departmental Human Resources and Compensation offices, who determine amounts and action the deductions through the Public Works andGovernment Services Canada payroll system. This information is then provided to the departmental finance office who then requisitions payment and produces and mails the remittance cheques. Thus, thetimely remittance of garnishment moneys is a responsibility shared between the compensation and finance officers in departments.",
+    "fr": "2.5 Comme stipulé dans le règlement pris en vertu de la LSADP, les Greffes de la saisie-arrêt reçoivent etpassent en revue tous les actes relatifs à la saisie-arrêt. Ensuite, ils acheminent les actes et les instructions aux bureaux des Ressources humaines et de la Rémunération du ministère qui déterminent les montants et appliquent les retenues dans le système de rémunération de Travaux publics et Services gouvernementaux Canada. Ces renseignements sont ensuite acheminés au bureau des finances du ministère qui sollicite le paiement, de même que produit et envoie par la poste les chèques de règlement. Par conséquent, le versement des sommes saisissables est une responsabilité partagée entre les agents ministériels de la rémunération et des finances.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Definitions of terms used in these guidelines can be found in Appendix A.",
-    "fr": "Les définitions des termes utilisés dans les présentes Lignes directrices figurent à l'AnnexeA."
+    "en": "3.1 Definitions of terms used in these guidelines can be found in Appendix A.",
+    "fr": "3.1 Les définitions des termes utilisés dans les présentes Lignes directrices figurent à l'AnnexeA.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "As per the Directive on Financial Management of Pay Administration, departments and agencies are todesignate individuals in their organization as the \"garnishee contact\". Information such as the name, position title, telephone number, email and mailing addresses, and geographical area ofresponsibility of each garnishee contact is to be provided to the National Capital Region Garnishment Registry office located at the following address:",
-    "fr": "Conformément à la Directive sur la gestion financière de l'administration de la paye, les ministères etles organismes sont priés de désigner les employés qui, au sein de leur organisation, agiront en tant qu'« agent de saisie ». Les renseignements, tels le nom, le titre du poste, le numéro de téléphone, les adresses postale et électronique ainsi que le secteur de responsabilité géographique de chaque agent de saisie doivent être communiqués au Greffe de la saisie-arrêt de la région de la capitale nationale à l'adresse suivante :"
+    "en": "4.1 As per the Directive on Financial Management of Pay Administration, departments and agencies are todesignate individuals in their organization as the \"garnishee contact\". Information such as the name, position title, telephone number, email and mailing addresses, and geographical area ofresponsibility of each garnishee contact is to be provided to the National Capital Region Garnishment Registry office located at the following address:",
+    "fr": "4.1 Conformément à la Directive sur la gestion financière de l'administration de la paye, les ministères etles organismes sont priés de désigner les employés qui, au sein de leur organisation, agiront en tant qu'« agent de saisie ». Les renseignements, tels le nom, le titre du poste, le numéro de téléphone, les adresses postale et électronique ainsi que le secteur de responsabilité géographique de chaque agent de saisie doivent être communiqués au Greffe de la saisie-arrêt de la région de la capitale nationale à l'adresse suivante :",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Garnishment Registry Department of Justice 284 Wellington Street Ottawa, Ontario K1A 0H8 Email:",
-    "fr": "Greffe de la saisie-arrêt Ministère de la Justice 284, rue Wellington Ottawa (Ontario) K1A 0H8 Courriel :"
+    "en": "Garnishment RegistryDepartment of Justice284 Wellington StreetOttawa, OntarioK1A 0H8Email: GAPDA_LSAPD@justice.gc.ca",
+    "fr": "Greffe de la saisie-arrêtMinistère de la Justice284, rue WellingtonOttawa (Ontario)K1A 0H8Courriel : GAPDA_LSAPD@justice.gc.ca",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Upon receipt of the instructions from the Garnishment Registries, to assist in monitoring and to ensuretimely and systematic processing of garnishments, it is recommended that garnishee contacts keep a log detailing the processing of garnishment documents with the following information:",
-    "fr": "Après réception des instructions des greffes de la saisie-arrêt, en vue de surveiller lessaisies-arrêts et d'en assurer le traitement systématique et en temps opportun, les agents de saisie sont priés de tenir un registre détaillé du traitement des actes relatifs à la saisie-arrêt. Ceregistre devrait contenir l'information suivante :"
+    "en": "4.2 Upon receipt of the instructions from the Garnishment Registries, to assist in monitoring and to ensuretimely and systematic processing of garnishments, it is recommended that garnishee contacts keep a log detailing the processing of garnishment documents with the following information:",
+    "fr": "4.2 Après réception des instructions des greffes de la saisie-arrêt, en vue de surveiller lessaisies-arrêts et d'en assurer le traitement systématique et en temps opportun, les agents de saisie sont priés de tenir un registre détaillé du traitement des actes relatifs à la saisie-arrêt. Ceregistre devrait contenir l'information suivante :",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "employee's full name and paylist;employee's status and dates;name of court or provincial or territorial maintenance enforcement program (MEP) to whom payment is payable and address where it must be sent;court file number or MEP case number, as applicable;date the application for garnishment was served on the Garnishment Registry office;expiry date of the garnishee summons;type of debt owed under garnishee summons(family support, commercial debt);amount owed under the garnishee summons and applicable exemptions/provincial garnishment percentage to be applied;in case of family support debt, ongoing support payment amount and total arrears amount;variations to amounts owed and dates received;dates the payments are sent to the court or the MEP;Length of time a payment is overdue and reason;Number of incidents of late payment;cheque amount;balance owing under the garnishee summons;if no money is garnisheed under this garnishee summons for the individual in a particular pay period, the reason why;date of receipt of a termination of the garnishee summons;date of termination of a garnishee summons and reason (termination notice, bankruptcy, debt paid in full);date file transferred to another department/agency (where applicable);cross-reference to other garnishee summons(es) received for same employee.",
+    "fr": "Le nom complet de l'employé et sa liste de paye;Le statut de l'employé et les dates;Le nom du tribunal ou le Programme d'exécution des ordonnances alimentaires (PEOA) provincial ou territorial en faveur de qui le règlement doit être effectué et l'adresse à laquelle il doit être envoyé;Le numéro de dossier de la cour ou numéro de cas du PEOA, selon le cas;La date à laquelle le bref de saisie-arrêt a été signifié au bureau du Greffe de la saisie-arrêt;La date d'expiration du bref de saisie-arrêt;La nature de la dette due en fonction du bref de saisie-arrêt (soutien à la famille, dette commerciale);La nature de la somme dette due en fonction du bref de saisie-arrêt, ainsi que les exemptions et le pourcentage de saisie-arrêt provincial applicables;Dans le cas de dettes de soutien à la famille, le montant des paiements alimentaires et de l'ensemble des arriérés;Les variations des montants dus et les dates de réception;Les dates auxquelles les versements ont été envoyés à la cour ou au PEOA;La durée du retard d'un paiement et la raison s'y rattachant;Le nombre d'incidents de paiement en retard;Le montant du chèque;Le solde dû en retard selon le bref de saisie-arrêt;La raison pour laquelle aucun montant n'a été saisi dans le cadre du présent bref de saisie-arrêt de la personne au cours d'une période de paye en particulier;La date de réception d'une résiliation d'un bref de saisie-arrêt;La date de fin d'un bref de saisie-arrêt et la raison (avis de résiliation, faillite, paiement intégral de la dette);La date du transfert du dossier à un autre ministère ou organisme, le cas échéant;Le recoupement avec d'autres brefs de saisie-arrêt reçus pour le même employé.",
+    "anchor": "4",
+    "tag": "ul"
   },
   {
     "en": "No action should be taken on a garnishment file unless the documents have been first served on the applicable Garnishment Registry and instructions received.",
-    "fr": "Aucune mesure ne devrait être prise relativement à un dossier de saisie-arrêt, à moins que les documents aient été au préalable signifiés au Greffe de la saisie-arrêt visé et que les instructions ont été reçues."
+    "fr": "Aucune mesure ne devrait être prise relativement à un dossier de saisie-arrêt, à moins que les documents aient été au préalable signifiés au Greffe de la saisie-arrêt visé et que les instructions ont été reçues.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Garnishment information is confidential and personal, classified as \"protected B\". Therefore, it is recommended that this information be kept separate from the employee's personnel file. In cases where the garnishee summons is still active, the garnishment file should be transferred with the personnel file where an employee transfers/is hired by another federal department/agency subject to .",
-    "fr": "Les renseignements sur la saisie-arrêt sont de nature confidentielle et personnelle. Ils sont classéscomme « protégés B ». Par conséquent, il est recommandé que cette information soit conservée séparément du dossier personnel de l'employé. Dans les cas où la saisie-arrêt est toujours en vigueur, le dossier de saisie-arrêt devrait être transféré ainsi que le dossier personnel à l'endroit où l'employé est muté ou embauché par un autre ministère ou organisme fédéral assujetti à la ."
+    "en": "5.1 Garnishment information is confidential and personal, classified as \"protected B\". Therefore, it is recommended that this information be kept separate from the employee's personnel file. In cases where the garnishee summons is still active, the garnishment file should be transferred with the personnel file where an employee transfers/is hired by another federal department/agency subject to GAPDA.",
+    "fr": "5.1 Les renseignements sur la saisie-arrêt sont de nature confidentielle et personnelle. Ils sont classéscomme « protégés B ». Par conséquent, il est recommandé que cette information soit conservée séparément du dossier personnel de l'employé. Dans les cas où la saisie-arrêt est toujours en vigueur, le dossier de saisie-arrêt devrait être transféré ainsi que le dossier personnel à l'endroit où l'employé est muté ou embauché par un autre ministère ou organisme fédéral assujetti à la LSADP.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "Any electronic exchange of information relating to a garnishment file outside departmental networksshould be done through secured encrypted channels.",
-    "fr": "Tout échange électronique de renseignements en lien avec le dossier de saisie-arrêt en dehors desréseaux du ministère doit être effectué par l'entremise de canaux sécurisés et cryptés."
+    "en": "5.2 Any electronic exchange of information relating to a garnishment file outside departmental networksshould be done through secured encrypted channels.",
+    "fr": "5.2 Tout échange électronique de renseignements en lien avec le dossier de saisie-arrêt en dehors desréseaux du ministère doit être effectué par l'entremise de canaux sécurisés et cryptés.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "For a Specific file or :",
-    "fr": "En ce qui a trait à un dossier en particulier ou à la :"
+    "en": "Garnishment, Attachment and Pension Diversion ActGarnishment and Attachment RegulationsDirective on the Financial Management of Pay AdministrationPWGSC Compensation Directive 1997-016 (May 27, 1997)PWGSC Compensation Focus, Spring 2010 - No. 76, Garnishment of Salaries and Other Remuneration",
+    "fr": "Loi sur la saisie-arrêt et la distraction de pensionsRèglements pris en vertu de la saisie-arrêtDirective sur la gestion financière de l'administration de la payeDirective sur la rémunération de TPSGC no 1997-016 (27 mai 1997)Focus rémunération de TPSGC, Printemps 2010 — No 76, Saisie-arrêt des salaires et d'autres rémunérations",
+    "anchor": "6",
+    "tag": "ul"
+  },
+  {
+    "en": "For a Specific file or GAPDA:",
+    "fr": "En ce qui a trait à un dossier en particulier ou à la LSADP :",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "Enquiries concerning a specific file should be first directed to the garnishee contact, who in turn may contact the Garnishment Registry office that sent the initial documents if further information is required.",
-    "fr": "Les demandes de renseignements concernant un dossier en particulier doivent être tout d'abord adressées à l'agent de saisie qui, à son tour, peut communiquer avec le bureau du Greffe de saisie-arrêt ayant envoyé le document original dans le cas où de plus amples renseignements sont nécessaires."
+    "fr": "Les demandes de renseignements concernant un dossier en particulier doivent être tout d'abord adressées à l'agent de saisie qui, à son tour, peut communiquer avec le bureau du Greffe de saisie-arrêt ayant envoyé le document original dans le cas où de plus amples renseignements sont nécessaires.",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "For questions related to these Guidelines:",
-    "fr": "En ce qui touche les questions liées aux présentes lignes directrices :"
+    "fr": "En ce qui touche les questions liées aux présentes lignes directrices :",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "Enquiries concerning these guidelines should be directed to your Corporate Compensation Manager or Financial Officer, who in turn, may contact:",
-    "fr": "Les demandes de renseignements concernant les présentes Lignes directrices doivent être adressées au gestionnaire de la rémunération du ministère ou à l'agent des finances qui, à leur tour,peuvent communiquer avec :"
+    "fr": "Les demandes de renseignements concernant les présentes Lignes directrices doivent être adressées au gestionnaire de la rémunération du ministère ou à l'agent des finances qui, à leur tour,peuvent communiquer avec :",
+    "anchor": "7",
+    "tag": "p"
   },
   {
-    "en": "Compensation and Labour Relations Office of Chief Human Resources Officer Treasury Board Secretariat",
-    "fr": "Rémunération et relations de travail Bureau du dirigeant principal des ressources humaines Secrétariat du Conseil du Trésor"
-  },
-  {
-    "en": "employee's full name and paylist;",
-    "fr": "Le nom complet de l'employé et sa liste de paye;"
-  },
-  {
-    "en": "employee's status and dates;",
-    "fr": "Le statut de l'employé et les dates;"
-  },
-  {
-    "en": "name of court or provincial or territorial maintenance enforcement program (MEP) to whom payment is payable and address where it must be sent;",
-    "fr": "Le nom du tribunal ou le Programme d'exécution des ordonnances alimentaires (PEOA) provincial ou territorial en faveur de qui le règlement doit être effectué et l'adresse à laquelle il doit être envoyé;"
-  },
-  {
-    "en": "court file number or case number, as applicable;",
-    "fr": "Le numéro de dossier de la cour ou numéro de cas du , selon le cas;"
-  },
-  {
-    "en": "date the application for garnishment was served on the Garnishment Registry office;",
-    "fr": "La date à laquelle le bref de saisie-arrêt a été signifié au bureau du Greffe de la saisie-arrêt;"
-  },
-  {
-    "en": "expiry date of the garnishee summons;",
-    "fr": "La date d'expiration du bref de saisie-arrêt;"
-  },
-  {
-    "en": "type of debt owed under garnishee summons(family support, commercial debt);",
-    "fr": "La nature de la dette due en fonction du bref de saisie-arrêt (soutien à la famille, dette commerciale);"
-  },
-  {
-    "en": "amount owed under the garnishee summons and applicable exemptions/provincial garnishment percentage to be applied;",
-    "fr": "La nature de la somme dette due en fonction du bref de saisie-arrêt, ainsi que les exemptions et le pourcentage de saisie-arrêt provincial applicables;"
-  },
-  {
-    "en": "in case of family support debt, ongoing support payment amount and total arrears amount;",
-    "fr": "Dans le cas de dettes de soutien à la famille, le montant des paiements alimentaires et de l'ensemble des arriérés;"
-  },
-  {
-    "en": "variations to amounts owed and dates received;",
-    "fr": "Les variations des montants dus et les dates de réception;"
-  },
-  {
-    "en": "dates the payments are sent to the court or the ;",
-    "fr": "Les dates auxquelles les versements ont été envoyés à la cour ou au ;"
-  },
-  {
-    "en": "Length of time a payment is overdue and reason;",
-    "fr": "La durée du retard d'un paiement et la raison s'y rattachant;"
-  },
-  {
-    "en": "Number of incidents of late payment;",
-    "fr": "Le nombre d'incidents de paiement en retard;"
-  },
-  {
-    "en": "cheque amount;",
-    "fr": "Le montant du chèque;"
-  },
-  {
-    "en": "balance owing under the garnishee summons;",
-    "fr": "Le solde dû en retard selon le bref de saisie-arrêt;"
-  },
-  {
-    "en": "if no money is garnisheed under this garnishee summons for the individual in a particular pay period, the reason why;",
-    "fr": "La raison pour laquelle aucun montant n'a été saisi dans le cadre du présent bref de saisie-arrêt de la personne au cours d'une période de paye en particulier;"
-  },
-  {
-    "en": "date of receipt of a termination of the garnishee summons;",
-    "fr": "La date de réception d'une résiliation d'un bref de saisie-arrêt;"
-  },
-  {
-    "en": "date of termination of a garnishee summons and reason (termination notice, bankruptcy, debt paid in full);",
-    "fr": "La date de fin d'un bref de saisie-arrêt et la raison (avis de résiliation, faillite, paiement intégral de la dette);"
-  },
-  {
-    "en": "date file transferred to another department/agency (where applicable);",
-    "fr": "La date du transfert du dossier à un autre ministère ou organisme, le cas échéant;"
-  },
-  {
-    "en": "cross-reference to other garnishee summons(es) received for same employee.",
-    "fr": "Le recoupement avec d'autres brefs de saisie-arrêt reçus pour le même employé."
-  },
-  {
-    "en": "Directive on the Financial Management of Pay Administration",
-    "fr": "Directive sur la gestion financière de l'administration de la paye"
-  },
-  {
-    "en": "PWGSC Compensation Directive 1997-016 (May 27, 1997)",
-    "fr": "Directive sur la rémunération de TPSGC n 1997-016 (27 mai 1997)"
-  },
-  {
-    "en": "PWGSC Compensation Focus, Spring 2010 - No. 76, Garnishment of Salaries and Other Remuneration",
-    "fr": "Focus rémunération de TPSGC, Printemps 2010 — N 76, Saisie-arrêt des salaires et d'autres rémunérations"
+    "en": "Compensation and Labour RelationsOffice of Chief Human Resources OfficerTreasury Board SecretariatInterpretations@tbs-sct.gc.ca",
+    "fr": "Rémunération et relations de travailBureau du dirigeant principal des ressources humainesSecrétariat du Conseil du TrésorInterpretations@tbs-sct.gc.ca",
+    "anchor": "7",
+    "tag": "p"
   }
 ]

@@ -1,142 +1,56 @@
 [
   {
-    "en": "This document is part of the Appendix A of the .",
-    "fr": "Ce document fait partie de l’Annexe A de la ."
-  },
-  {
-    "en": "Designation of financial instruments to the fair value category, as permitted by PS 3450.23, requires the approval of the Comptroller General of Canada.",
-    "fr": "La désignation des instruments financiers dans la catégorie de la juste valeur, comme le permet le SP 3450.23, exige l’approbation du contrôleur général du Canada."
-  },
-  {
     "en": "PS 3450 Financial Instruments",
-    "fr": "SP 3450 Instruments financiers"
+    "fr": "SP 3450 Instruments financiers",
+    "anchor": "A",
+    "tag": "ul"
   },
   {
     "en": "April 1, 2022",
-    "fr": "Le 1er avril 2022"
+    "fr": "Le 1er avril 2022",
+    "anchor": "B",
+    "tag": "ul"
   },
   {
-    "en": "As stated in PS 3450.004, not all financial assets meet the definition of a financial instrument. Only those financial assets that arise from contracts and give rise to financial liabilities or equity of the counterparty are financial instruments.",
-    "fr": "Comme indiqué dans le paragraphe .004 du chapitre SP 3450, tous les actifs financiers ne correspondent pas à la définition d’un instrument financier. Seuls les actifs financiers qui découlent de contrats et donnent lieu à des passifs financiers ou à des capitaux propres de la contrepartie sont des instruments financiers."
+    "en": "As stated in PS 3450.004, not all financial assets meet the definition of a financial instrument. Only those financial assets that arise from contracts and give rise to financial liabilities or equity of the counterparty are financial instruments.In accordance with PS 3450.003(p), contracts to buy or sell non-financial items when quantities are in accordance with a government’s expected purchase, sale or usage requirements are excluded from the scope of PS 3450. Such “own use” contracts provide for settlement only through the receipt or delivery of goods or services and, therefore, are not financial instruments.However, as stated in PS 3450.005 and PS 3450.A13, contracts in quantities in excess of a government’s expected purchase, sale or usage requirements that can be settled net in cash or another financial instrument in lieu of the receipt or delivery of the goods or services, or in which the non-financial item is readily convertible to cash (for example, a traded commodity), are in the scope of PS 3450.PS 3450.007 requires that loan guarantees accounted for under PS 3310 Loan Guarantees are also within the scope of PS 3450 when the payments under the guarantee fluctuate in response to changes in a financial variable (for example, interest rate, financial instrument price, commodity price, foreign exchange rate, index or prices or rates, credit rating or credit index) or a non-financial variable that is not specific to a party to the contract. In such instances, the loan guarantee is a derivative in its entirety and must be measured at fair value in accordance with PS 3450.017. PS 3450 does not apply to guarantees other than loan guarantees accounted for under PS 3310.",
+    "fr": "Comme indiqué dans le paragraphe .004 du chapitre SP 3450, tous les actifs financiers ne correspondent pas à la définition d’un instrument financier. Seuls les actifs financiers qui découlent de contrats et donnent lieu à des passifs financiers ou à des capitaux propres de la contrepartie sont des instruments financiers. Conformément à l’alinéa .003p) du chapitre SP 3450, les contrats d’achat ou de vente d’éléments non financiers lorsque les quantités sont conformes aux exigences d’achat, de vente ou d’utilisation prévues du gouvernement sont exclus de la portée du chapitre SP 3450. De tels contrats d’« utilisation propre » ne permettent un règlement que par la réception ou la livraison de biens ou de services et, par conséquent, ne sont pas des instruments financiers.Toutefois, comme l’indiquent les paragraphes .005 et A13 du chapitre SP 3450, les contrats dont les quantités dépassent les besoins d’achat, de vente ou d’utilisation prévus d’un gouvernement qui peuvent être réglés en espèces ou avec un autre instrument financier à défaut de la réception ou de la livraison des biens ou services, ou dans lesquels l’élément non financier est facilement convertible en espèces (par exemple, un produit commercialisé), relèvent du chapitre SP 3450.Le paragraphe .007 du chapitre SP 3450 exige que les garanties d’emprunt comptabilisées selon le chapitre SP 3310 Garanties d’emprunt soient également comprises dans le chapitre SP 3450 lorsque les paiements découlant de la garantie fluctuent en fonction de l’évolution d’une variable financière (par exemple, taux d’intérêt, prix des instruments financiers, prix des produits de base, taux de change, indice ou prix ou taux, cote de crédit ou indice de crédit) ou d’une variable non financière qui n’est pas propre à une partie au contrat. Dans de tels cas, la garantie d’emprunt est un dérivé dans son intégralité et doit être mesurée à sa juste valeur conformément au paragraphe .017 du chapitre SP 3450. Le chapitre SP 3450 s’applique seulement aux garanties d’emprunt comptabilisées selon le chapitre SP 3310.",
+    "anchor": "C",
+    "tag": "ol"
   },
   {
-    "en": "In accordance with PS 3450.003(p), contracts to buy or sell non-financial items when quantities are in accordance with a government’s expected purchase, sale or usage requirements are excluded from the scope of PS 3450. Such “own use” contracts provide for settlement only through the receipt or delivery of goods or services and, therefore, are not financial instruments.",
-    "fr": "Conformément à l’alinéa .003p) du chapitre SP 3450, les contrats d’achat ou de vente d’éléments non financiers lorsque les quantités sont conformes aux exigences d’achat, de vente ou d’utilisation prévues du gouvernement sont exclus de la portée du chapitre SP 3450. De tels contrats d’« utilisation propre » ne permettent un règlement que par la réception ou la livraison de biens ou de services et, par conséquent, ne sont pas des instruments financiers."
+    "en": "PS 3450.14 requires that derivatives embedded in host contracts be identified and assessed to determine whether their economic characteristics are closely related to the host contract. Only those host contracts in the scope of PS 3450 must be reviewed for embedded derivatives. When an embedded derivative is not closely related to the host contract, it is accounted for separately as a stand-alone derivative.PS 3450A.25-.26 provides further examples of financial and non-financial contracts with embedded derivatives that are closely related and those that are not closely related. Additional guidance is provided in GC 3450 Guideline: Embedded Directives.The government may hold securities in deposit or trust accounts or as collateral support. To determine whether these securities are recognized as financial assets of the government, departments must assess whether the government has control of the resource and the associated benefits by reviewing the relevant legal, contractual and regulatory requirements. In general, securities held in trust would not be recognized as financial assets unless title to the security passes to the government.Also refer to GC 4100 Specified Purpose Accounts, section C, subsection 4.b.",
+    "fr": "Le paragraphe .14 du chapitre SP 3450 exige que les dérivés incorporés dans les contrats hôtes soient identifiés et évalués afin de déterminer si leurs caractéristiques économiques sont étroitement liées au contrat hôte. Seuls les contrats hôtes visés par le chapitre SP 3450 doivent être examinés pour les dérivés incorporés. Lorsqu’un dérivé incorporé n’est pas étroitement lié au contrat hôte, il est comptabilisé séparément en tant que dérivé autonome.Les paragraphes A.25-.26 du chapitre SP 3450 donnent d’autres exemples de contrats financiers et non financiers avec des dérivés incorporés qui sont étroitement liés et ceux qui ne le sont pas. Des directives supplémentaires sont fournies dans la Ligne directrice GC 3450 : Guide sur les dérivés incorporés.Le gouvernement peut détenir des valeurs mobilières dans des comptes de dépôt ou en fiducie, ou à titre de garantie. Pour déterminer si ces titres sont comptabilisés comme des actifs financiers du gouvernement, les ministères doivent évaluer si le gouvernement a le contrôle de la ressource et des avantages connexes en examinant les exigences juridiques, contractuelles et réglementaires pertinentes. En général, les titres détenus en fiducie ne seraient pas considérés comme des actifs financiers à moins que leur titre de propriété ne soit cédé au gouvernement.Consultez également la directive GC 4100 – Comptes à fins déterminées, section C, paragraphe 4.b.",
+    "anchor": "D",
+    "tag": "ol"
   },
   {
-    "en": "However, as stated in PS 3450.005 and PS 3450.A13, contracts in quantities in excess of a government’s expected purchase, sale or usage requirements that can be settled net in cash or another financial instrument in lieu of the receipt or delivery of the goods or services, or in which the non-financial item is readily convertible to cash (for example, a traded commodity), are in the scope of PS 3450.",
-    "fr": "Toutefois, comme l’indiquent les paragraphes .005 et A13 du chapitre SP 3450, les contrats dont les quantités dépassent les besoins d’achat, de vente ou d’utilisation prévus d’un gouvernement qui peuvent être réglés en espèces ou avec un autre instrument financier à défaut de la réception ou de la livraison des biens ou services, ou dans lesquels l’élément non financier est facilement convertible en espèces (par exemple, un produit commercialisé), relèvent du chapitre SP 3450."
+    "en": "There are two measurement categories under PS 3450: Fair value: Derivatives; Portfolio investments quoted in an active market; andFinancial instruments designated to the fair value categoryFootnote 1 (optional); Cost or amortized cost: All other financial instruments of the Government of Canada. The effective interest method, defined in the glossary to PS 3450, is applied to determine the carrying value of financial instruments measured at amortized cost according to PS 3450.033. Guidance on applying the effective interest method is provided in PS 3450.A41-.A45.All cash flows arising from the contractual terms of the financial instrument are included in the effective interest rate calculation. These cash flows include interest payments, any fees, points paid or received, transaction costs and other premiums or discounts (PS 3450.A41).When applying the effective interest method to a variable rate loan, the amortization period reflects the next date at which the interest rate is reset. For example, the terms of the loan may state that the loan rate is reset annually to the prime rate plus a fixed percentage (PS 3450.A42).When it is not possible to reliably estimate either the cash flows or the expected life of a variable rate loan, the contractual cash flows over the full contractual term of the financial instrument would be used (PS 3450.A41).When applying the effective interest method to variable rate concessionary loans that are not reset on specific dates (for example, the interest rate changes on the date the prime rate changes), the interest payments and loan discount would be considered separately as follows: The loan discount would be calculated in accordance with GC 3050 at inception of the loan and amortized based on the effective interest method over the contractual term. The loan discount is not affected by future changes in the interest rate; andThe floating interest revenue would be accrued annually based on the current interest rate according to the contractual terms of the loan. The original effective interest rate continues to be applied to the gross carrying amount of the financial asset for which a valuation allowance has been recognized unless collection of the principal or interest is not reasonably assured (PS 3450.A41).When an impairment loss has been recognized, the effective interest rate is adjusted to the rate of interest used to discount the future cash flows for the purpose of measuring the impairment loss (PS 3450.A45).The effective interest method is not required for financial assets and liabilities where balances are not material or where they have a short period to maturity, such as: Accounts payable and accrued liabilities; orAccounts receivable.",
+    "fr": "Il y a deux catégories de mesure dans le chapitre SP 3450 : Juste valeur : dérivés; investissements de portefeuille cotés dans un marché actif;instruments financiers désignés comme appartenant à la catégorie de la juste valeurVoir la note en bas de page 1 (facultatif).Coût ou coût amorti : tous les autres instruments financiers du gouvernement du Canada.La méthode des intérêts effectifs, définie dans le glossaire du chapitre SP 3450, est appliquée pour déterminer la valeur comptable des instruments financiers mesurés selon le coût amorti, conformément au paragraphe .033 du chapitre SP 3450. Les directives relatives à la méthode des intérêts effectifs sont fournies dans les paragraphes A41-A45 du chapitre SP 3450.Tous les flux de trésorerie découlant des conditions contractuelles de l’instrument financier sont inclus dans le calcul du taux d’intérêt effectif. Il s’agit notamment des paiements d’intérêts, des frais, des points payés ou reçus, des coûts de transaction et d’autres primes ou escomptes (paragraphe A41 du chapitre SP 3450).Lorsqu’on applique la méthode des intérêts effectifs à un prêt à taux variable, la période d’amortissement reflète la date suivante à laquelle le taux d’intérêt est réinitialisé. Par exemple, les modalités du prêt peuvent indiquer que le taux du prêt est révisé annuellement au taux préférentiel majoré d’un pourcentage fixe (paragraphe A42 du chapitre SP 3450).Lorsqu’il n’est pas possible d’estimer de façon fiable ni les flux de trésorerie ni la durée de vie prévue d’un prêt à taux variable, les flux de trésorerie contractuels sur toute la durée contractuelle de l’instrument financier seraient utilisés (paragraphe A41 du chapitre SP 3450).Lorsqu’on applique la méthode des intérêts effectifs aux prêts à des conditions privilégiées à taux variable qui ne sont pas réinitialisés à des dates précises (par exemple, le taux d’intérêt change à la date où le taux préférentiel change), les paiements d’intérêts et l’escompte sur le prêt seraient considérés séparément comme suit : l’escompte sur le prêt serait calculé conformément à la directive GC 3050 au début du prêt et amorti selon la méthode des intérêts effectifs sur la durée du contrat. L’escompte sur le prêt n’est pas influencé par les changements futurs du taux d’intérêt.les revenus d’intérêt flottants seraient comptabilisés chaque année en fonction du taux d’intérêt actuel selon les modalités contractuelles du prêt.Le taux d’intérêt effectif initial continue d’être appliqué à la valeur comptable brute de l’actif financier pour lequel une provision pour moins-value a été comptabilisée, à moins que le recouvrement du principal ou des intérêts ne soit pas raisonnablement assuré (paragraphe A41 du chapitre SP 3450).Lorsqu’une perte de valeur a été constatée, le taux d’intérêt effectif est ajusté au taux d’intérêt utilisé pour tenir compte des flux de trésorerie futurs aux fins de la mesure de la perte de valeur (paragraphe A45 du chapitre SP 3450).La méthode de l’intérêt effectif n’est pas requise pour les actifs et passifs financiers dont les soldes ne sont pas importants ou qui ont une courte période d’échéance, par exemple : comptes créditeurs et charges à payer;comptes débiteurs.",
+    "anchor": "E",
+    "tag": "ol"
   },
   {
-    "en": "PS 3450.007 requires that loan guarantees accounted for under PS 3310 Loan Guarantees are also within the scope of PS 3450 when the payments under the guarantee fluctuate in response to changes in a financial variable (for example, interest rate, financial instrument price, commodity price, foreign exchange rate, index or prices or rates, credit rating or credit index) or a non-financial variable that is not specific to a party to the contract. In such instances, the loan guarantee is a derivative in its entirety and must be measured at fair value in accordance with PS 3450.017. PS 3450 does not apply to guarantees other than loan guarantees accounted for under PS 3310.",
-    "fr": "Le paragraphe .007 du chapitre SP 3450 exige que les garanties d’emprunt comptabilisées selon le chapitre SP 3310 Garanties d’emprunt soient également comprises dans le chapitre SP 3450 lorsque les paiements découlant de la garantie fluctuent en fonction de l’évolution d’une variable financière (par exemple, taux d’intérêt, prix des instruments financiers, prix des produits de base, taux de change, indice ou prix ou taux, cote de crédit ou indice de crédit) ou d’une variable non financière qui n’est pas propre à une partie au contrat. Dans de tels cas, la garantie d’emprunt est un dérivé dans son intégralité et doit être mesurée à sa juste valeur conformément au paragraphe .017 du chapitre SP 3450. Le chapitre SP 3450 s’applique seulement aux garanties d’emprunt comptabilisées selon le chapitre SP 3310."
+    "en": "The assets and related non-derivative liabilities of the Exchange Fund Account are managed on a fair value basis. These financial instruments are measured at cost or amortized cost, and not designated to the fair value category as permitted by PS 3450.23.Balances with the International Monetary Fund (IMF), whether in the form of subscriptions, notes, or special drawing rights, are excluded from the scope of PS 3450 (PS 3450.003(i)).The accounting policies that apply to balances with the IMF are set out in the following table.",
+    "fr": "Les actifs du Compte du fonds des changes et les passifs non dérivés connexes sont gérés selon la juste valeur. Ces instruments financiers sont mesurés au coût ou au coût amorti, et ne sont pas désignés comme appartement à la catégorie de la juste valeur comme le permet le paragraphe .23 du chapitre SP 3450.Les soldes du Fonds monétaire international (FMI), que ce soit sous forme de souscriptions, de billets ou de droits de tirage spéciaux, sont exclus du champ d’application du chapitre SP 3450 (alinéa .003i du chapitre SP 3450).Les conventions comptables suivantes s’appliquent à ces soldes :",
+    "anchor": "F",
+    "tag": "ol"
   },
   {
-    "en": "PS 3450.14 requires that derivatives embedded in host contracts be identified and assessed to determine whether their economic characteristics are closely related to the host contract. Only those host contracts in the scope of PS 3450 must be reviewed for embedded derivatives. When an embedded derivative is not closely related to the host contract, it is accounted for separately as a stand-alone derivative.",
-    "fr": "Le paragraphe .14 du chapitre SP 3450 exige que les dérivés incorporés dans les contrats hôtes soient identifiés et évalués afin de déterminer si leurs caractéristiques économiques sont étroitement liées au contrat hôte. Seuls les contrats hôtes visés par le chapitre SP 3450 doivent être examinés pour les dérivés incorporés. Lorsqu’un dérivé incorporé n’est pas étroitement lié au contrat hôte, il est comptabilisé séparément en tant que dérivé autonome."
-  },
-  {
-    "en": "PS 3450A.25-.26 provides further examples of financial and non-financial contracts with embedded derivatives that are closely related and those that are not closely related. Additional guidance is provided in .",
-    "fr": "Les paragraphes A.25-.26 du chapitre SP 3450 donnent d’autres exemples de contrats financiers et non financiers avec des dérivés incorporés qui sont étroitement liés et ceux qui ne le sont pas. Des directives supplémentaires sont fournies dans la ."
-  },
-  {
-    "en": "The government may hold securities in deposit or trust accounts or as collateral support. To determine whether these securities are recognized as financial assets of the government, departments must assess whether the government has control of the resource and the associated benefits by reviewing the relevant legal, contractual and regulatory requirements. In general, securities held in trust would not be recognized as financial assets unless title to the security passes to the government.",
-    "fr": "Le gouvernement peut détenir des valeurs mobilières dans des comptes de dépôt ou en fiducie, ou à titre de garantie. Pour déterminer si ces titres sont comptabilisés comme des actifs financiers du gouvernement, les ministères doivent évaluer si le gouvernement a le contrôle de la ressource et des avantages connexes en examinant les exigences juridiques, contractuelles et réglementaires pertinentes. En général, les titres détenus en fiducie ne seraient pas considérés comme des actifs financiers à moins que leur titre de propriété ne soit cédé au gouvernement."
-  },
-  {
-    "en": "Also refer to GC 4100 Specified Purpose Accounts, section C, subsection 4.b.",
-    "fr": "Consultez également la directive GC 4100 – Comptes à fins déterminées, section C, paragraphe 4.b."
-  },
-  {
-    "en": "There are two measurement categories under PS 3450:",
-    "fr": "Il y a deux catégories de mesure dans le chapitre SP 3450 :"
-  },
-  {
-    "en": "Fair value:",
-    "fr": "Juste valeur :"
-  },
-  {
-    "en": "Derivatives;",
-    "fr": "dérivés;"
-  },
-  {
-    "en": "Portfolio investments quoted in an active market; and",
-    "fr": "investissements de portefeuille cotés dans un marché actif;"
-  },
-  {
-    "en": "Financial instruments designated to the fair value category (optional);",
-    "fr": "instruments financiers désignés comme appartenant à la catégorie de la juste valeur (facultatif)."
-  },
-  {
-    "en": "Cost or amortized cost:",
-    "fr": "Coût ou coût amorti :"
-  },
-  {
-    "en": "All other financial instruments of the Government of Canada.",
-    "fr": "tous les autres instruments financiers du gouvernement du Canada."
-  },
-  {
-    "en": "The effective interest method, defined in the glossary to PS 3450, is applied to determine the carrying value of financial instruments measured at amortized cost according to PS 3450.033. Guidance on applying the effective interest method is provided in PS 3450.A41-.A45.",
-    "fr": "La méthode des intérêts effectifs, définie dans le glossaire du chapitre SP 3450, est appliquée pour déterminer la valeur comptable des instruments financiers mesurés selon le coût amorti, conformément au paragraphe .033 du chapitre SP 3450. Les directives relatives à la méthode des intérêts effectifs sont fournies dans les paragraphes A41-A45 du chapitre SP 3450."
-  },
-  {
-    "en": "All cash flows arising from the contractual terms of the financial instrument are included in the effective interest rate calculation. These cash flows include interest payments, any fees, points paid or received, transaction costs and other premiums or discounts (PS 3450.A41).",
-    "fr": "Tous les flux de trésorerie découlant des conditions contractuelles de l’instrument financier sont inclus dans le calcul du taux d’intérêt effectif. Il s’agit notamment des paiements d’intérêts, des frais, des points payés ou reçus, des coûts de transaction et d’autres primes ou escomptes (paragraphe A41 du chapitre SP 3450)."
-  },
-  {
-    "en": "When applying the effective interest method to a variable rate loan, the amortization period reflects the next date at which the interest rate is reset. For example, the terms of the loan may state that the loan rate is reset annually to the prime rate plus a fixed percentage (PS 3450.A42).",
-    "fr": "Lorsqu’on applique la méthode des intérêts effectifs à un prêt à taux variable, la période d’amortissement reflète la date suivante à laquelle le taux d’intérêt est réinitialisé. Par exemple, les modalités du prêt peuvent indiquer que le taux du prêt est révisé annuellement au taux préférentiel majoré d’un pourcentage fixe (paragraphe A42 du chapitre SP 3450)."
-  },
-  {
-    "en": "When it is not possible to reliably estimate either the cash flows or the expected life of a variable rate loan, the contractual cash flows over the full contractual term of the financial instrument would be used (PS 3450.A41).",
-    "fr": "Lorsqu’il n’est pas possible d’estimer de façon fiable ni les flux de trésorerie ni la durée de vie prévue d’un prêt à taux variable, les flux de trésorerie contractuels sur toute la durée contractuelle de l’instrument financier seraient utilisés (paragraphe A41 du chapitre SP 3450)."
-  },
-  {
-    "en": "When applying the effective interest method to variable rate concessionary loans that are not reset on specific dates (for example, the interest rate changes on the date the prime rate changes), the interest payments and loan discount would be considered separately as follows:",
-    "fr": "Lorsqu’on applique la méthode des intérêts effectifs aux prêts à des conditions privilégiées à taux variable qui ne sont pas réinitialisés à des dates précises (par exemple, le taux d’intérêt change à la date où le taux préférentiel change), les paiements d’intérêts et l’escompte sur le prêt seraient considérés séparément comme suit :"
-  },
-  {
-    "en": "The loan discount would be calculated in accordance with GC 3050 at inception of the loan and amortized based on the effective interest method over the contractual term. The loan discount is not affected by future changes in the interest rate; and",
-    "fr": "l’escompte sur le prêt serait calculé conformément à la directive GC 3050 au début du prêt et amorti selon la méthode des intérêts effectifs sur la durée du contrat. L’escompte sur le prêt n’est pas influencé par les changements futurs du taux d’intérêt."
-  },
-  {
-    "en": "The floating interest revenue would be accrued annually based on the current interest rate according to the contractual terms of the loan.",
-    "fr": "les revenus d’intérêt flottants seraient comptabilisés chaque année en fonction du taux d’intérêt actuel selon les modalités contractuelles du prêt."
-  },
-  {
-    "en": "The original effective interest rate continues to be applied to the gross carrying amount of the financial asset for which a valuation allowance has been recognized unless collection of the principal or interest is not reasonably assured (PS 3450.A41).",
-    "fr": "Le taux d’intérêt effectif initial continue d’être appliqué à la valeur comptable brute de l’actif financier pour lequel une provision pour moins-value a été comptabilisée, à moins que le recouvrement du principal ou des intérêts ne soit pas raisonnablement assuré (paragraphe A41 du chapitre SP 3450)."
-  },
-  {
-    "en": "When an impairment loss has been recognized, the effective interest rate is adjusted to the rate of interest used to discount the future cash flows for the purpose of measuring the impairment loss (PS 3450.A45).",
-    "fr": "Lorsqu’une perte de valeur a été constatée, le taux d’intérêt effectif est ajusté au taux d’intérêt utilisé pour tenir compte des flux de trésorerie futurs aux fins de la mesure de la perte de valeur (paragraphe A45 du chapitre SP 3450)."
-  },
-  {
-    "en": "The effective interest method is not required for financial assets and liabilities where balances are not material or where they have a short period to maturity, such as:",
-    "fr": "La méthode de l’intérêt effectif n’est pas requise pour les actifs et passifs financiers dont les soldes ne sont pas importants ou qui ont une courte période d’échéance, par exemple :"
-  },
-  {
-    "en": "Accounts payable and accrued liabilities; or",
-    "fr": "comptes créditeurs et charges à payer;"
-  },
-  {
-    "en": "Accounts receivable.",
-    "fr": "comptes débiteurs."
-  },
-  {
-    "en": "The assets and related non-derivative liabilities of the Exchange Fund Account are managed on a fair value basis. These financial instruments are measured at cost or amortized cost, and not designated to the fair value category as permitted by PS 3450.23.",
-    "fr": "Les actifs du Compte du fonds des changes et les passifs non dérivés connexes sont gérés selon la juste valeur. Ces instruments financiers sont mesurés au coût ou au coût amorti, et ne sont pas désignés comme appartement à la catégorie de la juste valeur comme le permet le paragraphe .23 du chapitre SP 3450."
-  },
-  {
-    "en": "Balances with the International Monetary Fund (IMF), whether in the form of subscriptions, notes, or special drawing rights, are excluded from the scope of PS 3450 (PS 3450.003(i)).",
-    "fr": "Les soldes du Fonds monétaire international (FMI), que ce soit sous forme de souscriptions, de billets ou de droits de tirage spéciaux, sont exclus du champ d’application du chapitre SP 3450 (alinéa .003i du chapitre SP 3450)."
-  },
-  {
-    "en": "The accounting policies that apply to balances with the IMF are set out in the following table.",
-    "fr": "Les conventions comptables suivantes s’appliquent à ces soldes :"
+    "en": "IMF balance typeApplicable accounting policyRecognitionAll IMF balancesPS 3450.009-.014MeasurementSubscriptions to the IMF (quota)Asset measured at costSpecial drawing rights (SDR) allocationsAsset measured at costSDR holdingsLiability measured at costLoans receivableAsset measured at cost with valuation allowanceNotes payableLiability measured at cost no less than the amount payable on demandInterest on loans receivableEffective interest methodPresentationUnrealized and realized foreign exchange gains and lossesStatement of OperationsIMF assets and liabilitiesStatement of Financial Position",
+    "fr": "Solde du FMIComptabilisationComptabilisationTous les soldes du FMIAppliquer les paragraphes .009-0.014 du chapitre SP 3450ÉvaluationSouscriptions au FMI (quota)Actif mesuré au coûtAttributions de droits de tirage spéciaux (DTS)Actif mesuré au coûtDTS Passif mesuré au coûtPrêts en coursActif mesuré au coût avec provision pour moins-valueEffets à payerPassif mesuré au coût – pas moins que le montant payable sur demandeIntérêts sur les prêts en coursMéthode des intérêts effectifsPrésentationGains et pertes réalisés et non réalisés en devisesÉtat des résultatsActifs et passifs du FMIÉtat de la situation financière",
+    "anchor": "F",
+    "tag": "table"
   },
   {
     "en": "Applies without additional policy choices or interpretation for Departmental Financial Statements.",
-    "fr": "Des exigences similaires, sans autre choix de convention ni interprétation, s’appliquent aux états financiers ministériels."
+    "fr": "États financiers ministériels",
+    "anchor": "G",
+    "tag": "ol"
+  },
+  {
+    "en": "Designation of financial instruments to the fair value category, as permitted by PS 3450.23, requires the approval of the Comptroller General of Canada.",
+    "fr": "La désignation des instruments financiers dans la catégorie de la juste valeur, comme le permet le SP 3450.23, exige l’approbation du contrôleur général du Canada.",
+    "anchor": "fn1",
+    "tag": "p"
   }
 ]

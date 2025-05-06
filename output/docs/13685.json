@@ -1,34 +1,56 @@
 [
   {
     "en": "Cc: Senior Full-time Financial Officers (SFFO)",
-    "fr": "À : Coordonnateurs ministériels chargés des cartes d'achat à l'échelle nationale"
+    "fr": "À : Coordonnateurs ministériels chargés des cartes d'achat à l'échelle nationale",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "From: Cheryl Munro A/Senior Director, Financial Management Policy Application Treasury Board Secretariat",
-    "fr": "c.c. : Agents financiers principaux à temps plein"
+    "en": "From: Cheryl MunroA/Senior Director, Financial Management Policy ApplicationTreasury Board Secretariat",
+    "fr": "c.c. : Agents financiers principaux à temps plein",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Judy Prince A/Director, Banking Arrangements Public Works and Government Services Canada",
-    "fr": "De : Cheryl Munro Directrice principale par intérim, Application de la politique de gestion financière Secrétariat du Conseil du Trésor"
+    "en": "Judy PrinceA/Director, Banking ArrangementsPublic Works and Government Services Canada",
+    "fr": "De : Cheryl MunroDirectrice principale par intérim, Application de la politique de gestion financièreSecrétariat du Conseil du Trésor",
+    "anchor": "1",
+    "tag": "p"
+  },
+  {
+    "en": "Subject: Transfer of operational responsibility for the Government of Canada Acquisition Cards Program",
+    "fr": "Judy PrinceDirectrice par intérim, Accords bancairesTravaux publics et Services gouvernementaux Canada",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "This is to announce that responsibility for the operations of the acquisition cards program and related contracts will be transferred to Public Works and Government Services Canada effective September 1, 2006. Program policy will continue to be the responsibility of the Treasury Board Secretariat.",
-    "fr": "Judy Prince Directrice par intérim, Accords bancaires Travaux publics et Services gouvernementaux Canada"
+    "fr": "Objet : Transfert de la responsabilité relative aux opérations dans le cadre du programme des cartes d'achat du gouvernement du Canada",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "This transfer is consistent with the mandate of PWGSC to negotiate and administer agreements for banking services with financial institutions on behalf of the Receiver General for Canada.",
-    "fr": "La présente vise à annoncer que le 1er septembre 2006, la responsabilité relative aux opérations dans le cadre du programme des cartes d'achat ainsi qu'à l'administration des contrats connexes sera transférée aux Travaux publics et Services gouvernementaux Canada (TPSGC). Toutefois, il incombera toujours au Secrétariat du Conseil du Trésor (SCT) d'établir les politiques associées à ce programme."
+    "fr": "La présente vise à annoncer que le 1er septembre 2006, la responsabilité relative aux opérations dans le cadre du programme des cartes d'achat ainsi qu'à l'administration des contrats connexes sera transférée aux Travaux publics et Services gouvernementaux Canada (TPSGC). Toutefois, il incombera toujours au Secrétariat du Conseil du Trésor (SCT) d'établir les politiques associées à ce programme.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "Day-to-day operation of the acquisition cards program will not change. Therefore, you should continue to deal with the card-issuing companies for card issuance, cancellation, and invoicing. However, after August 31, 2006, you should direct your questions to PWGSC, including all requests to pilot new services or expand the current program. Requests related to policy interpretation and the type of purchases that may be made with the acquisition card should continue to be directed to the appropriate Treasury Board representative.",
-    "fr": "Ce transfert s'inscrit dans le mandat de TPSGC, qui consiste à négocier des accords pour des services bancaires avec des institutions financières et à les administrer au nom du receveur général."
+    "fr": "Ce transfert s'inscrit dans le mandat de TPSGC, qui consiste à négocier des accords pour des services bancaires avec des institutions financières et à les administrer au nom du receveur général.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "Over the coming months, PWGSC and TBS will be updating documentation related to the acquisition card program and will be communicating these updates to Departmental Card Coordinators.",
-    "fr": "Les opérations quotidiennes se rapportant au programme des cartes d'achat resteront les mêmes. À ces causes, vous devriez continuer de traiter avec les entreprises émettrices pour obtenir ou annuler des cartes et pour les questions sur la facturation. Toutefois, après le 31 août 2006, vous devriez adresser vos questions aux TPSGC, compris également des demandes liées à des projets pilotes pour de nouveaux services ou d'expansion du programme actuel. Les questions portant sur l'interprétation des politiques et la nature des achats pouvant être réalisés avec la carte d'achat devraient toujours être adressées au représentant compétent du Conseil du Trésor."
+    "fr": "Les opérations quotidiennes se rapportant au programme des cartes d'achat resteront les mêmes. À ces causes, vous devriez continuer de traiter avec les entreprises émettrices pour obtenir ou annuler des cartes et pour les questions sur la facturation. Toutefois, après le 31 août 2006, vous devriez adresser vos questions aux TPSGC, compris également des demandes liées à des projets pilotes pour de nouveaux services ou d'expansion du programme actuel. Les questions portant sur l'interprétation des politiques et la nature des achats pouvant être réalisés avec la carte d'achat devraient toujours être adressées au représentant compétent du Conseil du Trésor.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "Should you require additional information regarding the details of this transfer, please do not hesitate to contact Richard Inomata of TBS at 613-946-4221, Irena Dixon of TBS at 613-957-9690, or Benoît Bernier of PWGSC at 819-956-0239.",
-    "fr": "Au cours des prochains mois, TPSGC et le SCT mettront à jour les documents associés au programme de cartes d'achat et feront part des changements aux coordonnateurs ministériels chargés des cartes d'achat."
+    "fr": "Au cours des prochains mois, TPSGC et le SCT mettront à jour les documents associés au programme de cartes d'achat et feront part des changements aux coordonnateurs ministériels chargés des cartes d'achat.",
+    "anchor": "1",
+    "tag": "p"
   }
 ]

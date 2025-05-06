@@ -1,482 +1,128 @@
 [
   {
+    "en": "Enterprise architecture reviewThe departmental Chief Information Officer (CIO) is responsible for: Chairing a departmental architecture review board that is mandated to review and approve the architecture of all departmental digital initiatives and ensure their alignment with enterprise architectures.Submitting to the Government of Canada enterprise architecture review board proposals concerned with the design, development, installation and implementation of digital initiatives: Where the department is willing to invest a minimum of the following amounts to address the problem or take advantage of the opportunity: $2.5 million dollars for departments that do not have an approved Organizational Project Management Capacity Class or that have an approved Organizational Project Management Capacity Class of 1 according to the Directive on the Management of Projects and Programmes ;$5 million dollars for departments that have an approved Organizational Project Management Capacity Class of 2;$10 million dollars for departments that have an approved Organizational Project Management Capacity Class of 3;$15 million dollars for the Department of National Defence;$25 million dollars for departments that have an approved Organizational Project Management Capacity Class of 4;That involve emerging technologies;That require an exception under this directive or other directives under the policy;That are categorized at the protected B level or below using a deployment model other than public cloud for application hosting (including infrastructure), application deployment, or application development;That include the extension or creation of custom support to prevent a technology from becoming unsupported where: The proposal is an extension for a previous support contract where the migration project has been delayed (with justification);The technology supports a mission-critical system where there is a high degree of injury risk should the system’s functions fail; orThe technology has been discontinued by the provider, and migration to a new technology would require adoption of a completely new solution; orAs directed by the CIO of Canada.Ensuring that proposals submitted to the GC Enterprise Architecture Review Board have first been assessed by the departmental architecture review board where one has been established;Ensuring that proposals to the GC Enterprise Architecture Review Board are submitted after review of concept cases for digital projects according to the “Mandatory Procedures for Concept Cases for Digital Projects” and before the development of a Treasury Board submission or departmental business case.Ensuring that departmental initiatives submitted to the GC Enterprise Architecture Review Board align with the GC Enterprise Architecture Framework , the GC Standards on Application Programming Interfaces , and the Government of Canada Digital Standards . The Enterprise Architecture Framework is the criteria used by the GC Enterprise Architecture Review Board and departmental architecture review boards when reviewing digital initiatives to ensure their alignment with enterprise architectures across business, information, application, technology and security domains to support strategic outcomes;PlanningApproving the IT and information or data component of all departmental strategies, plans, initiatives, projects, procurements and spending authority requests.Producing the departmental IT expenditure report and on-going Application Portfolio Management update reports.Ensuring that departmental IT investments, service development and improvement initiatives are informed by and integrated into departmental business planning.Enterprise participationParticipating, as a service provider or as a service client, in the conception, planning, evolution and oversight of enterprise-wide IT services and solutions.Advising the CIO of Canada about decisions, plans, strategies, directions, progress, risks and challenges related to initiatives that affect the provision or use of IT services in or across departments.",
+    "fr": "Examen d’architecture intégréeLe dirigeant principal de l’information (DPI) du ministère est responsable de ce qui suit : Présider un conseil d’examen de l’architecture ministériel dont le mandat est de revoir et d’approuver l’architecture de toutes les initiatives numériques ministérielles et d’assurer leur harmonisation avec les architectures intégrées.Présenter au conseil d’examen de l’architecture intégrée du gouvernement du Canada des propositions liées à la conception, à l’élaboration, à l’installation et à la mise en œuvre d’initiatives numériques : lorsque le ministère est disposé à investir au moins l’un des montants suivants afin de régler le problème ou de bénéficier de l’occasion : 2,5 millions de dollars pour les ministères qui n’ont pas de catégorie de capacité organisationnelle de gestion de projets approuvée ou pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 1 approuvée, conformément à la Directive sur la gestion de la planification des projets et des programmes ;5 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 2 approuvée;10 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 3 approuvée;15 millions de dollars pour le ministère de la Défense nationale;25 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 4 approuvée;qui comportent des technologies émergentes;qui exigent une exception à la présente directive ou à d’autres directives liées à la politique;qui sont catégorisées au niveau Protégé B ou inférieur et utilisant un modèle de déploiement autre que le nuage public pour l’hébergement d’applications (y compris l’infrastructure), le déploiement d’applications ou le développement d’applications;qui comprennent la prolongation ou la création d’un soutien personnalisé pour éviter qu’une technologie ne devienne non prise en charge dans le cas où : la proposition s’avère une prolongation d’un contrat de soutien précédent où le projet de migration a été retardé (avec justification);la technologie prend en charge un système essentiel à la mission pour lequel le risque de préjudice est élevé en cas de défaillance des fonctions du système;la technologie a été abandonnée par le fournisseur, et la migration vers une nouvelle technologie nécessiterait l’adoption d’une solution entièrement nouvelle; outel qu’indiqué par le DPI du Canada.Veiller à ce que les propositions présentées au conseil d’examen de l’architecture intégrée du gouvernement du Canada soient d’abord évaluées par le conseil d’examen de l’architecture ministériel, lorsqu’il en existe un.Veiller à ce que les propositions soient présentées au conseil d’examen de l’architecture intégrée du gouvernement du Canada après l’examen des cas conceptuels des projets numériques conformément aux « Procédures obligatoires pour les cas conceptuels des projets numériques » et avant l’élaboration d’une présentation au Conseil du Trésor ou d’un modèle d’analyse de rentabilisation ministériel.Veiller à ce que les initiatives ministérielles présentées au Conseil d’examen de l’architecture intégrée du gouvernement du Canada soient conformes au cadre d’architecture intégrée , aux procédures relatives aux interfaces de programmation d’applications , et aux Normes relatives au numérique du gouvernement du Canada. Le cadre d’architecture intégrée est le critère utilisé par le Conseil d’examen de l’architecture intégrée du gouvernement du Canada et les conseils d’examen de l’architecture ministérielle lors de l’examen des initiatives en matière de numérique pour assurer leur conformité avec les architectures intégrées dans les domaines des affaires, de l’information, des applications, de la technologie et de la sécurité afin d’appuyer les résultats stratégiques.PlanificationApprouver la composante de la TI et de l’information ou des données de l’ensemble des stratégies, des plans, des initiatives, des projets, des approvisionnements et des demandes d’autorisation de dépense du ministère.Produire le rapport ministériel sur les dépenses en matière de TI et les rapports de mise à jour de la gestion en continu du portefeuille des applications.Veiller à ce que les investissements ministériels en matière de TI, l’élaboration de services et les initiatives d’amélioration soient à la fois éclairés par la planification des activités du ministère et intégrés à celle-ci.Participation pangouvernementaleParticiper, en tant que fournisseur de services ou d’utilisateur de services, à la conception, à la planification, à l’évolution et à la surveillance des solutions et services de la TI à l’échelle du gouvernement.Conseiller le DPI du Canada sur les décisions, les plans, les stratégies, les orientations, les progrès, les risques et les enjeux liés aux initiatives qui touchent la prestation ou l’utilisation de services de la TI au sein d’un ministère ou dans l’ensemble des ministères.",
+    "anchor": "4.1",
+    "tag": "section"
+  },
+  {
+    "en": "PlanningApproving the IT and information or data component of all departmental strategies, plans, initiatives, projects, procurements and spending authority requests.Producing the departmental IT expenditure report and on-going Application Portfolio Management update reports.Ensuring that departmental IT investments, service development and improvement initiatives are informed by and integrated into departmental business planning.",
+    "fr": "PlanificationApprouver la composante de la TI et de l’information ou des données de l’ensemble des stratégies, des plans, des initiatives, des projets, des approvisionnements et des demandes d’autorisation de dépense du ministère.Produire le rapport ministériel sur les dépenses en matière de TI et les rapports de mise à jour de la gestion en continu du portefeuille des applications.Veiller à ce que les investissements ministériels en matière de TI, l’élaboration de services et les initiatives d’amélioration soient à la fois éclairés par la planification des activités du ministère et intégrés à celle-ci.",
+    "anchor": "4.1.1",
+    "tag": "section"
+  },
+  {
+    "en": "Enterprise participationParticipating, as a service provider or as a service client, in the conception, planning, evolution and oversight of enterprise-wide IT services and solutions.Advising the CIO of Canada about decisions, plans, strategies, directions, progress, risks and challenges related to initiatives that affect the provision or use of IT services in or across departments.",
+    "fr": "Participation pangouvernementaleParticiper, en tant que fournisseur de services ou d’utilisateur de services, à la conception, à la planification, à l’évolution et à la surveillance des solutions et services de la TI à l’échelle du gouvernement.Conseiller le DPI du Canada sur les décisions, les plans, les stratégies, les orientations, les progrès, les risques et les enjeux liés aux initiatives qui touchent la prestation ou l’utilisation de services de la TI au sein d’un ministère ou dans l’ensemble des ministères.",
+    "anchor": "4.1.1",
+    "tag": "section"
+  },
+  {
+    "en": "Client-centric serviceEnsuring that client feedback, including in-service client feedback, client satisfaction surveys and user experience testing, is collected and used to inform design, delivery and continuous improvement of services;Ensuring that newly designed or redesigned online services provide real-time application status to clients;",
+    "fr": "Services axés sur les clientsVeiller à ce que la rétroaction des clients, y compris la rétroaction des clients en direct, les sondages sur la satisfaction des clients et les tests « expérience utilisateur » soit recueillie et utilisée pour éclairer la conception, la prestation et l’amélioration continue des services.Veiller à ce que les services en ligne nouvellement conçus ou révisés fournissent au client l’état de leur demande en temps réel.",
+    "anchor": "4.2.1",
+    "tag": "section"
+  },
+  {
+    "en": "Service inventoryDeveloping and annually updating a departmental service inventory;Working with TBS to make the departmental service inventory available through the Government of Canada open government portal;",
+    "fr": "Répertoire de servicesÉlaborer et mettre à jour chaque année un répertoire des services ministériels.Collaborer avec le SCT en vue de rendre le répertoire des services ministériels disponible au moyen du Portail du gouvernement ouvert du Canada.",
+    "anchor": "4.2.1",
+    "tag": "section"
+  },
+  {
+    "en": "Service standardsEnsuring the development, management and regular review of service standards, related targets and performance information, for all services and all service delivery channels in use;Ensuring the reporting of real-time performance information for service standards is available on the department’s web presence;",
+    "fr": "Normes de serviceVeiller à l’élaboration, la gestion et l’examen régulier des normes de service, des cibles connexes et de l’information sur le rendement, pour tous les services et tous les modes de prestation des services utilisés.Veiller à ce que l’information sur le rendement en temps réel pour les normes de service soit disponible par l’entremise du site Web du ministère.",
+    "anchor": "4.2.1",
+    "tag": "section"
+  },
+  {
+    "en": "Service reviewEnsuring that each service is regularly reviewed with clients, partners and stakeholders, in collaboration with the departmental CIO, as appropriate, at least once every five years to identify opportunities for improvement, including redesign for client-centricity, digital enablement, online availability and uptake, efficiency, partnership arrangements, and alternate approaches to service delivery, and alignment with the Government of Canada Digital Standards .",
+    "fr": "Examen des servicesVeiller à ce que chaque service soit régulièrement examiné avec les clients, les partenaires et les intervenants, en collaboration avec le DPI ministériel, le cas échéant, au moins une fois tous les cinq ans afin d’identifier les améliorations possibles, y compris la révision de la conception pour assurer l’accent sur les clients, la facilitation par le numérique, la disponibilité et l’adoption en ligne, l’efficacité, les ententes de partenariat et d’autres approches de prestation des services, et d’assurer la conformité aux Normes relatives au numérique du gouvernement du Canada .",
+    "anchor": "4.2.1",
+    "tag": "section"
+  },
+  {
+    "en": "Strategic management of informationEstablishing departmental information architecture in alignment with prescribed enterprise-wide standards.Ensuring digital systems are the preferred means of creating, capturing and managing information.Ensuring information and data are managed to enable data interoperability, reuse and sharing to the greatest extent possible within and with other departments across the government to avoid duplication and maximize utility, while respecting security and privacy requirements.Ensuring departmental information is created in an accessible format, where appropriate, in accordance with TBS guidance.Establishing and maintaining taxonomies or classification structures to manage, store, search, and retrieve information and data in all formats according to prescribed enterprise-wide standards.Documenting life cycle management practices within the department that align with the nature or purpose of the information or data, and that address accountability, stewardship, performance measurement, reporting, and legal requirements.Establishing, implementing and maintaining retention periods for all information and data, as appropriate, according to format.Developing a documented disposition process and performing regular disposition activities for all information and data, as required.",
+    "fr": "Gestion stratégique de l’informationÉtablir une architecture d’information ministérielle en harmonisation avec les normes pangouvernementales établies.Veiller à ce que les systèmes numériques constituent le mode privilégié de création, de saisie et de gestion de l’information.Veiller à ce que l’information et les données soient gérées pour permettre, dans la mesure du possible, l’interopérabilité des données, la réutilisation et le partage au sein des ministères et avec d’autres ministères à l’échelle du gouvernement afin d’éviter les répétitions et maximiser l’utilité, tout en respectant les exigences en matière de sécurité et de protection des renseignements personnels.Veiller à ce que l’information ministérielle soit créée dans un format accessible, le cas échéant, conformément aux lignes directrices du SCT.Établir et tenir à jour des taxonomies ou des structures de classification afin de gérer, de stocker, de chercher et de récupérer de l’information et des données dans tous les formats, conformément aux normes pangouvernementales établies.Consigner les pratiques de gestion du cycle de vie au sein du ministère qui s’harmonisent avec la nature ou l’objet de l’information ou des données et qui répondent aux exigences en matière de responsabilité, d’intendance, de mesure du rendement, de production de rapports, ainsi que des exigences prévues par la loi.Établir, mettre en œuvre et respecter les périodes de conservation de toute l’information et de toutes les données, le cas échéant, selon leur format.Élaborer un processus de disposition consigné et entreprendre des activités de disposition régulières pour toute l’information et toutes les données, le cas échéant.",
+    "anchor": "4.3.1",
+    "tag": "section"
+  },
+  {
+    "en": "ProtectionProtecting information and data by documenting and mitigating risks, and by taking into consideration the business value of the information, legal and regulatory risks, access to information, security of information, and the protection of personal information.",
+    "fr": "ProtectionProtéger l’information et les données en consignant et atténuant les risques et en tenant en compte la valeur opérationnelle de l’information, les risques juridiques et réglementaires, l’accès à l’information, la sécurité de l’information et la protection des renseignements personnels.",
+    "anchor": "4.3.1",
+    "tag": "section"
+  },
+  {
+    "en": "RecordkeepingIdentifying information of business value, based on an analysis of the functions and activities carried out by a department to enable or support its legislated mandate.Maximizing the removal of access restrictions on departmental information that has been identified as having archival value before the information is transferred to Library and Archives Canada as part of planned disposition activities.Ensuring that an approved Government of Canada enterprise information management solution is used to document business activities, decisions and decision-making processes.Identifying, establishing, implementing and maintaining designated corporate repositories in which information of business value is managed throughout its life cycle while respecting privacy and security requirements.Ensuring that the quality of information is managed and preserved to satisfy the requirements and expectations of users to meet operational needs, responsibilities, and long-term retention requirements.",
+    "fr": "Tenue de documentsDéterminer l’information ayant une valeur opérationnelle en s’appuyant sur une analyse des fonctions et des activités exécutées par le ministère pour faciliter ou appuyer le mandat que lui confère la loi.Maximiser l’élimination des restrictions d’accès à l’information ministérielle déterminée comme ayant une valeur archivistique avant qu’elle soit transférée à Bibliothèque et Archives Canada (BAC) dans le cadre des activités d’élimination prévues.Veiller à ce qu’une solution intégrée de gestion de l’information approuvée par le gouvernement du Canada soit utilisée afin de consigner les activités, les décisions et les processus de prise de décisions opérationnels.Déterminer, établir, mettre en œuvre et maintenir des répertoires ministériels désignés où l’information ayant une valeur opérationnelle est gérée pendant son cycle de vie, tout en respectant les exigences en matière de sécurité et de protection des renseignements personnels.Veiller à ce que la qualité de l’information soit gérée et préservée pour satisfaire aux exigences et aux attentes des utilisateurs afin de répondre aux besoins opérationnels, aux responsabilités et aux exigences de conservation à long terme.",
+    "anchor": "4.3.1",
+    "tag": "section"
+  },
+  {
+    "en": "Leveraging technology",
+    "fr": "Optimisation de la technologie",
+    "anchor": "4.4",
+    "tag": "p"
+  },
+  {
+    "en": "Cyber securityThe designated official for cyber security, in collaboration with the departmental CIO and Chief Security Officer as appropriate, is responsible for: Ensuring that cyber security requirements and appropriate risk-based measures are applied continuously in an identify, protect, detect, respond, and recover approach to protect information systems and services, in accordance with the Directive on Security Management, Appendix B: Mandatory Procedures for Information Technology Security Control ;Ensuring departmental plans, processes and procedures are in place for responding to cyber security events and reporting of incidents to the appropriate authorities and affected stakeholders, in accordance with the Government of Canada Cyber Security Event Management Plan .Undertaking immediate action within the department as directed to assess impacts, including whether there has been a privacy breach, and implement mitigation measures in response to cyber security events.Liaising with the access to information and privacy office in the department and the Office of the Privacy Commissioner when there has been a material privacy breach.",
+    "fr": "CybersécuritéL’agent désigné pour la cybersécurité, en collaboration avec le DPI ministériel et le dirigeant principal de la sécurité, le cas échéant, est responsable de ce qui suit : Veiller à ce que les exigences en matière de cybersécurité et les mesures axées sur le risque qui sont appropriées soient gérées en permanence au moyen d’une approche d’identification, de protection, de détection, d’intervention et de reprise des systèmes et des services d’information conformément à l’ annexe B de la Directive sur la gestion de la sécurité : Procédures obligatoires relatives aux mesures de sécurité de la technologie de l’information .Veiller à ce que des plans, des processus et des procédures ministériels soient en place pour réagir aux événements de cybersécurité et signaler les incidents aux autorités pertinentes et aux intervenants touchés, conformément au Plan de gestion des événements de cybersécurité du gouvernement du Canada.Prendre des mesures immédiates au sein du ministère, tel que prescrit, pour évaluer les répercussions, y compris s’il y a atteinte à la vie privée, et mettre en œuvre des mesures d’atténuation en réponse à des évènements de cybersécurité.Faire la liaison avec le bureau de l’accès à l’information et de la protection des renseignements personnels du ministère et le Commissariat à la protection de la vie privée en cas d’atteinte substantielle à la vie privée.",
+    "anchor": "4.4",
+    "tag": "section"
+  },
+  {
     "en": "The Chief Information Officer of Canada is responsible for:",
-    "fr": "Le dirigeant principal de l’information (DPI) du Canada est responsable de ce qui suit :"
+    "fr": "Le dirigeant principal de l’information (DPI) du Canada est responsable de ce qui suit :",
+    "anchor": "4.4.1",
+    "tag": "p"
   },
   {
     "en": "The Deputy Head of SSC is responsible for:",
-    "fr": "L’administrateur général de SPC est responsable de ce qui suit :"
+    "fr": "L’administrateur général de SPC est responsable de ce qui suit :",
+    "anchor": "4.4.2",
+    "tag": "p"
   },
   {
     "en": "The departmental CIO is responsible for:",
-    "fr": "Le DPI ministériel est responsable de ce qui suit :"
+    "fr": "Le DPI ministériel est responsable de ce qui suit :",
+    "anchor": "4.4.3",
+    "tag": "p"
   },
   {
-    "en": "Office of the Auditor General",
-    "fr": "Bureau du vérificateur général"
+    "en": "Strategic IT managementProviding IT services that are responsive to departmental priorities and to the needs of program delivery and business.Ensuring that decisions and actions regarding IT are guided by the CIO of Canada’s enterprise-wide plan and prioritization of GC demand for IT services and assets.Adopting, as applicable, enterprise solutions within their respective department.Developing and maintaining departmental IT management practices and processes, as informed by ITIL (Information Technology Infrastructure Library) and COBIT (Control Objectives for Information and Related Technology), while prioritizing IT asset management, the IT service catalogue and IT service costing and pricing, as appropriate.Developing, implementing and sustaining departmental strategies for producing or using appropriate enterprise IT services and solutions, based on the integrated service, information, IT and cyber security departmental plan.Collaborating on digitally enabled business transformation with the business owner and other stakeholders.Identifying emerging technologies that could potentially contribute to the strategic and business goals of the department and the GC.Ensuring that IT services are designed and managed to support interoperability.Collecting, maintaining, approving and updating annually the department’s inventory of employees and their assigned profiles per Appendix D: Standard on Information Technology Use and Appendix E: Standard on Information Technology Provisions ;Complying with provisions, limits, configurations and thresholds as set out in Appendix E: Standard on Information Technology Provisions , Appendix F: Standard on Enterprise Information Technology Service Usage Restrictions , and Appendix G: Standard on Enterprise Information Technology Service Common Configurations ;Identifying planned usage of IT services in the integrated service, information, data, IT and cyber security departmental plan using the Metrics for Government of Canada Information Technology Consumption ;Ensuring open source software is encouraged and where used, contributing to the communities whose work is being leveraged.",
+    "fr": "Gestion stratégique de la TIFournir des services de la TI qui répondent aux priorités ministérielles, aux besoins en matière d’exécution des programmes et aux besoins opérationnels.Veiller à ce que les décisions et les mesures liées à la TI soient orientées par le plan pangouvernemental du DPI du Canada et la priorisation de la demande du gouvernement du Canada pour des services et des actifs de la TI.Adopter, s’il y a lieu, des solutions pangouvernementales au sein de leur ministère respectif.Élaborer et maintenir des pratiques et des processus ministériels en matière de gestion de la TI en tenant compte de la Bibliothèque de l’infrastructure des technologies de l’information (BITI) et des Objectifs de contrôle de l’information et des technologies associées (COBIT), tout en accordant la priorité à la gestion des actifs de la TI, au catalogue de services de la TI et à l’établissement des coûts et des tarifs des services de la TI, le cas échéant.Élaborer, mettre en œuvre et entretenir des stratégies ministérielles en vue de produire ou d’utiliser des services et solutions de la TI pangouvernementaux, et ce, en fonction du plan ministériel intégré sur les services, l’information, la TI et la cybersécurité.Collaborer à la transformation opérationnelle facilitée par le numérique avec le responsable opérationnel et les autres intervenants.Identifier les technologies émergentes qui pourraient potentiellement contribuer à l’atteinte des objectifs stratégiques et opérationnels du ministère et du gouvernement du Canada.Veiller à ce que les services de la TI soient conçus et gérés en vue d’appuyer l’interopérabilité.Recueillir, conserver, approuver et tenir à jour annuellement les données du répertoire des employés des ministères ainsi que leurs profils conformément à l’ annexe D : Norme sur les profils des utilisateurs et des points de travail pour la TI et l’ annexe E : Norme sur les dispositions relatives à la technologie de l’information .Respecter les profils, les dispositions, les limites, les configurations, et les seuils précisés pour les services intégrés de la TI énumérés à l’ annexe E : Norme sur les dispositions relatives à la technologie de l’information , à l’ annexe F : Norme sur la restriction de l’utilisation des services de la TI intégrée et l’ annexe G : Norme sur les configurations courantes des services de la TI intégrée .Déterminer l’utilisation prévue des services de la TI dans le plan ministériel intégré sur les services, l’information, la TI et la cybersécurité à l’aide des Mesures de l’utilisation de la technologie de l’information au gouvernement du Canada .Veiller à ce que l’emploi de logiciels libres soit encouragé et veiller, le cas échéant, à ce que ceux-ci contribuent aux collectivités dont le travail est exploité.",
+    "anchor": "4.4.3",
+    "tag": "section"
   },
   {
-    "en": "Office of the Chief Electoral Officer",
-    "fr": "Bureau du directeur général des élections"
+    "en": "Information and data residencySupporting the use of cloud services first by ensuring they are: Identified and evaluated as a principal delivery option when initiating new departmental, enterprise, and community of interest cluster IT investments, initiatives, strategies and projects;Adopted when they are the most effective option to meet business needs; andCompliant with appropriate federal privacy and security legislation, policies and standards.Ensuring computing facilities located within the geographic boundaries of Canada or within the premises of a Government of Canada department located abroad, such as a diplomatic or consular mission, be identified and evaluated as a principal delivery option for all sensitive electronic information and data under government control that has been categorized as Protected B, Protected C or is Classified.",
+    "fr": "Information et résidence de donnéesAppuyer l’utilisation des services d’informatique en nuage en premier en veillant à ce qu’ils soient : désignés et évalués comme la principale option de prestation de services lors du lancement de nouveaux investissements, initiatives, stratégies et projets en matière de TI par des ministères, l’ensemble du gouvernement et des regroupements de collectivités d’intérêt;adoptés lorsqu’ils constituent l’option la plus efficace pour répondre aux besoins opérationnels;conformes aux lois, aux politiques et aux normes fédérales pertinentes sur la protection des renseignements personnels et la sécurité.Veiller à ce que les installations informatiques situées à l’intérieur des frontières géographiques du Canada ou dans des locaux à l’étranger appartenant à un ministère du gouvernement du Canada, telle qu’une mission diplomatique ou consulaire, soient considérées et évaluées en tant qu’option principale pour la prestation de services impliquant toute l’information et toutes les données électroniques délicates sous le contrôle du gouvernement qui est classée Protégé B, C ou Classifié.",
+    "anchor": "4.4.3",
+    "tag": "section"
   },
   {
-    "en": "Office of the Commissioner of Lobbying of Canada",
-    "fr": "Commissariat au lobbying du Canada"
+    "en": "Network and device useDrafting notices to authorized network and device users to inform them of: Expectations for acceptable and unacceptable use of GC electronic networks and devices, including a link to the Policy on Service and Digital and instructions to consult Appendix A: Examples of Acceptable Network and Device Use (Non-Exhaustive List) and Appendix B: Examples of Unacceptable Network and Device Use (Non-Exhaustive List) ;Electronic network monitoring practices applied by their own department or by Shared Services Canada (SSC) according to Appendix C: Privacy and Monitoring of Network and Device Use ;",
+    "fr": "Utilisation des dispositifs et des réseauxRédiger des avis destinés aux utilisateurs autorisés des dispositifs et des réseaux pour les informer de ce qui suit : des attentes quant à l’utilisation acceptable et inacceptable des dispositifs et des réseaux électroniques du gouvernement du Canada, y compris un lien vers la Politique sur les services et le numérique et des instructions à consulter à l’ annexe A : Exemples d’utilisation acceptable des dispositifs et des réseaux (liste non exhaustive) et l’ annexe B : Exemples d’utilisation inacceptable des dispositifs et des réseaux (liste non exhaustive) ;des pratiques de surveillance des réseaux électroniques en vigueur dans leur propre ministère ou par Services partagés Canada (SPC), conformément à l’ annexe C : Protection des renseignements personnels et surveillance liées à l’utilisation des dispositifs et réseaux .",
+    "anchor": "4.4.3",
+    "tag": "section"
   },
   {
-    "en": "Office of the Commissioner of Official Languages",
-    "fr": "Commissariat aux langues officielles"
+    "en": "Alternative IT servicesEnsuring compliance with procedures established for accessing alternatives to SSC service delivery mechanisms, as necessary.",
+    "fr": "Services de la TI alternatifsVeiller à la conformité avec les procédures établies pour accéder aux mécanismes alternatifs de prestation de services à SPC, au besoin.",
+    "anchor": "4.4.3",
+    "tag": "section"
   },
   {
-    "en": "Office of the Information Commissioner of Canada",
-    "fr": "Commissariat à l’information du Canada"
+    "en": "At-risk technology managementEnsuring that technologies are current and that technologies that are unsupported are not used, according to Appendix H: Standard on At-Risk Information Technology .",
+    "fr": "Gestion des technologies à risqueVeiller à ce que les technologies sont à jour et que les technologies qui ne sont pas prises en charge ne sont pas utilisées, conformément à l’ annexe H : Norme sur la technologie de l’information à risque .",
+    "anchor": "4.4.3",
+    "tag": "section"
   },
   {
-    "en": "Office of the Privacy Commissioner of Canada",
-    "fr": "Commissariat à la protection de la vie privée du Canada"
-  },
-  {
-    "en": "Office of the Public Sector Integrity Commissioner of Canada",
-    "fr": "Commissariat à l’intégrité du secteur public du Canada"
-  },
-  {
-    "en": "This directive takes effect on April 1, 2020.",
-    "fr": "Cette directive entre en vigueur le 1er avril 2020."
-  },
-  {
-    "en": "This directive replaces the following Treasury Board policy instruments:",
-    "fr": "Cette directive remplace les instruments du Conseil du Trésor suivants :"
-  },
-  {
-    "en": "Directive on Management of Information Technology, April 1, 2009",
-    "fr": "Directive sur la gestion des technologies de l’information, 1er avril 2009."
-  },
-  {
-    "en": "Directive on Information Management Roles and Responsibilities, October 8, 2007",
-    "fr": "Directive sur les rôles et responsabilités en matière de gestion de l’information, 8 octobre 2007."
-  },
-  {
-    "en": "Directive on Recordkeeping, June 1, 2009",
-    "fr": "Directive sur la tenue de documents, 1er juin 2009"
-  },
-  {
-    "en": "Policy on Acceptable Network and Device Use, October 1, 2013, Appendices A, B, C, and D.",
-    "fr": "Politique sur l’utilisation acceptable des dispositifs et des réseaux, 1er octobre 2013, annexes A, B, C, et D."
-  },
-  {
-    "en": "This directive is issued pursuant to the same authority indicated in section 2 of the Policy on Service and Digital.",
-    "fr": "La présente directive est émise conformément aux mêmes autorisations et pouvoirs indiqués à la section 2 de la Politique sur les services et le numérique."
-  },
-  {
-    "en": "The Treasury Board has delegated to the President of the Treasury Board the authority to issue, amend and rescind this directive.",
-    "fr": "Le Conseil du Trésor du Canada a délégué au Président du Conseil du Trésor du Canada, le pouvoir d’émettre, de modifier et d’annuler la présente directive."
-  },
-  {
-    "en": "The Treasury Board has delegated to the Chief Information Officer of Canada the authority to issue, amend and rescind supporting instruments, including standards, mandatory procedures and other appendices.",
-    "fr": "Le Conseil du Trésor du Canada a délégué au dirigeant principal de l’information du Canada, le pouvoir d’émettre, de modifier et d’annuler les instruments à l’appui, y compris les normes, procédures obligatoires et autres annexes."
-  },
-  {
-    "en": "The objectives indicated in section 3 of the Policy on Service and Digital apply to this directive.",
-    "fr": "Les objectifs indiqués à la section 3 de la Politique sur les services et le numérique s’appliquent à cette directive."
-  },
-  {
-    "en": "The expected results indicated in section 3 of the Policy on Service and Digital apply to this directive.",
-    "fr": "Les résultats escomptés indiqués à la section 3 de la Politique sur les services et le numérique s’appliquent à cette directive."
-  },
-  {
-    "en": "The departmental Chief Information Officer (CIO) is responsible for:",
-    "fr": "Le dirigeant principal de l’information (DPI) du ministère est responsable de ce qui suit :"
-  },
-  {
-    "en": "Chairing a departmental architecture review board that is mandated to review and approve the architecture of all departmental digital initiatives and ensure their alignment with enterprise architectures.",
-    "fr": "Présider un conseil d’examen de l’architecture ministériel dont le mandat est de revoir et d’approuver l’architecture de toutes les initiatives numériques ministérielles et d’assurer leur harmonisation avec les architectures intégrées."
-  },
-  {
-    "en": "Submitting to the Government of Canada enterprise architecture review board proposals concerned with the design, development, installation and implementation of digital initiatives:",
-    "fr": "Présenter au conseil d’examen de l’architecture intégrée du gouvernement du Canada des propositions liées à la conception, à l’élaboration, à l’installation et à la mise en œuvre d’initiatives numériques :"
-  },
-  {
-    "en": "Where the department is willing to invest a minimum of the following amounts to address the problem or take advantage of the opportunity:",
-    "fr": "lorsque le ministère est disposé à investir au moins l’un des montants suivants afin de régler le problème ou de bénéficier de l’occasion :"
-  },
-  {
-    "en": "$2.5 million dollars for departments that do not have an approved Organizational Project Management Capacity Class or that have an approved Organizational Project Management Capacity Class of 1 according to the ;",
-    "fr": "2,5 millions de dollars pour les ministères qui n’ont pas de catégorie de capacité organisationnelle de gestion de projets approuvée ou pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 1 approuvée, conformément à la ;"
-  },
-  {
-    "en": "$5 million dollars for departments that have an approved Organizational Project Management Capacity Class of 2;",
-    "fr": "5 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 2 approuvée;"
-  },
-  {
-    "en": "$10 million dollars for departments that have an approved Organizational Project Management Capacity Class of 3;",
-    "fr": "10 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 3 approuvée;"
-  },
-  {
-    "en": "$15 million dollars for the Department of National Defence;",
-    "fr": "15 millions de dollars pour le ministère de la Défense nationale;"
-  },
-  {
-    "en": "$25 million dollars for departments that have an approved Organizational Project Management Capacity Class of 4;",
-    "fr": "25 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 4 approuvée;"
-  },
-  {
-    "en": "That involve emerging technologies;",
-    "fr": "qui comportent des technologies émergentes;"
-  },
-  {
-    "en": "That require an exception under this directive or other directives under the policy;",
-    "fr": "qui exigent une exception à la présente directive ou à d’autres directives liées à la politique;"
-  },
-  {
-    "en": "That are categorized at the protected B level or below using a deployment model other than public cloud for application hosting (including infrastructure), application deployment, or application development;",
-    "fr": "qui sont catégorisées au niveau Protégé B ou inférieur et utilisant un modèle de déploiement autre que le nuage public pour l’hébergement d’applications (y compris l’infrastructure), le déploiement d’applications ou le développement d’applications;"
-  },
-  {
-    "en": "That include the extension or creation of custom support to prevent a technology from becoming unsupported where:",
-    "fr": "qui comprennent la prolongation ou la création d’un soutien personnalisé pour éviter qu’une technologie ne devienne non prise en charge dans le cas où :"
-  },
-  {
-    "en": "The proposal is an extension for a previous support contract where the migration project has been delayed (with justification);",
-    "fr": "la proposition s’avère une prolongation d’un contrat de soutien précédent où le projet de migration a été retardé (avec justification);"
-  },
-  {
-    "en": "The technology supports a mission-critical system where there is a high degree of injury risk should the system’s functions fail; or",
-    "fr": "la technologie prend en charge un système essentiel à la mission pour lequel le risque de préjudice est élevé en cas de défaillance des fonctions du système;"
-  },
-  {
-    "en": "The technology has been discontinued by the provider, and migration to a new technology would require adoption of a completely new solution; or",
-    "fr": "la technologie a été abandonnée par le fournisseur, et la migration vers une nouvelle technologie nécessiterait l’adoption d’une solution entièrement nouvelle; ou"
-  },
-  {
-    "en": "As directed by the CIO of Canada.",
-    "fr": "tel qu’indiqué par le DPI du Canada."
-  },
-  {
-    "en": "Ensuring that proposals submitted to the GC Enterprise Architecture Review Board have first been assessed by the departmental architecture review board where one has been established;",
-    "fr": "Veiller à ce que les propositions présentées au conseil d’examen de l’architecture intégrée du gouvernement du Canada soient d’abord évaluées par le conseil d’examen de l’architecture ministériel, lorsqu’il en existe un."
-  },
-  {
-    "en": "Ensuring that proposals to the GC Enterprise Architecture Review Board are submitted after review of concept cases for digital projects according to the “Mandatory Procedures for Concept Cases for Digital Projects” and before the development of a Treasury Board submission or departmental business case.",
-    "fr": "Veiller à ce que les propositions soient présentées au conseil d’examen de l’architecture intégrée du gouvernement du Canada après l’examen des cas conceptuels des projets numériques conformément aux « Procédures obligatoires pour les cas conceptuels des projets numériques » et avant l’élaboration d’une présentation au Conseil du Trésor ou d’un modèle d’analyse de rentabilisation ministériel."
-  },
-  {
-    "en": "Ensuring that departmental initiatives submitted to the GC Enterprise Architecture Review Board align with the , the , and the . The Enterprise Architecture Framework is the criteria used by the GC Enterprise Architecture Review Board and departmental architecture review boards when reviewing digital initiatives to ensure their alignment with enterprise architectures across business, information, application, technology and security domains to support strategic outcomes;",
-    "fr": "Veiller à ce que les initiatives ministérielles présentées au Conseil d’examen de l’architecture intégrée du gouvernement du Canada soient conformes au , , et aux Le cadre d’architecture intégrée est le critère utilisé par le Conseil d’examen de l’architecture intégrée du gouvernement du Canada et les conseils d’examen de l’architecture ministérielle lors de l’examen des initiatives en matière de numérique pour assurer leur conformité avec les architectures intégrées dans les domaines des affaires, de l’information, des applications, de la technologie et de la sécurité afin d’appuyer les résultats stratégiques."
-  },
-  {
-    "en": "Approving the IT and information or data component of all departmental strategies, plans, initiatives, projects, procurements and spending authority requests.",
-    "fr": "Approuver la composante de la TI et de l’information ou des données de l’ensemble des stratégies, des plans, des initiatives, des projets, des approvisionnements et des demandes d’autorisation de dépense du ministère."
-  },
-  {
-    "en": "Producing the departmental IT expenditure report and on-going Application Portfolio Management update reports.",
-    "fr": "Produire le rapport ministériel sur les dépenses en matière de TI et les rapports de mise à jour de la gestion en continu du portefeuille des applications."
-  },
-  {
-    "en": "Ensuring that departmental IT investments, service development and improvement initiatives are informed by and integrated into departmental business planning.",
-    "fr": "Veiller à ce que les investissements ministériels en matière de TI, l’élaboration de services et les initiatives d’amélioration soient à la fois éclairés par la planification des activités du ministère et intégrés à celle-ci."
-  },
-  {
-    "en": "Participating, as a service provider or as a service client, in the conception, planning, evolution and oversight of enterprise-wide IT services and solutions.",
-    "fr": "Participer, en tant que fournisseur de services ou d’utilisateur de services, à la conception, à la planification, à l’évolution et à la surveillance des solutions et services de la TI à l’échelle du gouvernement."
-  },
-  {
-    "en": "Advising the CIO of Canada about decisions, plans, strategies, directions, progress, risks and challenges related to initiatives that affect the provision or use of IT services in or across departments.",
-    "fr": "Conseiller le DPI du Canada sur les décisions, les plans, les stratégies, les orientations, les progrès, les risques et les enjeux liés aux initiatives qui touchent la prestation ou l’utilisation de services de la TI au sein d’un ministère ou dans l’ensemble des ministères."
-  },
-  {
-    "en": "The designated official for service, in collaboration with other officials as necessary, is responsible for the following, in accordance with TBS direction and guidance:",
-    "fr": "L’agent désigné pour les services, en collaboration avec d’autres agents au besoin, est responsable de ce qui suit, conformément à l’orientation et aux directives du SCT :"
-  },
-  {
-    "en": "Ensuring that client feedback, including in-service client feedback, client satisfaction surveys and user experience testing, is collected and used to inform design, delivery and continuous improvement of services;",
-    "fr": "Veiller à ce que la rétroaction des clients, y compris la rétroaction des clients en direct, les sondages sur la satisfaction des clients et les tests « expérience utilisateur » soit recueillie et utilisée pour éclairer la conception, la prestation et l’amélioration continue des services."
-  },
-  {
-    "en": "Ensuring that newly designed or redesigned online services provide real-time application status to clients;",
-    "fr": "Veiller à ce que les services en ligne nouvellement conçus ou révisés fournissent au client l’état de leur demande en temps réel."
-  },
-  {
-    "en": "Developing and annually updating a departmental service inventory;",
-    "fr": "Élaborer et mettre à jour chaque année un répertoire des services ministériels."
-  },
-  {
-    "en": "Working with TBS to make the departmental service inventory available through the Government of Canada open government portal;",
-    "fr": "Collaborer avec le SCT en vue de rendre le répertoire des services ministériels disponible au moyen du Portail du gouvernement ouvert du Canada."
-  },
-  {
-    "en": "Ensuring the development, management and regular review of service standards, related targets and performance information, for all services and all service delivery channels in use;",
-    "fr": "Veiller à l’élaboration, la gestion et l’examen régulier des normes de service, des cibles connexes et de l’information sur le rendement, pour tous les services et tous les modes de prestation des services utilisés."
-  },
-  {
-    "en": "Ensuring the reporting of real-time performance information for service standards is available on the department’s web presence;",
-    "fr": "Veiller à ce que l’information sur le rendement en temps réel pour les normes de service soit disponible par l’entremise du site Web du ministère."
-  },
-  {
-    "en": "Ensuring that each service is regularly reviewed with clients, partners and stakeholders, in collaboration with the departmental CIO, as appropriate, at least once every five years to identify opportunities for improvement, including redesign for client-centricity, digital enablement, online availability and uptake, efficiency, partnership arrangements, and alternate approaches to service delivery, and alignment with the .",
-    "fr": "Veiller à ce que chaque service soit régulièrement examiné avec les clients, les partenaires et les intervenants, en collaboration avec le DPI ministériel, le cas échéant, au moins une fois tous les cinq ans afin d’identifier les améliorations possibles, y compris la révision de la conception pour assurer l’accent sur les clients, la facilitation par le numérique, la disponibilité et l’adoption en ligne, l’efficacité, les ententes de partenariat et d’autres approches de prestation des services, et d’assurer la conformité aux ."
-  },
-  {
-    "en": "The departmental CIO, in collaboration with other departmental officials as necessary, is responsible for:",
-    "fr": "Le DPI du ministère, en collaboration avec d’autres agents du ministère, au besoin, est responsable de ce qui suit :"
-  },
-  {
-    "en": "Establishing departmental information architecture in alignment with prescribed enterprise-wide standards.",
-    "fr": "Établir une architecture d’information ministérielle en harmonisation avec les normes pangouvernementales établies."
-  },
-  {
-    "en": "Ensuring digital systems are the preferred means of creating, capturing and managing information.",
-    "fr": "Veiller à ce que les systèmes numériques constituent le mode privilégié de création, de saisie et de gestion de l’information."
-  },
-  {
-    "en": "Ensuring information and data are managed to enable data interoperability, reuse and sharing to the greatest extent possible within and with other departments across the government to avoid duplication and maximize utility, while respecting security and privacy requirements.",
-    "fr": "Veiller à ce que l’information et les données soient gérées pour permettre, dans la mesure du possible, l’interopérabilité des données, la réutilisation et le partage au sein des ministères et avec d’autres ministères à l’échelle du gouvernement afin d’éviter les répétitions et maximiser l’utilité, tout en respectant les exigences en matière de sécurité et de protection des renseignements personnels."
-  },
-  {
-    "en": "Ensuring departmental information is created in an accessible format, where appropriate, in accordance with TBS guidance.",
-    "fr": "Veiller à ce que l’information ministérielle soit créée dans un format accessible, le cas échéant, conformément aux lignes directrices du SCT."
-  },
-  {
-    "en": "Establishing and maintaining taxonomies or classification structures to manage, store, search, and retrieve information and data in all formats according to prescribed enterprise-wide standards.",
-    "fr": "Établir et tenir à jour des taxonomies ou des structures de classification afin de gérer, de stocker, de chercher et de récupérer de l’information et des données dans tous les formats, conformément aux normes pangouvernementales établies."
-  },
-  {
-    "en": "Documenting life cycle management practices within the department that align with the nature or purpose of the information or data, and that address accountability, stewardship, performance measurement, reporting, and legal requirements.",
-    "fr": "Consigner les pratiques de gestion du cycle de vie au sein du ministère qui s’harmonisent avec la nature ou l’objet de l’information ou des données et qui répondent aux exigences en matière de responsabilité, d’intendance, de mesure du rendement, de production de rapports, ainsi que des exigences prévues par la loi."
-  },
-  {
-    "en": "Establishing, implementing and maintaining retention periods for all information and data, as appropriate, according to format.",
-    "fr": "Établir, mettre en œuvre et respecter les périodes de conservation de toute l’information et de toutes les données, le cas échéant, selon leur format."
-  },
-  {
-    "en": "Developing a documented disposition process and performing regular disposition activities for all information and data, as required.",
-    "fr": "Élaborer un processus de disposition consigné et entreprendre des activités de disposition régulières pour toute l’information et toutes les données, le cas échéant."
-  },
-  {
-    "en": "Protecting information and data by documenting and mitigating risks, and by taking into consideration the business value of the information, legal and regulatory risks, access to information, security of information, and the protection of personal information.",
-    "fr": "Protéger l’information et les données en consignant et atténuant les risques et en tenant en compte la valeur opérationnelle de l’information, les risques juridiques et réglementaires, l’accès à l’information, la sécurité de l’information et la protection des renseignements personnels."
-  },
-  {
-    "en": "Identifying information of business value, based on an analysis of the functions and activities carried out by a department to enable or support its legislated mandate.",
-    "fr": "Déterminer l’information ayant une valeur opérationnelle en s’appuyant sur une analyse des fonctions et des activités exécutées par le ministère pour faciliter ou appuyer le mandat que lui confère la loi."
-  },
-  {
-    "en": "Maximizing the removal of access restrictions on departmental information that has been identified as having archival value before the information is transferred to Library and Archives Canada as part of planned disposition activities.",
-    "fr": "Maximiser l’élimination des restrictions d’accès à l’information ministérielle déterminée comme ayant une valeur archivistique avant qu’elle soit transférée à Bibliothèque et Archives Canada (BAC) dans le cadre des activités d’élimination prévues."
-  },
-  {
-    "en": "Ensuring that an approved Government of Canada enterprise information management solution is used to document business activities, decisions and decision-making processes.",
-    "fr": "Veiller à ce qu’une solution intégrée de gestion de l’information approuvée par le gouvernement du Canada soit utilisée afin de consigner les activités, les décisions et les processus de prise de décisions opérationnels."
-  },
-  {
-    "en": "Identifying, establishing, implementing and maintaining designated corporate repositories in which information of business value is managed throughout its life cycle while respecting privacy and security requirements.",
-    "fr": "Déterminer, établir, mettre en œuvre et maintenir des répertoires ministériels désignés où l’information ayant une valeur opérationnelle est gérée pendant son cycle de vie, tout en respectant les exigences en matière de sécurité et de protection des renseignements personnels."
-  },
-  {
-    "en": "Ensuring that the quality of information is managed and preserved to satisfy the requirements and expectations of users to meet operational needs, responsibilities, and long-term retention requirements.",
-    "fr": "Veiller à ce que la qualité de l’information soit gérée et préservée pour satisfaire aux exigences et aux attentes des utilisateurs afin de répondre aux besoins opérationnels, aux responsabilités et aux exigences de conservation à long terme."
-  },
-  {
-    "en": "Managers are responsible for:",
-    "fr": "Les gestionnaires sont responsables de ce qui suit :"
-  },
-  {
-    "en": "Informing employees of their duty to document their activities and decisions of business value.",
-    "fr": "Informer les employés de leur obligation de consigner leurs activités et leurs décisions ayant une valeur opérationnelle."
-  },
-  {
-    "en": "Employees are responsible for:",
-    "fr": "Les employés sont responsables de ce qui suit :"
-  },
-  {
-    "en": "Documenting their activities and decisions of business value.",
-    "fr": "consigner leurs activités et leurs décisions ayant une valeur opérationnelle."
-  },
-  {
-    "en": "Defining requirements and criteria of and .",
-    "fr": "Définir les exigences et les critères de l’ et l’ ."
-  },
-  {
-    "en": "Providing services within their mandate respecting the provisions, limits and thresholds specified in and ;",
-    "fr": "Fournir des services dans le cadre de son mandat concernant les dispositions, les limites et les seuils précisés à l’ et l’ ."
-  },
-  {
-    "en": "Providing departmental CIOs and the CIO of Canada with details on service offering, availability and their department’s actual consumption, subject to data availability;",
-    "fr": "Fournir aux DPI des ministères et au DPI du Canada des détails sur l’offre de services, la disponibilité et la consommation actuelle de leur ministère, selon la disponibilité des données."
-  },
-  {
-    "en": "Releasing for publication on the Open Government portal enterprise-wide annual statistics on availability and actual consumption, subject to data availability; and",
-    "fr": "Communiquer aux fins de publication, par l’entremise du Portail du gouvernement ouvert, les statistiques annuelles pangouvernementales sur la disponibilité et la consommation actuelle, selon la disponibilité des données."
-  },
-  {
-    "en": "Providing to departments, subject to data availability, inventories of applications and associated software and versions.",
-    "fr": "Fournir des répertoires d’applications, de logiciels et de versions connexes aux ministères, selon la disponibilité des données."
-  },
-  {
-    "en": "Providing IT services that are responsive to departmental priorities and to the needs of program delivery and business.",
-    "fr": "Fournir des services de la TI qui répondent aux priorités ministérielles, aux besoins en matière d’exécution des programmes et aux besoins opérationnels."
-  },
-  {
-    "en": "Ensuring that decisions and actions regarding IT are guided by the CIO of Canada’s enterprise-wide plan and prioritization of GC demand for IT services and assets.",
-    "fr": "Veiller à ce que les décisions et les mesures liées à la TI soient orientées par le plan pangouvernemental du DPI du Canada et la priorisation de la demande du gouvernement du Canada pour des services et des actifs de la TI."
-  },
-  {
-    "en": "Adopting, as applicable, enterprise solutions within their respective department.",
-    "fr": "Adopter, s’il y a lieu, des solutions pangouvernementales au sein de leur ministère respectif."
-  },
-  {
-    "en": "Developing and maintaining departmental IT management practices and processes, as informed by ITIL (Information Technology Infrastructure Library) and COBIT (Control Objectives for Information and Related Technology), while prioritizing IT asset management, the IT service catalogue and IT service costing and pricing, as appropriate.",
-    "fr": "Élaborer et maintenir des pratiques et des processus ministériels en matière de gestion de la TI en tenant compte de la Bibliothèque de l’infrastructure des technologies de l’information (BITI) et des Objectifs de contrôle de l’information et des technologies associées (COBIT), tout en accordant la priorité à la gestion des actifs de la TI, au catalogue de services de la TI et à l’établissement des coûts et des tarifs des services de la TI, le cas échéant."
-  },
-  {
-    "en": "Developing, implementing and sustaining departmental strategies for producing or using appropriate enterprise IT services and solutions, based on the integrated service, information, IT and cyber security departmental plan.",
-    "fr": "Élaborer, mettre en œuvre et entretenir des stratégies ministérielles en vue de produire ou d’utiliser des services et solutions de la TI pangouvernementaux, et ce, en fonction du plan ministériel intégré sur les services, l’information, la TI et la cybersécurité."
-  },
-  {
-    "en": "Collaborating on digitally enabled business transformation with the business owner and other stakeholders.",
-    "fr": "Collaborer à la transformation opérationnelle facilitée par le numérique avec le responsable opérationnel et les autres intervenants."
-  },
-  {
-    "en": "Identifying emerging technologies that could potentially contribute to the strategic and business goals of the department and the GC.",
-    "fr": "Identifier les technologies émergentes qui pourraient potentiellement contribuer à l’atteinte des objectifs stratégiques et opérationnels du ministère et du gouvernement du Canada."
-  },
-  {
-    "en": "Ensuring that IT services are designed and managed to support interoperability.",
-    "fr": "Veiller à ce que les services de la TI soient conçus et gérés en vue d’appuyer l’interopérabilité."
-  },
-  {
-    "en": "Collecting, maintaining, approving and updating annually the department’s inventory of employees and their assigned profiles per and ;",
-    "fr": "Recueillir, conserver, approuver et tenir à jour annuellement les données du répertoire des employés des ministères ainsi que leurs profils conformément à l’ et l’ ."
-  },
-  {
-    "en": "Complying with provisions, limits, configurations and thresholds as set out in , , and ;",
-    "fr": "Respecter les profils, les dispositions, les limites, les configurations, et les seuils précisés pour les services intégrés de la TI énumérés à l’ , à l’ et l’ ."
-  },
-  {
-    "en": "Identifying planned usage of IT services in the integrated service, information, data, IT and cyber security departmental plan using the ;",
-    "fr": "Déterminer l’utilisation prévue des services de la TI dans le plan ministériel intégré sur les services, l’information, la TI et la cybersécurité à l’aide des ."
-  },
-  {
-    "en": "Ensuring open source software is encouraged and where used, contributing to the communities whose work is being leveraged.",
-    "fr": "Veiller à ce que l’emploi de logiciels libres soit encouragé et veiller, le cas échéant, à ce que ceux-ci contribuent aux collectivités dont le travail est exploité."
-  },
-  {
-    "en": "Supporting the use of cloud services first by ensuring they are:",
-    "fr": "Appuyer l’utilisation des services d’informatique en nuage en premier en veillant à ce qu’ils soient :"
-  },
-  {
-    "en": "Identified and evaluated as a principal delivery option when initiating new departmental, enterprise, and community of interest cluster IT investments, initiatives, strategies and projects;",
-    "fr": "désignés et évalués comme la principale option de prestation de services lors du lancement de nouveaux investissements, initiatives, stratégies et projets en matière de TI par des ministères, l’ensemble du gouvernement et des regroupements de collectivités d’intérêt;"
-  },
-  {
-    "en": "Adopted when they are the most effective option to meet business needs; and",
-    "fr": "adoptés lorsqu’ils constituent l’option la plus efficace pour répondre aux besoins opérationnels;"
-  },
-  {
-    "en": "Compliant with appropriate federal privacy and security legislation, policies and standards.",
-    "fr": "conformes aux lois, aux politiques et aux normes fédérales pertinentes sur la protection des renseignements personnels et la sécurité."
-  },
-  {
-    "en": "Ensuring computing facilities located within the geographic boundaries of Canada or within the premises of a Government of Canada department located abroad, such as a diplomatic or consular mission, be identified and evaluated as a principal delivery option for all sensitive electronic information and data under government control that has been categorized as Protected B, Protected C or is Classified.",
-    "fr": "Veiller à ce que les installations informatiques situées à l’intérieur des frontières géographiques du Canada ou dans des locaux à l’étranger appartenant à un ministère du gouvernement du Canada, telle qu’une mission diplomatique ou consulaire, soient considérées et évaluées en tant qu’option principale pour la prestation de services impliquant toute l’information et toutes les données électroniques délicates sous le contrôle du gouvernement qui est classée Protégé B, C ou Classifié."
-  },
-  {
-    "en": "Drafting notices to authorized network and device users to inform them of:",
-    "fr": "Rédiger des avis destinés aux utilisateurs autorisés des dispositifs et des réseaux pour les informer de ce qui suit :"
-  },
-  {
-    "en": "Expectations for acceptable and unacceptable use of GC electronic networks and devices, including a link to the and instructions to consult and ;",
-    "fr": "des attentes quant à l’utilisation acceptable et inacceptable des dispositifs et des réseaux électroniques du gouvernement du Canada, y compris un lien vers la et des instructions à consulter à l’ et l’ ;"
-  },
-  {
-    "en": "Electronic network monitoring practices applied by their own department or by Shared Services Canada (SSC) according to ;",
-    "fr": "des pratiques de surveillance des réseaux électroniques en vigueur dans leur propre ministère ou par Services partagés Canada (SPC), conformément à l’ ."
-  },
-  {
-    "en": "Ensuring compliance with procedures established for accessing alternatives to SSC service delivery mechanisms, as necessary.",
-    "fr": "Veiller à la conformité avec les procédures établies pour accéder aux mécanismes alternatifs de prestation de services à SPC, au besoin."
-  },
-  {
-    "en": "Ensuring that technologies are current and that technologies that are unsupported are not used, according to .",
-    "fr": "Veiller à ce que les technologies sont à jour et que les technologies qui ne sont pas prises en charge ne sont pas utilisées, conformément à l’ ."
-  },
-  {
-    "en": "The designated official for cyber security, in collaboration with the departmental CIO and Chief Security Officer as appropriate, is responsible for:",
-    "fr": "L’agent désigné pour la cybersécurité, en collaboration avec le DPI ministériel et le dirigeant principal de la sécurité, le cas échéant, est responsable de ce qui suit :"
-  },
-  {
-    "en": "Ensuring that cyber security requirements and appropriate risk-based measures are applied continuously in an identify, protect, detect, respond, and recover approach to protect information systems and services, in accordance with the ;",
-    "fr": "Veiller à ce que les exigences en matière de cybersécurité et les mesures axées sur le risque qui sont appropriées soient gérées en permanence au moyen d’une approche d’identification, de protection, de détection, d’intervention et de reprise des systèmes et des services d’information conformément à l’ ."
-  },
-  {
-    "en": "Ensuring departmental plans, processes and procedures are in place for responding to cyber security events and reporting of incidents to the appropriate authorities and affected stakeholders, in accordance with the .",
-    "fr": "Veiller à ce que des plans, des processus et des procédures ministériels soient en place pour réagir aux événements de cybersécurité et signaler les incidents aux autorités pertinentes et aux intervenants touchés, conformément au Plan de gestion des événements de cybersécurité du gouvernement du Canada."
-  },
-  {
-    "en": "Undertaking immediate action within the department as directed to assess impacts, including whether there has been a privacy breach, and implement mitigation measures in response to cyber security events.",
-    "fr": "Prendre des mesures immédiates au sein du ministère, tel que prescrit, pour évaluer les répercussions, y compris s’il y a atteinte à la vie privée, et mettre en œuvre des mesures d’atténuation en réponse à des évènements de cybersécurité."
-  },
-  {
-    "en": "Liaising with the access to information and privacy office in the department and the Office of the Privacy Commissioner when there has been a material privacy breach.",
-    "fr": "Faire la liaison avec le bureau de l’accès à l’information et de la protection des renseignements personnels du ministère et le Commissariat à la protection de la vie privée en cas d’atteinte substantielle à la vie privée."
-  },
-  {
-    "en": "The departmental CIO is responsible for:",
-    "fr": "Le DPI ministériel est responsable de ce qui suit :"
-  },
-  {
-    "en": "Providing functional leadership in the department on the development and sustainability of the IT and information communities through talent management and community development strategies.",
-    "fr": "Fournir un leadership fonctionnel au sein du ministère à l’égard du développement et de la durabilité des collectivités de la TI et de l’information grâce à des stratégies de gestion des talents et de développement des collectivités."
-  },
-  {
-    "en": "The roles of other government organizations in relation to this directive are described in section 5 of the Policy on Service and Digital.",
-    "fr": "Les rôles des autres organisations gouvernementales relativement à la présente directive sont décrits à la section 5 de la Politique sur les services et le numérique."
-  },
-  {
-    "en": "This directive applies to departments as defined in section 2 of the unless otherwise excluded by other acts, regulations or orders in council.",
-    "fr": "La présente directive s’applique aux ministères au sens de l’article 2 de la , sauf si des lois, des règlements ou des décrets les en excluent."
-  },
-  {
-    "en": "Requirements 4.4.2.1, 4.4.2.2, 4.4.2.3, 4.4.2.4, 4.4.3.9, 4.4.3.10 and 4.4.3.11 apply only to departments, as defined in section 2 of the , that receive their IT services from SSC as set out in . Other departments or separate agencies that are not subject to these provisions are encouraged to meet these requirements as good practice.",
-    "fr": "Les exigences énoncées dans les sections 4.4.2.1, 4.4.2.2, 4.4.2.3, 4.4.2.4, 4.4.3.9, 4.4.3.10, et 4.4.3.11 s’appliquent uniquement aux ministères au sens de l’article 2 de la , qui reçoivent leurs services de la TI de Services partagés Canada conformément au . Les autres ministères ou organismes distincts, non assujettis aux présentes dispositions, sont encouragés à se conformer à ces exigences à titre de pratique exemplaire."
-  },
-  {
-    "en": "Requirement 4.4.3.14 applies only to the core public administration as defined in section 11.1 of the , unless otherwise excluded by specific acts, regulations or orders-in-council. Other departments or separate agencies that are not subject to these provisions are encouraged to meet these requirements as good practice.",
-    "fr": "L’exigence de la section 4.4.3.14 s’applique seulement à l’administration publique centrale comme définie à l’article 11.1 de la , sauf si des lois, des règlements ou des décrets les en excluent. Les autres ministères ou organismes distincts, non assujettis aux présentes dispositions, sont encouragés à se conformer à ces exigences en tant que pratique exemplaire."
-  },
-  {
-    "en": "Small departments and agencies:",
-    "fr": "Petits ministères et organismes :"
-  },
-  {
-    "en": "For the purposes of this directive, small departments and agencies are defined as organizations that have reference levels including revenues credited to the vote of less than $300 million per year or that have been, for the purposes of this directive, designated as small departments or agencies by the President of the Treasury Board upon recommendation of the Secretary of the Treasury Board;",
-    "fr": "Aux fins de la présente directive, les petits ministères et organismes sont définis comme des organisations qui ont des niveaux de référence, y compris des recettes à valoir sur le crédit, de moins de 300 millions de dollars par année ou qui ont été, aux fins de la présente directive, désignés comme des petits ministères ou organismes par le président du Conseil du Trésor sur recommandation du secrétaire du Conseil du Trésor."
-  },
-  {
-    "en": "Organizations whose reference levels change so as to bring them above or below the $300 million threshold will not be redefined as large or small departments or agencies unless their reference levels remain above or below the threshold for three consecutive years, to allow for stability and transition, unless otherwise determined by the President of the Treasury Board upon the recommendation of the Secretary of the Treasury Board;",
-    "fr": "Les organisations dont les niveaux de référence augmentent au-dessus ou diminuent en dessousdu seuil de 300 millions de dollars ne seront pas redéfinies comme des grands ou petits ministères ou organismes à moins que leurs niveaux de référence demeurent supérieurs ou inférieurs au seuil pendant trois années consécutives, pour permettre la stabilité et la transition, à moins que le président du Conseil du Trésor, sur recommandation du secrétaire du Conseil du Trésor, n’en décide autrement."
-  },
-  {
-    "en": "With regard to small departments and agencies, this directive applies as per subsection 6.1 with the exception of section 4.1.1.1.",
-    "fr": "En ce qui concerne les petits ministères et organismes, la présente directive s’applique en vertu du paragraphe 6.1 avec les exceptions mentionnées à l’article 4.1.1.1."
-  },
-  {
-    "en": "Agents of Parliament",
-    "fr": "Agents du Parlement"
-  },
-  {
-    "en": "The heads of the following organizations are solely responsible for monitoring and ensuring compliance with this directive within their organizations:",
-    "fr": "Les administrateurs généraux des organisations suivantes sont entièrement responsables de la surveillance et d’assurer la conformité avec la présente directive au sein de leur organisation :"
-  },
-  {
-    "en": "With regard to Agents of Parliament, the following subsections do not apply: 4.1.1.1, 4.1.1.2, 4.1.1.3, 4.1.1.4, 4.1.1.5, 4.1.1.10, 4.4.3.2 and 4.4.3.15.",
-    "fr": "Les sections suivantes ne s’appliquent pas aux agents du Parlement : 4.1.1.1, 4.1.1.2, 4.1.1.3, 4.1.1.4, 4.1.1.5, 4.1.1.10, 4.4.3.2 et 4.4.3.15."
-  },
-  {
-    "en": "The references in relation to this directive are described in section 8 of the Policy on Service and Digital.",
-    "fr": "Les références à l’égard de la présente directive sont décrites à la section 8 de la Politique sur les services et le numérique."
-  },
-  {
-    "en": "For interpretation of any aspect of this directive, contact .",
-    "fr": "Pour l’interprétation de tout aspect de la présente directive, veuillez communiquer avec le ."
+    "en": "Office of the Auditor GeneralOffice of the Chief Electoral OfficerOffice of the Commissioner of Lobbying of CanadaOffice of the Commissioner of Official LanguagesOffice of the Information Commissioner of CanadaOffice of the Privacy Commissioner of CanadaOffice of the Public Sector Integrity Commissioner of Canada",
+    "fr": "Bureau du vérificateur généralBureau du directeur général des électionsCommissariat au lobbying du CanadaCommissariat aux langues officiellesCommissariat à l’information du CanadaCommissariat à la protection de la vie privée du CanadaCommissariat à l’intégrité du secteur public du Canada",
+    "anchor": "6.5.1",
+    "tag": "ul"
   }
 ]

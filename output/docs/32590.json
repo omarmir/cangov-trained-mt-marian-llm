@@ -1,314 +1,86 @@
 [
   {
-    "en": "This directive takes effect on October 26, 2022.",
-    "fr": "La présente directive entre en vigueur le 26 octobre 2022."
+    "en": "Exercising discretionExercising discretion in a fair, reasonable and impartial manner after:Considering the purpose of the Act, which is, in part, to provide individuals with a right of access to their personal information, subject to limited and specific exemptions; and the right to request correction of their personal information; Considering all relevant factors for and against disclosure, the relevant provisions of the Act, as well as applicable jurisprudence;Consulting with government institutions, as necessary; andReviewing the information contained in records.",
+    "fr": "Exercice du pouvoir discrétionnaireExercer le pouvoir discrétionnaire de manière équitable, raisonnable et impartiale après avoir :Tenu compte de l’objet de la Loi, qui consiste, en partie, à donner aux individus un droit d’accès à leurs renseignements personnels, sous réserve d’exceptions limitées et spécifiques, et le droit de demander la correction de leurs renseignements personnels.Tenu compte de l’ensemble des facteurs pertinents en faveur ou à l’encontre de la divulgation, les dispositions pertinentes de la Loi, ainsi que la jurisprudence applicable. Consulté les institutions fédérales, le cas échéant. Examiné les renseignements contenus dans les documents.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "This directive replaces the dated July 13, 2022.",
-    "fr": "La présente directive remplace la datée du 13 juillet 2022."
+    "en": "Privacy trainingEnsuring that employees of government institutions and officials who have functional or delegated responsibility for the administration of the Act receive training as outlined in Appendix B: Mandatory Procedures for Privacy Training.Documenting the completion of training in accordance with Appendix B: Mandatory Procedures for Privacy Training.",
+    "fr": "Formation en protection des renseignements personnelsVeiller à ce que les employés des institutions fédérales et les fonctionnaires ayant une responsabilité fonctionnelle ou déléguée en matière d’application de la Loi reçoivent une formation conformément à l’annexe B : Procédures obligatoires pour la formation en protection des renseignements personnels.Documenter l’achèvement de la formation conformément à l’annexe B : Procédures obligatoires pour la formation en protection des renseignements personnels.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "This directive is issued pursuant to paragraph 71(1)(d) of the and as specified in section 2.2 of the .",
-    "fr": "La présente directive est émise conformément à l’alinéa 71(1)d) de la et comme spécifié à la section 2.2 de la ."
+    "en": "Eligibility of the requesterEstablishing procedures to: Confirm the identity of the requester so that privacy will not be breached; andConfirm the authority of an individual to make a request on behalf of another individual.",
+    "fr": "Admissibilité du demandeurÉtablir des procédures pour : confirmer l’identité du demandeur afin de ne pas porter atteinte à la vie privée; etconfirmer le pouvoir d’un individu de présenter une demande au nom d’une autre personne.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "In addition to the objectives indicated in section 3.1 of the , the objective of this directive is to establish consistent practices and procedures for processing requests from individuals to access their personal information or for the correction of their personal information that is under the control of government institutions and has been used, is used or is available for use for administrative purposes.",
-    "fr": "En plus des objectifs indiqués à la section 3.1 de la , l’objectif de la présente directive est d’établir des pratiques et des procédures cohérentes pour le traitement des demandes des individus pour accès à leurs renseignements personnels ou pour la correction de leurs renseignements personnels qui relèvent des institutions fédérales et qui ont été utilisés, sont utilisés ou peuvent être utilisés à des fins administratives."
+    "en": "Informal processingDetermining whether it is appropriate to respond to a personal information request on an informal basis, recognizing that the Act is intended to complement existing procedures for obtaining personal information held by government. Proceeding with treating a request informally only upon receipt of written consent from the requester who has been informed that only formal requests are subject to the provisions of the Privacy Act, including legislative timelines and the right to complain.",
+    "fr": "Traitement informelDéterminer s’il est approprié de répondre à une demande de renseignements personnels de façon informelle, en reconnaissant que la Loi vise à compléter les procédures existantes pour obtenir des renseignements personnels détenus par le gouvernement. Procéder uniquement au traitement d’une demande de façon informelle à la réception d’un avis de consentement écrit de la part d’un demandeur qui a été informé du fait que seules les demandes formelles sont assujetties aux dispositions de la Loi sur la protection des renseignements personnels, y compris les délais prévus par la Loi et le droit de déposer une plainte.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "The expected results indicated in section 3 of the apply to this directive.",
-    "fr": "Les résultats escomptés précisés à la section 3 de la s’appliquent à la présente directive."
+    "en": "Acknowledging requestsProviding the requester with: Acknowledgement of receipt of the request; The legislative due date for the response; The contact information of the appropriate officer or office within the institution where questions and further clarifications may be addressed; Notification of the right to complain to the Privacy Commissioner; and,A copy of the Principles for Assisting Requesters or a link to the Principles online.",
+    "fr": "Accusés de réception des demandesFournir au demandeur : un accusé de réception de la demande; la date d’échéance pour la réponse selon la Loi; les coordonnées de l’agent compétent ou bureau au sein de l’institution qui pourrait répondre aux éventuelles questions et demandes de clarifications supplémentaires; un avis concernant le droit de déposer une plainte auprès du commissaire à la protection de la vie privée;une copie des principes sur l’assistance aux demandeurs ou un lien vers les principes en ligne.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "Heads of government institutions or their delegates are responsible for:",
-    "fr": "Les responsables des institutions fédérales ou leurs délégués assument les responsabilités suivantes :"
+    "en": "Duty to assistProtecting the identity of the requesterLimiting the use or disclosure of information that could directly or indirectly lead to the identification of a requester to a need to know basis, unless otherwise authorized by the Act.Interpretation and clarification of requestsAdopting a broad interpretation of a personal information request and communicating promptly with the requester when necessary to clarify the request. Assisting the requester in clarifying a request where it would result in the requester receiving more complete, accurate or timely access.Documenting the wording of a clarified request, as agreed by the requester, and the date of the revision when a request has been clarified or its wording altered.Onsite examinationWhen a copy of the personal information cannot be made available, providing an appropriate location and time within the government institution for the requester to examine the records containing the personal information.Language of accessProviding the personal information in the official language requested by the requester, including translating or interpreting the personal information when necessary to enable the individual to understand the information.Accessible format for requestersProviding the personal information in an accessible format requested by the requester including converting the records to the alternate format when necessary to enable the requester to understand the information when it would be reasonable to cause the personal information to be converted.",
+    "fr": "Obligation de prêter assistanceProtection de l’identité du demandeurRestreindre l’utilisation ou la divulgation de renseignements qui permettraient de reconnaître directement ou indirectement le demandeur aux seules personnes qui ont besoin de les connaître, sauf lorsqu’autorisé autrement par la Loi.Interprétation et clarification des demandesAdopter une interprétation large de la demande de renseignements personnels et communiquer rapidement avec le demandeur en cas de besoin afin de préciser la demande. Aider le demandeur à clarifier une demande lorsque cela lui permettrait de bénéficier d’un accès plus complet, précis ou en temps utile.Documenter la formulation d’une demande clarifiée telle qu’elle a été acceptée par le demandeur et la date du changement lorsqu’une demande est clarifiée ou que sa formulation est modifiée. Examen sur placeLorsqu’une copie des renseignements personnels ne peut être mise à disposition, assurer un lieu et un moment appropriés au sein de l’institution fédérale pour que le demandeur puisse examiner les documents contenant les renseignements personnels.Langue de communication des renseignementsFournir les renseignements personnels dans la langue officielle demandée par le demandeur, y compris la traduction ou l’interprétation des renseignements personnels lorsque cela est nécessaire pour permettre à la personne de comprendre les renseignements.Format accessible pour les demandeurs Fournir les renseignements personnels sur le support de substitution demandé par le demandeur, y compris en transférant les documents sur le support de substitution lorsque cela est nécessaire pour permettre au demandeur de comprendre les renseignements et si un tel transfert est raisonnable.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "Exercising discretion in a fair, reasonable and impartial manner after:",
-    "fr": "Exercer le pouvoir discrétionnaire de manière équitable, raisonnable et impartiale après avoir :"
+    "en": "Processing of personal information requests and correction requestsUse of prescribed platformsReceiving requests using the prescribed platforms listed in Appendix D: Prescribed Platforms for Receiving and Processing Personal Information Requests.Processing requests using the prescribed platforms, listed in Appendix D: Prescribed Platforms for Receiving and Processing Personal Information Requests, when platforms have been prescribed.Tracking systemEstablishing and maintaining an internal management system to keep track of: The processing of personal information requests and correction requests;Corrections or notations made; Complaints; Reports and recommendations from the Privacy Commissioner; and Reviews by the courts. DocumentationDocumenting the processing of requests by placing on file all documents that support decisions under the Privacy Act, including communications where factors considered when exercising discretion are discussed, recommendations are given, rationales are provided and decisions are made.Control of the personal informationDetermining, in a manner consistent with jurisprudence and considering any Treasury Board of Canada Secretariat (TBS) guidance, whether the personal information is under the control of the government institution.Extension of the time limitAssessing, without undue delay, each request received under the Act to determine if an extension is needed for processing the request.Providing a written explanation to the requester within 30 days of receipt of the request of the reasons for an extension should the personal information request take more than 30 days to fulfill. Notifying the requester of their right to complain to the Privacy Commissioner in respect of the extension of the time limit.Reporting on the number of and reasons for extensions in the institution’s annual report to Parliament.Limiting inter-institutional consultationsUndertaking inter-institutional consultation only when: The processing institution requires more information for the proper exercise of discretion to withhold information; or The processing institution intends to disclose potentially sensitive information.Ensuring that consultation requests from other federal government institutions are processed with the same priority as personal information requests.Exceptions to disclosureApplying exemption and exclusion provisions in accordance with relevant jurisprudence and TBS guidance. Appendix C: Classification of Exemptions lists the exemptions and indicates whether they are based on a class test or an injury test, and whether they are discretionary or mandatory in nature.Citing all exemptions and exclusions invoked on the records on each page, unless doing so would reveal the exempted information or cause the injury upon which the exemption is based to materialize.Clearly identifying the redacted material in a manner that is evident on the individual record. Giving accessProviding written notice to the requester of whether access is being granted.Providing access to the information or part thereof, or notifying the requester if access is refused. Notifying requesters of their right to complain to the Privacy Commissioner in respect of matters relating to personal information requests.Requests for correction and notation of personal informationEstablishing a process to ensure that any request for correction and any subsequent actions are made in accordance with the Privacy Regulations and are documented.Documenting any correction or notation made to personal information in a manner that ensures it will be retrieved and used whenever the original personal information is used for an administrative purpose. Notifying the individuals, and any public and private sector organizations that use the information for administrative purposes of any correction or notation made to the personal information.Notifying requesters of their right to complain to the Privacy Commissioner in respect of requests for correction of personal information.Considering other means of making information accessibleRegularly reviewing the nature of requests received and assessing the feasibility of making frequently requested types of information available by other means.Monitoring and reporting Monitoring and reporting on the requirements of this directive as specified in the Policy on Privacy Protection.",
+    "fr": "Traitement des demandes de renseignements personnels et des demandes de correctionUtilisation de plateformes désignées Recevoir les demandes en utilisant les plateformes désignées énumérées à l’annexe D : Plateformes désignées pour la réception et le traitement des demandes de renseignements personnels.Traiter les demandes en utilisant les plateformes désignées énumérées à l’annexe D : Plateformes désignées pour la réception et le traitement des demandes de renseignements personnels lorsque des plateformes ont été désignées.Système de suiviÉtablir et maintenir un système de gestion interne pour suivre : le traitement des demandes de renseignements personnels et des demandes de correction;les corrections effectuées ou mentions portées; les plaintes; les rapports et les recommandations du commissaire à la protection de la vie privée; les révisions par les tribunaux. DocumentationDocumenter le traitement des demandes en versant au dossier tous les documents qui appuient les décisions prises en vertu de la Loi sur la protection des renseignements personnels, y compris les communications où l’on discute des facteurs à prendre en considération lorsque l’on exerce son pouvoir discrétionnaire, où des recommandations sont faites, où des justifications sont fournies et où des décisions sont prises.Renseignements personnels relevant d’une institutionDéterminer, d'une manière conforme à la jurisprudence et en tenant compte de toute orientation du Secrétariat du Conseil du Trésor (SCT) du Canada, si les renseignements personnels relèvent de l’institution fédérale.Prorogation du délaiÉvaluer, sans retard injustifié, chaque demande reçue en vertu de la Loi afin de déterminer si une prorogation est nécessaire pour le traitement de la demande.Fournir au demandeur, dans les 30 jours suivant la réception de la demande, une explication écrite des motifs de la prorogation si le traitement de la demande de renseignements personnels s’étend sur plus de 30 jours. Informer le demandeur de son droit de déposer une plainte auprès du commissaire à la protection de la vie privée en ce qui concerne la prorogation du délai.Indiquer, dans le rapport annuel de l’institution présenté au Parlement, le nombre de prorogations et les motifs invoqués pour les justifier.Limiter la nécessité de mener des consultations interinstitutionnellesEntreprendre une consultation interinstitutionnelle uniquement dans les cas suivants : l’institution qui traite la demande a besoin de plus d’information pour exercer correctement son pouvoir discrétionnaire de ne pas communiquer l’information; oul’institution qui traite la demande a l’intention de communiquer des renseignements potentiellement délicats.Veiller à ce que les demandes de consultation d’autres institutions fédérales soient traitées avec la même priorité que les demandes de renseignements personnels.Exceptions en matière de communicationAppliquer les dispositions d’exception et d’exclusion conformément à la jurisprudence pertinente et aux orientations du SCT. L’annexe C : Classification des exceptions, énumère les exceptions et indique si elles sont fondées sur un critère objectif ou subjectif et si elles sont de nature discrétionnaire ou obligatoire.Indiquer sur les documents toutes les exceptions et les exclusions invoquées sur chaque page, sauf si une telle précision est susceptible de divulguer les renseignements visés par l’exception ou de faire en sorte que le préjudice sur lequel se fonde l’exception se matérialise.Indiquer clairement les renseignements caviardés d’une manière qui est évidente sur le document individuel.Autoriser l’accès Fournir un avis écrit au demandeur indiquant si l’accès lui est accordé.Donner accès à tous les renseignements ou à une partie des renseignements et aviser le demandeur si l’accès est refusé. Aviser les demandeurs de leur droit de déposer une plainte auprès du commissaire à la protection de la vie privée pour des questions relatives aux demandes de renseignements personnels.Demandes de correction de renseignements personnels et de mention de corrections non effectuées Établir des procédures permettant de faire en sorte que toute demande de correction et toute mesure subséquente soit présentée en conformité avec le Règlement sur la protection des renseignements personnels et soit documentée.Documenter toute correction apportée à des renseignements personnels et toute mention de corrections demandées mais non effectuées de manière que chaque mention ou correction puisse être extraite et utilisée aussitôt que les renseignements personnels visés sont utilisés à des fins administratives. Aviser les individus et toutes les organisations du secteur public ou privé qui utilisent les renseignements à des fins administratives de toute correction apportée ou demandée aux renseignements personnels.Aviser les demandeurs de leur droit de déposer une plainte auprès du commissaire à la protection de la vie privée pour des demandes de correction de renseignements personnels.Envisager d’autres moyens de donner accès aux renseignementsExaminer régulièrement la nature des demandes reçues et évaluer la possibilité de rendre disponibles, par d’autres moyens, les types de renseignements fréquemment demandés.Surveillance et établissement de rapports Surveiller et établir des rapports sur les exigences de la présente directive, comme le précise la Politique sur la protection de la vie privée.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "Considering the purpose of the Act, which is, in part, to provide individuals with a right of access to their personal information, subject to limited and specific exemptions; and the right to request correction of their personal information;",
-    "fr": "Tenu compte de l’objet de la , qui consiste, en partie, à donner aux individus un droit d’accès à leurs renseignements personnels, sous réserve d’exceptions limitées et spécifiques, et le droit de demander la correction de leurs renseignements personnels."
+    "en": "Informal accessRecommending to the head or the delegate, when appropriate, that information requested be disclosed informally.",
+    "fr": "Traitement informelRecommander, s’il y a lieu, au responsable ou au délégué de communiquer l’information demandée de façon informelle.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Considering all relevant factors for and against disclosure, the relevant provisions of the Act, as well as applicable jurisprudence;",
-    "fr": "Tenu compte de l’ensemble des facteurs pertinents en faveur ou à l’encontre de la divulgation, les dispositions pertinentes de la , ainsi que la jurisprudence applicable."
+    "en": "Complete, accurate and timely responsesMaking every reasonable effort to search, locate and retrieve the requested personal information under the control of the government institution. Ensuring searches for records are comprehensive and consider both the letter and the spirit of the request.Referring questions about whether the personal information is under the control of the government institution to Access to Information and Privacy (ATIP) officials with delegated authority for their determination. Advising ATIP officials at an early stage if a request cannot be responded to within the legislated 30-day timeframe. Making every reasonable effort to respond to requests within the timelines prescribed in the Act, including extensions taken in accordance with the Act.",
+    "fr": "Réponses précises, complètes et en temps utileFaire tous les efforts raisonnables pour chercher, trouver et recueillir les renseignements personnels demandés qui relèvent de l’institution fédérale. S’assurer que les recherches de documents sont complètes et tiennent compte à la fois de la lettre et de l’esprit de la demande.Renvoyer les questions relatives au fait de déterminer si les renseignements personnels relèvent de l’institution fédérale aux responsables de l’Accès à l’information et de la protection des renseignements personnels (AIPRP), qui ont le pouvoir délégué d’effectuer cette détermination. Aviser les responsables de l’AIPRP à un stade précoce si une demande ne peut être traitée dans le délai de 30 jours prévu par la Loi. Faire tous les efforts raisonnables pour répondre aux demandes dans les délais prescrits par la Loi, y compris les prorogations prises conformément à la Loi.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Consulting with government institutions, as necessary; and",
-    "fr": "Consulté les institutions fédérales, le cas échéant."
+    "en": "RecommendationsProviding recommendations and contextual information to inform the head of the government institution, or their delegate, about possible exemptions or exclusions applicable to the personal information requested, taking into account the purpose of the Act.",
+    "fr": "RecommandationsFournir des recommandations et des renseignements contextuels pour informer le responsable de l’institution fédérale, ou son délégué, sur les exceptions ou exclusions possibles applicables aux renseignements personnels demandés, en tenant compte de l’objet de la Loi.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Reviewing the information contained in records.",
-    "fr": "Examiné les renseignements contenus dans les documents."
+    "en": "Contracts and agreementsEstablishing measures to support an individual’s right of access to their personal information when entering into contracts, arrangements and agreements.",
+    "fr": "Contrats et ententesÉtablir des mesures pour soutenir le droit d’accès d’une personne à ses renseignements personnels lors de la conclusion de contrats, d’ententes et d’accords.",
+    "anchor": "4.2",
+    "tag": "section"
   },
   {
-    "en": "Ensuring that employees of government institutions and officials who have functional or delegated responsibility for the administration of the Act receive training as outlined in Appendix B: Mandatory Procedures for Privacy Training.",
-    "fr": "Veiller à ce que les employés des institutions fédérales et les fonctionnaires ayant une responsabilité fonctionnelle ou déléguée en matière d’application de la reçoivent une formation conformément à l’annexe B : Procédures obligatoires pour la formation en protection des renseignements personnels."
+    "en": "Access to Information ActAccess to Information RegulationsCanada Evidence ActCanadian Charter of Rights and FreedomsFinancial Administration ActInterpretation ActLibrary and Archives of Canada ActOfficial Languages ActPersonal Information Protection and Electronic Documents ActPrivacy ActPrivacy Act Heads of Government Institutions Designation OrderPrivacy Regulations",
+    "fr": "Charte canadienne des droits et libertésDécret sur la désignation des responsables d’institutions fédéralesLoi d’interprétationLoi sur l’accès à l’informationLoi sur la Bibliothèque et les Archives du CanadaLoi sur la gestion des finances publiquesLoi sur la preuve au CanadaLoi sur la protection des renseignements personnelsLoi sur la protection des renseignements personnels et les documents électroniquesLoi sur les langues officiellesRèglement sur l’accès à l’informationRèglement sur la protection des renseignements personnels",
+    "anchor": "7.1",
+    "tag": "ul"
   },
   {
-    "en": "Documenting the completion of training in accordance with Appendix B: Mandatory Procedures for Privacy Training.",
-    "fr": "Documenter l’achèvement de la formation conformément à l’annexe B : Procédures obligatoires pour la formation en protection des renseignements personnels."
+    "en": "Directive on Access to Information RequestsDirective on Identity ManagementDirective on Privacy PracticesDirective on Service and DigitalDirective on Social Insurance NumberPolicy on Access to InformationPolicy on Government SecurityPolicy on People ManagementPolicy on Privacy ProtectionPolicy on Service and Digital",
+    "fr": "Directive sur la gestion de l’identitéDirective sur le numéro d’assurance socialeDirective sur les demandes d’accès à l’informationDirective sur les pratiques relatives à la protection de la vie privéeDirective sur les services et le numériquePolitique sur l’accès à l’informationPolitique sur la gestion des personnesPolitique sur la protection de la vie privéePolitique sur la sécurité du gouvernementPolitique sur les services et le numérique",
+    "anchor": "7.2",
+    "tag": "ul"
   },
   {
-    "en": "Establishing procedures to:",
-    "fr": "Établir des procédures pour :"
-  },
-  {
-    "en": "Confirm the identity of the requester so that privacy will not be breached; and",
-    "fr": "confirmer l’identité du demandeur afin de ne pas porter atteinte à la vie privée; et"
-  },
-  {
-    "en": "Confirm the authority of an individual to make a request on behalf of another individual.",
-    "fr": "confirmer le pouvoir d’un individu de présenter une demande au nom d’une autre personne."
-  },
-  {
-    "en": "Determining whether it is appropriate to respond to a personal information request on an informal basis, recognizing that the Act is intended to complement existing procedures for obtaining personal information held by government.",
-    "fr": "Déterminer s’il est approprié de répondre à une demande de renseignements personnels de façon informelle, en reconnaissant que la vise à compléter les procédures existantes pour obtenir des renseignements personnels détenus par le gouvernement."
-  },
-  {
-    "en": "Proceeding with treating a request informally only upon receipt of written consent from the requester who has been informed that only formal requests are subject to the provisions of the , including legislative timelines and the right to complain.",
-    "fr": "Procéder uniquement au traitement d’une demande de façon informelle à la réception d’un avis de consentement écrit de la part d’un demandeur qui a été informé du fait que seules les demandes formelles sont assujetties aux dispositions de la , y compris les délais prévus par la et le droit de déposer une plainte."
-  },
-  {
-    "en": "Providing the requester with:",
-    "fr": "Fournir au demandeur :"
-  },
-  {
-    "en": "Acknowledgement of receipt of the request;",
-    "fr": "un accusé de réception de la demande;"
-  },
-  {
-    "en": "The legislative due date for the response;",
-    "fr": "la date d’échéance pour la réponse selon la ;"
-  },
-  {
-    "en": "The contact information of the appropriate officer or office within the institution where questions and further clarifications may be addressed;",
-    "fr": "les coordonnées de l’agent compétent ou bureau au sein de l’institution qui pourrait répondre aux éventuelles questions et demandes de clarifications supplémentaires;"
-  },
-  {
-    "en": "Notification of the right to complain to the Privacy Commissioner; and,",
-    "fr": "un avis concernant le droit de déposer une plainte auprès du commissaire à la protection de la vie privée;"
-  },
-  {
-    "en": "A copy of the or a link to the Principles online.",
-    "fr": "une copie des ou un lien vers les principes en ligne."
-  },
-  {
-    "en": "Limiting the use or disclosure of information that could directly or indirectly lead to the identification of a requester to a need to know basis, unless otherwise authorized by the Act.",
-    "fr": "Restreindre l’utilisation ou la divulgation de renseignements qui permettraient de reconnaître directement ou indirectement le demandeur aux seules personnes qui ont besoin de les connaître, sauf lorsqu’autorisé autrement par la ."
-  },
-  {
-    "en": "Adopting a broad interpretation of a personal information request and communicating promptly with the requester when necessary to clarify the request.",
-    "fr": "Adopter une interprétation large de la demande de renseignements personnels et communiquer rapidement avec le demandeur en cas de besoin afin de préciser la demande."
-  },
-  {
-    "en": "Assisting the requester in clarifying a request where it would result in the requester receiving more complete, accurate or timely access.",
-    "fr": "Aider le demandeur à clarifier une demande lorsque cela lui permettrait de bénéficier d’un accès plus complet, précis ou en temps utile."
-  },
-  {
-    "en": "Documenting the wording of a clarified request, as agreed by the requester, and the date of the revision when a request has been clarified or its wording altered.",
-    "fr": "Documenter la formulation d’une demande clarifiée telle qu’elle a été acceptée par le demandeur et la date du changement lorsqu’une demande est clarifiée ou que sa formulation est modifiée."
-  },
-  {
-    "en": "When a copy of the personal information cannot be made available, providing an appropriate location and time within the government institution for the requester to examine the records containing the personal information.",
-    "fr": "Lorsqu’une copie des renseignements personnels ne peut être mise à disposition, assurer un lieu et un moment appropriés au sein de l’institution fédérale pour que le demandeur puisse examiner les documents contenant les renseignements personnels."
-  },
-  {
-    "en": "Providing the personal information in the official language requested by the requester, including translating or interpreting the personal information when necessary to enable the individual to understand the information.",
-    "fr": "Fournir les renseignements personnels dans la langue officielle demandée par le demandeur, y compris la traduction ou l’interprétation des renseignements personnels lorsque cela est nécessaire pour permettre à la personne de comprendre les renseignements."
-  },
-  {
-    "en": "Providing the personal information in an accessible format requested by the requester including converting the records to the alternate format when necessary to enable the requester to understand the information when it would be reasonable to cause the personal information to be converted.",
-    "fr": "Fournir les renseignements personnels sur le support de substitution demandé par le demandeur, y compris en transférant les documents sur le support de substitution lorsque cela est nécessaire pour permettre au demandeur de comprendre les renseignements et si un tel transfert est raisonnable."
-  },
-  {
-    "en": "Receiving requests using the prescribed platforms listed in Appendix D: Prescribed Platforms for Receiving and Processing Personal Information Requests.",
-    "fr": "Recevoir les demandes en utilisant les plateformes désignées énumérées à l’annexe D : Plateformes désignées pour la réception et le traitement des demandes de renseignements personnels."
-  },
-  {
-    "en": "Processing requests using the prescribed platforms, listed in Appendix D: Prescribed Platforms for Receiving and Processing Personal Information Requests, when platforms have been prescribed.",
-    "fr": "Traiter les demandes en utilisant les plateformes désignées énumérées à l’annexe D : Plateformes désignées pour la réception et le traitement des demandes de renseignements personnels lorsque des plateformes ont été désignées."
-  },
-  {
-    "en": "Establishing and maintaining an internal management system to keep track of:",
-    "fr": "Établir et maintenir un système de gestion interne pour suivre :"
-  },
-  {
-    "en": "The processing of personal information requests and correction requests;",
-    "fr": "le traitement des demandes de renseignements personnels et des demandes de correction;"
-  },
-  {
-    "en": "Corrections or notations made;",
-    "fr": "les corrections effectuées ou mentions portées;"
-  },
-  {
-    "en": "Complaints;",
-    "fr": "les plaintes;"
-  },
-  {
-    "en": "Reports and recommendations from the Privacy Commissioner; and",
-    "fr": "les rapports et les recommandations du commissaire à la protection de la vie privée;"
-  },
-  {
-    "en": "Reviews by the courts.",
-    "fr": "les révisions par les tribunaux."
-  },
-  {
-    "en": "Documenting the processing of requests by placing on file all documents that support decisions under the , including communications where factors considered when exercising discretion are discussed, recommendations are given, rationales are provided and decisions are made.",
-    "fr": "Documenter le traitement des demandes en versant au dossier tous les documents qui appuient les décisions prises en vertu de la , y compris les communications où l’on discute des facteurs à prendre en considération lorsque l’on exerce son pouvoir discrétionnaire, où des recommandations sont faites, où des justifications sont fournies et où des décisions sont prises."
-  },
-  {
-    "en": "Determining, in a manner consistent with jurisprudence and considering any Treasury Board of Canada Secretariat (TBS) guidance, whether the personal information is under the control of the government institution.",
-    "fr": "Déterminer, d'une manière conforme à la jurisprudence et en tenant compte de toute orientation du Secrétariat du Conseil du Trésor (SCT) du Canada, si les renseignements personnels relèvent de l’institution fédérale."
-  },
-  {
-    "en": "Assessing, without undue delay, each request received under the Act to determine if an extension is needed for processing the request.",
-    "fr": "Évaluer, sans retard injustifié, chaque demande reçue en vertu de la afin de déterminer si une prorogation est nécessaire pour le traitement de la demande."
-  },
-  {
-    "en": "Providing a written explanation to the requester within 30 days of receipt of the request of the reasons for an extension should the personal information request take more than 30 days to fulfill.",
-    "fr": "Fournir au demandeur, dans les 30 jours suivant la réception de la demande, une explication écrite des motifs de la prorogation si le traitement de la demande de renseignements personnels s’étend sur plus de 30 jours."
-  },
-  {
-    "en": "Notifying the requester of their right to complain to the Privacy Commissioner in respect of the extension of the time limit.",
-    "fr": "Informer le demandeur de son droit de déposer une plainte auprès du commissaire à la protection de la vie privée en ce qui concerne la prorogation du délai."
-  },
-  {
-    "en": "Reporting on the number of and reasons for extensions in the institution’s annual report to Parliament.",
-    "fr": "Indiquer, dans le rapport annuel de l’institution présenté au Parlement, le nombre de prorogations et les motifs invoqués pour les justifier."
-  },
-  {
-    "en": "Undertaking inter-institutional consultation only when:",
-    "fr": "Entreprendre une consultation interinstitutionnelle uniquement dans les cas suivants :"
-  },
-  {
-    "en": "The processing institution requires more information for the proper exercise of discretion to withhold information; or",
-    "fr": "l’institution qui traite la demande a besoin de plus d’information pour exercer correctement son pouvoir discrétionnaire de ne pas communiquer l’information; ou"
-  },
-  {
-    "en": "The processing institution intends to disclose potentially sensitive information.",
-    "fr": "l’institution qui traite la demande a l’intention de communiquer des renseignements potentiellement délicats."
-  },
-  {
-    "en": "Ensuring that consultation requests from other federal government institutions are processed with the same priority as personal information requests.",
-    "fr": "Veiller à ce que les demandes de consultation d’autres institutions fédérales soient traitées avec la même priorité que les demandes de renseignements personnels."
-  },
-  {
-    "en": "Applying exemption and exclusion provisions in accordance with relevant jurisprudence and TBS guidance. Appendix C: Classification of Exemptions lists the exemptions and indicates whether they are based on a class test or an injury test, and whether they are discretionary or mandatory in nature.",
-    "fr": "Appliquer les dispositions d’exception et d’exclusion conformément à la jurisprudence pertinente et aux orientations du SCT. L’annexe C : Classification des exceptions, énumère les exceptions et indique si elles sont fondées sur un critère objectif ou subjectif et si elles sont de nature discrétionnaire ou obligatoire."
-  },
-  {
-    "en": "Citing all exemptions and exclusions invoked on the records on each page, unless doing so would reveal the exempted information or cause the injury upon which the exemption is based to materialize.",
-    "fr": "Indiquer sur les documents toutes les exceptions et les exclusions invoquées sur chaque page, sauf si une telle précision est susceptible de divulguer les renseignements visés par l’exception ou de faire en sorte que le préjudice sur lequel se fonde l’exception se matérialise."
-  },
-  {
-    "en": "Clearly identifying the redacted material in a manner that is evident on the individual record.",
-    "fr": "Indiquer clairement les renseignements caviardés d’une manière qui est évidente sur le document individuel."
-  },
-  {
-    "en": "Providing written notice to the requester of whether access is being granted.",
-    "fr": "Fournir un avis écrit au demandeur indiquant si l’accès lui est accordé."
-  },
-  {
-    "en": "Providing access to the information or part thereof, or notifying the requester if access is refused.",
-    "fr": "Donner accès à tous les renseignements ou à une partie des renseignements et aviser le demandeur si l’accès est refusé."
-  },
-  {
-    "en": "Notifying requesters of their right to complain to the Privacy Commissioner in respect of matters relating to personal information requests.",
-    "fr": "Aviser les demandeurs de leur droit de déposer une plainte auprès du commissaire à la protection de la vie privée pour des questions relatives aux demandes de renseignements personnels."
-  },
-  {
-    "en": "Establishing a process to ensure that any request for correction and any subsequent actions are made in accordance with the and are documented.",
-    "fr": "Établir des procédures permettant de faire en sorte que toute demande de correction et toute mesure subséquente soit présentée en conformité avec le et soit documentée."
-  },
-  {
-    "en": "Documenting any correction or notation made to personal information in a manner that ensures it will be retrieved and used whenever the original personal information is used for an administrative purpose.",
-    "fr": "Documenter toute correction apportée à des renseignements personnels et toute mention de corrections demandées mais non effectuées de manière que chaque mention ou correction puisse être extraite et utilisée aussitôt que les renseignements personnels visés sont utilisés à des fins administratives."
-  },
-  {
-    "en": "Notifying the individuals, and any public and private sector organizations that use the information for administrative purposes of any correction or notation made to the personal information.",
-    "fr": "Aviser les individus et toutes les organisations du secteur public ou privé qui utilisent les renseignements à des fins administratives de toute correction apportée ou demandée aux renseignements personnels."
-  },
-  {
-    "en": "Notifying requesters of their right to complain to the Privacy Commissioner in respect of requests for correction of personal information.",
-    "fr": "Aviser les demandeurs de leur droit de déposer une plainte auprès du commissaire à la protection de la vie privée pour des demandes de correction de renseignements personnels."
-  },
-  {
-    "en": "Regularly reviewing the nature of requests received and assessing the feasibility of making frequently requested types of information available by other means.",
-    "fr": "Examiner régulièrement la nature des demandes reçues et évaluer la possibilité de rendre disponibles, par d’autres moyens, les types de renseignements fréquemment demandés."
-  },
-  {
-    "en": "Monitoring and reporting on the requirements of this directive as specified in the .",
-    "fr": "Surveiller et établir des rapports sur les exigences de la présente directive, comme le précise la ."
-  },
-  {
-    "en": "Employees of government institutions are responsible for:",
-    "fr": "Les employés des institutions fédérales assument les responsabilités suivantes :"
-  },
-  {
-    "en": "Recommending to the head or the delegate, when appropriate, that information requested be disclosed informally.",
-    "fr": "Recommander, s’il y a lieu, au responsable ou au délégué de communiquer l’information demandée de façon informelle."
-  },
-  {
-    "en": "Making every reasonable effort to search, locate and retrieve the requested personal information under the control of the government institution.",
-    "fr": "Faire tous les efforts raisonnables pour chercher, trouver et recueillir les renseignements personnels demandés qui relèvent de l’institution fédérale."
-  },
-  {
-    "en": "Ensuring searches for records are comprehensive and consider both the letter and the spirit of the request.",
-    "fr": "S’assurer que les recherches de documents sont complètes et tiennent compte à la fois de la lettre et de l’esprit de la demande."
-  },
-  {
-    "en": "Referring questions about whether the personal information is under the control of the government institution to Access to Information and Privacy (ATIP) officials with delegated authority for their determination.",
-    "fr": "Renvoyer les questions relatives au fait de déterminer si les renseignements personnels relèvent de l’institution fédérale aux responsables de l’Accès à l’information et de la protection des renseignements personnels (AIPRP), qui ont le pouvoir délégué d’effectuer cette détermination."
-  },
-  {
-    "en": "Advising ATIP officials at an early stage if a request cannot be responded to within the legislated 30-day timeframe.",
-    "fr": "Aviser les responsables de l’AIPRP à un stade précoce si une demande ne peut être traitée dans le délai de 30 jours prévu par la ."
-  },
-  {
-    "en": "Making every reasonable effort to respond to requests within the timelines prescribed in the Act, including extensions taken in accordance with the Act.",
-    "fr": "Faire tous les efforts raisonnables pour répondre aux demandes dans les délais prescrits par la , y compris les prorogations prises conformément à la ."
-  },
-  {
-    "en": "Providing recommendations and contextual information to inform the head of the government institution, or their delegate, about possible exemptions or exclusions applicable to the personal information requested, taking into account the purpose of the Act.",
-    "fr": "Fournir des recommandations et des renseignements contextuels pour informer le responsable de l’institution fédérale, ou son délégué, sur les exceptions ou exclusions possibles applicables aux renseignements personnels demandés, en tenant compte de l’objet de la ."
-  },
-  {
-    "en": "Establishing measures to support an individual’s right of access to their personal information when entering into contracts, arrangements and agreements.",
-    "fr": "Établir des mesures pour soutenir le droit d’accès d’une personne à ses renseignements personnels lors de la conclusion de contrats, d’ententes et d’accords."
-  },
-  {
-    "en": "The roles and responsibilities of government institutions with respect to this directive are identified in section 5 of the .",
-    "fr": "Les rôles et responsabilités des institutions fédérales découlant de la présente directive sont énoncés à la section 5 de la ."
-  },
-  {
-    "en": "This directive applies as described in section 6 of the .",
-    "fr": "La présente directive s’applique conformément à la section 6 de la ."
-  },
-  {
-    "en": "Legislation",
-    "fr": "Legislation"
-  },
-  {
-    "en": "Related policy instruments",
-    "fr": "Instruments de politique connexes"
-  },
-  {
-    "en": "Related guidance instruments and forms",
-    "fr": "Instruments d’orientation connexes et formulaires"
-  },
-  {
-    "en": "Members of the public may contact Treasury Board of Canada Secretariat regarding any questions about this directive.",
-    "fr": "Le public peut communiquer avec le du Secrétariat du Conseil du Trésor du Canada concernant toute question relative à la présente directive."
-  },
-  {
-    "en": "Employees of federal institutions may contact their regarding any questions about this directive.",
-    "fr": "Les employés des institutions fédérales peuvent communiquer avec leur concernant des questions au sujet de la présente directive."
-  },
-  {
-    "en": "Access to Information and Privacy Coordinators may contact the Treasury Board of Canada Secretariat’s regarding any questions about this directive.",
-    "fr": "Les coordonnateurs de l’accès à l’information et de la protection des renseignements personnels peuvent communiquer avec la du Secrétariat du Conseil du Trésor du Canada concernant toute question relative à cette directive"
+    "en": "Access to Information and Privacy implementation noticesDelegation under the Access to Information Act and the Privacy ActInfo Source Online Publishing RequirementsPersonal Information Request ManualPrinciples for Assisting RequestersPrivacy Breach Management ToolkitTreasury Board of Canada Secretariat Forms",
+    "fr": "Avis de mise en œuvre sur l’accès à l’information et la protection des renseignements personnelsDélégation en vertu de la Loi sur l’accès à l’information et de la Loi sur la protection des renseignements personnelsExigences en matière de publication en ligne d’Info SourceFormulaires du Secrétariat du Conseil du Trésor du CanadaManuel des demandes de renseignements personnels Principes relatifs à l’assistance aux demandeursTrousse d’outils de gestion des atteintes à la vie privée",
+    "anchor": "7.3",
+    "tag": "ul"
   }
 ]

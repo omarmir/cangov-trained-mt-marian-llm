@@ -1,242 +1,50 @@
 [
   {
-    "en": "Directive on Delegation of Financial Authorities for Disbursements ( )",
-    "fr": "Directive sur la délégation des pouvoirs financiers pour les dépenses ( )"
+    "en": "Directive on Delegation of Financial Authorities for Disbursements (October 1, 2009)Directive on Expenditure Initiation and Commitment Control (October 1, 2009)Directive on Account Verification (June 1, 2014)",
+    "fr": "Directive sur la délégation des pouvoirs financiers pour les dépenses (1er octobre 2009)Directive sur l’engagement des dépenses et le contrôle des engagements (1er octobre 2009)Directive sur la vérification des comptes (1er juin 2014)",
+    "anchor": "1.2",
+    "tag": "ul"
   },
   {
-    "en": "Directive on Expenditure Initiation and Commitment Control ( )",
-    "fr": "Directive sur l’engagement des dépenses et le contrôle des engagements ( )"
+    "en": "Delegation of spending and financial authoritiesLeading the development and implementation of the delegation of spending and financial authorities such that: Delegations are in writing;Delegations are to positions identified by title and not to individuals identified by name;The extent of delegations (full or restricted authority) are specified for each position and each type of spending and financial authority;Individuals with delegated spending and financial authority do not sub-delegate these authorities to others;The delegation chart has distinct signature areas for the minister and deputy head in order to clearly identify which parts apply to them;Financial authorities delegated to other departments require the signature of either the minister or the deputy of the minister;Roles, responsibilities and accountabilities are listed in the delegation chart or supporting notes;At a minimum, the following authorities are listed on the delegation chart:Delegated spending authoritiesExpenditure Initiation AuthorityCommitment Authority (FAA, section 32)Transaction AuthorityDelegated financial authoritiesCertification Authority (FAA, section 34)Payment Authority (FAA, section 33)Ensuring that delegations proposed to the minister or deputy head are risk-based while balancing the timely delivery of programs and the empowerment of individuals with departmental controls and individual accountabilities;Ensuring the signatures (written or electronic) of individuals with delegated spending and financial authorities can be authenticated before and after processing of the transactions for expenditure decisions;Ensuring that delegation of spending and financial authorities documents are available to all individuals involved in the delegation and administration of spending and financial authorities;Ensuring that individuals can be granted delegated spending and financial authorities only after the following conditions are met:Authorities have been formally delegated to the position through the delegation chart;The individual’s supervisor has formally identified in writing the individual in that position;The individual has completed the required training, and subsequently revalidated his or her knowledge at least every five years, in accordance with the Policy on People Management and the Directive on Mandatory Training:For departments and individuals not subject to the Policy on People Management and the Directive on Mandatory Training, the CFO or a person designated by the deputy head must establish comparable training requirements;Restricting or revoking delegated spending and financial authorities of individuals where:There is significant non-compliance with this directive or the departmental delegation of spending and financial authorities process; orThe internal controls do not adequately mitigate risks associated with the delegation;",
+    "fr": "Délégation des pouvoirs de dépenser et des pouvoirs financiersDiriger l’élaboration et la mise en œuvre de la délégation des pouvoirs de dépenser et des pouvoirs financiers de sorte que :les délégations soient établies par écrit;les délégations s’appliquent à des postes désignés par leur titre, et non aux personnes identifiées par leur nom;la portée des délégations accordées (pleins pouvoirs ou pouvoirs restreints) soit précisée pour chaque poste et chaque type de pouvoir de dépenser et de pouvoir financier;les personnes auxquelles des pouvoirs de dépenser et des pouvoirs financiers sont délégués ne soient pas autorisées à sous-déléguer ces pouvoirs;le tableau de délégation compte des zones de signature distinctes pour le ministre et l’administrateur général afin de désigner clairement quelles parties s’appliquent à eux;les pouvoirs financiers délégués aux autres ministères exigent la signature du ministre ou celle du sous-ministre;les rôles, obligations et responsabilités soient indiqués dans le tableau de délégation ou les notes explicatives;au minimum, les pouvoirs qui suivent soient inscrits dans le tableau de délégation :Pouvoirs de dépenser délégués Engagement des dépensesPouvoir d’engager des fonds (article 32 de la LGFP)Pouvoir d’exécuter une opérationPouvoirs financiers délégués Pouvoir d’attestation (article 34 de la LGFP)Pouvoir de payer (article 33 de la LGFP)Veiller à ce que les délégations proposées au ministre ou à l’administrateur général soient fondées sur les risques, et concilient la nécessité d’exécuter les programmes en temps opportun et de responsabiliser les personnes qui exercent des contrôles ministériels et des responsabilités individuelles;Veiller à ce que les signatures (écrites et électroniques) des personnes auxquelles des pouvoirs de dépenser ou des pouvoirs financiers ont été délégués puissent être authentifiées avant et après le traitement d’une opération relative à une décision en matière de dépenses;Veiller à ce que les documents de délégation des pouvoirs de dépenser et des pouvoirs financiers soient disponibles pour toutes les personnes participant à la délégation et à l’administration des pouvoirs de dépenser et des pouvoirs financiers;Veiller à ce que les pouvoirs de dépenser et les pouvoirs financiers puissent seulement être délégués aux personnes lorsque les conditions suivantes sont remplies :les pouvoirs ont été officiellement délégués au poste au moyen du tableau de délégation;le superviseur de la personne a officiellement désigné par écrit la personne dans ce poste;la personne a suivi la formation obligatoire, et a revalidé ses connaissances au moins tous les cinq ans, conformément à la Politique sur la gestion des personnes et à la Directive sur la formation obligatoire :Dans le cas des ministères et des personnes qui ne sont pas assujettis à la Politique sur la gestion des personnes et à la Directive sur la formation obligatoire, il revient au DPF ou à une personne désignée par l’administrateur général d’établir des exigences comparables en matière de formation;Limiter ou révoquer les pouvoirs de dépenser et les pouvoirs financiers délégués d’une personne dans les cas suivants :des problèmes importants de non-conformité à la présente directive ou au processus ministériel de délégation des pouvoirs de dépenser et des pouvoirs financiers ont été relevés; oules contrôles internes ne permettent pas d’atténuer comme il se doit les risques associés à la délégation;",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "Directive on Account Verification ( )",
-    "fr": "Directive sur la vérification des comptes ( )"
+    "en": "Maintenance of delegation of spending and financial authoritiesReviewing, at minimum, annually, the delegation of spending and financial authorities;Updating the delegation chart and seeking the signature of the minister when:There are significant changes that impact the management of spending and financial authorities (e.g., changes to the organizational structure, business processes, legislation, Treasury Board policy); orA change in minister occurs, at which time the revised delegation chart is to be submitted for the minister’s signature within 90 calendar days of his or her appointment date;Providing the updated delegation chart to the minister for information purposes when the deputy head has the status of deputy of the minister;Ensuring that the existing delegation chart is presented to new deputy heads for information purposes within 30 calendar days of their appointment;",
+    "fr": "Tenue à jour de la délégation des pouvoirs de dépenser et des pouvoirs financiersPasser en revue la délégation des pouvoirs de dépenser et des pouvoirs financiers au moins une fois par année;Mettre à jour le tableau de délégation et obtenir la signature du ministre quand :des changements importants ont une incidence sur la gestion des pouvoirs de dépenser et des pouvoirs financiers (par exemple, des changements apportés à la structure organisationnelle, aux processus opérationnels, aux lois, à une politique du Conseil du Trésor); ouun changement de ministre se produit, après quoi le tableau de délégation révisé doit être soumis pour la signature du ministre dans les 90 jours civils suivant la date de sa nomination;Fournir le tableau de délégation mis à jour au ministre à titre informatif lorsque l’administrateur général est son délégué;Veiller à ce que le tableau de délégation actuel soit soumis aux nouveaux administrateurs généraux à titre informatif dans les 30 jours civils suivant la date de leur nomination;",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "Expenditure Initiation Authority",
-    "fr": "Engagement des dépenses"
+    "en": "Management and oversight of spending and financial authoritiesEnsuring that segregation of duties is implemented so that:The same individual must not exercise both transaction authority and certification authority (FAA, section 34) on the same transaction, except if the transaction has been designated by a department as a low-risk and low-value transaction;The same individual cannot exercise both certification authority (FAA, section 34) and payment authority (FAA, section 33) on the same transaction;No individual exercises his or her delegated spending and financial authorities on a transaction through which he or she may personally benefit; andWhen the process or another circumstance does not allow the segregation of duties as identified, alternate control measures are implemented and documented;Establishing risk-based management practices to ensure effective internal controls over account verification that specify the following:The verification required by individuals with delegated authorities responsible for exercising certification authority (FAA, section 34);The responsibilities of individuals with delegated authorities for the quality assurance of the payment verification process (FAA, section 33); andThe approval and periodic review by the CFO of sampling plans detailing the level of quality assurance and verification responsibilities of individuals with delegated payment authority (FAA, section 33); andEnsuring that individuals with delegated spending and financial authorities follow the mandatory procedures set out in Appendix A.",
+    "fr": "Gestion et surveillance des pouvoirs de dépenser et des pouvoirs financiersVeiller à ce que la séparation des fonctions soit mise en œuvre pour que :la même personne ne puisse pas exercer à la fois le pouvoir d’exécuter une opération et le pouvoir d’attestation (LGFP, article 34) pour la même opération, sauf si celle-ci a été désignée par un ministère comme une opération à faible risque et de faible valeur;la même personne ne puisse pas exercer à la fois le pouvoir d’attestation (LGFP, article 34) et le pouvoir de payer (LGFP, article 33) pour la même opération;personne ne puisse exercer des pouvoirs de dépenser ou des pouvoirs financiers délégués relativement à une opération dont il ou elle peut tirer un bénéfice personnel; etlorsque le processus ou d’autres circonstances ne permettent pas la séparation des fonctions en question, d’autres mesures de contrôle soient mises en œuvre et consignées par écrit;Mettre en œuvre des pratiques de gestion basées sur les risques pour assurer des contrôles internes efficaces pour encadrer la vérification des comptes qui précisent ce qui suit :la vérification qui doit être faite par les personnes auxquelles des pouvoirs délégués sont confiés et qui sont responsables d’exercer le pouvoir d’attestation (article 34 de la LGFP);les responsabilités des personnes auxquelles des pouvoirs délégués ont été confiés en matière d’assurance de la qualité du processus de vérification des paiements (article 33 de la LGFP); etl’approbation et l’examen périodique effectués par le DPF des plans d’échantillonnage qui précisent le degré de responsabilité en matière d’assurance de la qualité et de vérification des personnes auxquelles le pouvoir de payer a été délégué (article 33 de la LGFP); etVeiller à ce que les personnes à qui un pouvoir de dépenser ou un pouvoir financier a été délégué suivent les procédures obligatoires énoncées à l’annexe A.",
+    "anchor": "4.1",
+    "tag": "section"
   },
   {
-    "en": "Commitment Authority (FAA, section 32)",
-    "fr": "Pouvoir d’engager des fonds (article 32 de la LGFP)"
+    "en": "Delegated spending authoritiesExpenditure Initiation AuthorityCommitment Authority (FAA, section 32)Transaction Authority",
+    "fr": "Pouvoirs de dépenser délégués Engagement des dépensesPouvoir d’engager des fonds (article 32 de la LGFP)Pouvoir d’exécuter une opération",
+    "anchor": "4.1.1.8",
+    "tag": "section"
   },
   {
-    "en": "Transaction Authority",
-    "fr": "Pouvoir d’exécuter une opération"
+    "en": "Delegated financial authoritiesCertification Authority (FAA, section 34)Payment Authority (FAA, section 33)",
+    "fr": "Pouvoirs financiers délégués Pouvoir d’attestation (article 34 de la LGFP)Pouvoir de payer (article 33 de la LGFP)",
+    "anchor": "4.1.1.8",
+    "tag": "section"
   },
   {
-    "en": "Certification Authority (FAA, section 34)",
-    "fr": "Pouvoir d’attestation (article 34 de la LGFP)"
+    "en": "Financial Administration Act, sections 32, 33 and 34Interpretation Act, paragraph 24(2)(c)Appropriation Acts, section 4 or 5",
+    "fr": "Loi sur la gestion des finances publiques, articles 32, 33 et 34Loi d’interprétation, alinéa 24(2)c)Lois de crédits, article 4 ou 5",
+    "anchor": "7.1",
+    "tag": "ul"
   },
   {
-    "en": "Payment Authority (FAA, section 33)",
-    "fr": "Pouvoir de payer (article 33 de la LGFP)"
-  },
-  {
-    "en": ", sections 32, 33 and 34",
-    "fr": ", articles 32, 33 et 34"
-  },
-  {
-    "en": ", paragraph 24(2)(c)",
-    "fr": ", alinéa 24(2)c)"
-  },
-  {
-    "en": ", section 4 or 5",
-    "fr": ", article 4 ou 5"
-  },
-  {
-    "en": "This directive takes effect on .",
-    "fr": "La présente directive entre en vigueur le ."
-  },
-  {
-    "en": "This directive replaces the following Treasury Board policy instruments:",
-    "fr": "Cette directive remplace les instruments de politique suivants du Conseil du Trésor :"
-  },
-  {
-    "en": "This directive is issued pursuant to the authorities indicated in sections 7, 32, 33 and 34 of the (FAA).",
-    "fr": "La présente directive est émise conformément aux articles 7, 32, 33 et 34 de la (LGFP)."
-  },
-  {
-    "en": "The objectives indicated in section 3 of the apply to this directive.",
-    "fr": "Les objectifs énoncés à l’article 3 de la s’appliquent à cette directive."
-  },
-  {
-    "en": "The expected results indicated in section 3 of the apply to this directive.",
-    "fr": "Les résultats attendus énoncés à l’article 3 de la s’appliquent à cette directive."
-  },
-  {
-    "en": "Chief financial officers (CFOs) are responsible for the following:",
-    "fr": "Les dirigeants principaux des finances (DPF) ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Leading the development and implementation of the delegation of spending and financial authorities such that:",
-    "fr": "Diriger l’élaboration et la mise en œuvre de la délégation des pouvoirs de dépenser et des pouvoirs financiers de sorte que :"
-  },
-  {
-    "en": "Delegations are in writing;",
-    "fr": "les délégations soient établies par écrit;"
-  },
-  {
-    "en": "Delegations are to positions identified by title and not to individuals identified by name;",
-    "fr": "les délégations s’appliquent à des postes désignés par leur titre, et non aux personnes identifiées par leur nom;"
-  },
-  {
-    "en": "The extent of delegations (full or restricted authority) are specified for each position and each type of spending and financial authority;",
-    "fr": "la portée des délégations accordées (pleins pouvoirs ou pouvoirs restreints) soit précisée pour chaque poste et chaque type de pouvoir de dépenser et de pouvoir financier;"
-  },
-  {
-    "en": "Individuals with delegated spending and financial authority do not sub-delegate these authorities to others;",
-    "fr": "les personnes auxquelles des pouvoirs de dépenser et des pouvoirs financiers sont délégués ne soient pas autorisées à sous-déléguer ces pouvoirs;"
-  },
-  {
-    "en": "The delegation chart has distinct signature areas for the minister and deputy head in order to clearly identify which parts apply to them;",
-    "fr": "le tableau de délégation compte des zones de signature distinctes pour le ministre et l’administrateur général afin de désigner clairement quelles parties s’appliquent à eux;"
-  },
-  {
-    "en": "Financial authorities delegated to other departments require the signature of either the minister or the deputy of the minister;",
-    "fr": "les pouvoirs financiers délégués aux autres ministères exigent la signature du ministre ou celle du sous-ministre;"
-  },
-  {
-    "en": "Roles, responsibilities and accountabilities are listed in the delegation chart or supporting notes;",
-    "fr": "les rôles, obligations et responsabilités soient indiqués dans le tableau de délégation ou les notes explicatives;"
-  },
-  {
-    "en": "At a minimum, the following authorities are listed on the delegation chart:",
-    "fr": "au minimum, les pouvoirs qui suivent soient inscrits dans le tableau de délégation :"
-  },
-  {
-    "en": "Ensuring that delegations proposed to the minister or deputy head are risk-based while balancing the timely delivery of programs and the empowerment of individuals with departmental controls and individual accountabilities;",
-    "fr": "Veiller à ce que les délégations proposées au ministre ou à l’administrateur général soient fondées sur les risques, et concilient la nécessité d’exécuter les programmes en temps opportun et de responsabiliser les personnes qui exercent des contrôles ministériels et des responsabilités individuelles;"
-  },
-  {
-    "en": "Ensuring the signatures (written or electronic) of individuals with delegated spending and financial authorities can be authenticated before and after processing of the transactions for expenditure decisions;",
-    "fr": "Veiller à ce que les signatures (écrites et électroniques) des personnes auxquelles des pouvoirs de dépenser ou des pouvoirs financiers ont été délégués puissent être authentifiées avant et après le traitement d’une opération relative à une décision en matière de dépenses;"
-  },
-  {
-    "en": "Ensuring that delegation of spending and financial authorities documents are available to all individuals involved in the delegation and administration of spending and financial authorities;",
-    "fr": "Veiller à ce que les documents de délégation des pouvoirs de dépenser et des pouvoirs financiers soient disponibles pour toutes les personnes participant à la délégation et à l’administration des pouvoirs de dépenser et des pouvoirs financiers;"
-  },
-  {
-    "en": "Ensuring that individuals can be granted delegated spending and financial authorities only after the following conditions are met:",
-    "fr": "Veiller à ce que les pouvoirs de dépenser et les pouvoirs financiers puissent seulement être délégués aux personnes lorsque les conditions suivantes sont remplies :"
-  },
-  {
-    "en": "Authorities have been formally delegated to the position through the delegation chart;",
-    "fr": "les pouvoirs ont été officiellement délégués au poste au moyen du tableau de délégation;"
-  },
-  {
-    "en": "The individual’s supervisor has formally identified in writing the individual in that position;",
-    "fr": "le superviseur de la personne a officiellement désigné par écrit la personne dans ce poste;"
-  },
-  {
-    "en": "The individual has completed the required training, and subsequently revalidated his or her knowledge at least every five years, in accordance with the and the :",
-    "fr": "la personne a suivi la formation obligatoire, et a revalidé ses connaissances au moins tous les cinq ans, conformément à la et à la :"
-  },
-  {
-    "en": "For departments and individuals not subject to the and the , the CFO or a person designated by the deputy head must establish comparable training requirements;",
-    "fr": "Dans le cas des ministères et des personnes qui ne sont pas assujettis à la et à la , il revient au DPF ou à une personne désignée par l’administrateur général d’établir des exigences comparables en matière de formation;"
-  },
-  {
-    "en": "Restricting or revoking delegated spending and financial authorities of individuals where:",
-    "fr": "Limiter ou révoquer les pouvoirs de dépenser et les pouvoirs financiers délégués d’une personne dans les cas suivants :"
-  },
-  {
-    "en": "There is significant non-compliance with this directive or the departmental delegation of spending and financial authorities process; or",
-    "fr": "des problèmes importants de non-conformité à la présente directive ou au processus ministériel de délégation des pouvoirs de dépenser et des pouvoirs financiers ont été relevés; ou"
-  },
-  {
-    "en": "The internal controls do not adequately mitigate risks associated with the delegation;",
-    "fr": "les contrôles internes ne permettent pas d’atténuer comme il se doit les risques associés à la délégation;"
-  },
-  {
-    "en": "Reviewing, at minimum, annually, the delegation of spending and financial authorities;",
-    "fr": "Passer en revue la délégation des pouvoirs de dépenser et des pouvoirs financiers au moins une fois par année;"
-  },
-  {
-    "en": "Updating the delegation chart and seeking the signature of the minister when:",
-    "fr": "Mettre à jour le tableau de délégation et obtenir la signature du ministre quand :"
-  },
-  {
-    "en": "There are significant changes that impact the management of spending and financial authorities (e.g., changes to the organizational structure, business processes, legislation, Treasury Board policy); or",
-    "fr": "des changements importants ont une incidence sur la gestion des pouvoirs de dépenser et des pouvoirs financiers (par exemple, des changements apportés à la structure organisationnelle, aux processus opérationnels, aux lois, à une politique du Conseil du Trésor); ou"
-  },
-  {
-    "en": "A change in minister occurs, at which time the revised delegation chart is to be submitted for the minister’s signature within 90 calendar days of his or her appointment date;",
-    "fr": "un changement de ministre se produit, après quoi le tableau de délégation révisé doit être soumis pour la signature du ministre dans les 90 jours civils suivant la date de sa nomination;"
-  },
-  {
-    "en": "Providing the updated delegation chart to the minister for information purposes when the deputy head has the status of deputy of the minister;",
-    "fr": "Fournir le tableau de délégation mis à jour au ministre à titre informatif lorsque l’administrateur général est son délégué;"
-  },
-  {
-    "en": "Ensuring that the existing delegation chart is presented to new deputy heads for information purposes within 30 calendar days of their appointment;",
-    "fr": "Veiller à ce que le tableau de délégation actuel soit soumis aux nouveaux administrateurs généraux à titre informatif dans les 30 jours civils suivant la date de leur nomination;"
-  },
-  {
-    "en": "Ensuring that segregation of duties is implemented so that:",
-    "fr": "Veiller à ce que la séparation des fonctions soit mise en œuvre pour que :"
-  },
-  {
-    "en": "The same individual must not exercise both transaction authority and certification authority (FAA, section 34) on the same transaction, except if the transaction has been designated by a department as a low-risk and low-value transaction;",
-    "fr": "la même personne ne puisse pas exercer à la fois le pouvoir d’exécuter une opération et le pouvoir d’attestation (LGFP, article 34) pour la même opération, sauf si celle-ci a été désignée par un ministère comme une opération à faible risque et de faible valeur;"
-  },
-  {
-    "en": "The same individual cannot exercise both certification authority (FAA, section 34) and payment authority (FAA, section 33) on the same transaction;",
-    "fr": "la même personne ne puisse pas exercer à la fois le pouvoir d’attestation (LGFP, article 34) et le pouvoir de payer (LGFP, article 33) pour la même opération;"
-  },
-  {
-    "en": "No individual exercises his or her delegated spending and financial authorities on a transaction through which he or she may personally benefit; and",
-    "fr": "personne ne puisse exercer des pouvoirs de dépenser ou des pouvoirs financiers délégués relativement à une opération dont il ou elle peut tirer un bénéfice personnel; et"
-  },
-  {
-    "en": "When the process or another circumstance does not allow the segregation of duties as identified, alternate control measures are implemented and documented;",
-    "fr": "lorsque le processus ou d’autres circonstances ne permettent pas la séparation des fonctions en question, d’autres mesures de contrôle soient mises en œuvre et consignées par écrit;"
-  },
-  {
-    "en": "Establishing risk-based management practices to ensure effective internal controls over account verification that specify the following:",
-    "fr": "Mettre en œuvre des pratiques de gestion basées sur les risques pour assurer des contrôles internes efficaces pour encadrer la vérification des comptes qui précisent ce qui suit :"
-  },
-  {
-    "en": "The verification required by individuals with delegated authorities responsible for exercising certification authority (FAA, section 34);",
-    "fr": "la vérification qui doit être faite par les personnes auxquelles des pouvoirs délégués sont confiés et qui sont responsables d’exercer le pouvoir d’attestation (article 34 de la LGFP);"
-  },
-  {
-    "en": "The responsibilities of individuals with delegated authorities for the quality assurance of the payment verification process (FAA, section 33); and",
-    "fr": "les responsabilités des personnes auxquelles des pouvoirs délégués ont été confiés en matière d’assurance de la qualité du processus de vérification des paiements (article 33 de la LGFP); et"
-  },
-  {
-    "en": "The approval and periodic review by the CFO of sampling plans detailing the level of quality assurance and verification responsibilities of individuals with delegated payment authority (FAA, section 33); and",
-    "fr": "l’approbation et l’examen périodique effectués par le DPF des plans d’échantillonnage qui précisent le degré de responsabilité en matière d’assurance de la qualité et de vérification des personnes auxquelles le pouvoir de payer a été délégué (article 33 de la LGFP); et"
-  },
-  {
-    "en": "Ensuring that individuals with delegated spending and financial authorities follow the mandatory procedures set out in Appendix A.",
-    "fr": "Veiller à ce que les personnes à qui un pouvoir de dépenser ou un pouvoir financier a été délégué suivent les procédures obligatoires énoncées à l’annexe A."
-  },
-  {
-    "en": "Not applicable.",
-    "fr": "Sans objet."
-  },
-  {
-    "en": "The directive applies to the organizations listed in section 6 of the .",
-    "fr": "La présente directive s’applique aux organisations indiquées à l’article 6 de la ."
-  },
-  {
-    "en": "Legislation",
-    "fr": "Lois"
-  },
-  {
-    "en": "Related policy instruments",
-    "fr": "Instruments de politique connexes"
-  },
-  {
-    "en": "Members of the public may contact regarding any questions about this directive.",
-    "fr": "Les membres du public peuvent communiquer avec le personnel chargé des s’ils ont des questions au sujet de cette directive."
-  },
-  {
-    "en": "Individuals from departments should contact their departmental financial policy group regarding any questions about this directive.",
-    "fr": "Les employés des ministères doivent communiquer avec le groupe responsable des politiques financières de leur ministère s’ils ont des questions au sujet de cette directive."
-  },
-  {
-    "en": "Individuals from a departmental financial policy group may contact for interpretation of this directive.",
-    "fr": "Les employés du groupe responsable des politiques financières au sein des ministères peuvent communiquer avec le personnel chargé des en ce qui concerne l’interprétation de cette directive."
+    "en": "Policy on People ManagementContracting PolicyDirective on Mandatory Training",
+    "fr": "Politique sur la gestion des personnesPolitique sur les marchésDirective sur la formation obligatoire",
+    "anchor": "7.2",
+    "tag": "ul"
   }
 ]

@@ -1,170 +1,26 @@
 [
   {
-    "en": "This illustrative example provides a model for quarterly financial reports (QFR), and should be read in conjunction with the which must be used in order to ensure a consistent presentation and disclosure across all departments. This example also provides guidance on the accompanying statement that outlines the results, risks and significant changes relating to a department’s operations, personnel and programs. Since the example cannot consider all circumstances, professional judgement must be used when modifying the package to meet departmental reporting requirements.",
-    "fr": "Cet exemple à titre d’illustration offre un modèle de rapport financier trimestriel et doit être lu conjointement avec la qui doit être utilisée afin d’assurer l’uniformité de la présentation et les informations fournies par tous les ministères. Cet exemple offre également des directives concernant le type d’information qui devrait être fourni dans le compte rendu soulignant les résultats, les risques et les principaux changements quant au fonctionnement, au personnel et aux programmes du ministère. L’ensemble du rapport financier présenté dans cet exemple à titre d’illustration ne peut tenir compte de toutes les circonstances uniques et des caractéristiques particulières et, par conséquent, le personnel du ministère doit faire preuve de jugement professionnel lorsqu’il modifie le modèle pour respecter ses exigences en matière de rapports."
+    "en": "Departmental Chief Financial Officers are to ensure that, at minimum and where applicable, the following elements are included in their QFR:",
+    "fr": "Les Dirigeants principaux des finances des ministères doivent s’assurer, au minimum et lorsqu’applicable, que les éléments suivants sont inclus dans leurs rapports financiers trimestriels :",
+    "anchor": "A",
+    "tag": "p"
   },
   {
-    "en": "Departmental Chief Financial Officers are to ensure that, at minimum and where applicable, the following elements are included in their QFR:",
-    "fr": "Les Dirigeants principaux des finances des ministères doivent s’assurer, au minimum et lorsqu’applicable, que les éléments suivants sont inclus dans leurs rapports financiers trimestriels :"
+    "en": "A signed statement outlining the:Results,Risks, andSignificant changes in operations, personnel and programs.Quarterly financial information incorporating:A Statement of Authorities and a table of departmental budgetary expenditures by standard objects including both the quarter and the fiscal year-to-date, andComparative financial information for the preceding fiscal year for both the quarter and the year-to-date.",
+    "fr": "Un compte rendu dûment signé soulignant :les résultatsles risques;les changements importants quant au fonctionnement, au personnel et aux programmes.De l’information financière trimestrielle, incluant :un état des autorisations et un tableau des dépenses ministérielles budgétaires par article courant, incluant l’information financière trimestrielle et le cumul annuel;des données financières comparatives de l’exercice précédent pour le trimestre et le cumul annuel.",
+    "anchor": "A",
+    "tag": "ul"
   },
   {
     "en": "The following heading must appear on each page of the report:",
-    "fr": "Le titre suivant doit apparaître sur chaque page du rapport :"
+    "fr": "Le titre suivant doit apparaître sur chaque page du rapport :",
+    "anchor": "B",
+    "tag": "p"
   },
   {
-    "en": "This section indicates that the quarterly financial report:",
-    "fr": "Cette section devrait indiquer que le rapport financier trimestriel :"
-  },
-  {
-    "en": "This section also provides:",
-    "fr": "Cette section devrait également fournir :"
-  },
-  {
-    "en": "This quarterly report has been prepared by management using an expenditure basis of accounting. The accompanying Statement of Authorities includes the department’s spending authorities granted by Parliament, and those used by the department consistent with the Main Estimates and Supplementary Estimates (as applicable) for the 20XX-20XX fiscal year. This quarterly report has been prepared using a special purpose financial reporting framework designed to meet financial information needs with respect to the use of spending authorities.",
-    "fr": "Ce rapport trimestriel a été préparé par la direction en utilisant une comptabilité axée sur les dépenses. L’état des autorisations joint à ce rapport inclut les autorisations de dépenser du ministère accordées par le Parlement et utilisées par le ministère, de manière cohérente avec le Budget principal des dépenses et les budgets supplémentaires des dépenses (lorsqu’applicable) pour l’exercice 20XX-20XX. Ce rapport financier trimestriel a été préparé en utilisant un référentiel à usage particulier conçu pour répondre aux besoins d’information financière à l’égard de l’utilisation des autorisations de dépenser."
-  },
-  {
-    "en": "The authority of Parliament is required before money can be spent by the Government. Approvals are given in the form of annually approved limits through appropriation acts, or through legislation in the form of statutory spending authority for specific purposes.",
-    "fr": "Le gouvernement ne peut dépenser sans l’autorisation préalable du Parlement. Les autorisations sont accordées par l’entremise de lois de crédits, sous forme de limites annuelles, ou par l’entremise de lois sous forme de pouvoirs législatifs de dépenser à des fins déterminées."
-  },
-  {
-    "en": "When Parliament is dissolved for the purposes of a general election, section 30 of the authorizes the Governor General, under certain conditions, to issue a special warrant authorizing the Government to withdraw funds from the Consolidated Revenue Fund. A special warrant is deemed to be an appropriation for the fiscal year in which it is issued.",
-    "fr": "Lorsque le Parlement est dissous pour la tenue d’une élection générale, l’article 30 de la autorise le gouverneur général, sous certaines conditions, à émettre un mandat spécial autorisant le gouvernement à retirer des fonds du Trésor. Un mandat spécial est considéré comme un crédit relatif à l’exercice au cours duquel il a été établi."
-  },
-  {
-    "en": "The Department uses the full accrual method of accounting to prepare and present its annual departmental financial statements that are part of the departmental results reporting process. However, the spending authorities voted by Parliament remain on an expenditure basis.",
-    "fr": "Le ministère utilise la méthode de la comptabilité d’exercice intégrale pour la préparation de ses états financiers annuels qui font partie du processus de rapport sur les résultats ministériels. Toutefois, les pouvoirs de dépenser votés par le Parlement sont encore en fonction d’une comptabilité axée sur les dépenses."
-  },
-  {
-    "en": "This section should provide a concise discussion of the significant events affecting both the quarter and the year-to-date results. Elements to be discussed include, but are not restricted to, the following:",
-    "fr": "Cette section devrait fournir un résumé bref et concis des faits significatifs ayant une incidence à la fois sur les résultats trimestriels et les résultats cumulatifs de l’exercice. Voici une liste non exhaustive des éléments de discussion devant être abordés dans cette section :"
-  },
-  {
-    "en": "Explanations should be provided for each significant variance.",
-    "fr": "Des explications devraient être fournies pour chacun des écarts importants."
-  },
-  {
-    "en": "This section should include information on any significant financial risks and uncertainties, as well as the potential impact of these risks and uncertainties on the department’s financial plan for the current year. A brief outline of the strategies adopted to manage those risks and uncertainties should also be included. The focus should be on newly identified risks and on any changes to previously identified risks.",
-    "fr": "Cette section devrait inclure de l’information sur les risques financiers et les incertitudes importantes, incluant également les répercussions potentielles de ces risques et incertitudes sur le plan financier du ministère à l’égard de l’année courante. La section devrait également fournir un bref aperçu des stratégies adoptées pour les gérer. L’accent devrait être mis sur les nouveaux risques décelés ainsi que sur tout changement aux risques préalablement identifiés."
-  },
-  {
-    "en": "The department’s corporate risk profile may be a good source of information in determining what risks may exist. Examples of factors that may increase the amount of risk include:",
-    "fr": "Le profil de risque de l’organisation peut se révéler une bonne source d’information afin de déterminer les risques qui peuvent exister. Voici des exemples de facteurs qui peuvent augmenter les risques :"
-  },
-  {
-    "en": "This section should provide information about significant changes which occurred in the department during the current quarter relating to operations, personnel and programs. The potential financial impact of the significant changes should be discussed where applicable.",
-    "fr": "Cette section devrait fournir de l’information au lecteur relativement aux changements importants survenus au sein du ministère durant le trimestre en cours et qui concernent le fonctionnement, le personnel et les programmes. Lorsqu’applicable, les répercussions financières potentielles des changements importants devraient être abordées."
-  },
-  {
-    "en": "This section provides the approval of Senior Officials, as required by the as follows",
-    "fr": "Cette section vise à fournir l’approbation des cadres supérieurs, tel que requise par la comme suit :"
-  },
-  {
-    "en": "Approved by:",
-    "fr": "Approuvé par :"
-  },
-  {
-    "en": "Name, Deputy Head (City where signed, e.g. Ottawa, Canada) (Date signed)",
-    "fr": "Nom, dirigeant principal des finances (Ville où le document est signé, par exemple, Ottawa, Canada) (Date de la signature)"
-  },
-  {
-    "en": "Name, Chief Financial Officer",
-    "fr": "Name, Chief Financial Officer"
-  },
-  {
-    "en": "Notes:",
-    "fr": "Notes :"
-  },
-  {
-    "en": "Note to preparers: Summary information contained in this statement should be similar in nature to the information included in the Source and Disposition of Authorities in the Volume II of the Public Accounts (Public Accounts Instructions - Form A).",
-    "fr": "Note aux préparateurs : L’information sommaire incluse dans cet état devrait être de nature similaire à l’information relative aux Provenances et utilisations des autorisations du volume II des comptes publics (Procédures des comptes publics - Formulaire A)."
-  },
-  {
-    "en": "A signed statement outlining the:",
-    "fr": "Un compte rendu dûment signé soulignant :"
-  },
-  {
-    "en": "Results,",
-    "fr": "les résultats"
-  },
-  {
-    "en": "Risks, and",
-    "fr": "les risques;"
-  },
-  {
-    "en": "Significant changes in operations, personnel and programs.",
-    "fr": "les changements importants quant au fonctionnement, au personnel et aux programmes."
-  },
-  {
-    "en": "Quarterly financial information incorporating:",
-    "fr": "De l’information financière trimestrielle, incluant :"
-  },
-  {
-    "en": "A Statement of Authorities and a table of departmental budgetary expenditures by standard objects including both the quarter and the fiscal year-to-date, and",
-    "fr": "un état des autorisations et un tableau des dépenses ministérielles budgétaires par article courant, incluant l’information financière trimestrielle et le cumul annuel;"
-  },
-  {
-    "en": "Comparative financial information for the preceding fiscal year for both the quarter and the year-to-date.",
-    "fr": "des données financières comparatives de l’exercice précédent pour le trimestre et le cumul annuel."
-  },
-  {
-    "en": "should be read in conjunction with the Main Estimates (and as applicable - Supplementary Estimates and previous interim reports for the current year).",
-    "fr": "devrait être lu de concert avec le Budget principal des dépenses (et, lorsqu’applicable, les budgets supplémentaires des dépenses et les rapports intermédiaires précédents)."
-  },
-  {
-    "en": "has been prepared by management as required by section 65.1 of the and in the form and manner prescribed by the Treasury Board.",
-    "fr": "a été préparé par la direction tel qu’exigé par l’article 65.1 de la et selon les modalités prescrites par le Conseil du Trésor."
-  },
-  {
-    "en": "has not been subject to an external audit or review.",
-    "fr": "n’a pas fait l’objet d’une vérification externe ou d’un examen."
-  },
-  {
-    "en": "A summary description of the department’s program activities. This can be done through a link to the appropriate section of the Main Estimates (Part II).",
-    "fr": "une description sommaire des activités du ministère pour l’exercice en cours. Elle peut être faite au moyen d’un lien vers la section appropriée du Budget principal des dépenses (Partie II)"
-  },
-  {
-    "en": "A brief description of the basis of presentation as follows:",
-    "fr": "une brève définition de la méthode de présentation du rapport, comme suit :"
-  },
-  {
-    "en": "Identify and explain significant variances including analysis of significant trends related to increases and/or decreases in actual expenditures and in relation to planned expenditures, compared to the same periods of the preceding fiscal year (quarter and YTD), and including the status of any new significant spending initiatives.",
-    "fr": "Identifier et expliquer les écarts importants liés aux hausses et/ou baisses des dépenses actuelles et en lien avec les dépenses planifiées. Ces explications doivent inclure une analyse des tendances significatives et les données doivent être comparées aux montants des mêmes périodes de l’exercice précédent (trimestrielles et cumulatives), et inclure le statut de toute nouvelle initiative de dépense."
-  },
-  {
-    "en": "Identify and explain significant changes that have occurred, but are not readily apparent from the quantitative analysis, for the quarter ended and the YTD.",
-    "fr": "Identifier et expliquer les changements importants qui se sont produits au cours du trimestre et de l’exercice en cours mais qui ne ressortent pas clairement de l’analyse quantitative."
-  },
-  {
-    "en": "Internal restructuring,",
-    "fr": "restructuration interne;"
-  },
-  {
-    "en": "Human resource challenges and key actions,",
-    "fr": "défis que posent les ressources humaines et principales mesures associées;"
-  },
-  {
-    "en": "Changing economic, technological, social, or political conditions,",
-    "fr": "changements dans les conditions économiques, technologiques, sociales ou politiques;"
-  },
-  {
-    "en": "New or changing policies or government-wide priorities,",
-    "fr": "nouvelles politiques ou priorités du gouvernement, ou les changements dont elles ont fait l’objet;"
-  },
-  {
-    "en": "Reliance or dependence on key partners, clients, or stakeholders; and,",
-    "fr": "dépendance vis-à-vis des principaux partenaires, clients et parties intéressées;"
-  },
-  {
-    "en": "Changes in patterns of demand for goods and services.",
-    "fr": "changements liés aux tendances de la demande de biens et de services."
-  },
-  {
-    "en": "If the report is signed by an individual who has been delegated authority in the absence of the Deputy Head or CFO, “Acting” should be indicated in the Position Title.",
-    "fr": "Si le rapport est signé par un délégué en l’absence de l’administrateur général ou du dirigeant principal des finances, le terme “par intérim” doit être précisé dans le titre du poste."
-  },
-  {
-    "en": "The posted web version of the quarterly financial report should not display images of the actual signatures of the Deputy Head and Chief Financial Officer. Instead, the text “Original signed by” should be presented immediately above the names of the Deputy Head and Chief Financial Officer.",
-    "fr": "La version du Rapport financier trimestriel publiée sur le Web ne doit pas afficher l’image des signatures de l’administrateur général ou du dirigeant principal des finances. On doit y indiquer la mention « Original signé par » au-dessus du nom de l’administrateur général et du dirigeant principal des finances."
+    "en": "DEPARTMENT’S NAMEQuarterly Financial ReportFor the quarter ended Month DD, 20XXForm and ContentStatement outlining results, risks and significant changes in operations, personnel and programIntroductionThis section indicates that the quarterly financial report:should be read in conjunction with the Main Estimates (and as applicable - Supplementary Estimates and previous interim reports for the current year).has been prepared by management as required by section 65.1 of the Financial Administration Act and in the form and manner prescribed by the Treasury Board.has not been subject to an external audit or review.This section also provides:A summary description of the department’s program activities. This can be done through a link to the appropriate section of the Main Estimates (Part II).A brief description of the basis of presentation as follows:Basis of PresentationThis quarterly report has been prepared by management using an expenditure basis of accounting. The accompanying Statement of Authorities includes the department’s spending authorities granted by Parliament, and those used by the department consistent with the Main Estimates and Supplementary Estimates (as applicable) for the 20XX-20XX fiscal year. This quarterly report has been prepared using a special purpose financial reporting framework designed to meet financial information needs with respect to the use of spending authorities.The authority of Parliament is required before money can be spent by the Government. Approvals are given in the form of annually approved limits through appropriation acts, or through legislation in the form of statutory spending authority for specific purposes.When Parliament is dissolved for the purposes of a general election, section 30 of the Financial Administration Act authorizes the Governor General, under certain conditions, to issue a special warrant authorizing the Government to withdraw funds from the Consolidated Revenue Fund. A special warrant is deemed to be an appropriation for the fiscal year in which it is issued.The Department uses the full accrual method of accounting to prepare and present its annual departmental financial statements that are part of the departmental results reporting process. However, the spending authorities voted by Parliament remain on an expenditure basis.Highlights of the fiscal quarter and the fiscal year-to-date (YTD) resultsThis section should provide a concise discussion of the significant events affecting both the quarter and the year-to-date results. Elements to be discussed include, but are not restricted to, the following:Identify and explain significant variances including analysis of significant trends related to increases and/or decreases in actual expenditures and in relation to planned expenditures, compared to the same periods of the preceding fiscal year (quarter and YTD), and including the status of any new significant spending initiatives.Identify and explain significant changes that have occurred, but are not readily apparent from the quantitative analysis, for the quarter ended and the YTD.Explanations should be provided for each significant variance.Risks and UncertaintiesThis section should include information on any significant financial risks and uncertainties, as well as the potential impact of these risks and uncertainties on the department’s financial plan for the current year. A brief outline of the strategies adopted to manage those risks and uncertainties should also be included. The focus should be on newly identified risks and on any changes to previously identified risks.The department’s corporate risk profile may be a good source of information in determining what risks may exist. Examples of factors that may increase the amount of risk include:Internal restructuring,Human resource challenges and key actions,Changing economic, technological, social, or political conditions,New or changing policies or government-wide priorities,Reliance or dependence on key partners, clients, or stakeholders; and,Changes in patterns of demand for goods and services.Significant changes in relation to operations, personnel and programsThis section should provide information about significant changes which occurred in the department during the current quarter relating to operations, personnel and programs. The potential financial impact of the significant changes should be discussed where applicable.Approval by Senior OfficialsThis section provides the approval of Senior Officials, as required by the Policy on Financial Management as follows:Approved by:Name, Deputy Head(City where signed, e.g. Ottawa, Canada)(Date signed) Name, Chief Financial OfficerNotes:If the report is signed by an individual who has been delegated authority in the absence of the Deputy Head or CFO, “Acting” should be indicated in the Position Title.The posted web version of the quarterly financial report should not display images of the actual signatures of the Deputy Head and Chief Financial Officer. Instead, the text “Original signed by” should be presented immediately above the names of the Deputy Head and Chief Financial Officer.Statement of Authorities (unaudited)Fiscal year 20XX-20XX (in thousands of dollars)Total available for use for the year ending March 31, 20XXtable 1 note 1Used during the quarter ended Month DD, 20XXYear-to-date used at quarter-endMore information is available in the attached table.Table 1 NotesTable 1 Note 1Includes only Authorities available for use and granted by Parliament at quarter-end.Return to table 1 note 1 referrerTable 1 Note 2Departments should substitute the vote numbers and title by the appropriate ones.Return to table 1 note 2 referrerVote Xtable 1 note 2 - Net Operating expendituresVote Y- Capital expendituresVote Z - Grants and contributionsBudgetary statutory authority #1Budgetary statutory authority #2Total Budgetary authoritiesNon-budgetary authoritiesTotal authoritiesFiscal year 20XX-20XX (in thousands of dollars)Total available for use for the year ending March 31, 20XXtable 2 note 1Used during the quarter ended Month DD, 20XXYear-to-date used at quarter-endMore information is available in the attached table.Table 2 NotesTable 2 Note 1Includes only Authorities available for use and granted by Parliament at quarter-end.Return to table 2 note 1 referrerTable 2 Note 2Departments should substitute the vote numbers and title by the appropriate ones.Return to table 2 note 2 referrerVote Xtable 2 note 2 - Net Operating expendituresVote Y- Capital expendituresVote Z - Grants and contributionsBudgetary statutory authority #1Budgetary statutory authority #2Total Budgetary authoritiesNon-budgetary authoritiesTotal authoritiesNote to preparers: Summary information contained in this statement should be similar in nature to the information included in the Source and Disposition of Authorities in the Volume II of the Public Accounts (Public Accounts Instructions - Form A).Departmental budgetary expenditures by Standard Object (unaudited)Fiscal year 20XX-20XX (in thousands of dollars) Planned expenditures for the year ending March 31, 20XXExpended during the quarter ended Month DD, 20XXYear-to-date used at quarter-endExpenditures:PersonnelTransportation and communicationsInformationProfessional and special servicesRentalsRepair and maintenanceUtilities, materials and suppliesAcquisition of land, buildings and worksAcquisition of machinery and equipmentTransfer paymentsPublic debt chargesOther subsidies and paymentsTotal gross budgetary expendituresLess Revenues netted against expenditures:Revenues type 1Revenues type 2Total Revenues netted against expenditures:Total net budgetary expendituresDepartmental budgetary expenditures by Standard Object (unaudited) (continued)Fiscal year 20XX-20XX (in thousands of dollars) Planned expenditures for the year ending March 31, 20XXExpended during the quarter ended Month DD, 20XXYear-to-date used at quarter-endExpenditures:PersonnelTransportation and communicationsInformationProfessional and special servicesRentalsRepair and maintenanceUtilities, materials and suppliesAcquisition of land, buildings and worksAcquisition of machinery and equipmentTransfer paymentsPublic debt chargesOther subsidies and paymentsTotal gross budgetary expendituresLess Revenues netted against expenditures:Revenues type 1Revenues type 2Total Revenues netted against expenditures:Total net budgetary expenditures",
+    "fr": "NOM DU MINISTÈRERapport financier trimestrielPour le trimestre terminé le JJ mois 20XXFormat et contenuCompte rendu soulignant les résultats, les risques et les changements importants quant au fonctionnement, au personnel et aux programmesIntroductionCette section devrait indiquer que le rapport financier trimestriel :devrait être lu de concert avec le Budget principal des dépenses (et, lorsqu’applicable, les budgets supplémentaires des dépenses et les rapports intermédiaires précédents).a été préparé par la direction tel qu’exigé par l’article 65.1 de la Loi sur la gestion des finances publiques, et selon les modalités prescrites par le Conseil du Trésor.n’a pas fait l’objet d’une vérification externe ou d’un examen.Cette section devrait également fournir :une description sommaire des activités du ministère pour l’exercice en cours. Elle peut être faite au moyen d’un lien vers la section appropriée du Budget principal des dépenses (Partie II)une brève définition de la méthode de présentation du rapport, comme suit :Méthode de présentation du rapportCe rapport trimestriel a été préparé par la direction en utilisant une comptabilité axée sur les dépenses. L’état des autorisations joint à ce rapport inclut les autorisations de dépenser du ministère accordées par le Parlement et utilisées par le ministère, de manière cohérente avec le Budget principal des dépenses et les budgets supplémentaires des dépenses (lorsqu’applicable) pour l’exercice 20XX-20XX. Ce rapport financier trimestriel a été préparé en utilisant un référentiel à usage particulier conçu pour répondre aux besoins d’information financière à l’égard de l’utilisation des autorisations de dépenser.Le gouvernement ne peut dépenser sans l’autorisation préalable du Parlement. Les autorisations sont accordées par l’entremise de lois de crédits, sous forme de limites annuelles, ou par l’entremise de lois sous forme de pouvoirs législatifs de dépenser à des fins déterminées.Lorsque le Parlement est dissous pour la tenue d’une élection générale, l’article 30 de la Loi sur la gestion des finances publiques autorise le gouverneur général, sous certaines conditions, à émettre un mandat spécial autorisant le gouvernement à retirer des fonds du Trésor. Un mandat spécial est considéré comme un crédit relatif à l’exercice au cours duquel il a été établi.Le ministère utilise la méthode de la comptabilité d’exercice intégrale pour la préparation de ses états financiers annuels qui font partie du processus de rapport sur les résultats ministériels. Toutefois, les pouvoirs de dépenser votés par le Parlement sont encore en fonction d’une comptabilité axée sur les dépenses.Faits saillants des résultats financiers trimestriels et cumulatifsCette section devrait fournir un résumé bref et concis des faits significatifs ayant une incidence à la fois sur les résultats trimestriels et les résultats cumulatifs de l’exercice. Voici une liste non exhaustive des éléments de discussion devant être abordés dans cette section :Identifier et expliquer les écarts importants liés aux hausses et/ou baisses des dépenses actuelles et en lien avec les dépenses planifiées. Ces explications doivent inclure une analyse des tendances significatives et les données doivent être comparées aux montants des mêmes périodes de l’exercice précédent (trimestrielles et cumulatives), et inclure le statut de toute nouvelle initiative de dépense.Identifier et expliquer les changements importants qui se sont produits au cours du trimestre et de l’exercice en cours mais qui ne ressortent pas clairement de l’analyse quantitative.Des explications devraient être fournies pour chacun des écarts importants.Risques et incertitudesCette section devrait inclure de l’information sur les risques financiers et les incertitudes importantes, incluant également les répercussions potentielles de ces risques et incertitudes sur le plan financier du ministère à l’égard de l’année courante. La section devrait également fournir un bref aperçu des stratégies adoptées pour les gérer. L’accent devrait être mis sur les nouveaux risques décelés ainsi que sur tout changement aux risques préalablement identifiés.Le profil de risque de l’organisation peut se révéler une bonne source d’information afin de déterminer les risques qui peuvent exister. Voici des exemples de facteurs qui peuvent augmenter les risques :restructuration interne;défis que posent les ressources humaines et principales mesures associées;changements dans les conditions économiques, technologiques, sociales ou politiques;nouvelles politiques ou priorités du gouvernement, ou les changements dont elles ont fait l’objet;dépendance vis-à-vis des principaux partenaires, clients et parties intéressées;changements liés aux tendances de la demande de biens et de services.Changements importants quant au fonctionnement, au personnel et aux programmesCette section devrait fournir de l’information au lecteur relativement aux changements importants survenus au sein du ministère durant le trimestre en cours et qui concernent le fonctionnement, le personnel et les programmes. Lorsqu’applicable, les répercussions financières potentielles des changements importants devraient être abordées.Approbation des cadres supérieursCette section vise à fournir l’approbation des cadres supérieurs, tel que requise par la Politique sur la gestion financière, comme suit :Approuvé par :Nom, dirigeant principal des finances(Ville où le document est signé, par exemple, Ottawa, Canada)(Date de la signature) Name, Chief Financial OfficerNotes :Si le rapport est signé par un délégué en l’absence de l’administrateur général ou du dirigeant principal des finances, le terme “par intérim” doit être précisé dans le titre du poste.La version du Rapport financier trimestriel publiée sur le Web ne doit pas afficher l’image des signatures de l’administrateur général ou du dirigeant principal des finances. On doit y indiquer la mention « Original signé par » au-dessus du nom de l’administrateur général et du dirigeant principal des finances.État des autorisations (non vérifié)Exercice 20XX-20XX (en milliers de dollars)Crédits totaux disponibles pour l’exercice se terminant le 31 mars 20XXNote 1 du tableau 1Crédits utilisés pour le trimestre terminé le JJ mois 20XXCumul des crédits utilisés à la fin du trimestreDe l’information supplémentaire est fournie dans le tableau ci-joint.Notes du tableau 1Note 1 du tableau 1N’inclut que les Autorisations disponibles pour l’exercice et accordées par le Parlement à la fin du trimestre.Retour à la référence de la note 1 du tableau 1Note 2 du tableau 1Les ministères devraient remplacer les numéros des crédits et leurs noms par les informations appropriées.Retour à la référence de la note 2 du tableau 1Crédit XNote 2 du tableau 1 - Dépenses nettes de fonctionnementCrédit Y - Dépenses en capitalCrédit Z - Subventions et contributionsAutorisations législatives budgétaires #1Autorisations législatives budgétaires #2Autorisations budgétaires totalesAutorisations non-budgétairesAutorisations totalesExercice 20XX-20XX (en milliers de dollars)Crédits totaux disponibles pour l’exercice se terminant le 31 mars 20XXNote 1 du tableau 2Crédits utilisés pour le trimestre terminé le JJ mois 20XXCumul des crédits utilisés à la fin du trimestreDe l’information supplémentaire est fournie dans le tableau ci-joint.Notes du tableau 2Note 1 du tableau 2N’inclut que les Autorisations disponibles pour l’exercice et accordées par le Parlement à la fin du trimestre.Retour à la référence de la note 1 du tableau 2Note 2 du tableau 2Les ministères devraient remplacer les numéros des crédits et leurs noms par les informations appropriées.Retour à la référence de la note 2 du tableau 2Crédit XNote 2 du tableau 2 - Dépenses nettes de fonctionnementCrédit Y - Dépenses en capitalCrédit Z - Subventions et contributionsAutorisations législatives budgétaires #1Autorisations législatives budgétaires #2Autorisations budgétaires totalesAutorisations non-budgétairesAutorisations totalesNote aux préparateurs : L’information sommaire incluse dans cet état devrait être de nature similaire à l’information relative aux Provenances et utilisations des autorisations du volume II des comptes publics (Procédures des comptes publics - Formulaire A).Dépenses ministérielles budgétaires par article courant (non vérifié)Exercice 20XX-20XX (en milliers de dollars) Dépenses prévues pour l’exercice se terminant le 31 mars 20XXDépensées durant le trimestre terminé le JJ mois 20XXCumul des crédits utilisés à la fin du trimestreDépenses :PersonnelTransports et communicationsInformationServices professionnels et spéciauxLocationServices de réparation et d’entretienServices publics, fournitures et approvisionnementsAcquisition de terrains, de bâtiments et ouvragesAcquisition de matériel et d’outillagePaiements de transfertFrais de la dette publiqueAutres subventions et paiementsDépenses budgétaires brutes totalesMoins les revenus affectés aux dépenses :Revenus de type 1Revenus de type 2Total des revenus affectés aux dépensesDépenses budgétaires nettes totalesDépenses ministérielles budgétaires par article courant (non vérifié)(suite)Exercice 20XX-20XX (en milliers de dollars) Dépenses prévues pour l’exercice se terminant le 31 mars 20XXDépensées durant le trimestre terminé le JJ mois 20XXCumul des crédits utilisés à la fin du trimestreDépenses :PersonnelTransports et communicationsInformationServices professionnels et spéciauxLocationServices de réparation et d’entretienServices publics, fournitures et approvisionnementsAcquisition de terrains, de bâtiments et ouvragesAcquisition de matériel et d’outillagePaiements de transfertFrais de la dette publiqueAutres subventions et paiementsDépenses budgétaires brutes totalesMoins les revenus affectés aux dépenses :Revenus de type 1Revenus de type 2Total des revenus affectés aux dépensesDépenses budgétaires nettes totales",
+    "anchor": "B",
+    "tag": "section"
   }
 ]

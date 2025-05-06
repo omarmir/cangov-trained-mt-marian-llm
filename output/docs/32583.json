@@ -1,302 +1,398 @@
 [
   {
-    "en": "This guide was published on .",
-    "fr": "Le présent guide a été publié le ."
+    "en": "This guide was published on May 29, 2018.",
+    "fr": "Le présent guide a été publié le 29 mai 2018.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "This guide applies to the organizations listed in section 6 of the .",
-    "fr": "Le présent guide s’applique aux organisations énumérées à l’article 6 de la ."
+    "en": "This guide applies to the organizations listed in section 6 of the Policy on Financial Management.",
+    "fr": "Le présent guide s’applique aux organisations énumérées à l’article 6 de la Politique sur la gestion financière.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "The purpose of this guide is to provide departments with information on the collection and payment of low-value amounts.",
-    "fr": "L’objet de ce guide vise à fournir aux ministères des renseignements concernant la perception et le paiement des sommes de peu de valeur."
+    "fr": "L’objet de ce guide vise à fournir aux ministères des renseignements concernant la perception et le paiement des sommes de peu de valeur.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "This guide supports the requirements set out under the (regulations). Examples are provided for illustrative purposes only and may not apply to all departments or situations.",
-    "fr": "Le présent guide appuie le (ci-après le « règlement »). Les exemples inclus sont à titre d’illustration seulement et peuvent ne pas s’appliquer à tous les ministères ou situations."
+    "en": "This guide supports the requirements set out under the Low-Value Amounts Regulations (regulations). Examples are provided for illustrative purposes only and may not apply to all departments or situations.",
+    "fr": "Le présent guide appuie le Règlement sur les sommes de peu de valeur (ci-après le « règlement »). Les exemples inclus sont à titre d’illustration seulement et peuvent ne pas s’appliquer à tous les ministères ou situations.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Section 4 of this guide defines low-value amounts under the (FAA).",
-    "fr": "La section 4 du guide fournit une définition des sommes de peu de valeur sous la (LGFP)."
+    "en": "Section 4 of this guide defines low-value amounts under the Financial Administration Act (FAA).",
+    "fr": "La section 4 du guide fournit une définition des sommes de peu de valeur sous la Loi sur la gestion des finances publiques (LGFP).",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "Section 5 of this guide further elaborates on the elements under the regulations, such as the application of thresholds and accumulations.",
-    "fr": "La section 5 du guide fournit plus de précisions sur les éléments du règlement, tels que l’application des seuils et du cumul."
+    "fr": "La section 5 du guide fournit plus de précisions sur les éléments du règlement, tels que l’application des seuils et du cumul.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "Section 6 of this guide discusses the accounting treatment of low-value amounts.",
-    "fr": "La section 6 du guide explique la comptabilisation des sommes de peu de valeur."
+    "fr": "La section 6 du guide explique la comptabilisation des sommes de peu de valeur.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "On , amendments to the FAA and the regulations came into force, establishing requirements on when the Government of Canada would not collect or pay low-value amounts in the interest of administrative efficiencies.",
-    "fr": "Le , des modifications à la LGFP et au règlement sont entrées en vigueur, établissant des exigences ou le gouvernement ne percevrait pas et ne paierait pas des sommes de peu de valeur afin de contribuer à l’efficience administrative."
+    "en": "On April 1, 2015, amendments to the FAA and the regulations came into force, establishing requirements on when the Government of Canada would not collect or pay low-value amounts in the interest of administrative efficiencies.",
+    "fr": "Le 1er avril 2015, des modifications à la LGFP et au règlement sont entrées en vigueur, établissant des exigences ou le gouvernement ne percevrait pas et ne paierait pas des sommes de peu de valeur afin de contribuer à l’efficience administrative.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "This guide describes specifics of the following:",
-    "fr": "Ce guide explique également en détail :"
+    "fr": "Ce guide explique également en détail :",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "the two low-value thresholds ($2.00 and $0.99)what can be accumulated, for how long, and the exceptionscases where the low-value amounts legislation and regulations do not apply",
+    "fr": "les deux seuils de peu de valeur (2 $ et 0,99 $);ce qui peut être cumulé et pour quelle période, avec les exceptions possibles;les cas où le règlement ne s’applique pas.",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "According to subsection 155.2(1) of the FAA, if an appropriate Minister, or any person authorized in writing by that Minister, determines that an amount is small, in that it does not exceed the threshold(s) set by the Treasury Board, that amount is deemed to be nil and is not to be collected or paid, with some exceptions. The applicable threshold are set out under the regulations (see Section 5 of this guide for more details).",
-    "fr": "Conformément au paragraphe 155.2(1) de la LGFP, si le ministre compétent, ou la personne à qui il a donné délégation écrite, établit qu’une somme est de peu de valeur, ou elle est égale ou inférieure aux seuils fixés par le Conseil du Trésor, la somme est réputée nulle et n’est ni perçue ni payée, sous réserve de certaines exceptions. Les seuils applicables sont énoncés sous le règlement (voir la section 5 de ce guide pour plus de détails)."
+    "fr": "Conformément au paragraphe 155.2(1) de la LGFP, si le ministre compétent, ou la personne à qui il a donné délégation écrite, établit qu’une somme est de peu de valeur, ou elle est égale ou inférieure aux seuils fixés par le Conseil du Trésor, la somme est réputée nulle et n’est ni perçue ni payée, sous réserve de certaines exceptions. Les seuils applicables sont énoncés sous le règlement (voir la section 5 de ce guide pour plus de détails).",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "The appropriate Minister, or any person authorized in writing by that Minister, determines whether the amount does not exceed the threshold. This requires a ministerial decision or a decision by someone authorized by the Minister. As a result, a department may choose to have a specific delegation in its delegation chart for such decisions. A person who has been authorized to sign off on sections 33 or 34 of the FAA may be an appropriate person, but it is up to the department to decide whether to have a delegation chart for low-value amounts and to decide what is appropriate under the circumstances.",
-    "fr": "Le ministre compétent, ou la personne à qui il a donné la délégation écrite, établit si la somme n’est pas égale ou inférieure au seuil. Cela exige une décision ministérielle ou une décision de la part d’une personne autorisée par le ministre. Le ministère a donc le choix d’inscrire une délégation particulière dans son tableau de délégation de ces décisions. La personne qui a été autorisée à signer aux termes des articles 33 ou 34 de la LGFP peut être une personne compétente, mais c’est au ministère de décider ce qui est justifié dans les circonstances."
+    "en": "Delegation chart of spending and financial authorities for low-value amountsThe appropriate Minister, or any person authorized in writing by that Minister, determines whether the amount does not exceed the threshold. This requires a ministerial decision or a decision by someone authorized by the Minister. As a result, a department may choose to have a specific delegation in its delegation chart for such decisions. A person who has been authorized to sign off on sections 33 or 34 of the FAA may be an appropriate person, but it is up to the department to decide whether to have a delegation chart for low-value amounts and to decide what is appropriate under the circumstances.A benefit of having a provision for low-value amounts in a department’s delegation chart is that the notes to the chart can describe the rules that apply to the department, as set out in this guide.",
+    "fr": "Tableau de délégation du ministère pour les pouvoirs de dépenser et les pouvoirs en matière financière pour les sommes de peu de valeurLe ministre compétent, ou la personne à qui il a donné la délégation écrite, établit si la somme n’est pas égale ou inférieure au seuil. Cela exige une décision ministérielle ou une décision de la part d’une personne autorisée par le ministre. Le ministère a donc le choix d’inscrire une délégation particulière dans son tableau de délégation de ces décisions. La personne qui a été autorisée à signer aux termes des articles 33 ou 34 de la LGFP peut être une personne compétente, mais c’est au ministère de décider ce qui est justifié dans les circonstances.Un des avantages de l’inscription d’une disposition pour les sommes de peu de valeur dans le tableau de délégation du ministère est que les notes afférentes au tableau peuvent décrire les règles qui s’appliquent au ministère, comme indiqué dans ce guide.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "A benefit of having a provision for low-value amounts in a department’s delegation chart is that the notes to the chart can describe the rules that apply to the department, as set out in this guide.",
-    "fr": "Un des avantages de l’inscription d’une disposition pour les sommes de peu de valeur dans le tableau de délégation du ministère est que les notes afférentes au tableau peuvent décrire les règles qui s’appliquent au ministère, comme indiqué dans ce guide."
+    "en": "The regulations specify that the amount owed is zero if “deemed to be nil.” An amount is deemed to be nil if an appropriate Minister, or any other person authorized by that Minister, determines the following are at, or below the threshold established by the regulations:an amount owing by a person to the government (for example, receivables), oran amount payable by the government to a person (including public sector employees)For receivables, if the amount is zero, there is nothing to collect and nothing to write off. Therefore, the Debt Write-Off Regulations do not apply.The same principles apply for payables. Any amount payable by the government that is deemed to be nil is zero.Once an amount is deemed to be nil, it should be removed from accounting records according to the accounting instructions referred to in section 6 of this guide.",
+    "fr": "Le règlement indique que la somme à payer est zéro si elle est « Réputée nulle ». Une somme est réputée nulle si le ministre compétent, ou la personne qu’il a autorisée, établit que les sommes ci-dessous sont inférieures ou égales au seuil fixé par le règlement :une somme à payer par une personne au gouvernement (par exemple, débiteurs), ouune somme à payer par le gouvernement à une personne (incluant les employés du secteur public)Pour les débiteurs, si la somme est zéro, il n’y a rien à percevoir et rien à radier. Le Règlement sur la radiation des créances ne s’applique pas.Le principe est le même pour les comptes créditeurs. Toute somme à payer par le gouvernement qui est réputée nulle est zéro.Dès lors qu’elle est réputée nulle, il faut retirer la somme des registres comptables conformément aux instructions comptables expliquées à la section 6 du guide.",
+    "anchor": "4",
+    "tag": "chapter"
   },
   {
-    "en": "The regulations specify that the amount owed is zero if “deemed to be nil.” An amount is deemed to be nil if an appropriate Minister, or any other person authorized by that Minister, determines the following are at, or below the threshold established by the regulations:",
-    "fr": "Le règlement indique que la somme à payer est zéro si elle est « Réputée nulle ». Une somme est réputée nulle si le ministre compétent, ou la personne qu’il a autorisée, établit que les sommes ci-dessous sont inférieures ou égales au seuil fixé par le règlement :"
-  },
-  {
-    "en": "For receivables, if the amount is zero, there is nothing to collect and nothing to write off. Therefore, the do not apply.",
-    "fr": "Pour les débiteurs, si la somme est zéro, il n’y a rien à percevoir et rien à radier. ne s’applique pas."
-  },
-  {
-    "en": "The same principles apply for payables. Any amount payable by the government that is deemed to be nil is zero.",
-    "fr": "Le principe est le même pour les comptes créditeurs. Toute somme à payer par le gouvernement qui est réputée nulle est zéro."
-  },
-  {
-    "en": "Once an amount is deemed to be nil, it should be removed from accounting records according to the accounting instructions referred to in section 6 of this guide.",
-    "fr": "Dès lors qu’elle est réputée nulle, il faut retirer la somme des registres comptables conformément aux instructions comptables expliquées à la section 6 du guide."
-  },
-  {
-    "en": "In accordance with subsection 155.2(3) of the FAA, if a low-value amount is not collected or paid (receivable or payable) because it is deemed nil, any requirements related to that amount are considered to be met. For example, making no payment of a low-value amount is not considered to be in default of a contract. No interest is owed on a low-value amount that has been deemed nil, so no interest is collected or paid.",
-    "fr": "Conformément au paragraphe 155.2(3) de la LGFP, en cas de non‐paiement des sommes non perçues ni payées (débiteurs et créditeurs) du fait qu’elles sont réputées nulles, les exigences relatives à ces sommes sont considérées comme respectées. Par exemple, le non‐paiement d’une somme de peu de valeur n’est pas réputé être une violation d’un contrat. Il n’y a aucun intérêt sur les sommes de peu de valeur qui ont été réputées nulles, de sorte qu’aucun intérêt n’est perçu ni payé."
-  },
-  {
-    "en": "In accordance with subsection 155.2(4) of the FAA, if a low-value amount is not paid (for payables only) because it is accumulating, any requirements related to that amount are considered to be met while it is accumulating (see sections 5.2 to 5.4 of this guide). The amount is not subject to interest during the accumulation period.",
-    "fr": "Conformément au paragraphe 155.2(4) de la LGFP, en cas de non‐paiement de sommes de peu de valeur (pour les débiteurs seulement) du fait de leur cumul, les exigences relatives à ces sommes sont réputées avoir été respectées pendant la période pour laquelle ces sommes sont accumulées (voir les articles 5.2 à 5.4 du guide). Il n’y a aucun intérêt sur ces sommes pendant la période de cumul."
+    "en": "In accordance with subsection 155.2(3) of the FAA, if a low-value amount is not collected or paid (receivable or payable) because it is deemed nil, any requirements related to that amount are considered to be met. For example, making no payment of a low-value amount is not considered to be in default of a contract. No interest is owed on a low-value amount that has been deemed nil, so no interest is collected or paid.In accordance with subsection 155.2(4) of the FAA, if a low-value amount is not paid (for payables only) because it is accumulating, any requirements related to that amount are considered to be met while it is accumulating (see sections 5.2 to 5.4 of this guide). The amount is not subject to interest during the accumulation period.",
+    "fr": "Conformément au paragraphe 155.2(3) de la LGFP, en cas de non‐paiement des sommes non perçues ni payées (débiteurs et créditeurs) du fait qu’elles sont réputées nulles, les exigences relatives à ces sommes sont considérées comme respectées. Par exemple, le non‐paiement d’une somme de peu de valeur n’est pas réputé être une violation d’un contrat. Il n’y a aucun intérêt sur les sommes de peu de valeur qui ont été réputées nulles, de sorte qu’aucun intérêt n’est perçu ni payé.Conformément au paragraphe 155.2(4) de la LGFP, en cas de non‐paiement de sommes de peu de valeur (pour les débiteurs seulement) du fait de leur cumul, les exigences relatives à ces sommes sont réputées avoir été respectées pendant la période pour laquelle ces sommes sont accumulées (voir les articles 5.2 à 5.4 du guide). Il n’y a aucun intérêt sur ces sommes pendant la période de cumul.",
+    "anchor": "4",
+    "tag": "chapter"
   },
   {
     "en": "In accordance with subsection 155.2(5) of the FAA, section 155.2 of the FAA and the regulations supersede any provision of any act of Parliament, regulation, order, contract or arrangement, to the extent of any inconsistencies between these instruments. For example, a department has a contract with a supplier that specifies all amounts are to be paid. In accordance with section 155.2 of the FAA, low-value amounts at or below the applicable threshold would be deemed nil and not paid.",
-    "fr": "Conformément au paragraphe 155.2(5) de la LGFP, l’article 155.2 de la LGFP et le règlement l’emportent sur les dispositions incompatibles de toute loi fédérale, règlement, décret, arrêté, contrat ou arrangement et de toute ordonnance. Par exemple, le contrat d’un ministère avec un fournisseur précise que toutes les sommes doivent être payées. Conformément à l’article 155.2 de la LGFP, les sommes de peu de valeur égales ou inférieures au seuil applicable seraient réputées nulles et ne seraient pas payées."
+    "fr": "Conformément au paragraphe 155.2(5) de la LGFP, l’article 155.2 de la LGFP et le règlement l’emportent sur les dispositions incompatibles de toute loi fédérale, règlement, décret, arrêté, contrat ou arrangement et de toute ordonnance. Par exemple, le contrat d’un ministère avec un fournisseur précise que toutes les sommes doivent être payées. Conformément à l’article 155.2 de la LGFP, les sommes de peu de valeur égales ou inférieures au seuil applicable seraient réputées nulles et ne seraient pas payées.",
+    "anchor": "4",
+    "tag": "chapter"
   },
   {
-    "en": "In accordance with subsection 155.2(6) of the FAA, certain amounts are not subject to the low-value amounts legislation as follows:",
-    "fr": "Conformément au paragraphe 155.2(6) de la LGFP, certaines sommes ne sont pas assujetties aux dispositions relatives aux sommes de peu de valeur et au règlement, soit :"
-  },
-  {
-    "en": "The regulations list other exemptions (see section 5.4 of this guide).",
-    "fr": "Le règlement énumère d’autres exemptions (voir la section 5.4 du guide)."
-  },
-  {
-    "en": "The thresholds do not apply to interdepartmental settlement transactions. The regulations only apply to payments by a person to the government, payments by the government to a person, and amounts payable between Crown corporations and the government. See subsection 155.2(1) and paragraph 155.2(6)(a) of the FAA.",
-    "fr": "Les seuils ne s’appliquent pas aux transactions de règlements interministériels. Le règlement s’applique seulement aux paiements par une personne au gouvernement, aux paiements par le gouvernement à une personne, et aux sommes à payer entre des sociétés d’État et le gouvernement. Voir le paragraphe 155.2(1) et l’alinéa 155.2(6)a) de la LGFP."
+    "en": "In accordance with subsection 155.2(6) of the FAA, certain amounts are not subject to the low-value amounts legislation as follows:amounts owed by a third partyFootnote 1 to a Crown corporation or amounts owed by a Crown corporation to a third party amounts related to public debt or interest on public debtamounts owed to or by the government under certain tax statutesFootnote 2The regulations list other exemptions (see section 5.4 of this guide).Application of low-value amount thresholds to interdepartmental settlement transactionsThe thresholds do not apply to interdepartmental settlement transactions. The regulations only apply to payments by a person to the government, payments by the government to a person, and amounts payable between Crown corporations and the government. See subsection 155.2(1) and paragraph 155.2(6)(a) of the FAA.",
+    "fr": "Conformément au paragraphe 155.2(6) de la LGFP, certaines sommes ne sont pas assujetties aux dispositions relatives aux sommes de peu de valeur et au règlement, soit :les sommes à payer par une tierce partieNote en bas de page 1 à une société d’État ou à payer par une telle société à une tierce partie; les sommes liées à la dette publique ou aux intérêts sur celle‐ci;les sommes à payer au gouvernement ou par le gouvernement en vertu de certaines lois fiscalesNote en bas de page 2. Le règlement énumère d’autres exemptions (voir la section 5.4 du guide).Application des seuils aux transactions de règlements interministérielsLes seuils ne s’appliquent pas aux transactions de règlements interministériels. Le règlement s’applique seulement aux paiements par une personne au gouvernement, aux paiements par le gouvernement à une personne, et aux sommes à payer entre des sociétés d’État et le gouvernement. Voir le paragraphe 155.2(1) et l’alinéa 155.2(6)a) de la LGFP.",
+    "anchor": "4",
+    "tag": "chapter"
   },
   {
     "en": "The regulations do not apply to public debt or interest on public debt. In the context of paragraph 155.2(6)(b) of the FAA, public debt refers to the payment of principal and interest related to Canada’s outstanding debt obligations and reflects the borrowing authorities outlined in Part IV of the FAA. For example, low-value amounts for Canada Savings Bonds are included in the definition of “public debt.” Therefore, related bond payables or bond interest amounts of $2.00 or less must be paid. However, payments owed to suppliers, including any interest, are not covered in the definition of “public debt” and are subject to the $2.00 threshold.",
-    "fr": "Le règlement ne s’applique pas à la dette publique ou aux intérêts sur celle‐ci. Dans le contexte de l’alinéa 155.2(6)b) de la LGFP, la dette publique se dit du paiement du principal et des intérêts sur la dette à payer par le Canada et reflète les pouvoirs d’emprunt exposés à la partie IV de la LGFP."
+    "fr": "Le règlement ne s’applique pas à la dette publique ou aux intérêts sur celle‐ci. Dans le contexte de l’alinéa 155.2(6)b) de la LGFP, la dette publique se dit du paiement du principal et des intérêts sur la dette à payer par le Canada et reflète les pouvoirs d’emprunt exposés à la partie IV de la LGFP.Par exemple, les sommes de peu de valeur pour les obligations d’épargne du Canada sont comprises dans la définition de « dette publique ». Par conséquent, les sommes de 2 $ ou moins doivent être payées. Cependant, les sommes à payer aux fournisseurs, y compris les intérêts, ne sont pas visées par cette définition de « dette publique » et sont assujetties au seuil de 2 $.",
+    "anchor": "4",
+    "tag": "chapter"
   },
   {
-    "en": "Under the authority of subsection 155.2(2) of the FAA, the Treasury Board made the regulations, effective . The regulations cover thresholds, payment, accumulation of payments, and exemptions.",
-    "fr": "Par exemple, les sommes de peu de valeur pour les obligations d’épargne du Canada sont comprises dans la définition de « dette publique ». Par conséquent, les sommes de 2 $ ou moins doivent être payées. Cependant, les sommes à payer aux fournisseurs, y compris les intérêts, ne sont pas visées par cette définition de « dette publique » et sont assujetties au seuil de 2 $."
+    "en": "The regulations specify that the amount owed is zero if “deemed to be nil.” An amount is deemed to be nil if an appropriate Minister, or any other person authorized by that Minister, determines the following are at, or below the threshold established by the regulations:",
+    "fr": "Le règlement indique que la somme à payer est zéro si elle est « Réputée nulle ». Une somme est réputée nulle si le ministre compétent, ou la personne qu’il a autorisée, établit que les sommes ci-dessous sont inférieures ou égales au seuil fixé par le règlement :",
+    "anchor": "4.1",
+    "tag": "p"
+  },
+  {
+    "en": "an amount owing by a person to the government (for example, receivables), oran amount payable by the government to a person (including public sector employees)",
+    "fr": "une somme à payer par une personne au gouvernement (par exemple, débiteurs), ouune somme à payer par le gouvernement à une personne (incluant les employés du secteur public)",
+    "anchor": "4.1",
+    "tag": "ul"
+  },
+  {
+    "en": "For receivables, if the amount is zero, there is nothing to collect and nothing to write off. Therefore, the Debt Write-Off Regulations do not apply.",
+    "fr": "Pour les débiteurs, si la somme est zéro, il n’y a rien à percevoir et rien à radier. Le Règlement sur la radiation des créances ne s’applique pas.",
+    "anchor": "4.1",
+    "tag": "p"
+  },
+  {
+    "en": "The same principles apply for payables. Any amount payable by the government that is deemed to be nil is zero.",
+    "fr": "Le principe est le même pour les comptes créditeurs. Toute somme à payer par le gouvernement qui est réputée nulle est zéro.",
+    "anchor": "4.1",
+    "tag": "p"
+  },
+  {
+    "en": "Once an amount is deemed to be nil, it should be removed from accounting records according to the accounting instructions referred to in section 6 of this guide.",
+    "fr": "Dès lors qu’elle est réputée nulle, il faut retirer la somme des registres comptables conformément aux instructions comptables expliquées à la section 6 du guide.",
+    "anchor": "4.1",
+    "tag": "p"
+  },
+  {
+    "en": "In accordance with subsection 155.2(3) of the FAA, if a low-value amount is not collected or paid (receivable or payable) because it is deemed nil, any requirements related to that amount are considered to be met. For example, making no payment of a low-value amount is not considered to be in default of a contract. No interest is owed on a low-value amount that has been deemed nil, so no interest is collected or paid.",
+    "fr": "Conformément au paragraphe 155.2(3) de la LGFP, en cas de non‐paiement des sommes non perçues ni payées (débiteurs et créditeurs) du fait qu’elles sont réputées nulles, les exigences relatives à ces sommes sont considérées comme respectées. Par exemple, le non‐paiement d’une somme de peu de valeur n’est pas réputé être une violation d’un contrat. Il n’y a aucun intérêt sur les sommes de peu de valeur qui ont été réputées nulles, de sorte qu’aucun intérêt n’est perçu ni payé.",
+    "anchor": "4.2",
+    "tag": "p"
+  },
+  {
+    "en": "In accordance with subsection 155.2(4) of the FAA, if a low-value amount is not paid (for payables only) because it is accumulating, any requirements related to that amount are considered to be met while it is accumulating (see sections 5.2 to 5.4 of this guide). The amount is not subject to interest during the accumulation period.",
+    "fr": "Conformément au paragraphe 155.2(4) de la LGFP, en cas de non‐paiement de sommes de peu de valeur (pour les débiteurs seulement) du fait de leur cumul, les exigences relatives à ces sommes sont réputées avoir été respectées pendant la période pour laquelle ces sommes sont accumulées (voir les articles 5.2 à 5.4 du guide). Il n’y a aucun intérêt sur ces sommes pendant la période de cumul.",
+    "anchor": "4.2",
+    "tag": "p"
+  },
+  {
+    "en": "In accordance with subsection 155.2(5) of the FAA, section 155.2 of the FAA and the regulations supersede any provision of any act of Parliament, regulation, order, contract or arrangement, to the extent of any inconsistencies between these instruments. For example, a department has a contract with a supplier that specifies all amounts are to be paid. In accordance with section 155.2 of the FAA, low-value amounts at or below the applicable threshold would be deemed nil and not paid.",
+    "fr": "Conformément au paragraphe 155.2(5) de la LGFP, l’article 155.2 de la LGFP et le règlement l’emportent sur les dispositions incompatibles de toute loi fédérale, règlement, décret, arrêté, contrat ou arrangement et de toute ordonnance. Par exemple, le contrat d’un ministère avec un fournisseur précise que toutes les sommes doivent être payées. Conformément à l’article 155.2 de la LGFP, les sommes de peu de valeur égales ou inférieures au seuil applicable seraient réputées nulles et ne seraient pas payées.",
+    "anchor": "4.3",
+    "tag": "p"
+  },
+  {
+    "en": "In accordance with subsection 155.2(6) of the FAA, certain amounts are not subject to the low-value amounts legislation as follows:",
+    "fr": "Conformément au paragraphe 155.2(6) de la LGFP, certaines sommes ne sont pas assujetties aux dispositions relatives aux sommes de peu de valeur et au règlement, soit :",
+    "anchor": "4.4",
+    "tag": "p"
+  },
+  {
+    "en": "amounts owed by a third partyFootnote 1 to a Crown corporation or amounts owed by a Crown corporation to a third party amounts related to public debt or interest on public debtamounts owed to or by the government under certain tax statutesFootnote 2",
+    "fr": "les sommes à payer par une tierce partieNote en bas de page 1 à une société d’État ou à payer par une telle société à une tierce partie; les sommes liées à la dette publique ou aux intérêts sur celle‐ci;les sommes à payer au gouvernement ou par le gouvernement en vertu de certaines lois fiscalesNote en bas de page 2.",
+    "anchor": "4.4",
+    "tag": "ul"
+  },
+  {
+    "en": "The regulations list other exemptions (see section 5.4 of this guide).",
+    "fr": "Le règlement énumère d’autres exemptions (voir la section 5.4 du guide).",
+    "anchor": "4.4",
+    "tag": "p"
+  },
+  {
+    "en": "Application of low-value amount thresholds to interdepartmental settlement transactionsThe thresholds do not apply to interdepartmental settlement transactions. The regulations only apply to payments by a person to the government, payments by the government to a person, and amounts payable between Crown corporations and the government. See subsection 155.2(1) and paragraph 155.2(6)(a) of the FAA.",
+    "fr": "Application des seuils aux transactions de règlements interministérielsLes seuils ne s’appliquent pas aux transactions de règlements interministériels. Le règlement s’applique seulement aux paiements par une personne au gouvernement, aux paiements par le gouvernement à une personne, et aux sommes à payer entre des sociétés d’État et le gouvernement. Voir le paragraphe 155.2(1) et l’alinéa 155.2(6)a) de la LGFP.",
+    "anchor": "4.4",
+    "tag": "section"
+  },
+  {
+    "en": "The regulations do not apply to public debt or interest on public debt. In the context of paragraph 155.2(6)(b) of the FAA, public debt refers to the payment of principal and interest related to Canada’s outstanding debt obligations and reflects the borrowing authorities outlined in Part IV of the FAA. For example, low-value amounts for Canada Savings Bonds are included in the definition of “public debt.” Therefore, related bond payables or bond interest amounts of $2.00 or less must be paid. However, payments owed to suppliers, including any interest, are not covered in the definition of “public debt” and are subject to the $2.00 threshold.",
+    "fr": "Le règlement ne s’applique pas à la dette publique ou aux intérêts sur celle‐ci. Dans le contexte de l’alinéa 155.2(6)b) de la LGFP, la dette publique se dit du paiement du principal et des intérêts sur la dette à payer par le Canada et reflète les pouvoirs d’emprunt exposés à la partie IV de la LGFP.",
+    "anchor": "4.5",
+    "tag": "p"
+  },
+  {
+    "en": "Under the authority of subsection 155.2(2) of the FAA, the Treasury Board made the regulations, effective April 1, 2015. The regulations cover thresholds, payment, accumulation of payments, and exemptions.",
+    "fr": "En vertu du paragraphe 155.2(2) de la LGFP, le Conseil du Trésor a pris un règlement sur les sommes de peu de valeur, qui est entré en vigueur le 1er avril 2015. Le règlement couvre les seuils, le cumul des paiements et les exemptions.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "The regulations establish two fixed thresholds for low-value amounts owed to or by the government as follows:$0.99 for payments under the Canada Pension Plan, Employment Insurance Act, Old Age Security Act and any associated regulations made under these acts $2.00 in any other case",
+    "fr": "Le règlement établit deux seuils pour les sommes de peu de valeur à payer au gouvernement ou par lui, à savoir :0,99 $ pour les sommes à payer au titre du Régime de pensions du Canada, de l’Assurance emploi et de la Sécurité de la vieillesse, ainsi que des règlements connexes 2 $ dans les autres cas",
+    "anchor": "5",
+    "tag": "chapter"
+  },
+  {
+    "en": "An “accumulation of a payable” occurs when an amount at the applicable threshold or lower is held for a prescribed period of time until it:exceeds the threshold (due to the addition of the same type of payable for the same recipient) and is paid ordoes not exceed the threshold and is deemed nilThe regulations require specific types of payables to be accumulated when below the threshold over a period of time and paid, or thereafter deemed nil, as detailed below under section 5.3. There are no provisions in the regulations to accumulate low-value receivables. Apart from those specifically detailed in the regulations, all other payables and receivables should be deemed nil when they are at or below the applicable threshold.According to the regulations, only specific types of payments must be accumulated, as detailed in the following table.Table 1: accumulation of low-value amountsSpecific type of paymentRegulations referenceApplicable thresholdPeriod to accumulate and either:1) pay within 30 days if threshold reached in period or2) deem nil at end of the periodNoteTable * Note 1Old Age Security, the Allowance and the Allowance for the Survivor are not accumulated but paid outright. In accordance with the Old Age Security Regulations, these payments are rounded to $2.00 if under $2.00 and are paid because they exceed the $0.99 threshold.Return to table 1 note * referrerEmployment InsuranceN/AN/AEmployee Insurance payments do not accumulate. In accordance with the Employment Insurance Act, payments are rounded to the nearest dollar and paid because they exceed the $0.99 threshold.Old Age Security: Pension and Guaranteed Income Supplement3(1)(a)$0.99Up to 12 months after the day on which the amount becomes payabletable 1 note *Canada Pension Plan3(1)(a)$0.99Up to 12 months after the day on which the amount becomes payableVeteran Affairs Canada: client benefits3(1)(a)$2.00Up to 12 months after the day on which the amount becomes payablePublic Services and Procurement Canada, the Royal Canadian Mounted Police (RCMP), and National Defence: pay, allowances and pension payments for current and retired public sector employees and members3(1)(b) to (d)$2.00Up to 12 months after the day on which the amount becomes payable or the end of calendar year in which the amount becomes payable, whichever comes firstThe following provides additional details on interest receivable and payable and also on the combination of low‐value payables.Application of threshold when interest is collected or paid separately from the principal invoiceNo interest is payable on a principal amount if the principal amount is at or below the applicable threshold. This is because the principal amount is deemed nil.Accumulation of interest receivable or payable below the $2.00 thresholdFinal interest, calculated after the principal invoice has been paid, that does not exceed $2.00 is deemed nil.ExamplePrincipal invoice due on May 1: $1,000.00Monthly interest rate: 0.15%Interest receivable for the month of May: $1.50Total principal invoice and interest receivable for the month of May: $1,001.50 ($1.50 interest collectible)Principal invoice paid on June 5: $1,000.00Interest receivable for the month of June: $0.24 (calculated at the end of the month = [0.15% / 31 days * 5 days] * $1,001.50)Total principal invoice and interest receivable at the end of June: $0.24 (interest is deemed nil)When the principal invoice of $1,000.00 is paid on June 5, the interest collectible of $1.50 for the month of May is deemed nil as it is below the $2.00 threshold.The interest collectible of $0.24 for June is calculated at the end of the month and is also deemed nil as it is below the $2.00 threshold.Combination of low-value amount with another payableA low-value payable should be removed from the accounting records at the time it would normally be paid unless the regulations require this type of payable to be accumulated. However, if a department routinely makes a single payment for a number of invoices that are due within the same week, an invoice of $2.00 or lessFootnote 3 can be combined in the single payment. See the Directive on Payments, subsection 4.1.4.3.",
+    "fr": "Il y a « cumul d’un débiteur » lorsqu’une somme égale ou inférieure au seuil applicable est retenue pour une période prescrite jusqu’à ce que :elle dépasse le seuil (en raison de l’ajout d’un débiteur de même nature pour le même bénéficiaire) et est payée, ou;elle ne dépasse pas le seuil et est réputée nulle.Le règlement oblige à cumuler certains types de créditeurs qui sont sous le seuil sur une certaine période, puis à les payer ou à les réputer nuls, comme indiqué sous la section 5.3. Le règlement ne renferme pas de disposition pour le cumul des créditeurs de peu de valeur. À moins d’une exigence précise dans le règlement, tous les autres créditeurs et débiteurs devraient être réputés nuls lorsqu’ils sont au niveau applicable ou à un niveau inférieur.Selon le règlement, seuls certains types de paiements doivent être cumulés, comme détaillé dans le tableau ci-dessous.Tableau 1 : cumul des sommes de peu de valeurNature du paiementRéférence (Règlement)Seuil applicablePériode de cumul et, selon le cas :1) payé dans les 30 jours si le seuil est atteint au cours de la période, ou2) réputé nul à la fin de la périodeNoteNote * du tableau 1La sécurité de la vieillesse, l’allocation et les allocations aux survivants ne sont pas cumulées mais payées immédiatement. Conformément au Règlement sur la sécurité de la vieillesse, ces sommes sont arrondies à 2 $ si elles sont inférieures à 2 $ et sont versées parce qu’elles dépassent le seuil de 0,99 $.Retour à la référence de la note * du tableau 1Prestations d’assurance-emploiS/OS/OLes prestations d’assurance-emploi ne sont pas cumulées. Conformément à la Loi sur l’assurance-emploi, les sommes sont arrondies au dollar près et payées parce qu’elles dépassent le seuil de 0,99 $.Sécurité de la vieillesse : pension et supplément de revenu garanti3(1)a)0,99 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigibleNote * du tableau 1Régime de pensions du Canada3(1)a)0,99 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigibleAnciens Combattants Canada : prestations des clients3(1)a)2,00 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigibleServices publics et Approvisionnement Canada, la Gendarmerie royale du Canada (GRC), et la Défense nationale : salaires, allocations et paiements de pension pour les employés ou les membres du secteur public encore actifs ou retraités3(1)b) à d)2,00 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigible ou jusqu’à la fin de l’année civile au cours de laquelle la somme est devenue exigible, selon la première de ces éventualités à se présenterCe qui suit fournit plus de détail sur les intérêts à recevoir et à payer et aussi sur la combinaison des sommes de peu de valeur.Application du seuil lorsque des intérêts sont à percevoir ou à payer séparément de la facture pour le principalAucun intérêt n’est à payer sur le principal s’il est égal ou inférieur au seuil applicable. C’est parce que la somme du principal est alors réputée nulle.Cumulation d’intérêts qui sont à recevoir ou à payer s’ils sont égaux ou inférieurs au seuil de 2 $Les intérêts finaux, calculés après le règlement de la facture pour le principal, qui ne dépassent pas 2 $, sont réputés nuls.ExempleFacture pour le principal : 1 000 $Taux d’intérêt mensuel : 0,15%Intérêts à recevoir pour le mois de mai : 1,50 $Facture totale pour le principal et intérêts à recevoir pour le mois de mai : 1 001,50 $ (1,50 $ d’intérêts à percevoir)Facture pour le principal payée le 5 juin : 1 000 $Intérêts à percevoir pour le mois de juin : 0,24 $ (calculés à la fin du mois = [0,15% / 31 jours * 5 jours] * 1 001,50 $)Facture totale pour le principal et intérêts à recevoir à la fin du mois de juin : 0,24 $ (l’intérêt est réputé nul)Quand la facture pour le principal de 1 000 $ est payée le 5 juin, l’intérêt à percevoir de 1,50 $ pour le mois de mai est réputé nul car il est inférieur au seuil de 2 $.L’intérêt à percevoir de 0,24 $ pour le mois de juin est calculé à la fin du mois et est aussi réputé nul car il est inférieur au seuil de 2 $.Combinaison d’une somme de peu de valeur à une autre somme à payerUne somme de peu de valeur doit être radiée des registres comptables au moment où elle serait normalement payée à moins que le règlement n’oblige à cumuler ce type de somme à payer. Cependant, si la pratique courante d’un ministère est de faire un paiement unique pour plusieurs factures qui sont à régler au cours de la même semaine, une facture de 2 $ ou moinsNote en bas de page 3 peut être combinée dans le paiement unique. Voir la directive sur les paiements, sous‐section 4.1.4.3.",
+    "anchor": "5",
+    "tag": "chapter"
+  },
+  {
+    "en": "For amounts that are required to accumulate (see section 5.2 of this guide), only amounts payable to the same recipient that are of the same type or payable under the same program, legislation or regulation may accumulate.For example, low-value amounts owed to John Smith have accumulated for the Canada Pension Plan ($0.50) and the Old Age Security Guaranteed Income Supplement ($0.55). Both types of low-value amounts accumulate as described in the regulations, paragraph 3(1)(a). However, during the accumulation periods, the two low-value amounts cannot be combined to exceed the $0.99 threshold and paid, because they are not the same type of payment.",
+    "fr": "Pour les sommes à cumuler (voir la section 5.2 du guide), seules les sommes à payer au même bénéficiaire qui sont de même nature ou qui sont à payer dans le cadre d’un même programme, d’une même loi ou d’un même règlement peuvent être cumulées.Par exemple, les sommes de peu de valeur à payer à Jean Untel sont cumulées pour le Régime de pensions du Canada (0,50 $) et le Supplément de revenu garanti au titre de la Sécurité de la vieillesse (0,55 $). Les deux types de sommes de peu de valeur sont cumulés conformément au règlement, alinéa 3(1)a). Cependant, pendant les périodes de cumul, les deux sommes de peu de valeur ne peuvent être combinées pour dépasser le seuil de 0,99 $ et payées, parce qu’elles ne sont pas de même nature.",
+    "anchor": "5",
+    "tag": "chapter"
+  },
+  {
+    "en": "In addition to the exceptions listed in section 4.4 of this guide, the following items are exempt from the application of low-value amounts thresholds, as outlined in section 4 of the regulations:amounts payable by or to the Crown in currencies other than Canadian dollars (for example, an invoice of US$0.50 from a non-Canadian supplier would not be deemed nil and would be paid)service fees as defined by section 2 of the Service Fees Actimmediate payments in exchange for goods and servicesamounts that are requested in writing by the recipient, if the request is sent to the appropriate Minister within 12 months after the day on which the amount becomes payable",
+    "fr": "En plus des exceptions énumérées à la section 4.4 du guide, les points suivants sont soustraits à l’application des seuils de peu de valeur, par l’effet de l’article 4 du règlement :les sommes à payer par le gouvernement ou à celui‐ci dans une devise autre que le dollar canadien (par exemple, une facture de 0,50 $US d’un fournisseur non canadien ne serait pas réputée nulle et serait payée);les frais d’utilisation au sens de l’article 2 de la Loi sur les frais de service; les paiements immédiats faits en échange de biens et de services;les sommes demandées par écrit par le bénéficiaire, si la demande a été envoyée au ministre compétent dans les 12 mois suivant la date à laquelle elles sont devenues exigibles.",
+    "anchor": "5",
+    "tag": "chapter"
+  },
+  {
+    "en": "In accordance with paragraph 4(d) of the regulations, a recipient may request payment of a low-value amount. The request must be made in writing to the appropriate Minister within 12 months after the day on which the amount becomes payable.To satisfy the requirements of paragraph 4(d), it is sufficient if the request is addressed to the Minister and is sent to the Minister’s department. It is up to the department to put in place any necessary departmental procedures to handle the written request once it is received by the Minister.Public Services and Procurement Canada’s Accounting, Banking and Compensation Branch has the exclusive authority for the Government of Canada to print cheques for requested low-value priority payments. The Receiver General Directive 2016-2 provides specific instructions for departments to request payment of low-value amounts in accordance with paragraph 4(d) of the regulations.",
+    "fr": "Conformément à l’alinéa 4d) du règlement, le bénéficiaire peut demander le paiement d’une somme de peu de valeur. La demande doit être faite par écrit et envoyée au ministre compétent dans les 12 mois suivant la date à laquelle la somme est devenue exigible.Pour satisfaire aux exigences de l’alinéa 4d), il suffit d’envoyer la demande à l’adresse du ministre à son ministère. Il incombe au ministère de mettre en place les procédures nécessaires pour traiter la demande écrite que reçoit le ministre.La direction générale de la comptabilité, gestion bancaire et rémunération à Services publics et Approvisionnement Canada est le seul service autorisé pour le gouvernement du Canada à imprimer des chèques pour les paiements prioritaires de peu de valeur qui sont demandés. La Directive du receveur général 2016-2 renferme des instructions précises pour les ministères de faire une demande de paiement conformément à l’alinéa 4d) du règlement.",
+    "anchor": "5",
+    "tag": "chapter"
+  },
+  {
+    "en": "A low-value amount can be collected or paid in the following circumstances:it is one of the exceptions or exemptions listed in sections 4.4 or 5.4 of this guide, including a payment being requested, as outlined in paragraph 4(d) of the regulationsthe type of payable is required to accumulate, and the accumulated amount exceeds the threshold within the accumulation periodit is combined in a single payment of other invoices, due within the same week, with the total exceeding $2.00the low-value amount is owed by one department to another department (an interdepartmental settlement)",
+    "fr": "Une somme de peu de valeur peut être perçue ou payée dans les circonstances suivantes :elle est visée par l’une des exceptions ou des exemptions énumérées aux sections 4.4 ou 5.4 du guide, et peut comprendre une somme dont le paiement est demandé, selon l’alinéa 4d) du règlement;la somme à payer est de nature cumulable, et le montant cumulé dépasse le seuil pour la période de cumul;elle est combinée en un paiement unique d’autres factures, exigible dans la même semaine, dont le total dépasse 2 $;la somme de peu de valeur est à payer par un ministère à un autre (un règlement interministériel).",
+    "anchor": "5",
+    "tag": "chapter"
   },
   {
     "en": "The regulations establish two fixed thresholds for low-value amounts owed to or by the government as follows:",
-    "fr": "En vertu du paragraphe 155.2(2) de la LGFP, le Conseil du Trésor a pris un règlement sur les sommes de peu de valeur, qui est entré en vigueur le 1 avril 2015. Le règlement couvre les seuils, le cumul des paiements et les exemptions."
+    "fr": "Le règlement établit deux seuils pour les sommes de peu de valeur à payer au gouvernement ou par lui, à savoir :",
+    "anchor": "5.1",
+    "tag": "p"
+  },
+  {
+    "en": "$0.99 for payments under the Canada Pension Plan, Employment Insurance Act, Old Age Security Act and any associated regulations made under these acts $2.00 in any other case",
+    "fr": "0,99 $ pour les sommes à payer au titre du Régime de pensions du Canada, de l’Assurance emploi et de la Sécurité de la vieillesse, ainsi que des règlements connexes 2 $ dans les autres cas",
+    "anchor": "5.1",
+    "tag": "ul"
   },
   {
     "en": "An “accumulation of a payable” occurs when an amount at the applicable threshold or lower is held for a prescribed period of time until it:",
-    "fr": "Le règlement établit deux seuils pour les sommes de peu de valeur à payer au gouvernement ou par lui, à savoir :"
+    "fr": "Il y a « cumul d’un débiteur » lorsqu’une somme égale ou inférieure au seuil applicable est retenue pour une période prescrite jusqu’à ce que :",
+    "anchor": "5.2",
+    "tag": "p"
+  },
+  {
+    "en": "exceeds the threshold (due to the addition of the same type of payable for the same recipient) and is paid ordoes not exceed the threshold and is deemed nil",
+    "fr": "elle dépasse le seuil (en raison de l’ajout d’un débiteur de même nature pour le même bénéficiaire) et est payée, ou;elle ne dépasse pas le seuil et est réputée nulle.",
+    "anchor": "5.2",
+    "tag": "ul"
   },
   {
     "en": "The regulations require specific types of payables to be accumulated when below the threshold over a period of time and paid, or thereafter deemed nil, as detailed below under section 5.3. There are no provisions in the regulations to accumulate low-value receivables. Apart from those specifically detailed in the regulations, all other payables and receivables should be deemed nil when they are at or below the applicable threshold.",
-    "fr": "Il y a « cumul d’un débiteur » lorsqu’une somme égale ou inférieure au seuil applicable est retenue pour une période prescrite jusqu’à ce que :"
+    "fr": "Le règlement oblige à cumuler certains types de créditeurs qui sont sous le seuil sur une certaine période, puis à les payer ou à les réputer nuls, comme indiqué sous la section 5.3. Le règlement ne renferme pas de disposition pour le cumul des créditeurs de peu de valeur. À moins d’une exigence précise dans le règlement, tous les autres créditeurs et débiteurs devraient être réputés nuls lorsqu’ils sont au niveau applicable ou à un niveau inférieur.",
+    "anchor": "5.2",
+    "tag": "p"
   },
   {
     "en": "According to the regulations, only specific types of payments must be accumulated, as detailed in the following table.",
-    "fr": "Le règlement oblige à cumuler certains types de créditeurs qui sont sous le seuil sur une certaine période, puis à les payer ou à les réputer nuls, comme indiqué sous la section 5.3. Le règlement ne renferme pas de disposition pour le cumul des créditeurs de peu de valeur. À moins d’une exigence précise dans le règlement, tous les autres créditeurs et débiteurs devraient être réputés nuls lorsqu’ils sont au niveau applicable ou à un niveau inférieur."
+    "fr": "Selon le règlement, seuls certains types de paiements doivent être cumulés, comme détaillé dans le tableau ci-dessous.",
+    "anchor": "5.2",
+    "tag": "p"
   },
   {
-    "en": "Old Age Security, the Allowance and the Allowance for the Survivor are not accumulated but paid outright. In accordance with the Old Age Security Regulations, these payments are rounded to $2.00 if under $2.00 and are paid because they exceed the $0.99 threshold.",
-    "fr": "Selon le règlement, seuls certains types de paiements doivent être cumulés, comme détaillé dans le tableau ci-dessous."
+    "en": "Table 1: accumulation of low-value amountsSpecific type of paymentRegulations referenceApplicable thresholdPeriod to accumulate and either:1) pay within 30 days if threshold reached in period or2) deem nil at end of the periodNoteTable * Note 1Old Age Security, the Allowance and the Allowance for the Survivor are not accumulated but paid outright. In accordance with the Old Age Security Regulations, these payments are rounded to $2.00 if under $2.00 and are paid because they exceed the $0.99 threshold.Return to table 1 note * referrerEmployment InsuranceN/AN/AEmployee Insurance payments do not accumulate. In accordance with the Employment Insurance Act, payments are rounded to the nearest dollar and paid because they exceed the $0.99 threshold.Old Age Security: Pension and Guaranteed Income Supplement3(1)(a)$0.99Up to 12 months after the day on which the amount becomes payabletable 1 note *Canada Pension Plan3(1)(a)$0.99Up to 12 months after the day on which the amount becomes payableVeteran Affairs Canada: client benefits3(1)(a)$2.00Up to 12 months after the day on which the amount becomes payablePublic Services and Procurement Canada, the Royal Canadian Mounted Police (RCMP), and National Defence: pay, allowances and pension payments for current and retired public sector employees and members3(1)(b) to (d)$2.00Up to 12 months after the day on which the amount becomes payable or the end of calendar year in which the amount becomes payable, whichever comes first",
+    "fr": "Tableau 1 : cumul des sommes de peu de valeurNature du paiementRéférence (Règlement)Seuil applicablePériode de cumul et, selon le cas :1) payé dans les 30 jours si le seuil est atteint au cours de la période, ou2) réputé nul à la fin de la périodeNoteNote * du tableau 1La sécurité de la vieillesse, l’allocation et les allocations aux survivants ne sont pas cumulées mais payées immédiatement. Conformément au Règlement sur la sécurité de la vieillesse, ces sommes sont arrondies à 2 $ si elles sont inférieures à 2 $ et sont versées parce qu’elles dépassent le seuil de 0,99 $.Retour à la référence de la note * du tableau 1Prestations d’assurance-emploiS/OS/OLes prestations d’assurance-emploi ne sont pas cumulées. Conformément à la Loi sur l’assurance-emploi, les sommes sont arrondies au dollar près et payées parce qu’elles dépassent le seuil de 0,99 $.Sécurité de la vieillesse : pension et supplément de revenu garanti3(1)a)0,99 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigibleNote * du tableau 1Régime de pensions du Canada3(1)a)0,99 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigibleAnciens Combattants Canada : prestations des clients3(1)a)2,00 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigibleServices publics et Approvisionnement Canada, la Gendarmerie royale du Canada (GRC), et la Défense nationale : salaires, allocations et paiements de pension pour les employés ou les membres du secteur public encore actifs ou retraités3(1)b) à d)2,00 $Jusqu’à 12 mois suivant la date à laquelle la somme est devenue exigible ou jusqu’à la fin de l’année civile au cours de laquelle la somme est devenue exigible, selon la première de ces éventualités à se présenter",
+    "anchor": "5.2",
+    "tag": "table"
   },
   {
     "en": "The following provides additional details on interest receivable and payable and also on the combination of low‐value payables.",
-    "fr": "La sécurité de la vieillesse, l’allocation et les allocations aux survivants ne sont pas cumulées mais payées immédiatement. Conformément au Règlement sur la sécurité de la vieillesse, ces sommes sont arrondies à 2 $ si elles sont inférieures à 2 $ et sont versées parce qu’elles dépassent le seuil de 0,99 $."
+    "fr": "Ce qui suit fournit plus de détail sur les intérêts à recevoir et à payer et aussi sur la combinaison des sommes de peu de valeur.",
+    "anchor": "5.2",
+    "tag": "p"
   },
   {
-    "en": "No interest is payable on a principal amount if the principal amount is at or below the applicable threshold. This is because the principal amount is deemed nil.",
-    "fr": "Ce qui suit fournit plus de détail sur les intérêts à recevoir et à payer et aussi sur la combinaison des sommes de peu de valeur."
+    "en": "Application of threshold when interest is collected or paid separately from the principal invoiceNo interest is payable on a principal amount if the principal amount is at or below the applicable threshold. This is because the principal amount is deemed nil.Accumulation of interest receivable or payable below the $2.00 thresholdFinal interest, calculated after the principal invoice has been paid, that does not exceed $2.00 is deemed nil.ExamplePrincipal invoice due on May 1: $1,000.00Monthly interest rate: 0.15%Interest receivable for the month of May: $1.50Total principal invoice and interest receivable for the month of May: $1,001.50 ($1.50 interest collectible)Principal invoice paid on June 5: $1,000.00Interest receivable for the month of June: $0.24 (calculated at the end of the month = [0.15% / 31 days * 5 days] * $1,001.50)Total principal invoice and interest receivable at the end of June: $0.24 (interest is deemed nil)When the principal invoice of $1,000.00 is paid on June 5, the interest collectible of $1.50 for the month of May is deemed nil as it is below the $2.00 threshold.The interest collectible of $0.24 for June is calculated at the end of the month and is also deemed nil as it is below the $2.00 threshold.",
+    "fr": "Application du seuil lorsque des intérêts sont à percevoir ou à payer séparément de la facture pour le principalAucun intérêt n’est à payer sur le principal s’il est égal ou inférieur au seuil applicable. C’est parce que la somme du principal est alors réputée nulle.Cumulation d’intérêts qui sont à recevoir ou à payer s’ils sont égaux ou inférieurs au seuil de 2 $Les intérêts finaux, calculés après le règlement de la facture pour le principal, qui ne dépassent pas 2 $, sont réputés nuls.ExempleFacture pour le principal : 1 000 $Taux d’intérêt mensuel : 0,15%Intérêts à recevoir pour le mois de mai : 1,50 $Facture totale pour le principal et intérêts à recevoir pour le mois de mai : 1 001,50 $ (1,50 $ d’intérêts à percevoir)Facture pour le principal payée le 5 juin : 1 000 $Intérêts à percevoir pour le mois de juin : 0,24 $ (calculés à la fin du mois = [0,15% / 31 jours * 5 jours] * 1 001,50 $)Facture totale pour le principal et intérêts à recevoir à la fin du mois de juin : 0,24 $ (l’intérêt est réputé nul)Quand la facture pour le principal de 1 000 $ est payée le 5 juin, l’intérêt à percevoir de 1,50 $ pour le mois de mai est réputé nul car il est inférieur au seuil de 2 $.L’intérêt à percevoir de 0,24 $ pour le mois de juin est calculé à la fin du mois et est aussi réputé nul car il est inférieur au seuil de 2 $.",
+    "anchor": "5.2",
+    "tag": "div"
   },
   {
-    "en": "Final interest, calculated after the principal invoice has been paid, that does not exceed $2.00 is deemed nil.",
-    "fr": "Aucun intérêt n’est à payer sur le principal s’il est égal ou inférieur au seuil applicable. C’est parce que la somme du principal est alors réputée nulle."
-  },
-  {
-    "en": "Principal invoice due on May 1: $1,000.00",
-    "fr": "Les intérêts finaux, calculés après le règlement de la facture pour le principal, qui ne dépassent pas 2 $, sont réputés nuls."
-  },
-  {
-    "en": "Monthly interest rate: 0.15%",
-    "fr": "Facture pour le principal : 1 000 $"
-  },
-  {
-    "en": "Interest receivable for the month of May: $1.50",
-    "fr": "Taux d’intérêt mensuel : 0,15%"
-  },
-  {
-    "en": "Total principal invoice and interest receivable for the month of May: $1,001.50 ($1.50 interest collectible)",
-    "fr": "Intérêts à recevoir pour le mois de mai : 1,50 $"
-  },
-  {
-    "en": "Principal invoice paid on June 5: $1,000.00",
-    "fr": "Facture totale pour le principal et intérêts à recevoir pour le mois de mai : 1 001,50 $ (1,50 $ d’intérêts à percevoir)"
-  },
-  {
-    "en": "Interest receivable for the month of June: $0.24 (calculated at the end of the month = [0.15% / 31 days * 5 days] * $1,001.50)",
-    "fr": "Facture pour le principal payée le 5 juin : 1 000 $"
-  },
-  {
-    "en": "Total principal invoice and interest receivable at the end of June: $0.24 (interest is deemed nil)",
-    "fr": "Intérêts à percevoir pour le mois de juin : 0,24 $ (calculés à la fin du mois = [0,15% / 31 jours * 5 jours] * 1 001,50 $)"
-  },
-  {
-    "en": "When the principal invoice of $1,000.00 is paid on June 5, the interest collectible of $1.50 for the month of May is deemed nil as it is below the $2.00 threshold.",
-    "fr": "Facture totale pour le principal et intérêts à recevoir à la fin du mois de juin : 0,24 $ (l’intérêt est réputé nul)"
-  },
-  {
-    "en": "The interest collectible of $0.24 for June is calculated at the end of the month and is also deemed nil as it is below the $2.00 threshold.",
-    "fr": "Quand la facture pour le principal de 1 000 $ est payée le 5 juin, l’intérêt à percevoir de 1,50 $ pour le mois de mai est réputé nul car il est inférieur au seuil de 2 $."
-  },
-  {
-    "en": "A low-value payable should be removed from the accounting records at the time it would normally be paid unless the regulations require this type of payable to be accumulated. However, if a department routinely makes a single payment for a number of invoices that are due within the same week, an invoice of $2.00 or less can be combined in the single payment. See the , subsection 4.1.4.3.",
-    "fr": "L’intérêt à percevoir de 0,24 $ pour le mois de juin est calculé à la fin du mois et est aussi réputé nul car il est inférieur au seuil de 2 $."
+    "en": "Combination of low-value amount with another payableA low-value payable should be removed from the accounting records at the time it would normally be paid unless the regulations require this type of payable to be accumulated. However, if a department routinely makes a single payment for a number of invoices that are due within the same week, an invoice of $2.00 or lessFootnote 3 can be combined in the single payment. See the Directive on Payments, subsection 4.1.4.3.",
+    "fr": "Combinaison d’une somme de peu de valeur à une autre somme à payerUne somme de peu de valeur doit être radiée des registres comptables au moment où elle serait normalement payée à moins que le règlement n’oblige à cumuler ce type de somme à payer. Cependant, si la pratique courante d’un ministère est de faire un paiement unique pour plusieurs factures qui sont à régler au cours de la même semaine, une facture de 2 $ ou moinsNote en bas de page 3 peut être combinée dans le paiement unique. Voir la directive sur les paiements, sous‐section 4.1.4.3.",
+    "anchor": "5.2",
+    "tag": "section"
   },
   {
     "en": "For amounts that are required to accumulate (see section 5.2 of this guide), only amounts payable to the same recipient that are of the same type or payable under the same program, legislation or regulation may accumulate.",
-    "fr": "Une somme de peu de valeur doit être radiée des registres comptables au moment où elle serait normalement payée à moins que le règlement n’oblige à cumuler ce type de somme à payer. Cependant, si la pratique courante d’un ministère est de faire un paiement unique pour plusieurs factures qui sont à régler au cours de la même semaine, une facture de 2 $ ou moins peut être combinée dans le paiement unique. Voir la , sous‐section 4.1.4.3."
+    "fr": "Pour les sommes à cumuler (voir la section 5.2 du guide), seules les sommes à payer au même bénéficiaire qui sont de même nature ou qui sont à payer dans le cadre d’un même programme, d’une même loi ou d’un même règlement peuvent être cumulées.",
+    "anchor": "5.3",
+    "tag": "p"
   },
   {
     "en": "For example, low-value amounts owed to John Smith have accumulated for the Canada Pension Plan ($0.50) and the Old Age Security Guaranteed Income Supplement ($0.55). Both types of low-value amounts accumulate as described in the regulations, paragraph 3(1)(a). However, during the accumulation periods, the two low-value amounts cannot be combined to exceed the $0.99 threshold and paid, because they are not the same type of payment.",
-    "fr": "Pour les sommes à cumuler (voir la section 5.2 du guide), seules les sommes à payer au même bénéficiaire qui sont de même nature ou qui sont à payer dans le cadre d’un même programme, d’une même loi ou d’un même règlement peuvent être cumulées."
+    "fr": "Par exemple, les sommes de peu de valeur à payer à Jean Untel sont cumulées pour le Régime de pensions du Canada (0,50 $) et le Supplément de revenu garanti au titre de la Sécurité de la vieillesse (0,55 $). Les deux types de sommes de peu de valeur sont cumulés conformément au règlement, alinéa 3(1)a). Cependant, pendant les périodes de cumul, les deux sommes de peu de valeur ne peuvent être combinées pour dépasser le seuil de 0,99 $ et payées, parce qu’elles ne sont pas de même nature.",
+    "anchor": "5.3",
+    "tag": "p"
   },
   {
     "en": "In addition to the exceptions listed in section 4.4 of this guide, the following items are exempt from the application of low-value amounts thresholds, as outlined in section 4 of the regulations:",
-    "fr": "Par exemple, les sommes de peu de valeur à payer à Jean Untel sont cumulées pour le Régime de pensions du Canada (0,50 $) et le Supplément de revenu garanti au titre de la Sécurité de la vieillesse (0,55 $). Les deux types de sommes de peu de valeur sont cumulés conformément au règlement, alinéa 3(1)a). Cependant, pendant les périodes de cumul, les deux sommes de peu de valeur ne peuvent être combinées pour dépasser le seuil de 0,99 $ et payées, parce qu’elles ne sont pas de même nature."
+    "fr": "En plus des exceptions énumérées à la section 4.4 du guide, les points suivants sont soustraits à l’application des seuils de peu de valeur, par l’effet de l’article 4 du règlement :",
+    "anchor": "5.4",
+    "tag": "p"
+  },
+  {
+    "en": "amounts payable by or to the Crown in currencies other than Canadian dollars (for example, an invoice of US$0.50 from a non-Canadian supplier would not be deemed nil and would be paid)service fees as defined by section 2 of the Service Fees Actimmediate payments in exchange for goods and servicesamounts that are requested in writing by the recipient, if the request is sent to the appropriate Minister within 12 months after the day on which the amount becomes payable",
+    "fr": "les sommes à payer par le gouvernement ou à celui‐ci dans une devise autre que le dollar canadien (par exemple, une facture de 0,50 $US d’un fournisseur non canadien ne serait pas réputée nulle et serait payée);les frais d’utilisation au sens de l’article 2 de la Loi sur les frais de service; les paiements immédiats faits en échange de biens et de services;les sommes demandées par écrit par le bénéficiaire, si la demande a été envoyée au ministre compétent dans les 12 mois suivant la date à laquelle elles sont devenues exigibles.",
+    "anchor": "5.4",
+    "tag": "ul"
   },
   {
     "en": "In accordance with paragraph 4(d) of the regulations, a recipient may request payment of a low-value amount. The request must be made in writing to the appropriate Minister within 12 months after the day on which the amount becomes payable.",
-    "fr": "En plus des exceptions énumérées à la section 4.4 du guide, les points suivants sont soustraits à l’application des seuils de peu de valeur, par l’effet de l’article 4 du règlement :"
+    "fr": "Conformément à l’alinéa 4d) du règlement, le bénéficiaire peut demander le paiement d’une somme de peu de valeur. La demande doit être faite par écrit et envoyée au ministre compétent dans les 12 mois suivant la date à laquelle la somme est devenue exigible.",
+    "anchor": "5.5",
+    "tag": "p"
   },
   {
     "en": "To satisfy the requirements of paragraph 4(d), it is sufficient if the request is addressed to the Minister and is sent to the Minister’s department. It is up to the department to put in place any necessary departmental procedures to handle the written request once it is received by the Minister.",
-    "fr": "Conformément à l’alinéa 4d) du règlement, le bénéficiaire peut demander le paiement d’une somme de peu de valeur. La demande doit être faite par écrit et envoyée au ministre compétent dans les 12 mois suivant la date à laquelle la somme est devenue exigible."
+    "fr": "Pour satisfaire aux exigences de l’alinéa 4d), il suffit d’envoyer la demande à l’adresse du ministre à son ministère. Il incombe au ministère de mettre en place les procédures nécessaires pour traiter la demande écrite que reçoit le ministre.",
+    "anchor": "5.5",
+    "tag": "p"
   },
   {
-    "en": "Public Services and Procurement Canada’s Accounting, Banking and Compensation Branch has the exclusive authority for the Government of Canada to print cheques for requested low-value priority payments. The provides specific instructions for departments to request payment of low-value amounts in accordance with paragraph 4(d) of the regulations.",
-    "fr": "Pour satisfaire aux exigences de l’alinéa 4d), il suffit d’envoyer la demande à l’adresse du ministre à son ministère. Il incombe au ministère de mettre en place les procédures nécessaires pour traiter la demande écrite que reçoit le ministre."
+    "en": "Public Services and Procurement Canada’s Accounting, Banking and Compensation Branch has the exclusive authority for the Government of Canada to print cheques for requested low-value priority payments. The Receiver General Directive 2016-2 provides specific instructions for departments to request payment of low-value amounts in accordance with paragraph 4(d) of the regulations.",
+    "fr": "La direction générale de la comptabilité, gestion bancaire et rémunération à Services publics et Approvisionnement Canada est le seul service autorisé pour le gouvernement du Canada à imprimer des chèques pour les paiements prioritaires de peu de valeur qui sont demandés. La Directive du receveur général 2016-2 renferme des instructions précises pour les ministères de faire une demande de paiement conformément à l’alinéa 4d) du règlement.",
+    "anchor": "5.5",
+    "tag": "p"
   },
   {
     "en": "A low-value amount can be collected or paid in the following circumstances:",
-    "fr": "La direction générale de la comptabilité, gestion bancaire et rémunération à Services publics et Approvisionnement Canada est le seul service autorisé pour le gouvernement du Canada à imprimer des chèques pour les paiements prioritaires de peu de valeur qui sont demandés. La renferme des instructions précises pour les ministères de faire une demande de paiement conformément à l’alinéa 4d) du règlement."
+    "fr": "Une somme de peu de valeur peut être perçue ou payée dans les circonstances suivantes :",
+    "anchor": "5.6",
+    "tag": "p"
   },
   {
-    "en": "Accounting for low-value amounts is currently included in the",
-    "fr": "Une somme de peu de valeur peut être perçue ou payée dans les circonstances suivantes :"
+    "en": "it is one of the exceptions or exemptions listed in sections 4.4 or 5.4 of this guide, including a payment being requested, as outlined in paragraph 4(d) of the regulationsthe type of payable is required to accumulate, and the accumulated amount exceeds the threshold within the accumulation periodit is combined in a single payment of other invoices, due within the same week, with the total exceeding $2.00the low-value amount is owed by one department to another department (an interdepartmental settlement)",
+    "fr": "elle est visée par l’une des exceptions ou des exemptions énumérées aux sections 4.4 ou 5.4 du guide, et peut comprendre une somme dont le paiement est demandé, selon l’alinéa 4d) du règlement;la somme à payer est de nature cumulable, et le montant cumulé dépasse le seuil pour la période de cumul;elle est combinée en un paiement unique d’autres factures, exigible dans la même semaine, dont le total dépasse 2 $;la somme de peu de valeur est à payer par un ministère à un autre (un règlement interministériel).",
+    "anchor": "5.6",
+    "tag": "ul"
   },
   {
-    "en": "Members of the public may contact if they have questions about this guide.",
-    "fr": "La comptabilisation des sommes de peu de valeur est expliquée dans le ."
+    "en": "Accounting for low-value amounts is currently included in the Receiver General Manual, Chapter 10, Accounting Entries, Section 10.13.",
+    "fr": "La comptabilisation des sommes de peu de valeur est expliquée dans le Manuel du receveur général, chapitre 10, section 10.13, Traitement comptable des montants de peu de valeur.",
+    "anchor": "6",
+    "tag": "p"
+  },
+  {
+    "en": "Financial Administration Act, Subsection 155.2 Low-ValueAmounts Regulations",
+    "fr": "Loi sur la gestion des finances publiques, article 155.2 Règlement sur les sommes de peu de valeur",
+    "anchor": "7",
+    "tag": "chapter"
+  },
+  {
+    "en": "Directive on Public Money and ReceivablesDirective on Payments",
+    "fr": "Directive sur la gestion des fonds publics et des comptes débiteursDirective sur les paiements",
+    "anchor": "7",
+    "tag": "chapter"
+  },
+  {
+    "en": "Receiver General Directive 2016-2, “Printing priority Receiver General cheques at departmental sites and Public Services and Procurement Canada’s print sites” Receiver General Manual, Chapter 10, Accounting Entries, Section 10.13",
+    "fr": "Directive du receveur général 2016-2, « Impression de chèques prioritaires du receveur général dans les sites ministériels et les sites d’impression de Services publics et Approvisionnement Canada » Manuel du receveur général, chapitre 10, section 10.13, Traitement comptable des montants de peu de valeur",
+    "anchor": "7",
+    "tag": "chapter"
+  },
+  {
+    "en": "Financial Administration Act, Subsection 155.2 Low-ValueAmounts Regulations",
+    "fr": "Loi sur la gestion des finances publiques, article 155.2 Règlement sur les sommes de peu de valeur",
+    "anchor": "7.1",
+    "tag": "ul"
+  },
+  {
+    "en": "Directive on Public Money and ReceivablesDirective on Payments",
+    "fr": "Directive sur la gestion des fonds publics et des comptes débiteursDirective sur les paiements",
+    "anchor": "7.2",
+    "tag": "ul"
+  },
+  {
+    "en": "Receiver General Directive 2016-2, “Printing priority Receiver General cheques at departmental sites and Public Services and Procurement Canada’s print sites” Receiver General Manual, Chapter 10, Accounting Entries, Section 10.13",
+    "fr": "Directive du receveur général 2016-2, « Impression de chèques prioritaires du receveur général dans les sites ministériels et les sites d’impression de Services publics et Approvisionnement Canada » Manuel du receveur général, chapitre 10, section 10.13, Traitement comptable des montants de peu de valeur",
+    "anchor": "7.3",
+    "tag": "ul"
+  },
+  {
+    "en": "Members of the public may contact Treasury Board of Canada Secretariat Public Enquiries if they have questions about this guide.",
+    "fr": "Les membres du public peuvent communiquer avec Demandes de renseignements générales du Secrétariat du Conseil du Trésor du Canada s’ils ont des questions au sujet du présent guide.",
+    "anchor": "8",
+    "tag": "p"
   },
   {
     "en": "Individuals from departments should contact their departmental financial policy group if they have questions about this guide.",
-    "fr": "Les membres du public peuvent communiquer avec s’ils ont des questions au sujet du présent guide."
+    "fr": "Les employés des ministères devraient communiquer avec leur groupe ministériel de la politique financière pour toute question relative à la présente ligne directrice.",
+    "anchor": "8",
+    "tag": "p"
   },
   {
-    "en": "Individuals from a departmental financial policy group may contact for interpretation of this guide.",
-    "fr": "Les employés des ministères devraient communiquer avec leur groupe ministériel de la politique financière pour toute question relative à la présente ligne directrice."
-  },
-  {
-    "en": "the two low-value thresholds ($2.00 and $0.99)",
-    "fr": "Les employés d’un groupe ministériel de la politique financière peuvent communiquer avec en ce qui concerne l’interprétation du présent guide."
-  },
-  {
-    "en": "what can be accumulated, for how long, and the exceptions",
-    "fr": "les deux seuils de peu de valeur (2 $ et 0,99 $);"
-  },
-  {
-    "en": "cases where the low-value amounts legislation and regulations do not apply",
-    "fr": "ce qui peut être cumulé et pour quelle période, avec les exceptions possibles;"
-  },
-  {
-    "en": "an amount owing by a person to the government (for example, receivables), or",
-    "fr": "les cas où le règlement ne s’applique pas."
-  },
-  {
-    "en": "an amount payable by the government to a person (including public sector employees)",
-    "fr": "une somme à payer par une personne au gouvernement (par exemple, débiteurs), ou"
-  },
-  {
-    "en": "amounts owed by a third party to a Crown corporation or amounts owed by a Crown corporation to a third party",
-    "fr": "une somme à payer par le gouvernement à une personne (incluant les employés du secteur public)"
-  },
-  {
-    "en": "amounts related to public debt or interest on public debt",
-    "fr": "les sommes à payer par une tierce partie à une société d’État ou à payer par une telle société à une tierce partie;"
-  },
-  {
-    "en": "amounts owed to or by the government under certain tax statutes",
-    "fr": "les sommes liées à la dette publique ou aux intérêts sur celle‐ci;"
-  },
-  {
-    "en": "$0.99 for payments under the , , and any associated regulations made under these acts",
-    "fr": "les sommes à payer au gouvernement ou par le gouvernement en vertu de certaines lois fiscales ."
-  },
-  {
-    "en": "$2.00 in any other case",
-    "fr": "0,99 $ pour les sommes à payer au titre du , de et de la , ainsi que des règlements connexes"
-  },
-  {
-    "en": "exceeds the threshold (due to the addition of the same type of payable for the same recipient) and is paid or",
-    "fr": "2 $ dans les autres cas"
-  },
-  {
-    "en": "does not exceed the threshold and is deemed nil",
-    "fr": "elle dépasse le seuil (en raison de l’ajout d’un débiteur de même nature pour le même bénéficiaire) et est payée, ou;"
-  },
-  {
-    "en": "amounts payable by or to the Crown in currencies other than Canadian dollars (for example, an invoice of US$0.50 from a non-Canadian supplier would not be deemed nil and would be paid)",
-    "fr": "elle ne dépasse pas le seuil et est réputée nulle."
-  },
-  {
-    "en": "service fees as defined by section 2 of the",
-    "fr": "les sommes à payer par le gouvernement ou à celui‐ci dans une devise autre que le dollar canadien (par exemple, une facture de 0,50 $US d’un fournisseur non canadien ne serait pas réputée nulle et serait payée);"
-  },
-  {
-    "en": "immediate payments in exchange for goods and services",
-    "fr": "les frais d’utilisation au sens de l’article 2 de la ;"
-  },
-  {
-    "en": "amounts that are requested in writing by the recipient, if the request is sent to the appropriate Minister within 12 months after the day on which the amount becomes payable",
-    "fr": "les paiements immédiats faits en échange de biens et de services;"
-  },
-  {
-    "en": "it is one of the exceptions or exemptions listed in sections 4.4 or 5.4 of this guide, including a payment being requested, as outlined in paragraph 4(d) of the regulations",
-    "fr": "les sommes demandées par écrit par le bénéficiaire, si la demande a été envoyée au ministre compétent dans les 12 mois suivant la date à laquelle elles sont devenues exigibles."
-  },
-  {
-    "en": "the type of payable is required to accumulate, and the accumulated amount exceeds the threshold within the accumulation period",
-    "fr": "elle est visée par l’une des exceptions ou des exemptions énumérées aux sections 4.4 ou 5.4 du guide, et peut comprendre une somme dont le paiement est demandé, selon l’alinéa 4d) du règlement;"
-  },
-  {
-    "en": "it is combined in a single payment of other invoices, due within the same week, with the total exceeding $2.00",
-    "fr": "la somme à payer est de nature cumulable, et le montant cumulé dépasse le seuil pour la période de cumul;"
-  },
-  {
-    "en": "the low-value amount is owed by one department to another department (an interdepartmental settlement)",
-    "fr": "elle est combinée en un paiement unique d’autres factures, exigible dans la même semaine, dont le total dépasse 2 $;"
-  },
-  {
-    "en": ", Subsection 155.2",
-    "fr": "la somme de peu de valeur est à payer par un ministère à un autre (un règlement interministériel)."
-  },
-  {
-    "en": ", “Printing priority Receiver General cheques at departmental sites and Public Services and Procurement Canada’s print sites”",
-    "fr": ", article 155.2"
+    "en": "Individuals from a departmental financial policy group may contact Financial Management Enquiries for interpretation of this guide.",
+    "fr": "Les employés d’un groupe ministériel de la politique financière peuvent communiquer avec Demandes de renseignements du Secteur de la gestion financière en ce qui concerne l’interprétation du présent guide.",
+    "anchor": "8",
+    "tag": "p"
   }
 ]

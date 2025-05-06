@@ -1,134 +1,20 @@
 [
   {
     "en": "The procedures and subsections are as follows:",
-    "fr": "Voici les procédures et les sous sections."
+    "fr": "Voici les procédures et les sous sections.",
+    "anchor": "J.2.1",
+    "tag": "p"
   },
   {
-    "en": "Overall monetary and non-monetary value; and",
-    "fr": "leur valeur monétaire et non monétaire globale"
+    "en": "ProcedureSubsectionThe security categorization processJ.2.2General security categoriesJ.2.3Information confidentiality categoriesJ.2.4",
+    "fr": "ProcédureSous-sectionLe processus de catégorisation de la sécuritéJ.2.2Catégories générales de sécuritéJ.2.3Catégories de confidentialité de l’informationJ.2.4",
+    "anchor": "J.2.1",
+    "tag": "table"
   },
   {
-    "en": "The impact that could result from unauthorized destruction, theft or removal;",
-    "fr": "les incidences pouvant résulter de la destruction non autorisée, du vol ou du retrait."
-  },
-  {
-    "en": "This standard takes effect on July 1, 2019.",
-    "fr": "La présente Norme entre en vigueur le 1 juillet, 2019."
-  },
-  {
-    "en": "This standard provides details on the requirements set out in subsection 4.3.1.",
-    "fr": "La présente Norme décrit les exigences énoncées dans la sous section 4.3.1."
-  },
-  {
-    "en": "is as follows:",
-    "fr": "Voici"
-  },
-  {
-    "en": "Examine separately the potential for injury that results from a loss of confidentiality, integrity or availability.",
-    "fr": "Examiner séparément le préjudice potentiel résultant d’une perte de confidentialité, d’intégrité ou de disponibilité."
-  },
-  {
-    "en": "Assign security categories as follows:",
-    "fr": "Attribuer une catégorie de sécurité comme suit :"
-  },
-  {
-    "en": "A single security category that indicates the overall impact of a compromise (see subsection J.2.3); or",
-    "fr": "une seule catégorie de sécurité qui indique l’incidence globale d’une compromission (voir la sous section J.2.3);"
-  },
-  {
-    "en": "Separate security categories that indicate potential impacts of losses of confidentiality, integrity and availability (see subsection J.2.4), as applicable.",
-    "fr": "des catégories distinctes pour indiquer les incidences potentielles de la perte de confidentialité, d’intégrité et de disponibilité (voir la sous section J.2.4), selon le cas."
-  },
-  {
-    "en": "Apply the following considerations, as appropriate, when assigning a security category:",
-    "fr": "Les éléments à prendre en considération qui suivent doivent être appliqués, selon le cas, au moment d’attribuer une catégorie de sécurité :"
-  },
-  {
-    "en": "Confidentiality pertains mainly to information but can also pertain to assets;",
-    "fr": "les préoccupations relatives à la confidentialité portent principalement sur les ressources documentaires et, dans certains cas, les biens;"
-  },
-  {
-    "en": "The security category of services pertains mainly to their availability but can also pertain to their integrity; and",
-    "fr": "la catégorisation de sécurité des services se rapporte surtout à leur disponibilité, mais peut aussi considérer leur intégrité."
-  },
-  {
-    "en": "Assigning a security category for information and assets must also consider the following:",
-    "fr": "La catégorisation de sécurité des renseignements et des biens doit aussi prendre en compte :"
-  },
-  {
-    "en": "The security category for information or asset repositories reflects the impact of aggregation, where more significant injury may occur when a group of information resources or assets is compromised;",
-    "fr": "Pour les dépôts de renseignements ou de biens, la catégorisation de sécurité tient compte des incidences d’un regroupement, où un préjudice plus important peut se produire si un groupe de ressources documentaires ou de biens est compromis."
-  },
-  {
-    "en": "The security category determines, in part, security requirements and, consequently, needs to balance the risk of injury against the cost of applying safeguards throughout the life cycle of information, assets, facilities or services; and",
-    "fr": "La catégorisation de sécurité détermine en partie les exigences de sécurité et doit donc établir un équilibre entre le risque de préjudice et le coût de l’application des mesures de protection tout au long du cycle de vie des renseignements, des biens, des installations ou des services."
-  },
-  {
-    "en": "From a confidentiality standpoint, the security category for information considers the exemption and exclusion criteria of the Access to Information Act and the Privacy Act to ensure that resources are not applied to protect information that can be made public.",
-    "fr": "Du point de vue de la confidentialité, la catégorisation de sécurité de l’information tient compte des critères de dispense et d’exclusion de la ou de la afin de garantir qu’aucune ressource n’est destinée à protéger de l’information pouvant être rendue publique."
-  },
-  {
-    "en": "(impact levels) are as follows:",
-    "fr": "Voici les (niveaux d’incidence)."
-  },
-  {
-    "en": "Information, assets and services are categorized as “very high,” “high,” “medium” or “low” impact to reflect the degree of injury that could reasonably be expected as a result of a loss of confidentiality (resulting from unauthorized disclosure), loss of integrity (resulting from unauthorized modification or destruction), or loss of availability (resulting from unauthorized removal or other disruption):",
-    "fr": "L’information, les biens et les services sont classés dans les catégories d’incidence « très élevée », « élevée », « moyenne » ou « faible » pour refléter le degré de préjudice qui peut vraisemblablement résulter d’une perte de confidentialité (résultant d’une divulgation non autorisée), d’intégrité (p. ex., résultant d’une modification ou destruction non autorisées) ou de disponibilité (résultant du retrait non autorisé ou d’autres perturbations) :"
-  },
-  {
-    "en": "Applies when a compromise could reasonably be expected to cause severe to exceptionally grave injury;",
-    "fr": "S’applique si une compromission risque vraisemblablement de causer un préjudice grave, sinon exceptionnellement grave."
-  },
-  {
-    "en": "Applies when a compromise could reasonably be expected to cause serious to severe injury;",
-    "fr": "S’applique lorsqu’une compromission pourrait raisonnablement causer un préjudice allant de sérieux à grave."
-  },
-  {
-    "en": "Applies when a compromise could reasonably be expected to cause moderate to serious injury; and",
-    "fr": "S’applique lorsqu’une compromission pourrait raisonnablement causer un préjudice allant de modéré à sérieux."
-  },
-  {
-    "en": "Applies when a compromise could reasonably be expected to cause limited to moderate injury.",
-    "fr": "S’applique lorsqu’une compromission pourrait raisonnablement causer un préjudice allant de limité à modéré."
-  },
-  {
-    "en": "Information, assets and services are considered non-sensitive if no injury would result from their compromise. For the purpose of assigning a security category, such information, assets and services can be assigned an impact level of “low.”",
-    "fr": "Les renseignements, les biens et les services dont la compromission ne causerait aucun préjudice sont considérés comme étant de nature non délicate. Aux fins de l’attribution d’une catégorie de sécurité, de tels renseignements, biens et services peuvent se voir attribuer un niveau d’incidence « faible »."
-  },
-  {
-    "en": "are as follows:",
-    "fr": "Voici les ."
-  },
-  {
-    "en": "Information is categorized as “classified” (that is, “Confidential,” “Secret” or “Top Secret”) when unauthorized disclosure could reasonably be expected to cause injury to the national interest:",
-    "fr": "Un renseignement est catégorisé comme « classifié » (c’est à dire, « confidentiel », « secret » ou « très secret ») lorsque l’on peut raisonnablement s’attendre à ce que leur divulgation non autorisée porte atteinte à l’intérêt national :"
-  },
-  {
-    "en": "Applies to the very limited amount of information when unauthorized disclosure could reasonably be expected to cause exceptionally grave injury to the national interest;",
-    "fr": "S’applique à la quantité très limitée de renseignements dont on pourrait s’attendre raisonnablement à ce que la divulgation non autorisée porte un préjudice exceptionnellement grave à l’intérêt national."
-  },
-  {
-    "en": "Applies to information when unauthorized disclosure could reasonably be expected to cause serious injury to the national interest; and",
-    "fr": "S’applique aux renseignements dont on pourrait s’attendre raisonnablement à ce que la divulgation non autorisée pourrait causer un préjudice grave à l’intérêt national."
-  },
-  {
-    "en": "Applies when unauthorized disclosure could reasonably be expected to cause limited or moderate injury to the national interest;",
-    "fr": "S’applique lorsque l’on pourrait raisonnablement s’attendre à ce qu’une divulgation non autorisée cause un préjudice limité ou modéré à l’intérêt national."
-  },
-  {
-    "en": "Information is categorized as “Protected A,” “Protected B” or “Protected C” when unauthorized disclosure could reasonably be expected to cause injury outside of the national interest:",
-    "fr": "Les renseignements sont classés dans la catégorie « Protégé A », « Protégé B » ou « Protégé C » lorsque l’on pourrait raisonnablement s’attendre à ce que leur divulgation non autorisée cause un préjudice à des intérêts autres que l’intérêt national :"
-  },
-  {
-    "en": "Applies to the very limited amount of information when unauthorized disclosure could reasonably be expected to cause extremely grave injury outside the national interest, for example, loss of life;",
-    "fr": "S’applique à un nombre très restreint de renseignements dont on pourrait raisonnablement s’attendre à ce que la divulgation non autorisée cause un préjudice extrêmement grave à des intérêts autres que l’intérêt national, par exemple, la perte de vie."
-  },
-  {
-    "en": "Applies to information when unauthorized disclosure could reasonably be expected to cause serious injury outside the national interest, for example, loss of reputation or competitive advantage; and",
-    "fr": "S’applique aux renseignements dont on pourrait vraisemblablement s’attendre à ce que la divulgation non autorisée cause un préjudice sérieux à des intérêts autres que l’intérêt national, par exemple, la perte de réputation ou d’avantage concurrentiel."
-  },
-  {
-    "en": "Applies to information when unauthorized disclosure could reasonably be expected to cause limited or moderate injury outside the national interest, for example, disclosure of an exact salary figure.",
-    "fr": "S’applique aux renseignements on pourrait vraisemblablement s’attendre à ce que la divulgation non autorisée cause un préjudice limité ou modéré à des intérêts autres que l’intérêt national, par exemple, la divulgation d’un salaire exact."
+    "en": "Overall monetary and non-monetary value; andThe impact that could result from unauthorized destruction, theft or removal;",
+    "fr": "leur valeur monétaire et non monétaire globaleles incidences pouvant résulter de la destruction non autorisée, du vol ou du retrait.",
+    "anchor": "J.2.2.3.3",
+    "tag": "ol"
   }
 ]

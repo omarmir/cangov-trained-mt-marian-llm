@@ -1,70 +1,20 @@
 [
   {
     "en": "Legislation",
-    "fr": "Loi"
+    "fr": "Loi",
+    "anchor": "7.1",
+    "tag": "p"
+  },
+  {
+    "en": "Federal Public Sector Labour Relations ActFinancial Administration ActPublic Service Employment Act",
+    "fr": "Loi sur l’emploi dans la fonction publiqueLoi sur la gestion des finances publiquesLoi sur les relations de travail dans le secteur public fédéral",
+    "anchor": "7.1",
+    "tag": "ul"
   },
   {
     "en": "For interpretation of any aspect of this directive, contact your departmental corporate labour relations or compensation officials. If necessary, departmental corporate labour relations or compensation officials may contact:",
-    "fr": "Gestion de la rémunération et de la négociation collective Conditions d’emploi et relations de travail Bureau du dirigeant principal des ressources humaines Secrétariat du Conseil du Trésor du Canada Courriel :"
-  },
-  {
-    "en": "Compensation and Collective Bargaining Management Employment Conditions and Labour Relations Office of the Chief Human Resources Officer Treasury Board of Canada Secretariat Email:",
-    "fr": "La présente directive entre en vigueur le 1er avril 2020."
-  },
-  {
-    "en": "This directive takes effect on April 1, 2020.",
-    "fr": "La présente directive remplace la du 1er avril 2009."
-  },
-  {
-    "en": "This directive replaces the dated April 1, 2009.",
-    "fr": "La présente directive est émise en vertu des autorisations ou des pouvoirs figurant à la section 2 de la ."
-  },
-  {
-    "en": "This directive is issued pursuant to the authorities indicated in section 2 of the .",
-    "fr": "L’objectif de la présente directive est d’assurer l’administration rigoureuse, uniforme, efficace et équitable des conditions d’emploi des personnes occupant des postes de certains niveaux et groupes exclus ou non représentés."
-  },
-  {
-    "en": "The objective of this directive is to ensure accurate, consistent, effective and equitable administration of the terms and conditions of employment for persons in certain excluded or unrepresented groups and levels.",
-    "fr": "Les résultats attendus de la présente directive sont les suivants :"
-  },
-  {
-    "en": "The expected results of this directive are as follows:",
-    "fr": "les personnes occupant des postes de certains niveaux et groupes exclus ou non représentés reçoivent une rémunération monétaire et non monétaire appropriée;"
-  },
-  {
-    "en": "Persons employed in certain excluded or unrepresented groups and levels receive appropriate monetary and non-monetary compensation; and",
-    "fr": "les conditions d’emploi sont mises en pratique de façon opportune, transparente, uniforme et équitable."
-  },
-  {
-    "en": "The terms and conditions of employment are applied in a timely, transparent, consistent and equitable manner.",
-    "fr": "Lorsqu’il y a conflit ou incompatibilité entre une disposition de la convention collective pertinente et la présente directive ou un autre instrument de politique du Conseil du Trésor précisant les conditions d’emploi, les dispositions de la présente directive ont préséance."
-  },
-  {
-    "en": "Where there is conflict or incompatibility between a provision of the relevant collective agreement and this directive or another policy instrument of the Treasury Board specifying terms and conditions of employment, the provisions of this directive take precedence.",
-    "fr": "Le dirigeant des ressources humaines est responsable d’assurer l’administration exacte, uniforme et opportune des conditions d’emploi des employés."
-  },
-  {
-    "en": "The head of human resources is responsible for ensuring that employees receive accurate, consistent and timely administration of their terms and conditions of employment.",
-    "fr": "Les gestionnaires ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Managers are responsible for the following:",
-    "fr": "fournir aux employés des renseignements sur les conditions de leur emploi, lesquelles sont énoncées dans la présente directive, dans les conventions collectives et dans les autres instruments de politique du Conseil du Trésor;"
-  },
-  {
-    "en": "Providing employees with information on the terms and conditions of their employment, which are contained in this directive, in collective agreements, and in other Treasury Board policy instruments; and",
-    "fr": "administrer les conditions d’emploi, lesquelles sont énoncées dans la présente directive, dans les conventions collectives et dans les autres instruments de politique du Conseil du Trésor."
-  },
-  {
-    "en": "Administering the terms and conditions of employment, which are contained in this directive, in collective agreements, and in other Treasury Board policy instruments.",
-    "fr": "Le rôle des autres organisations gouvernementales au regard de la présente directive est décrit à la section 5 de la ."
-  },
-  {
-    "en": "The roles of other government organizations in relation to this directive are described in section 5 of the .",
-    "fr": "La présente directive s’applique aux personnes et aux organisations figurant à la section 6 de la ."
-  },
-  {
-    "en": "This directive applies to persons and organizations described in section 6 of the .",
-    "fr": "Pour toute question relative à l’interprétation de la présente directive, veuillez communiquer avec vos agents ministériels des relations de travail ou de la rémunération. Au besoin, les agents ministériels des relations de travail ou de la rémunération peuvent communiquer avec les services suivants :"
+    "fr": "Gestion de la rémunération et de la négociation collective Conditions d’emploi et relations de travail Bureau du dirigeant principal des ressources humaines Secrétariat du Conseil du Trésor du Canada Courriel : Interprétations@tbs-sct.gc.ca",
+    "anchor": "8.1",
+    "tag": "p"
   }
 ]

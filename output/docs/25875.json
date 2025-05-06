@@ -1,230 +1,356 @@
 [
   {
-    "en": "The Treasury Board of Canada Secretariat is currently reviewing the to realign the dates within the standard to the timelines of the Web Renewal Initiative.",
-    "fr": "Le Secrétariat du Conseil du Trésor révise actuellement la afin d’harmoniser les dates énoncées dans la Norme avec les échéanciers de l’Initiative de renouvellement du Web."
+    "en": "1.1 This standard takes effect on July 1, 2012, and was updated on March 31, 2013.",
+    "fr": "1.1 La présente Norme est entrée en vigueur le 1er juillet 2012, et elle a été révisée le 31 mars 2013.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Common Services Policy: Rescinded May 13, 2021 with the exception of subsection 6.5.3, Guard Services, in Appendix E: Mandatory Services which will remain in effect until March 31, 2023. On April 1, 2023, the Common Services policy will be rescinded in its entirety and archived.",
-    "fr": "Politique sur les services communs: Annulée le 13 mai 2021, à l’exception du paragraphe 6.5.3, Services de commissionnaires, à l’Appendice E : Services obligatoires, qui demeureront en vigueur jusqu’au 31 mars 2023. Le 1er avril 2023, la Politique sur les services communs sera annulée dans son intégralité et sera archivée."
+    "en": "Financial Administration Act",
+    "fr": "Loi sur la gestion des finances publiques",
+    "anchor": "10",
+    "tag": "section"
   },
   {
-    "en": "This standard takes effect on July 1, 2012, and was updated on March 31, 2013.",
-    "fr": "La présente Norme est entrée en vigueur le 1 juillet 2012, et elle a été révisée le 31 mars 2013."
+    "en": "Common Services PolicyCommunications Policy of the Government of CanadaDirective on the Management of Information TechnologyDirective on Official Languages for Communications and ServicesDirective on Privacy PracticesFederal Identity Program PolicyFoundation Framework for Treasury Board PoliciesFramework for the Management of CompliancePolicy on EvaluationPolicy Framework for Service Improvement in the Government of CanadaPolicy on Government SecurityPolicy on Information ManagementPolicy on Internal AuditPolicy on Management of Information TechnologyPolicy on Privacy ProtectionPolicy on Official LanguagesStandard on Geospatial DataStandard for Managing MetadataStandard on Optimizing Websites and Applications for Mobile DevicesStandard on Privacy and Web AnalyticsStandard on Social Media Account ManagementStandard on Web AccessibilityStandard on Web Interoperability",
+    "fr": "Cadre principal des politiques du Conseil du TrésorCadre stratégique pour l'amélioration de la prestation des services au gouvernement du CanadaCadre stratégique sur la gestion de la conformitéDirective sur la gestion des technologies de l'informationDirective sur les langues officielles pour les communications et les servicesDirective sur les pratiques relatives à la protection de la vie privéeNorme sur l’optimisation des sites Web et des applications pour appareils mobilesNorme sur la gestion des comptes de médias sociauxNorme sur la protection de la vie privée et le Web analytiqueNorme sur l'accessibilité des sites WebNorme sur les données géospatialesNorme pour la gestion des métadonnéesNorme sur l'interopérabilité du WebPolitique de communication du gouvernement du CanadaPolitique sur la gestion de l'informationPolitique sur la gestion des technologies de l'informationPolitique sur la protection de la vie privéePolitique sur la sécurité du gouvernementPolitique sur la vérification internePolitique sur le programme de coordination de l’image de marquePolitique sur les langues officiellesPolitique sur les services communsPolitique sur l'évaluation",
+    "anchor": "10",
+    "tag": "section"
   },
   {
-    "en": "This standard applies to “departments” as defined in section 2 of the , with the exception of paragraphs (b) and (c), and unless excluded by specific acts, regulations or Orders in Council.",
-    "fr": "La présente Norme s'applique aux ministères mentionnés à l’article 2 de la , à l’exception des alinéas et , à moins qu'ils ne soient exclus par une loi, un règlement ou un décret."
+    "en": "Atom Syndication Format [RFC 4287]HTML5RDFa 1.1 LiteSchema.orgUTF-8 [RFC 3629]Web Content Accessibility Guidelines (WCAG) 2.0",
+    "fr": "Format de syndication Atom [CFR 4287] (en anglais seulement)HTML5 (en anglais seulement)RDFa 1.1 Lite (en anglais seulement)Schema.org (en anglais seulement)UTF-8 [CFR 3629] (en anglais seulement)Lignes directrices sur l’accessibilité du contenu Web (WCAG) 2.0",
+    "anchor": "10",
+    "tag": "section"
   },
   {
-    "en": "Section 6 applies to all websites and Web applications and Web pages that:",
-    "fr": "La section 6 s’applique à tous les sites et applications Web du gouvernement du Canada :"
+    "en": "Financial Administration Act",
+    "fr": "Loi sur la gestion des finances publiques",
+    "anchor": "10.1",
+    "tag": "ul"
   },
   {
-    "en": "Section 6.1 does not apply to:",
-    "fr": "L’article 6.1 ne s’applique pas à ce qui suit :"
+    "en": "Common Services PolicyCommunications Policy of the Government of CanadaDirective on the Management of Information TechnologyDirective on Official Languages for Communications and ServicesDirective on Privacy PracticesFederal Identity Program PolicyFoundation Framework for Treasury Board PoliciesFramework for the Management of CompliancePolicy on EvaluationPolicy Framework for Service Improvement in the Government of CanadaPolicy on Government SecurityPolicy on Information ManagementPolicy on Internal AuditPolicy on Management of Information TechnologyPolicy on Privacy ProtectionPolicy on Official LanguagesStandard on Geospatial DataStandard for Managing MetadataStandard on Optimizing Websites and Applications for Mobile DevicesStandard on Privacy and Web AnalyticsStandard on Social Media Account ManagementStandard on Web AccessibilityStandard on Web Interoperability",
+    "fr": "Cadre principal des politiques du Conseil du TrésorCadre stratégique pour l'amélioration de la prestation des services au gouvernement du CanadaCadre stratégique sur la gestion de la conformitéDirective sur la gestion des technologies de l'informationDirective sur les langues officielles pour les communications et les servicesDirective sur les pratiques relatives à la protection de la vie privéeNorme sur l’optimisation des sites Web et des applications pour appareils mobilesNorme sur la gestion des comptes de médias sociauxNorme sur la protection de la vie privée et le Web analytiqueNorme sur l'accessibilité des sites WebNorme sur les données géospatialesNorme pour la gestion des métadonnéesNorme sur l'interopérabilité du WebPolitique de communication du gouvernement du CanadaPolitique sur la gestion de l'informationPolitique sur la gestion des technologies de l'informationPolitique sur la protection de la vie privéePolitique sur la sécurité du gouvernementPolitique sur la vérification internePolitique sur le programme de coordination de l’image de marquePolitique sur les langues officiellesPolitique sur les services communsPolitique sur l'évaluation",
+    "anchor": "10.2",
+    "tag": "ul"
   },
   {
-    "en": "Section 6.1 is to be implemented in phases and applies as follows:",
-    "fr": "L’article 6.1 sera mis en œuvre de façon progressive et s’applique comme suit :"
-  },
-  {
-    "en": "Sections and relating to the role of the Treasury Board Secretariat in monitoring compliance and directing consequences for non-compliance do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with the standard within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance.",
-    "fr": "Les articles et qui sont liés au rôle confié au Secrétariat du Conseil du Trésor d’effectuer le suivi de la conformité et de prescrire des conséquences pour la non-conformité, ne s’appliquent pas au Bureau du vérificateur général, au Commissariat à la protection de la vie privée, au Commissariat à l’information, au Bureau du Directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l’intégrité du secteur public. C’est aux administrateurs généraux de ces organisations qu’incombe l’entière responsabilité de surveiller et d’assurer le respect de la présente Norme dans leur organisation et, en cas de non-conformité, d’adopter les mesures nécessaires conformément aux instruments du Conseil du Trésor qui fournissent des principes et une orientation en ce qui a trait à la gestion de la conformité."
-  },
-  {
-    "en": "The Web presence of the Government of Canada is highly complex with each department maintaining a unique online presence that provides a wide variety of content and applications to support informational and transactional services for individuals and businesses. The Web channel is an important part of the Government of Canada’s commitment to multi-channel access and service delivery.",
-    "fr": "La présence Web du gouvernement du Canada est très complexe, car chaque ministère maintient une présence en ligne unique, ce qui fournit une grande variété de contenu et d’applications pour appuyer les services informationnels et transactionnels offerts aux personnes et aux entreprises. Le mode de prestation par Internet est une partie importante de l’engagement du gouvernement du Canada envers l’accessibilité et la prestation de services à mode multiple."
-  },
-  {
-    "en": "Web content is delivered through a variety of technologies that are ever evolving. As Canadians are becoming increasingly reliant upon mobile devices and data-centric technologies, the Government of Canada is committed to ensuring the re-use and the portability of Web content across websites and Web applications, platforms, and devices.",
-    "fr": "Le contenu Web est présenté au moyen d’une variété de technologies en constante évolution. Comme les Canadiens dépendent de plus en plus des appareils mobiles et des technologies centrées sur les données, le gouvernement du Canada s’engage à assurer la réutilisation et la portabilité du contenu Web dans les sites Web, les applications Web, les plateformes et les appareils."
-  },
-  {
-    "en": "For the purposes of this standard, Web interoperability is defined as the ability of different types of platforms, devices, networks, and applications to work together effectively, without prior communication, to find, retrieve, exchange, and re-use Web content in a useful and meaningful manner.",
-    "fr": "Aux fins de la présente Norme, l’interopérabilité du Web est définie comme la capacité des différents types de plateformes, d’appareils, de réseaux et d’applications à collaborer efficacement, sans communication préalable, pour trouver, récupérer, échanger et réutiliser un contenu Web de façon utile et significative."
-  },
-  {
-    "en": "This standard supports the and the .",
-    "fr": "La présente Norme appuie la et la ."
-  },
-  {
-    "en": "This standard is issued under the authority of section 7 of the by the Secretary of the Treasury Board pursuant to subsection 6(4) of the and in section 3.5 of the and s.3.4 of the .",
-    "fr": "La présente Norme est publiée en vertu de l’article 7 de la par la secrétaire du Secrétariat du Conseil du Trésor, conformément au paragraphe 6(4) de la , et l’article 3.5 de la et s.3.4 de la ."
-  },
-  {
-    "en": "This standard is to be read in conjunction with the , , the and the .",
-    "fr": "La présente Norme doit être lue de concert avec la , la , la , la et la ."
-  },
-  {
-    "en": "Definitions to be used in the interpretation of this standard are attached in .",
-    "fr": "Les définitions qui doivent servir à l’interprétation de la présente Norme figurent à l’ ."
-  },
-  {
-    "en": "Ensure re-use, and portability of Government of Canada Web content across websites and Web applications, platforms, and devices.",
-    "fr": "Assurer la réutilisation et la portabilité du contenu Web du gouvernement du Canada dans les sites Web, les applications Web, les plateformes et les appareils."
-  },
-  {
-    "en": "Ensure Web content can be found, retrieved, and exchanged.",
-    "fr": "Veiller à ce que le contenu Web puisse être trouvé, récupéré et échangé."
-  },
-  {
-    "en": "Improved re-use and portability of content across websites and Web applications, platforms, and devices.",
-    "fr": "Amélioration de la réutilisation et de la portabilité du contenu dans les sites Web, les applications Web, les plateformes et les appareils."
-  },
-  {
-    "en": "Improved search, retrieval, and exchange of Web content.",
-    "fr": "Amélioration de la recherche, de la récupération et de l’échange de contenu Web."
-  },
-  {
-    "en": "Ensuring that websites and Web applications meet the Web feed requirements described in .",
-    "fr": "Veiller à ce que les sites Web et applications Web respectent les exigences des fils de nouvelles décrites à l’ ."
-  },
-  {
-    "en": "Ensuring that Web pages meet the character encoding requirements described in .",
-    "fr": "Veiller à ce que les pages Web respectent les exigences de l’encodage des caractères décrites à l’ ."
-  },
-  {
-    "en": "Ensuring that Web pages that are in or meet the mark-up language requirements described in .",
-    "fr": "Veiller à ce que les pages Web qui sont en ou respectent les exigences du langage de balisage décrites à l’ ."
-  },
-  {
-    "en": "Ensuring that Web pages that are in or meet the data requirements described in .",
-    "fr": "Veiller à ce que les pages Web qui sont en ou respectent les exigences des données décrites à l’ ."
-  },
-  {
-    "en": "Overseeing the implementation of this standard in their department and carrying out the activities referred to in 7.2.",
-    "fr": "Superviser la mise œuvre de la présente Norme dans leur ministère et réaliser les activités mentionnées à l’article 7.2."
-  },
-  {
-    "en": "Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.",
-    "fr": "Ils encouragent les membres du personnel à collaborer, à la fois sur les plans ministériel et interministériel, à partager leur expertise et à construire des composants et des outils réutilisables."
-  },
-  {
-    "en": "Ensuring that software and systems acquired or developed by the department enable websites and Web applications to meet the requirements of this standard or are modifiable to enable websites and Web applications to meet the requirements of this standard.",
-    "fr": "S’assurer que le logiciel et les systèmes acquis ou mis au point par les ministères respectent les exigences de la présente Norme et sont modifiables de façon à permettre aux sites Web de respecter les exigences de cette même Norme."
-  },
-  {
-    "en": "Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.",
-    "fr": "Ils encouragent les membres du personnel à collaborer, à la fois sur les plans ministériel et interministériel, à partager leur expertise et à construire des composants et des outils réutilisables."
-  },
-  {
-    "en": "Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.",
-    "fr": "Faire office de point de liaison principal entre la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor et leur ministère pour les questions et les communications concernant l’interprétation et la mise en œuvre des normes, des lignes directrices et des outils."
-  },
-  {
-    "en": "Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.",
-    "fr": "Prendre part au forum interministériel des Centres d’expertise, présidé par la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor pour se tenir au courant des normes, des lignes directrices et des outils en constante évolution."
-  },
-  {
-    "en": "The senior departmental official, designated by the deputy head, is responsible for supporting their deputy head by overseeing the implementation and monitoring of this standard in their department, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues and developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.",
-    "fr": "Le haut fonctionnaire ministériel, désigné par l’administrateur général, est responsable d’appuyer son administrateur général en supervisant la mise en œuvre et la surveillance de la présente Norme au sein du ministère en portant à l’attention de l’administrateur général toute difficulté importante, toute lacune en matière de rendement ou de conformité et en élaborant des propositions pour y remédier, en plus de signaler les problèmes importants en matière de rendement ou de conformité à la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor."
-  },
-  {
-    "en": "The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:",
-    "fr": "Le Secrétariat du Conseil du Trésor du Canada contrôlera la conformité à la présente Norme grâce à divers moyens, y compris, sans toutefois s’y limiter, les suivants :"
-  },
-  {
-    "en": "The Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted).",
-    "fr": "Le Secrétariat du Conseil du Trésor du Canada procédera à l’examen de la présente Norme et de son efficacité cinq ans après sa date d’entrée en vigueur (ou plus tôt si cela s’avérait nécessaire)."
-  },
-  {
-    "en": "In instances of non-compliance, deputy heads are responsible for taking corrective measures, within their organization with those responsible for implementing the requirements of this standard.",
-    "fr": "En cas de non-conformité, les administrateurs généraux doivent prendre les mesures correctives au sein de leur organisation avec les responsables de la mise en œuvre des exigences de la présente Norme."
-  },
-  {
-    "en": "Consequences of non-compliance with this standard can include any measure allowed by the that the Treasury Board would determine as appropriate and acceptable in the circumstances.",
-    "fr": "Les conséquences de la non-conformité à la présente Norme peuvent comprendre toute mesure prévue à la que le Conseil du Trésor jugerait appropriée et acceptable dans les circonstances."
-  },
-  {
-    "en": "Senior departmental officials are to ensure corrective actions are taken to address instances of non-compliance with the requirements of this standard. Corrective actions can include requiring additional training, changes to procedures and systems, disciplinary action, and other measures as appropriate.",
-    "fr": "Les hauts fonctionnaires ministériels doivent s’assurer que des mesures correctives sont prises pour traiter les cas de non-conformité aux exigences de la présente Norme. Les mesures correctives peuvent comprendre des séances de formation supplémentaires, des changements aux procédures et aux systèmes, des mesures disciplinaires et autres mesures, s’il y a lieu."
-  },
-  {
-    "en": "For a range of consequences of non-compliance refer to Appendix C: Consequences for Institutions & Appendix D: Consequences for Individuals in the .",
-    "fr": "Des exemples de conséquences en cas de non-conformité sont présentés à l’annexe C : Tableau des conséquences pour les institutions et à l’annexe D : Tableau des conséquences pour les personnes du ."
-  },
-  {
-    "en": "Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments.",
-    "fr": "Élaborer des normes, des lignes directrices et des outils et offrir des conseils relatifs à l’interprétation et un encadrement relativement à ces instruments."
-  },
-  {
-    "en": "Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government.",
-    "fr": "Veiller à la communication et à la mobilisation de la collectivité Web à l’échelle du gouvernement en ce qui a trait aux plans, aux progrès, aux risques et aux défis liés à la mise en œuvre de la présente Norme et de ses instruments de soutien au sein du gouvernement fédéral."
-  },
-  {
-    "en": "Providing support to the and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.",
-    "fr": "Fournir un soutien au Conseil des dirigeants principaux de l’information et aux autres comités et groupes de travail, au besoin, pour aborder les défis pangouvernementaux et les occasions liées à la mise en œuvre de la présente Norme et de ses instruments de soutien."
-  },
-  {
-    "en": "Amending the as required, in consultation with Strategic Communications and Ministerial Affairs.",
-    "fr": "La modification du document au besoin, avec la consultation des Communications stratégiques et des Affaires ministérielles."
+    "en": "Atom Syndication Format [RFC 4287]HTML5RDFa 1.1 LiteSchema.orgUTF-8 [RFC 3629]Web Content Accessibility Guidelines (WCAG) 2.0",
+    "fr": "Format de syndication Atom [CFR 4287] (en anglais seulement)HTML5 (en anglais seulement)RDFa 1.1 Lite (en anglais seulement)Schema.org (en anglais seulement)UTF-8 [CFR 3629] (en anglais seulement)Lignes directrices sur l’accessibilité du contenu Web (WCAG) 2.0",
+    "anchor": "10.3",
+    "tag": "ul"
   },
   {
     "en": "Please direct enquiries about this standard to your department's Web Standards Centre of Expertise. For interpretation of this standard, Web Standards Centres of Expertise should contact:",
-    "fr": "Veuillez transmettre toute question au sujet de la présente Norme au Centre d’expertise des normes Web de votre ministère. Les centres d’expertise des normes Web peuvent obtenir des interprétations de la présente Norme en communiquant avec :"
+    "fr": "Veuillez transmettre toute question au sujet de la présente Norme au Centre d’expertise des normes Web de votre ministère. Les centres d’expertise des normes Web peuvent obtenir des interprétations de la présente Norme en communiquant avec :",
+    "anchor": "11",
+    "tag": "p"
   },
   {
-    "en": "Digital Policy Office of the Chief Information Officer Treasury Board of Canada Secretariat Ottawa ON K1A 0R5 E-mail:",
-    "fr": "Politique numérique Bureau du dirigeant principal de l’information Secrétariat du Conseil du Trésor du Canada Ottawa (Ontario) K1A 0R5 Courriel :"
+    "en": "Digital Policy Office of the Chief Information Officer Treasury Board of Canada Secretariat Ottawa ON K1A 0R5 E-mail: DPPN@tbs-sct.gc.ca",
+    "fr": "Politique numérique Bureau du dirigeant principal de l’information Secrétariat du Conseil du Trésor du Canada Ottawa (Ontario) K1A 0R5 Courriel : DPPN@tbs-sct.gc.ca",
+    "anchor": "11",
+    "tag": "p"
   },
   {
-    "en": "Are public facing; (i.e., available to individuals and businesses outside of the Government of Canada); and",
-    "fr": "qui s'adressent au public (c.-à-d., accessibles aux particuliers et aux entreprises de l’extérieur du gouvernement du Canada);"
+    "en": "2.1 This standard applies to “departments” as defined in section 2 of the Financial Administration Act, with the exception of paragraphs (b) and (c), and unless excluded by specific acts, regulations or Orders in Council.",
+    "fr": "2.1 La présente Norme s'applique aux ministères mentionnés à l’article 2 de la Loi sur la gestion des finances publiques, à l’exception des alinéas b) et c), à moins qu'ils ne soient exclus par une loi, un règlement ou un décret.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Are those for which the department is accountable.",
-    "fr": "dont le ministère est responsable."
+    "en": "2.2 Section 6 applies to all websites and Web applications and Web pages that:",
+    "fr": "2.2 La section 6 s’applique à tous les sites et applications Web du gouvernement du Canada :",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Web content that the department is not accountable for;",
-    "fr": "le contenu Web qui n’est pas sous la responsabilité du ministère;"
+    "en": "Are public facing; (i.e., available to individuals and businesses outside of the Government of Canada); andAre those for which the department is accountable.",
+    "fr": "qui s'adressent au public (c.-à-d., accessibles aux particuliers et aux entreprises de l’extérieur du gouvernement du Canada);dont le ministère est responsable.",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
-    "en": "Web pages that are archived on the Web;",
-    "fr": "les pages Web qui sont archivées dans le Web;"
+    "en": "2.3 Section 6.1 does not apply to:",
+    "fr": "2.3 L’article 6.1 ne s’applique pas à ce qui suit :",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Third-party websites and Web applications (including social media sites); and",
-    "fr": "les sites Web et applications Web publiés par des tiers (y compris les sites de médias sociaux);"
+    "en": "Web content that the department is not accountable for;Web pages that are archived on the Web;Third-party websites and Web applications (including social media sites); andWeb pages of third-party websites and Web applications (including social media sites).",
+    "fr": "le contenu Web qui n’est pas sous la responsabilité du ministère;les pages Web qui sont archivées dans le Web;les sites Web et applications Web publiés par des tiers (y compris les sites de médias sociaux);les pages Web des sites Web et applications Web publiés par des tiers (y compris les sites de médias sociaux).",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
-    "en": "Web pages of third-party websites and Web applications (including social media sites).",
-    "fr": "les pages Web des sites Web et applications Web publiés par des tiers (y compris les sites de médias sociaux)."
+    "en": "2.4 Section 6.1 is to be implemented in phases and applies as follows:",
+    "fr": "2.4 L’article 6.1 sera mis en œuvre de façon progressive et s’applique comme suit :",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Phase I (July 1, 2012 – June 30, 2013)",
-    "fr": "Phase I (du 1 juillet 2012 au 30 juin 2013)"
+    "en": "Phase I (July 1, 2012 – June 30, 2013) One requirement of the standard;Phase II (April 1, 2013 – December 31, 2014) Two more requirements, for a total of three requirements of the standard; and,Phase III (January 1, 2015 – June 30, 2015) All four requirements of the standard.",
+    "fr": "Phase I (du 1er juillet 2012 au 30 juin 2013) Une exigence de la Norme;Phase II (du 1er avril 2013 au 31 décembre 2014) Deux autres exigences, pour un total de trois exigences de la Norme;Phase III (du 1er janvier 2015 au 30 juin 2015) Les quatre exigences de la Norme.",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
-    "en": "One requirement of the standard;",
-    "fr": "Une exigence de la Norme;"
+    "en": "2.5 Sections 7.3 and 8.2 relating to the role of the Treasury Board Secretariat in monitoring compliance and directing consequences for non-compliance do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with the standard within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance.",
+    "fr": "2.5 Les articles 7.3 et 8.2 qui sont liés au rôle confié au Secrétariat du Conseil du Trésor d’effectuer le suivi de la conformité et de prescrire des conséquences pour la non-conformité, ne s’appliquent pas au Bureau du vérificateur général, au Commissariat à la protection de la vie privée, au Commissariat à l’information, au Bureau du Directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l’intégrité du secteur public. C’est aux administrateurs généraux de ces organisations qu’incombe l’entière responsabilité de surveiller et d’assurer le respect de la présente Norme dans leur organisation et, en cas de non-conformité, d’adopter les mesures nécessaires conformément aux instruments du Conseil du Trésor qui fournissent des principes et une orientation en ce qui a trait à la gestion de la conformité.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Phase II (April 1, 2013 – December 31, 2014)",
-    "fr": "Phase II (du 1 avril 2013 au 31 décembre 2014)"
+    "en": "3.1 The Web presence of the Government of Canada is highly complex with each department maintaining a unique online presence that provides a wide variety of content and applications to support informational and transactional services for individuals and businesses. The Web channel is an important part of the Government of Canada’s commitment to multi-channel access and service delivery.",
+    "fr": "3.1 La présence Web du gouvernement du Canada est très complexe, car chaque ministère maintient une présence en ligne unique, ce qui fournit une grande variété de contenu et d’applications pour appuyer les services informationnels et transactionnels offerts aux personnes et aux entreprises. Le mode de prestation par Internet est une partie importante de l’engagement du gouvernement du Canada envers l’accessibilité et la prestation de services à mode multiple.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Two more requirements, for a total of three requirements of the standard; and,",
-    "fr": "Deux autres exigences, pour un total de trois exigences de la Norme;"
+    "en": "3.2 Web content is delivered through a variety of technologies that are ever evolving. As Canadians are becoming increasingly reliant upon mobile devices and data-centric technologies, the Government of Canada is committed to ensuring the re-use and the portability of Web content across websites and Web applications, platforms, and devices.",
+    "fr": "3.2 Le contenu Web est présenté au moyen d’une variété de technologies en constante évolution. Comme les Canadiens dépendent de plus en plus des appareils mobiles et des technologies centrées sur les données, le gouvernement du Canada s’engage à assurer la réutilisation et la portabilité du contenu Web dans les sites Web, les applications Web, les plateformes et les appareils.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Phase III (January 1, 2015 – June 30, 2015)",
-    "fr": "Phase III (du 1 janvier 2015 au 30 juin 2015)"
+    "en": "3.3 For the purposes of this standard, Web interoperability is defined as the ability of different types of platforms, devices, networks, and applications to work together effectively, without prior communication, to find, retrieve, exchange, and re-use Web content in a useful and meaningful manner.",
+    "fr": "3.3 Aux fins de la présente Norme, l’interopérabilité du Web est définie comme la capacité des différents types de plateformes, d’appareils, de réseaux et d’applications à collaborer efficacement, sans communication préalable, pour trouver, récupérer, échanger et réutiliser un contenu Web de façon utile et significative.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "All four requirements of the standard.",
-    "fr": "Les quatre exigences de la Norme."
+    "en": "3.4 This standard supports the Policy on the Management of Information Technology and the Policy on Information Management.",
+    "fr": "3.4 La présente Norme appuie la Politique sur la gestion des technologies de l’information et la Politique sur la gestion de l’information.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "assessments under the ;",
-    "fr": "des évaluations en vertu du ;"
+    "en": "3.5 This standard is issued under the authority of section 7 of the Financial Administration Act by the Secretary of the Treasury Board pursuant to subsection 6(4) of the Financial Administration Act and in section 3.5 of the Policy on Management of Information Technology and s.3.4 of the Policy on Information Management.",
+    "fr": "3.5 La présente Norme est publiée en vertu de l’article 7 de la Loi sur la gestion des finances publiques par la secrétaire du Secrétariat du Conseil du Trésor, conformément au paragraphe 6(4) de la Loi sur la gestion des finances publiques, et l’article 3.5 de la Politique sur la gestion des technologies de l'information et s.3.4 de la Politique sur la gestion de l’information.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and",
-    "fr": "des examens des présentations du Secrétariat du Conseil du Trésor, des rapports ministériels sur le rendement, des résultats des vérifications, des évaluations et des études;"
+    "en": "3.6 This standard is to be read in conjunction with the Standard on Web Usability, Standard on Web Accessibility, Standard for Managing Metadata, the Standard on Geospatial Data and the Standard on Optimizing Websites and Applications for Mobile Devices.",
+    "fr": "3.6 La présente Norme doit être lue de concert avec la Norme sur la facilité d’emploi des sites Web, la Norme sur l’accessibilité des sites Web, la Norme pour la gestion des métadonnées, la Norme sur les données géospatiales et la Norme sur l’optimisation des sites Web et des applications pour appareils mobiles.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "work performed in collaboration with departments; and",
-    "fr": "des travaux effectués en collaboration avec les ministères."
+    "en": "4.1 Definitions to be used in the interpretation of this standard are attached in Appendix A.",
+    "fr": "4.1 Les définitions qui doivent servir à l’interprétation de la présente Norme figurent à l’annexe A.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "5.1.1 Ensure re-use, and portability of Government of Canada Web content across websites and Web applications, platforms, and devices.5.1.2 Ensure Web content can be found, retrieved, and exchanged.",
+    "fr": "5.1.1 Assurer la réutilisation et la portabilité du contenu Web du gouvernement du Canada dans les sites Web, les applications Web, les plateformes et les appareils.5.1.2 Veiller à ce que le contenu Web puisse être trouvé, récupéré et échangé.",
+    "anchor": "5",
+    "tag": "section"
+  },
+  {
+    "en": "5.2.1 Improved re-use and portability of content across websites and Web applications, platforms, and devices.5.2.2 Improved search, retrieval, and exchange of Web content.",
+    "fr": "5.2.1 Amélioration de la réutilisation et de la portabilité du contenu dans les sites Web, les applications Web, les plateformes et les appareils.5.2.2 Amélioration de la recherche, de la récupération et de l’échange de contenu Web.",
+    "anchor": "5",
+    "tag": "section"
+  },
+  {
+    "en": "5.1.1 Ensure re-use, and portability of Government of Canada Web content across websites and Web applications, platforms, and devices.",
+    "fr": "5.1.1 Assurer la réutilisation et la portabilité du contenu Web du gouvernement du Canada dans les sites Web, les applications Web, les plateformes et les appareils.",
+    "anchor": "5.1",
+    "tag": "p"
+  },
+  {
+    "en": "5.1.2 Ensure Web content can be found, retrieved, and exchanged.",
+    "fr": "5.1.2 Veiller à ce que le contenu Web puisse être trouvé, récupéré et échangé.",
+    "anchor": "5.1",
+    "tag": "p"
+  },
+  {
+    "en": "5.2.1 Improved re-use and portability of content across websites and Web applications, platforms, and devices.",
+    "fr": "5.2.1 Amélioration de la réutilisation et de la portabilité du contenu dans les sites Web, les applications Web, les plateformes et les appareils.",
+    "anchor": "5.2",
+    "tag": "p"
+  },
+  {
+    "en": "5.2.2 Improved search, retrieval, and exchange of Web content.",
+    "fr": "5.2.2 Amélioration de la recherche, de la récupération et de l’échange de contenu Web.",
+    "anchor": "5.2",
+    "tag": "p"
+  },
+  {
+    "en": "6.1.1 Ensuring that websites and Web applications meet the Web feed requirements described in Appendix B.6.1.2 Ensuring that Web pages meet the character encoding requirements described in Appendix C.6.1.3 Ensuring that Web pages that are in HTML or XHTML meet the mark-up language requirements described in Appendix D.6.1.4 Ensuring that Web pages that are in HTML or XHTML meet the HTML data requirements described in Appendix E.",
+    "fr": "6.1.1 Veiller à ce que les sites Web et applications Web respectent les exigences des fils de nouvelles décrites à l’annexe B.6.1.2 Veiller à ce que les pages Web respectent les exigences de l’encodage des caractères décrites à l’annexe C.6.1.3 Veiller à ce que les pages Web qui sont en HTML ou XHTML respectent les exigences du langage de balisage décrites à l’annexe D.6.1.4 Veiller à ce que les pages Web qui sont en HTML ou XHTML respectent les exigences des données HTML décrites à l’annexe E.",
+    "anchor": "6",
+    "tag": "section"
+  },
+  {
+    "en": "6.2.1 Overseeing the implementation of this standard in their department and carrying out the activities referred to in 7.2.6.2.2 Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.",
+    "fr": "6.2.1 Superviser la mise œuvre de la présente Norme dans leur ministère et réaliser les activités mentionnées à l’article 7.2.6.2.2 Ils encouragent les membres du personnel à collaborer, à la fois sur les plans ministériel et interministériel, à partager leur expertise et à construire des composants et des outils réutilisables.",
+    "anchor": "6",
+    "tag": "section"
+  },
+  {
+    "en": "6.3.1 Ensuring that software and systems acquired or developed by the department enable websites and Web applications to meet the requirements of this standard or are modifiable to enable websites and Web applications to meet the requirements of this standard.6.3.2 Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.",
+    "fr": "6.3.1 S’assurer que le logiciel et les systèmes acquis ou mis au point par les ministères respectent les exigences de la présente Norme et sont modifiables de façon à permettre aux sites Web de respecter les exigences de cette même Norme.6.3.2 Ils encouragent les membres du personnel à collaborer, à la fois sur les plans ministériel et interministériel, à partager leur expertise et à construire des composants et des outils réutilisables.",
+    "anchor": "6",
+    "tag": "section"
+  },
+  {
+    "en": "6.4.1 Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.6.4.2 Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.",
+    "fr": "6.4.1 Faire office de point de liaison principal entre la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor et leur ministère pour les questions et les communications concernant l’interprétation et la mise en œuvre des normes, des lignes directrices et des outils.6.4.2 Prendre part au forum interministériel des Centres d’expertise, présidé par la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor pour se tenir au courant des normes, des lignes directrices et des outils en constante évolution.",
+    "anchor": "6",
+    "tag": "section"
+  },
+  {
+    "en": "6.1.1 Ensuring that websites and Web applications meet the Web feed requirements described in Appendix B.",
+    "fr": "6.1.1 Veiller à ce que les sites Web et applications Web respectent les exigences des fils de nouvelles décrites à l’annexe B.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.1.2 Ensuring that Web pages meet the character encoding requirements described in Appendix C.",
+    "fr": "6.1.2 Veiller à ce que les pages Web respectent les exigences de l’encodage des caractères décrites à l’annexe C.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.1.3 Ensuring that Web pages that are in HTML or XHTML meet the mark-up language requirements described in Appendix D.",
+    "fr": "6.1.3 Veiller à ce que les pages Web qui sont en HTML ou XHTML respectent les exigences du langage de balisage décrites à l’annexe D.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.1.4 Ensuring that Web pages that are in HTML or XHTML meet the HTML data requirements described in Appendix E.",
+    "fr": "6.1.4 Veiller à ce que les pages Web qui sont en HTML ou XHTML respectent les exigences des données HTML décrites à l’annexe E.",
+    "anchor": "6.1",
+    "tag": "p"
+  },
+  {
+    "en": "6.2.1 Overseeing the implementation of this standard in their department and carrying out the activities referred to in 7.2.",
+    "fr": "6.2.1 Superviser la mise œuvre de la présente Norme dans leur ministère et réaliser les activités mentionnées à l’article 7.2.",
+    "anchor": "6.2",
+    "tag": "p"
+  },
+  {
+    "en": "6.2.2 Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.",
+    "fr": "6.2.2 Ils encouragent les membres du personnel à collaborer, à la fois sur les plans ministériel et interministériel, à partager leur expertise et à construire des composants et des outils réutilisables.",
+    "anchor": "6.2",
+    "tag": "p"
+  },
+  {
+    "en": "6.3.1 Ensuring that software and systems acquired or developed by the department enable websites and Web applications to meet the requirements of this standard or are modifiable to enable websites and Web applications to meet the requirements of this standard.",
+    "fr": "6.3.1 S’assurer que le logiciel et les systèmes acquis ou mis au point par les ministères respectent les exigences de la présente Norme et sont modifiables de façon à permettre aux sites Web de respecter les exigences de cette même Norme.",
+    "anchor": "6.3",
+    "tag": "p"
+  },
+  {
+    "en": "6.3.2 Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.",
+    "fr": "6.3.2 Ils encouragent les membres du personnel à collaborer, à la fois sur les plans ministériel et interministériel, à partager leur expertise et à construire des composants et des outils réutilisables.",
+    "anchor": "6.3",
+    "tag": "p"
+  },
+  {
+    "en": "6.4.1 Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.",
+    "fr": "6.4.1 Faire office de point de liaison principal entre la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor et leur ministère pour les questions et les communications concernant l’interprétation et la mise en œuvre des normes, des lignes directrices et des outils.",
+    "anchor": "6.4",
+    "tag": "p"
+  },
+  {
+    "en": "6.4.2 Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools.",
+    "fr": "6.4.2 Prendre part au forum interministériel des Centres d’expertise, présidé par la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor pour se tenir au courant des normes, des lignes directrices et des outils en constante évolution.",
+    "anchor": "6.4",
+    "tag": "p"
+  },
+  {
+    "en": "Senior departmental official",
+    "fr": "Haut fonctionnaire ministériel",
+    "anchor": "7",
+    "tag": "h3"
+  },
+  {
+    "en": "7.1 The senior departmental official, designated by the deputy head, is responsible for supporting their deputy head by overseeing the implementation and monitoring of this standard in their department, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues and developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.",
+    "fr": "7.1 Le haut fonctionnaire ministériel, désigné par l’administrateur général, est responsable d’appuyer son administrateur général en supervisant la mise en œuvre et la surveillance de la présente Norme au sein du ministère en portant à l’attention de l’administrateur général toute difficulté importante, toute lacune en matière de rendement ou de conformité et en élaborant des propositions pour y remédier, en plus de signaler les problèmes importants en matière de rendement ou de conformité à la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor.",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "Government-wide",
+    "fr": "À l’échelle du gouvernement",
+    "anchor": "7",
+    "tag": "h3"
+  },
+  {
+    "en": "7.2 The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:",
+    "fr": "7.2 Le Secrétariat du Conseil du Trésor du Canada contrôlera la conformité à la présente Norme grâce à divers moyens, y compris, sans toutefois s’y limiter, les suivants :",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "assessments under the Management Accountability Framework; examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and work performed in collaboration with departments; and",
+    "fr": "des évaluations en vertu du Cadre de responsabilisation de gestion; des examens des présentations du Secrétariat du Conseil du Trésor, des rapports ministériels sur le rendement, des résultats des vérifications, des évaluations et des études; des travaux effectués en collaboration avec les ministères.",
+    "anchor": "7",
+    "tag": "ul"
+  },
+  {
+    "en": "7.3 The Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted).",
+    "fr": "7.3 Le Secrétariat du Conseil du Trésor du Canada procédera à l’examen de la présente Norme et de son efficacité cinq ans après sa date d’entrée en vigueur (ou plus tôt si cela s’avérait nécessaire).",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "8.1 In instances of non-compliance, deputy heads are responsible for taking corrective measures, within their organization with those responsible for implementing the requirements of this standard.",
+    "fr": "8.1 En cas de non-conformité, les administrateurs généraux doivent prendre les mesures correctives au sein de leur organisation avec les responsables de la mise en œuvre des exigences de la présente Norme.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "8.2 Consequences of non-compliance with this standard can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances.",
+    "fr": "8.2 Les conséquences de la non-conformité à la présente Norme peuvent comprendre toute mesure prévue à la Loi sur la gestion des finances publiques que le Conseil du Trésor jugerait appropriée et acceptable dans les circonstances.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "8.3 Senior departmental officials are to ensure corrective actions are taken to address instances of non-compliance with the requirements of this standard. Corrective actions can include requiring additional training, changes to procedures and systems, disciplinary action, and other measures as appropriate.",
+    "fr": "8.3 Les hauts fonctionnaires ministériels doivent s’assurer que des mesures correctives sont prises pour traiter les cas de non-conformité aux exigences de la présente Norme. Les mesures correctives peuvent comprendre des séances de formation supplémentaires, des changements aux procédures et aux systèmes, des mesures disciplinaires et autres mesures, s’il y a lieu.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "8.4 For a range of consequences of non-compliance refer to Appendix C: Consequences for Institutions & Appendix D: Consequences for Individuals in the Framework for the Management of Compliance.",
+    "fr": "8.4 Des exemples de conséquences en cas de non-conformité sont présentés à l’annexe C : Tableau des conséquences pour les institutions et à l’annexe D : Tableau des conséquences pour les personnes du Cadre stratégique sur la gestion de la conformité.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "9.1.1 Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments.9.1.2 Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government.9.1.3 Providing support to the CIO Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.9.1.4 Amending the Technical Specifications for the Web and Mobile Presence as required, in consultation with Strategic Communications and Ministerial Affairs.",
+    "fr": "9.1.1 Élaborer des normes, des lignes directrices et des outils et offrir des conseils relatifs à l’interprétation et un encadrement relativement à ces instruments.9.1.2 Veiller à la communication et à la mobilisation de la collectivité Web à l’échelle du gouvernement en ce qui a trait aux plans, aux progrès, aux risques et aux défis liés à la mise en œuvre de la présente Norme et de ses instruments de soutien au sein du gouvernement fédéral.9.1.3 Fournir un soutien au Conseil des dirigeants principaux de l’information et aux autres comités et groupes de travail, au besoin, pour aborder les défis pangouvernementaux et les occasions liées à la mise en œuvre de la présente Norme et de ses instruments de soutien.9.1.4 La modification du document Spécifications techniques relatives au Web et à la présence mobile au besoin, avec la consultation des Communications stratégiques et des Affaires ministérielles.",
+    "anchor": "9",
+    "tag": "section"
+  },
+  {
+    "en": "9.1.1 Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments.",
+    "fr": "9.1.1 Élaborer des normes, des lignes directrices et des outils et offrir des conseils relatifs à l’interprétation et un encadrement relativement à ces instruments.",
+    "anchor": "9.1",
+    "tag": "p"
+  },
+  {
+    "en": "9.1.2 Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government.",
+    "fr": "9.1.2 Veiller à la communication et à la mobilisation de la collectivité Web à l’échelle du gouvernement en ce qui a trait aux plans, aux progrès, aux risques et aux défis liés à la mise en œuvre de la présente Norme et de ses instruments de soutien au sein du gouvernement fédéral.",
+    "anchor": "9.1",
+    "tag": "p"
+  },
+  {
+    "en": "9.1.3 Providing support to the CIO Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.",
+    "fr": "9.1.3 Fournir un soutien au Conseil des dirigeants principaux de l’information et aux autres comités et groupes de travail, au besoin, pour aborder les défis pangouvernementaux et les occasions liées à la mise en œuvre de la présente Norme et de ses instruments de soutien.",
+    "anchor": "9.1",
+    "tag": "p"
+  },
+  {
+    "en": "9.1.4 Amending the Technical Specifications for the Web and Mobile Presence as required, in consultation with Strategic Communications and Ministerial Affairs.",
+    "fr": "9.1.4 La modification du document Spécifications techniques relatives au Web et à la présence mobile au besoin, avec la consultation des Communications stratégiques et des Affaires ministérielles.",
+    "anchor": "9.1",
+    "tag": "p"
   }
 ]

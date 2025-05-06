@@ -1,82 +1,8 @@
 [
   {
-    "en": "Canadian Security Intelligence Service (CSIS) by telephone at 613-993-9620;",
-    "fr": "le Service canadien du renseignement de sécurité (SCRS), par téléphone, au 613 993 9620;"
-  },
-  {
-    "en": "Royal Canadian Mounted Police (RCMP) National Operations Centre (NOC) by telephone at 613-993-4460; and",
-    "fr": "la Gendarmerie royale du Canada (GRC), Centre national des opérations (CNO), par téléphone, au 613 993 4460;"
-  },
-  {
-    "en": "Office of the Chief Security Officer, Privy Council Office (PCO)",
-    "fr": "le Bureau du dirigeant principal de la sécurité, le Bureau du Conseil privé (BCP)."
-  },
-  {
-    "en": "This standard takes effect on March 1, 2024.",
-    "fr": "La présente Norme entre en vigueur le 1 mars 2024."
-  },
-  {
-    "en": "This standard replaces the dated July 1, 2019.",
-    "fr": "Cette norme remplace la Directive sur la gestion de la sécurité, Annexe I : Norme sur le signalement des incidents de sécurité, datée du 1er juillet 2019"
-  },
-  {
-    "en": "This standard provides details on the requirements set out in section 4.1.7.",
-    "fr": "La présente Norme décrit les exigences énoncées dans la sous section 4.1.7."
-  },
-  {
-    "en": "Procedures are as follows:",
-    "fr": "Voici les procédures :"
-  },
-  {
-    "en": "National security concerns, including those related to terrorism or controlled goods, must be reported to of the following:",
-    "fr": "Les préoccupations relatives à la sécurité nationale, y compris celles liées au terrorisme ou aux marchandises contrôlées, doivent être signalées à les organismes suivants :"
-  },
-  {
-    "en": "Security incidents and other security events that will have, or are likely to have, a significant impact on federal departments or agencies, or that require an immediate or coordinated government-wide response, must be reported without delay to the Government Operations Centre (GOC) by telephone at 613-991-7000 or by e-mail at and to the Office of the Chief Security Officer, PCO by telephone at 613-960-4000 or by e-mail at .",
-    "fr": "Les incidents de sécurité et les autres événements de sécurité qui auront ou sont susceptibles d’avoir une forte incidence sur des ministères ou organismes fédéraux, ou qui nécessitent une intervention pangouvernementale immédiate, doivent être signalés sans tarder au Centre des opérations du gouvernement (COG) par téléphone, au 613-991-7000 ou par courriel, à l'adresse et au Bureau du dirigeant principal de la sécurité, le BCP par téléphone, au 613-960-4000 ou par courriel, à l’adresse ."
-  },
-  {
-    "en": "Cyber security incidents and other security events related to information technology (IT) must be reported in accordance with the (GC CSEMP).",
-    "fr": "Les incidents de sécurité cybernétiques et les autres événements de sécurité liés à la technologie de l’information (TI) doivent être signalés conformément au (PGEC GC)."
-  },
-  {
-    "en": "Suspicious activity or behaviour that has a possible nexus to national security or that may be an indicator of serious criminal activity must be reported to the RCMP National Critical Infrastructure Team (NCIT) by email at",
-    "fr": "Les activités ou les comportements suspects qui pourraient avoir un lien avec la sécurité nationale ou qui pourraient être des indices d’une activité criminelle grave doivent être signalés à l’Équipe nationale des infrastructures essentielles (ENIE) de la GRC, par courriel, à l’adresse ."
-  },
-  {
-    "en": "Departmental decisions to activate higher levels of readiness and to return to lower levels of readiness must be reported without delay to the Office of the Chief Security Officer, PCO, by telephone at 613-960-4000 or by email at .",
-    "fr": "On doit signaler sans tarder toute décision du ministère de relever le niveau de préparation ou de le ramener à un niveau inférieur au Bureau du dirigeant principal de la sécurité, BCP, par téléphone, au 613‐960-4000 ou par courriel, à l’adresse ."
-  },
-  {
-    "en": "Security events related to alleged breach of trust must be reported to the RCMP Federal Policing Intake Unit by email at (reports or calls may be redirected to local law enforcement organizations, as appropriate).",
-    "fr": "Les événements de sécurité liés à un abus de confiance allégué doivent être signalés au Groupe de la réception de la Police fédérale de la GRC, par courriel, à l’adresse (les signalements ou appels peuvent être réacheminés aux organismes locaux d’application de la loi, selon le cas)."
-  },
-  {
-    "en": "Security events related to other potential criminal activity (for example, physical thefts of government assets) must be reported to the local police.",
-    "fr": "Les événements de sécurité liés à d’autres activités criminelles potentielles (p. ex., les vols physiques des biens du gouvernement) doivent être signalés à la police locale."
-  },
-  {
-    "en": "Incidents related to controlled goods and that involve contractors must be reported to Public Services and Procurement Canada’s Controlled Goods Program by email at .",
-    "fr": "Les incidents liés aux marchandises contrôlées qui concernent des entrepreneurs doivent être signalés au personnel du Programme des marchandises contrôlées de Services publics et Approvisionnement Canada, par courriel, à l’adresse ."
-  },
-  {
-    "en": "Incidents that involve accountable communications security (COMSEC) material must be reported to the chief security officer of the department where the COMSEC incident occurred.",
-    "fr": "Les incidents liés au matériel comptable de sécurité des communications (COMSEC) doivent être signalés au dirigeant principal de la sécurité du ministère où l’incident COMSEC s’est produit."
-  },
-  {
-    "en": "All security incidents and other security events of significance involving Cabinet confidences must be reported to the Office of the Chief Security Officer, PCO by telephone at 613-960-4000 or by email at .",
-    "fr": "Tous les incidents de sécurité et les autres événements de sécurité d’importance concernant des documents confidentiels du Cabinet doivent être signalés à la Division des opérations de sécurité du BCP, par téléphone, au 613‐960-4000 ou par courriel, à l’adresse ."
-  },
-  {
-    "en": "Material privacy breaches must be reported in accordance with the .",
-    "fr": "Les atteintes substantielles à la vie privée doivent être signalées conformément à la ."
-  },
-  {
-    "en": "Security incidents and other security events of significance must be reported to the Treasury Board of Canada Secretariat by email at on a cyclical basis or on request, for the purposes of government-wide policy monitoring.",
-    "fr": "Les incidents de sécurité et les autres événements de sécurité importants doivent être signalés au Secrétariat du Conseil du Trésor du Canada, par courriel, à l’adresse sur une base cyclique ou sur demande, aux fins de la surveillance pangouvernementale des politiques."
-  },
-  {
-    "en": "Issues related to criminal record information by law enforcement agencies must be directed to the RCMP Canadian Criminal Real Time Identification Services by email at .",
-    "fr": "Les questions liées à l’information tirée des casiers judiciaires qui viennent d’organismes d’application de la loi doivent être acheminées aux Services canadiens d’identification criminelle en temps réel de la GRC, par courriel, à l’adresse ."
+    "en": "Canadian Security Intelligence Service (CSIS) by telephone at 613-993-9620; Royal Canadian Mounted Police (RCMP) National Operations Centre (NOC) by telephone at 613-993-4460; and Office of the Chief Security Officer, Privy Council Office (PCO)",
+    "fr": "le Service canadien du renseignement de sécurité (SCRS), par téléphone, au 613 993 9620;la Gendarmerie royale du Canada (GRC), Centre national des opérations (CNO), par téléphone, au 613 993 4460;le Bureau du dirigeant principal de la sécurité, le Bureau du Conseil privé (BCP).",
+    "anchor": "I.2.2.1",
+    "tag": "ol"
   }
 ]

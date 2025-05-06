@@ -1,598 +1,602 @@
 [
   {
-    "en": "The provides program and service managers and executives with an overview of the key concepts and steps in establishing service agreements. A companion document, the , provides detailed advice with practical examples and templates that can be used to develop service agreements.",
-    "fr": "La donne aux gestionnaires et aux cadres supérieurs de programmes et des services un aperçu des concepts et étapes clés de l'établissement d'ententes de services. Un document connexe intitulé fournit des conseils détaillés ainsi que des exemples et des modèles pratiques qui pourront servir à élaborer des ententes de services."
+    "en": "Establishing service agreements is a sound management practice in any type of client / service provider arrangements when, for example, a Government of Canada service is provided by one department to, or on behalf of, another department. Service agreements are also recommended in other types of collaborative service arrangements where two or more departments collaborate jointly on a service or project initiative. In this Guideline, the term “department” applies generically to organizations listed in the Financial Administration Act (FAA), Schedules 1, 1.1, and 2. This Guideline supports the Directive on Internal Support Services and will also support organizations in pursuing consolidation and greater efficiencies in the delivery of services.",
+    "fr": "Il est prudent d'établir des ententes de services pour tout type d'accord entre un client et un fournisseur, par exemple, lorsqu'un ministère fournit un service du gouvernement du Canada à un autre ministère ou au nom d'un autre ministère. On recommande aussi d'établir des ententes de services pour d'autres types d'accords de collaboration de services où deux ministères ou plus collaborent à la prestation d'un service ou à la mise en œuvre d'un projet. Dans la présente Ligne directrice, le terme « ministère » désigne collectivement les organisations énumérées aux annexes I, I.1 et II de la Loi sur la gestion des finances publiques (LGFP). La présente Ligne directrice vient appuyer la Directive sur les services internes de soutien et elle appuiera les organisations dans leur quête en vue de regrouper leurs activités et de réaliser des gains accrus d'efficacité.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "The is the result of extended consultation with departments and agencies, and is part of the Treasury Board of Canada Secretariat (TBS)’s efforts to support the development and management of service agreements. It is one of a series of guidelines to support client-centred service and service excellence, and forms part of ’ suite of service policy instruments. This supports the and will also support organizations in pursuing consolidation and greater efficiencies in the delivery of services.",
-    "fr": "La résulte de consultations approfondies menées auprès des ministères et organismes, et elle s'inscrit dans les efforts du Secrétariat du Conseil du Trésor (SCT) visant à appuyer l'élaboration et la gestion d'ententes de services. Il s'agit d'une ligne directrice parmi d'autres en vue de soutenir un service axé sur la clientèle et l'excellence en matière de service, et elle s'intègre à la suite d'instruments de politique élaborés par le . La présente vient appuyer la et elle appuiera les organisations dans leur quête en vue de regrouper leurs activités et de réaliser des gains accrus d'efficacité."
+    "en": "Specifically excluded from this Guideline is a discussion of service relationships between the federal government and an individual or private sector organization which are typically covered by a contract, grant and contribution agreement, or sales agreement/invoice. Although the principles and elements involved in a service agreement between two government organizations are equally applicable to service arrangements where, for example, an external firm delivers a service to one or more client departments, where an external firm or NGO delivers a service on behalf of a department, or where a department provides a service to an external client for a fee, these types of contracts and agreements and the related concepts of price and profit are not within the scope of this Guideline.",
+    "fr": "La présente Ligne directrice ne traite pas des relations de service entre le gouvernement fédéral et une personne ou une entreprise du secteur privé pour lesquelles on conclut habituellement un marché, une entente de subvention ou de contribution, ou encore un contrat de vente ou une facture. Bien que les principes et les éléments d'une entente de services entre deux organismes gouvernementaux s'appliquent tout autant à une entente de services avec l'extérieur (p. ex., lorsqu'une entreprise de l'extérieur fournit un service à un ou à plusieurs ministères clients, lorsqu'une entreprise de l'extérieur ou une ONG fournit un service au nom d'un ministère, ou encore lorsqu'un ministère fournit un service à un client de l'extérieur contre paiement), ce type de marchés et d'ententes, tout comme les concepts de prix et de profits qui y sont liés, ne s'insère pas dans la portée de cette Ligne directrice.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Establishing service agreements is a sound management practice in any type of client / service provider arrangements when, for example, a Government of Canada service is provided by one department to, or on behalf of, another department. Service agreements are also recommended in other types of collaborative service arrangements where two or more departments collaborate jointly on a service or project initiative. In this , the term “department” applies generically to organizations listed in the ( ), Schedules 1, 1.1, and 2. This supports the and will also support organizations in pursuing consolidation and greater efficiencies in the delivery of services.",
-    "fr": "Il est prudent d'établir des ententes de services pour tout type d'accord entre un client et un fournisseur, par exemple, lorsqu'un ministère fournit un service du gouvernement du Canada à un autre ministère ou au nom d'un autre ministère. On recommande aussi d'établir des ententes de services pour d'autres types d'accords de collaboration de services où deux ministères ou plus collaborent à la prestation d'un service ou à la mise en œuvre d'un projet. Dans la présente , le terme « ministère » désigne collectivement les organisations énumérées aux annexes I, I.1 et II de la (LGFP). La présente vient appuyer la et elle appuiera les organisations dans leur quête en vue de regrouper leurs activités et de réaliser des gains accrus d'efficacité."
+    "en": "The approaches outlined in the Guideline reflect current best practices from the private sector, other jurisdictions, and consultations with government departments. The Guideline recognizes that although the use and applicability of service agreements should be standard government-wide, service agreements should be tailored to the circumstances and requirements of the participating departments, the various collaborative arrangements they may use, and the complexity of the service relationship. The goal of this Guideline is to give program and service managers and executives an appreciation of the key elements involved in establishing effective service agreements that support client-centered, well-managed services.",
+    "fr": "Les processus décrits dans la présente Ligne directrice s'inspirent des pratiques exemplaires du secteur privé et d'autres administrations publiques ainsi que de consultations auprès de ministères. La Ligne directrice prend acte que, même si tout le gouvernement devrait utiliser et appliquer des ententes de services, chaque entente devrait refléter les circonstances et les besoins des ministères participants, les différents accords de collaboration qu'ils suivent ainsi que la complexité de la relation de service. La présente Ligne directrice vise à présenter sommairement aux gestionnaires et aux cadres de programmes et de services les éléments clés dont on doit tenir compte dans l'élaboration d'ententes de services efficaces qui appuient une prestation de services bien gérée et axée sur la clientèle.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Specifically excluded from this is a discussion of service relationships between the federal government and an individual or private sector organization which are typically covered by a contract, grant and contribution agreement, or sales agreement/invoice. Although the principles and elements involved in a service agreement between two government organizations are equally applicable to service arrangements where, for example, an external firm delivers a service to one or more client departments, where an external firm or delivers a service on behalf of a department, or where a department provides a service to an external client for a fee, these types of contracts and agreements and the related concepts of price and profit are not within the scope of this .",
-    "fr": "La présente ne traite pas des relations de service entre le gouvernement fédéral et une personne ou une entreprise du secteur privé pour lesquelles on conclut habituellement un marché, une entente de subvention ou de contribution, ou encore un contrat de vente ou une facture. Bien que les principes et les éléments d'une entente de services entre deux organismes gouvernementaux s'appliquent tout autant à une entente de services avec l'extérieur (p. ex., lorsqu'une entreprise de l'extérieur fournit un service à un ou à plusieurs ministères clients, lorsqu'une entreprise de l'extérieur ou une fournit un service au nom d'un ministère, ou encore lorsqu'un ministère fournit un service à un client de l'extérieur contre paiement), ce type de marchés et d'ententes, tout comme les concepts de prix et de profits qui y sont liés, ne s'insère pas dans la portée de cette ."
+    "en": "This Guideline should be read in conjunction with the following documents:",
+    "fr": "Les documents suivants devraient être lus en parallèle avec la présente Ligne directrice :",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "The approaches outlined in the reflect current best practices from the private sector, other jurisdictions, and consultations with government departments. The recognizes that although the use and applicability of service agreements should be standard government-wide, service agreements should be tailored to the circumstances and requirements of the participating departments, the various collaborative arrangements they may use, and the complexity of the service relationship. The goal of this is to give program and service managers and executives an appreciation of the key elements involved in establishing effective service agreements that support client-centered, well-managed services.",
-    "fr": "Les processus décrits dans la présente s'inspirent des pratiques exemplaires du secteur privé et d'autres administrations publiques ainsi que de consultations auprès de ministères. La prend acte que, même si tout le gouvernement devrait utiliser et appliquer des ententes de services, chaque entente devrait refléter les circonstances et les besoins des ministères participants, les différents accords de collaboration qu'ils suivent ainsi que la complexité de la relation de service. La présente vise à présenter sommairement aux gestionnaires et aux cadres de programmes et de services les éléments clés dont on doit tenir compte dans l'élaboration d'ententes de services efficaces qui appuient une prestation de services bien gérée et axée sur la clientèle."
+    "en": "Guideline on Service Agreements: Essential ElementsGuideline on Service StandardsGuide to CostingDirective on Internal Support ServicesOther Treasury Board policy instruments relevant to service delivery or related to governance, price, and performance.",
+    "fr": "la Ligne directrice sur les ententes de services – Éléments essentielsla Ligne directrice sur les normes de servicele Guide d'établissement des coûtsla Directive sur les services internes de soutienles autres instruments de politique du Conseil du Trésor traitant de la prestation de services, de la gouvernance, des prix et du rendement.",
+    "anchor": "1",
+    "tag": "ul"
   },
   {
-    "en": "This should be read in conjunction with the following documents:",
-    "fr": "Les documents suivants devraient être lus en parallèle avec la présente :"
+    "en": "The Structure of this GuidelineThis Guideline is divided into the following sections.Section 2 explains key concepts associated with service agreements.Section 3 looks at how a service relationship is defined and then articulated in a service agreement, including a summary of the key elements that should be covered in a service agreement.Section 4 outlines the different types of service agreements and where they are best applied, including the suggested form and format of agreements and the general process of development.",
+    "fr": "Structure de la Ligne directriceLa présente Ligne directrice est divisée en trois sections :La section 2 explique les concepts essentiels liés aux ententes de services.La section 3 examine de quelle manière la relation de service est définie et intégrée dans une entente de services et passe en revue les principaux éléments que devrait contenir une entente de services.La section 4 décrit les divers types d'ententes de services et les circonstances dans lesquelles elles s'appliquent, y compris le modèle et le format proposés et le processus général d'élaboration d'une entente.",
+    "anchor": "1",
+    "tag": "div"
   },
   {
-    "en": "This is divided into the following sections.",
-    "fr": "La présente est divisée en trois sections :"
+    "en": "What Is a Service Relationship?",
+    "fr": "Qu'est-ce qu'une relation de service?",
+    "anchor": "2",
+    "tag": "h3"
   },
   {
-    "en": "explains key concepts associated with service agreements.",
-    "fr": "explique les concepts essentiels liés aux ententes de services."
-  },
-  {
-    "en": "looks at how a service relationship is defined and then articulated in a service agreement, including a summary of the key elements that should be covered in a service agreement.",
-    "fr": "examine de quelle manière la relation de service est définie et intégrée dans une entente de services et passe en revue les principaux éléments que devrait contenir une entente de services."
-  },
-  {
-    "en": "outlines the different types of service agreements and where they are best applied, including the suggested form and format of agreements and the general process of development.",
-    "fr": "décrit les divers types d'ententes de services et les circonstances dans lesquelles elles s'appliquent, y compris le modèle et le format proposés et le processus général d'élaboration d'une entente."
-  },
-  {
-    "en": "Before initiating a service relationship whereby a department is providing a service to or on behalf of another department, the parties to the agreement are encouraged to ensure that they have:",
-    "fr": "Avant d'initier une relation de service dans laquelle un ministère fournit un service à un autre ministère, ou au nom d'un autre ministère, on encourage les parties à cette entente à vérifier si elles détiennent :"
+    "en": "Important!Before initiating a service relationship whereby a department is providing a service to or on behalf of another department, the parties to the agreement are encouraged to ensure that they have:The legal mandate to provide the service. The authority to cost recover, if applicable.Revenue re-spending authority, if applicable.Delegated FAA authorities for sections 33 and 34 to the service provider as required.Any other necessary authorities, including authority to collect personal information.",
+    "fr": "Important!Avant d'initier une relation de service dans laquelle un ministère fournit un service à un autre ministère, ou au nom d'un autre ministère, on encourage les parties à cette entente à vérifier si elles détiennent :le mandat juridique de fournir ce service;le pouvoir de recouvrer les coûts, s'il y a lieu;le pouvoir de réutiliser les recettes, s'il y a lieu;les pouvoirs délégués au fournisseur du service selon les articles 33 et 34 de la Loi sur la gestion des finances publiques, selon les besoins;tout autre pouvoir nécessaire, dont celui de recueillir des renseignements personnels.",
+    "anchor": "2",
+    "tag": "div"
   },
   {
     "en": "A service relationship between two or more parties arises when:",
-    "fr": "Il y a relation de service entre deux parties ou plus:"
+    "fr": "Il y a relation de service entre deux parties ou plus:",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "A is the provision of a specific output, including information, that addresses one or more needs of an intended recipient and contributes to the achievement of an outcome.",
-    "fr": "Un est la fourniture d'un extrant particulier, y compris de l'information, qui répond à un ou à plusieurs besoins d'un destinataire prévu et qui contribue à l'atteinte d'un résultat."
+    "en": "one party provides a service to another, typically on a fee for service basis (client/provider relationship); or,when two or more departments collaborate by pooling resources to jointly create and/or deliver a service or project (collaborative relationship).",
+    "fr": "quand une partie fournit un service à une autre partie, généralement selon la formule du paiement à l'acte (relation client-fournisseur); ouquand deux ministères ou plus collaborent ensemble en mettant leurs ressources en commun pour fournir un service ou réaliser un projet (relation de collaboration).",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
-    "en": "Departments can use this definition of service to build an inventory of the services they deliver. Understanding what services are provided and details regarding these services are an important first step in service management.",
-    "fr": "Les ministères peuvent utiliser cette définition pour établir l'inventaire des services qu'ils fournissent. Une bonne compréhension des services fournis et de leurs particularités est une première étape importante dans la gestion des services."
+    "en": "What Is a Service Agreement?",
+    "fr": "Qu'est-ce qu'une entente de services?",
+    "anchor": "2",
+    "tag": "h3"
   },
   {
-    "en": "A is a formal agreement between two or more parties that articulates the terms and conditions of a particular .",
-    "fr": "Une est un accord formel entre deux parties ou plus qui définit les modalités dune particulière."
+    "en": "Did You Know?A service is the provision of a specific output, including information, that addresses one or more needs of an intended recipient and contributes to the achievement of an outcome.Departments can use this definition of service to build an inventory of the services they deliver. Understanding what services are provided and details regarding these services are an important first step in service management.",
+    "fr": "Le saviez-vous?Un service est la fourniture d'un extrant particulier, y compris de l'information, qui répond à un ou à plusieurs besoins d'un destinataire prévu et qui contribue à l'atteinte d'un résultat.Les ministères peuvent utiliser cette définition pour établir l'inventaire des services qu'ils fournissent. Une bonne compréhension des services fournis et de leurs particularités est une première étape importante dans la gestion des services.",
+    "anchor": "2",
+    "tag": "div"
+  },
+  {
+    "en": "A service agreement is a formal agreement between two or more parties that articulates the terms and conditions of a particular service relationship.",
+    "fr": "Une entente de services est un accord formel entre deux parties ou plus qui définit les modalités dune relation de service particulière.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "Service agreements serve three primary functions:",
-    "fr": "Les ententes de services ont trois fonctions principales :"
+    "fr": "Les ententes de services ont trois fonctions principales :",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "Articulating the expectations of the parties to the agreement.Providing a mechanism for governance and issue resolution.Acting as a scorecard against which to examine performance and results.",
+    "fr": "définir les attentes des parties qui signent l'entente;établir un processus de gouvernance et de résolution des problèmes;servir de feuille de pointage pour examiner le rendement et les résultats.",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
     "en": "Service agreements can enhance governance, accountability, and service quality by clearly defining roles, responsibilities, processes, and performance expectations. The practice of establishing service agreements is strongly recommended in any type of client / service provider or collaborative service relationship.",
-    "fr": "Les ententes de services peuvent rehausser la gouvernance, la reddition de comptes et la qualité des services en définissant clairement les rôles, les responsabilités, les processus et les attentes en matière de rendement. On recommande fortement d'établir des ententes de services pour tous les types de relations de service, qu'elle soit entre des clients et des fournisseurs de services ou collaborative."
+    "fr": "Les ententes de services peuvent rehausser la gouvernance, la reddition de comptes et la qualité des services en définissant clairement les rôles, les responsabilités, les processus et les attentes en matière de rendement. On recommande fortement d'établir des ententes de services pour tous les types de relations de service, qu'elle soit entre des clients et des fournisseurs de services ou collaborative.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "In most cases, the parties reach a thorough understanding of the service relationship before specific details found in a supporting service agreement are finalized. Aspects of the service relationship that are typically documented in a service agreement include scope, governance, operations, finances, performance, and implementation.",
-    "fr": "Dans la plupart des cas, les parties définissent bien leur relation de service avant d'établir de façon définitive les détails particuliers de l'entente de services. En général, les aspects de la relation de service documentés dans une entente de services sont la portée des services, la gouvernance, le fonctionnement, les finances, le rendement et la mise en œuvre."
+    "fr": "Dans la plupart des cas, les parties définissent bien leur relation de service avant d'établir de façon définitive les détails particuliers de l'entente de services. En général, les aspects de la relation de service documentés dans une entente de services sont la portée des services, la gouvernance, le fonctionnement, les finances, le rendement et la mise en œuvre.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "This outlines a flexible approach to developing service agreements tailored to the specific requirements of a particular relationship and/or the complexity or scope of the service relationship. Application of the approaches described in this should improve the consistency and clarity of service relationships across government.",
-    "fr": "La présente décrit une démarche souple d'élaboration d'ententes de services en fonction des besoins précis de chaque relation ainsi que de la complexité ou de la portée de la relation de service. L'application des démarches décrites dans cette devrait améliorer la cohérence et la clarté des relations de service dans tout le gouvernement."
+    "en": "This Guideline outlines a flexible approach to developing service agreements tailored to the specific requirements of a particular relationship and/or the complexity or scope of the service relationship. Application of the approaches described in this Guideline should improve the consistency and clarity of service relationships across government.",
+    "fr": "La présente Ligne directrice décrit une démarche souple d'élaboration d'ententes de services en fonction des besoins précis de chaque relation ainsi que de la complexité ou de la portée de la relation de service. L'application des démarches décrites dans cette Ligne directrice devrait améliorer la cohérence et la clarté des relations de service dans tout le gouvernement.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "When Should a Service Agreement Be Used?",
+    "fr": "Quand devrait-on établir une entente de services?",
+    "anchor": "2",
+    "tag": "h3"
   },
   {
     "en": "There are many types of client / service provider and collaborative service arrangements where a service agreement should be considered. Examples of such arrangements include:",
-    "fr": "Il existe de nombreux types d'accords de collaboration ou d'ententes de services entre un client et un fournisseur lorsque qu'une entente de services est envisagée. En voici quelques exemples :"
+    "fr": "Il existe de nombreux types d'accords de collaboration ou d'ententes de services entre un client et un fournisseur lorsque qu'une entente de services est envisagée. En voici quelques exemples :",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Depending on the underlying legislative or policy authority, whether the service provider is a common service organization under the or not, and/or the funding mechanism in play (e.g., appropriation, revolving fund, or net-voting authority), fees or charges for services may be based on full costs, incremental costs, or some other agreed upon basis. For the purposes of this guideline, the term “cost” is used generically. Parties to a service agreement must determine the appropriate basis underlying the service’s fee structure.",
-    "fr": "Selon l'autorité conférée par une législation ou une politique, peu importe que le fournisseur de services soit une organisation de services communs en vertu de la ou non, ou le mécanisme de financement en jeu (p. ex., crédit, fonds renouvelable, ou autorisation de crédit net), les frais pour les services peuvent être fondés sur les coûts totaux, sur les coûts différentiels ou sur toute autre base convenue par les parties. Aux fins de cette ligne directrice, le mot « coût » s'applique de façon générique. Les parties d'une entente de services doivent déterminer le fondement approprié sous-jacent au barème des frais de service."
+    "en": "Bi-lateral service arrangements where one department provides selected services (on a service-by-service basis) to one or more other departments. Although the provider may deliver services to more than one department or external client, each service is a bi-lateral relationship with little or no collaboration between the client departments or external clients. Bi-lateral service relationships can be found between small departments and agencies and their portfolio lead departments, in regional situations where two organizations are co-located or in close proximity to one another, in the provision of client-facing in-person, e-service, or 1-800 services by Service Canada on behalf of one or more departments, and in the hosting and management of corporate administrative systems. Typically the relationship is governed through a bi-lateral service agreement between the client department and provider department.Co-op sharing arrangements where a small number of participating departments pool resources (i.e., people or money) to fund a shared resource or a one-time project. Co-op sharing arrangements are most often found between groups of small departments and agencies seeking to achieve a degree of economies of scale in order to deliver equivalent service at a lower cost or a more effective service for the same cost. The arrangement is typically guided by the participating organizations through a management committee. Co-op services are usually housed administratively in one of the participating departments.Cluster group arrangements where a number of participating departments jointly fund and govern an ongoing service, a joint procurement, or a project. The main difference between a co-op and cluster group arrangement is one of scale. Cluster groups typically have a more sophisticated governance structure with Assistant Deputy Minister (ADM), Director General (DG), and technical committees. Cluster groups often create a permanent program office with a more formal work planning and prioritization process. Cluster Group arrangements are typically found around the management of human resource and finance and materiel systems (e.g., SAP, PeopleSoft, and Oracle). A Cluster Group may be administratively housed in one of the participating departments or at Public Works and Government Services Canada (PWGSC).Shared service arrangements where a service, typically an internal service, is provided by an organization or unit created with a specific mandate to deliver that service to internal clients. The shared services model looks to create large-scale capacity and economies of scale. Services are typically transaction-focused and generally include the domains of human resources, finance, and materiel. Governance is through a Board of Directors. The service provider recovers cost from client departments who purchase services on an annual basis.Common services, mandatory or optional, are an activity of a common service organization (CSO) designated, in the Common Services Policy, as a central supplier of particular services to support the requirements of departments. Mandatory services are mandated either in legislation or policy. Departments must use the mandatory common services listed in Appendix E of the Common Services Policy. Departments may use optional common services offered by CSOs when it makes sense to do so. As a guiding principle, mandatory services provided by a CSO are funded through appropriations while optional services are funded mainly through cost recovery. Although customer relationship management and client experience feedback regimes are typically in place and there may be advisory governance committees, there are rarely formal governance structures through which client departments exercise direct decision-making power over the evolution of the service portfolio.Arrangements with other jurisdictions where a province or municipality delivers a service for or jointly with the federal government, or alternatively, where a department provides a service to a province or municipality in return for a fee. Service arrangements with other jurisdictions are typically in areas where a target group is served by a range of municipal, provincial, and federal programs, or where a range of municipal, provincial, and federal services are delivered in the same region, city, or remote area.",
+    "fr": "Les ententes de services bilatérales – Un ministère fournit des services en particulier (avec paiement à l'acte) à un ou plusieurs autres ministères. Même si le fournisseur sert plus d'un ministère ou client de l'extérieur, il entretient pour chacun des services une relation bilatérale qui ne comprend aucune collaboration, ou très peu, entre les clients ministériels ou de l'extérieur. Les relations de service bilatérales peuvent se créer entre de petits ministères ou organismes gouvernementaux et les ministères qui dirigent leurs portefeuilles; dans des régions lorsque les bureaux de deux organismes sont situés dans un même édifice ou l'un près de l'autre; lorsque Service Canada assure au nom d'un ou de plusieurs ministères l'interaction avec la clientèle, en personne, en ligne, ou par le biais de sa ligne téléphonique sans frais; et dans le cas d'hébergement et de gestion de systèmes administratifs ministériels. Cette relation est normalement régie par une entente de services bilatérale entre le ministère client et le ministère fournisseur.Les ententes de partage coopératif de services – Un petit nombre de ministères participants mettent en commun leurs ressources (c.-à-d. les ressources humaines ou financières) afin de financer une ressource partagée ou un projet ponctuel. Ces ententes de partage coopératif sont le plus souvent signées entre des groupes de petits ministères et organismes gouvernementaux qui s'efforcent de créer une économie d'échelle en offrant un service équivalent à un coût inférieur, ou un service plus efficace au même coût. Habituellement, cette entente est régie par un comité de gestion que créent les organismes participants. On installe généralement le centre administratif des services coopératifs dans les bureaux d'un des ministères participants.Les ententes de regroupement de services – Plusieurs ministères participants financent et régissent ensemble un service continu, une acquisition ou un projet. Les ententes de partage coopératif et les ententes de regroupement de services diffèrent principalement par leur envergure. Les ensembles de services regroupés ont généralement une structure de gouvernance plus complexe, à laquelle participent un sous-ministre adjoint (SMA), un directeur général (DG) et des comités techniques. Ces ensembles créent souvent un bureau de programme permanent ainsi que des processus de planification et de priorisation du travail plus formels. Ces ententes visent généralement la gestion de systèmes de ressources humaines, de finances et d'administration du matériel (p. ex., SAP, PeopleSoft, Oracle). Le centre administratif du regroupement de services se situe souvent dans les bureaux d'un ministère participant ou à Travaux publics et Services gouvernementaux Canada (TPSGC).Les ententes de services partagés – Une organisation ou une unité est créée avec le mandat d'offrir un service bien précis, généralement un service interne, à ses clients internes. Le modèle de services partagés vise à créer une grande capacité et à générer des économies d'échelle. Les services se traduisent d'ordinaire par des transactions et comprennent généralement les domaines des ressources humaines, des finances et du matériel. L'entente est régie par un conseil d'administration. Le fournisseur des services recouvre tous ses coûts des ministères clients qui achètent ses services sur une base annuelle.Les services communs, qui sont obligatoires ou facultatifs, font partie d'une activité d'un organisme de services communs (OSC) désigné, dans le cadre de la Politique sur les services communs, comme fournisseur central de services en particulier afin de combler les besoins des ministères. Les services obligatoires sont exigés en vertu d'une loi ou d'une politique. Les ministères doivent utiliser les services communs obligatoires énumérés à l'appendice E de la Politique sur les services communs. Les ministères ont le choix d'utiliser les services facultatifs offerts par les OSC lorsqu'il convient de le faire. À titre de principe directeur, les services obligatoires que fournit un OSC sont financés au moyen de crédits, alors que les services facultatifs sont principalement financés au moyen de processus de recouvrement complet des coûts. Bien qu'en général, on établisse des systèmes de gestion de la relation avec les consommateurs et de rétro-information sur l'expérience de la clientèle ainsi que, souvent, des comités consultatifs de régie, on ne voit que rarement des structures de régie officielles par lesquelles les ministères clients assument directement la prise de décisions sur l'évolution du portefeuille de services.Les ententes de services conclues avec d'autres administrations – Une province ou une municipalité offre, au nom du gouvernement fédéral ou conjointement avec celui-ci, un service, ou subsidiairement, un ministère fournit un service à une province ou une municipalité contre honoraires. Les ententes de services sont généralement conclues avec d'autres administrations dans les régions où un groupe cible reçoit les services d'un éventail de programmes municipaux, provinciaux et fédéraux ou lorsqu'une même région, une même ville ou un même endroit éloigné reçoit un éventail de services municipaux, provinciaux et fédéraux.",
+    "anchor": "2",
+    "tag": "ul"
+  },
+  {
+    "en": "Important!Depending on the underlying legislative or policy authority, whether the service provider is a common service organization under the Common Services Policy or not, and/or the funding mechanism in play (e.g., appropriation, revolving fund, or net-voting authority), fees or charges for services may be based on full costs, incremental costs, or some other agreed upon basis. For the purposes of this guideline, the term “cost” is used generically. Parties to a service agreement must determine the appropriate basis underlying the service’s fee structure.",
+    "fr": "Important!Selon l'autorité conférée par une législation ou une politique, peu importe que le fournisseur de services soit une organisation de services communs en vertu de la Politique sur les services communs ou non, ou le mécanisme de financement en jeu (p. ex., crédit, fonds renouvelable, ou autorisation de crédit net), les frais pour les services peuvent être fondés sur les coûts totaux, sur les coûts différentiels ou sur toute autre base convenue par les parties. Aux fins de cette ligne directrice, le mot « coût » s'applique de façon générique. Les parties d'une entente de services doivent déterminer le fondement approprié sous-jacent au barème des frais de service.",
+    "anchor": "2",
+    "tag": "div"
   },
   {
     "en": "The client / services provider and collaborative relationships noted above can and are being used for both the ongoing delivery of services and for the delivery of specific one-time projects.",
-    "fr": "Les relations entre clients et fournisseurs de services et les relations de collaboration décrites ci-dessus servent autant à la prestation continue de services qu'à la réalisation de projets uniques."
+    "fr": "Les relations entre clients et fournisseurs de services et les relations de collaboration décrites ci-dessus servent autant à la prestation continue de services qu'à la réalisation de projets uniques.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "Although the form and content of the service agreement should be adapted to the specific conditions of the arrangement, the principles and factors to consider remain the same.",
-    "fr": "Bien qu'on adapte la forme et le contenu des ententes de services en fonction des conditions particulières de chaque relation, les principes et les facteurs dont il faut tenir compte demeurent les mêmes."
+    "fr": "Bien qu'on adapte la forme et le contenu des ententes de services en fonction des conditions particulières de chaque relation, les principes et les facteurs dont il faut tenir compte demeurent les mêmes.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "The term “client” applies generically to both clients in a client / service provider arrangement and to participants in a collaborative service arrangement. The term “service provider” or “provider” applies generically to providers in a client / service provider arrangement and the lead department that is delivering a service within a collaborative arrangement.",
-    "fr": "Le terme « client » s'applique autant aux clients d'une entente de services entre client et fournisseur qu'aux participants d'un accord de collaboration. Le terme « fournisseur de services », ou « fournisseur », s'applique génériquement aux fournisseurs d'une entente entre client et fournisseur et, dans le cadre d'un accord de collaboration, au ministère directeur qui fournit les services."
+    "fr": "Le terme « client » s'applique autant aux clients d'une entente de services entre client et fournisseur qu'aux participants d'un accord de collaboration. Le terme « fournisseur de services », ou « fournisseur », s'applique génériquement aux fournisseurs d'une entente entre client et fournisseur et, dans le cadre d'un accord de collaboration, au ministère directeur qui fournit les services.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "This applies to client/provider arrangements in which a Government of Canada service is provided by one department to, or on behalf of, another department; when two or more departments collaborate on a service or project initiative; or when a province or municipality delivers a service for or jointly with a federal government department, or a department provides a service to a province or municipality. It reflects the current operating and policy environment and will be updated to reflect any legal and/or policy changes that may affect service agreements.",
-    "fr": "La présente s'applique aux ententes entre clients et fournisseurs qui prévoient la prestation de services du gouvernement du Canada par un ministère à un autre ministère, ou au nom d'un autre ministère, lorsque deux ministères ou plus unissent leurs efforts pour fournir un service ou réaliser un projet, ou lorsqu'une province ou une municipalité fournit un service en collaboration avec un ministère fédéral ou pour le compte de ce ministère ou encore lorsque un ministère fournir un service à une province ou une municipalité. Elle correspond au cadre de politique et de fonctionnement en cours et on en fera la mise à jour pour tenir compte de toute modification à la législation ou aux politiques qui pourrait avoir une incidence sur les ententes de services."
+    "en": "This Guideline applies to client/provider arrangements in which a Government of Canada service is provided by one department to, or on behalf of, another department; when two or more departments collaborate on a service or project initiative; or when a province or municipality delivers a service for or jointly with a federal government department, or a department provides a service to a province or municipality. It reflects the current operating and policy environment and will be updated to reflect any legal and/or policy changes that may affect service agreements.",
+    "fr": "La présente Ligne directrice s'applique aux ententes entre clients et fournisseurs qui prévoient la prestation de services du gouvernement du Canada par un ministère à un autre ministère, ou au nom d'un autre ministère, lorsque deux ministères ou plus unissent leurs efforts pour fournir un service ou réaliser un projet, ou lorsqu'une province ou une municipalité fournit un service en collaboration avec un ministère fédéral ou pour le compte de ce ministère ou encore lorsque un ministère fournir un service à une province ou une municipalité. Elle correspond au cadre de politique et de fonctionnement en cours et on en fera la mise à jour pour tenir compte de toute modification à la législation ou aux politiques qui pourrait avoir une incidence sur les ententes de services.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "The Treasury Board defines a contract as “an agreement between a contracting authority and a person or firm to provide a good, perform a service, construct a work, or lease real property for appropriate consideration”. Contracts constitute a legally enforceable agreement between the contracting parties and are subject to the requirements outlined in the .",
-    "fr": "Selon la du Conseil du Trésor, un marché est un « accord conclu entre une autorité contractante et un particulier ou une entreprise, pour la fourniture d'un bien, l'exécution d'un service, la construction d'un ouvrage ou la location à bail d'un bien immobilier, moyennant une contrepartie ». Un marché est un accord conclu entre les parties contractantes, qui a force de loi et qui est assujetti aux exigences de la ."
+    "en": "How Does a Service Contract Differ from a Service Agreement?",
+    "fr": "Quelle est la différence entre un marché de services et une entente de services?",
+    "anchor": "2",
+    "tag": "h3"
+  },
+  {
+    "en": "The Treasury Board Contracting Policy defines a contract as “an agreement between a contracting authority and a person or firm to provide a good, perform a service, construct a work, or lease real property for appropriate consideration”. Contracts constitute a legally enforceable agreement between the contracting parties and are subject to the requirements outlined in the Contracting Policy.",
+    "fr": "Selon la Politique sur les marchés du Conseil du Trésor, un marché est un « accord conclu entre une autorité contractante et un particulier ou une entreprise, pour la fourniture d'un bien, l'exécution d'un service, la construction d'un ouvrage ou la location à bail d'un bien immobilier, moyennant une contrepartie ». Un marché est un accord conclu entre les parties contractantes, qui a force de loi et qui est assujetti aux exigences de la Politique sur les marchés.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "In contrast, a service agreement is a formal administrative understanding between the parties to the agreement. As one cannot enter into a contract with oneself, agreements between federal government departments (part of the same legal entity, the Government of Canada) are administratively binding as opposed to legally enforceable. Deputy heads typically sign service agreements on behalf of their department and are ultimately accountable for delivering on the commitments articulated in the service agreement. It is highly recommended that departments involve their legal services in the development and review of service agreements.",
-    "fr": "Par contre, une entente de services est un engagement administratif officiel que prennent les parties signataires. Comme on ne peut pas conclure un marché avec soi-même, les ententes conclues entre ministères fédéraux (qui font partie de la même entité, soit le gouvernement du Canada) ont force exécutoire administrative mais n'ont pas force de loi. Les administrateurs généraux signent généralement toutes les ententes de services au nom de leur ministère et assument la responsabilité ultime des engagements définis dans ces ententes. On recommande fortement que les ministères consultent leurs services juridiques lorsqu'ils élaborent et révisent leurs ententes de services."
+    "fr": "Par contre, une entente de services est un engagement administratif officiel que prennent les parties signataires. Comme on ne peut pas conclure un marché avec soi-même, les ententes conclues entre ministères fédéraux (qui font partie de la même entité, soit le gouvernement du Canada) ont force exécutoire administrative mais n'ont pas force de loi. Les administrateurs généraux signent généralement toutes les ententes de services au nom de leur ministère et assument la responsabilité ultime des engagements définis dans ces ententes. On recommande fortement que les ministères consultent leurs services juridiques lorsqu'ils élaborent et révisent leurs ententes de services.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "As noted, external service relationships typically covered by a contract, grant and contribution agreement, or sales agreement/invoice are not covered within the scope of this .",
-    "fr": "Comme il est indiqué plus haut, la présente ne traite pas des relations de service avec l'extérieur pour lesquelles on établit un marché, un accord de subventions et contributions, un contrat de vente ou une facture."
+    "en": "As noted, external service relationships typically covered by a contract, grant and contribution agreement, or sales agreement/invoice are not covered within the scope of this Guideline.",
+    "fr": "Comme il est indiqué plus haut, la présente Ligne directrice ne traite pas des relations de service avec l'extérieur pour lesquelles on établit un marché, un accord de subventions et contributions, un contrat de vente ou une facture.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "The is one of the core Treasury Board policy and management instruments.",
-    "fr": "Le constitue un élément essentiel des politiques et instruments de gestion du Conseil du Trésor."
+    "en": "What Is the Relationship of Service Agreements to Risk Management?",
+    "fr": "Quel lien y a-t-il entre les ententes de services et la gestion du risque?",
+    "anchor": "2",
+    "tag": "h3"
+  },
+  {
+    "en": "Did You Know?The Framework for the Management of Risk is one of the core Treasury Board policy and management instruments.",
+    "fr": "Le saviez-vous?Le Cadre stratégique de gestion du risque constitue un élément essentiel des politiques et instruments de gestion du Conseil du Trésor.",
+    "anchor": "2",
+    "tag": "div"
   },
   {
     "en": "For the Government of Canada to continually improve its services, it is important to use a management regime that fosters efficiency, effectiveness, flexibility, innovation, and results. This need coincides with government’s desire to improve service delivery through collaboration, which carries an element of risk.",
-    "fr": "Pour que le gouvernement du Canada améliore continuellement ses services, il est important de recourir à un système de gestion qui favorise l'efficacité, l'efficience, la souplesse et l'innovation et qui soit axé sur les résultats. Cette nécessité coïncide avec le désir du gouvernement d'améliorer la prestation des services grâce à la collaboration, ce qui comporte sa part de risque."
+    "fr": "Pour que le gouvernement du Canada améliore continuellement ses services, il est important de recourir à un système de gestion qui favorise l'efficacité, l'efficience, la souplesse et l'innovation et qui soit axé sur les résultats. Cette nécessité coïncide avec le désir du gouvernement d'améliorer la prestation des services grâce à la collaboration, ce qui comporte sa part de risque.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "Service agreements are an important risk management and mitigation tool that helps deputy heads fulfill their responsibilities and accountabilities. Deputy heads should have a clear plan of how risk will be managed when entering into a contract or a service agreement particularly as they relate to their accountabilities. The complexity and level of collaboration should drive the risk management approach and the level of detail pursued. In addition to managing and mitigating specific service delivery risks (as identified in a horizontal risk assessment), an updated Business Continuity Plan (BCP) should guide how a partially or completely interrupted service will be restored after a disaster or extended disruption. Conversely, the ability to quickly adapt and add new services in a time of emergency, such as to provide disaster assistance or the ability to continue to provide services during such a time should be considered as needed.",
-    "fr": "Les ententes de services constituent un instrument de gestion et d'atténuation du risque important qui aide les administrateurs généraux à s'acquitter de leurs responsabilités et à rendre des comptes. Les administrateurs généraux devraient planifier avec soin la gestion des risques lorsqu'ils concluent un marché ou une entente de services, surtout s'ils doivent en rendre compte. L'approche adoptée en matière de gestion du risque et le niveau de détail dépendront de la complexité et du niveau de la collaboration. Outre la gestion et l'atténuation des risques inhérents à la prestation des services (comme ceux qui ont été cernés dans le cadre d'une évaluation horizontale du risque), il faut établir un plan de continuité des activités (PCA) à jour indiquant de quelle manière le service sera rétabli en totalité ou en partie à la suite d'une catastrophe ou d'une interruption prolongée. Il faudrait, par ailleurs, prendre en considération la capacité de s'adapter rapidement et d'ajouter de nouveaux services en cas d'urgence, comme fournir de l'aide aux sinistrés, ou la capacité de continuer de fournir le service pendant une situation de ce genre."
+    "fr": "Les ententes de services constituent un instrument de gestion et d'atténuation du risque important qui aide les administrateurs généraux à s'acquitter de leurs responsabilités et à rendre des comptes. Les administrateurs généraux devraient planifier avec soin la gestion des risques lorsqu'ils concluent un marché ou une entente de services, surtout s'ils doivent en rendre compte. L'approche adoptée en matière de gestion du risque et le niveau de détail dépendront de la complexité et du niveau de la collaboration. Outre la gestion et l'atténuation des risques inhérents à la prestation des services (comme ceux qui ont été cernés dans le cadre d'une évaluation horizontale du risque), il faut établir un plan de continuité des activités (PCA) à jour indiquant de quelle manière le service sera rétabli en totalité ou en partie à la suite d'une catastrophe ou d'une interruption prolongée. Il faudrait, par ailleurs, prendre en considération la capacité de s'adapter rapidement et d'ajouter de nouveaux services en cas d'urgence, comme fournir de l'aide aux sinistrés, ou la capacité de continuer de fournir le service pendant une situation de ce genre.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "A service agreement articulates a service relationship between two or more parties. Defining the service relationship, specifically the nature and scope of the services involved, the relationship’s governance and operations, the finances, and the performance measurement and reporting regime, is a necessary prerequisite to defining a service agreement.",
-    "fr": "L'entente de services établit les paramètres de la relation de service entre deux parties ou plus. Avant de définir l'entente de services, il est essentiel de définir cette relation de service, notamment la nature et la portée des services rendus, la gouvernance et le fonctionnement de la relation, les finances, le système de mesure de rendement et d'établissement de rapports."
+    "fr": "L'entente de services établit les paramètres de la relation de service entre deux parties ou plus. Avant de définir l'entente de services, il est essentiel de définir cette relation de service, notamment la nature et la portée des services rendus, la gouvernance et le fonctionnement de la relation, les finances, le système de mesure de rendement et d'établissement de rapports.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "Key Questions",
+    "fr": "Questions clés",
+    "anchor": "3",
+    "tag": "h3"
   },
   {
     "en": "Developing a service relationship typically involves answers to the following questions:",
-    "fr": "Pour définir la relation de service, il faut généralement se poser les questions suivantes :"
+    "fr": "Pour définir la relation de service, il faut généralement se poser les questions suivantes :",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Typically, discussions around more complicated service arrangements take place in sequence over time, with documentation produced at the conclusion of each activity. In less complex, narrower scope arrangements, the parties may choose to simplify the process. Regardless of the approach chosen, it is important that the parties keep the end goals in mind throughout the process.",
-    "fr": "Les discussions amenant à la conclusion d'une entente de services plus complexe se font en général graduellement et évoluent avec le temps. Les participants produisent des documents à la fin de chaque séance. Pour des ententes moins complexes et à moindre portée, les parties optent souvent de simplifier le processus. Quelle que soit la démarche choisie, il est important que les parties gardent en tête leurs objectifs ultimes tout au long du processus."
+    "en": "Important!Typically, discussions around more complicated service arrangements take place in sequence over time, with documentation produced at the conclusion of each activity. In less complex, narrower scope arrangements, the parties may choose to simplify the process. Regardless of the approach chosen, it is important that the parties keep the end goals in mind throughout the process.",
+    "fr": "Important!Les discussions amenant à la conclusion d'une entente de services plus complexe se font en général graduellement et évoluent avec le temps. Les participants produisent des documents à la fin de chaque séance. Pour des ententes moins complexes et à moindre portée, les parties optent souvent de simplifier le processus. Quelle que soit la démarche choisie, il est important que les parties gardent en tête leurs objectifs ultimes tout au long du processus.",
+    "anchor": "3",
+    "tag": "div"
+  },
+  {
+    "en": "What services am I receiving and for how much? What am I providing and what is the basis of recovery if any? Stable, long-term service relationships are based on win-win propositions. The client receives value for money while the provider successfully delivers the service while covering their costs through appropriation or some other basis of recovery. The parties should explore the scope and level of services, associated performance targets, potential for efficiency and effectiveness gains, and related financial arrangements.How will it work? Successful service relationships can “sour” over seemingly minor operational misunderstandings. Therefore, the parties should clarify governance arrangements, relative roles and responsibilities, related decision-making powers, approval processes, amendment and termination mechanisms, and put mechanisms in place to solve and/or mitigate issues in a timely fashion. The implications of client compliance with service provider standards should be fully understood.How do we get there? Implementation of a new service relationship has an impact on both clients and providers and often demands a level of commitment and resourcing that can stretch the capacity of both parties. Implementation of a new client/provider or collaborative arrangement typically involves changes in roles, responsibilities and processes, the implementation of new technologies or interfaces, the training of users and support staff, and the transfer and conversion of data. The parties should define the implementation approach, timeframes, responsibilities, and resource and skill requirements.",
+    "fr": "Quels services obtiens-je et à quel prix? Qu'est-ce que je fournis, et sur quelle base se fait le recouvrement des coûts, s'il y a lieu? – Les relations de service stables à long terme sont structurées de manière à ce que toutes les parties y gagnent. Le client optimise ses ressources tandis que le fournisseur fournit le service de manière satisfaisante en en recouvrant le coût par allocation ou sur une autre base de recouvrement. Les parties devraient examiner la portée et le niveau des services ainsi que les objectifs de rendement, les possibilités de gains en matière d'efficacité et d'efficience, et les accords financiers qui y sont liés.Comment cette entente s'articulera-t-elle? – Un malentendu opérationnel des plus inoffensifs peut gâter les meilleures relations de service. Ainsi les parties devraient définir avec précision le processus de gouvernance, les responsabilités et rôles relatifs, les pouvoirs décisionnels, les processus d'approbation et les processus de modification et de résiliation de l'entente, et instaurer des processus pour résoudre ou atténuer rapidement les problèmes. Le client devrait pleinement comprendre toutes les implications que représente pour lui la conformité aux normes du fournisseur de services.Comment y parvenir? – La concrétisation d'une nouvelle relation de service a une incidence sur les clients et sur les fournisseurs, et exige souvent un niveau d'engagement et de ressources qui peut mettre à dure épreuve les capacités des deux parties. La mise en œuvre d'un nouvel accord de collaboration ou d'une nouvelle entente de services entre un client et un fournisseur nécessite souvent la modification des rôles, des responsabilités et des processus, l'application de nouvelles technologies ou interfaces, la formation des utilisateurs et du personnel de soutien, et le transfert et la conversion de données. Les parties devraient définir le processus, le calendrier, les responsabilités ainsi que les ressources et les compétences nécessaires à la mise en œuvre de l'entente.",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "As the parties consider these questions, many of the related terms and conditions will be translated into a clause or a provision in a service agreement, most often under one or more of the following subject areas: scope, governance, operations, finances, performance, and implementation.",
-    "fr": "En examinant ces questions, les parties transposeront nombre des conditions en dispositions d'une entente de services qui portera en général sur l'un ou plusieurs des domaines suivants : la portée, la gouvernance, le fonctionnement, les finances, le rendement et la mise en œuvre."
+    "fr": "En examinant ces questions, les parties transposeront nombre des conditions en dispositions d'une entente de services qui portera en général sur l'un ou plusieurs des domaines suivants : la portée, la gouvernance, le fonctionnement, les finances, le rendement et la mise en œuvre.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "Key Inputs",
+    "fr": "Principaux éléments",
+    "anchor": "3",
+    "tag": "h3"
   },
   {
     "en": "A degree of preparation is required by both parties before they can productively sit down to discuss a service relationship.",
-    "fr": "Les parties ne peuvent pas tenir de discussions productives sur leur relation de service sans s'être préparées au préalable."
+    "fr": "Les parties ne peuvent pas tenir de discussions productives sur leur relation de service sans s'être préparées au préalable.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "Ideally, the clients should have a clear idea of the problem they are trying to solve or opportunity they are wanting to take advantage of and how they expect the new service relationship will help contribute to their objectives. They need to have a good understanding of their current baseline costs and their current and desired levels of service. If there are non-negotiable or unique business requirements (e.g., functions that must be retained, privacy or independence concerns, implementation timelines or deadlines, unique regional or functional requirements), these should be clearly identified. In short, clients need to be good buyers.",
-    "fr": "Idéalement, les clients devraient avoir une idée précise du problème qu'ils veulent résoudre ou de l'opportunité dont ils veulent tirer avantage, et de la manière dont ils s'attendent que la nouvelle relation de service les aidera à atteindre leurs objectifs. Ils ont également besoin d'avoir une très bonne compréhension de leurs coûts de base actuels et des niveaux de service actuels et souhaités. Les exigences non négociables ou les exigences opérationnelles particulières (par exemple, les fonctions qui doivent être maintenues, les préoccupations en matière de protection des renseignements personnels ou d'indépendance, les calendriers ou les échéances de mise en œuvre, les exigences régionales ou fonctionnelles particulières) devraient être énoncées clairement. Bref, les clients doivent se montrer de bons acheteurs."
+    "fr": "Idéalement, les clients devraient avoir une idée précise du problème qu'ils veulent résoudre ou de l'opportunité dont ils veulent tirer avantage, et de la manière dont ils s'attendent que la nouvelle relation de service les aidera à atteindre leurs objectifs. Ils ont également besoin d'avoir une très bonne compréhension de leurs coûts de base actuels et des niveaux de service actuels et souhaités. Les exigences non négociables ou les exigences opérationnelles particulières (par exemple, les fonctions qui doivent être maintenues, les préoccupations en matière de protection des renseignements personnels ou d'indépendance, les calendriers ou les échéances de mise en œuvre, les exigences régionales ou fonctionnelles particulières) devraient être énoncées clairement. Bref, les clients doivent se montrer de bons acheteurs.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "Ideally, the service providers will have defined their service offerings (i.e., service inventory), how the service is offered (e.g., basic and optional service packages), how the service is delivered (e.g., channels, minimum technical requirements, transferred and retained functions and business processes), the cost recovery model if applicable, and the implementation approach and activities. The service providers should also determine whether the new clients can be accommodated within their existing capacity or whether an incremental investment is required to expand their productive capacity.",
-    "fr": "Il est préférable que les fournisseurs de services aient défini leur offre de services (c'est-à-dire l'inventaire des services), de quelle manière le service est offert (par exemple, des ensembles de services de base et de services facultatifs), de quelle manière le service est fourni (par exemple, les modes de prestation, les exigences techniques minimales, les fonctions transférées et maintenues, les processus opérationnels), le modèle de recouvrement des coûts, s'il y a lieu, et les processus et les activités de mise en œuvre. Les fournisseurs de services devraient également déterminer s'ils ont actuellement la capacité de répondre aux besoins des nouveaux clients ou s'ils doivent investir des fonds supplémentaires pour accroître leur capacité de production."
+    "fr": "Il est préférable que les fournisseurs de services aient défini leur offre de services (c'est-à-dire l'inventaire des services), de quelle manière le service est offert (par exemple, des ensembles de services de base et de services facultatifs), de quelle manière le service est fourni (par exemple, les modes de prestation, les exigences techniques minimales, les fonctions transférées et maintenues, les processus opérationnels), le modèle de recouvrement des coûts, s'il y a lieu, et les processus et les activités de mise en œuvre. Les fournisseurs de services devraient également déterminer s'ils ont actuellement la capacité de répondre aux besoins des nouveaux clients ou s'ils doivent investir des fonds supplémentaires pour accroître leur capacité de production.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "In some cases, particularly when new services are involved, the clients and/or service providers may not have the information required to fully define all aspects of their service relationship. Service agreements can still be concluded in cases where more analysis or a pilot project is required. However, for the protection of both parties, a process to complete the analysis or pilot should be jointly formulated and articulated in the service agreement. The process should include appropriate off-ramps should the analysis or pilot indicate that a viable win-win relationship is not achievable. It is preferable that a non-viable relationship be abandoned at the outset before significant investments or contractual commitments are made.",
-    "fr": "Dans certains cas, plus particulièrement lorsqu'il s'agit de nouveaux services, les clients ou les fournisseurs de services ne disposent pas nécessairement de l'information requise pour définir pleinement tous les aspects de la relation de service. Rien n'empêche les parties de conclure une entente de services même si une analyse plus poussée ou un projet pilote est nécessaire. Cependant, pour la protection des deux parties, un processus visant la réalisation de l'analyse ou du projet pilote devrait être élaboré conjointement dans le cadre de l'entente de services. Le processus devrait comporter des voies de sortie si l'analyse ou le projet pilote indique qu'il est impossible pour les parties d'établir une relation viable. Il est préférable d'abandonner une relation non viable avant d'entreprendre des investissements importants ou de prendre des engagements contractuels."
+    "fr": "Dans certains cas, plus particulièrement lorsqu'il s'agit de nouveaux services, les clients ou les fournisseurs de services ne disposent pas nécessairement de l'information requise pour définir pleinement tous les aspects de la relation de service. Rien n'empêche les parties de conclure une entente de services même si une analyse plus poussée ou un projet pilote est nécessaire. Cependant, pour la protection des deux parties, un processus visant la réalisation de l'analyse ou du projet pilote devrait être élaboré conjointement dans le cadre de l'entente de services. Le processus devrait comporter des voies de sortie si l'analyse ou le projet pilote indique qu'il est impossible pour les parties d'établir une relation viable. Il est préférable d'abandonner une relation non viable avant d'entreprendre des investissements importants ou de prendre des engagements contractuels.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "What Services Am I Receiving and for How Much?",
+    "fr": "Quels services obtiens-je et à quel prix?",
+    "anchor": "3",
+    "tag": "h3"
   },
   {
     "en": "A service relationship is defined by its value proposition.",
-    "fr": "Une relation de service se définit en fonction de sa proposition de valeur."
+    "fr": "Une relation de service se définit en fonction de sa proposition de valeur.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Department X provides internal support services to a number of departments and agencies within its portfolio. Department X’s service relationship with each client department is characterized by the specific services it provides and the various governance and operating processes and protocols that apply. Each client department negotiates specific requirements for its services and Department X provides the services based on the terms and conditions set out in a service agreement.",
-    "fr": "Dans le cadre de son portefeuille, le ministère X fournit des services à l'interne à plusieurs ministères et organismes gouvernementaux. Sa relation de service avec chacun de ses ministères clients se caractérise par la particularité de ses services et par les divers processus et protocoles de gouvernance et de fonctionnement qui s'y appliquent. Chaque ministère client négocie la solution à ses besoins en services, et le ministère X fournit ses services en fonction des conditions établies dans le cadre d'ententes de services."
+    "en": "Service Relationships in Practice: An ExampleDepartment X provides internal support services to a number of departments and agencies within its portfolio. Department X’s service relationship with each client department is characterized by the specific services it provides and the various governance and operating processes and protocols that apply. Each client department negotiates specific requirements for its services and Department X provides the services based on the terms and conditions set out in a service agreement.",
+    "fr": "Exemple pratique de relation de serviceDans le cadre de son portefeuille, le ministère X fournit des services à l'interne à plusieurs ministères et organismes gouvernementaux. Sa relation de service avec chacun de ses ministères clients se caractérise par la particularité de ses services et par les divers processus et protocoles de gouvernance et de fonctionnement qui s'y appliquent. Chaque ministère client négocie la solution à ses besoins en services, et le ministère X fournit ses services en fonction des conditions établies dans le cadre d'ententes de services.",
+    "anchor": "3",
+    "tag": "div"
   },
   {
     "en": "For most clients, the service in question is already delivered in-house or by an existing service provider at a particular level of service and cost. Clients pursue new or modify existing alternative service delivery arrangements to expand the scope of a service, improve the levels of service, reduce costs, mitigate risks (such as skills shortages), or some combination thereof. A client’s value proposition is typically defined through the following questions:",
-    "fr": "Dans la plupart des cas, les clients reçoivent déjà le service en question à l'interne ou auprès d'un fournisseur de services existant pour un certain coût et à un certain niveau. Les clients cherchent de nouveaux modes de prestation des services ou modifient les ententes existantes pour une initiative de diversification des modes de prestation parce qu'ils désirent étendre la portée des services, en rehausser le niveau, réduire les coûts, atténuer les risques tels une pénurie de compétences, ou pour plusieurs de ces raisons. Habituellement, on définit la proposition de valeur du client en répondant aux questions suivantes :"
+    "fr": "Dans la plupart des cas, les clients reçoivent déjà le service en question à l'interne ou auprès d'un fournisseur de services existant pour un certain coût et à un certain niveau. Les clients cherchent de nouveaux modes de prestation des services ou modifient les ententes existantes pour une initiative de diversification des modes de prestation parce qu'ils désirent étendre la portée des services, en rehausser le niveau, réduire les coûts, atténuer les risques tels une pénurie de compétences, ou pour plusieurs de ces raisons. Habituellement, on définit la proposition de valeur du client en répondant aux questions suivantes :",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "What is the scope and level of service I will receive and how does it compare to my existing service?Are there any service gaps (positive or negative) and what are the implications of those gaps?How much is it going to cost? Is it less expensive than my current cost?Are optional services / service levels offered and what are their costs?Are there other intangible benefits?Are any risks introduced through this arrangement? Does this arrangement mitigate one or more of my existing risks?",
+    "fr": "Quelle portée et quel niveau de service est-ce que je vais acquérir, et comment se comparent-ils au service que je reçois présentement?Y a-t-il des écarts, positifs ou négatifs, et quelles sont les répercussions de ces écarts?Combien ce service coûtera-t-il? Sera-t-il moins cher que ce que j'ai actuellement?M'offre-t-on des services ou des niveaux de service optionnels, et quels en seront les coûts supplémentaires?Y trouverai-je d'autres avantages intangibles?Cette offre comporte-t-elle des risques? Atténue-t-elle un ou plusieurs des risques que nous courons actuellement?",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "Typically, a service provider already delivers the service in question. Providers understand the scope and level of service offered and they understand their cost recovery model or price. The delivery model has been standardized and refined over time to take advantage of operational efficiencies and economies of scale. Providers usually take on new clients to realize greater economies of scale and efficiency. Service providers tend to avoid clients who do not fit their standard service and delivery model because unique requirements and one-off services can adversely impact efficiency and economies of scale.",
-    "fr": "En général, un ou des fournisseurs offrent déjà le service en question. Ces derniers comprennent bien la portée et le niveau du service offert ainsi que le modèle de recouvrement des coûts, ou le prix. Le modèle de prestation a été harmonisé et peaufiné avec le temps en tenant compte des efficiences opérationnelles et des économies d'échelle. Les fournisseurs acceptent habituellement de nouveaux clients afin d'obtenir de meilleures économies d'échelle et d'améliorer l'efficience de leurs services. Les fournisseurs de services évitent généralement les clients qui ne s'insèrent pas dans leur modèle de service et de prestation, parce que les besoins particuliers et les services fournis à un seul client nuisent à leur efficience et à leurs économies d'échelle. Le fournisseur définira donc normalement sa proposition de valeur en posant les questions suivantes :"
+    "fr": "En général, un ou des fournisseurs offrent déjà le service en question. Ces derniers comprennent bien la portée et le niveau du service offert ainsi que le modèle de recouvrement des coûts, ou le prix. Le modèle de prestation a été harmonisé et peaufiné avec le temps en tenant compte des efficiences opérationnelles et des économies d'échelle. Les fournisseurs acceptent habituellement de nouveaux clients afin d'obtenir de meilleures économies d'échelle et d'améliorer l'efficience de leurs services. Les fournisseurs de services évitent généralement les clients qui ne s'insèrent pas dans leur modèle de service et de prestation, parce que les besoins particuliers et les services fournis à un seul client nuisent à leur efficience et à leurs économies d'échelle. Le fournisseur définira donc normalement sa proposition de valeur en posant les questions suivantes :",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "A provider’s value proposition is likely to be defined through the following questions:",
-    "fr": "Clients et fournisseurs ont des objectifs communs et concurrents. Il est souvent difficile de trouver une solution qui profite aux deux, mais cela est crucial au succès à long terme de la relation de service. Bien qu'il faille beaucoup de temps pour définir les questions de gouvernance, de fonctionnement et de mise en œuvre, il vaut vraiment la peine de s'y arrêter, car si l'une ou l'autre des parties n'y trouve pas sa proposition de valeur, la relation de service pourrait être vouée à l'échec."
+    "fr": "Est-ce que le service que j'offre actuellement répond aux exigences et aux attentes de ce client? Ce client a-t-il des attentes et des besoins particuliers qui ne s'insèrent pas dans mon modèle et dans mes capacités de prestation?Est-ce que je serai en mesure de couvrir tous les coûts grâce à des allocations ou à un autre modèle de recouvrement?Les exigences de ce client nuiront-elles à mes activités opérationnelles ou à ma capacité à fournir mes activités mandatées?Ma capacité actuelle suffit-elle aux volumes de ce client? Me faudra-t-il accroître ma capacité de production?Y a-t-il des enjeux à long terme dont je devrais tenir compte quant à la capacité d'un service à s'adapter à la demande ou à l'obsolescence des systèmes?Y a-t-il d'autres avantages intangibles?Cette offre comporte-t-elle des risques? Atténue-t-elle un ou plusieurs des risques que nous courons actuellement?",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "Can my existing service offering meet the client’s requirements and expectations? Does the client have unique requirements and expectations that are outside my delivery model and capabilities?Can I cover my costs through appropriation or some other basis of recovery?Will this client’s requirements have an adverse impact on my operations or my ability to deliver my mandated activities?Can my existing capacity accommodate the client’s volumes? Will I need to expand my productive capacity?Are there any long term scalability and/or rust out issues I should consider?Are there other intangible benefits?Are any risks introduced through this arrangement? Does this arrangement mitigate one or more of my existing risks?",
+    "fr": "Clients et fournisseurs ont des objectifs communs et concurrents. Il est souvent difficile de trouver une solution qui profite aux deux, mais cela est crucial au succès à long terme de la relation de service. Bien qu'il faille beaucoup de temps pour définir les questions de gouvernance, de fonctionnement et de mise en œuvre, il vaut vraiment la peine de s'y arrêter, car si l'une ou l'autre des parties n'y trouve pas sa proposition de valeur, la relation de service pourrait être vouée à l'échec.",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "Clients and providers have both common and competing objectives. Finding a win-win proposition can be a challenge, but is a necessary prerequisite to a successful long-term service relationship. Although governance, operational, and implementation issues are time consuming, they are well worth the investment in time as the lack of a value proposition for either party is a potential show-stopper.",
-    "fr": "Le processus de définition des besoins, des lacunes, des attentes et des risques est à la base de la relation de service. Habituellement, on les décrit en détail dans les sections suivantes de l'entente de services :"
+    "fr": "Le processus de définition des besoins, des lacunes, des attentes et des risques est à la base de la relation de service. Habituellement, on les décrit en détail dans les sections suivantes de l'entente de services :",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "The process of articulating requirements, gaps, expectations, and risks forms the basis of the service relationship, details of which are typically described in the following areas of the service agreement:",
-    "fr": "La présente des instructions détaillées et des exemples dans chacun de ces domaines."
+    "fr": "La portée, qui part de la détermination des services fournis dans le cadre de la relation, et que l'on exprime souvent en termes de fonctions, de processus, d'activités ou de projetsLes finances, qui abordent les sujets tels que les barèmes tarifaires ou la mise en commun des ressources, la transparence des coûts, les écarts et les ajustements, et les ententes de règlementLe rendement, qui comprend les extrants et les résultats que les parties espèrent atteindre dans le cadre de l'entente.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "The provides detailed guidance and examples on each of these areas.",
-    "fr": "Dans bien des cas, surtout lorsqu'il s'agit de prestation de services complexes, les parties produisent des documents officiels décrivant la relation de service proposée de commencer à discuter des détails de la gouvernance, du fonctionnement et de la mise en œuvre. Il faut parfois effectuer une analyse des options ou une étude de faisabilité avant de discuter de la gestion et du fonctionnement. Dans le cas de relations complexes, on devrait tout d'abord discuter des ressources et du personnel que l'on devra affecter, de même que des activités que l'on devra effectuer pour mener l'entente de services à bien, et s'entendre sur ceux-ci."
+    "en": "Scope, which starts with the identification of the services covered by the relationship and often expressed in terms of functions, processes, activities, or projects;Finances, which cover such items as the fee structure or resource pooling arrangements, cost transparency, variances and adjustments, and settlement arrangements; andPerformance, which identifies outputs and outcomes the parties expect to achieve from the arrangement.",
+    "fr": "La Ligne directrice sur les ententes de services – Éléments essentiels présente des instructions détaillées et des exemples dans chacun de ces domaines.",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
-    "en": "In many instances, particularly those involving complicated service delivery environments, the parties formally document their understanding of the proposed service relationship proceeding with a discussion of the detailed governance, operational, and implementation arrangements. In some cases, an analysis of options and/or a feasibility study would be required before discussions about the management and operation of the arrangement can proceed. In complex arrangements, the resources and personnel to be assigned and the activities required to complete the service agreement should be discussed and agreed upon.",
-    "fr": "La mécanique d'une relation de service s'insère dans les structures et dans les processus de gouvernance et de fonctionnement de la relation."
+    "en": "The Guideline on Service Agreements: Essential Elements provides detailed guidance and examples on each of these areas.",
+    "fr": "Dans bien des cas, surtout lorsqu'il s'agit de prestation de services complexes, les parties produisent des documents officiels décrivant la relation de service proposée avant de commencer à discuter des détails de la gouvernance, du fonctionnement et de la mise en œuvre. Il faut parfois effectuer une analyse des options ou une étude de faisabilité avant de discuter de la gestion et du fonctionnement. Dans le cas de relations complexes, on devrait tout d'abord discuter des ressources et du personnel que l'on devra affecter, de même que des activités que l'on devra effectuer pour mener l'entente de services à bien, et s'entendre sur ceux-ci.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "In many instances, particularly those involving complicated service delivery environments, the parties formally document their understanding of the proposed service relationship before proceeding with a discussion of the detailed governance, operational, and implementation arrangements. In some cases, an analysis of options and/or a feasibility study would be required before discussions about the management and operation of the arrangement can proceed. In complex arrangements, the resources and personnel to be assigned and the activities required to complete the service agreement should be discussed and agreed upon.",
+    "fr": "Comment cette entente s'articulera-t-elle?",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "How Will It Work?",
+    "fr": "La mécanique d'une relation de service s'insère dans les structures et dans les processus de gouvernance et de fonctionnement de la relation.",
+    "anchor": "3",
+    "tag": "h3"
   },
   {
     "en": "The mechanics of a service relationship are embodied in its governance and operating structures and processes.",
-    "fr": "Les parties devraient discuter et s'entendre non seulement sur le fonctionnement d'un service en particulier, mais sur la gestion de la relation en général. On en détermine typiquement les détails en répondant aux questions suivantes :"
+    "fr": "Les parties devraient discuter et s'entendre non seulement sur le fonctionnement d'un service en particulier, mais sur la gestion de la relation en général. On en détermine typiquement les détails en répondant aux questions suivantes :",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "The parties should discuss and agree not only on how an individual service will work, but also how the overall relationship will be managed. Details are typically defined through the following questions:",
-    "fr": "Le processus de définition des structures et des processus de gouvernance et de fonctionnement est à la base de la relation opérationnelle. Ces détails sont décrits dans les sections suivantes de l'entente de services :"
+    "fr": "Comment procédera-t-on à la prestation des services? Quels seront les processus de prestation, les modes de prestation et les voies de sortie?Quels responsabilités et rôles relatifs les parties doivent-elles assumer pour la gestion et le fonctionnement du service? Qui détiendra le pouvoir de prise de décisions?Comment la reddition de comptes est-elle partagée de la façon la plus adéquate? Serait-il nécessaire d'effectuer des délégations officielles?Comment les différends, les questions et les problèmes seront-ils résolus? Quel mécanisme hiérarchique y appliquer? Quels mécanismes de modification ou de résiliation sont nécessaires?Comment obtiendrons-nous les approbations nécessaires pour la transaction?Comment suivrons-nous le rendement et en ferons-nous rapport? Comment corrigerons-nous la trajectoire et la priorisation?Quels processus et structures de fonctionnement et de gouvernance et pouvoirs décisionnels devrons-nous établir pour appuyer cette relation?",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "How is the service delivered? What will be its processes? Which channels will be used? What about the hand-offs?What are the relative roles and responsibilities of each party with regard to the management and operation of the service? Where will decision-making authority reside?How is accountability most appropriately shared? Are any formal delegations required?How will disputes, issues, and problems be resolved? What is an appropriate escalation mechanism? What amendment and termination mechanisms are required?How will transaction approvals be handled?How will performance be tracked and reported? How will course corrections and prioritization be done?What governance and operational structures, processes, and decision-making powers need to be put in place to support the relationship?",
+    "fr": "Le processus de définition des structures et des processus de gouvernance et de fonctionnement est à la base de la relation opérationnelle. Ces détails sont décrits dans les sections suivantes de l'entente de services :",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "The process of articulating the governance and operational structures and processes will form the basis of the operational relationship, details of which are described in the following areas of the service agreement:",
-    "fr": "La présente des instructions détaillées et des exemples dans chacun de ces domaines."
+    "fr": "La gouvernance, où l'on répond généralement aux questions telles que : « Pourquoi? », « Qui fait quoi? », « Qui décide de quoi? » et « Qui assume la responsabilité des résultats? »Le fonctionnement, où l'on décrit toutes les activités quotidiennes que le fournisseur devra effectuer pour exécuter le service.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "The provides detailed guidance and examples on each of these areas.",
-    "fr": "De ces discussions sur l'élaboration d'une entente de services devraient ressortir des éléments communs qui s'appliqueront à toutes les ententes accessoires sur les niveaux de service."
+    "en": "Governance, which typically deals with questions of “Why”, “Who does what?”, “Who decides what?”, and “Who answers for results?”Operations, which cover all the day-to-day activities related to the provider’s execution of the service.",
+    "fr": "La Ligne directrice sur les ententes de services – Éléments essentiels présente des instructions détaillées et des exemples dans chacun de ces domaines.",
+    "anchor": "3",
+    "tag": "ul"
+  },
+  {
+    "en": "The Guideline on Service Agreements: Essential Elements provides detailed guidance and examples on each of these areas.",
+    "fr": "De ces discussions sur l'élaboration d'une entente de services devraient ressortir des éléments communs qui s'appliqueront à toutes les ententes accessoires sur les niveaux de service.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "Discussions on the development of a service agreement should establish common elements that will apply to any subordinate service level agreement.",
-    "fr": "Les discussions sur les plans opérationnels reposent sur les services que les parties ont décidé d'inclure dans l'entente, le niveau des services requis, le niveau de ressources (humaines et financières) à transférer entre les parties, ainsi que les plans de contingence."
+    "fr": "Les discussions sur les plans opérationnels reposent sur les services que les parties ont décidé d'inclure dans l'entente, le niveau des services requis, le niveau de ressources (humaines et financières) à transférer entre les parties, ainsi que les plans de contingence.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "Discussions about operational plans are based on what service the parties decide to include in the arrangement, the level of service needed, the level of resources required (financial and/or human) to be transferred between the parties, and the development of contingency plans.",
-    "fr": "La mesure du rendement et les activités liées à l'établissement de rapports servent de cartes de pointage et permettent de surveiller le rendement continu. Cette information aide les parties à déterminer s'il est nécessaire de modifier l'entente, ce qui permet aussi à l'entente d'évoluer. Les parties devraient également discuter de la forme et de la fréquence d'établissement de rapports sur le rendement et les consigner dans l'entente de services."
+    "fr": "La mesure du rendement et les activités liées à l'établissement de rapports servent de cartes de pointage et permettent de surveiller le rendement continu. Cette information aide les parties à déterminer s'il est nécessaire de modifier l'entente, ce qui permet aussi à l'entente d'évoluer. Les parties devraient également discuter de la forme et de la fréquence d'établissement de rapports sur le rendement et les consigner dans l'entente de services.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "Performance measurement and reporting activities serve as a scorecard and a means to monitor ongoing performance. This information allows parties to determine whether adjustments to the agreement are required and also permits the ongoing evolution of the agreement. The form and frequency of performance reports should be discussed and included in the service agreement.",
-    "fr": "La phase de mise en œuvre, s'il y en a une, englobe tous les plans et activités nécessaires pour transférer la responsabilité de la prestation du service du client au fournisseur. Elle comprend normalement les changements de rôles, de responsabilités et de processus ainsi que l'adoption de nouvelles technologies, de modes de prestation ou d'interfaces, la formation des utilisateurs et du personnel de soutien ainsi que le transfert et la conversion des données."
+    "fr": "Comment y parvenir?",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "How Do We Get There?",
+    "fr": "La phase de mise en œuvre, s'il y en a une, englobe tous les plans et activités nécessaires pour transférer la responsabilité de la prestation du service du client au fournisseur. Elle comprend normalement les changements de rôles, de responsabilités et de processus ainsi que l'adoption de nouvelles technologies, de modes de prestation ou d'interfaces, la formation des utilisateurs et du personnel de soutien ainsi que le transfert et la conversion des données.",
+    "anchor": "3",
+    "tag": "h3"
   },
   {
     "en": "The implementation phase, where it exists, encompasses all of the plans and activities used to move responsibility for the delivery of the service from the client to the service provider. Implementation typically involves changes to roles, responsibilities, and processes, the adoption of new technologies, channels, or interfaces, the training of users and support staff, and the transfer and/or conversion of data.",
-    "fr": "À bien des égards, le succès d'une relation de service dépend du soin que l'on prend à définir et à mener à bien les détails de la mise en œuvre. Il faut établir un échéancier, des jalons, des objectifs de rendement et, s'il y a lieu, des plans de projet ou de travail détaillés pour que les parties s'entendent bien sur leurs attentes face à cette mise en œuvre."
+    "fr": "À bien des égards, le succès d'une relation de service dépend du soin que l'on prend à définir et à mener à bien les détails de la mise en œuvre. Il faut établir un échéancier, des jalons, des objectifs de rendement et, s'il y a lieu, des plans de projet ou de travail détaillés pour que les parties s'entendent bien sur leurs attentes face à cette mise en œuvre.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "In many ways, the successful execution of a service relationship depends on the care with which the implementation details are articulated and carried out. Schedules, milestones, performance objectives, and, where appropriate, detailed project or work plans need to be established to ensure all parties share common expectations about what implementation will look like.",
-    "fr": "Les activités de mise en œuvre dépendent beaucoup de la complexité des services fournis et de l'accord de collaboration auquel on a recours. Il faut généralement porter une plus grande attention à la mise en œuvre d'un nouveau service qu'à la mise en œuvre d'un service établi. Les parties qui renouvellent une relation de service de longue date n'ont généralement pas besoin de discuter de sa mise en œuvre. Dans certains cas, la mise en œuvre réussie d'un service important, complexe ou essentiel à la mission du ministère, peut être insérée dans l'accord de rendement de l'administrateur général."
+    "fr": "Les activités de mise en œuvre dépendent beaucoup de la complexité des services fournis et de l'accord de collaboration auquel on a recours. Il faut généralement porter une plus grande attention à la mise en œuvre d'un nouveau service qu'à la mise en œuvre d'un service établi. Les parties qui renouvellent une relation de service de longue date n'ont généralement pas besoin de discuter de sa mise en œuvre. Dans certains cas, la mise en œuvre réussie d'un service important, complexe ou essentiel à la mission du ministère, peut être insérée dans l'accord de rendement de l'administrateur général.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "Implementation efforts are highly dependent on the complexity of the service involved and the collaborative arrangement utilized. Implementation of a new service offering generally requires greater attention than does the implementation of an established service. Discussions may be unnecessary between parties renewing a long-standing service relationship. In some cases, the successful implementation of a large, complex, or mission-critical service may be included in a deputy head’s performance agreement.",
-    "fr": "Dans le cas d'ententes plus complexes où on fournit de multiples services en vertu d'un seul accord-cadre (par exemple, les services de traduction pour le ministère X), on traite souvent des détails de la mise en œuvre de services ou de projets individuels dans des accords sur les niveaux de service ( ) individuels."
+    "fr": "Dans le cas d'ententes plus complexes où on fournit de multiples services en vertu d'un seul accord-cadre (par exemple, les services de traduction pour le ministère X), on traite souvent des détails de la mise en œuvre de services ou de projets individuels dans des accords sur les niveaux de service (ANS) individuels.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "In more complex arrangements where multiple services are being provided under a single master agreement (e.g., translation services for Department X), implementation details for individual services or projects are often captured in individual Service Level Agreements (SLAs).",
-    "fr": "On établit généralement les détails de la mise en œuvre en posant les questions suivantes :"
+    "fr": "On établit généralement les détails de la mise en œuvre en posant les questions suivantes :",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "Implementation details are typically defined through the following questions:",
-    "fr": "On répond généralement à ces questions dans une section de l'entente de services. La fournit des instructions détaillées et des exemples sur le processus de mise en œuvre."
+    "fr": "Quelles activités suppose le processus de mise en œuvre? Quel soutien le fournisseur de services offre-t-il?Quels est le calendrier type d'un processus de mise en œuvre? Quelle ampleur de la contribution et quels niveaux de compétences sont généralement nécessaires?Quels seront les rôles et les responsabilités de chaque partie pendant le processus de mise en œuvre?Quels seront les principaux risques de la mise en œuvre?",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Answers to these questions are typically described in a service agreement Detailed guidance and examples on implementation are provided in the .",
-    "fr": "Une fois que l'entente de services sera en vigueur, il sera important de veiller à ce que la transition entre la mise en œuvre et le fonctionnement soit bien gérée et qu'elle corresponde aux objectifs et aux engagements de chacune des parties. Les activités liées à l'établissement de rapports et les échéanciers prévus dans la documentation de mise en œuvre (par exemple, les ) permettront de déterminer avec quel succès la relation remplit ses engagements."
+    "en": "What are the activities involved in the implementation process? What support is offered by the service provider?What are the typical timelines for implementation? Typical level of effort and skills required?What are the relative roles and responsibilities of each party in the implementation process?What are they key risks involved in implementation?",
+    "fr": "On répond généralement à ces questions dans une section de l'entente de services. La Ligne directrice sur les ententes de services – Éléments essentiels fournit des instructions détaillées et des exemples sur le processus de mise en œuvre.",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
-    "en": "As the service agreement takes effect, it is important that the transition from implementation to operations is well managed and remains aligned with each party’s objectives and commitments. The reporting activities and schedules in the implementation documents (e.g., s) are a means to determine how well commitments are met under the arrangement.",
-    "fr": "Si la relation de service est relativement simple, on peut dans bien des cas négocier en même temps tous les éléments de la planification. Les ententes de services plus complexes se négocient généralement en plusieurs étapes."
+    "en": "Answers to these questions are typically described in a service agreement. Detailed guidance and examples on implementation are provided in the Guideline on Service Agreements: Essential Elements.",
+    "fr": "Une fois que l'entente de services sera en vigueur, il sera important de veiller à ce que la transition entre la mise en œuvre et le fonctionnement soit bien gérée et qu'elle corresponde aux objectifs et aux engagements de chacune des parties. Les activités liées à l'établissement de rapports et les échéanciers prévus dans la documentation de mise en œuvre (par exemple, les ANS) permettront de déterminer avec quel succès la relation remplit ses engagements.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "As the service agreement takes effect, it is important that the transition from implementation to operations is well managed and remains aligned with each party’s objectives and commitments. The reporting activities and schedules in the implementation documents (e.g., SLAs) are a means to determine how well commitments are met under the arrangement.",
+    "fr": "Si la relation de service est relativement simple, on peut dans bien des cas négocier en même temps tous les éléments de la planification. Les ententes de services plus complexes se négocient généralement en plusieurs étapes.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "In many cases, all the planning elements for a relatively straightforward service arrangement can be negotiated at the same time. More complex service arrangements are generally negotiated through a sequential, multi-stage process.",
-    "fr": "Peu importe la complexité de la relation de service, il est fortement recommandé aux gestionnaires d'obtenir des conseils de spécialistes tels que les services ministériels et les services juridiques lorsqu'ils élaborent des ententes de services."
+    "fr": "Liste de vérification : Définir et bâtir la relation de servicePratique recommandéeEngagez-vous dans un exercice conjoint de planification afin de définir la relation de service;Déterminez le système de gouvernance et de gestion pour chaque service et pour la relation dans son ensemble.ConsidérationsLe nombre et la portée de services offerts;Les niveaux de service et les objectifs de rendement;La durée de l'entente de services;Les rôles, les responsabilités et les obligations de rendre compte pour chaque partie signataire de l'entente;Le délai de préavis et les processus requis pour résilier l'entente ou mettre fin à la relation en général;La nature et la complexité de la relation de service;Les risques liés à la relation de service proposée;L'expérience des parties en matière d'établissement et de gestion d'ententes de services;Les incidences de la mise en œuvre de l'entente de services pour l'organisation.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Regardless of their complexity, it is strongly recommended that managers consult expert counsel, such as corporate and legal services, in developing their service agreements.",
-    "fr": "La rapidité et la facilité d'élaboration d'une entente de services reposent sur plusieurs facteurs. Il est possible de conclure une entente de services rapidement et facilement lorsque la relation de service est relativement simple et bien comprise et qu'il y a peu de questions à résoudre. Mais des ententes de services plus complexes (par exemple, des ententes visant à utiliser au maximum les ressources, à appuyer des activités de planification qui s'étendent à l'échelle du gouvernement ou à appuyer des initiatives horizontales entre deux ministères ou plus) nécessitent habituellement plus de temps et d'efforts."
+    "en": "Important!Regardless of their complexity, it is strongly recommended that managers consult expert counsel, such as corporate and legal services, in developing their service agreements.",
+    "fr": "Important!Peu importe la complexité de la relation de service, il est fortement recommandé aux gestionnaires d'obtenir des conseils de spécialistes tels que les services ministériels et les services juridiques lorsqu'ils élaborent des ententes de services.",
+    "anchor": "4",
+    "tag": "div"
   },
   {
     "en": "The speed and ease of developing a service agreement depends on many factors. Service agreements can be put in place quickly and easily when the service relationship is relatively simple, well understood, and there are few issues to resolve. However, more complex service agreements (e.g., to maximize use of resources, respond to government-wide planning activities, or support horizontal initiatives between two or more departments) normally require additional time and effort to complete.",
-    "fr": "La fournit des conseils et des instructions plus détaillés ainsi que des exemples pratiques et des modèles. En voici les points saillants."
+    "fr": "La rapidité et la facilité d'élaboration d'une entente de services reposent sur plusieurs facteurs. Il est possible de conclure une entente de services rapidement et facilement lorsque la relation de service est relativement simple et bien comprise et qu'il y a peu de questions à résoudre. Mais des ententes de services plus complexes (par exemple, des ententes visant à utiliser au maximum les ressources, à appuyer des activités de planification qui s'étendent à l'échelle du gouvernement ou à appuyer des initiatives horizontales entre deux ministères ou plus) nécessitent habituellement plus de temps et d'efforts.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "The provides detailed advice, guidance, and practical examples and templates. A summary of key items is below.",
-    "fr": "Bien que chaque entente de services puisse être très différente des autres, et souvent devrait l'être, ces ententes sont généralement réparties en trois catégories, selon la complexité de la relation de service qu'elles traitent. Les ententes de services peuvent prendre la forme d'un , d'un accord-cadre ou d'un accord sur les niveaux de service ( )."
+    "en": "The Guideline on Service Agreements: Essential Elements provides detailed advice, guidance, and practical examples and templates. A summary of key items is below.",
+    "fr": "La Ligne directrice sur les ententes de services – Éléments essentiels fournit des conseils et des instructions plus détaillés ainsi que des exemples pratiques et des modèles. En voici les points saillants.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Although individual service agreements can – and often should – look very different from one another, they can generally be categorized into three types based on the complexity of the arrangement they are addressing. Service agreements may take the form of a , a , and/or a .",
-    "fr": "On choisit les ententes et la relation qu'elles auront entre elles en fonction de la complexité de la relation de service et de la complexité des services, comme on peut le constater dans le graphique ci-dessous."
+    "en": "Types of Service Agreements",
+    "fr": "Types d'ententes de services",
+    "anchor": "4",
+    "tag": "h3"
+  },
+  {
+    "en": "Although individual service agreements can – and often should – look very different from one another, they can generally be categorized into three types based on the complexity of the arrangement they are addressing. Service agreements may take the form of a Memorandum of Understanding, a Master Agreement, and/or a Service Level Agreement.",
+    "fr": "Bien que chaque entente de services puisse être très différente des autres, et souvent devrait l'être, ces ententes sont généralement réparties en trois catégories, selon la complexité de la relation de service qu'elles traitent. Les ententes de services peuvent prendre la forme d'un protocole d'entente, d'un accord-cadre ou d'un accord sur les niveaux de service (ANS).",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "The Memorandum of Understanding (MOU) defines the broad parameters of the service relationship between the parties to the agreement, the service vision, and the exercise of decision-making authorities.The Master Agreement (MA) is an overarching document that sets out the services included, how the bundle of services will be managed, and operational details that are common to all services. The MA also lays the overarching framework for multiple service level agreements, typically one for each service covered by the MA.In most three-tiered service agreements, Service Level Agreements (SLA) establish the operating parameters and performance expectations between the parties to the agreements. Normally a SLA is established for each line of service or project.",
+    "fr": "Le protocole d'entente (PE) définit les paramètres généraux de la relation de service entre les parties signataires ainsi que leur vision du service et l'exercice des pouvoirs décisionnels.L'accord-cadre (A-C) est un document global où l'on décrit les services fournis, la gestion de l'ensemble des services et les détails de fonctionnement communs à tous les services. L'A-C définit les paramètres généraux des multiples accords sur les niveaux de service — on conclut généralement un ANS pour chaque service prévu dans l'A-C.Dans le cadre de la plupart des ententes de services en trois volets, l'accord sur les niveaux de service (ANS) établit les paramètres de fonctionnement et les objectifs de rendement des parties aux ententes. Un ANS est généralement établi pour chaque type de service ou de projet prévu dans le cadre de l'entente.",
+    "anchor": "4",
+    "tag": "ul"
   },
   {
     "en": "The choice of agreement and their relationship to one another depends upon the complexity of the service relationship and service as depicted below.",
-    "fr": "Suivant la complexité de la relation de service, les parties peuvent combiner les phases de planification. En général, les négociations de relations de service plus compliquées (c'est-à-dire les ententes de services en trois volets) se font graduellement par étapes, et l'on produit de la documentation à la fin de chaque étape."
+    "fr": "On choisit les ententes et la relation qu'elles auront entre elles en fonction de la complexité de la relation de service et de la complexité des services, comme on peut le constater dans le graphique ci-dessous.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Depending on the complexity of the service arrangement, parties may choose to combine the planning phases. Typically, negotiations for more complicated service arrangements (i.e., “three-tiered” service agreements) take place in phases, with documentation produced at the conclusion of each phase.",
-    "fr": "On utilise une entente de services simple lorsque la fourniture des services n'est pas compliquée (par exemple, les rôles et les responsabilités sont claires, les obligations sont bien définies et évaluées et la relation ne comporte que très peu de risques, ou pas du tout). Il peut s'agir d'un d'une ou deux pages entre deux parties ou plus où l'on décrit certains éléments de la portée, de la gouvernance, des accords financiers et du rendement. Il est fortement recommandé d'y inclure les niveaux de service d'une manière ou d'une autre, même pour une prestation de services des plus fondamentales."
+    "en": "Simple or One-tiered Service Agreement",
+    "fr": "Entente de services simple ou en un seul volet",
+    "anchor": "4",
+    "tag": "h3"
   },
   {
-    "en": "A simple service agreement is used when the service delivery situation is uncomplicated (e.g., roles and responsibilities are clear, obligations are readily identified and evaluated, and there are few or no risks). A simple service agreement can be as straightforward as a one or two-page between two or more parties, if it addresses certain elements of scope, governance, the financial arrangements, and performance. Inclusion of service levels in some manner is strongly encouraged in even the most basic of service delivery situations.",
-    "fr": "Lorsque la relation de service ainsi que la gestion et la prestation des services sont moyennement complexes, on établit généralement des ententes de services en deux documents. Le premier – qui est souvent un – décrit les relations organisationnelles (ainsi que la gouvernance) et les processus administratifs qui régiront la prestation du service. On y décrit les engagements que prennent les parties ainsi que la vision, la mission et le mandat dans lesquels s'articule la relation de service."
+    "en": "Important!Depending on the complexity of the service arrangement, parties may choose to combine the planning phases. Typically, negotiations for more complicated service arrangements (i.e., “three-tiered” service agreements) take place in phases, with documentation produced at the conclusion of each phase.",
+    "fr": "Important!Suivant la complexité de la relation de service, les parties peuvent combiner les phases de planification. En général, les négociations de relations de service plus compliquées (c'est-à-dire les ententes de services en trois volets) se font graduellement par étapes, et l'on produit de la documentation à la fin de chaque étape.",
+    "anchor": "4",
+    "tag": "div"
   },
   {
-    "en": "Where the service relationship, management, and delivery are moderately complex, service agreements are normally divided into two documents. The first document – often an – describes the organizational relationships (including governance) and management processes that will regulate delivery of the service. It identifies the commitments the parties are undertaking and establishes the vision, mission, and mandate that frame the service relationship.",
-    "fr": "Le deuxième document, qui est un , donne les détails de fonctionnement du service, ce qui comprend de l'information claire et détaillée sur la portée et sur les niveaux du service à fournir. L' décrit les attentes de rendement, c'est-à-dire les normes de service et de rendement. Il est à la base des activités d'évaluation que l'on effectuera."
+    "en": "A simple service agreement is used when the service delivery situation is uncomplicated (e.g., roles and responsibilities are clear, obligations are readily identified and evaluated, and there are few or no risks). A simple service agreement can be as straightforward as a one or two-page MOU between two or more parties, if it addresses certain elements of scope, governance, the financial arrangements, and performance. Inclusion of service levels in some manner is strongly encouraged in even the most basic of service delivery situations.",
+    "fr": "On utilise une entente de services simple lorsque la fourniture des services n'est pas compliquée (par exemple, les rôles et les responsabilités sont claires, les obligations sont bien définies et évaluées et la relation ne comporte que très peu de risques, ou pas du tout). Il peut s'agir d'un PE d'une ou deux pages entre deux parties ou plus où l'on décrit certains éléments de la portée, de la gouvernance, des accords financiers et du rendement. Il est fortement recommandé d'y inclure les niveaux de service d'une manière ou d'une autre, même pour une prestation de services des plus fondamentales.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "The second document, a , delineates the operational specifics of the service, including clear, detailed information about the scope and service levels to be delivered. The sets out detailed performance expectations, including service and performance standards, and acts as the basis for future evaluation activities.",
-    "fr": "Le meilleur contrat à établir pour les relations de service et de collaboration complexes est une entente de services en trois volets. Il comporte généralement un , un et un ou plusieurs ."
+    "en": "Medium or Two-tiered Service Agreement",
+    "fr": "Entente de services moyenne ou en deux volets",
+    "anchor": "4",
+    "tag": "h3"
   },
   {
-    "en": "Complex service relationships and collaborative arrangements are most appropriately captured through a three-tiered service agreement, typically involving a , , and one or more s.",
-    "fr": "Dans le cadre de sa relation de service avec un ministère client pour lequel il organise et fournit de l'hébergement et du soutien à l'étranger, le ministère X établit un ou plusieurs où il décrit des éléments comme la communication, l'hébergement, les locaux administratifs et la sécurité."
+    "en": "Where the service relationship, management, and delivery are moderately complex, service agreements are normally divided into two documents. The first document – often an MOU – describes the organizational relationships (including governance) and management processes that will regulate delivery of the service. It identifies the commitments the parties are undertaking and establishes the vision, mission, and mandate that frame the service relationship.",
+    "fr": "Lorsque la relation de service ainsi que la gestion et la prestation des services sont moyennement complexes, on établit généralement des ententes de services en deux documents. Le premier – qui est souvent un PE – décrit les relations organisationnelles (ainsi que la gouvernance) et les processus administratifs qui régiront la prestation du service. On y décrit les engagements que prennent les parties ainsi que la vision, la mission et le mandat dans lesquels s'articule la relation de service.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "As part of its service agreement with a client department to provide or arrange for overseas accommodation and support, Department X establishes one or more SLAs that address items such as communications, housing, office space, and security.",
-    "fr": "Aucune démarche ni aucun format d'entente de services ne s'appliquent en toutes circonstances. La forme et le format qui conviennent dépendent de divers facteurs :"
+    "en": "The second document, a SLA, delineates the operational specifics of the service, including clear, detailed information about the scope and service levels to be delivered. The SLA sets out detailed performance expectations, including service and performance standards, and acts as the basis for future evaluation activities.",
+    "fr": "Le deuxième document, qui est un ANS, donne les détails de fonctionnement du service, ce qui comprend de l'information claire et détaillée sur la portée et sur les niveaux du service à fournir. L'ANS décrit les attentes de rendement, c'est-à-dire les normes de service et de rendement. Il est à la base des activités d'évaluation que l'on effectuera.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "Complex or Three-tiered Service Agreement",
+    "fr": "Entente de services complexe ou en trois volets",
+    "anchor": "4",
+    "tag": "h3"
+  },
+  {
+    "en": "Complex service relationships and collaborative arrangements are most appropriately captured through a three-tiered service agreement, typically involving a MOU, MA, and one or more SLAs.",
+    "fr": "Le meilleur contrat à établir pour les relations de service et de collaboration complexes est une entente de services en trois volets. Il comporte généralement un PE, un A-C et un ou plusieurs ANS.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "Choosing the Right Type of Agreement(s)",
+    "fr": "Choix du bon type d'entente",
+    "anchor": "4",
+    "tag": "h3"
+  },
+  {
+    "en": "Service Agreements in Practice: An ExampleAs part of its service agreement with a client department to provide or arrange for overseas accommodation and support, Department X establishes one or more SLAs that address items such as communications, housing, office space, and security.",
+    "fr": "Exemple pratique d'entente de serviceDans le cadre de sa relation de service avec un ministère client pour lequel il organise et fournit de l'hébergement et du soutien à l'étranger, le ministère X établit un ou plusieurs ANS où il décrit des éléments comme la communication, l'hébergement, les locaux administratifs et la sécurité.",
+    "anchor": "4",
+    "tag": "div"
   },
   {
     "en": "No single approach or format for service agreements is suitable for all circumstances. The appropriate form and format is determined by a variety of factors, including:",
-    "fr": "Souvenez-vous que les ententes de service avec un tiers agissant au nom d'un ministère doivent être conformes à l'article 25 de la et à la et respecter les principes suivants :"
+    "fr": "Aucune démarche ni aucun format d'entente de services ne s'appliquent en toutes circonstances. La forme et le format qui conviennent dépendent de divers facteurs :",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "Remember that service agreements with third parties must be compliant with section 25 of the and the and respect the following principles:",
-    "fr": "Lorsque les ministères s'emploient individuellement à offrir de meilleurs services à leurs clients internes et externes ou négocient des ententes avec d'autres ministères pour unir leurs efforts à cette fin, les ententes de services leur permettent de favoriser la bonne gestion d'une prestation de services rentable et axée sur la clientèle. Elles aident à renforcer la reddition de comptes lorsqu'un ministère fournit un service à un autre ministère, ou au nom de ce ministère, en veillant à ce que les rôles et les responsabilités soient clairement définis et à ce que les administrateurs généraux disposent de bons renseignements pour s'acquitter de leurs responsabilités. Les ententes de services rehaussent aussi la qualité et l'uniformité des relations de service à l'échelle du gouvernement du Canada en prévoyant des structures, des démarches et, dans une certaine mesure, des processus communs. Ensemble, ces activités contribuent à améliorer la gestion de la prestation de services et en favorisent l'efficacité et l'efficience."
+    "en": "Scope and significance of the agreement: Consider the range of services, products, or functions addressed by the arrangement and their impact on the parties’ ability to fulfill their mandates. Identify any limitations to the services under consideration.Complexity of the client/provider or collaborative arrangement: Assess issues around the type of arrangement, the number of parties involved, the complexity of any procurement required, integration with other departments, relative roles, responsibilities, and accountabilities, cost, and political visibility.Type of service covered: Consider the complexity of the function, line of business, or services included in the agreement.Term (start and end date) of the relationship: Assess the risks and impacts related to the duration of the relationship.Risk: Assess the nature and level of risks.Experience: Note the experience of each party in developing and implementing comparable services or collaborative arrangements.Implications of the change: Consider possible consequences for staff, managers, and the department as a whole, including the impact of disruptions on operational and organizational structures.",
+    "fr": "La portée et l'importance de l'entente : Tenez compte de la gamme de services, de produits ou de fonctions prévus dans l'entente ainsi que des incidences qu'ils auront sur la capacité des parties de remplir leur mandat. Définissez toutes les limites de la prestation de services envisagée.La complexité de la relation de service entre le client et le fournisseur ou de collaboration : Évaluez les questions liées au type de relation, le nombre de parties en cause, la complexité des acquisitions nécessaires, l'intégration avec d'autres ministères, les rôles, les responsabilités et la reddition de compte relatifs, les coûts et la visibilité politique.Le type de service fourni : Tenez compte de la complexité de la fonction, du secteur d'activité et des services prévus dans l'entente.La durée (dates d'entrée en vigueur et d'expiration) de la relation : Évaluez les risques et les incidences liés à la durée de la relation de service.Le risque : Évaluez le degré et la nature du risque.L'expérience : Indiquez l'expérience que possède chaque partie à l'élaboration et à la mise sur pied d'ententes de services ou d'accords de collaboration similaires.Les incidences du changement : Tenez compte des effets éventuels qu'aurait la relation sur le personnel, sur les gestionnaires et sur le ministère en entier, et notamment des incidences que cette perturbation aura sur les structures opérationnelles et organisationnelles.",
+    "anchor": "4",
+    "tag": "ul"
+  },
+  {
+    "en": "Respecting Official Language Requirements!Remember that service agreements with third parties must be compliant with section 25 of the Official Languages Act and the Policy on the Use of Official Languages for Communications with and Services to the Public and respect the following principles:Any contract includes official languages clauses that clearly identify official language requirements with which the third party must comply;Any confirmation of the third party’s delivery performance includes compliance with official languages obligations.",
+    "fr": "Au sujet des exigences en matière de langues officielles!Souvenez-vous que les ententes de service avec un tiers agissant au nom d'un ministère doivent être conformes à l'article 25 de la Loi sur les langues officielles et à la Politique sur l'utilisation des langues officielles pour les communications avec le public et la prestation des services et respecter les principes suivants :Tout contrat contient des clauses linguistiques qui identifient clairement les exigences linguistiques auxquelles le tiers agissant doit se conformer;Toute confirmation de la prestation de service inclut la conformité aux obligations en matière de langues officielles.",
+    "anchor": "4",
+    "tag": "div"
   },
   {
     "en": "When departments negotiate arrangements to work together or when they work individually to provide better services for internal and external clients, service agreements provide a means to promote the delivery of cost effective client-centred, well-managed service. They help reinforce accountabilities when one department provides service to or on behalf of another department by ensuring roles and responsibilities are clearly outlined and deputy heads have the correct information to discharge their accountabilities. Service agreements also increase the quality and consistency of service arrangements throughout the Government of Canada through the use of common structures, approaches, and, to some degree, processes. Together, these activities help enhance the management of service delivery and promote efficiency and effectiveness.",
-    "fr": "L'image décrit les trois différentes formes ou différents types dententes de services (couleur bleue) et leurs niveaux de complexité (Simple, Moyenne, Complexe)."
+    "fr": "Lorsque les ministères s'emploient individuellement à offrir de meilleurs services à leurs clients internes et externes ou négocient des ententes avec d'autres ministères pour unir leurs efforts à cette fin, les ententes de services leur permettent de favoriser la bonne gestion d'une prestation de services rentable et axée sur la clientèle. Elles aident à renforcer la reddition de comptes lorsqu'un ministère fournit un service à un autre ministère, ou au nom de ce ministère, en veillant à ce que les rôles et les responsabilités soient clairement définis et à ce que les administrateurs généraux disposent de bons renseignements pour s'acquitter de leurs responsabilités. Les ententes de services rehaussent aussi la qualité et l'uniformité des relations de service à l'échelle du gouvernement du Canada en prévoyant des structures, des démarches et, dans une certaine mesure, des processus communs. Ensemble, ces activités contribuent à améliorer la gestion de la prestation de services et en favorisent l'efficacité et l'efficience.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
     "en": "The image describes the three different forms or types of Service Agreements (blue color) and their level of complexity (Simple, Medium, and Complex).",
-    "fr": "les autres instruments de politique du Conseil du Trésor traitant de la prestation de services, de la gouvernance, des prix et du rendement."
-  },
-  {
-    "en": "Other Treasury Board policy instruments relevant to service delivery or related to governance, price, and performance.",
-    "fr": "le mandat juridique de fournir ce service;"
-  },
-  {
-    "en": "The legal mandate to provide the service.",
-    "fr": "le pouvoir de recouvrer les coûts, s'il y a lieu;"
-  },
-  {
-    "en": "The authority to cost recover, if applicable.",
-    "fr": "le pouvoir de réutiliser les recettes, s'il y a lieu;"
-  },
-  {
-    "en": "Revenue re-spending authority, if applicable.",
-    "fr": "les pouvoirs délégués au fournisseur du service selon les articles 33 et 34 de la , selon les besoins;"
-  },
-  {
-    "en": "Delegated authorities for sections 33 and 34 to the service provider as required.",
-    "fr": "tout autre pouvoir nécessaire, dont celui de recueillir des renseignements personnels."
-  },
-  {
-    "en": "Any other necessary authorities, including authority to collect personal information.",
-    "fr": "quand une partie fournit un service à une autre partie, généralement selon la formule du paiement à l'acte (relation client-fournisseur); ou"
-  },
-  {
-    "en": "one party provides a service to another, typically on a fee for service basis (client/provider relationship); or,",
-    "fr": "quand deux ministères ou plus collaborent ensemble en mettant leurs ressources en commun pour fournir un service ou réaliser un projet (relation de collaboration)."
-  },
-  {
-    "en": "when two or more departments collaborate by pooling resources to jointly create and/or deliver a service or project (collaborative relationship).",
-    "fr": "définir les attentes des parties qui signent l'entente;"
-  },
-  {
-    "en": "Articulating the expectations of the parties to the agreement.",
-    "fr": "établir un processus de gouvernance et de résolution des problèmes;"
-  },
-  {
-    "en": "Providing a mechanism for governance and issue resolution.",
-    "fr": "servir de feuille de pointage pour examiner le rendement et les résultats."
-  },
-  {
-    "en": "Acting as a scorecard against which to examine performance and results.",
-    "fr": "Les ententes de services – (avec paiement à l'acte) . Même si le fournisseur sert plus d'un ministère ou client de l'extérieur, il entretient pour chacun des services une relation bilatérale qui ne comprend aucune collaboration, ou très peu, entre les clients ministériels ou de l'extérieur. Les relations de service bilatérales peuvent se créer entre de petits ministères ou organismes gouvernementaux et les ministères qui dirigent leurs portefeuilles; dans des régions lorsque les bureaux de deux organismes sont situés dans un même édifice ou l'un près de l'autre; lorsque Service Canada assure au nom d'un ou de plusieurs ministères l'interaction avec la clientèle, en personne, en ligne, ou par le biais de sa ligne téléphonique sans frais; et dans le cas d'hébergement et de gestion de systèmes administratifs ministériels. Cette relation est normalement régie par une entente de services bilatérale entre le ministère client et le ministère fournisseur."
-  },
-  {
-    "en": "service arrangements where (on a service-by-service basis) . Although the provider may deliver services to more than one department or external client, each service is a bi-lateral relationship with little or no collaboration between the client departments or external clients. Bi-lateral service relationships can be found between small departments and agencies and their portfolio lead departments, in regional situations where two organizations are co-located or in close proximity to one another, in the provision of client-facing in-person, e-service, or 1-800 services by Service Canada on behalf of one or more departments, and in the hosting and management of corporate administrative systems. Typically the relationship is governed through a bi-lateral service agreement between the client department and provider department.",
-    "fr": "Les ententes de de services – (c.-à-d. les ressources humaines ou financières) . Ces ententes de partage coopératif sont le plus souvent signées entre des groupes de petits ministères et organismes gouvernementaux qui s'efforcent de créer une économie d'échelle en offrant un service équivalent à un coût inférieur, ou un service plus efficace au même coût. Habituellement, cette entente est régie par un comité de gestion que créent les organismes participants. On installe généralement le centre administratif des services coopératifs dans les bureaux d'un des ministères participants."
-  },
-  {
-    "en": "arrangements where pool resources (i.e., people or money) project. Co-op sharing arrangements are most often found between groups of small departments and agencies seeking to achieve a degree of economies of scale in order to deliver equivalent service at a lower cost or a more effective service for the same cost. The arrangement is typically guided by the participating organizations through a management committee. Co-op services are usually housed administratively in one of the participating departments.",
-    "fr": "Les ententes de – . Les ententes de partage coopératif et les ententes de regroupement de services diffèrent principalement par leur envergure. Les ensembles de services regroupés ont généralement une structure de gouvernance plus complexe, à laquelle participent un sous-ministre adjoint (SMA), un directeur général (DG) et des comités techniques. Ces ensembles créent souvent un bureau de programme permanent ainsi que des processus de planification et de priorisation du travail plus formels. Ces ententes visent généralement la gestion de systèmes de ressources humaines, de finances et d'administration du matériel (p. ex., SAP, PeopleSoft, Oracle). Le centre administratif du regroupement de services se situe souvent dans les bureaux d'un ministère participant ou à Travaux publics et Services gouvernementaux Canada (TPSGC)."
-  },
-  {
-    "en": "arrangements where . The main difference between a co-op and cluster group arrangement is one of scale. Cluster groups typically have a more sophisticated governance structure with Assistant Deputy Minister (ADM), Director General (DG), and technical committees. Cluster groups often create a permanent program office with a more formal work planning and prioritization process. Cluster Group arrangements are typically found around the management of human resource and finance and materiel systems (e.g., SAP, PeopleSoft, and Oracle). A Cluster Group may be administratively housed in one of the participating departments or at Public Works and Government Services Canada (PWGSC).",
-    "fr": "Les ententes de – . Le modèle de services partagés vise à créer une grande capacité et à générer des économies d'échelle. Les services se traduisent d'ordinaire par des transactions et comprennent généralement les domaines des ressources humaines, des finances et du matériel. L'entente est régie par un conseil d'administration. Le fournisseur des services recouvre tous ses coûts des ministères clients qui achètent ses services sur une base annuelle."
-  },
-  {
-    "en": "arrangements where . The shared services model looks to create large-scale capacity and economies of scale. Services are typically transaction-focused and generally include the domains of human resources, finance, and materiel. Governance is through a Board of Directors. The service provider recovers cost from client departments who purchase services on an annual basis.",
-    "fr": "Les , qui sont obligatoires ou facultatifs, font partie d'une activité d'un organisme de services communs (OSC) désigné, dans le cadre de la , comme fournisseur central de services en particulier afin de combler les besoins des ministères. Les services obligatoires sont exigés en vertu d'une loi ou d'une politique. Les ministères doivent utiliser les services communs obligatoires énumérés à l'appendice E de la . . À titre de principe directeur, les services obligatoires que fournit un sont financés au moyen de crédits, alors que . Bien qu'en général, on établisse des systèmes de gestion de la relation avec les consommateurs et de rétro-information sur l'expérience de la clientèle ainsi que, souvent, des comités consultatifs de régie, on ne voit que rarement des structures de régie officielles par lesquelles les ministères clients assument directement la prise de décisions sur l'évolution du portefeuille de services."
-  },
-  {
-    "en": "mandatory or optional, are an activity of a common service organization (CSO) designated, in the , as a central supplier of particular services to support the requirements of departments. Mandatory services are mandated either in legislation or policy. Departments must use the mandatory common services listed in Appendix E of the . . As a guiding principle, mandatory services provided by a are funded through appropriations while . Although customer relationship management and client experience feedback regimes are typically in place and there may be advisory governance committees, there are rarely formal governance structures through which client departments exercise direct decision-making power over the evolution of the service portfolio.",
-    "fr": "Les ententes de services conclues avec – , ou subsidiairement, un ministère fournit un service à une province ou une municipalité contre honoraires. Les ententes de services sont généralement conclues avec d'autres administrations dans les régions où un groupe cible reçoit les services d'un éventail de programmes municipaux, provinciaux et fédéraux ou lorsqu'une même région, une même ville ou un même endroit éloigné reçoit un éventail de services municipaux, provinciaux et fédéraux."
-  },
-  {
-    "en": "Arrangements with where , or alternatively, where a department provides a service to a province or municipality in return for a fee. Service arrangements with other jurisdictions are typically in areas where a target group is served by a range of municipal, provincial, and federal programs, or where a range of municipal, provincial, and federal services are delivered in the same region, city, or remote area.",
-    "fr": "– Les relations de service stables à long terme sont structurées de manière à ce que toutes les parties y gagnent. Le client optimise ses ressources tandis que le fournisseur fournit le service de manière satisfaisante en en recouvrant le coût par allocation ou sur une autre base de recouvrement. Les parties devraient examiner la portée et le niveau des services ainsi que les objectifs de rendement, les possibilités de gains en matière d'efficacité et d'efficience, et les accords financiers qui y sont liés."
-  },
-  {
-    "en": "Stable, long-term service relationships are based on win-win propositions. The client receives value for money while the provider successfully delivers the service while covering their costs through appropriation or some other basis of recovery. The parties should explore the scope and level of services, associated performance targets, potential for efficiency and effectiveness gains, and related financial arrangements.",
-    "fr": "– Un malentendu opérationnel des plus inoffensifs peut gâter les meilleures relations de service. Ainsi les parties devraient définir avec précision le processus de gouvernance, les responsabilités et rôles relatifs, les pouvoirs décisionnels, les processus d'approbation et les processus de modification et de résiliation de l'entente, et instaurer des processus pour résoudre ou atténuer rapidement les problèmes. Le client devrait pleinement comprendre toutes les implications que représente pour lui la conformité aux normes du fournisseur de services."
-  },
-  {
-    "en": "Successful service relationships can “sour” over seemingly minor operational misunderstandings. Therefore, the parties should clarify governance arrangements, relative roles and responsibilities, related decision-making powers, approval processes, amendment and termination mechanisms, and put mechanisms in place to solve and/or mitigate issues in a timely fashion. The implications of client compliance with service provider standards should be fully understood.",
-    "fr": "– La concrétisation d'une nouvelle relation de service a une incidence sur les clients et sur les fournisseurs, et exige souvent un niveau d'engagement et de ressources qui peut mettre à dure épreuve les capacités des deux parties. La mise en œuvre d'un nouvel accord de collaboration ou d'une nouvelle entente de services entre un client et un fournisseur nécessite souvent la modification des rôles, des responsabilités et des processus, l'application de nouvelles technologies ou interfaces, la formation des utilisateurs et du personnel de soutien, et le transfert et la conversion de données. Les parties devraient définir le processus, le calendrier, les responsabilités ainsi que les ressources et les compétences nécessaires à la mise en œuvre de l'entente."
-  },
-  {
-    "en": "Implementation of a new service relationship has an impact on both clients and providers and often demands a level of commitment and resourcing that can stretch the capacity of both parties. Implementation of a new client/provider or collaborative arrangement typically involves changes in roles, responsibilities and processes, the implementation of new technologies or interfaces, the training of users and support staff, and the transfer and conversion of data. The parties should define the implementation approach, timeframes, responsibilities, and resource and skill requirements.",
-    "fr": "Quelle portée et quel niveau de service est-ce que je vais acquérir, et comment se comparent-ils au service que je reçois présentement?"
-  },
-  {
-    "en": "What is the scope and level of service I will receive and how does it compare to my existing service?",
-    "fr": "Y a-t-il des écarts, positifs ou négatifs, et quelles sont les répercussions de ces écarts?"
-  },
-  {
-    "en": "Are there any service gaps (positive or negative) and what are the implications of those gaps?",
-    "fr": "Combien ce service coûtera-t-il? Sera-t-il moins cher que ce que j'ai actuellement?"
-  },
-  {
-    "en": "How much is it going to cost? Is it less expensive than my current cost?",
-    "fr": "M'offre-t-on des services ou des niveaux de service optionnels, et quels en seront les coûts supplémentaires?"
-  },
-  {
-    "en": "Are optional services / service levels offered and what are their costs?",
-    "fr": "Y trouverai-je d'autres avantages intangibles?"
-  },
-  {
-    "en": "Are there other intangible benefits?",
-    "fr": "Cette offre comporte-t-elle des risques? Atténue-t-elle un ou plusieurs des risques que nous courons actuellement?"
-  },
-  {
-    "en": "Are any risks introduced through this arrangement? Does this arrangement mitigate one or more of my existing risks?",
-    "fr": "Est-ce que le service que j'offre actuellement répond aux exigences et aux attentes de ce client? Ce client a-t-il des attentes et des besoins particuliers qui ne s'insèrent pas dans mon modèle et dans mes capacités de prestation?"
-  },
-  {
-    "en": "Can my existing service offering meet the client’s requirements and expectations? Does the client have unique requirements and expectations that are outside my delivery model and capabilities?",
-    "fr": "Est-ce que je serai en mesure de couvrir tous les coûts grâce à des allocations ou à un autre modèle de recouvrement?"
-  },
-  {
-    "en": "Can I cover my costs through appropriation or some other basis of recovery?",
-    "fr": "Les exigences de ce client nuiront-elles à mes activités opérationnelles ou à ma capacité à fournir mes activités mandatées?"
-  },
-  {
-    "en": "Will this client’s requirements have an adverse impact on my operations or my ability to deliver my mandated activities?",
-    "fr": "Ma capacité actuelle suffit-elle aux volumes de ce client? Me faudra-t-il accroître ma capacité de production?"
-  },
-  {
-    "en": "Can my existing capacity accommodate the client’s volumes? Will I need to expand my productive capacity?",
-    "fr": "Y a-t-il des enjeux à long terme dont je devrais tenir compte quant à la capacité d'un service à s'adapter à la demande ou à l'obsolescence des systèmes?"
-  },
-  {
-    "en": "Are there any long term scalability and/or rust out issues I should consider?",
-    "fr": "Y a-t-il d'autres avantages intangibles?"
-  },
-  {
-    "en": "Are there other intangible benefits?",
-    "fr": "Cette offre comporte-t-elle des risques? Atténue-t-elle un ou plusieurs des risques que nous courons actuellement?"
-  },
-  {
-    "en": "Are any risks introduced through this arrangement? Does this arrangement mitigate one or more of my existing risks?",
-    "fr": "qui part de la détermination des services fournis dans le cadre de la relation, et que l'on exprime souvent en termes de fonctions, de processus, d'activités ou de projets"
-  },
-  {
-    "en": "which starts with the identification of the services covered by the relationship and often expressed in terms of functions, processes, activities, or projects;",
-    "fr": "qui abordent les sujets tels que les barèmes tarifaires ou la mise en commun des ressources, la transparence des coûts, les écarts et les ajustements, et les ententes de règlement"
-  },
-  {
-    "en": "which cover such items as the fee structure or resource pooling arrangements, cost transparency, variances and adjustments, and settlement arrangements; and",
-    "fr": "qui comprend les extrants et les résultats que les parties espèrent atteindre dans le cadre de l'entente."
-  },
-  {
-    "en": "which identifies outputs and outcomes the parties expect to achieve from the arrangement.",
-    "fr": "Comment procédera-t-on à la prestation des services? Quels seront les processus de prestation, les modes de prestation et les voies de sortie?"
-  },
-  {
-    "en": "How is the service delivered? What will be its processes? Which channels will be used? What about the hand-offs?",
-    "fr": "Quels responsabilités et rôles relatifs les parties doivent-elles assumer pour la gestion et le fonctionnement du service? Qui détiendra le pouvoir de prise de décisions?"
-  },
-  {
-    "en": "What are the relative roles and responsibilities of each party with regard to the management and operation of the service? Where will decision-making authority reside?",
-    "fr": "Comment la reddition de comptes est-elle partagée de la façon la plus adéquate? Serait-il nécessaire d'effectuer des délégations officielles?"
-  },
-  {
-    "en": "How is accountability most appropriately shared? Are any formal delegations required?",
-    "fr": "Comment les différends, les questions et les problèmes seront-ils résolus? Quel mécanisme hiérarchique y appliquer? Quels mécanismes de modification ou de résiliation sont nécessaires?"
-  },
-  {
-    "en": "How will disputes, issues, and problems be resolved? What is an appropriate escalation mechanism? What amendment and termination mechanisms are required?",
-    "fr": "Comment obtiendrons-nous les approbations nécessaires pour la transaction?"
-  },
-  {
-    "en": "How will transaction approvals be handled?",
-    "fr": "Comment suivrons-nous le rendement et en ferons-nous rapport? Comment corrigerons-nous la trajectoire et la priorisation?"
-  },
-  {
-    "en": "How will performance be tracked and reported? How will course corrections and prioritization be done?",
-    "fr": "Quels processus et structures de fonctionnement et de gouvernance et pouvoirs décisionnels devrons-nous établir pour appuyer cette relation?"
-  },
-  {
-    "en": "What governance and operational structures, processes, and decision-making powers need to be put in place to support the relationship?",
-    "fr": "La où l'on répond généralement aux questions telles que : « Pourquoi? », « Qui fait quoi? », « Qui décide de quoi? » et « Qui assume la responsabilité des résultats? »"
-  },
-  {
-    "en": "which typically deals with questions of “Why”, “Who does what?”, “Who decides what?”, and “Who answers for results?”",
-    "fr": "Le où l'on décrit toutes les activités quotidiennes que le fournisseur devra effectuer pour exécuter le service."
-  },
-  {
-    "en": "which cover all the day-to-day activities related to the provider’s execution of the service.",
-    "fr": "Quelles activités suppose le processus de mise en œuvre? Quel soutien le fournisseur de services offre-t-il?"
-  },
-  {
-    "en": "What are the activities involved in the implementation process? What support is offered by the service provider?",
-    "fr": "Quels est le calendrier type d'un processus de mise en œuvre? Quelle ampleur de la contribution et quels niveaux de compétences sont généralement nécessaires?"
-  },
-  {
-    "en": "What are the typical timelines for implementation? Typical level of effort and skills required?",
-    "fr": "Quels seront les rôles et les responsabilités de chaque partie pendant le processus de mise en œuvre?"
-  },
-  {
-    "en": "What are the relative roles and responsibilities of each party in the implementation process?",
-    "fr": "Quels seront les principaux risques de la mise en œuvre?"
-  },
-  {
-    "en": "What are they key risks involved in implementation?",
-    "fr": "Engagez-vous dans un exercice conjoint de planification afin de définir la relation de service;"
-  },
-  {
-    "en": "Undertake a joint planning exercise to define the service relationship",
-    "fr": "Déterminez le système de gouvernance et de gestion pour chaque service et pour la relation dans son ensemble."
-  },
-  {
-    "en": "Determine the governance and management regimes for each service and for the relationship as a whole",
-    "fr": "Le nombre et la portée de services offerts;"
-  },
-  {
-    "en": "Number and scope of services included",
-    "fr": "Les niveaux de service et les objectifs de rendement;"
-  },
-  {
-    "en": "Service levels and performance expectations",
-    "fr": "La durée de l'entente de services;"
-  },
-  {
-    "en": "Length of the service agreement",
-    "fr": "Les rôles, les responsabilités et les obligations de rendre compte pour chaque partie signataire de l'entente;"
-  },
-  {
-    "en": "Roles, responsibilities, and accountabilities of each party to the arrangement",
-    "fr": "Le délai de préavis et les processus requis pour résilier l'entente ou mettre fin à la relation en général;"
-  },
-  {
-    "en": "Notice period and processes for a party leaving the arrangement or for terminating the arrangement as a whole",
-    "fr": "La nature et la complexité de la relation de service;"
-  },
-  {
-    "en": "Nature and complexity of the service arrangement",
-    "fr": "Les risques liés à la relation de service proposée;"
-  },
-  {
-    "en": "Risks associated with the proposed service relationship",
-    "fr": "L'expérience des parties en matière d'établissement et de gestion d'ententes de services;"
-  },
-  {
-    "en": "Experience of the parties in developing and implementing service arrangements",
-    "fr": "Les incidences de la mise en œuvre de l'entente de services pour l'organisation."
-  },
-  {
-    "en": "Implications to the organization of the implementation of the service arrangement",
-    "fr": "Le définit les paramètres généraux de la relation de service entre les parties signataires ainsi que leur vision du service et l'exercice des pouvoirs décisionnels."
-  },
-  {
-    "en": "The defines the broad parameters of the service relationship between the parties to the agreement, the service vision, and the exercise of decision-making authorities.",
-    "fr": "L' est un document global où l'on décrit les services fournis, la gestion de l'ensemble des services et les détails de fonctionnement communs à tous les services. L' définit les paramètres généraux des multiples accords sur les niveaux de service — on conclut généralement un pour chaque service prévu dans l' ."
-  },
-  {
-    "en": "The is an overarching document that sets out the services included, how the bundle of services will be managed, and operational details that are common to all services. The also lays the overarching framework for multiple service level agreements, typically one for each service covered by the MA.",
-    "fr": "Dans le cadre de la plupart des ententes de services en trois volets, l' établit les paramètres de fonctionnement et les objectifs de rendement des parties aux ententes. Un est généralement établi pour chaque type de service ou de projet prévu dans le cadre de l'entente."
-  },
-  {
-    "en": "In most three-tiered service agreements, establish the operating parameters and performance expectations between the parties to the agreements. Normally a is established for each line of service or project.",
-    "fr": "La : Tenez compte de la gamme de services, de produits ou de fonctions prévus dans l'entente ainsi que des incidences qu'ils auront sur la capacité des parties de remplir leur mandat. Définissez toutes les limites de la prestation de services envisagée."
-  },
-  {
-    "en": "Consider the range of services, products, or functions addressed by the arrangement and their impact on the parties’ ability to fulfill their mandates. Identify any limitations to the services under consideration.",
-    "fr": "La Évaluez les questions liées au type de relation, le nombre de parties en cause, la complexité des acquisitions nécessaires, l'intégration avec d'autres ministères, les rôles, les responsabilités et la reddition de compte relatifs, les coûts et la visibilité politique."
-  },
-  {
-    "en": "Assess issues around the type of arrangement, the number of parties involved, the complexity of any procurement required, integration with other departments, relative roles, responsibilities, and accountabilities, cost, and political visibility.",
-    "fr": "Le : Tenez compte de la complexité de la fonction, du secteur d'activité et des services prévus dans l'entente."
-  },
-  {
-    "en": "Consider the complexity of the function, line of business, or services included in the agreement.",
-    "fr": "La : Évaluez les risques et les incidences liés à la durée de la relation de service."
-  },
-  {
-    "en": "Assess the risks and impacts related to the duration of the relationship.",
-    "fr": "Le : Évaluez le degré et la nature du risque."
-  },
-  {
-    "en": "Assess the nature and level of risks.",
-    "fr": "L' : Indiquez l'expérience que possède chaque partie à l'élaboration et à la mise sur pied d'ententes de services ou d'accords de collaboration similaires."
-  },
-  {
-    "en": "Note the experience of each party in developing and implementing comparable services or collaborative arrangements.",
-    "fr": "Les : Tenez compte des effets éventuels qu'aurait la relation sur le personnel, sur les gestionnaires et sur le ministère en entier, et notamment des incidences que cette perturbation aura sur les structures opérationnelles et organisationnelles."
-  },
-  {
-    "en": "Consider possible consequences for staff, managers, and the department as a whole, including the impact of disruptions on operational and organizational structures.",
-    "fr": "Tout contrat contient des clauses linguistiques qui identifient clairement les exigences linguistiques auxquelles le tiers agissant doit se conformer;"
-  },
-  {
-    "en": "Any contract includes official languages clauses that clearly identify official language requirements with which the third party must comply;",
-    "fr": "Toute confirmation de la prestation de service inclut la conformité aux obligations en matière de langues officielles."
+    "fr": "L'image décrit les trois différentes formes ou différents types dententes de services (couleur bleue) et leurs niveaux de complexité (Simple, Moyenne, Complexe).",
+    "anchor": "ld1",
+    "tag": "p"
   }
 ]

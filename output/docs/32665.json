@@ -1,70 +1,32 @@
 [
   {
-    "en": "This document is part of the Appendix A of the .",
-    "fr": "Ce document fait partie de l’Annexe A de la ."
-  },
-  {
     "en": "N/A",
-    "fr": "S.O."
+    "fr": "S.O.",
+    "anchor": "A",
+    "tag": "ul"
   },
   {
-    "en": "This Standard applies to parent Crown corporations as defined in Section 83 of the , unless excluded by specific acts, regulations or Orders-in-Council.",
-    "fr": "La présente norme s’applique aux sociétés d’État mères au sens de l’article 83 de la , sauf exception prévue par une loi, un règlement ou un décret."
+    "en": "April 1, 2011",
+    "fr": "Le 1er avril 2011",
+    "anchor": "B",
+    "tag": "p"
   },
   {
-    "en": "The objective of this handbook section is to provide the form and manner of a quarterly financial report prepared by Crown corporations in accordance with section 131.1 (1) of the Financial Administration Act.",
-    "fr": "L’objectif de la présente section est d’indiquer sous quelle forme et de quelle manière est présenté un rapport financier trimestriel préparé par des sociétés d’État, conformément au paragraphe 131.1 (1) de la ."
+    "en": "This Standard applies to parent Crown corporations as defined in Section 83 of the Financial Administration Act, unless excluded by specific acts, regulations or Orders-in-Council.",
+    "fr": "La présente norme s’applique aux sociétés d’État mères au sens de l’article 83 de la Loi sur la gestion des finances publiques, sauf exception prévue par une loi, un règlement ou un décret.",
+    "anchor": "C",
+    "tag": "ol"
   },
   {
-    "en": "There is no requirement for an audit or review of the financial statements included in the quarterly financial report.",
-    "fr": "Il n’y a pas d’exigence de vérification ou d’examen des états financiers inclus dans ces rapports financiers trimestriels."
+    "en": "The objective of this handbook section is to provide the form and manner of a quarterly financial report prepared by Crown corporations in accordance with section 131.1 (1) of the Financial Administration Act.There is no requirement for an audit or review of the financial statements included in the quarterly financial report.The quarterly financial report for parent Crown corporations must include all financial statements which are prepared annually and contain at a minimum: a financial statement for the quarter and for the period from the start of the financial year to the end of that quarter;comparative financial statement for the preceding financial year; anda statement outlining the results, risks, and significant changes in operations, personnel and programs.The Chief Executive Officer or Chief Financial Officer designated by the Chief Executive Officer within the parent Crown corporation is responsible for: Monitoring and compliance with this handbook section to ensure the quarterly financial report is prepared in accordance with the requirements set forth;Establishing such internal controls as management determines is necessary to enable the preparation of (consolidated) quarterly financial statements that are free from material misstatements. As well, establishing procedures to ensure that the (consolidated) quarterly financial statements present fairly, in all material respects, the financial position, results of operations and cash flows of the corporation, as at the date of and for the periods presented;Ensuring that all other information in the quarterly financial report is consistent, where appropriate, with the (consolidated) quarterly financial statements;Ensuring that appropriate and timely action is taken to address any significant issues relating to the production and content of the quarterly financial report; andMaking the quarterly financial report available to the public within 60 days after the end of the Crown corporation’s fiscal quarter for each of the first three fiscal quarters, such as on the corporation’s website or by other means as deemed appropriate by the corporation.The Comptroller General of Canada is responsible for the requirements listed in section 4.4 of the Policy on Financial Management.The GC 5200 Guideline: Illustrative Crown Corporations Quarterly Financial Report presents a model of the quarterly financial report. This model must be used in order to ensure presentation and disclosure consistency across crown corporations.",
+    "fr": "L’objectif de la présente section est d’indiquer sous quelle forme et de quelle manière est présenté un rapport financier trimestriel préparé par des sociétés d’État, conformément au paragraphe 131.1 (1) de la Loi sur la gestion des finances publiques.Il n’y a pas d’exigence de vérification ou d’examen des états financiers inclus dans ces rapports financiers trimestriels.Le rapport financier trimestriel des sociétés d’État mères doit comprendre tous les états financiers qui sont préparés annuellement et qui contiennent à tout le moins : des états financiers pour le trimestre et pour la période comprise entre le début de l’exercice et la fin du trimestre;les états financiers comparatifs de l’exercice précédent;un énoncé des résultats, des risques et des changements importants en ce qui touche les activités, le personnel et les programmes.Responsabilités du premier dirigeant ou du dirigeant principal des finances désigné par le premier dirigeant d’une société d’État mère : Exercer une surveillance à l’égard de la norme et garantir la conformité de la société d’État mère à cette dernière, afin de s’assurer que le rapport financier trimestriel respecte les exigences établies; Établir les contrôles internes que la direction considère comme nécessaires pour permettre la préparation d’états financiers trimestriels (consolidés) exempts d’anomalies significatives et prévoir des procédures pour garantir que les états financiers trimestriels (consolidés) donnent, dans tous leurs aspects significatifs, une image fidèle de la situation financière, des résultats d’exploitation et des flux de trésorerie de la société, à la date et pour les périodes visées;Veiller à ce que tous les autres renseignements fournis dans le rapport financier trimestriel concordent, s’il y a lieu, avec les états financiers trimestriels (consolidés);S’assurer que des mesures appropriées soient prises en temps opportun pour corriger tout problème important qui concerne la production et le contenu du rapport financier trimestriel; Rendre public le rapport financier trimestriel dans les 60 jours suivant la fin du trimestre visé par celui-ci pour chacun des trois premiers trimestres sur le site Internet de la société ou par d’autres moyens jugés appropriés par la société.Le contrôleur général du Canada est responsable des exigences énumérées à la section 4.4 de la Politique sur la gestion financière.La ligne directrice GC 5200 : Rapport financier trimestriel des sociétés d’État – Exemple à titre d’illustration, présente un modèle de rapport financier trimestriel. Ce modèle doit être utilisé afin d’assurer l’uniformité de la présentation et de la divulgation dans l’ensemble des sociétés d’État.",
+    "anchor": "D",
+    "tag": "ol"
   },
   {
-    "en": "The quarterly financial report for parent Crown corporations must include all financial statements which are prepared annually and contain at a minimum:",
-    "fr": "Le rapport financier trimestriel des sociétés d’État mères doit comprendre tous les états financiers qui sont préparés annuellement et qui contiennent à tout le moins :"
-  },
-  {
-    "en": "a financial statement for the quarter and for the period from the start of the financial year to the end of that quarter;",
-    "fr": "des états financiers pour le trimestre et pour la période comprise entre le début de l’exercice et la fin du trimestre;"
-  },
-  {
-    "en": "comparative financial statement for the preceding financial year; and",
-    "fr": "les états financiers comparatifs de l’exercice précédent;"
-  },
-  {
-    "en": "a statement outlining the results, risks, and significant changes in operations, personnel and programs.",
-    "fr": "un énoncé des résultats, des risques et des changements importants en ce qui touche les activités, le personnel et les programmes."
-  },
-  {
-    "en": "designated by the Chief Executive Officer within the parent Crown corporation is responsible for:",
-    "fr": "Responsabilités du désigné par le premier dirigeant d’une société d’État mère :"
-  },
-  {
-    "en": "Monitoring and compliance with this handbook section to ensure the quarterly financial report is prepared in accordance with the requirements set forth;",
-    "fr": "Exercer une surveillance à l’égard de la norme et garantir la conformité de la société d’État mère à cette dernière, afin de s’assurer que le rapport financier trimestriel respecte les exigences établies;"
-  },
-  {
-    "en": "Establishing such internal controls as management determines is necessary to enable the preparation of (consolidated) quarterly financial statements that are free from material misstatements. As well, establishing procedures to ensure that the (consolidated) quarterly financial statements present fairly, in all material respects, the financial position, results of operations and cash flows of the corporation, as at the date of and for the periods presented;",
-    "fr": "Établir les contrôles internes que la direction considère comme nécessaires pour permettre la préparation d’états financiers trimestriels (consolidés) exempts d’anomalies significatives et prévoir des procédures pour garantir que les états financiers trimestriels (consolidés) donnent, dans tous leurs aspects significatifs, une image fidèle de la situation financière, des résultats d’exploitation et des flux de trésorerie de la société, à la date et pour les périodes visées;"
-  },
-  {
-    "en": "Ensuring that all other information in the quarterly financial report is consistent, where appropriate, with the (consolidated) quarterly financial statements;",
-    "fr": "Veiller à ce que tous les autres renseignements fournis dans le rapport financier trimestriel concordent, s’il y a lieu, avec les états financiers trimestriels (consolidés);"
-  },
-  {
-    "en": "Ensuring that appropriate and timely action is taken to address any significant issues relating to the production and content of the quarterly financial report; and",
-    "fr": "S’assurer que des mesures appropriées soient prises en temps opportun pour corriger tout problème important qui concerne la production et le contenu du rapport financier trimestriel;"
-  },
-  {
-    "en": "Making the quarterly financial report available to the public within 60 days after the end of the Crown corporation’s fiscal quarter for each of the first three fiscal quarters, such as on the corporation’s website or by other means as deemed appropriate by the corporation.",
-    "fr": "Rendre public le rapport financier trimestriel dans les 60 jours suivant la fin du trimestre visé par celui-ci pour chacun des trois premiers trimestres sur le site Internet de la société ou par d’autres moyens jugés appropriés par la société."
-  },
-  {
-    "en": "is responsible for the requirements listed in section 4.4 of the Policy on Financial Management.",
-    "fr": "est responsable des exigences énumérées à la section 4.4 de la Politique sur la gestion financière."
-  },
-  {
-    "en": "The GC 5200 Guideline: Illustrative Crown Corporations Quarterly Financial Report presents a model of the quarterly financial report. This model must be used in order to ensure presentation and disclosure consistency across crown corporations.",
-    "fr": "La ligne directrice GC 5200 : Rapport financier trimestriel des sociétés d’État – Exemple à titre d’illustration, présente un modèle de rapport financier trimestriel. Ce modèle doit être utilisé afin d’assurer l’uniformité de la présentation et de la divulgation dans l’ensemble des sociétés d’État."
+    "en": "IAS 34 Interim Financial ReportingFootnote 1GC 5200 Guideline: Illustrative Crown Corporations Quarterly Financial Report",
+    "fr": "IAS 34 Rapports financiers intermédiairesNote en bas de page 1Lignes directrice GC 5200 : Rapport financier trimestriel des sociétés d’État – Exemple à titre d’illustration",
+    "anchor": "E",
+    "tag": "ul"
   }
 ]

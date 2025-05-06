@@ -1,118 +1,14 @@
 [
   {
-    "en": "Access to Information Act (section 22)",
-    "fr": "Loi de l’accès à l’information (article 22)"
+    "en": "Access to Information Act (section 22)Financial Administration Act (section 16)Privacy Act (paragraph 8(2)h)Public Service Employment Act (section 30)",
+    "fr": "Loi de l’accès à l’information (article 22)Loi sur la gestion des finances publiques (article 16)Loi sur la protection des renseignements personnels (alinéa 8(2)h)Loi sur l’emploi dans la fonction publique (article 30)",
+    "anchor": "7.1",
+    "tag": "ul"
   },
   {
-    "en": "Financial Administration Act (section 16)",
-    "fr": "Loi sur la gestion des finances publiques (article 16)"
-  },
-  {
-    "en": "Privacy Act (paragraph 8(2)h)",
-    "fr": "Loi sur la protection des renseignements personnels (alinéa 8(2)h)"
-  },
-  {
-    "en": "Public Service Employment Act (section 30)",
-    "fr": "Loi sur l’emploi dans la fonction publique (article 30)"
-  },
-  {
-    "en": "Foundation Framework for Treasury Board Policies",
-    "fr": "Cadre principal des politiques du Conseil du Trésor"
-  },
-  {
-    "en": "Policy on Communications and Federal Identity (subsections 6.3.1, 6.3.2, 6.3.4, 6.3.5 and 6.3.7)",
-    "fr": "Politique sur les communications et l’image de marque (sous sections 6.3.1, 6.3.2, 6.3.4, 6.3.5 et 6.3.7)"
-  },
-  {
-    "en": "This directive takes effect on .",
-    "fr": "La présente directive entre en vigueur le ."
-  },
-  {
-    "en": "This directive replaces the Directive on Internal Audit dated April 1, 2017.",
-    "fr": "Cette directive remplace la Directive sur l’audit interne du 1 avril 2017."
-  },
-  {
-    "en": "This directive is issued pursuant to the authorities indicated in section 2 of the Policy on Internal Audit.",
-    "fr": "La présente directive est émise en vertu des pouvoirs indiqués à la section 2 de la Politique sur l’audit interne."
-  },
-  {
-    "en": "The objectives indicated in section 3 of the Policy on Internal Audit apply to this directive.",
-    "fr": "L’objectif indiqué à la section 3 de la Politique sur l’audit interne s’applique à la présente directive."
-  },
-  {
-    "en": "The expected results indicated in section 3 of the Policy on Internal Audit apply to this directive.",
-    "fr": "Les résultats escomptés indiqués à la section 3 de la Politique sur l’audit interne s’appliquent à la présente directive."
-  },
-  {
-    "en": "The chief audit executive is responsible for the following:",
-    "fr": "Le dirigeant principal de l’audit a les responsabilités suivantes :"
-  },
-  {
-    "en": "Applying the Institute of Internal Auditors’ International Professional Practices Framework in the department, unless the framework is in conflict with the Treasury Board Policy on Internal Audit or this directive; if there is a conflict, the policy or directive will prevail;",
-    "fr": "Appliquer le cadre international des pratiques professionnelles de l’Institut des auditeurs interne dans le Ministère, à moins que le cadre soit en conflit avec la Politique sur l’audit interne du Conseil du Trésor ou la présente directive; en cas de conflit, la politique ou la directive prévaudra;"
-  },
-  {
-    "en": "Establishing at least annually, and updating as required, a departmental risk-based audit plan that: is reviewed by the departmental audit committee and approved by the deputy head; and which considers the following:",
-    "fr": "Établir, au moins une fois l’an, et mettre à jour, au besoin, un plan d’audit ministériel axé sur les risques qui est examiné par le comité d’audit ministériel et approuvé par l’administrateur général, et qui considère ce qui suit :"
-  },
-  {
-    "en": "Departmental areas of high risk and significance;",
-    "fr": "Secteurs à risque élevé et d’importance au sein du ministère;"
-  },
-  {
-    "en": "Internal audit engagements led by the Comptroller General;",
-    "fr": "Missions d’audit interne réalisées par le contrôleur général;"
-  },
-  {
-    "en": "Planned audits led by external assurance providers and other departments as appropriate; and",
-    "fr": "Audits planifiés menés par des prestataires d’assurance externe et d’autres ministères, le cas échéant;"
-  },
-  {
-    "en": "Other oversight engagements;",
-    "fr": "Autres missions de surveillance;"
-  },
-  {
-    "en": "The appropriate balance between assurance and advisory engagements as part of a full suite of services in light of the organization's strategy, objectives, and risks.",
-    "fr": "l’équilibre approprié entre les missions d’assurance et de conseil dans le cadre d’une gamme complète de services à la lumière de la stratégie, des objectifs et des risques de l’organisation."
-  },
-  {
-    "en": "Ensuring that the deputy head and the departmental audit committee are aware of the resource requirements for the internal audit function and the impact of resource decisions;",
-    "fr": "Veiller à ce que l’administrateur général et le comité d’audit ministériel soient informés des besoins en ressources pour la fonction d’audit interne et de l’incidence des décisions en matière de ressources;"
-  },
-  {
-    "en": "Ensuring the timely completion of internal audit engagements;",
-    "fr": "Assurer la réalisation rapide des missions d’audit interne"
-  },
-  {
-    "en": "Reporting at least annually to the deputy head on whether the actions scheduled by management in response to audit recommendations, both internal and external, have been implemented; and",
-    "fr": "Rendre compte au moins annuellement à l’administrateur général si les actions prévues par la direction en réponse aux recommandations de l’audit, tant internes qu’externes, ont été mises en œuvre;"
-  },
-  {
-    "en": "Ensuring that internal auditors have the appropriate qualifications, skills, and opportunities to maintain and develop their internal auditing competencies.",
-    "fr": "Veiller à ce que les auditeurs internes possèdent les qualifications, les compétences et les occasions appropriées pour maintenir et développer leurs compétences en audit interne."
-  },
-  {
-    "en": "Not applicable.",
-    "fr": "Sans objet."
-  },
-  {
-    "en": "This directive applies to the organizations described in section 6 of the Policy on Internal Audit.",
-    "fr": "La présente directive s’applique aux organisations énumérées à la section 6 de la Politique sur l’audit interne."
-  },
-  {
-    "en": "Legislation",
-    "fr": "Lois"
-  },
-  {
-    "en": "Related policy instruments",
-    "fr": "Instruments de politique connexes"
-  },
-  {
-    "en": "For interpretation of any aspect of this directive, contact .",
-    "fr": "Pour toute question concernant l’interprétation de la présente directive, veuillez ."
-  },
-  {
-    "en": "Individuals from a departmental internal audit group may contact for interpretations.",
-    "fr": "Les personnes d’un groupe d’audit interne ministériel peuvent communiquer avec pour des interprétations."
+    "en": "Foundation Framework for Treasury Board PoliciesPolicy on Communications and Federal Identity (subsections 6.3.1, 6.3.2, 6.3.4, 6.3.5 and 6.3.7)",
+    "fr": "Cadre principal des politiques du Conseil du TrésorPolitique sur les communications et l’image de marque (sous sections 6.3.1, 6.3.2, 6.3.4, 6.3.5 et 6.3.7)",
+    "anchor": "7.2",
+    "tag": "ul"
   }
 ]

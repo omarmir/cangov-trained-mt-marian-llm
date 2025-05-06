@@ -1,150 +1,86 @@
 [
   {
-    "en": "This standard is issued pursuant to the same authorities indicated in section 4 of the and is consistent with the and the .",
-    "fr": "La présente norme est publiée en vertu des mêmes pouvoirs que ceux indiqués à la section 4 de la , et est conforme à la et à la ."
+    "en": "This standard is issued pursuant to the same authorities indicated in section 4 of the Policy on Green Procurement and is consistent with the Policy on the Planning and Management of Investments and the Directive on the Management of Procurement.",
+    "fr": "La présente norme est publiée en vertu des mêmes pouvoirs que ceux indiqués à la section 4 de la Politique d’achats écologiques, et est conforme à la Politique sur la planification et la gestion des investissements et à la Directive sur la gestion de l’approvisionnement.",
+    "anchor": "1.1",
+    "tag": "p"
   },
   {
     "en": "Embodied carbon forms a significant proportion of the whole life carbon emissions from construction projects. This standard sets minimum requirements for the procurement of design and construction services to disclose and reduce the embodied carbon of major construction projects. Major construction projects typically include the renovation or new construction of buildings or engineering assets.",
-    "fr": "Le carbone intrinsèque représente une proportion importante des émissions de carbone pendant toute la durée de vie des projets de construction. La présente norme définit les exigences minimales pour l’approvisionnement en services de conception et de construction concernant la divulgation et la réduction des émissions de carbone intrinsèque des grands projets de construction. Les grands projets de construction comprennent habituellement la rénovation ou la construction de bâtiments ou d’ouvrages techniques."
+    "fr": "Le carbone intrinsèque représente une proportion importante des émissions de carbone pendant toute la durée de vie des projets de construction. La présente norme définit les exigences minimales pour l’approvisionnement en services de conception et de construction concernant la divulgation et la réduction des émissions de carbone intrinsèque des grands projets de construction. Les grands projets de construction comprennent habituellement la rénovation ou la construction de bâtiments ou d’ouvrages techniques.",
+    "anchor": "1.1",
+    "tag": "p"
   },
   {
-    "en": "The objective of this standard is to establish requirements to disclose and reduce the embodied carbon footprint of construction projects in accordance with the commitments in the .",
-    "fr": "L’objectif de la présente norme est de définir les exigences en matière de divulgation et de réduction de l’empreinte de carbone intrinsèque des projets de construction dans le respect des engagements pris dans le cadre de la ."
+    "en": "The objective of this standard is to establish requirements to disclose and reduce the embodied carbon footprint of construction projects in accordance with the commitments in the Greening Government Strategy.",
+    "fr": "L’objectif de la présente norme est de définir les exigences en matière de divulgation et de réduction de l’empreinte de carbone intrinsèque des projets de construction dans le respect des engagements pris dans le cadre de la Stratégie pour un gouvernement vert.",
+    "anchor": "1.1",
+    "tag": "p"
   },
   {
-    "en": "Organizations described in section 3 of the must:",
-    "fr": "Les organisations décrites à la section 3 de la doivent :"
+    "en": "Organizations described in section 3 of the Policy on Green Procurement must:",
+    "fr": "Les organisations décrites à la section 3 de la Politique d'achats écologiques doivent :",
+    "anchor": "3.2",
+    "tag": "p"
   },
   {
     "en": "Include the following requirements in the procurement of design services:",
-    "fr": "tenir compte des exigences suivantes dans tout processus d’approvisionnement en services de conception :"
+    "fr": "tenir compte des exigences suivantes dans tout processus d’approvisionnement en services de conception :",
+    "anchor": "3.2.2",
+    "tag": "p"
   },
   {
     "en": "Include the following requirements in the procurement of construction services:",
-    "fr": "tenir compte des exigences suivantes dans tout processus d’approvisionnement en services de construction :"
+    "fr": "tenir compte des exigences suivantes dans tout processus d’approvisionnement en services de construction :",
+    "anchor": "3.2.3",
+    "tag": "p"
   },
   {
     "en": "Disclose the embodied carbon footprint of structural materials measured in global warming potential (GWP) with Environmental Product Declarations (EPDs) that:",
-    "fr": "divulguer l’empreinte de carbone intrinsèque des matériaux structurels, mesurée en potentiel de réchauffement planétaire (PRP), accompagnée des déclarations environnementales de produit (DEP) qui :"
+    "fr": "divulguer l’empreinte de carbone intrinsèque des matériaux structurels, mesurée en potentiel de réchauffement planétaire (PRP), accompagnée des déclarations environnementales de produit (DEP) qui :",
+    "anchor": "3.2.3.2",
+    "tag": "p"
   },
   {
     "en": "Submit the following information to the Treasury Board of Canada Secretariat to be used for other reporting obligations under the Federal Sustainable Development Strategy:",
-    "fr": "soumettre les informations suivantes au Secrétariat du Conseil du Trésor du Canada qui seront utilisées pour répondre à d’autres obligations en matière de rapports dans le cadre de la Stratégie fédérale de développement durable :"
+    "fr": "soumettre les informations suivantes au Secrétariat du Conseil du Trésor du Canada qui seront utilisées pour répondre à d’autres obligations en matière de rapports dans le cadre de la Stratégie fédérale de développement durable :",
+    "anchor": "3.2.4",
+    "tag": "p"
   },
   {
     "en": "At the time of the annual call letter of the Greening Government Strategy:",
-    "fr": "au moment de la lettre d’appel annuelle dans le cadre de la Stratégie pour un gouvernement vert :"
+    "fr": "au moment de la lettre d’appel annuelle dans le cadre de la Stratégie pour un gouvernement vert :",
+    "anchor": "3.2.4.1",
+    "tag": "p"
   },
   {
     "en": "This standard applies to:",
-    "fr": "La présente norme s’applique :"
+    "fr": "La présente norme s’applique :",
+    "anchor": "4.1",
+    "tag": "p"
   },
   {
     "en": "This standard should be read in conjunction with:",
-    "fr": "La présente norme doit être lue conjointement avec les documents ci-dessous."
+    "fr": "La présente norme doit être lue conjointement avec les documents ci-dessous.",
+    "anchor": "5.1",
+    "tag": "p"
+  },
+  {
+    "en": "Greening Government StrategyPolicy on Green ProcurementGuide for implementing The Standard on Embodied Carbon in Construction National Whole-Building Life Cycle Assessment Practitioner’s GuideNational Tiered Greenhouse Gas Emissions Limits for Steel Construction Products",
+    "fr": "Stratégie pour un gouvernement vertPolitique d’achats écologiquesGuide de mise en œuvre de la Norme sur le carbone intrinsèque en construction Guide national du praticien de l’analyse du cycle de vie de l’ensemble du bâtimentLimites nationales différenciées d’émissions de gaz à effet de serre des produits de construction en acier, par niveau de performance",
+    "anchor": "5.1",
+    "tag": "ul"
   },
   {
     "en": "Related policy instruments:",
-    "fr": "Instruments de politique connexes"
+    "fr": "Instruments de politique connexes",
+    "anchor": "5.2",
+    "tag": "p"
   },
   {
-    "en": "Guide for implementing The Standard on Embodied Carbon in Construction",
-    "fr": "Guide de mise en œuvre de la Norme sur le carbone intrinsèque en construction"
-  },
-  {
-    "en": "This standard takes effect on December 31, 2022, and was last amended March 20, 2025 with additional requirements that take effect on September 1, 2025.",
-    "fr": "Limites nationales différenciées d’émissions de gaz à effet de serre des produits de construction en acier, par niveau de performance"
-  },
-  {
-    "en": "Procurements commenced after the effective date are required to apply this standard.",
-    "fr": "La présente norme est entrée en vigueur le 31 décembre 2022 et a été modifiée pour la dernière fois le 20 mars 2025 afin d’y ajouter des exigences qui prendront effet le 1er septembre 2025."
-  },
-  {
-    "en": "This standard provides details on the requirements set out in subsections 7.1, 7.2, and 7.3 of the and the low-carbon construction commitments in the .",
-    "fr": "La présente norme s’applique à tout processus d’approvisionnement commencé après son entrée en vigueur."
-  },
-  {
-    "en": "Adhere to all appendices, which set out specific conditions, including effective dates, project value thresholds and reduction targets, in relation to the disclosure of and reductions in the embodied carbon footprint of construction projects;",
-    "fr": "La présente norme fournit des renseignements détaillés sur les exigences énoncées aux paragraphes 7.1, 7.2 et 7.3 de la et les engagements en matière de construction à faible émission de carbone définis dans la ."
-  },
-  {
-    "en": "Estimate the embodied carbon footprint of the construction project and demonstrate reductions in accordance with Appendix A;",
-    "fr": "respecter l’ensemble des annexes, qui énoncent les conditions particulières, notamment les dates d’entrée en vigueur, les seuils de valeur du projet et les cibles de réduction, s’appliquant à la divulgation et à la réduction de l’empreinte carbone intrinsèque du projet de construction;"
-  },
-  {
-    "en": "Disclose the carbon footprint of structural materials in accordance with Appendix B;",
-    "fr": "estimer l’empreinte carbone intrinsèque du projet de construction et mettre en évidence les réductions, conformément à l’annexe A,"
-  },
-  {
-    "en": "Reduce the carbon footprint of structural materials in accordance with Appendix B;",
-    "fr": "divulguer l’empreinte carbone des matériaux structurels, conformément à l’annexe B,"
-  },
-  {
-    "en": "Ensure that structural materials are specified by a professional engineer registered or licensed in the province or territory where the project will be implemented; and",
-    "fr": "réduire l’empreinte carbone des matériaux structurels conformément à l’annexe B,"
-  },
-  {
-    "en": "Review the completed embodied carbon disclosures for structural materials before project completion to ensure compliance with subsections 3.2.2.2 and 3.2.2.3 of this standard;",
-    "fr": "veiller à ce que les matériaux structurels soient définis par un ingénieur accrédité ou autorisé à exercer à ce titre dans la province ou le territoire où le projet sera mis en œuvre,"
-  },
-  {
-    "en": "Ensure that embodied carbon disclosures for structural materials are secured by the organization before project completion, and that they list the required information for each type of material identified in Appendix B;",
-    "fr": "examiner les divulgations des émissions de carbone intrinsèque des matériaux structurels avant l’achèvement du projet pour s’assurer que les paragraphes 3.2.2.2 et 3.2.2.3 de la présente norme sont respectés;"
-  },
-  {
-    "en": "Reference the name of the material supplier’s facility or professional association as a contributor;",
-    "fr": "veiller à ce que l’organisation obtienne les divulgations des émissions de carbone intrinsèque des matériaux structurels avant l’achèvement du projet et que celles-ci contiennent les renseignements requis pour chaque type de matériaux indiqué à l’annexe B;"
-  },
-  {
-    "en": "Comply with international standards noted in Appendix B within the period of validity; and",
-    "fr": "indiquent le nom de l’installation du fournisseur du matériau ou de l’association professionnelle en tant que contributeur,"
-  },
-  {
-    "en": "Are produced using the highest available resolution life cycle inventory (LCI) data as noted in Appendix B;",
-    "fr": "sont conformes aux normes internationales stipulées à l’annexe B pendant la période de validation,"
-  },
-  {
-    "en": "Where EPDs are not readily available, provide a life cycle assessment (LCA) report that complies with international standards (International Organization for Standardization (ISO) 14044, ISO 14025, and ISO 21930 or equivalent) and that is verified by an LCA reviewer as such a report is considered an acceptable equivalent form of disclosure; and",
-    "fr": "sont produites à l’aide des données d’inventaire du cycle de vie (ICV) à la plus haute résolution disponible, comme il est indiqué à l’annexe B;"
-  },
-  {
-    "en": "All embodied carbon design estimates received in the previous fiscal year;",
-    "fr": "lorsque les DEP ne sont pas facilement accessibles, fournir un rapport d’analyse du cycle de vie (ACV) conforme aux normes internationales (Organisation internationale de normalisation [ISO] 14 044, ISO 14025 et ISO 21930, ou l’équivalent) et vérifié par un examinateur de l’ACV, étant donné qu’un tel rapport est une forme de divulgation équivalente acceptable;"
-  },
-  {
-    "en": "A consolidated report that details the results of all embodied carbon disclosures for structural materials for all construction projects completed in the previous fiscal year that meet or exceed the thresholds identified in Appendix B;",
-    "fr": "toutes les estimations relatives au carbone intrinsèque à l’étape de la conception reçues au cours de l’exercice précédent;"
-  },
-  {
-    "en": "A list and description of all projects completed in the previous fiscal year that received exemptions from any portion of this standard.",
-    "fr": "un rapport global présentant en détail les résultats de l’ensemble des divulgations relatives au carbone intrinsèque des matériaux structurels de tous les projets de construction achevés au cours de l’exercice précédent qui atteignent ou dépassent les seuils indiqués à l’annexe B,"
-  },
-  {
-    "en": "Organizations described in section 3 of the ; and",
-    "fr": "une liste et une description de tous les projets achevés au cours de l’exercice précédent qui ont fait l’objet d’une exemption à l’une ou l’autre des parties de la présente norme."
-  },
-  {
-    "en": "Any new construction or renovation of real property at or above the thresholds listed in appendices A and B at the time of solicitation of design services.",
-    "fr": "aux organisations décrites à la section 3 de la ;"
-  },
-  {
-    "en": "Subsection 3.2.2.1 of this standard does not apply to a project if the gross floor area to be constructed or renovated is below the minimum thresholds as identified in Appendix A;",
-    "fr": "à toute nouvelle construction ou à la rénovation de biens immobiliers à un niveau égal ou supérieur aux seuils énumérés aux annexes A et B au moment de la demande de services de conception."
-  },
-  {
-    "en": "Subsection 3.2.2.3 of this standard does not apply to a given structural material if the project value or specified quantities of that structural material are below the thresholds as identified in Appendix B;",
-    "fr": "Le paragraphe 3.2.2.1 de la présente norme ne s’applique pas à un projet si la surface hors œuvre brute à construire ou à rénover est inférieure aux seuils minimaux indiqués à l’annexe A."
-  },
-  {
-    "en": "Subsections 3.2.2.2 and 3.2.2.3 of this standard do not apply to a project if the project is in a geographic area excluded from a requirement as identified in Appendix B; or",
-    "fr": "Le paragraphe 3.2.2.3 de la présente norme ne s’applique pas à un matériau structurel donné si la valeur du projet ou les quantités précisées de ce matériau structurel sont inférieures aux seuils indiqués à l’annexe B."
-  },
-  {
-    "en": "Subsection 3.2.2.3 of this standard may not apply to a given structural material on a project if the required performance of the structural material or system hinders the implementation of the subsection or if a material is not available in a given region. If subsection 3.2.2.3 does not apply, an exemption rationale must be secured (refer to Appendix C). Projects exempt from subsection 3.2.2.3 must still disclose the embodied carbon of structural materials in accordance with subsections 3.2.2.1 and 3.2.2.2 of this standard, and reduce their embodied carbon to the greatest extent feasible.",
-    "fr": "Les paragraphes 3.2.2.2 et 3.2.2.3 de la présente norme ne s’appliquent pas à un projet si celui-ci se situe dans une zone géographique exclue d’une exigence indiquée à l’annexe B."
-  },
-  {
-    "en": "Direct enquiries about this standard to your organization’s headquarters. For interpretation of this standard, organizational headquarters should contact .",
-    "fr": "Le paragraphe 3.2.2.3 de la présente norme peut ne pas s’appliquer à un matériau structurel donné d’un projet si la performance requise du matériau structurel ou du système entrave la mise en œuvre du paragraphe ou si un matériau n’est pas disponible dans une région donnée. Si le paragraphe 3.2.2.3 ne s’applique pas, il faut obtenir une justification de l’exemption (voir l’annexe C). De plus, conformément aux paragraphes 3.2.2.1 et 3.2.2.2 de la présente norme, il faut tout de même divulguer les émissions de carbone intrinsèque des matériaux structurels pour les projets qui font l’objet d’une exemption à l’application du paragraphe 3.2.2.3, et réduire le plus possible leurs émissions de carbone intrinsèque."
+    "en": "Policy on the Planning and Management of InvestmentsDirective on the Management of ProcurementDirective on the Management of Real PropertyDirective on the Management of Projects and ProgrammesDirective on the Management of Materiel",
+    "fr": "Politique sur la planification et la gestion des investissementsDirective sur la gestion de l’approvisionnementDirective sur la gestion des biens immobiliersDirective sur la gestion de projets et programmesDirective sur la gestion du matériel",
+    "anchor": "5.2",
+    "tag": "ul"
   }
 ]

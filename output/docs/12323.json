@@ -1,542 +1,482 @@
 [
   {
     "en": "March 17, 2003",
-    "fr": "Le 17 mars 2003"
+    "fr": "Le 17 mars 2003",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "On December 24, 2001, amendments to the as adopted by Parliament became law. The Act was renamed the . The revised Act, among other things, modernizes the espionage provisions and introduces new concepts, such as and",
-    "fr": "Le 24 décembre 2001, les modifications apportées à la sont devenues loi suite à leur adoption par le Parlement. La a été renommée . Entre autres, la révisée modernise les dispositions touchant l'espionnage et comprend de nouveaux concepts comme et ."
+    "en": "Enquiries concerning this standard should be directed to the Departmental Security Officer in each department. For interpretation of the standard, the Departmental Security Officer should contact the Security and Identity Management Division.",
+    "fr": "Les demandes de renseignements touchant la présente norme devraient être envoyées à l'agent de sécurité de chacun des ministères. Pour une interprétation de la norme, l'agent de sécurité d'un ministère devrait communiquer avec la Division de la sécurité et gestion de l'identité.",
+    "anchor": "10",
+    "tag": "p"
   },
   {
-    "en": "In general terms, \"special operational information,\" which is defined in section 8 of the Act, describes the most operationally sensitive government information, which the government is taking measures to safeguard. The unauthorized disclosure of such information would cause obvious damage to the Government of Canada.",
-    "fr": "Dans l'ensemble, les \" renseignements opérationnels spéciaux \", définis à l'article 8 de la , correspondent aux renseignements gouvernementaux les plus sensibles sur le plan opérationnel et à l'égard desquels le gouvernement prend des mesures de protection. La communication non autorisée de ces\"renseignements opérationnels spéciaux \"pourrait causer des dommages évidents au gouvernement du Canada."
+    "en": "Data Flow Diagram for SOIA Information Gathering and Exchange - Display full size graphic",
+    "fr": "Diagramme de flux de données pour la collecte et le partage d'information sur la LPI - Afficher le graphique pleine dimension",
+    "anchor": "12",
+    "tag": "p"
   },
   {
-    "en": "The following are examples of this type of information:",
-    "fr": "Voici des exemples de ce genre de renseignements :"
-  },
-  {
-    "en": "Another new concept is that of \"persons permanently bound to secrecy.\" These are persons held to a higher level of accountability for certain unauthorized disclosures. While all persons may be subject to the provisions of section 4 of the (dealing with unauthorized disclosure generally), there are now specific provisions dealing with the unauthorized disclosure of \"special operational information\" by \"persons permanently bound to secrecy.\"",
-    "fr": "Un autre nouveau concept est celui des \" personnes astreintes au secret à perpétuité \". Ces personnes sont assujetties à un niveau de responsabilité plus élevée à l'égard des communications non autorisées de\"renseignements opérationnels spéciaux\". Alors que n'importe qui peut être assujetti aux dispositions de l'article 4 de la (touchant les communications non autorisées en général), il existe maintenant des dispositions précises pour la communication non autorisée de\"renseignements opérationnels spéciaux\" par les\"personnes astreintes au secret à perpétuité\"."
-  },
-  {
-    "en": "Unauthorized disclosure of this type of information by these persons will be subject to sanction",
-    "fr": "La communication non autorisée de ce genre de renseignements par ces personnes fera l'objet de sanctions :"
-  },
-  {
-    "en": "The above applies to such persons even after they have changed positions, left government service, or finished a contract.",
-    "fr": "Les dispositions susmentionnées s'appliquent aux personnes qui ont changé de poste, quitté le gouvernement ou terminé leur contrat."
-  },
-  {
-    "en": "Persons may become part of this special regime in two ways:",
-    "fr": "Une\"personne peut être astreinte au secret à perpétuité \"de deux façons différentes :"
-  },
-  {
-    "en": "A person need only be \"permanently bound to secrecy\" once during their lifetime, either through employment in a scheduled department or by designation.",
-    "fr": "Il n'est nécessaire\"d'astreindre une personne au secret à perpétuité\"qu'une seule fois au cours de sa vie, soit à cause de son travail au sein d'un des ministères mentionnés à l'annexe, soit par désignation individuelle."
-  },
-  {
-    "en": "This standard addresses also selection criteria to help identify persons who may be designated by notice. In addition, the standard emphasizes the importance that security awareness and briefings act as a preventative measure to encourage persons to safeguard \"special operational information.\"",
-    "fr": "La présente norme établit également les critères de sélection utilisés pour cibler les personnes qui pourraient être désignées par avis. De plus, elle souligne l'importance de sensibiliser les personnes à la sécurité et à l'importance des séances d'information comme mesures préventives pour encourager la protection des\"renseignements opérationnels spéciaux\"."
-  },
-  {
-    "en": "The SOIA creates specific offences for \"persons permanently bound to secrecy.\" However, all employees, members and government contractors have responsibilities to safeguard sensitive information under the .",
-    "fr": "La précise les infractions dont peuvent être accusées les\"personnes astreintes au secret à perpétuité\". Toutefois, tous les employés, tous les membres et toutes les parties à un contrat administratif ont la responsabilité de protéger l'information sensible conformément à la ."
-  },
-  {
-    "en": "All current or former members or employees of are \"permanently bound to secrecy\" by virtue of their employment Scheduled departments should include in the letter of offer of employment a statement that the individual will be \"permanently bound to secrecy\" or otherwise ensure that incoming members and employees are advised. Scheduled departments are to maintain documentary proof of the employment status of current or former members or employees.",
-    "fr": "De par leur emploi, tous les membres ou employés, anciens et actuels, sont\"astreints au secret à perpétuité\". Ces ministères devraient indiquer dans la lettre d'offre d'emploi que la personne sera\"astreinte au secret à perpétuité\"ou s'assurer que les nouveaux membres ou employés sont avisés. Les ministères mentionnés à l'annexe doivent conserver une preuve documentaire des états de service de leurs membres ou de leurs employés, anciens et actuels."
-  },
-  {
-    "en": "The form entitled \"Record of a Person in a Scheduled Department or Agency Under the (SOIA)\" (TBS/SCT 330-316, see appendix A), shall be completed for each person.",
-    "fr": "Le formulaire intitulé \" Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la ( )\", (TBS-SCT 330-316) , (voir annexe A) doit être rempli pour chaque personne."
-  },
-  {
-    "en": "The scheduled departments are listed below:",
-    "fr": "Les ministères mentionnés à l'annexe sont les suivants :"
-  },
-  {
-    "en": "Departments should submit written recommendations to the Treasury Board of Canada Secretariat in order to request amendments be made to the Schedule to the .",
-    "fr": "Les ministères devraient soumettre par écrit leurs recommandations au Secrétariat du Conseil du Trésor du Canada afin de demander que des amendements soient faits à l'annexe de la Loi."
-  },
-  {
-    "en": "Scheduled departments should proceed by forwarding the data to the Canadian Security Intelligence Service, as follows:",
-    "fr": "Les ministères mentionnés à l'annexe doivent faire parvenir leurs données au Service canadien du renseignement de sécurité de la façon suivante :"
-  },
-  {
-    "en": "Scheduled departments shall, for each person, forward the data on the form entitled \" Record of a Person in a Scheduled Department or Agency Under the (SOIA)\" (TBS/SCT 330-316) to the central registry of the Administrative Information Holdings, IHD, of the Canadian Security Intelligence Service (CSIS). The originally signed copy of this form shall also be forwarded to CSIS.",
-    "fr": "Les ministères mentionnés à l'annexe doivent faire parvenir au registre central de l'Unité des fonds de renseignements administratifs, DFR, du Service canadien du renseignement de sécurité (SCRS) les données, sur le formulaire \" Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la ( ) (TBS-SCT 330-316) , pour chaque personne. L'original signé de ce formulaire doit également être envoyé au SCRS."
-  },
-  {
-    "en": "Scheduled departments should place a copy of form TBS/SCT 330-316 on the person's security screening file.",
-    "fr": "Les ministères mentionnés à l'annexe devraient également verser une copie du formulaire TBS-SCT 330-316 dans le dossier de vérification de sécurité de cette personne."
-  },
-  {
-    "en": "Scheduled departments need neither collect nor forward data to the central registry at the Canadian Security Intelligence Service on former members or employees.",
-    "fr": "Les ministères mentionnés à l'annexe ne doivent pas faire la collecte ou acheminer les données sur les anciens membres ou employés au registre central de la Direction du filtrage de sécurité du Service canadien du renseignement de sécurité (SCRS)."
-  },
-  {
-    "en": "Non-members and non-employees working in scheduled departments are automatically \"persons permanently bound to secrecy.\" If such persons need to be \"permanently bound to secrecy,\" then the process identified in section 4 applies.",
-    "fr": "Les non-membres et les non-employés des ministères mentionnés à l'annexe automatiquement des\"personnes astreintes au secret à perpétuité.\"Si ces personnes doivent être\" astreintes au secret à perpétuité\", le processus décrit dans la section 4 de la présente norme doit être utilisé."
-  },
-  {
-    "en": "Subsection 10(1) of the Act provides that persons, who are members employees of scheduled departments, may be designated, by notice in writing, to the effect that they are \"permanently bound to secrecy\" because, by reason of their office, position, duties, contract or arrangement, the persons had, have, or will have authorized access to \"special operational information\" it is in the interest of national security to permanently bind those persons to secrecy.",
-    "fr": "Le paragraphe 10 (1) de la indique que les personnes qui ne sont des membres, des employés d'un des ministères mentionnés à l'annexe, peuvent être avisées par écrit qu'elles sont\"astreintes au secret à perpétuité\", à cause de leur charge, de leurs fonctions, ou de leur qualité de partie à un contrat administratif parce qu'elles ont eu, ont ou auront un accès autorisé à des\" renseignements opérationnels spéciaux\" qu'il est dans l'intérêt de la sécurité nationale qu'elles soient\"astreintes au secret à perpétuité \""
-  },
-  {
-    "en": "By way of guidance, designation for the vast majority of persons,",
-    "fr": "Par contre, une désignation pour la grande majorité des personnes,"
-  },
-  {
-    "en": "However, those persons who have of \"special operational information\" should be designated. To assist the Departmental Security Officers in determining whether a person has intimate knowledge of \"special operational information\" and whether to recommend to the deputy head that a person should be designated, criteria and examples are provided. Circumstances may exist where the person would not necessarily hold a security clearance and nevertheless have intimate knowledge.",
-    "fr": "Toutefois, les personnes qui possèdent une de\"renseignements opérationnels spéciaux\"devraient être\" astreintes au secret à perpétuité\". Les exemples et les critères ci-bas visent à aider les agents de sécurité des ministères à déterminer si une personne possède une connaissance intime de\"renseignements opérationnels spéciaux \"et si une recommandation à cet effet doit être faite à l'administrateur général. Il est possible qu'une personne ne possède pas de cote de sécurité mais qu'elle ait néanmoins une connaissance intime de\"renseignements opérationnels spéciaux\"."
-  },
-  {
-    "en": "Even where the deputy head of the opinion that a person had, has, or will have intimate knowledge of \"special operational information\" to the extent expressed in the criteria and examples, the deputy head may consider it appropriate to designate the person in the interest of national security because of the particulars of the \"special operational information\" that the person had, has, or will have access to.",
-    "fr": "L'administrateur général, même s'il ne croit pas que la personne a eu, a ou aura une connaissance intime de\"renseignements opérationnels spéciaux\"selon les critères et les exemples donnés ci-bas, peut juger nécessaire de désigner cette personne dans le but de protéger la sécurité nationale, compte tenu des détails des \"renseignements opérationnels spéciaux\" auxquels la personne a eu, a et aura accès."
-  },
-  {
-    "en": "The deputy head of Public Works and Government Services Canada (PWGSC) may designate contractors as \"persons permanently bound to secrecy\", when PWGSC is the contracting authority. Contractors operating under PWGSC contracts may be designated by another deputy head, where that deputy head has been authorized for this purpose by the Minister of Public Works and Government Services.",
-    "fr": "L'administrateur général de Travaux publics et Services gouvernementaux Canada (TPSGC) peut désigner une partie à un contrat administratif comme étant une personne devant\"être astreinte au secret à perpétuité\", lorsque TPSGC est l'autorité contractante. Les parties à un contrat administratif sous l'autorité de TPSGC peuvent être désignées par un autre administrateur général où celui-ci a été autorisé par le ministre de TPSGC à cette fin."
-  },
-  {
-    "en": "Contractors for whom PWGSC is the contracting authority may be designated as \"persons permanently bound to secrecy\" by the deputy head of the department that awards the contract.",
-    "fr": "Les entrepreneurs pour qui TPSGC n'est l'autorité contractante peuvent être désignés comme étant des personnes devant \"être astreinte au secret à perpétuité\" par l'administrateur général du ministère qui adjuge le contrat."
-  },
-  {
-    "en": "Persons seconded, attached, or under a working agreement with a department may be designated by the deputy head of the department, unless they are already \"persons permanently bound to secrecy.\" Departments should ensure that secondment, attachment, or working agreement documentation indicates that the person may need to be \"permanently bound to secrecy.\"",
-    "fr": "Les personnes en détachement dans un ministère mentionné à l'annexe, en affectation ou travaillant en vertu d'un protocole d'entente peuvent être désignées par l'administrateur général du ministère , à moins qu'elles ne soient déjà astreintes au secret. Les ministères devraient s'assurer que les documents concernant une telle situation, le cas échéant, indiquent si ces personnes doivent être\"astreintes au secret à perpétuité \"."
-  },
-  {
-    "en": "After the designation process has been completed, the host department shall provide the person's department with copies of the \"Recommendation to Designate\" form, the \"Notice of Designation\" form, the \"Notice of Designation\" letter and, if it has been used in the process, the \"Affidavit of Service\" form. This documentation should also be retained within the home department's personnel security screening file.",
-    "fr": "Le ministère reçoit, une fois le processus de désignation terminé, une copie de la\"recommandation de désignation\"et de l'\"avis de désignation\"(formulaire et lettre) et, le cas échéant, de l'\"affidavit de la signification à la personne\"du ministère d'accueil. Ces documents devraient être conservés par le ministère d'attache, dans le dossier de vérification de sécurité du personnel."
-  },
-  {
-    "en": "The deals with those exceptional cases where it may be difficult to identify a relevant deputy head. It is recommended, therefore, that the Departmental Security Officer contact their departmental Legal Services when presented with such cases.",
-    "fr": "L'article 8(2)( ) de la discute de ces cas d'exceptions lorsqu'il est difficile de déterminer l'administrateur général d'office. Il est donc recommandé aux agents de sécurité des ministères d'entrer en contrat avec leurs services juridiques le cas échéant."
-  },
-  {
-    "en": "The Departmental Security Officer should consider the following in determining whether to recommend that a person be a \"person permanently bound to secrecy\".",
-    "fr": "L'agent de sécurité du ministère doit considérer les critères suivants aux fins de recommander\"d'astreindre une personne au secret à perpétuité.\""
-  },
-  {
-    "en": "The criteria and examples are guidelines and are not exclusive.",
-    "fr": "Les critères et les exemples suivants sont des lignes directrices et ne sont pas exclusifs."
-  },
-  {
-    "en": "The following persons designated as \"persons permanently bound to secrecy\":",
-    "fr": "Les questions touchant la désignation d'autres personnes nommées par le gouverneur en conseil ( les sous-ministres, les sous-ministres délégués, les chefs d'organismes ou de sociétés d'État) devraient être adressées au Directeur des opérations de sécurité, Bureau du Conseil privé."
-  },
-  {
-    "en": "Questions related to the designation of other Governor-in-Council appointees (e.g. deputy ministers, associate deputy ministers, heads of agencies or crown corporations) should be directed to the Director of Security Operations, Privy Council Office.",
-    "fr": "Un agent de sécurité d'un ministère peut recommander par écrit à un agent de sécurité d'un autre ministère qu'une personne de ce dernier ministère soit désignée."
-  },
-  {
-    "en": "A Departmental Security Officer may recommend in writing to another Departmental Security Officer that a person from that other department should be designated.",
-    "fr": "Lorsqu'une personne est désignée par l'administrateur général du ministère , ce dernier s'occupe du breffage de sécurité de la personne désignée. Par la suite, le ministère de cette personne doit recevoir des copies de la documentation\"Recommandation aux fins de la désignation\"(TBS-SCT 330-317A),\"Avis de désignation\"(TBS-SCT 330-317B) et de la lettre intitulée\"Avis de désignation\"(TBS-SCT 330-317C) du ministère d'accueil. Si la personne refuse de signer, il recevra également une copie de l'\"Affidavit de la signification à la personne\", (TBS-SCT 330-318F). Une autre copie de ces documents est gardée dans le dossier de vérification de sécurité de cette personne ou, à défaut, dans son dossier personnel au ministère d'attache."
-  },
-  {
-    "en": "Where a person is designated by the deputy head of the department, the person's department shall be informed and provided by the host department after the briefing, with copies of the following documents: \"Recommendation to Designate\" (TBS/SCT 330-317A), \"Notice of Designation\" (TBS/SCT 330-317B), \"Notice of Designation\" (TBS/SCT 330-317C) and, if used because the person declined to sign, \"Affidavit of Service\" (TBS/SCT 330-318). Another copy of this documentation shall be retained on the person's personnel security screening file or, in the absence of a personnel security screening file, the personnel file at the person's home department.",
-    "fr": "Le cas échéant, les ministères devraient suivre la politique et les procédures décrites aux articles et de la présente norme. Dans l'intérêt de la sécurité nationale chaque cas devrait être évalué individuellement."
-  },
-  {
-    "en": "In these cases, departments should be guided by the procedures outlined in sections and of this Standard. Each case should be assessed individually to determine whether designation is in the interest of national security.",
-    "fr": "Lorsqu'une décision est prise de recommander un ancien membre ou employé pour désignation auprès de l'administrateur général, les procédures décrites dans le paragraphe D précédent, qui comprennent une rencontre en personne aux fins d'une séance de breffage, seront suivies."
-  },
-  {
-    "en": "When a decision is made to recommend to the deputy head that a former member or employee should be designated, the procedures specified in paragraph D) above, which include the face-to-face meeting and briefing of the designated former member or employee shall be followed.",
-    "fr": "Les agents de sécurité des ministères sont incités à demander de l'aide et des conseils au Secrétariat du Conseil du Trésor du Canada."
-  },
-  {
-    "en": "Departmental Security Officers are encouraged to consult with the Treasury Board of Canada Secretariat for guidance and assistance.",
-    "fr": "Le Programme de sensibilisation à la sécurité est la méthode idéale de renforcer les responsabilités des personnes face à la sécurité, y compris les responsabilités des personnes qui ont été\"astreinte au secret à perpétuité.\"Les ministères mentionnés à l'annexe et les ministères comptant des employés qui sont\"astreints au secret à perpétuité\" doivent avoir un programme de sensibilisation à la sécurité, conformément à l'article 10.5 de la . Des messages de sensibilisation à la sécurité doivent être diffusés grâce à des séances de breffage, des vidéos, de la documentation, des affiches, des messages-éclairs (fenêtre) sur les écrans d'ordinateur, etc."
-  },
-  {
-    "en": "The Security Awareness Program is an ideal method through which the security responsibilities of persons, including those who have been \"permanently bound to secrecy\", should be reinforced. Scheduled departments and departments with designated employees must conduct a security awareness program as required under section 10.5 of the . Security awareness messages may be disseminated by means of briefing sessions, videos, reading material, posters, and pop-up images on the computer screens.",
-    "fr": "Les infractions à la sécurité qui relèvent des dispositions pertinentes de la sont extrêmement graves. Les agents de sécurité des ministères doivent s'assurer que l'administrateur général est averti de tels incidents le plus rapidement possible. Les privilèges d'accès à des renseignements classifiés et/ou à des aires de sécurité peuvent faire l'objet d'une suspension par l'agent compétent jusqu'à la fin des procédures administratives, disciplinaires et/ou criminelles. Le résultat des enquêtes ou des poursuites peut être pris en délibéré par l'agent compétent au moment de décider de restaurer ou de limiter les privilèges d'accès à l'information, ou de retirer ou de modifier la cote de sécurité."
-  },
-  {
-    "en": "Breaches of security that fall within the offence provisions of the Act are extremely serious. Departmental Security Officers shall ensure that the deputy head is advised of such incidents as soon as possible. Security access privileges to classified information and/or to secure premises may be suspended by the appropriate official until administrative, disciplinary and/or criminal processes have come to an end. The end result of these investigations or prosecutions may be taken into consideration by the appropriate official in determining whether to restore, or limit, the security access privileges or whether to revoke or alter the security clearance.",
-    "fr": "Les agents de sécurité de ministères peuvent consulter l'article 10.15 de la pour y trouver des exemples de procédures de compte rendu sur le sujet. Il faudrait noter que les poursuites touchant les\"renseignements opérationnels spéciaux\"ne doivent pas être entamées sans l'assentiment du procureur général du Canada."
-  },
-  {
-    "en": "Departmental Security Officers may refer to section 10.15 of the for examples of the reporting procedures. It should be noted that prosecutions involving \"special operational information\" shall not commence without the consent of the Attorney General of Canada.",
-    "fr": "Les ministères doivent faire une évaluation des dommages découlant des infractions à la sécurité en ce qui a trait aux\"renseignements opérationnels spéciaux\". Ils doivent présenter des recommandations selon les leçons tirées de leur enquête sur ces infractions. Ces recommandations doivent être communiquées au Secrétariat du Conseil du Trésor du Canada afin que les leçons tirées puissent être partagées avec les autres ministères, conformément à l'article 10.15 de la ."
-  },
-  {
-    "en": "Departments are to conduct damage assessments for breaches of security regarding \"special operational information.\" They are to make recommendations based on the lessons learned from their investigation of those breaches. Such recommendations are to be shared with the Treasury Board of Canada Secretariat, so in turn the benefits may be shared with other departments, as per section 10.15 of the .",
-    "fr": "Le Secrétariat du Conseil du Trésor du Canada, en consultation avec d'autres ministères, examinera la présente norme après deux ans afin d'en évaluer l'efficacité."
-  },
-  {
-    "en": "The Treasury Board of Canada Secretariat, in consultation with other departments, shall review this standard after two years to assess its effectiveness.",
-    "fr": "Les demandes de renseignements touchant la présente norme devraient être envoyées à l'agent de sécurité de chacun des ministères. Pour une interprétation de la norme, l'agent de sécurité d'un ministère devrait communiquer avec la ."
-  },
-  {
-    "en": "Enquiries concerning this standard should be directed to the Departmental Security Officer in each department. For interpretation of the standard, the Departmental Security Officer should contact the .",
-    "fr": "comme dans l'article 8 de la signifie\"les renseignements à l'égard desquels le gouvernement fédéral prend des mesures de protection et dont la communication révélerait ou permettrait de découvrir, selon le cas :"
-  },
-  {
-    "en": "defined in section 8 of the SOIA, \"means information that the Government of Canada is taking measures to safeguard that reveals, or from which may be inferred",
-    "fr": "Légende: x - Remplir les espaces; y - Signer les formulaires"
+    "en": "Data Flow Diagram for SOIA Information Gathering and ExchangeForms and LetterManagerDSODeputy HeadPerson Permanently Bound to SecrecyRecord of a Person in a Scheduled Department or Agency Under the SOIA, TBS/SCT 330-316. x, y Recommendation to Designate \"Persons Permanently Bound to Secrecy\" Under the SOIA, TBS/SCT 330-317 A. x, yx, y Notice of Designation \"Persons Permanently Bound to Secrecy\" Under Section 10 of the SOIA, TBS/SCT 330-317 B. XyyNotice of Designation \"Persons Permanently Bound to Secrecy,\" TBS/SCT 330-317 C. x, y y Affidavit of Service - Security of Information Act, TBS/SCT 330-318. x, y",
+    "fr": "Diagramme de flux de données pour la collecte et le partage d'information sur la LPIFormulaireGestionnaireASMAdministrateur généralPersonnes astreintes au secret à perpétuité Registre d'une personne d'un ministère ou organisme mentionné à l'annexe 1 en application de la LPI. TBS-SCT 330-316. x, y Recommandation aux fins de la désignation des\" personnes astreintes au secret à perpétuité\"en application de la LPI TBS -SCT 330-317 A. x, yx, y Avis de désignation des\"personnes astreintes au secret à perpétuité\"conformément à l'article 10 de la LPI. TBS-SCT 330-317 B. xyyAvis de désignation\"personnes astreintes au secret à perpétuité\" TBS-SCT 330-317 C. x, y y Affidavit de la signification à personne - Le loi sur la protection de l'information. TBS-SCT 330-318. x, y",
+    "anchor": "12",
+    "tag": "table"
   },
   {
     "en": "Legend: x - Completes details; y - Signs forms",
-    "fr": "Formulaires et lettre"
+    "fr": "Légende: x - Remplir les espaces; y - Signer les formulaires",
+    "anchor": "12",
+    "tag": "p"
   },
   {
     "en": "Forms and Letter",
-    "fr": "Le diagramme présente les diverses étapes à suivre tant pour les organismes mentionnés à l'annexe de la Loi que pour les personnes désignées au titre du processus de collecte et de partage d'information sur la Loi sur la protection de l'information (LPI)."
+    "fr": "Formulaires et lettre",
+    "anchor": "13",
+    "tag": "p"
+  },
+  {
+    "en": "On December 24, 2001, amendments to the Official Secrets Act, as adopted by Parliament became law. The Act was renamed the Security of Information Act (SOIA) . The revised Act, among other things, modernizes the espionage provisions and introduces new concepts, such as \"special operational information\" and \"persons permanently bound to secrecy.\"",
+    "fr": "Le 24 décembre 2001, les modifications apportées à la Loi sur les secrets officiels sont devenues loi suite à leur adoption par le Parlement. La Loi a été renommée Loi sur la protection de l'information (LPI) . Entre autres, la Loi révisée modernise les dispositions touchant l'espionnage et comprend de nouveaux concepts comme \"les renseignements opérationnels spéciaux\" et \"les personnes astreintes au secret à perpétuité\" .",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "In general terms, \"special operational information,\" which is defined in section 8 of the Act, describes the most operationally sensitive government information, which the government is taking measures to safeguard. The unauthorized disclosure of such information would cause obvious damage to the Government of Canada.",
+    "fr": "Dans l'ensemble, les \" renseignements opérationnels spéciaux \", définis à l'article 8 de la Loi, correspondent aux renseignements gouvernementaux les plus sensibles sur le plan opérationnel et à l'égard desquels le gouvernement prend des mesures de protection. La communication non autorisée de ces\"renseignements opérationnels spéciaux \"pourrait causer des dommages évidents au gouvernement du Canada.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "The following are examples of this type of information:",
+    "fr": "Voici des exemples de ce genre de renseignements :",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "Past and current confidential sources of information, intelligence, or assistance to the Government of Canada. Places, persons, groups, or entities who were, are, or are intended to be targets of covert collection efforts by government. The identity of any person engaged in such covert collection activities.Military operational plans for armed conflicts.The means used by government to protect information, including encryption and any vulnerabilities.Similar information to the above that relates to or is received from foreign entities or terrorist groups.",
+    "fr": "l'identité de sources confidentielles d'information, de renseignements ou d'assistance pour le gouvernement du Canada (actuelles et passées); des lieux, des personnes, des groupes ou des entités au sujet desquels le gouvernement a mené, mène ou entend mener des activités secrètes de ciblage aux fins de collecte de renseignements; l'identité de toute personne qui a mené, mène ou pourrait être appelée à mener des activités secrètes de ciblage aux fins de collecte de renseignements; des plans opérationnels militaires en vue de conflits armés; les moyens que le gouvernement utilise pour la protection de l'information, notamment le chiffrement et les failles de ces moyens; des éléments d'information de la nature de ceux susmentionnés, reçus d'une entité étrangère ou d'un groupe terroriste ou le concernant.",
+    "anchor": "2",
+    "tag": "ul"
+  },
+  {
+    "en": "Another new concept is that of \"persons permanently bound to secrecy.\" These are persons held to a higher level of accountability for certain unauthorized disclosures. While all persons may be subject to the provisions of section 4 of the Security of Information Act (dealing with unauthorized disclosure generally), there are now specific provisions dealing with the unauthorized disclosure of \"special operational information\" by \"persons permanently bound to secrecy.\"",
+    "fr": "Un autre nouveau concept est celui des \" personnes astreintes au secret à perpétuité \". Ces personnes sont assujetties à un niveau de responsabilité plus élevée à l'égard des communications non autorisées de\"renseignements opérationnels spéciaux\". Alors que n'importe qui peut être assujetti aux dispositions de l'article 4 de la Loi sur la protection de l'information (LPI) (touchant les communications non autorisées en général), il existe maintenant des dispositions précises pour la communication non autorisée de\"renseignements opérationnels spéciaux\" par les\"personnes astreintes au secret à perpétuité\".",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "Unauthorized disclosure of this type of information by these persons will be subject to sanction",
+    "fr": "La communication non autorisée de ce genre de renseignements par ces personnes fera l'objet de sanctions :",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "whether the information is true or not; whenever the information was obtained by the persons, e.g. before being designated or after having left the position that triggered the persons to be \"permanently bound to secrecy\"; and however the persons obtained the information.",
+    "fr": "que les renseignements soient vrais ou non; que les renseignements soient obtenus par ces personnes, p. ex. avant qu'elles n'aient été désignées ou après leur départ du poste ayant entraîné le fait\"d'être astreint au secret à perpétuité\"; et quelle que soit la façon dont les personnes ont obtenu ces renseignements.",
+    "anchor": "2",
+    "tag": "ol"
+  },
+  {
+    "en": "The above applies to such persons even after they have changed positions, left government service, or finished a contract.",
+    "fr": "Les dispositions susmentionnées s'appliquent aux personnes qui ont changé de poste, quitté le gouvernement ou terminé leur contrat.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "Persons may become part of this special regime in two ways:",
+    "fr": "Une\"personne peut être astreinte au secret à perpétuité \"de deux façons différentes :",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "Automatically: as current or former members or employees (including former members or employees as of December 24, 2001) of particular departments set out in the schedule to the Act (such as the Canadian Security Intelligence Service, the Communications Security Establishment, and certain branches of the Royal Canadian Mounted Police); or Selectively: if a deputy head is of the opinion that, by reason of a person's office, position, duties, contract or arrangement, the person had, has, or will have authorized access to \"special operational information\" and it is in the interest of national security to permanently bind that person to secrecy, this person may be notified that he or she has been so designated. Designation should not be the norm. It should generally only apply to those with an intimate knowledge of \"special operational information.\"",
+    "fr": "Automatiquement : à titre de membre ou d'employé, ancien et actuel (y compris les anciens membres ou employés en date du 24 décembre 2001) des ministères mentionnés à l'annexe de la Loi (comme le Service canadien du renseignement de sécurité, le Centre de la sécurité des télécommunications et certaines sous-directions de la Gendarmerie royale du Canada); ou De façon sélective : si un administrateur général est d'avis que, en raison de sa charge, de ses fonctions, de sa qualité de partie à un contrat administratif, ou d'un protocole d'entente, une personne a, a eu ou aura un accès légitime à des\"renseignements opérationnels spéciaux \"et qu'il est de l'intérêt de la sécurité nationale\" d'astreindre cette personne au secret à perpétuité\", elle pourrait être notifiée par avis qu'elle a été désignée à cette fin. Mais une telle désignation ne devrait pas être fréquente. Seule les personnes ayant une connaissance intime de\"renseignements opérationnels spéciaux\"y seront sujets.",
+    "anchor": "2",
+    "tag": "ol"
+  },
+  {
+    "en": "A person need only be \"permanently bound to secrecy\" once during their lifetime, either through employment in a scheduled department or by designation.",
+    "fr": "Il n'est nécessaire\"d'astreindre une personne au secret à perpétuité\"qu'une seule fois au cours de sa vie, soit à cause de son travail au sein d'un des ministères mentionnés à l'annexe, soit par désignation individuelle.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "The purpose of this operational standard is to provide administrative procedures for",
+    "fr": "Le but de la présente norme opérationnelle est d'établir des procédures administratives pour :",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "departments that are listed in the schedule to the Act, (referred to as scheduled departments, see section 3 of this Standard); and the designation by notice of employees in non-scheduled departments and of persons and government contractors in scheduled and non-scheduled departments. (See section 4 of this Standard.)",
+    "fr": "les ministères mentionnés à l'annexe de la Loi (désignés par l'expression ministères mentionnés à l'annexe; consulter l'article 3 de la norme); et la désignation par avis des employés travaillant dans des ministères qui ne sont pas mentionnés à l'annexe et de personnes et de parties à un contrat gouvernemental travaillant pour des ministères mentionnés ou non à l'annexe (consulter l'article 4 de la norme).",
+    "anchor": "2",
+    "tag": "ol"
+  },
+  {
+    "en": "Departments shall consult with the Treasury Board of Canada Secretariat if there is a requirement to amend the schedule.",
+    "fr": "Les ministères doivent consulter le Secrétariat du Conseil du Trésor du Canada s'il est nécessaire de modifier la liste de l'annexe.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "This standard addresses also selection criteria to help identify persons who may be designated by notice. In addition, the standard emphasizes the importance that security awareness and briefings act as a preventative measure to encourage persons to safeguard \"special operational information.\"",
+    "fr": "La présente norme établit également les critères de sélection utilisés pour cibler les personnes qui pourraient être désignées par avis. De plus, elle souligne l'importance de sensibiliser les personnes à la sécurité et à l'importance des séances d'information comme mesures préventives pour encourager la protection des\"renseignements opérationnels spéciaux\".",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "The SOIA creates specific offences for \"persons permanently bound to secrecy.\" However, all employees, members and government contractors have responsibilities to safeguard sensitive information under the Government Security Policy.",
+    "fr": "La Loi sur la protection de l'information (LPI) précise les infractions dont peuvent être accusées les\"personnes astreintes au secret à perpétuité\". Toutefois, tous les employés, tous les membres et toutes les parties à un contrat administratif ont la responsabilité de protéger l'information sensible conformément à la Politique du gouvernement sur la sécurité.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "All current or former members or employees of scheduled departments are \"permanently bound to secrecy\" by virtue of their employment. Scheduled departments should include in the letter of offer of employment a statement that the individual will be \"permanently bound to secrecy\" or otherwise ensure that incoming members and employees are advised. Scheduled departments are to maintain documentary proof of the employment status of current or former members or employees. The form entitled \"Record of a Person in a Scheduled Department or Agency Under the Security of Information Act (SOIA)\" (TBS/SCT 330-316, see appendix A), shall be completed for each person. The scheduled departments are listed below:Canadian Security Intelligence ServiceCommunications Security EstablishmentNational Research Council Canada - Communications BranchOffice of the Communications Security Establishment CommissionerOffice of the Inspector General of the Canadian Security Intelligence ServiceRoyal Canadian Mounted Police - Criminal Intelligence ProgramRoyal Canadian Mounted Police - Protective Operations ProgramRoyal Canadian Mounted Police - Security ServiceRoyal Canadian Mounted Police - Technical Operations ProgramSecurity Intelligence Review Committee Departments should submit written recommendations to the Treasury Board of Canada Secretariat in order to request amendments be made to the Schedule to the Act.",
+    "fr": "De par leur emploi, tous les membres ou employés, anciens et actuels, des ministères mentionnés à l'annexe sont\"astreints au secret à perpétuité\". Ces ministères devraient indiquer dans la lettre d'offre d'emploi que la personne sera\"astreinte au secret à perpétuité\"ou s'assurer que les nouveaux membres ou employés sont avisés. Les ministères mentionnés à l'annexe doivent conserver une preuve documentaire des états de service de leurs membres ou de leurs employés, anciens et actuels. Le formulaire intitulé \" Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-316) , (voir annexe A) doit être rempli pour chaque personne. Les ministères mentionnés à l'annexe sont les suivants :Service canadien du renseignement de sécuritéCentre de la sécurité des télécommunicationsConseil national de recherches Canada - Direction des télécommunicationsBureau du commissaire du Centre de la sécurité des télécommunicationsBureau de l'Inspecteur général du Service canadien du renseignement de sécuritéGendarmerie royale du Canada - Programme des renseignements criminelsGendarmerie royale du Canada - Programme des missions de protectionGendarmerie royale du Canada - Service de sécuritéGendarmerie royale du Canada - Programme des opérations techniquesComité de surveillance des activités de renseignement de sécurité Les ministères devraient soumettre par écrit leurs recommandations au Secrétariat du Conseil du Trésor du Canada afin de demander que des amendements soient faits à l'annexe de la Loi.",
+    "anchor": "3",
+    "tag": "section"
+  },
+  {
+    "en": "(1) Current and former members or employeesScheduled departments should proceed by forwarding the data to the Canadian Security Intelligence Service, as follows:new entrants - at the time the person commences employment in a scheduled department or area; current members or employees - at the time of the updating of the person's security clearance, if the person has not already been entered into the Canadian Security Intelligence Service central registry; or departing members or employees - as part of the departmental security exit process, if the person has not already been entered into the Canadian Security Intelligence Service central registry. Scheduled departments shall, for each person, forward the data on the form entitled \" Record of a Person in a Scheduled Department or Agency Under the Security of Information Act (SOIA)\" (TBS/SCT 330-316) to the central registry of the Administrative Information Holdings, IHD, of the Canadian Security Intelligence Service (CSIS). The originally signed copy of this form shall also be forwarded to CSIS. Scheduled departments should place a copy of form TBS/SCT 330-316 on the person's security screening file. Scheduled departments need neither collect nor forward data to the central registry at the Canadian Security Intelligence Service on former members or employees. (2) Other persons working in scheduled departments Non-members and non-employees working in scheduled departments are not automatically \"persons permanently bound to secrecy.\" If such persons need to be \"permanently bound to secrecy,\" then the process identified in section 4 applies.",
+    "fr": "(1) Membres ou employés, anciens et actuels Les ministères mentionnés à l'annexe doivent faire parvenir leurs données au Service canadien du renseignement de sécurité de la façon suivante : Nouveaux entrants - au moment où une personne commence à travailler dans un ministère ou un secteur mentionné à l'annexe; membre ou employé actuel - au moment de la mise à jour de sa cote de sécurité, si cette personne n'est pas déjà inscrite au registre central du Service canadien du renseignement de sécurité; ou membre ou employé qui quitte son poste - au cours du processus administratif pour le départ d'une employé, si cette personne n'a pas déjà été inscrite au registre central du Service canadien du renseignement de sécurité. Les ministères mentionnés à l'annexe doivent faire parvenir au registre central de l'Unité des fonds de renseignements administratifs, DFR, du Service canadien du renseignement de sécurité (SCRS) les données, sur le formulaire \" Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la Loi sur la protection de l'information (LPI) (TBS-SCT 330-316) , pour chaque personne. L'original signé de ce formulaire doit également être envoyé au SCRS. Les ministères mentionnés à l'annexe devraient également verser une copie du formulaire TBS-SCT 330-316 dans le dossier de vérification de sécurité de cette personne. Les ministères mentionnés à l'annexe ne doivent pas faire la collecte ou acheminer les données sur les anciens membres ou employés au registre central de la Direction du filtrage de sécurité du Service canadien du renseignement de sécurité (SCRS). (2) Autres personnes travaillant dans des ministères mentionnés à l'annexe de la Loi Les non-membres et les non-employés des ministères mentionnés à l'annexe ne sont pas automatiquement des\"personnes astreintes au secret à perpétuité.\"Si ces personnes doivent être\" astreintes au secret à perpétuité\", le processus décrit dans la section 4 de la présente norme doit être utilisé.",
+    "anchor": "3",
+    "tag": "section"
+  },
+  {
+    "en": "All current or former members or employees of scheduled departments are \"permanently bound to secrecy\" by virtue of their employment. Scheduled departments should include in the letter of offer of employment a statement that the individual will be \"permanently bound to secrecy\" or otherwise ensure that incoming members and employees are advised. Scheduled departments are to maintain documentary proof of the employment status of current or former members or employees.",
+    "fr": "De par leur emploi, tous les membres ou employés, anciens et actuels, des ministères mentionnés à l'annexe sont\"astreints au secret à perpétuité\". Ces ministères devraient indiquer dans la lettre d'offre d'emploi que la personne sera\"astreinte au secret à perpétuité\"ou s'assurer que les nouveaux membres ou employés sont avisés. Les ministères mentionnés à l'annexe doivent conserver une preuve documentaire des états de service de leurs membres ou de leurs employés, anciens et actuels.",
+    "anchor": "3.1",
+    "tag": "p"
+  },
+  {
+    "en": "The form entitled \"Record of a Person in a Scheduled Department or Agency Under the Security of Information Act (SOIA)\" (TBS/SCT 330-316, see appendix A), shall be completed for each person.",
+    "fr": "Le formulaire intitulé \" Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-316) , (voir annexe A) doit être rempli pour chaque personne.",
+    "anchor": "3.1",
+    "tag": "p"
+  },
+  {
+    "en": "The scheduled departments are listed below:",
+    "fr": "Les ministères mentionnés à l'annexe sont les suivants :",
+    "anchor": "3.1",
+    "tag": "p"
+  },
+  {
+    "en": "Canadian Security Intelligence ServiceCommunications Security EstablishmentNational Research Council Canada - Communications BranchOffice of the Communications Security Establishment CommissionerOffice of the Inspector General of the Canadian Security Intelligence ServiceRoyal Canadian Mounted Police - Criminal Intelligence ProgramRoyal Canadian Mounted Police - Protective Operations ProgramRoyal Canadian Mounted Police - Security ServiceRoyal Canadian Mounted Police - Technical Operations ProgramSecurity Intelligence Review Committee",
+    "fr": "Service canadien du renseignement de sécuritéCentre de la sécurité des télécommunicationsConseil national de recherches Canada - Direction des télécommunicationsBureau du commissaire du Centre de la sécurité des télécommunicationsBureau de l'Inspecteur général du Service canadien du renseignement de sécuritéGendarmerie royale du Canada - Programme des renseignements criminelsGendarmerie royale du Canada - Programme des missions de protectionGendarmerie royale du Canada - Service de sécuritéGendarmerie royale du Canada - Programme des opérations techniquesComité de surveillance des activités de renseignement de sécurité",
+    "anchor": "3.1",
+    "tag": "ul"
+  },
+  {
+    "en": "Departments should submit written recommendations to the Treasury Board of Canada Secretariat in order to request amendments be made to the Schedule to the Act.",
+    "fr": "Les ministères devraient soumettre par écrit leurs recommandations au Secrétariat du Conseil du Trésor du Canada afin de demander que des amendements soient faits à l'annexe de la Loi.",
+    "anchor": "3.1",
+    "tag": "p"
+  },
+  {
+    "en": "(1) Current and former members or employees",
+    "fr": "(1) Membres ou employés, anciens et actuels",
+    "anchor": "3.2",
+    "tag": "h4"
+  },
+  {
+    "en": "Scheduled departments should proceed by forwarding the data to the Canadian Security Intelligence Service, as follows:",
+    "fr": "Les ministères mentionnés à l'annexe doivent faire parvenir leurs données au Service canadien du renseignement de sécurité de la façon suivante :",
+    "anchor": "3.2",
+    "tag": "p"
+  },
+  {
+    "en": "new entrants - at the time the person commences employment in a scheduled department or area; current members or employees - at the time of the updating of the person's security clearance, if the person has not already been entered into the Canadian Security Intelligence Service central registry; or departing members or employees - as part of the departmental security exit process, if the person has not already been entered into the Canadian Security Intelligence Service central registry.",
+    "fr": "Nouveaux entrants - au moment où une personne commence à travailler dans un ministère ou un secteur mentionné à l'annexe; membre ou employé actuel - au moment de la mise à jour de sa cote de sécurité, si cette personne n'est pas déjà inscrite au registre central du Service canadien du renseignement de sécurité; ou membre ou employé qui quitte son poste - au cours du processus administratif pour le départ d'une employé, si cette personne n'a pas déjà été inscrite au registre central du Service canadien du renseignement de sécurité.",
+    "anchor": "3.2",
+    "tag": "ol"
+  },
+  {
+    "en": "Scheduled departments shall, for each person, forward the data on the form entitled \" Record of a Person in a Scheduled Department or Agency Under the Security of Information Act (SOIA)\" (TBS/SCT 330-316) to the central registry of the Administrative Information Holdings, IHD, of the Canadian Security Intelligence Service (CSIS). The originally signed copy of this form shall also be forwarded to CSIS.",
+    "fr": "Les ministères mentionnés à l'annexe doivent faire parvenir au registre central de l'Unité des fonds de renseignements administratifs, DFR, du Service canadien du renseignement de sécurité (SCRS) les données, sur le formulaire \" Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la Loi sur la protection de l'information (LPI) (TBS-SCT 330-316) , pour chaque personne. L'original signé de ce formulaire doit également être envoyé au SCRS.",
+    "anchor": "3.2",
+    "tag": "p"
+  },
+  {
+    "en": "Scheduled departments should place a copy of form TBS/SCT 330-316 on the person's security screening file.",
+    "fr": "Les ministères mentionnés à l'annexe devraient également verser une copie du formulaire TBS-SCT 330-316 dans le dossier de vérification de sécurité de cette personne.",
+    "anchor": "3.2",
+    "tag": "p"
+  },
+  {
+    "en": "Scheduled departments need neither collect nor forward data to the central registry at the Canadian Security Intelligence Service on former members or employees.",
+    "fr": "Les ministères mentionnés à l'annexe ne doivent pas faire la collecte ou acheminer les données sur les anciens membres ou employés au registre central de la Direction du filtrage de sécurité du Service canadien du renseignement de sécurité (SCRS).",
+    "anchor": "3.2",
+    "tag": "p"
+  },
+  {
+    "en": "(2) Other persons working in scheduled departments",
+    "fr": "(2) Autres personnes travaillant dans des ministères mentionnés à l'annexe de la Loi",
+    "anchor": "3.2",
+    "tag": "h4"
+  },
+  {
+    "en": "Non-members and non-employees working in scheduled departments are not automatically \"persons permanently bound to secrecy.\" If such persons need to be \"permanently bound to secrecy,\" then the process identified in section 4 applies.",
+    "fr": "Les non-membres et les non-employés des ministères mentionnés à l'annexe ne sont pas automatiquement des\"personnes astreintes au secret à perpétuité.\"Si ces personnes doivent être\" astreintes au secret à perpétuité\", le processus décrit dans la section 4 de la présente norme doit être utilisé.",
+    "anchor": "3.2",
+    "tag": "p"
+  },
+  {
+    "en": "Subsection 10(1) of the Act provides that persons, who are neither members nor employees of scheduled departments, may be designated, by notice in writing, to the effect that they are \"permanently bound to secrecy\" because, by reason of their office, position, duties, contract or arrangement, the persons had, have, or will have authorized access to \"special operational information\" and it is in the interest of national security to permanently bind those persons to secrecy.",
+    "fr": "Le paragraphe 10 (1) de la Loi indique que les personnes qui ne sont ni des membres, ni des employés d'un des ministères mentionnés à l'annexe, peuvent être avisées par écrit qu'elles sont\"astreintes au secret à perpétuité\", à cause de leur charge, de leurs fonctions, ou de leur qualité de partie à un contrat administratif parce qu'elles ont eu, ont ou auront un accès autorisé à des\" renseignements opérationnels spéciaux\"et qu'il est dans l'intérêt de la sécurité nationale qu'elles soient\"astreintes au secret à perpétuité \"",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "By way of guidance, designation will not normally be required for the vast majority of persons,",
+    "fr": "Par contre, une désignation ne sera habituellement pas nécessaire pour la grande majorité des personnes,",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "who may be provided with some \"special operational information\" as part of the intelligence they receive from departments; and/or who are aware of particular aspects of such information; and/or who may from time to time give support and assistance to scheduled departments.",
+    "fr": "qui peuvent recevoir certains\"renseignements opérationnels spéciaux \"parmi les renseignements qu'ils reçoivent des ministères, et/ou qui sont conscients du caractère particulier de ce genre de renseignements, et/ou qui peuvent, de temps à autre, appuyer et aider les ministères mentionnés à l'annexe.",
+    "anchor": "4",
+    "tag": "ul"
+  },
+  {
+    "en": "However, those persons who have intimate knowledge of \"special operational information\" should be designated. To assist the Departmental Security Officers in determining whether a person has intimate knowledge of \"special operational information\" and whether to recommend to the deputy head that a person should be designated, criteria and examples are provided. Circumstances may exist where the person would not necessarily hold a security clearance and nevertheless have intimate knowledge.",
+    "fr": "Toutefois, les personnes qui possèdent une connaissance intime de\"renseignements opérationnels spéciaux\"devraient être\" astreintes au secret à perpétuité\". Les exemples et les critères ci-bas visent à aider les agents de sécurité des ministères à déterminer si une personne possède une connaissance intime de\"renseignements opérationnels spéciaux \"et si une recommandation à cet effet doit être faite à l'administrateur général. Il est possible qu'une personne ne possède pas de cote de sécurité mais qu'elle ait néanmoins une connaissance intime de\"renseignements opérationnels spéciaux\".",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "Even where the deputy head is not of the opinion that a person had, has, or will have intimate knowledge of \"special operational information\" to the extent expressed in the criteria and examples, the deputy head may consider it appropriate to designate the person in the interest of national security because of the particulars of the \"special operational information\" that the person had, has, or will have access to.",
+    "fr": "L'administrateur général, même s'il ne croit pas que la personne a eu, a ou aura une connaissance intime de\"renseignements opérationnels spéciaux\"selon les critères et les exemples donnés ci-bas, peut juger nécessaire de désigner cette personne dans le but de protéger la sécurité nationale, compte tenu des détails des \"renseignements opérationnels spéciaux\" auxquels la personne a eu, a et aura accès.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "(a) Government contractors",
+    "fr": "a) Parties à un contrat administratif",
+    "anchor": "4",
+    "tag": "h3"
+  },
+  {
+    "en": "The deputy head of Public Works and Government Services Canada (PWGSC) may designate contractors as \"persons permanently bound to secrecy\", when PWGSC is the contracting authority. Contractors operating under PWGSC contracts may be designated by another deputy head, where that deputy head has been authorized for this purpose by the Minister of Public Works and Government Services.",
+    "fr": "L'administrateur général de Travaux publics et Services gouvernementaux Canada (TPSGC) peut désigner une partie à un contrat administratif comme étant une personne devant\"être astreinte au secret à perpétuité\", lorsque TPSGC est l'autorité contractante. Les parties à un contrat administratif sous l'autorité de TPSGC peuvent être désignées par un autre administrateur général où celui-ci a été autorisé par le ministre de TPSGC à cette fin.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "Contractors for whom PWGSC is not the contracting authority may be designated as \"persons permanently bound to secrecy\" by the deputy head of the department that awards the contract.",
+    "fr": "Les entrepreneurs pour qui TPSGC n'est pas l'autorité contractante peuvent être désignés comme étant des personnes devant \"être astreinte au secret à perpétuité\" par l'administrateur général du ministère qui adjuge le contrat.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "(b) Secondments, attachments, and working agreements with the Government of Canada",
+    "fr": "b) Détachements, affectations et protocoles d'entente avec le gouvernement du Canada",
+    "anchor": "4",
+    "tag": "h3"
+  },
+  {
+    "en": "Persons seconded, attached, or under a working agreement with a department may be designated by the deputy head of the host department, unless they are already \"persons permanently bound to secrecy.\" Departments should ensure that secondment, attachment, or working agreement documentation indicates that the person may need to be \"permanently bound to secrecy.\"",
+    "fr": "Les personnes en détachement dans un ministère mentionné à l'annexe, en affectation ou travaillant en vertu d'un protocole d'entente peuvent être désignées par l'administrateur général du ministère d'accueil, à moins qu'elles ne soient déjà astreintes au secret. Les ministères devraient s'assurer que les documents concernant une telle situation, le cas échéant, indiquent si ces personnes doivent être\"astreintes au secret à perpétuité \".",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "After the designation process has been completed, the host department shall provide the person's home department with copies of the \"Recommendation to Designate\" form, the \"Notice of Designation\" form, the \"Notice of Designation\" letter and, if it has been used in the process, the \"Affidavit of Service\" form. This documentation should also be retained within the home department's personnel security screening file.",
+    "fr": "Le ministère d'attache reçoit, une fois le processus de désignation terminé, une copie de la\"recommandation de désignation\"et de l'\"avis de désignation\"(formulaire et lettre) et, le cas échéant, de l'\"affidavit de la signification à la personne\"du ministère d'accueil. Ces documents devraient être conservés par le ministère d'attache, dans le dossier de vérification de sécurité du personnel.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "(c) Exceptional Cases",
+    "fr": "c) Cas d'exceptions",
+    "anchor": "4",
+    "tag": "h3"
+  },
+  {
+    "en": "The Act at section 8(2)(e) deals with those exceptional cases where it may be difficult to identify a relevant deputy head. It is recommended, therefore, that the Departmental Security Officer contact their departmental Legal Services when presented with such cases.",
+    "fr": "L'article 8(2)(e) de la Loi discute de ces cas d'exceptions lorsqu'il est difficile de déterminer l'administrateur général d'office. Il est donc recommandé aux agents de sécurité des ministères d'entrer en contrat avec leurs services juridiques le cas échéant.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "The Departmental Security Officer should consider the following in determining whether to recommend that a person be a \"person permanently bound to secrecy\". The criteria and examples are only guidelines and are not exclusive. Did, does or will the person's duties require close and regular access to \"special operational information\"? Did, does or will the person's formal duties involve the provision of regular assistance to activities involving \"special operational information\"? Did, does or will the person's workplace or official working arrangement necessarily imply the acquisition of intimate knowledge of \"special operational information\"? Was, is or will the person be in a situation where intimate knowledge of \"special operational information\" is provided over time? Is the information previously obtained by an individual in the course of his or her duties still viewed to be of a highly sensitive nature, requiring that he or she be notified. andAre there factors in the interest of national security that will make it necessary to designate the person? In addition to the Manager's recommendation, the Departmental Security Officer may conduct a review of the person's security screening file, as part of his or her analysis.",
+    "fr": "L'agent de sécurité du ministère doit considérer les critères suivants aux fins de recommander\"d'astreindre une personne au secret à perpétuité.\" Les critères et les exemples suivants ne sont que des lignes directrices et ne sont pas exclusifs. Les fonctions de cette personne ont-elles déjà nécessité, nécessitent, ou nécessiteront un accès régulier et détaillé à des\"renseignements opérationnels spéciaux\"? Les fonctions officielles de cette personne comprennent-elles, ont déjà compris, ou comprendront une participation régulière à des activités touchant les\"renseignements opérationnels spéciaux\"? Le milieu de travail ou le régime de travail officiel de cette personne suppose-t-il, a déjà supposé, ou supposera l'acquisition d'une connaissance intime de\"renseignements opérationnels spéciaux\"? Cette personne est-elle, a déjà été, ou sera dans une situation où une connaissance intime de\"renseignements opérationnels spéciaux\"est acquise au fil du temps? L'information déjà obtenue par cette personne au cours de ses fonctions est-elle encore vue comme étant de nature très sensible, nécessitant qu'elle soit désignée? et Existe-t-il des facteurs, dans l'intérêt de la sécurité nationale, qui rendront nécessaire la désignation de cette personne? En plus de la recommandation du gestionnaire, l'agent de sécurité autorisé du ministère peut faire une révision du dossier de vérification de sécurité de la personne, comme partie intégrante de leur analyse.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "Persons in departments and certain government contractors, who work with \"special operational information\" on a regular basis. (e.g. analyze, write reports, review, and/or make recommendations). Such persons may include ministerial staff and policy and program analysts. Departments may include in arrangements and agreements with organizations outside of the Government of Canada (e.g. police forces, provincial and municipal governments, and private sector organizations) that their employees may be designated as \"persons permanently bound to secrecy\" as a result of their activities involving \"special operational information.\" Government contractors and others who provide specific project support to activities that involve \"special operational information.\" Such persons would work within a department listed in the schedule and other departments where they would be working \"along side\" members or employees, such that they would acquire intimate knowledge of \"special operational information\"; or be in a position, normally a senior position, within a private sector organization where, over time , these persons would gain intimate knowledge of \"special operational information.\" Foreign exchange officials who are working on a regular basis with \"special operational information\" as part of their official duties may be designated. The Treasury Board of Canada Secretariat may issue technical documentation to provide additional guidance.",
+    "fr": "Les employés des ministères et les parties à un contrat administratif qui travaillent avec des\"renseignements opérationnels spéciaux \"sur une base régulière (p. ex. analysent, rédigent des rapports, examinent et/ou présentent de recommandations). Ces personnes peuvent comprendre des employés du cabinet ministériel, des analystes de programmes et de politiques, etc. Dans leurs ententes avec des organismes à l'extérieur du gouvernement du Canada (p. ex. les forces policières, les gouvernements provinciaux, les administrations municipales, les organismes du secteur privé, etc.) les ministères peuvent préciser que leurs employés pourront être désignés comme étant\"astreint au secret à perpétuité\"à cause de leurs activités touchant les\"renseignements opérationnels spéciaux\". Les parties à un contrat administratif et les autres personnes qui fournissent un appui précis à des activités touchant les\"renseignements opérationnels spéciaux\"Ces personnes peuvent : travailler dans un ministère mentionné à l'annexe et dans d'autres ministères, \"de concert\" avec des membres ou des employés de ce ministère, où elles acquerraient une connaissance intime de\"renseignements opérationnels spéciaux\"; occuper un poste, habituellement de niveau supérieur au sein d'une organisation du secteur privé où, au fil du temps, elles acquerront une connaissance intime de\"renseignements opérationnels spéciaux\". Les officiels étrangers qui, dans le cadre de leurs fonctions officielles, travaillent avec des\"renseignements opérationnels spéciaux \"sur une base régulière peuvent être désignés. Des directives additionnelles pourraient être fournies par le Secrétariat du Conseil du Trésor du Canada sous la forme de documentation technique.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "The following persons are not to be designated as \"persons permanently bound to secrecy\": the Governor Generalthe lieutenant governor of a provinceMinisters of the Crown. a judge receiving a salary under the Judges Act; and a military judge within the meaning of subsection 2(1) of the National Defence Act. Questions related to the designation of other Governor-in-Council appointees (e.g. deputy ministers, associate deputy ministers, heads of agencies or crown corporations) should be directed to the Director of Security Operations, Privy Council Office.",
+    "fr": "La liste suivante comprend les personnes qui ne seront pas\" astreintes au secret à perpétuité\": le gouverneur général;le lieutenant-gouverneur d'une province;les ministres de la Couronne. un jugé rémunéré en vertu du régime de la Loi sur les juges ; un juge militaire au sens du paragraphe 2(1) de la Loi sur la défense nationale. Les questions touchant la désignation d'autres personnes nommées par le gouverneur en conseil (p. ex. les sous-ministres, les sous-ministres délégués, les chefs d'organismes ou de sociétés d'État) devraient être adressées au Directeur des opérations de sécurité, Bureau du Conseil privé.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "Departmental Security Officers should consider the above, including the criteria and examples, before recommending to the deputy head that a person should be designated. Special care must be taken to ensure that the designation is warranted because of the permanent nature of the designation. Departments may include in agreements or arrangements with organizations outside of the Government of Canada (e.g. police forces, provincial departments, municipalities, and private sector organizations) that their employees may be designated as \"persons permanently bound to secrecy,\" as a result of their activities involving \"special operational information.\" Before a designation by notice of a foreign exchange official working in Canada may take place, the home government department of the foreign exchange official shall be advised in writing. Such arrangements should form part of any future working agreement between the two country's government departments. Managers should use the above as a guide in their criteria for selection of a person to be \"permanently bound to secrecy.\" Under exceptional circumstances (e.g. the manager has been posted overseas), the Departmental Security Officer shall complete the manager's portion of the form. Departmental Security Officers shall review the selection made by the manager, and if the DSO concurs that the designation is warranted, they are to recommend to the deputy head that the person be \"permanently bound to secrecy\". The deputy head shall consider individually each form entitled \" Recommendation to Designate \"Persons Permanently Bound to Secrecy\" Under the Security of Information Act (SOIA),\" TBS/SCT 330-317A (see appendix B). This form includes the details on each person, as specified in subsection 10.(2) of the Act. The deputy head, if in agreement with the contents of the \"Recommendation to Designate\" form, may sign the form \" Notice of Designation \" Persons Permanently Bound to Secrecy,\" Under Section 10 of the Security of Information Act (SOIA),\" TBS/SCT 330-317B (see appendix C). Deputy heads shall personally exercise the authority to designate. As soon as possible after the deputy head has signed form TBS/SCT 330-317B and thereby designated a person, the Departmental Security Official shall ensure that the person is briefed in a face-to-face meeting. The consequences of being a \"person permanently bound to secrecy\" and his or her security obligations under the Government Security Policy shall be explained. The form \"Notice of Designation,\" TBS/SCT 330-317B, and the letter \"Notice of Designation,\" TBS/SCT 330-317C (see appendix D), shall be read and signed by the designated person during this face-to-face meeting. Should the designated person decline to sign either the \"Notice of Designation\" form or the letter, the Departmental Security Official shall complete the form entitled \"Affidavit of Service - Security of Information Act (SOIA),\" TBS/SCT 330-318E (see appendix E). The deputy head shall be advised of all cases where a person declines to sign and the \"Affidavit of Service\" form has been completed. Departmental security staff shall ensure that the data contained on form TBS/SCT 330-317A is transmitted to CSIS. The originally signed copies of all the required forms and letter shall be forwarded to CSIS once the face-to-face meeting with the designated person has been concluded. The following documents are to be forwarded to the central registry of the Administrative Information Holdings, IHD, of the Canadian Security Intelligence Service for long-term retention and storage: form \"Recommendation to Designate \"Persons Permanently Bound to Secrecy\" Under the Security of Information Act (SOIA),\" (TBS/SCT 330-317A) ; form \"Notice of Designation \" Person Permanently Bound to Secrecy\" Under Section 10 of the Security of Information Act (SOIA),\" (TBS/SCT 330-317B) ; letter \" Notice of Designation - \"Persons Permanently Bound to Secrecy\" (TBS/SCT 330-317C) ; and if required because the person being designated has declined to sign the form and/or the letter, the form \" Affidavit of Service - Security of Information Act,\" (TBS/SCT 330-318E) shall be forwarded as well. A Departmental Security Officer may recommend in writing to another Departmental Security Officer that a person from that other department should be designated. Where a person is designated by the deputy head of the host department, the person's home department shall be informed and provided by the host department after the briefing, with copies of the following documents: \"Recommendation to Designate\" (TBS/SCT 330-317A), \"Notice of Designation\" (TBS/SCT 330-317B), \"Notice of Designation\" (TBS/SCT 330-317C) and, if used because the person declined to sign, \"Affidavit of Service\" (TBS/SCT 330-318). Another copy of this documentation shall be retained on the person's personnel security screening file or, in the absence of a personnel security screening file, the personnel file at the person's home department.",
+    "fr": "Les agents de sécurité des ministères devraient étudier les points ci-dessus, y compris les critères et les exemples, avant de recommander à l'administrateur général la désignation d'une personne. Il est important de bien s'assurer que la désignation est justifiée en raison de la nature permanente de celle-ci. Dans leurs ententes avec des organismes à l'extérieur du gouvernement du Canada (p. ex. les forces policières, les gouvernements provinciaux, les administrations municipales, les organismes du secteur privé, etc.) les ministères peuvent préciser que leurs employés pourront être désignés comme étant\"astreint au secret à perpétuité \"à cause de leurs activités touchant les\"renseignements opérationnels spéciaux\". Avant qu'une désignation par avis d'un officiel étranger, travaillant au Canada puisse avoir lieu, le ministère du gouvernement d'attache de celui-ci doit en être avisé par écrit. De tels arrangements devraient contribuer à la création de protocoles d'ententes entre les ministères des gouvernements des deux pays. Le gestionnaire doit se servir des questions sus-mentionnées comme guide pour appliquer les critères de sélection d'une personne \" astreinte au secret à perpétuité.\" En cas exceptionnels (c'est-à-dire le gestionnaire a été affecté à l'étranger) l'agent de sécurité du ministère doit compléter la partie du formulaire réservée au gestionnaire. Les agents de sécurité du ministère doivent examiner la recommandation du gestionnaire, et si l'agent de sécurité du ministère atteste que la désignation est justifiée, ils doivent recommander à l'administrateur général \"d'astreindre cette personne au secret à perpétuité.\" L'administrateur général doit prendre en considération individuellement chaque formulaire intitulé \"Recommandation aux fins de la désignation des\"Personnes astreintes au secret à perpétuité\"en application de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-317A) (voir annexe B). Le formulaire doit inclure les détails nécessaires sur chaque personne, comme précisé au paragraphe 10(2) de la Loi. Lorsque l'administrateur général souscrit à la recommandation du formulaire intitulé\"Recommandation aux fins de la désignation\" (TBS-SCT 330-317A), celui-ci doit signer le formulaire intitulé \" Avis de désignation des\"personnes astreintes au secret à perpétuité \"conformément à l'article 10 de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-317B) , (voir annexe C). Les administrateurs généraux doivent exercer ce pouvoir personnellement. Aussitôt que possible après que l'administrateur général a signé le formulaire TBS/SCT 330-317B et donc désigné une personne, l'agent de sécurité autorisé du ministère s'assure le plus rapidement possible de la mettre au courant lors d'un breffage en personne. Celle-ci se voit expliquer les conséquences d'être astreinte au secret à perpétuité\"et ses obligations quant à la Politique du gouvernement sur la sécurité. Le formulaire\"Avis de désignation\"(TBS-SCT 330-317B) et la lettre intitulée \" Avis de désignation\"(TBS-SCT 330-317C, voir annexe D) est alors lue et signée par la personne nommée au cours de ce breffage en personne. Si la personne désignée refuse de signer le formulaire et la lettre intitulée\"Avis de désignation\", l'agent de sécurité autorisé du ministère doit alors remplir le formulaire \" Affidavit de la signification à personne - Loi sur la protection de l'information\", (TBS-SCT 330-318F) , (annexe E). L'administrateur général est avisé de tous les cas où une personne refuse de signer et que\"l'Affidavit de la signification à la personne \"a été rempli. Le personnel de sécurité du ministère doit s'assurer que les données du formulaire TBS-SCT 330-317A sont inscrites électroniquement au SCRS et que les originaux signés de tous les formulaires et de la lettre sont envoyés au SCRS une fois que le breffage en personne de la personne désignée est terminé. Les documents ci-dessous doivent être envoyés au registre central de l'Unité des fonds de renseignements administratifs, DFR, du Service canadien du renseignement de sécurité pour le stockage et la conservation à long terme. formulaire intitulé \" Recommandation aux fins de la désignation des\"personnes astreintes au secret à perpétuité\"en application de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-317A) ; formulaire intitulé \" Avis de désignation des\"personnes astreintes au secret à perpétuité \"conformément à l'article 10 de la Loi sur la protection de l'information(LPI)\", (TBS-SCT 330-317B) ; lettre intitulée \" Avis de désignation\"personnes astreintes au secret à perpétuité\", (TBS-SCT 330-317C) ; le cas échéant, si la personne nommée refuse de signer le formulaire et /ou la lettre, un formulaire intitulé \" Affidavit de la signification à personne - Loi sur la protection de l'information (LPI)\"(TBS-SCT 330-318) doit également être envoyé. Un agent de sécurité d'un ministère peut recommander par écrit à un agent de sécurité d'un autre ministère qu'une personne de ce dernier ministère soit désignée. Lorsqu'une personne est désignée par l'administrateur général du ministère d'accueil, ce dernier s'occupe du breffage de sécurité de la personne désignée. Par la suite, le ministère d'attache de cette personne doit recevoir des copies de la documentation\"Recommandation aux fins de la désignation\"(TBS-SCT 330-317A),\"Avis de désignation\"(TBS-SCT 330-317B) et de la lettre intitulée\"Avis de désignation\"(TBS-SCT 330-317C) du ministère d'accueil. Si la personne refuse de signer, il recevra également une copie de l'\"Affidavit de la signification à la personne\", (TBS-SCT 330-318F). Une autre copie de ces documents est gardée dans le dossier de vérification de sécurité de cette personne ou, à défaut, dans son dossier personnel au ministère d'attache.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "In these cases, departments should be guided by the procedures outlined in sections 4 A) and 4 B) of this Standard. Each case should be assessed individually to determine whether designation is in the interest of national security. When a decision is made to recommend to the deputy head that a former member or employee should be designated, the procedures specified in paragraph D) above, which include the face-to-face meeting and briefing of the designated former member or employee shall be followed.",
+    "fr": "Le cas échéant, les ministères devraient suivre la politique et les procédures décrites aux articles 4 A) et 4 B) de la présente norme. Dans l'intérêt de la sécurité nationale chaque cas devrait être évalué individuellement. Lorsqu'une décision est prise de recommander un ancien membre ou employé pour désignation auprès de l'administrateur général, les procédures décrites dans le paragraphe D précédent, qui comprennent une rencontre en personne aux fins d'une séance de breffage, seront suivies. F) Aide du Secrétariat du Conseil du Trésor du Canada pour les désignations Les agents de sécurité des ministères sont incités à demander de l'aide et des conseils au Secrétariat du Conseil du Trésor du Canada. (voir section 10)",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "The Departmental Security Officer should consider the following in determining whether to recommend that a person be a \"person permanently bound to secrecy\".",
+    "fr": "L'agent de sécurité du ministère doit considérer les critères suivants aux fins de recommander\"d'astreindre une personne au secret à perpétuité.\"",
+    "anchor": "4.1",
+    "tag": "p"
+  },
+  {
+    "en": "The criteria and examples are only guidelines and are not exclusive.",
+    "fr": "Les critères et les exemples suivants ne sont que des lignes directrices et ne sont pas exclusifs.",
+    "anchor": "4.1",
+    "tag": "p"
+  },
+  {
+    "en": "Did, does or will the person's duties require close and regular access to \"special operational information\"? Did, does or will the person's formal duties involve the provision of regular assistance to activities involving \"special operational information\"? Did, does or will the person's workplace or official working arrangement necessarily imply the acquisition of intimate knowledge of \"special operational information\"? Was, is or will the person be in a situation where intimate knowledge of \"special operational information\" is provided over time? Is the information previously obtained by an individual in the course of his or her duties still viewed to be of a highly sensitive nature, requiring that he or she be notified. andAre there factors in the interest of national security that will make it necessary to designate the person? In addition to the Manager's recommendation, the Departmental Security Officer may conduct a review of the person's security screening file, as part of his or her analysis.",
+    "fr": "Les fonctions de cette personne ont-elles déjà nécessité, nécessitent, ou nécessiteront un accès régulier et détaillé à des\"renseignements opérationnels spéciaux\"? Les fonctions officielles de cette personne comprennent-elles, ont déjà compris, ou comprendront une participation régulière à des activités touchant les\"renseignements opérationnels spéciaux\"? Le milieu de travail ou le régime de travail officiel de cette personne suppose-t-il, a déjà supposé, ou supposera l'acquisition d'une connaissance intime de\"renseignements opérationnels spéciaux\"? Cette personne est-elle, a déjà été, ou sera dans une situation où une connaissance intime de\"renseignements opérationnels spéciaux\"est acquise au fil du temps? L'information déjà obtenue par cette personne au cours de ses fonctions est-elle encore vue comme étant de nature très sensible, nécessitant qu'elle soit désignée? et Existe-t-il des facteurs, dans l'intérêt de la sécurité nationale, qui rendront nécessaire la désignation de cette personne? En plus de la recommandation du gestionnaire, l'agent de sécurité autorisé du ministère peut faire une révision du dossier de vérification de sécurité de la personne, comme partie intégrante de leur analyse.",
+    "anchor": "4.1",
+    "tag": "ol"
+  },
+  {
+    "en": "Persons in departments and certain government contractors, who work with \"special operational information\" on a regular basis. (e.g. analyze, write reports, review, and/or make recommendations). Such persons may include ministerial staff and policy and program analysts. Departments may include in arrangements and agreements with organizations outside of the Government of Canada (e.g. police forces, provincial and municipal governments, and private sector organizations) that their employees may be designated as \"persons permanently bound to secrecy\" as a result of their activities involving \"special operational information.\" Government contractors and others who provide specific project support to activities that involve \"special operational information.\" Such persons would work within a department listed in the schedule and other departments where they would be working \"along side\" members or employees, such that they would acquire intimate knowledge of \"special operational information\"; or be in a position, normally a senior position, within a private sector organization where, over time , these persons would gain intimate knowledge of \"special operational information.\" Foreign exchange officials who are working on a regular basis with \"special operational information\" as part of their official duties may be designated. The Treasury Board of Canada Secretariat may issue technical documentation to provide additional guidance.",
+    "fr": "Les employés des ministères et les parties à un contrat administratif qui travaillent avec des\"renseignements opérationnels spéciaux \"sur une base régulière (p. ex. analysent, rédigent des rapports, examinent et/ou présentent de recommandations). Ces personnes peuvent comprendre des employés du cabinet ministériel, des analystes de programmes et de politiques, etc. Dans leurs ententes avec des organismes à l'extérieur du gouvernement du Canada (p. ex. les forces policières, les gouvernements provinciaux, les administrations municipales, les organismes du secteur privé, etc.) les ministères peuvent préciser que leurs employés pourront être désignés comme étant\"astreint au secret à perpétuité\"à cause de leurs activités touchant les\"renseignements opérationnels spéciaux\". Les parties à un contrat administratif et les autres personnes qui fournissent un appui précis à des activités touchant les\"renseignements opérationnels spéciaux\"Ces personnes peuvent : travailler dans un ministère mentionné à l'annexe et dans d'autres ministères, \"de concert\" avec des membres ou des employés de ce ministère, où elles acquerraient une connaissance intime de\"renseignements opérationnels spéciaux\"; occuper un poste, habituellement de niveau supérieur au sein d'une organisation du secteur privé où, au fil du temps, elles acquerront une connaissance intime de\"renseignements opérationnels spéciaux\". Les officiels étrangers qui, dans le cadre de leurs fonctions officielles, travaillent avec des\"renseignements opérationnels spéciaux \"sur une base régulière peuvent être désignés. Des directives additionnelles pourraient être fournies par le Secrétariat du Conseil du Trésor du Canada sous la forme de documentation technique.",
+    "anchor": "4.2",
+    "tag": "ul"
+  },
+  {
+    "en": "The following persons are not to be designated as \"persons permanently bound to secrecy\": the Governor Generalthe lieutenant governor of a provinceMinisters of the Crown. a judge receiving a salary under the Judges Act; and a military judge within the meaning of subsection 2(1) of the National Defence Act.",
+    "fr": "La liste suivante comprend les personnes qui ne seront pas\" astreintes au secret à perpétuité\": le gouverneur général;le lieutenant-gouverneur d'une province;les ministres de la Couronne. un jugé rémunéré en vertu du régime de la Loi sur les juges ; un juge militaire au sens du paragraphe 2(1) de la Loi sur la défense nationale.",
+    "anchor": "4.3",
+    "tag": "div"
+  },
+  {
+    "en": "Questions related to the designation of other Governor-in-Council appointees (e.g. deputy ministers, associate deputy ministers, heads of agencies or crown corporations) should be directed to the Director of Security Operations, Privy Council Office.",
+    "fr": "Les questions touchant la désignation d'autres personnes nommées par le gouverneur en conseil (p. ex. les sous-ministres, les sous-ministres délégués, les chefs d'organismes ou de sociétés d'État) devraient être adressées au Directeur des opérations de sécurité, Bureau du Conseil privé.",
+    "anchor": "4.3",
+    "tag": "p"
+  },
+  {
+    "en": "Departmental Security Officers should consider the above, including the criteria and examples, before recommending to the deputy head that a person should be designated. Special care must be taken to ensure that the designation is warranted because of the permanent nature of the designation. Departments may include in agreements or arrangements with organizations outside of the Government of Canada (e.g. police forces, provincial departments, municipalities, and private sector organizations) that their employees may be designated as \"persons permanently bound to secrecy,\" as a result of their activities involving \"special operational information.\" Before a designation by notice of a foreign exchange official working in Canada may take place, the home government department of the foreign exchange official shall be advised in writing. Such arrangements should form part of any future working agreement between the two country's government departments. Managers should use the above as a guide in their criteria for selection of a person to be \"permanently bound to secrecy.\" Under exceptional circumstances (e.g. the manager has been posted overseas), the Departmental Security Officer shall complete the manager's portion of the form. Departmental Security Officers shall review the selection made by the manager, and if the DSO concurs that the designation is warranted, they are to recommend to the deputy head that the person be \"permanently bound to secrecy\". The deputy head shall consider individually each form entitled \" Recommendation to Designate \"Persons Permanently Bound to Secrecy\" Under the Security of Information Act (SOIA),\" TBS/SCT 330-317A (see appendix B). This form includes the details on each person, as specified in subsection 10.(2) of the Act. The deputy head, if in agreement with the contents of the \"Recommendation to Designate\" form, may sign the form \" Notice of Designation \" Persons Permanently Bound to Secrecy,\" Under Section 10 of the Security of Information Act (SOIA),\" TBS/SCT 330-317B (see appendix C). Deputy heads shall personally exercise the authority to designate. As soon as possible after the deputy head has signed form TBS/SCT 330-317B and thereby designated a person, the Departmental Security Official shall ensure that the person is briefed in a face-to-face meeting. The consequences of being a \"person permanently bound to secrecy\" and his or her security obligations under the Government Security Policy shall be explained. The form \"Notice of Designation,\" TBS/SCT 330-317B, and the letter \"Notice of Designation,\" TBS/SCT 330-317C (see appendix D), shall be read and signed by the designated person during this face-to-face meeting. Should the designated person decline to sign either the \"Notice of Designation\" form or the letter, the Departmental Security Official shall complete the form entitled \"Affidavit of Service - Security of Information Act (SOIA),\" TBS/SCT 330-318E (see appendix E). The deputy head shall be advised of all cases where a person declines to sign and the \"Affidavit of Service\" form has been completed. Departmental security staff shall ensure that the data contained on form TBS/SCT 330-317A is transmitted to CSIS. The originally signed copies of all the required forms and letter shall be forwarded to CSIS once the face-to-face meeting with the designated person has been concluded. The following documents are to be forwarded to the central registry of the Administrative Information Holdings, IHD, of the Canadian Security Intelligence Service for long-term retention and storage: form \"Recommendation to Designate \"Persons Permanently Bound to Secrecy\" Under the Security of Information Act (SOIA),\" (TBS/SCT 330-317A) ; form \"Notice of Designation \" Person Permanently Bound to Secrecy\" Under Section 10 of the Security of Information Act (SOIA),\" (TBS/SCT 330-317B) ; letter \" Notice of Designation - \"Persons Permanently Bound to Secrecy\" (TBS/SCT 330-317C) ; and if required because the person being designated has declined to sign the form and/or the letter, the form \" Affidavit of Service - Security of Information Act,\" (TBS/SCT 330-318E) shall be forwarded as well.",
+    "fr": "Les agents de sécurité des ministères devraient étudier les points ci-dessus, y compris les critères et les exemples, avant de recommander à l'administrateur général la désignation d'une personne. Il est important de bien s'assurer que la désignation est justifiée en raison de la nature permanente de celle-ci. Dans leurs ententes avec des organismes à l'extérieur du gouvernement du Canada (p. ex. les forces policières, les gouvernements provinciaux, les administrations municipales, les organismes du secteur privé, etc.) les ministères peuvent préciser que leurs employés pourront être désignés comme étant\"astreint au secret à perpétuité \"à cause de leurs activités touchant les\"renseignements opérationnels spéciaux\". Avant qu'une désignation par avis d'un officiel étranger, travaillant au Canada puisse avoir lieu, le ministère du gouvernement d'attache de celui-ci doit en être avisé par écrit. De tels arrangements devraient contribuer à la création de protocoles d'ententes entre les ministères des gouvernements des deux pays. Le gestionnaire doit se servir des questions sus-mentionnées comme guide pour appliquer les critères de sélection d'une personne \" astreinte au secret à perpétuité.\" En cas exceptionnels (c'est-à-dire le gestionnaire a été affecté à l'étranger) l'agent de sécurité du ministère doit compléter la partie du formulaire réservée au gestionnaire. Les agents de sécurité du ministère doivent examiner la recommandation du gestionnaire, et si l'agent de sécurité du ministère atteste que la désignation est justifiée, ils doivent recommander à l'administrateur général \"d'astreindre cette personne au secret à perpétuité.\" L'administrateur général doit prendre en considération individuellement chaque formulaire intitulé \"Recommandation aux fins de la désignation des\"Personnes astreintes au secret à perpétuité\"en application de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-317A) (voir annexe B). Le formulaire doit inclure les détails nécessaires sur chaque personne, comme précisé au paragraphe 10(2) de la Loi. Lorsque l'administrateur général souscrit à la recommandation du formulaire intitulé\"Recommandation aux fins de la désignation\" (TBS-SCT 330-317A), celui-ci doit signer le formulaire intitulé \" Avis de désignation des\"personnes astreintes au secret à perpétuité \"conformément à l'article 10 de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-317B) , (voir annexe C). Les administrateurs généraux doivent exercer ce pouvoir personnellement. Aussitôt que possible après que l'administrateur général a signé le formulaire TBS/SCT 330-317B et donc désigné une personne, l'agent de sécurité autorisé du ministère s'assure le plus rapidement possible de la mettre au courant lors d'un breffage en personne. Celle-ci se voit expliquer les conséquences d'être astreinte au secret à perpétuité\"et ses obligations quant à la Politique du gouvernement sur la sécurité. Le formulaire\"Avis de désignation\"(TBS-SCT 330-317B) et la lettre intitulée \" Avis de désignation\"(TBS-SCT 330-317C, voir annexe D) est alors lue et signée par la personne nommée au cours de ce breffage en personne. Si la personne désignée refuse de signer le formulaire et la lettre intitulée\"Avis de désignation\", l'agent de sécurité autorisé du ministère doit alors remplir le formulaire \" Affidavit de la signification à personne - Loi sur la protection de l'information\", (TBS-SCT 330-318F) , (annexe E). L'administrateur général est avisé de tous les cas où une personne refuse de signer et que\"l'Affidavit de la signification à la personne \"a été rempli. Le personnel de sécurité du ministère doit s'assurer que les données du formulaire TBS-SCT 330-317A sont inscrites électroniquement au SCRS et que les originaux signés de tous les formulaires et de la lettre sont envoyés au SCRS une fois que le breffage en personne de la personne désignée est terminé. Les documents ci-dessous doivent être envoyés au registre central de l'Unité des fonds de renseignements administratifs, DFR, du Service canadien du renseignement de sécurité pour le stockage et la conservation à long terme. formulaire intitulé \" Recommandation aux fins de la désignation des\"personnes astreintes au secret à perpétuité\"en application de la Loi sur la protection de l'information (LPI)\", (TBS-SCT 330-317A) ; formulaire intitulé \" Avis de désignation des\"personnes astreintes au secret à perpétuité \"conformément à l'article 10 de la Loi sur la protection de l'information(LPI)\", (TBS-SCT 330-317B) ; lettre intitulée \" Avis de désignation\"personnes astreintes au secret à perpétuité\", (TBS-SCT 330-317C) ; le cas échéant, si la personne nommée refuse de signer le formulaire et /ou la lettre, un formulaire intitulé \" Affidavit de la signification à personne - Loi sur la protection de l'information (LPI)\"(TBS-SCT 330-318) doit également être envoyé.",
+    "anchor": "4.4",
+    "tag": "ul"
+  },
+  {
+    "en": "A Departmental Security Officer may recommend in writing to another Departmental Security Officer that a person from that other department should be designated.",
+    "fr": "Un agent de sécurité d'un ministère peut recommander par écrit à un agent de sécurité d'un autre ministère qu'une personne de ce dernier ministère soit désignée.",
+    "anchor": "4.4",
+    "tag": "p"
+  },
+  {
+    "en": "Where a person is designated by the deputy head of the host department, the person's home department shall be informed and provided by the host department after the briefing, with copies of the following documents: \"Recommendation to Designate\" (TBS/SCT 330-317A), \"Notice of Designation\" (TBS/SCT 330-317B), \"Notice of Designation\" (TBS/SCT 330-317C) and, if used because the person declined to sign, \"Affidavit of Service\" (TBS/SCT 330-318). Another copy of this documentation shall be retained on the person's personnel security screening file or, in the absence of a personnel security screening file, the personnel file at the person's home department.",
+    "fr": "Lorsqu'une personne est désignée par l'administrateur général du ministère d'accueil, ce dernier s'occupe du breffage de sécurité de la personne désignée. Par la suite, le ministère d'attache de cette personne doit recevoir des copies de la documentation\"Recommandation aux fins de la désignation\"(TBS-SCT 330-317A),\"Avis de désignation\"(TBS-SCT 330-317B) et de la lettre intitulée\"Avis de désignation\"(TBS-SCT 330-317C) du ministère d'accueil. Si la personne refuse de signer, il recevra également une copie de l'\"Affidavit de la signification à la personne\", (TBS-SCT 330-318F). Une autre copie de ces documents est gardée dans le dossier de vérification de sécurité de cette personne ou, à défaut, dans son dossier personnel au ministère d'attache.",
+    "anchor": "4.4",
+    "tag": "p"
+  },
+  {
+    "en": "In these cases, departments should be guided by the procedures outlined in sections 4 A) and 4 B) of this Standard. Each case should be assessed individually to determine whether designation is in the interest of national security.",
+    "fr": "Le cas échéant, les ministères devraient suivre la politique et les procédures décrites aux articles 4 A) et 4 B) de la présente norme. Dans l'intérêt de la sécurité nationale chaque cas devrait être évalué individuellement.",
+    "anchor": "4.5",
+    "tag": "p"
+  },
+  {
+    "en": "When a decision is made to recommend to the deputy head that a former member or employee should be designated, the procedures specified in paragraph D) above, which include the face-to-face meeting and briefing of the designated former member or employee shall be followed.",
+    "fr": "Lorsqu'une décision est prise de recommander un ancien membre ou employé pour désignation auprès de l'administrateur général, les procédures décrites dans le paragraphe D précédent, qui comprennent une rencontre en personne aux fins d'une séance de breffage, seront suivies.",
+    "anchor": "4.5",
+    "tag": "p"
+  },
+  {
+    "en": "\"Persons permanently bound to secrecy\" do not obtain a higher security clearance level by reason of their designation, nor do they gain unlimited, special access to safeguarded information. The need-to-know principle remains. While it is preferable that a person has a security clearance, it is not a requirement for a person to be \"permanently bound to secrecy.\" The Departmental Security Officer may review the security screening file of a person who is to be \"permanently bound to secrecy.\" The Canadian Security Intelligence Service shall, on behalf of the Government of Canada, record and store in the central registry of the Security Screening Branch, the information and documentation that it receives on all persons who are \"persons permanently bound to secrecy.\" When a person is \"permanently bound to secrecy\" under the Act, it is a good security practice, as it is the case of all persons holding a security clearance, to conduct update and exit interviews as part of the security screening cycle. The following apply therefore to both of those groups of persons. Departmental Security Officers in scheduled and non-scheduled departments should ensure that subject interviews are conducted with all persons that have undergone a renewal of their security screening at the Level III (TOP SECRET) in accordance with section 10.5(b) of the Government Security Policy . As it is also the case for TOP SECRET renewals, where CONFIDENTIAL or SECRET level security screenings have been renewed, the \" Security Screening Certificate and Briefing Form,\" TBS/SCT 330-47 , shall be completed as confirmation that the person has been reminded of their security obligations. Departmental Security Officers, in the case of government contractors working on contracts issued by their department, are to ensure that subject interviews and the \"Security Screening Certificate and Briefing Form,\" TBS/SCT 330-47 , are or have been completed. When a person \"permanently bound to secrecy\" stops working with a department, he or she is required to undergo an exit interview conducted by a security official or an appropriate security exit procedure, both of which shall include a formal sign off of the form TBS/SCT 330-47 .Individuals shall be reminded of their ongoing obligations under the Act and the consequences of any violations.",
+    "fr": "Les personnes\"astreintes au secret à perpétuité\"ne peuvent obtenir une cote de sécurité plus élevée à cause de leur désignation. Elles n'ont pas non plus droit à un accès spécial illimité à l'information protégée. Le principe du besoin de connaître demeure inchangé. Bien qu'il soit préférable qu'une personne ait une cote de sécurité, ce n'est pas requis pour que la personne soit\"astreinte au secret à perpétuité\". L'agent de sécurité du ministère peut faire l'examen du dossier de vérification de sécurité d'une personne qui sera\"astreinte au secret à perpétuité\". The Canadian Security Intelligence Service shall, on behalf of the Government of Canada, record and store in the central registry of the Security Screening Branch, the information and documentation that it receives on all persons who are \"persons permanently bound to secrecy.\" Lorsque, selon la Loi, une personne est\"astreinte au secret à perpétuité\", une bonne pratique de sécurité est de faire des entrevues de mise à jour et de départ au cours du cycle de vérification de sécurité, comme pour toute personne ayant une cote de sécurité. Les mesures suivantes touchent donc toutes les personnes détenant une cote de sécurité. Les agents de sécurité de ministères mentionnés ou non à l'annexe, devront mener des breffages en personne avec toutes les personnes qui renouvellent leur cote de sécurité de niveau III (TRÈS SECRET), conformément à l'article 10.5(b) de la Politique du gouvernement sur la sécurité. Comme pour le renouvellement des cotes TRÈS SECRET, lorsque les niveaux CONFIDENTIEL et SECRET sont renouvelés, un \"Certificat d'enquête de sécurité et profil de sécurité\", (TBS-SCT 330-47) , est rempli, confirmant le rappel des obligations de sécurité de cette personne. Dans le cas des parties à un contrat administratif passé avec leur ministère, les agents de sécurité de ministères doivent s'assurer que les entrevues avec le sujet ont lieu et qu'un Certificat d'enquête de sécurité et profil de sécurité\" , (TBS-SCT 330-47) est ou a été rempli. À la fin de leur travail dans un ministère, un individu doit avoir une entrevue personnelle de départ, menée par un responsable de la sécurité, ou ils doivent passer par un processus de sécurité de départ. Dans l'un ou l'autre des cas, le formulaire TBS-SCT 330-47doit être signé. Un rappel des obligations continues en matière de sécurité et des conséquences des infractions selon la Loi est fait à ces employés.",
+    "anchor": "5",
+    "tag": "ol"
+  },
+  {
+    "en": "The Security Awareness Program is an ideal method through which the security responsibilities of persons, including those who have been \"permanently bound to secrecy\", should be reinforced. Scheduled departments and departments with designated employees must conduct a security awareness program as required under section 10.5 of the Government Security Policy. Security awareness messages may be disseminated by means of briefing sessions, videos, reading material, posters, and pop-up images on the computer screens.",
+    "fr": "Le Programme de sensibilisation à la sécurité est la méthode idéale de renforcer les responsabilités des personnes face à la sécurité, y compris les responsabilités des personnes qui ont été\"astreinte au secret à perpétuité.\"Les ministères mentionnés à l'annexe et les ministères comptant des employés qui sont\"astreints au secret à perpétuité\" doivent avoir un programme de sensibilisation à la sécurité, conformément à l'article 10.5 de la Politique dugouvernement sur la sécurité. Des messages de sensibilisation à la sécurité doivent être diffusés grâce à des séances de breffage, des vidéos, de la documentation, des affiches, des messages-éclairs (fenêtre) sur les écrans d'ordinateur, etc.",
+    "anchor": "6",
+    "tag": "p"
+  },
+  {
+    "en": "Breaches of security that fall within the offence provisions of the Act are extremely serious. Departmental Security Officers shall ensure that the deputy head is advised of such incidents as soon as possible. Security access privileges to classified information and/or to secure premises may be suspended by the appropriate official until administrative, disciplinary and/or criminal processes have come to an end. The end result of these investigations or prosecutions may be taken into consideration by the appropriate official in determining whether to restore, or limit, the security access privileges or whether to revoke or alter the security clearance.",
+    "fr": "Les infractions à la sécurité qui relèvent des dispositions pertinentes de la Loi sont extrêmement graves. Les agents de sécurité des ministères doivent s'assurer que l'administrateur général est averti de tels incidents le plus rapidement possible. Les privilèges d'accès à des renseignements classifiés et/ou à des aires de sécurité peuvent faire l'objet d'une suspension par l'agent compétent jusqu'à la fin des procédures administratives, disciplinaires et/ou criminelles. Le résultat des enquêtes ou des poursuites peut être pris en délibéré par l'agent compétent au moment de décider de restaurer ou de limiter les privilèges d'accès à l'information, ou de retirer ou de modifier la cote de sécurité.",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "Departmental Security Officers may refer to section 10.15 of the Government Security Policy for examples of the reporting procedures. It should be noted that prosecutions involving \"special operational information\" shall not commence without the consent of the Attorney General of Canada.",
+    "fr": "Les agents de sécurité de ministères peuvent consulter l'article 10.15 de la Politique du gouvernement sur la sécurité pour y trouver des exemples de procédures de compte rendu sur le sujet. Il faudrait noter que les poursuites touchant les\"renseignements opérationnels spéciaux\"ne doivent pas être entamées sans l'assentiment du procureur général du Canada.",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "Departments are to conduct damage assessments for breaches of security regarding \"special operational information.\" They are to make recommendations based on the lessons learned from their investigation of those breaches. Such recommendations are to be shared with the Treasury Board of Canada Secretariat, so in turn the benefits may be shared with other departments, as per section 10.15 of the Government Security Policy.",
+    "fr": "Les ministères doivent faire une évaluation des dommages découlant des infractions à la sécurité en ce qui a trait aux\"renseignements opérationnels spéciaux\". Ils doivent présenter des recommandations selon les leçons tirées de leur enquête sur ces infractions. Ces recommandations doivent être communiquées au Secrétariat du Conseil du Trésor du Canada afin que les leçons tirées puissent être partagées avec les autres ministères, conformément à l'article 10.15 de la Politique du gouvernement sur la sécurité.",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "The Treasury Board of Canada Secretariat, in consultation with other departments, shall review this standard after two years to assess its effectiveness.",
+    "fr": "Le Secrétariat du Conseil du Trésor du Canada, en consultation avec d'autres ministères, examinera la présente norme après deux ans afin d'en évaluer l'efficacité.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "Government Security Policy, February 2002 Policy on the Management of Government Information HoldingsNational Archives of Canada Act, 1987 Privacy Act, 1983 Security of Information Act, Dec. 2001",
+    "fr": "Politique du gouvernement sur la sécurité, février 2002 Politique sur la gestion des renseignements détenus par le gouvernement Loi sur les Archives nationales du Canada, 1987 Loi sur la protection des renseignements personnels, 1983 Loi sur la protection de l'information, décembre 2001",
+    "anchor": "9",
+    "tag": "ul"
   },
   {
     "en": "The diagram details the various steps for both a Scheduled Organization and Designated Persons in the SOIA Information Gathering and Exchange process.",
-    "fr": "Pour amorcer le processus, l'organisme mentionné à l'annexe doit tout d'abord remplir le formulaire intitulé « Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la Loi sur la protection de l'information » (TBS-SCT 330-316)."
+    "fr": "Le diagramme présente les diverses étapes à suivre tant pour les organismes mentionnés à l'annexe de la Loi que pour les personnes désignées au titre du processus de collecte et de partage d'information sur la Loi sur la protection de l'information (LPI).",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "The process begins with the completion of a Record of a Person in a Scheduled Department or Agency (form TBS/SCT 330-316) by the Scheduled Organization.",
-    "fr": "Parallèlement, la personne désignée doit remplir le formulaire TBS/SCT 330-317 A, intitulé « Recommandation aux fins de la désignation des “personnes astreintes au secret à perpétuité” », dans lequel on détermine le besoin et on formule une recommandation. En retour, ce formulaire donne lieu à un formulaire et un avis écrit, intitulé « Avis de désignation des “personnes astreintes au secret à perpétuité” » (TBS/SCT 330-317 B et C), qui doit être approuvé par l'administrateur général."
+    "fr": "Pour amorcer le processus, l'organisme mentionné à l'annexe doit tout d'abord remplir le formulaire intitulé « Registre d'une personne d'un ministère ou organisme mentionné à l'annexe en application de la Loi sur la protection de l'information » (TBS-SCT 330-316).",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "At the same time, the Designated Person completes form TBS/SCT 330-317 A: Recommendation to Designate \"Persons Permanently Bound to Secrecy\" which identifies the requirement and makes a recommendation. This then generates a Form and Letter of Notice: \"Persons Permanently Bound to Secrecy,\" TBS/SCT 330-317 B&C for Deputy Head approval.",
-    "fr": "Ensuite, la personne désignée doit assister à une séance de breffage sur la LPI. Par suite de la séance de breffage, la personne désignée et l'agent de sécurité du ministère (ASM) signent l'« Avis de désignation des “personnes astreintes au secret à perpétuité” » (TBS/SCT 330-317 B et C)."
+    "fr": "Parallèlement, la personne désignée doit remplir le formulaire TBS/SCT 330-317 A, intitulé « Recommandation aux fins de la désignation des “personnes astreintes au secret à perpétuité” », dans lequel on détermine le besoin et on formule une recommandation. En retour, ce formulaire donne lieu à un formulaire et un avis écrit, intitulé « Avis de désignation des “personnes astreintes au secret à perpétuité” » (TBS/SCT 330-317 B et C), qui doit être approuvé par l'administrateur général.",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "An SOIA briefing is then given to the Designated Person. Following the briefing the Designated Person and DSO sign \"Persons Permanently Bound to Secrecy,\" TBS/SCT 330-317 B&C.",
-    "fr": "Si la personne désignée refuse d'accepter ou de signer la lettre, le responsable de la sécurité produit l'affidavit TBS/SCT 330-318. Des exemplaires des formulaires TBS/SCT 330-317 A, B et C et de l'affidavit TBS/SCT 330-318 sont conservés dans le dossier de filtrage du personnel."
+    "fr": "Ensuite, la personne désignée doit assister à une séance de breffage sur la LPI. Par suite de la séance de breffage, la personne désignée et l'agent de sécurité du ministère (ASM) signent l'« Avis de désignation des “personnes astreintes au secret à perpétuité” » (TBS/SCT 330-317 B et C).",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "If the Designated Person declines to acknowledge and/or sign the letter, the Security Official generates affidavit TBS/SCT 330-318. Copies of TBS/SCT 330-317 A, B&C and TBS/SCT 330-318are retained in the Personnel Security Screening File.",
-    "fr": "Si la personne désignée signe la lettre, un exemplaire du formulaire TBS/SCT 330-316 est conservé dans le dossier de filtrage du personnel et les originaux des formulaires TBS/SCT 330-317 A, B et C et de l'affidavit TBS/SCT 330-318 sont envoyés au SCRS."
+    "fr": "Si la personne désignée refuse d'accepter ou de signer la lettre, le responsable de la sécurité produit l'affidavit TBS/SCT 330-318. Des exemplaires des formulaires TBS/SCT 330-317 A, B et C et de l'affidavit TBS/SCT 330-318 sont conservés dans le dossier de filtrage du personnel.",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "If the Designated person signs the letter, a copy of form TBS/SCT 330-316 is retained in Personnel Security and all original documentation for forms TBS/SCT 330-317 A, B&C and TBS/SCT 330-318 is forwarded to CSIS.",
-    "fr": "Les formulaires originaux sont conservés dans le registre du SCRS en conformité avec PSE 065."
+    "fr": "Si la personne désignée signe la lettre, un exemplaire du formulaire TBS/SCT 330-316 est conservé dans le dossier de filtrage du personnel et les originaux des formulaires TBS/SCT 330-317 A, B et C et de l'affidavit TBS/SCT 330-318 sont envoyés au SCRS.",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "The original forms are retained within the CSIS repository in accordance with PSE 065.",
-    "fr": "l'identité de sources confidentielles d'information, de renseignements ou d'assistance pour le gouvernement du Canada (actuelles et passées);"
-  },
-  {
-    "en": "Past and current confidential sources of information, intelligence, or assistance to the Government of Canada.",
-    "fr": "des lieux, des personnes, des groupes ou des entités au sujet desquels le gouvernement a mené, mène ou entend mener des activités secrètes de ciblage aux fins de collecte de renseignements;"
-  },
-  {
-    "en": "Places, persons, groups, or entities who were, are, or are intended to be targets of covert collection efforts by government.",
-    "fr": "l'identité de toute personne qui a mené, mène ou pourrait être appelée à mener des activités secrètes de ciblage aux fins de collecte de renseignements;"
-  },
-  {
-    "en": "The identity of any person engaged in such covert collection activities.",
-    "fr": "des plans opérationnels militaires en vue de conflits armés;"
-  },
-  {
-    "en": "Military operational plans for armed conflicts.",
-    "fr": "les moyens que le gouvernement utilise pour la protection de l'information, notamment le chiffrement et les failles de ces moyens;"
-  },
-  {
-    "en": "The means used by government to protect information, including encryption and any vulnerabilities.",
-    "fr": "des éléments d'information de la nature de ceux susmentionnés, reçus d'une entité étrangère ou d'un groupe terroriste ou le concernant."
-  },
-  {
-    "en": "Similar information to the above that relates to or is received from foreign entities or terrorist groups.",
-    "fr": "que les renseignements soient vrais ou non;"
-  },
-  {
-    "en": "whether the information is true or not;",
-    "fr": "que les renseignements soient obtenus par ces personnes, avant qu'elles n'aient été désignées ou après leur départ du poste ayant entraîné le fait\"d'être astreint au secret à perpétuité\"; et"
-  },
-  {
-    "en": "whenever the information was obtained by the persons, e.g. before being designated or after having left the position that triggered the persons to be \"permanently bound to secrecy\"; and",
-    "fr": "quelle que soit la façon dont les personnes ont obtenu ces renseignements."
-  },
-  {
-    "en": "however the persons obtained the information.",
-    "fr": "à titre de membre ou d'employé, ancien et actuel (y compris les anciens membres ou employés en date du 24 décembre 2001) des ministères mentionnés à l'annexe de la (comme le Service canadien du renseignement de sécurité, le Centre de la sécurité des télécommunications et certaines sous-directions de la Gendarmerie royale du Canada); ou"
-  },
-  {
-    "en": ": as current or former members or employees (including former members or employees as of December 24, 2001) of particular departments set out in the schedule to the Act (such as the Canadian Security Intelligence Service, the Communications Security Establishment, and certain branches of the Royal Canadian Mounted Police); or",
-    "fr": "si un administrateur général est d'avis que, en raison de sa charge, de ses fonctions, de sa qualité de partie à un contrat administratif, ou d'un protocole d'entente, une personne a, a eu ou aura un accès légitime à des\"renseignements opérationnels spéciaux \" qu'il est de l'intérêt de la sécurité nationale\" d'astreindre cette personne au secret à perpétuité\", elle pourrait être notifiée par avis qu'elle a été désignée à cette fin. Mais une telle désignation ne devrait pas être fréquente. Seule les personnes ayant une de\"renseignements opérationnels spéciaux\"y seront sujets."
-  },
-  {
-    "en": ": if a deputy head is of the opinion that, by reason of a person's office, position, duties, contract or arrangement, the person had, has, or will have authorized access to \"special operational information\" it is in the interest of national security to permanently bind that person to secrecy, this person may be notified that he or she has been so designated. Designation should not be the norm. It should generally only apply to those with an of \"special operational information.\"",
-    "fr": "les ministères mentionnés à l'annexe de la (désignés par l'expression ministères mentionnés à l'annexe; consulter l'article 3 de la norme); et"
-  },
-  {
-    "en": "departments that are listed in the schedule to the Act, (referred to as scheduled departments, see section 3 of this Standard); and",
-    "fr": "la désignation par avis des employés travaillant dans des ministères qui ne sont pas mentionnés à l'annexe et de personnes et de parties à un contrat gouvernemental travaillant pour des ministères mentionnés ou non à l'annexe (consulter l'article 4 de la norme)."
-  },
-  {
-    "en": "the designation by notice of employees in non-scheduled departments and of persons and government contractors in scheduled and non-scheduled departments. (See section 4 of this Standard.)",
-    "fr": "Service canadien du renseignement de sécurité"
-  },
-  {
-    "en": "Canadian Security Intelligence Service",
-    "fr": "Centre de la sécurité des télécommunications"
-  },
-  {
-    "en": "Communications Security Establishment",
-    "fr": "Conseil national de recherches Canada - Direction des télécommunications"
-  },
-  {
-    "en": "National Research Council Canada - Communications Branch",
-    "fr": "Bureau du commissaire du Centre de la sécurité des télécommunications"
-  },
-  {
-    "en": "Office of the Communications Security Establishment Commissioner",
-    "fr": "Bureau de l'Inspecteur général du Service canadien du renseignement de sécurité"
-  },
-  {
-    "en": "Office of the Inspector General of the Canadian Security Intelligence Service",
-    "fr": "Gendarmerie royale du Canada - Programme des renseignements criminels"
-  },
-  {
-    "en": "Royal Canadian Mounted Police - Criminal Intelligence Program",
-    "fr": "Gendarmerie royale du Canada - Programme des missions de protection"
-  },
-  {
-    "en": "Royal Canadian Mounted Police - Protective Operations Program",
-    "fr": "Gendarmerie royale du Canada - Service de sécurité"
-  },
-  {
-    "en": "Royal Canadian Mounted Police - Security Service",
-    "fr": "Gendarmerie royale du Canada - Programme des opérations techniques"
-  },
-  {
-    "en": "Royal Canadian Mounted Police - Technical Operations Program",
-    "fr": "Comité de surveillance des activités de renseignement de sécurité"
-  },
-  {
-    "en": "Security Intelligence Review Committee",
-    "fr": "Nouveaux entrants - au moment où une personne commence à travailler dans un ministère ou un secteur mentionné à l'annexe;"
-  },
-  {
-    "en": "new entrants - at the time the person commences employment in a scheduled department or area;",
-    "fr": "membre ou employé actuel - au moment de la mise à jour de sa cote de sécurité, si cette personne n'est pas déjà inscrite au registre central du Service canadien du renseignement de sécurité; ou"
-  },
-  {
-    "en": "current members or employees - at the time of the updating of the person's security clearance, if the person has not already been entered into the Canadian Security Intelligence Service central registry; or",
-    "fr": "membre ou employé qui quitte son poste - au cours du processus administratif pour le départ d'une employé, si cette personne n'a pas déjà été inscrite au registre central du Service canadien du renseignement de sécurité."
-  },
-  {
-    "en": "departing members or employees - as part of the departmental security exit process, if the person has not already been entered into the Canadian Security Intelligence Service central registry.",
-    "fr": "qui peuvent recevoir certains\"renseignements opérationnels spéciaux \"parmi les renseignements qu'ils reçoivent des ministères,"
-  },
-  {
-    "en": "who may be provided with some \"special operational information\" as part of the intelligence they receive from departments;",
-    "fr": "qui sont conscients du caractère particulier de ce genre de renseignements,"
-  },
-  {
-    "en": "who are aware of particular aspects of such information;",
-    "fr": "qui peuvent, , appuyer et aider les ministères mentionnés à l'annexe."
-  },
-  {
-    "en": "who may give support and assistance to scheduled departments.",
-    "fr": "Les fonctions de cette personne ont-elles déjà nécessité, nécessitent, ou nécessiteront un accès régulier et détaillé à des\"renseignements opérationnels spéciaux\"?"
-  },
-  {
-    "en": "Did, does or will the person's duties require close and regular access to \"special operational information\"?",
-    "fr": "Les fonctions officielles de cette personne comprennent-elles, ont déjà compris, ou comprendront une participation régulière à des activités touchant les\"renseignements opérationnels spéciaux\"?"
-  },
-  {
-    "en": "Did, does or will the person's formal duties involve the provision of regular assistance to activities involving \"special operational information\"?",
-    "fr": "Le milieu de travail ou le régime de travail officiel de cette personne suppose-t-il, a déjà supposé, ou supposera l'acquisition d'une connaissance intime de\"renseignements opérationnels spéciaux\"?"
-  },
-  {
-    "en": "Did, does or will the person's workplace or official working arrangement necessarily imply the acquisition of intimate knowledge of \"special operational information\"?",
-    "fr": "Cette personne est-elle, a déjà été, ou sera dans une situation où une connaissance intime de\"renseignements opérationnels spéciaux\"est acquise au fil du temps?"
-  },
-  {
-    "en": "Was, is or will the person be in a situation where intimate knowledge of \"special operational information\" is provided over time?",
-    "fr": "L'information déjà obtenue par cette personne au cours de ses fonctions est-elle encore vue comme étant de nature très sensible, nécessitant qu'elle soit désignée?"
-  },
-  {
-    "en": "Is the information previously obtained by an individual in the course of his or her duties still viewed to be of a highly sensitive nature, requiring that he or she be notified.",
-    "fr": "Existe-t-il des facteurs, dans l'intérêt de la sécurité nationale, qui rendront nécessaire la désignation de cette personne?"
-  },
-  {
-    "en": "Are there factors in the interest of national security that will make it necessary to designate the person?",
-    "fr": "En plus de la recommandation du gestionnaire, l'agent de sécurité autorisé du ministère peut faire une révision du dossier de vérification de sécurité de la personne, comme partie intégrante de leur analyse."
-  },
-  {
-    "en": "In addition to the Manager's recommendation, the Departmental Security Officer may conduct a review of the person's security screening file, as part of his or her analysis.",
-    "fr": "Les employés des ministères et les parties à un contrat administratif des\"renseignements opérationnels spéciaux \"sur une base ( analysent, rédigent des rapports, examinent et/ou présentent de recommandations). Ces personnes peuvent comprendre des employés du cabinet ministériel, des analystes de programmes et de politiques, etc."
-  },
-  {
-    "en": "Persons in departments and certain government contractors, who \"special operational information\" on a basis. (e.g. analyze, write reports, review, and/or make recommendations). Such persons may include ministerial staff and policy and program analysts.",
-    "fr": "Dans leurs ententes avec des organismes à l'extérieur du gouvernement du Canada ( les forces policières, les gouvernements provinciaux, les administrations municipales, les organismes du secteur privé, etc.) les ministères peuvent préciser que leurs employés pourront être désignés comme étant\"astreint au secret à perpétuité\"à cause de leurs activités touchant les\"renseignements opérationnels spéciaux\"."
-  },
-  {
-    "en": "Departments may include in arrangements and agreements with organizations outside of the Government of Canada (e.g. police forces, provincial and municipal governments, and private sector organizations) that their employees may be designated as \"persons permanently bound to secrecy\" as a result of their activities involving \"special operational information.\"",
-    "fr": "Les parties à un contrat administratif et les autres personnes qui à des activités touchant les\"renseignements opérationnels spéciaux\"Ces personnes peuvent :"
-  },
-  {
-    "en": "Government contractors and others who to activities that involve \"special operational information.\" Such persons would",
-    "fr": "travailler un ministère mentionné à l'annexe et dans d'autres ministères, avec des membres ou des employés de ce ministère, où elles acquerraient une de\"renseignements opérationnels spéciaux\";"
-  },
-  {
-    "en": "work a department listed in the schedule and other departments where they would be working members or employees, such that they would acquire of \"special operational information\"; or",
-    "fr": "occuper un poste, habituellement de niveau supérieur au sein d'une organisation du secteur privé où, , elles acquerront une de\"renseignements opérationnels spéciaux\"."
-  },
-  {
-    "en": "be in a position, normally a senior position, within a private sector organization where, , these persons would gain of \"special operational information.\"",
-    "fr": "Les officiels étrangers qui, dans le cadre de leurs fonctions officielles, travaillent avec des\"renseignements opérationnels spéciaux \"sur une base régulière peuvent être désignés."
-  },
-  {
-    "en": "Foreign exchange officials who are working on a regular basis with \"special operational information\" as part of their official duties may be designated.",
-    "fr": "Des directives additionnelles pourraient être fournies par le Secrétariat du Conseil du Trésor du Canada sous la forme de documentation technique."
-  },
-  {
-    "en": "The Treasury Board of Canada Secretariat may issue technical documentation to provide additional guidance.",
-    "fr": "La liste suivante comprend les personnes qui ne pas\" astreintes au secret à perpétuité\":"
-  },
-  {
-    "en": "the Governor General",
-    "fr": "le gouverneur général;"
-  },
-  {
-    "en": "the lieutenant governor of a province",
-    "fr": "le lieutenant-gouverneur d'une province;"
-  },
-  {
-    "en": "Ministers of the Crown.",
-    "fr": "les ministres de la Couronne."
-  },
-  {
-    "en": "a judge receiving a salary under the ; and",
-    "fr": "un jugé rémunéré en vertu du régime de la ;"
-  },
-  {
-    "en": "a military judge within the meaning of subsection 2(1) of the .",
-    "fr": "un juge militaire au sens du paragraphe 2(1) de la ."
-  },
-  {
-    "en": "Departmental Security Officers should consider the above, including the criteria and examples, before recommending to the deputy head that a person should be designated.",
-    "fr": "Les agents de sécurité des ministères devraient étudier les points ci-dessus, y compris les critères et les exemples, avant de recommander à l'administrateur général la désignation d'une personne."
-  },
-  {
-    "en": "Departments may include in agreements or arrangements with organizations outside of the Government of Canada (e.g. police forces, provincial departments, municipalities, and private sector organizations) that their employees may be designated as \"persons permanently bound to secrecy,\" as a result of their activities involving \"special operational information.\"",
-    "fr": "Dans leurs ententes avec des organismes à l'extérieur du gouvernement du Canada ( les forces policières, les gouvernements provinciaux, les administrations municipales, les organismes du secteur privé, etc.) les ministères peuvent préciser que leurs employés pourront être désignés comme étant\"astreint au secret à perpétuité \"à cause de leurs activités touchant les\"renseignements opérationnels spéciaux\"."
-  },
-  {
-    "en": "Before a designation by notice of a foreign exchange official working in Canada may take place, the home government department of the foreign exchange official shall be advised in writing. Such arrangements should form part of any future working agreement between the two country's government departments.",
-    "fr": "Avant qu'une désignation par avis d'un officiel étranger, travaillant au Canada puisse avoir lieu, le ministère du gouvernement d'attache de celui-ci doit en être avisé par écrit. De tels arrangements devraient contribuer à la création de protocoles d'ententes entre les ministères des gouvernements des deux pays."
-  },
-  {
-    "en": "Managers should use the above as a guide in their criteria for selection of a person to be \"permanently bound to secrecy.\" Under exceptional circumstances (e.g. the manager has been posted overseas), the Departmental Security Officer shall complete the manager's portion of the form.",
-    "fr": "Le gestionnaire doit se servir des questions sus-mentionnées comme guide pour appliquer les critères de sélection d'une personne \" astreinte au secret à perpétuité.\" En cas exceptionnels (c'est-à-dire le gestionnaire a été affecté à l'étranger) l'agent de sécurité du ministère doit compléter la partie du formulaire réservée au gestionnaire."
-  },
-  {
-    "en": "Departmental Security Officers shall review the selection made by the manager, and if the DSO concurs that the designation is warranted, they are to recommend to the deputy head that the person be \"permanently bound to secrecy\".",
-    "fr": "Les agents de sécurité du ministère doivent examiner la recommandation du gestionnaire, et si l'agent de sécurité du ministère atteste que la désignation est justifiée, ils doivent recommander à l'administrateur général \"d'astreindre cette personne au secret à perpétuité.\""
-  },
-  {
-    "en": "The deputy head shall consider each form entitled \" Recommendation to Designate \"Persons Permanently Bound to Secrecy\" Under the (SOIA),\" TBS/SCT 330-317A (see appendix B). This form includes the details on each person, as specified in subsection 10.(2) of the Act.",
-    "fr": "L'administrateur général doit prendre en considération chaque formulaire intitulé \"Recommandation aux fins de la désignation des\"Personnes astreintes au secret à perpétuité\"en application de la \", (TBS-SCT 330-317A) (voir annexe B). Le formulaire doit inclure les détails nécessaires sur chaque personne, comme précisé au paragraphe 10(2) de la ."
-  },
-  {
-    "en": "The deputy head, if in agreement with the contents of the \"Recommendation to Designate\" form, may sign the form \" Notice of Designation \" Persons Permanently Bound to Secrecy,\" Under Section 10 of the (SOIA),\" TBS/SCT 330-317B (see appendix C).",
-    "fr": "Lorsque l'administrateur général souscrit à la recommandation du formulaire intitulé\"Recommandation aux fins de la désignation\" (TBS-SCT 330-317A), celui-ci doit signer le formulaire intitulé \" Avis de désignation des\"personnes astreintes au secret à perpétuité \"conformément à l'article 10 de la \", (TBS-SCT 330-317B) , (voir annexe C). ."
-  },
-  {
-    "en": "As soon as possible after the deputy head has signed form TBS/SCT 330-317B and thereby designated a person, the Departmental Security Official shall ensure that the person is briefed in a face-to-face meeting. The consequences of being a \"person permanently bound to secrecy\" and his or her security obligations under the shall be explained. The form \"Notice of Designation,\" TBS/SCT 330-317B, and the letter \"Notice of Designation,\" TBS/SCT 330-317C (see appendix D), shall be read and signed by the designated person during this face-to-face meeting.",
-    "fr": "Aussitôt que possible après que l'administrateur général a signé le formulaire TBS/SCT 330-317B et donc désigné une personne, l'agent de sécurité autorisé du ministère s'assure le plus rapidement possible de la mettre au courant lors d'un breffage en personne. Celle-ci se voit expliquer les conséquences d'être astreinte au secret à perpétuité\"et ses obligations quant à la . Le formulaire\"Avis de désignation\"(TBS-SCT 330-317B) et la lettre intitulée \" Avis de désignation\"(TBS-SCT 330-317C, voir annexe D) est alors lue et signée par la personne nommée au cours de ce breffage en personne."
-  },
-  {
-    "en": "Should the designated person decline to sign either the \"Notice of Designation\" form or the letter, the Departmental Security Official shall complete the form entitled \"Affidavit of Service - (SOIA),\" TBS/SCT 330-318E (see appendix E). The deputy head shall be advised of all cases where a person declines to sign and the \"Affidavit of Service\" form has been completed.",
-    "fr": "Si la personne désignée refuse de signer le formulaire et la lettre intitulée\"Avis de désignation\", l'agent de sécurité autorisé du ministère doit alors remplir le formulaire \" Affidavit de la signification à personne - \", (TBS-SCT 330-318F) , (annexe E). L'administrateur général est avisé de tous les cas où une personne refuse de signer et que\"l'Affidavit de la signification à la personne \"a été rempli."
-  },
-  {
-    "en": "Departmental security staff shall ensure that the data contained on form TBS/SCT 330-317A is transmitted to CSIS. The of all the required forms and letter shall be forwarded to CSIS once the face-to-face meeting with the designated person has been concluded.",
-    "fr": "Le personnel de sécurité du ministère doit s'assurer que les données du formulaire TBS-SCT 330-317A sont inscrites électroniquement au SCRS et que les signés de tous les formulaires et de la lettre sont envoyés au SCRS une fois que le breffage en personne de la personne désignée est terminé."
-  },
-  {
-    "en": "The following documents are to be forwarded to the central registry of the Administrative Information Holdings, IHD, of the Canadian Security Intelligence Service for long-term retention and storage:",
-    "fr": "Les documents ci-dessous doivent être envoyés au registre central de l'Unité des fonds de renseignements administratifs, DFR, du Service canadien du renseignement de sécurité pour le stockage et la conservation à long terme."
-  },
-  {
-    "en": "form \"Recommendation to Designate \"Persons Permanently Bound to Secrecy\" Under the (SOIA),\" (TBS/SCT 330-317A) ;",
-    "fr": "formulaire intitulé \" Recommandation aux fins de la désignation des\"personnes astreintes au secret à perpétuité\"en application de la ( )\", (TBS-SCT 330-317A) ;"
-  },
-  {
-    "en": "form \"Notice of Designation \" Person Permanently Bound to Secrecy\" Under Section 10 of the (SOIA),\" (TBS/SCT 330-317B) ;",
-    "fr": "formulaire intitulé \" Avis de désignation des\"personnes astreintes au secret à perpétuité \"conformément à l'article 10 de la \", (TBS-SCT 330-317B) ;"
-  },
-  {
-    "en": "letter \" Notice of Designation - \"Persons Permanently Bound to Secrecy\" (TBS/SCT 330-317C) ; and",
-    "fr": "lettre intitulée \" Avis de désignation\"personnes astreintes au secret à perpétuité\", (TBS-SCT 330-317C) ;"
-  },
-  {
-    "en": "if required because the person being designated has declined to sign the form and/or the letter, the form \" Affidavit of Service - ,\" (TBS/SCT 330-318E) shall be forwarded as well.",
-    "fr": "le cas échéant, si la personne nommée refuse de signer le formulaire et /ou la lettre, un formulaire intitulé \" Affidavit de la signification à personne - ( )\"(TBS-SCT 330-318) doit également être envoyé."
-  },
-  {
-    "en": "\"Persons permanently bound to secrecy\" do not obtain a higher security clearance level by reason of their designation, nor do they gain unlimited, special access to safeguarded information.",
-    "fr": "Les personnes\"astreintes au secret à perpétuité\"ne peuvent obtenir une cote de sécurité plus élevée à cause de leur désignation. Elles n'ont pas non plus droit à un accès spécial illimité à l'information protégée."
-  },
-  {
-    "en": "While it is preferable that a person has a security clearance, it is not a requirement for a person to be \"permanently bound to secrecy.\"",
-    "fr": "Bien qu'il soit préférable qu'une personne ait une cote de sécurité, ce n'est pas requis pour que la personne soit\"astreinte au secret à perpétuité\"."
-  },
-  {
-    "en": "The Departmental Security Officer may review the security screening file of a person who is to be \"permanently bound to secrecy.\"",
-    "fr": "L'agent de sécurité du ministère peut faire l'examen du dossier de vérification de sécurité d'une personne qui sera\"astreinte au secret à perpétuité\"."
-  },
-  {
-    "en": "When a person is \"permanently bound to secrecy\" under the Act, , as it is the case of all persons holding a security clearance, to conduct update and exit interviews as part of the security screening cycle. The following apply therefore to both of those groups of persons.",
-    "fr": "Lorsque, selon la , une personne est\"astreinte au secret à perpétuité\", est de faire des entrevues de mise à jour et de départ au cours du cycle de vérification de sécurité, comme pour toute personne ayant une cote de sécurité. Les mesures suivantes touchent donc toutes les personnes détenant une cote de sécurité."
-  },
-  {
-    "en": "Departmental Security Officers in scheduled and non-scheduled departments should ensure that subject interviews are conducted with all persons that have undergone a renewal of their security screening at the Level III (TOP SECRET) in accordance with section 10.5(b) of the . As it is also the case for TOP SECRET renewals, where CONFIDENTIAL or SECRET level security screenings have been renewed, the \" , shall be completed as confirmation that the person has been reminded of their security obligations.",
-    "fr": "Les agents de sécurité de ministères mentionnés ou non à l'annexe, devront mener des breffages en personne avec toutes les personnes qui renouvellent leur cote de sécurité de niveau III (TRÈS SECRET), conformément à l'article 10.5(b) de la . Comme pour le renouvellement des cotes TRÈS SECRET, lorsque les niveaux CONFIDENTIEL et SECRET sont renouvelés, un , est rempli, confirmant le rappel des obligations de sécurité de cette personne."
-  },
-  {
-    "en": "Departmental Security Officers, in the case of government contractors working on contracts issued by their department, are to ensure that subject interviews and the , are or have been completed.",
-    "fr": "Dans le cas des parties à un contrat administratif passé avec leur ministère, les agents de sécurité de ministères doivent s'assurer que les entrevues avec le sujet ont lieu et qu'un est ou a été rempli."
-  },
-  {
-    "en": "Individuals shall be reminded of their ongoing obligations under the Act and the consequences of any violations.",
-    "fr": "Un rappel des obligations continues en matière de sécurité et des conséquences des infractions selon la est fait à ces employés."
-  },
-  {
-    "en": ", February 2002",
-    "fr": ", février 2002"
-  },
-  {
-    "en": ", 1987",
-    "fr": ", 1987"
-  },
-  {
-    "en": ", 1983",
-    "fr": ", 1983"
-  },
-  {
-    "en": ", Dec. 2001",
-    "fr": ", décembre 2001"
-  },
-  {
-    "en": "the identity of a person, agency, group, body or entity that is or is intended to be, has been approached to be, or has offered or agreed to be, a confidential source of information, intelligence or assistance to the Government of Canada;",
-    "fr": "l'identité d'une personne, d'un groupe, d'un organisme ou d'une entité qui est, a été ou est censé être une source confidentielle d'information, de renseignements ou d'assistance pour le gouvernement fédéral, ou à qui on a proposé ou qui a accepté ou proposé de le devenir;"
-  },
-  {
-    "en": "the nature or content of plans of the Government of Canada for military operations in respect of a potential, immediate or present armed conflict;",
-    "fr": "la nature ou la teneur des plans du gouvernement fédéral en vue des opérations militaires relatives à un conflit armé - actuel ou éventuel;"
-  },
-  {
-    "en": "the means that the Government of Canada used, uses or intends to use, or is capable of using, to covertly collect or obtain, or to decipher, assess, analyze, process, handle, report, communicate or otherwise deal with information or intelligence, including any vulnerabilities or limitations of those means;",
-    "fr": "les moyens que le gouvernement du Canada a mis, met ou entend ou pourrait mettre en oeuvre pour la collecte ou l'obtention secrètes, ou pour le déchiffrage, l'évaluation, l'analyse, le traitement, la communication ou toute autre utilisation d'information ou de renseignements, y compris, le cas échéant, les limites ou les failles de ces moyens;"
-  },
-  {
-    "en": "whether a place, person, agency, group, body or entity was, is or is intended to be the object of a covert investigation, or a covert collection of information or intelligence, by the Government of Canada;",
-    "fr": "le fait qu'il a mené, mène ou entend mener une enquête secrète ou des activités secrètes de collecte d'information ou de renseignements relativement à un lieu, une personne, un groupe, un organisme ou une entité;"
-  },
-  {
-    "en": "the identity of any person who is, has been or is intended to be covertly engaged in an information- or intelligence-collection activity or program of the Government of Canada that is covert in nature;",
-    "fr": "l'identité de toute personne qui a mené, mène ou pourrait être appelée à mener secrètement des activités ou programmes de collecte d'information ou de renseignements du gouvernement du Canada;"
-  },
-  {
-    "en": "the means that the Government of Canada used, uses or intends to use, or is capable of using, to protect or exploit any information or intelligence referred to in any of paragraphs ( ) to ( ), including, but not limited to, encryption and cryptographic systems, and any vulnerabilities or limitations of those means; or",
-    "fr": "les moyens que le gouvernement du Canada a mis, met ou pourrait mettre en oeuvre pour la protection ou l'utilisation d'information ou de renseignements mentionnés à l'un des alinéas a) à e), notamment le chiffrement et les procédés de cryptographie, y compris, le cas échéant, les limites ou les failles de ces moyens;"
-  },
-  {
-    "en": "information or intelligence similar in nature to information or intelligence referred to in any of paragraphs ( ) to ( ) that is in relation to, or received from, a foreign entity or terrorist group.\" ( , subsection 8(1))",
-    "fr": "des éléments d'information ou de renseignements de la nature de ceux mentionnés à l'un des alinéas a) à f), reçus d'une entité étrangère ou d'un groupe terroriste ou le concernant.\" ( , paragraphe 8(1))."
+    "fr": "Les formulaires originaux sont conservés dans le registre du SCRS en conformité avec PSE 065.",
+    "anchor": "ld1",
+    "tag": "p"
   }
 ]

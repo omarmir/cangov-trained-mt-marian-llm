@@ -1,194 +1,122 @@
 [
   {
     "en": "These guidelines replace the following Guidelines issued on April 1, 2005:",
-    "fr": "Les présentes lignes directrices remplacent les lignes directrices suivantes publiées le 1 avril 2005 :"
+    "fr": "Les présentes lignes directrices remplacent les lignes directrices suivantes publiées le 1er avril 2005 :",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "These guidelines support the principles set out in the by providing advice that will foster sound people management practices across the core public administration.",
-    "fr": "Les présentes lignes directrices appuient les principes énoncés dans le en fournissant des conseils visant à promouvoir une gestion judicieuse des ressources humaines dans toute l'administration publique centrale."
+    "en": "Guidelines for Demotion/Termination of Employment for Unsatisfactory PerformanceGuidelines for Termination of Employment and Demotion for Reasons other than discipline (Medical Incapacity) Guidelines for Rejection on Probation",
+    "fr": "Lignes directrices sur la rétrogradation ou le licenciement pour rendement insatisfaisant Lignes directrices sur la rétrogradation ou le licenciement pour autres raisons (incapacité médicale) Lignes directrices sur le renvoi en cours de stage",
+    "anchor": "1",
+    "tag": "ul"
   },
   {
-    "en": ": Paragraph 12(1) of the authorizes every deputy head in the core public administration to terminate employment of or demote an employee whose performance is, in the opinion of the deputy head, unsatisfactory. Subsection 12.2(1) permits delegation of this authority.",
-    "fr": ": L'alinéa 12(1) de la autorise chaque administrateur général de l'administration publique centrale à licencier ou à rétrograder un employé dont le rendement est insatisfaisant, selon lui. Le paragraphe 12.2(1) autorise la délégation de ce pouvoir."
+    "en": "These guidelines support the principles set out in the Policy Framework for People Management by providing advice that will foster sound people management practices across the core public administration.",
+    "fr": "Les présentes lignes directrices appuient les principes énoncés dans le Cadre de politique pour la gestion des personnes en fournissant des conseils visant à promouvoir une gestion judicieuse des ressources humaines dans toute l'administration publique centrale.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": ": Paragraph 12(1) of the authorizes every deputy head in the core public administration to terminate employment of or demote an employee for reasons other than breaches of discipline or misconduct. Such actions must be for cause in compliance with subsection 12(3) of the FAA. Subsection 12.2(1) permits delegation of these authorities.",
-    "fr": ": L'alinéa 12(1) de la autorise tous les administrateurs généraux de l'administration publique centrale à licencier ou à rétrograder un employé pour des raisons autres qu'un manquement à la discipline ou une inconduite. De telles mesures doivent être imposées pour les motifs énoncés au paragraphe 12(3) de la LGFP. Le paragraphe 12.2(1) autorise la délégation de ce pouvoir."
+    "en": "Unsatisfactory Performance: Paragraph 12(1)(d) of the Financial Administration Act (FAA) authorizes every deputy head in the core public administration to terminate employment of or demote an employee whose performance is, in the opinion of the deputy head, unsatisfactory. Subsection 12.2(1) permits delegation of this authority.",
+    "fr": "Rendement insatisfaisant : L'alinéa 12(1)d) de la Loi sur la gestion des finances publiques (LGFP) autorise chaque administrateur général de l'administration publique centrale à licencier ou à rétrograder un employé dont le rendement est insatisfaisant, selon lui. Le paragraphe 12.2(1) autorise la délégation de ce pouvoir.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": ": Subsection 61(1) of the authorizes the Treasury Board to establish, by regulation, the probationary period for classes of employees who are appointed from outside the public service. Subsection 62(1) of the provides deputy heads with the authority to terminate employment during the probationary period established by regulation of the Treasury Board. Subsection 24(1) of the permits delegation of this authority.",
-    "fr": ": Le paragraphe 61(1) de la autorise le Conseil du Trésor à fixer, par règlement, la période de stage applicable aux catégories d'employés nommés par voie de nomination externe à la fonction publique. Le paragraphe 62(1) de la LEFP investit les administrateurs généraux du pouvoir de licencier des employés au cours de la période de stage fixée par un règlement du Conseil du Trésor. Le paragraphe 24(1) de la autorise la délégation de ce pouvoir."
+    "en": "Other Reasons: Paragraph 12(1)(e) of the FAA authorizes every deputy head in the core public administration to terminate employment of or demote an employee for reasons other than breaches of discipline or misconduct. Such actions must be for cause in compliance with subsection 12(3) of the FAA. Subsection 12.2(1) permits delegation of these authorities.",
+    "fr": "Autres raisons: L'alinéa 12(1)e) de la LGFP autorise tous les administrateurs généraux de l'administration publique centrale à licencier ou à rétrograder un employé pour des raisons autres qu'un manquement à la discipline ou une inconduite. De telles mesures doivent être imposées pour les motifs énoncés au paragraphe 12(3) de la LGFP. Le paragraphe 12.2(1) autorise la délégation de ce pouvoir.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "These guidelines assist human resources advisors in the in their role of providing advice and guidance to management in situations such as the following:",
-    "fr": "Les présentes lignes directrices aident les conseillers en ressources humaines de à s'acquitter de leur rôle consistant à fournir des conseils et des avis à la direction relativement à la gestion de situations comme les suivantes :"
+    "en": "During Probation: Subsection 61(1) of the Public Service Employment Act (PSEA) authorizes the Treasury Board to establish, by regulation, the probationary period for classes of employees who are appointed from outside the public service. Subsection 62(1) of the PSEA provides deputy heads with the authority to terminate employment during the probationary period established by regulation of the Treasury Board. Subsection 24(1) of the PSEA permits delegation of this authority.",
+    "fr": "En cours de stage: Le paragraphe 61(1) de la Loi sur l'emploi dans la fonction publique (LEFP) autorise le Conseil du Trésor à fixer, par règlement, la période de stage applicable aux catégories d'employés nommés par voie de nomination externe à la fonction publique. Le paragraphe 62(1) de la LEFP investit les administrateurs généraux du pouvoir de licencier des employés au cours de la période de stage fixée par un règlement du Conseil du Trésor. Le paragraphe 24(1) de la LEFP autorise la délégation de ce pouvoir.",
+    "anchor": "1",
+    "tag": "p"
+  },
+  {
+    "en": "These guidelines assist human resources advisors in the core public administration in their role of providing advice and guidance to management in situations such as the following:",
+    "fr": "Les présentes lignes directrices aident les conseillers en ressources humaines de l'administration publique centrale à s'acquitter de leur rôle consistant à fournir des conseils et des avis à la direction relativement à la gestion de situations comme les suivantes :",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "The employee's performance is unsatisfactory and action to demote the employee or terminate his or her employment is being considered; Action to demote an employee or terminate employment for reasons other than breaches of discipline or misconduct is being considered. Demotion or termination for medical incapacity is the most common action. Demotion or termination for other reasons can also include failure to meet the basic requirements of the position (e.g., a valid driver's licence), abandonment of position, and failure to meet the security requirements of the position; and Termination of employment during probation is being considered.",
+    "fr": "le rendement de l'employé est insatisfaisant et la prise d'une mesure pour le rétrograder ou le licencier est envisagée; le licenciement ou la rétrogradation de l'employé pour des raisons autres qu'un manquement à la discipline ou une inconduite est envisagée. La rétrogradation ou le licenciement pour incapacité médicale sont les mesures les plus souvent imposées. La rétrogradation ou le licenciement pour d'autres raisons peuvent aussi s'appliquer lorsque l'employé est incapable de s'acquitter des exigences fondamentales du poste (p. ex., détenir un permis de conduire valide), a abandonné son poste ou est incapable de satisfaire aux exigences de sécurité du poste; le licenciement en période de stage est envisagé.",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
     "en": "Upon request, the Treasury Board Secretariat's (TBS's) Employer Representation in Recourse Team is available to provide advice and guidance on demotion or termination of employment.",
-    "fr": "Sur demande, l'équipe de la Représentation patronale en recours du Secrétariat du Conseil du Trésor du Canada (SCT) peut prodiguer des avis et des conseils sur le licenciement ou sur la rétrogradation."
+    "fr": "Sur demande, l'équipe de la Représentation patronale en recours du Secrétariat du Conseil du Trésor du Canada (SCT) peut prodiguer des avis et des conseils sur le licenciement ou sur la rétrogradation.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "It is recommended that measures taken to act in a manner consistent with the following principles are a matter of record.",
-    "fr": "Il est recommandé de consigner les mesures prises pour agir de manière compatible avec les principes suivants."
+    "fr": "Il est recommandé de consigner les mesures prises pour agir de manière compatible avec les principes suivants.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "Please be mindful that jurisprudence has established that the delegated manager is to notify the employee in writing when a decision is made to demote him or her or to terminate his or her employment. The notification is to state the reasons for the decision and the effective date, and is to inform the employee that he or she has the right to grieve the decision.",
-    "fr": "N'oubliez pas que la jurisprudence établie prévoit que le gestionnaire délégataire doit informer par écrit l'employé d'une décision relative à sa rétrogradation ou à son licenciement. L'avis doit préciser les motifs et la date d'effet de la décision, et il doit également informer l'employé de son droit de contester la décision en présentant un grief."
-  },
-  {
-    "en": "Please be mindful that jurisprudence has established that the delegated manager is to notify the employee in writing when a decision is made to demote him or her or to terminate his or her employment. The notification is to state the reasons for the decision and the effective date, and is to inform the employee that he or she has the right to grieve the decision.",
-    "fr": "N'oubliez pas que la jurisprudence établie prévoit que le gestionnaire délégataire doit informer par écrit l'employé d'une décision relative à sa rétrogradation ou à son licenciement. L'avis doit préciser les motifs et la date d'effet de la décision, et il doit également informer l'employé de son droit de contester la décision en présentant un grief."
+    "en": "In making a decision to terminate employment of or to demote an employee whose performance is unsatisfactory, the following guiding principles are key: The required level of job performance is determined; The level of performance required is communicated to the employee; Reasonable levels of supervision and instruction are provided to the employee; The employee is allowed a reasonable period of time to meet the required level of job performance; The employee is provided with reasonable warnings about the consequences of his or her continued failure to meet the required level of job performance; and Once the inability to meet the required level of job performance has been established, reasonable alternative employment within the competence of the employee is considered.Please be mindful that jurisprudence has established that the delegated manager is to notify the employee in writing when a decision is made to demote him or her or to terminate his or her employment. The notification is to state the reasons for the decision and the effective date, and is to inform the employee that he or she has the right to grieve the decision. In making a decision to demote an employee or terminate employment for other reasons, such as medical incapacity, the following guiding principles are key: The employee has been unable to work due to illness or disability for an extended period, has exhausted his or her sick leave credits, and may have been granted leave without pay; The employee will not be able to return to duty within the foreseeable future. This determination should be based on an assessment of the employee's health, either by physicians of Health Canada, other medical practitioners deemed qualified by the employer, or both; Efforts have been made to accommodate the employee's condition to the point of undue hardship, taking into consideration issues of health, safety and cost, where the employee is determined to be \"fit for work with limitations\" after having been examined by physicians of Health Canada, other medical practitioners deemed qualified by the employer, or both; The employee has been made aware of services offered through the Employee Assistance Program; and Other options, such as resignation or retirement on medical grounds, have been presented to the employee for consideration. Please be mindful that jurisprudence has established that the delegated manager is to notify the employee in writing when a decision is made to demote him or her or to terminate his or her employment. The notification is to state the reasons for the decision and the effective date, and is to inform the employee that he or she has the right to grieve the decision. In making a decision to terminate employment during the probationary period, the following guiding principles are key: The employee on probation knows the specific job duties and requirements of the position; The employee on probation is aware of the required standard(s) of performance and appropriate conduct:; The employee on probation receives feedback when performance or conduct requires improvement; and The employee on probation receives the appropriate training for the position.",
+    "fr": "Lorsque l'on prend la décision de licencier ou de rétrograder un employé dont le rendement est jugé insatisfaisant, les principes directeurs suivants doivent s'appliquer : le niveau de rendement exigé de l'employé a été déterminé; le niveau de rendement exigé a été communiqué à l'employé; l'employé a bénéficié de suffisamment de supervision et d'instructions; l'employé a disposé d'une période raisonnable pour atteindre le niveau de rendement requis; l'employé a reçu un nombre suffisant d'avertissements quant aux conséquences auxquelles il s'exposait en persistant à ne pas offrir le niveau de rendement exigé; après avoir établi que l'employé est incapable de fournir le niveau de rendement exigé, on envisage de déployer suffisamment d'efforts pour lui trouver un autre emploi pour lequel il possède les compétences voulues.N'oubliez pas que la jurisprudence établie prévoit que le gestionnaire délégataire doit informer par écrit l'employé d'une décision relative à sa rétrogradation ou à son licenciement. L'avis doit préciser les motifs et la date d'effet de la décision, et il doit également informer l'employé de son droit de contester la décision en présentant un grief. Lorsqu'on prend la décision de licencier ou de rétrograder un employé pour d'autres raisons, comme l'incapacité médicale, les principes directeurs suivants doivent s'appliquer : l'employé est incapable de travailler depuis longtemps en raison d'une maladie ou d'une invalidité, a épuisé tous ses crédits de congé de maladie et aurait pu se voir accorder un congé non payé; l'employé ne sera pas en mesure de retourner au travail dans un avenir prévisible. Pour en arriver à cette conclusion, il faut que des médecins de Santé Canada ou d'autres médecins jugés qualifiés par l'employeur, ou les deux, évaluent l'état de santé de l'employé; dans le cas d'un employé qui a été examiné par des médecins de Santé Canada, par d'autres médecins jugés qualifiés par l'employeur ou par les deux et qui est jugé « apte à travailler avec certaines réserves », des efforts ont été faits pour prendre en considération l'état de santé de l'employé sans causer de contrainte excessive compte tenu des questions de santé, de sécurité et de coût; l'employé a été informé qu'il pouvait se prévaloir des services offerts dans le cadre du Programme d'aide aux employés; d'autres solutions, comme la démission ou la retraite pour raisons de santé, ont été proposées à l'employé. N'oubliez pas que la jurisprudence établie prévoit que le gestionnaire délégataire doit informer par écrit l'employé d'une décision relative à sa rétrogradation ou à son licenciement. L'avis doit préciser les motifs et la date d'effet de la décision, et il doit également informer l'employé de son droit de contester la décision en présentant un grief. Lorsqu'on prend la décision de licencier un employé en cours de stage, les principes directeurs suivants doivent s'appliquer : l'employé en stage connaît les fonctions et les exigences particulières du poste; l'employé en stage est au courant des normes de rendement et de conduite; l'employé en stage est avisé lorsqu'il doit améliorer son rendement ou sa conduite; l'employé en stage reçoit la formation nécessaire pour exercer les fonctions du poste.",
+    "anchor": "3",
+    "tag": "ol"
   },
   {
     "en": "The probationary period is to assess the suitability of the employee for the position for which he or she has been hired. This assessment can include an evaluation of the following, as appropriate:",
-    "fr": "La période de stage sert à déterminer si l'employé est apte à occuper le poste auquel elle a été nommée. L'évaluation peut comporter une appréciation de l'un ou l'autre des éléments suivants, selon le cas :"
+    "fr": "La période de stage sert à déterminer si l'employé est apte à occuper le poste auquel elle a été nommée. L'évaluation peut comporter une appréciation de l'un ou l'autre des éléments suivants, selon le cas :",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "The employee's reliability, including attendance at work; The employee's compatibility with colleagues or clients; The employee's ability to meet work requirements, including those associated with the workload; and The employee's ability to adhere to established policies, procedures, practices and codes of conduct.",
+    "fr": "la fiabilité de l'employé, notamment son assiduité; la compatibilité de l'employé avec ses collègues ou avec les clients; la capacité de l'employé de satisfaire aux exigences de l'emploi, y compris celles inhérentes à la charge de travail; la capacité de l'employé d'observer les politiques, procédures et pratiques établies, de même que les codes de conduite.",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "Please be mindful of jurisprudence which has established that a decision to proceed with a termination of employment during probation should be based on objective and demonstrable grounds and must not be made arbitrarily, in a discriminatory manner, or in bad faith. That is, a manager or supervisor should be satisfied that the employee is not suitable for the position, and should be able to demonstrate that he or she has acted in good faith based on the employee's unsuitability for the position. The grounds for such a decision could include unsatisfactory performance or misconduct.",
-    "fr": "N'oubliez pas de tenir compte de la jurisprudence établie, à savoir que la décision de licencier l'employé en cours de stage doit être fondée sur des motifs objectifs démontrables, et qu'elle ne doit pas être prise de façon arbitraire ni discriminatoire, ni être entachée de mauvaise foi. Cela signifie que le gestionnaire ou le superviseur doit être persuadé que l'employé ne convient pas pour le poste et doit être capable de démontrer qu'il a agi de bonne foi en se fondant sur le fait que l'employé ne convenait pas pour le poste. Les motifs sur lesquels une telle décision peut s'appuyer incluent un rendement insatisfaisant ou une inconduite."
+    "fr": "N'oubliez pas de tenir compte de la jurisprudence établie, à savoir que la décision de licencier l'employé en cours de stage doit être fondée sur des motifs objectifs démontrables, et qu'elle ne doit pas être prise de façon arbitraire ni discriminatoire, ni être entachée de mauvaise foi. Cela signifie que le gestionnaire ou le superviseur doit être persuadé que l'employé ne convient pas pour le poste et doit être capable de démontrer qu'il a agi de bonne foi en se fondant sur le fait que l'employé ne convenait pas pour le poste. Les motifs sur lesquels une telle décision peut s'appuyer incluent un rendement insatisfaisant ou une inconduite.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "The employee is to be notified by the delegated manager in writing of the decision to proceed with a termination of employment during probation, stating the reason for the decision and the effective date.",
-    "fr": "Le gestionnaire délégataire doit informer l'employé par écrit de la décision de le licencier en cours de stage et préciser le motif et la date d'effet de la décision."
+    "fr": "Le gestionnaire délégataire doit informer l'employé par écrit de la décision de le licencier en cours de stage et préciser le motif et la date d'effet de la décision.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
-    "en": "An action taken by the employer to appoint an employee to a position at a lower maximum rate of pay.",
-    "fr": "désigne une mesure prise par l'employeur pour nommer un employé à un poste ayant un taux de rémunération maximal moins élevé."
+    "en": "An employee who is demoted or whose employment is terminated for unsatisfactory performance or for reasons other than breaches of discipline or misconduct may grieve the decision by filing an individual grievance at the final level of the grievance procedure, under the Public Service Labour Relations Board Regulations and any applicable collective agreement. Individual grievances in these cases are also subject to third-party adjudication, under subparagraph 209(1)(c)(i) of the Public Service Labour Relations Act (PSLRA).",
+    "fr": "L'employé rétrogradé ou licencié pour rendement insatisfaisant ou pour des raisons autres qu'un manquement à la discipline ou une inconduite peut contester la décision en présentant un grief individuel au palier final de la procédure de règlement des griefs en vertu du Règlement de la Commission des relations de travail dans la fonction publique et des dispositions de toute convention collective applicable. Les griefs individuels peuvent aussi être renvoyés à l'arbitrage en vertu du sous-alinéa 209(1)c)(i) de la Loi sur les relations de travail dans la fonction publique (LRTFP).",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "A complaint in writing, presented by an employee on his or her own behalf, in compliance with section 208 of the , the or the applicable provisions of the relevant .",
-    "fr": "désigne une plainte déposée par écrit par un fonctionnaire pour son propre compte, conformément à l'article 208 de la , au ou aux clauses pertinentes de la applicable."
+    "en": "An employee whose employment is terminated during probation may grieve the decision by filing an individual grievance at the appropriate level of the grievance procedure under the Public Service Labour Relations Board Regulations and the applicable collective agreement. However, section 211(a) of the PSLRA prohibits the referral of these grievances to adjudication.",
+    "fr": "L'employé licencié en cours de stage peut contester son licenciement en présentant un grief individuel au palier approprié de la procédure de règlement des griefs en vertu du Règlement de la Commission des relations de travail dans la fonction publique et de la convention collective applicable. Toutefois, le paragraphe 211a) de la LRTFP ne permet pas le renvoi à l'arbitrage de tels griefs.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "A continuing, non-culpable absence from duty due to illness or disability that prevents the employee from fulfilling his or her employment obligations.",
-    "fr": "désigne une absence involontaire prolongée du travail causée par une maladie ou une incapacité qui empêche l'employé de remplir les obligations de son emploi."
-  },
-  {
-    "en": "Retirement on grounds of disability where physicians of Health Canada certify that there is an impairment that prevents the employee from engaging in any employment for which he or she would be reasonably suited.",
-    "fr": "désigne la retraite pour invalidité d'un employé reconnu par des médecins de Santé Canada comme ayant une déficience l'empêchant d'occuper tout emploi pour lequel il est raisonnablement qualifié."
-  },
-  {
-    "en": "The separation from the core public administration of an employee for cause.",
-    "fr": "désigne le renvoi motivé d'un employé de l'administration publique centrale."
-  },
-  {
-    "en": "A non-culpable deficiency in job performance. It is the inability to perform the duties of one's position to a reasonable standard.",
-    "fr": "désigne une lacune involontaire du rendement, soit de l'incapacité d'exercer les fonctions de son poste suivant une norme raisonnable."
-  },
-  {
-    "en": "An employee who is demoted or whose employment is terminated for unsatisfactory performance or for reasons other than breaches of discipline or misconduct may grieve the decision by filing an individual grievance at the final level of the grievance procedure, under the and any applicable collective agreement. Individual grievances in these cases are also subject to third-party adjudication, under subparagraph 209(1) (i) of the",
-    "fr": "L'employé rétrogradé ou licencié pour rendement insatisfaisant ou pour des raisons autres qu'un manquement à la discipline ou une inconduite peut contester la décision en présentant un grief individuel au palier final de la procédure de règlement des griefs en vertu du et des dispositions de toute convention collective applicable. Les griefs individuels peuvent aussi être renvoyés à l'arbitrage en vertu du sous-alinéa 209(1) (i) de la ."
-  },
-  {
-    "en": "An employee whose employment is terminated during probation may grieve the decision by filing an individual grievance at the appropriate level of the grievance procedure under the and the applicable . However, section 211 of the prohibits the referral of these grievances to adjudication.",
-    "fr": "L'employé licencié en cours de stage peut contester son licenciement en présentant un grief individuel au palier approprié de la procédure de règlement des griefs en vertu du et de la applicable. Toutefois, le paragraphe 211 de la ne permet pas le renvoi à l'arbitrage de tels griefs."
+    "en": "Financial Administration ActPublic Service Employment ActPublic Service Labour Relations ActPublic Service Labour Relations Board Regulations Policy Framework for People ManagementCollective agreements",
+    "fr": "Loi sur la gestion des finances publiquesLoi sur l'emploi dans la fonction publique Loi sur les relations de travail dans la fonction publique Règlement de la Commission des relations de travail dans la fonction publiqueCadre de politique pour la gestion des personnesConventions collectives",
+    "anchor": "6",
+    "tag": "ul"
   },
   {
     "en": "Please direct enquiries about these guidelines to your departmental labour relations headquarters. Departmental labour relations headquarters can contact their Employer Representation in Recourse Analyst at TBS for interpretation of the guidelines:",
-    "fr": "Veuillez adresser vos demandes de renseignements sur ces lignes directrices aux responsables des relations de travail de l'administration centrale de votre ministère, lesquels peuvent communiquer avec leur analyste de l'équipe de la Représentation patronale en recours au SCT pour en obtenir une interprétation :"
+    "fr": "Veuillez adresser vos demandes de renseignements sur ces lignes directrices aux responsables des relations de travail de l'administration centrale de votre ministère, lesquels peuvent communiquer avec leur analyste de l'équipe de la Représentation patronale en recours au SCT pour en obtenir une interprétation :",
+    "anchor": "7",
+    "tag": "p"
   },
   {
     "en": "Employer Representation in Recourse Team Compensation and Labour Relations Treasury Board Secretariat Ottawa ON K1A 0R5",
-    "fr": "Équipe de la représentation patronale en recours Rémunération et relations de travail Secrétariat du Conseil du Trésor Ottawa (Ontario) K1A 0R5"
-  },
-  {
-    "en": "The employee's performance is unsatisfactory and action to demote the employee or terminate his or her employment is being considered;",
-    "fr": "le rendement de l'employé est insatisfaisant et la prise d'une mesure pour le rétrograder ou le licencier est envisagée;"
-  },
-  {
-    "en": "Action to demote an employee or terminate employment for reasons other than breaches of discipline or misconduct is being considered. Demotion or termination for medical incapacity is the most common action. Demotion or termination for other reasons can also include failure to meet the basic requirements of the position (e.g., a valid driver's licence), abandonment of position, and failure to meet the security requirements of the position; and",
-    "fr": "le licenciement ou la rétrogradation de l'employé pour des raisons autres qu'un manquement à la discipline ou une inconduite est envisagée. La rétrogradation ou le licenciement pour incapacité médicale sont les mesures les plus souvent imposées. La rétrogradation ou le licenciement pour d'autres raisons peuvent aussi s'appliquer lorsque l'employé est incapable de s'acquitter des exigences fondamentales du poste (p. ex., détenir un permis de conduire valide), a abandonné son poste ou est incapable de satisfaire aux exigences de sécurité du poste;"
-  },
-  {
-    "en": "Termination of employment during probation is being considered.",
-    "fr": "le licenciement en période de stage est envisagé."
-  },
-  {
-    "en": "In making a decision to terminate employment of or to demote an employee whose performance is unsatisfactory, the following guiding principles are key:",
-    "fr": "Lorsque l'on prend la décision de licencier ou de rétrograder un employé dont le rendement est jugé insatisfaisant, les principes directeurs suivants doivent s'appliquer :"
-  },
-  {
-    "en": "The required level of job performance is determined;",
-    "fr": "le niveau de rendement exigé de l'employé a été déterminé;"
-  },
-  {
-    "en": "The level of performance required is communicated to the employee;",
-    "fr": "le niveau de rendement exigé a été communiqué à l'employé;"
-  },
-  {
-    "en": "Reasonable levels of supervision and instruction are provided to the employee;",
-    "fr": "l'employé a bénéficié de suffisamment de supervision et d'instructions;"
-  },
-  {
-    "en": "The employee is allowed a reasonable period of time to meet the required level of job performance;",
-    "fr": "l'employé a disposé d'une période raisonnable pour atteindre le niveau de rendement requis;"
-  },
-  {
-    "en": "The employee is provided with reasonable warnings about the consequences of his or her continued failure to meet the required level of job performance; and",
-    "fr": "l'employé a reçu un nombre suffisant d'avertissements quant aux conséquences auxquelles il s'exposait en persistant à ne pas offrir le niveau de rendement exigé;"
-  },
-  {
-    "en": "Once the inability to meet the required level of job performance has been established, reasonable alternative employment within the competence of the employee is considered.",
-    "fr": "après avoir établi que l'employé est incapable de fournir le niveau de rendement exigé, on envisage de déployer suffisamment d'efforts pour lui trouver un autre emploi pour lequel il possède les compétences voulues."
-  },
-  {
-    "en": "In making a decision to demote an employee or terminate employment for other reasons, such as medical incapacity, the following guiding principles are key:",
-    "fr": "Lorsqu'on prend la décision de licencier ou de rétrograder un employé pour d'autres raisons, comme l'incapacité médicale, les principes directeurs suivants doivent s'appliquer :"
-  },
-  {
-    "en": "The employee has been unable to work due to illness or disability for an extended period, has exhausted his or her sick leave credits, and may have been granted leave without pay;",
-    "fr": "l'employé est incapable de travailler depuis longtemps en raison d'une maladie ou d'une invalidité, a épuisé tous ses crédits de congé de maladie et aurait pu se voir accorder un congé non payé;"
-  },
-  {
-    "en": "The employee will not be able to return to duty within the foreseeable future. This determination should be based on an assessment of the employee's health, either by physicians of Health Canada, other medical practitioners deemed qualified by the employer, or both;",
-    "fr": "l'employé ne sera pas en mesure de retourner au travail dans un avenir prévisible. Pour en arriver à cette conclusion, il faut que des médecins de Santé Canada ou d'autres médecins jugés qualifiés par l'employeur, ou les deux, évaluent l'état de santé de l'employé;"
-  },
-  {
-    "en": "Efforts have been made to accommodate the employee's condition to the point of undue hardship, taking into consideration issues of health, safety and cost, where the employee is determined to be \"fit for work with limitations\" after having been examined by physicians of Health Canada, other medical practitioners deemed qualified by the employer, or both;",
-    "fr": "dans le cas d'un employé qui a été examiné par des médecins de Santé Canada, par d'autres médecins jugés qualifiés par l'employeur ou par les deux et qui est jugé « apte à travailler avec certaines réserves », des efforts ont été faits pour prendre en considération l'état de santé de l'employé sans causer de contrainte excessive compte tenu des questions de santé, de sécurité et de coût;"
-  },
-  {
-    "en": "The employee has been made aware of services offered through the Employee Assistance Program; and",
-    "fr": "l'employé a été informé qu'il pouvait se prévaloir des services offerts dans le cadre du Programme d'aide aux employés;"
-  },
-  {
-    "en": "Other options, such as resignation or retirement on medical grounds, have been presented to the employee for consideration.",
-    "fr": "d'autres solutions, comme la démission ou la retraite pour raisons de santé, ont été proposées à l'employé."
-  },
-  {
-    "en": "In making a decision to terminate employment during the probationary period, the following guiding principles are key:",
-    "fr": "Lorsqu'on prend la décision de licencier un employé en cours de stage, les principes directeurs suivants doivent s'appliquer :"
-  },
-  {
-    "en": "The employee on probation knows the specific job duties and requirements of the position;",
-    "fr": "l'employé en stage connaît les fonctions et les exigences particulières du poste;"
-  },
-  {
-    "en": "The employee on probation is aware of the required standard(s) of performance and appropriate conduct:;",
-    "fr": "l'employé en stage est au courant des normes de rendement et de conduite;"
-  },
-  {
-    "en": "The employee on probation receives feedback when performance or conduct requires improvement; and",
-    "fr": "l'employé en stage est avisé lorsqu'il doit améliorer son rendement ou sa conduite;"
-  },
-  {
-    "en": "The employee on probation receives the appropriate training for the position.",
-    "fr": "l'employé en stage reçoit la formation nécessaire pour exercer les fonctions du poste."
-  },
-  {
-    "en": "The employee's reliability, including attendance at work;",
-    "fr": "la fiabilité de l'employé, notamment son assiduité;"
-  },
-  {
-    "en": "The employee's compatibility with colleagues or clients;",
-    "fr": "la compatibilité de l'employé avec ses collègues ou avec les clients;"
-  },
-  {
-    "en": "The employee's ability to meet work requirements, including those associated with the workload; and",
-    "fr": "la capacité de l'employé de satisfaire aux exigences de l'emploi, y compris celles inhérentes à la charge de travail;"
-  },
-  {
-    "en": "The employee's ability to adhere to established policies, procedures, practices and codes of conduct.",
-    "fr": "la capacité de l'employé d'observer les politiques, procédures et pratiques établies, de même que les codes de conduite."
+    "fr": "Équipe de la représentation patronale en recours Rémunération et relations de travail Secrétariat du Conseil du Trésor Ottawa (Ontario) K1A 0R5",
+    "anchor": "7",
+    "tag": "p"
   }
 ]

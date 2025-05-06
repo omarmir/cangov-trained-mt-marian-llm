@@ -1,82 +1,26 @@
 [
   {
-    "en": "This is the version of the technology that the provider markets, promotes and supports. The provider could be a company that sells a particular technology, a department (for a tool that it has built for itself) or a community that maintains an open-source technology. For in-house applications, this is the version that is used in the production environment and for which most updates, patches and other maintenance efforts are designed. This version is also known as the production version, release-to-manufacture version, general availability release or gold build.",
-    "fr": "C’est la version de la technologie que le fournisseur commercialise, promeut et prend en charge. Le fournisseur pourrait être une entreprise qui vend une technologie particulière, un ministère (pour un outil qu’elle a construit pour elle-même) ou une collectivité qui maintient une technologie de source ouverte. Pour les applications internes, il s’agit de la version utilisée dans l’environnement de production et sur laquelle la plupart des mises à jour, des rustines et d’autres tâches d’entretien sont conçues. Cette version est également connue sous le nom de « version de production », « release to manufacture ou RTM » (version RTM), « general availability or GA » (disponibilité générale), ou « gold build » (version or)."
+    "en": "Technology managementThis standard provides details on the requirements set out in subsection 4.4.3.16 and subsection 4.4.2.2 of the Directive on Service and Digital.Departmental CIOs must:Update and keep departmental business applications current, such that they have an aging IT assessment value of “Minimal attention required,” as recorded in the TBS Application Portfolio Management tool;Identify the version state for all software and hardware as either future, current, supported or unsupported; andApply major and minor updates, and keep technologies patched according to the departmental patch management plan.IT progress reportingComplete for inclusion in the departmental plan, for the integrated management of service, information, data, IT and cyber security:A migration activity report for technologies that are no longer a current version;A rationalization report, which identifies opportunities for the department to leverage common departmental or enterprise architectures and to reduce the overall number of departmental platforms; andThe departmental patch management plan, which aligns with the GC Patch Management Guidance.Use of unsupported technologiesProhibit the use of unsupported technologies and the technologies listed on the Deprecated Government of Canada Technologies page.",
+    "fr": "Gestion de la technologieLa présente Norme donne des détails sur les exigences énoncées aux sections 4.4.3.16 et 4.4.2.2 de la Directive sur les services et le numérique.Les dirigeants principaux de l’information (DPI) ministériels doivent :procéder à la mise à jour et tenir à jour les applications opérationnelles ministérielles, de sorte qu’elles aient une valeur d’évaluation de la TI vieillissante « attention minimale requise », comme consignées dans l’outil de Gestion du portefeuille des applications (GPA) du Secrétariat du Conseil du Trésor du Canada (SCT);identifier l’état de la version de tous les logiciels et de tout équipement en tant que futur, actuel, pris en charge ou non pris en charge;appliquer les mises à jour majeures et mineures, et veiller à ce que les plus récentes rustines soient appliquées aux technologies, conformément au plan de gestion des rustines du ministère.Établissement de rapports d’étape sur la TIRéaliser les éléments suivants aux fins d’inclusion dans le plan ministériel pour la gestion intégrée de services, de l’information, des données, de la TI et de la cybersécurité :un rapport sur les activités de migration pour les technologies qui ne sont plus une version actuelle;un rapport de rationalisation qui permet au ministère de cerner les possibilités desquelles tirer parti pour les architectures ministérielles ou organisationnelles communes, et de réduire le nombre global de plateformes ministérielles;le plan de mise en œuvre des rustines du ministère, qui s’harmonise avec le Guide de gestion des rustines du GC.Utilisation des technologies non prises en chargeInterdire l’utilisation de technologies non prises en charge et les technologies énumérées à la page Technologies obsolètes du gouvernement du Canada.",
+    "anchor": "H.2",
+    "tag": "section"
   },
   {
-    "en": "This is the version of the technology that the provider continues to support with updates, patches, fixes and improvements to the product. The provider of the technology has not stopped support. The provider’s product roadmap is used as the authoritative source for determining whether a technology is supported.",
-    "fr": "Il s’agit de la version de la technologie que le fournisseur prend toujours en charge par l’entremise de mises à jour, de rustines, de corrections et d’améliorations du produit. Le fournisseur de la technologie n’a pas cessé d’offrir un soutien. La feuille de route du produit du fournisseur est utilisée comme source faisant autorité pour déterminer si une technologie est prise en charge."
+    "en": "Definitionscurrent versionThis is the version of the technology that the provider markets, promotes and supports. The provider could be a company that sells a particular technology, a department (for a tool that it has built for itself) or a community that maintains an open-source technology. For in-house applications, this is the version that is used in the production environment and for which most updates, patches and other maintenance efforts are designed. This version is also known as the production version, release-to-manufacture version, general availability release or gold build.supported versionThis is the version of the technology that the provider continues to support with updates, patches, fixes and improvements to the product. The provider of the technology has not stopped support. The provider’s product roadmap is used as the authoritative source for determining whether a technology is supported. Extended support refers to the situation where the provider of the technology continues to provide updates, patches and fixes at a negotiated, and usually additional, cost. The provider has stopped all commercial support. The provider’s product roadmap is used as the authoritative source for determining whether a technology is supported.future versionA version of the technology that:Is not yet fully released;Contains new or modified features; andMay not have undergone full quality control.This version is also known as the alpha version, pre-alpha version, beta version, pre-release candidate or prototype.unsupported versionAn older version of the technology that has been replaced, eliminated or deprecated, and is no longer supported by the provider.",
+    "fr": "Définitionsversion actuelleC’est la version de la technologie que le fournisseur commercialise, promeut et prend en charge. Le fournisseur pourrait être une entreprise qui vend une technologie particulière, un ministère (pour un outil qu’elle a construit pour elle-même) ou une collectivité qui maintient une technologie de source ouverte. Pour les applications internes, il s’agit de la version utilisée dans l’environnement de production et sur laquelle la plupart des mises à jour, des rustines et d’autres tâches d’entretien sont conçues. Cette version est également connue sous le nom de « version de production », « release to manufacture ou RTM » (version RTM), « general availability or GA » (disponibilité générale), ou « gold build » (version or).version prise en chargeIl s’agit de la version de la technologie que le fournisseur prend toujours en charge par l’entremise de mises à jour, de rustines, de corrections et d’améliorations du produit. Le fournisseur de la technologie n’a pas cessé d’offrir un soutien. La feuille de route du produit du fournisseur est utilisée comme source faisant autorité pour déterminer si une technologie est prise en charge.Le soutien prolongé désigne la situation dans laquelle le fournisseur de la technologie continue à fournir des mises à jour, des rustines et des corrections à un coût négocié et généralement supplémentaire. Le fournisseur a cessé toute assistance commerciale. La feuille de route du produit du fournisseur est utilisée comme source faisant autorité pour déterminer si une technologie est prise en charge.version futureUne version de la technologie qui :n’est toujours pas entièrement publiée;contient des fonctions nouvelles ou modifiées;n’a pas fait l’objet d’un contrôle de la qualité intégral.Cette version est également connue sous le nom de version alpha, version pré-alpha, version bêta, version bêta, candidat à la pré-version, ou prototype.version non prise en chargeUne version plus ancienne de la technologie qui a été remplacée, éliminée ou déclarée obsolète, et qui n’est plus prise en charge par le fournisseur.",
+    "anchor": "H.2",
+    "tag": "section"
   },
   {
-    "en": "Extended support refers to the situation where the provider of the technology continues to provide updates, patches and fixes at a negotiated, and usually additional, cost. The provider has stopped all commercial support. The provider’s product roadmap is used as the authoritative source for determining whether a technology is supported.",
-    "fr": "Le soutien prolongé désigne la situation dans laquelle le fournisseur de la technologie continue à fournir des mises à jour, des rustines et des corrections à un coût négocié et généralement supplémentaire. Le fournisseur a cessé toute assistance commerciale. La feuille de route du produit du fournisseur est utilisée comme source faisant autorité pour déterminer si une technologie est prise en charge."
+    "en": "IT progress reportingComplete for inclusion in the departmental plan, for the integrated management of service, information, data, IT and cyber security:A migration activity report for technologies that are no longer a current version;A rationalization report, which identifies opportunities for the department to leverage common departmental or enterprise architectures and to reduce the overall number of departmental platforms; andThe departmental patch management plan, which aligns with the GC Patch Management Guidance.",
+    "fr": "Établissement de rapports d’étape sur la TIRéaliser les éléments suivants aux fins d’inclusion dans le plan ministériel pour la gestion intégrée de services, de l’information, des données, de la TI et de la cybersécurité :un rapport sur les activités de migration pour les technologies qui ne sont plus une version actuelle;un rapport de rationalisation qui permet au ministère de cerner les possibilités desquelles tirer parti pour les architectures ministérielles ou organisationnelles communes, et de réduire le nombre global de plateformes ministérielles;le plan de mise en œuvre des rustines du ministère, qui s’harmonise avec le Guide de gestion des rustines du GC.",
+    "anchor": "H.2.2",
+    "tag": "section"
   },
   {
-    "en": "A version of the technology that:",
-    "fr": "Une version de la technologie qui :"
-  },
-  {
-    "en": "This version is also known as the alpha version, pre-alpha version, beta version, pre-release candidate or prototype.",
-    "fr": "Cette version est également connue sous le nom de version alpha, version pré-alpha, version bêta, version bêta, candidat à la pré-version, ou prototype."
-  },
-  {
-    "en": "An older version of the technology that has been replaced, eliminated or deprecated, and is no longer supported by the provider.",
-    "fr": "Une version plus ancienne de la technologie qui a été remplacée, éliminée ou déclarée obsolète, et qui n’est plus prise en charge par le fournisseur."
-  },
-  {
-    "en": "Is not yet fully released;",
-    "fr": "n’est toujours pas entièrement publiée;"
-  },
-  {
-    "en": "Contains new or modified features; and",
-    "fr": "contient des fonctions nouvelles ou modifiées;"
-  },
-  {
-    "en": "May not have undergone full quality control.",
-    "fr": "n’a pas fait l’objet d’un contrôle de la qualité intégral."
-  },
-  {
-    "en": "This standard takes effect on May 4, 2022.",
-    "fr": "La présente Norme entre en vigueur le 4 mai 2022."
-  },
-  {
-    "en": "This standard provides details on the requirements set out in subsection 4.4.3.16 and subsection 4.4.2.2 of the .",
-    "fr": "La présente Norme donne des détails sur les exigences énoncées aux sections 4.4.3.16 et 4.4.2.2 de la ."
-  },
-  {
-    "en": "Departmental CIOs must:",
-    "fr": "Les dirigeants principaux de l’information (DPI) ministériels doivent :"
-  },
-  {
-    "en": "Update and keep departmental business applications current, such that they have an aging IT assessment value of “Minimal attention required,” as recorded in the TBS Application Portfolio Management tool;",
-    "fr": "procéder à la mise à jour et tenir à jour les applications opérationnelles ministérielles, de sorte qu’elles aient une valeur d’évaluation de la TI vieillissante « attention minimale requise », comme consignées dans l’outil de Gestion du portefeuille des applications (GPA) du Secrétariat du Conseil du Trésor du Canada (SCT);"
-  },
-  {
-    "en": "Identify the version state for all software and hardware as either future, current, supported or unsupported; and",
-    "fr": "identifier l’état de la version de tous les logiciels et de tout équipement en tant que futur, actuel, pris en charge ou non pris en charge;"
-  },
-  {
-    "en": "Apply major and minor updates, and keep technologies patched according to the departmental patch management plan.",
-    "fr": "appliquer les mises à jour majeures et mineures, et veiller à ce que les plus récentes rustines soient appliquées aux technologies, conformément au plan de gestion des rustines du ministère."
-  },
-  {
-    "en": "Complete for inclusion in the departmental plan, for the integrated management of service, information, data, IT and cyber security:",
-    "fr": "Réaliser les éléments suivants aux fins d’inclusion dans le plan ministériel pour la gestion intégrée de services, de l’information, des données, de la TI et de la cybersécurité :"
-  },
-  {
-    "en": "A migration activity report for technologies that are no longer a current version;",
-    "fr": "un rapport sur les activités de migration pour les technologies qui ne sont plus une version actuelle;"
-  },
-  {
-    "en": "A rationalization report, which identifies opportunities for the department to leverage common departmental or enterprise architectures and to reduce the overall number of departmental platforms; and",
-    "fr": "un rapport de rationalisation qui permet au ministère de cerner les possibilités desquelles tirer parti pour les architectures ministérielles ou organisationnelles communes, et de réduire le nombre global de plateformes ministérielles;"
-  },
-  {
-    "en": "The departmental patch management plan, which aligns with the .",
-    "fr": "le plan de mise en œuvre des rustines du ministère, qui s’harmonise avec le ."
-  },
-  {
-    "en": "Prohibit the use of unsupported technologies and the technologies listed on the .",
-    "fr": "Interdire l’utilisation de technologies non prises en charge et les technologies énumérées à la page ."
+    "en": "Use of unsupported technologiesProhibit the use of unsupported technologies and the technologies listed on the Deprecated Government of Canada Technologies page.",
+    "fr": "Utilisation des technologies non prises en chargeInterdire l’utilisation de technologies non prises en charge et les technologies énumérées à la page Technologies obsolètes du gouvernement du Canada.",
+    "anchor": "H.2.2",
+    "tag": "section"
   }
 ]

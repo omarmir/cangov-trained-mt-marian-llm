@@ -1,126 +1,62 @@
 [
   {
-    "en": "This document is part of the Appendix A of the .",
-    "fr": "Ce document fait partie de l’Annexe A de la ."
-  },
-  {
-    "en": "It is the department’s responsibility to review all material services provided by or to related parties to determine the appropriate accounting treatment and disclosure. At a minimum the services described in 8 b.ii. include:",
-    "fr": "Il incombe au ministère d’examiner tous les services importants fournis par les parties apparentées ou à celles-ci afin de déterminer le traitement comptable et la divulgation appropriés. Au minimum, les services décrits à 8b) ii. Comprennent :"
-  },
-  {
-    "en": "Please note that a CPA Canada membership or an annual subscription is necessary to access this content.",
-    "fr": "Veuillez noter qu’une adhésion ou un abonnement à CPA Canada est nécessaire pour accéder à ce contenu."
-  },
-  {
     "en": "PS 3420 Inter-entity transactions",
-    "fr": "SP 3420 Opérations interentités"
+    "fr": "SP 3420 Opérations interentités",
+    "anchor": "A",
+    "tag": "ul"
+  },
+  {
+    "en": "April 1, 2017",
+    "fr": "Le 1er avril 2017",
+    "anchor": "B",
+    "tag": "p"
   },
   {
     "en": "This section is not applicable for the Government of Canada Consolidated Financial Statements as inter-entity transactions are eliminated upon consolidation.",
-    "fr": "Cette section ne s’applique pas aux états financiers consolidés du gouvernement du Canada, car les opérations interentités sont éliminées lors de la consolidation."
+    "fr": "Cette section ne s’applique pas aux états financiers consolidés du gouvernement du Canada, car les opérations interentités sont éliminées lors de la consolidation.",
+    "anchor": "C",
+    "tag": "ol"
   },
   {
     "en": "Departments, agencies and Crown corporations that comprise the Government of Canada’s reporting entity transact with each other in the normal course of business. These inter-entity transactions can be in the form of either services provided by or to related parties or transfers of assets and liabilities from or to related parties. (PS 3420.01)",
-    "fr": "Les ministères, les organismes et les sociétés d’État qui constituent le périmètre comptable du gouvernement du Canada transigent entre eux dans le cours normal de leurs activités. Ces opérations interentités peuvent prendre la forme de services fournis par ou à des parties apparentées ou de transferts d’actifs et de passifs de ou à des parties apparentées. (SP 3420.01)"
+    "fr": "Les ministères, les organismes et les sociétés d’État qui constituent le périmètre comptable du gouvernement du Canada transigent entre eux dans le cours normal de leurs activités. Ces opérations interentités peuvent prendre la forme de services fournis par ou à des parties apparentées ou de transferts d’actifs et de passifs de ou à des parties apparentées. (SP 3420.01)",
+    "anchor": "D",
+    "tag": "ol"
   },
   {
-    "en": "In accordance with GC 3150.29 Tangible Capital Assets, transfers of capital assets between departments must be at the carrying amount (net book value) of the asset. In addition, in accordance with GC 3280 Asset Retirement Obligations, the balance of any related asset retirement obligations must be transferred to the receiving department. Tangible capital assets transferred between departments occur with no consideration as permitted under PS 3420.14b.",
-    "fr": "Conformément au GC 3150.29 Immobilisations corporelles, les transferts d’immobilisations entre ministères doivent être à la valeur comptable (valeur comptable nette) de l’immobilisation. De plus, conformément au GC 3280 Obligations liées à la mise hors service d’immobilisations, le solde de toute obligation connexe de mise hors service d’immobilisations doit être transféré au ministère destinataire. Les immobilisations corporelles transférées entre ministères se font sans contrepartie, ce qui est permis en vertu du SP 3420.14b."
+    "en": "In accordance with GC 3150.29 Tangible Capital Assets, transfers of capital assets between departments must be at the carrying amount (net book value) of the asset. In addition, in accordance with GC 3280 Asset Retirement Obligations, the balance of any related asset retirement obligations must be transferred to the receiving department. Tangible capital assets transferred between departments occur with no consideration as permitted under PS 3420.14b. Interdepartmental transfers are related-party transactions therefore, the equity account of the departments should be credited or debited with the net book value of the capital asset in the Central Financial Management Reporting System (CFMRS).For departmental financial statement purposes and in accordance with PS 3420.19, other transactions affecting equity in CFMRS are to be included in Government funding and transfers on the Statement of Operations and Departmental Net Financial Position, as listed in GC 4500.10f(iv).In addition, notwithstanding the choice provided in PS 3420.17 and.18, departments are to measure all transfers of assets or liabilities for nominal or no consideration at the carrying amount for both the provider and the recipient.",
+    "fr": "Conformément au GC 3150.29 Immobilisations corporelles, les transferts d’immobilisations entre ministères doivent être à la valeur comptable (valeur comptable nette) de l’immobilisation. De plus, conformément au GC 3280 Obligations liées à la mise hors service d’immobilisations, le solde de toute obligation connexe de mise hors service d’immobilisations doit être transféré au ministère destinataire. Les immobilisations corporelles transférées entre ministères se font sans contrepartie, ce qui est permis en vertu du SP 3420.14b. Les transferts interministériels sont des opérations entre apparentés donc, le compte d’avoir des ministères devrait être crédité ou débité de la valeur comptable nette de l’immobilisation dans le Système central de gestion des rapports financiers (SCGRF).Aux fins des états financiers ministériels, conformément au SP 3420.19, les autres opérations ayant une incidence sur l’avoir dans le SCGRF doivent être incluses dans « financement et transferts gouvernementaux » dans l’état des résultats et de la situation financière nette ministérielle, tel qu’indiqué dans GC 4500.10f (iv).En outre, malgré le choix offert dans SP 3420.17 et .18, les ministères doivent mesurer tous les transferts d’actifs ou de passifs pour une contrepartie nominale ou nulle à la valeur comptable pour le fournisseur et le bénéficiaire.",
+    "anchor": "E",
+    "tag": "ol"
   },
   {
-    "en": "Interdepartmental transfers are related-party transactions therefore, the equity account of the departments should be credited or debited with the net book value of the capital asset in the Central Financial Management Reporting System (CFMRS).",
-    "fr": "Les transferts interministériels sont des opérations entre apparentés donc, le compte d’avoir des ministères devrait être crédité ou débité de la valeur comptable nette de l’immobilisation dans le Système central de gestion des rapports financiers (SCGRF)."
+    "en": "Services provided on a recovery basis are defined as those that result in a charge against the authorities of the receiving department. A listing of all government service is provided in the Government of Canada Service Inventory. These services are to be recognized as revenues and expenses on a gross basis (PS 3420.10) and measured at the exchange amount (PS 3420.20).",
+    "fr": "Les services à recouvrement de coûts correspondent à ceux qui entraînent une charge à l’égard des autorisations du ministère client. Une liste de tous les services gouvernementaux est fournie dans le Répertoire de service du gouvernement du Canada. Ces services doivent être comptabilisés à titre de revenus et dépenses sur une base brute (SP 3420.10) et mesurés à la valeur d’échange (SP 3420.20).",
+    "anchor": "F",
+    "tag": "ol"
   },
   {
-    "en": "For departmental financial statement purposes and in accordance with PS 3420.19, other transactions affecting equity in CFMRS are to be included in Government funding and transfers on the Statement of Operations and Departmental Net Financial Position, as listed in GC 4500.10f(iv).",
-    "fr": "Aux fins des états financiers ministériels, conformément au SP 3420.19, les autres opérations ayant une incidence sur l’avoir dans le SCGRF doivent être incluses dans « financement et transferts gouvernementaux » dans l’état des résultats et de la situation financière nette ministérielle, tel qu’indiqué dans GC 4500.10f (iv)."
+    "en": "In accordance with PS 3420.21, the Government has determined that recognition and disclosure of unallocated cost depends on the nature of the services provided. Services provided on a without-charge basis by one department to all other government departments (e.g. Receiver General functions) are considered unallocated costs. This also includes most of the mandatory services. Mandatory services are defined either in a policy or in legislation such as the audit services provided by the Office of the Auditor General. Central agency functions and mandatory services and programs are not normally provided on a recovery basis. No expense should be recorded by the receiving department and no revenue should be recorded by the providing department (PS 3420.11-13 ).Certain services are provided by one department to other government departments either on a recovery basis or on a without charge basis. Examples of services provided on both a without-charge basis and a recovery basis are legal services provided by the Department of Justice, and accommodation services provided by Public Services and Procurement Canada (PSPC). These services are accounted for as follows (PS 3420.11-13 ): Those provided on a recovery basis should be accounted for in the manner described in GC 3420.6.Those provided on a without charge basis should be recorded for departmental financial statement purposes only and are not to be recorded in the CFMRS trial balance. The receiving department should record an expense at the carrying amount (i.e. estimated cost) of the service provided, with a corresponding credit at the bottom of the Statement of Operations and Departmental Net Financial Position. The providing department should not record a revenue for these services.It is the department’s responsibility to review all material services provided by or to related parties to determine the appropriate accounting treatment and disclosure. At a minimum the services described in 8 b.ii. include:Accommodation services provided by PSPC;Healthand dental coverage administered by the Treasury Board Secretariat;Legal services provided by the Department of Justice; andWorkers’ compensation services provided by Employment and Social Development Canada (ESDC).Departments that provide services on a without-charge basis, as described in GC 3420.8 b should determine the carrying amount (i.e. estimated cost) of the service and should communicate the information to the recipient departments in a timely manner, along with sufficient supporting details, for the purposes of preparing the annual financial statements.",
+    "fr": "Selon SP 3420.21, le gouvernement a déterminé que la constatation et la divulgation des coûts non attribués dépendent de la nature des services fournis. Les services fournis gratuitement par un ministère à tous les autres ministères (p. ex., fonctions du receveur général) sont considérés comme des coûts non attribués. Cela comprend également la plupart des services obligatoires. Les services obligatoires sont définis dans une politique ou une loi, tel que les services de vérification fournis par le Bureau du vérificateur général. Les fonctions des organismes centraux et les services et programmes obligatoires ne sont pas normalement fournis selon le principe du recouvrement. Aucune dépense ne doit être comptabilisée par le ministère destinataire et aucun revenu ne doit être comptabilisé par le ministère fournisseur (SP 3420.11-13).Certains services sont fournis par un ministère à d’autres ministères, soit selon le principe du recouvrement, soit sans frais. Les services juridiques fournis par le ministère de la Justice et les services de locaux fournis par Services publics et Approvisionnement Canada (SPAC) sont des exemples de services fournis sans frais et selon le principe du recouvrement. Ces services sont comptabilisés comme suit (SP 3420.11-13) : Ceux fournis selon le principe du recouvrement doivent être comptabilisés de la manière décrite dans GC 3420.6.Ceux fournis gratuitement doivent être comptabilisés aux fins des états financiers ministériels seulement et ne doivent pas être comptabilisés dans la balance de vérification du SCGRF. Le ministère destinataire devrait comptabiliser une dépense à la valeur comptable (c.- à -d. le coût estimatif) du service fourni, et un crédit correspondant au bas de l’état des résultats et de la situation financière nette ministérielle. Le ministère fournisseur ne devrait pas comptabiliser un revenu pour ces services. Il incombe au ministère d’examiner tous les services importants fournis par les parties apparentées ou à celles-ci afin de déterminer le traitement comptable et la divulgation appropriés. Au minimum, les services décrits à 8b) ii. Comprennent :Les services de locaux fournis par SPAC;La protection en matière de soins de santé et de soins dentaires administrée par le Secrétariat du Conseil du Trésor;Les services juridiques fournis par le ministère de la Justice; etLes services d’indemnisation des accidentés du travail fournis par Emploi et Développement social Canada (EDSC).Les ministères qui fournissent des services gratuitement, tel que ceux descrit dans GC 3420.8b devraient déterminer la valeur comptable (c.- à -d. le coût estimatif) du service et communiquer l’information aux ministères bénéficiaires en temps opportun, ainsi qu’un nombre suffisant de détails à l’appui, aux fins de la préparation des états financiers annuels.",
+    "anchor": "G",
+    "tag": "ol"
   },
   {
-    "en": "In addition, notwithstanding the choice provided in PS 3420.17 and.18, departments are to measure all transfers of assets or liabilities for nominal or no consideration at the carrying amount for both the provider and the recipient.",
-    "fr": "En outre, malgré le choix offert dans SP 3420.17 et .18, les ministères doivent mesurer tous les transferts d’actifs ou de passifs pour une contrepartie nominale ou nulle à la valeur comptable pour le fournisseur et le bénéficiaire."
+    "en": "Disclosure of inter-entity transactions is required as per PS 3420.23-.24. In addition, departmental financial statements should disclose amounts and a description of significant: Common services provided without charge by other government departments as defined in GC 3420.08 bii;Common services provided without charge to other government departments as defined in GC 3420.08 bii;A description of the nature of common services provided without charge by other government departments as defined in GC 3420.8 a;Programs administered on behalf of other government departments;Transfers of assets and liabilities from or to other government departments;Aggregate amounts of transactions with other government departments recognized with charge, classified by financial statement category (e.g. expenses, revenues);Outstanding balances with other government departments, classified by financial statement category (e.g. accounts receivable, accounts payable); andThe basis of measurement of the transactions above.In addition, departments should determine if additional inter-entity disclosure is required as per PS 3420.23. Material transactions which arise outside of the services departments provide in accordance with their mandate and the Common Services Policy require particular attention on whether they require disclosure.",
+    "fr": "La divulgation des opérations interentités est requise selon SP 3420.23. De plus, les états financiers ministériels devraient divulguer, pour ce qui est significatif, les montants et une description des : Services communs reçus gratuitement par les autres ministères tels que définis dans GC 3420.08bii;Services communs fournis gratuitement tels que définis dans GC 3420.08bii;Une description de la nature de services communs reçus gratuitement par les autres ministères tels que définis dans GC 3420.08a;Les programmes administrés au nom d’autres ministères;Les transferts des actifs et passifs entre ministères;Les montants totaux des transactions avec d’autres ministères comptabilisés avec des frais, classés par catégorie d’états financiers (p. ex., dépenses, revenus);Les montants totaux des soldes impayés aux comptes d’autres ministères, classés par catégorie d’états financiers (p. ex., comptes débiteurs, comptes créditeurs); etLa base de mesure pour les transactions ci-dessus.De plus, les ministères devraient déterminer si une divulgation interentité additionnelle est requise selon SP 3420.23. Les opérations importantes qui sortent des services qui ne conformément pas à leur mandat et à la Politique sur les services communs nécessitent une attention particulière pour déterminer si elles doivent être divulguées.",
+    "anchor": "H",
+    "tag": "ol"
   },
   {
-    "en": "Services provided on a recovery basis are defined as those that result in a charge against the authorities of the receiving department. A listing of all government service is provided in the . These services are to be recognized as revenues and expenses on a gross basis (PS 3420.10) and measured at the exchange amount (PS 3420.20).",
-    "fr": "Les services à recouvrement de coûts correspondent à ceux qui entraînent une charge à l’égard des autorisations du ministère client. Une liste de tous les services gouvernementaux est fournie dans le . Ces services doivent être comptabilisés à titre de revenus et dépenses sur une base brute (SP 3420.10) et mesurés à la valeur d’échange (SP 3420.20)."
+    "en": "PS 1000 Financial statement conceptsFootnote 1PS 1201 Financial statement presentationFootnote 1PS 2200 Related party disclosuresFootnote 1GC 2200 Related Party DisclosuresPS 3210 AssetsFootnote 1GC 4500 Departmental Financial Statements",
+    "fr": "SP 1000 Fondements conceptuels des états financiersVoir la note en bas de page 1SP 1201 Présentation des états financiersVoir la note en bas de page 1SP 2200 Information relative aux apparentésVoir la note en bas de page 1GC 2200 Divulgations relatives aux apparentésSP 3210 ActifsVoir la note en bas de page 1",
+    "anchor": "I",
+    "tag": "ul"
   },
   {
-    "en": "In accordance with PS 3420.21, the Government has determined that recognition and disclosure of unallocated cost depends on the nature of the services provided.",
-    "fr": "Selon SP 3420.21, le gouvernement a déterminé que la constatation et la divulgation des coûts non attribués dépendent de la nature des services fournis."
-  },
-  {
-    "en": "Services provided on a without-charge basis by one department to all other government departments (e.g. Receiver General functions) are considered unallocated costs. This also includes most of the mandatory services. Mandatory services are defined either in a policy or in legislation such as the audit services provided by the Office of the Auditor General. Central agency functions and mandatory services and programs are not normally provided on a recovery basis. No expense should be recorded by the receiving department and no revenue should be recorded by the providing department (PS 3420.11-13 ).",
-    "fr": "Les services fournis gratuitement par un ministère à tous les autres ministères (p. ex., fonctions du receveur général) sont considérés comme des coûts non attribués. Cela comprend également la plupart des services obligatoires. Les services obligatoires sont définis dans une politique ou une loi, tel que les services de vérification fournis par le Bureau du vérificateur général. Les fonctions des organismes centraux et les services et programmes obligatoires ne sont pas normalement fournis selon le principe du recouvrement. Aucune dépense ne doit être comptabilisée par le ministère destinataire et aucun revenu ne doit être comptabilisé par le ministère fournisseur (SP 3420.11-13)."
-  },
-  {
-    "en": "Certain services are provided by one department to other government departments either on a recovery basis or on a without charge basis. Examples of services provided on both a without-charge basis and a recovery basis are legal services provided by the Department of Justice, and accommodation services provided by Public Services and Procurement Canada (PSPC). These services are accounted for as follows (PS 3420.11-13 ):",
-    "fr": "Certains services sont fournis par un ministère à d’autres ministères, soit selon le principe du recouvrement, soit sans frais. Les services juridiques fournis par le ministère de la Justice et les services de locaux fournis par Services publics et Approvisionnement Canada (SPAC) sont des exemples de services fournis sans frais et selon le principe du recouvrement. Ces services sont comptabilisés comme suit (SP 3420.11-13) :"
-  },
-  {
-    "en": "Those provided on a recovery basis should be accounted for in the manner described in GC 3420.6.",
-    "fr": "Ceux fournis selon le principe du recouvrement doivent être comptabilisés de la manière décrite dans GC 3420.6."
-  },
-  {
-    "en": "Those provided on a without charge basis should be recorded for departmental financial statement purposes only and are not to be recorded in the CFMRS trial balance. The receiving department should record an expense at the carrying amount (i.e. estimated cost) of the service provided, with a corresponding credit at the bottom of the Statement of Operations and Departmental Net Financial Position. The providing department should not record a revenue for these services.",
-    "fr": "Ceux fournis gratuitement doivent être comptabilisés aux fins des états financiers ministériels seulement et ne doivent pas être comptabilisés dans la balance de vérification du SCGRF. Le ministère destinataire devrait comptabiliser une dépense à la valeur comptable (c.- à -d. le coût estimatif) du service fourni, et un crédit correspondant au bas de l’état des résultats et de la situation financière nette ministérielle. Le ministère fournisseur ne devrait pas comptabiliser un revenu pour ces services."
-  },
-  {
-    "en": "Accommodation services provided by PSPC;",
-    "fr": "Les services de locaux fournis par SPAC;"
-  },
-  {
-    "en": "Healthand dental coverage administered by the Treasury Board Secretariat;",
-    "fr": "La protection en matière de soins de santé et de soins dentaires administrée par le Secrétariat du Conseil du Trésor;"
-  },
-  {
-    "en": "Legal services provided by the Department of Justice; and",
-    "fr": "Les services juridiques fournis par le ministère de la Justice; et"
-  },
-  {
-    "en": "Workers’ compensation services provided by Employment and Social Development Canada (ESDC).",
-    "fr": "Les services d’indemnisation des accidentés du travail fournis par Emploi et Développement social Canada (EDSC)."
-  },
-  {
-    "en": "Departments that provide services on a without-charge basis, as described in GC 3420.8 b should determine the carrying amount (i.e. estimated cost) of the service and should communicate the information to the recipient departments in a timely manner, along with sufficient supporting details, for the purposes of preparing the annual financial statements.",
-    "fr": "Les ministères qui fournissent des services gratuitement, tel que ceux descrit dans GC 3420.8b devraient déterminer la valeur comptable (c.- à -d. le coût estimatif) du service et communiquer l’information aux ministères bénéficiaires en temps opportun, ainsi qu’un nombre suffisant de détails à l’appui, aux fins de la préparation des états financiers annuels."
-  },
-  {
-    "en": "Disclosure of inter-entity transactions is required as per PS 3420.23-.24. In addition, departmental financial statements should disclose amounts and a description of significant:",
-    "fr": "La divulgation des opérations interentités est requise selon SP 3420.23. De plus, les états financiers ministériels devraient divulguer, pour ce qui est significatif, les montants et une description des :"
-  },
-  {
-    "en": "Common services provided without charge by other government departments as defined in GC 3420.08 bii;",
-    "fr": "Services communs reçus gratuitement par les autres ministères tels que définis dans GC 3420.08bii;"
-  },
-  {
-    "en": "Common services provided without charge to other government departments as defined in GC 3420.08 bii;",
-    "fr": "Services communs fournis gratuitement tels que définis dans GC 3420.08bii;"
-  },
-  {
-    "en": "A description of the nature of common services provided without charge by other government departments as defined in GC 3420.8 a;",
-    "fr": "Une description de la nature de services communs reçus gratuitement par les autres ministères tels que définis dans GC 3420.08a;"
-  },
-  {
-    "en": "Programs administered on behalf of other government departments;",
-    "fr": "Les programmes administrés au nom d’autres ministères;"
-  },
-  {
-    "en": "Transfers of assets and liabilities from or to other government departments;",
-    "fr": "Les transferts des actifs et passifs entre ministères;"
-  },
-  {
-    "en": "Aggregate amounts of transactions with other government departments recognized with charge, classified by financial statement category (e.g. expenses, revenues);",
-    "fr": "Les montants totaux des transactions avec d’autres ministères comptabilisés avec des frais, classés par catégorie d’états financiers (p. ex., dépenses, revenus);"
-  },
-  {
-    "en": "Outstanding balances with other government departments, classified by financial statement category (e.g. accounts receivable, accounts payable); and",
-    "fr": "Les montants totaux des soldes impayés aux comptes d’autres ministères, classés par catégorie d’états financiers (p. ex., comptes débiteurs, comptes créditeurs); et"
-  },
-  {
-    "en": "The basis of measurement of the transactions above.",
-    "fr": "La base de mesure pour les transactions ci-dessus."
-  },
-  {
-    "en": "In addition, departments should determine if additional inter-entity disclosure is required as per PS 3420.23. Material transactions which arise outside of the services departments provide in accordance with their mandate and the Common Services Policy require particular attention on whether they require disclosure.",
-    "fr": "De plus, les ministères devraient déterminer si une divulgation interentité additionnelle est requise selon SP 3420.23. Les opérations importantes qui sortent des services qui ne conformément pas à leur mandat et à la Politique sur les services communs nécessitent une attention particulière pour déterminer si elles doivent être divulguées."
+    "en": "Please note that a CPA Canada membership or an annual subscription is necessary to access this content.",
+    "fr": "Veuillez noter qu’une adhésion ou un abonnement à CPA Canada est nécessaire pour accéder à ce contenu.",
+    "anchor": "fn1",
+    "tag": "p"
   }
 ]

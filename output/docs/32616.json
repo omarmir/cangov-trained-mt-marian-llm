@@ -1,418 +1,110 @@
 [
   {
     "en": "This Guide is intended to build departmental understanding of the situations where collaboration between federal department(s) and grant and contribution (G&C) recipients may be acceptable from a Policy on Transfer Payment perspective. It addresses three specific collaboration scenarios and provides guidance to departments with respect to the type of considerations departments should bear in mind to facilitate such collaboration.",
-    "fr": "Le présent guide vise à renforcer la compréhension ministérielle concernant les situations où la collaboration entre les ministères fédéraux et les bénéficiaires des subventions et des contributions (S et C) peut être acceptable du point de vue de la Politique sur les paiements de transfert. Il traite de trois scénarios de collaboration particuliers et fournit des directives aux ministères en ce qui concerne les types de considérations que les ministères devraient garder à l’esprit pour faciliter une telle collaboration."
+    "fr": "Le présent guide vise à renforcer la compréhension ministérielle concernant les situations où la collaboration entre les ministères fédéraux et les bénéficiaires des subventions et des contributions (S et C) peut être acceptable du point de vue de la Politique sur les paiements de transfert. Il traite de trois scénarios de collaboration particuliers et fournit des directives aux ministères en ce qui concerne les types de considérations que les ministères devraient garder à l’esprit pour faciliter une telle collaboration.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "In an era of innovation, and the commitment to finding better ways of doing business, some federal departments continue to explore opportunities to collaborate with one another and with G&C recipients in order to fulfill departmental mandates. By collaborating with G&C recipients, departments see opportunities to:",
-    "fr": "À l’ère de l’innovation et de l’engagement pour optimiser les pratiques d’affaires, certains ministères fédéraux continuent d’explorer des possibilités de collaboration entre eux et avec les bénéficiaires de S et C afin de remplir les mandats ministériels. En collaborant avec les bénéficiaires de S et C, les ministères cherchent des occasions pour:"
+    "fr": "À l’ère de l’innovation et de l’engagement pour optimiser les pratiques d’affaires, certains ministères fédéraux continuent d’explorer des possibilités de collaboration entre eux et avec les bénéficiaires de S et C afin de remplir les mandats ministériels. En collaborant avec les bénéficiaires de S et C, les ministères cherchent des occasions pour:",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Traditionally, collaboration between the government and G&C recipients has been limited by certain sections of the , which has been interpreted as prohibiting any federal involvement in a project where a recipient is receiving G&C funding.",
-    "fr": "Traditionnellement, la collaboration entre le gouvernement et les bénéficiaires de S et C a été limitée par certaines sections de la , qui était interprétée comme interdisant toute participation fédérale à un projet pour lequel le bénéficiaire reçoit des subventions et contributions. Par conséquent :"
+    "en": "leverage capacity across sectorstransfer knowledgefurther shared objectives",
+    "fr": "tirer parti de la capacité entre les secteursfavoriser le transfert de connaissances participer à l’avancement d’objectifs communs",
+    "anchor": "2",
+    "tag": "ul"
+  },
+  {
+    "en": "Traditionally, collaboration between the government and G&C recipients has been limited by certain sections of the Policy on Transfer Payments, which has been interpreted as prohibiting any federal involvement in a project where a recipient is receiving G&C funding.",
+    "fr": "Traditionnellement, la collaboration entre le gouvernement et les bénéficiaires de S et C a été limitée par certaines sections de la Politique sur les paiements de transfert, qui était interprétée comme interdisant toute participation fédérale à un projet pour lequel le bénéficiaire reçoit des subventions et contributions. Par conséquent :",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "As a result:",
-    "fr": "Le gouvernement cherche des moyens d’innover dans la façon dont il soutient le développement scientifique, social et économique. Ainsi, cela pose la question de savoir comment les ministères peuvent :"
+    "fr": "Les bénéficiaires de S et C n’ont pas pu obtenir l’expertise gouvernementale ni bénéficier des installations gouvernementales susceptibles de les aider à atteindre les résultats de leur projetles scientifiques du gouvernement fédéral n’ont pas pu travailler avec des collègues du milieu universitaire et d’autres ordres de gouvernement",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "G&C recipients have not been able to access government expertise and facilities that could help achieve project outcomesfederal government scientists have been prevented from working with colleagues in academia and other levels of government",
+    "fr": "Le gouvernement cherche des moyens d’innover dans la façon dont il soutient le développement scientifique, social et économique. Ainsi, cela pose la question de savoir comment les ministères peuvent :",
+    "anchor": "2",
+    "tag": "ul"
   },
   {
     "en": "As the government seeks ways to innovate in how it supports scientific, social and economic development, it raises the questions as to how departments can:",
-    "fr": "À ce jour, l’interprétation de la Politique sur les paiements de transfert se traduisait comme interdisant la participation du gouvernement fédéral à tout projet qu’il finance par des subventions et des contributions. Toutefois, la politique peut être interprétée de manière plus approfondie de sorte que les ministères fédéraux puissent :"
+    "fr": "collaborer avec les bénéficiaires de S et C pour renforcer les capacités et améliorer la compétitivité du Canadademeurer conformes à la Politique sur les paiements de transfert",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "The practice has been to interpret the Policy on Transfer Payments as prohibiting federal involvement in any project that it funds through grants and contributions. However, the policy can be interpreted more precisely to allow federal departments to:",
-    "fr": "Lorsqu’ils collaborent avec un bénéficiaire de S et C, les ministères doivent :"
+    "fr": "À ce jour, l’interprétation de la Politique sur les paiements de transfert se traduisait comme interdisant la participation du gouvernement fédéral à tout projet qu’il finance par des subventions et des contributions. Toutefois, la politique peut être interprétée de manière plus approfondie de sorte que les ministères fédéraux puissent :",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "collaborate in projects that receive a G&Cprovide services and the use of facilities for funded G&C projects",
+    "fr": "collaborer à des projets prestataires de S et Cfournir des services et autoriser l’utilisation des installations pour des projets financés par des S et C",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "When collaborating with a G&C recipient, departments are expected to:",
-    "fr": "Trois scénarios qui soulèvent généralement des questions sur la collaboration ont été élaborés pour aider à orienter et à préciser les collaborations potentielles. Ces scénarios ne sont pas exhaustifs et chaque situation est unique en raison de ses détails. Toutefois, ces scénarios sont les plus courants."
+    "fr": "Lorsqu’ils collaborent avec un bénéficiaire de S et C, les ministères doivent :",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "comply with all relevant legislation and Treasury Board policy in their interactions with recipientsensure that they follow the principles set out in the Policy on Transfer Payments",
+    "fr": "se conformer à toutes les lois pertinentes et aux politiques du Conseil du Trésor dans leurs interactions avec les bénéficiairesse conformer aux principes énoncés dans la Politique sur les paiements de transfert",
+    "anchor": "3",
+    "tag": "ul"
   },
   {
     "en": "Three scenarios that generally raise questions around collaboration have been developed to help guide and clarify potential collaborations. These scenarios are not exhaustive and each situation is unique in nature due to its details. However, these represent the most common scenarios encountered.",
-    "fr": "Le financement des S et C implique habituellement une relation directe entre un ministère fédéral en tant que bailleur de fonds et un bénéficiaire qui :"
+    "fr": "Trois scénarios qui soulèvent généralement des questions sur la collaboration ont été élaborés pour aider à orienter et à préciser les collaborations potentielles. Ces scénarios ne sont pas exhaustifs et chaque situation est unique en raison de ses détails. Toutefois, ces scénarios sont les plus courants.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "G&C funding typically involves a direct relationship between a federal department as the funder and a recipient that:",
-    "fr": "Dans ce scénario, la collaboration s’entend de la prestation par un ministère fédéral de services et/ou d’installations envers le bénéficiaire d’un paiement de transfert. Le bénéficiaire :"
+    "en": "Scenario 1: a G&C recipient uses a federal department’s services and/or facilitiesG&C funding typically involves a direct relationship between a federal department as the funder and a recipient that:undertakes its project and related activitiesreceives payment for eligible expenses incurredIn this scenario, collaboration refers to a federal department providing services and/or facilities to a recipient of a transfer payment. The recipient:is invoiced by the department for services provided claims the expenditure from the funding department as part of the G&C projectThe G&C recipient uses its transfer payment dollars to pay for federal government services for which the department has the authority to charge (see Appendix A, Example 1, for more details).In this scenario, the use of G&Cs by a recipient to procure services from a federal department that has charging authority is not deemed to be supporting the supplier department ongoing operations for which they have been appropriated.Considerations for departments that provide services or the use of a facility (supplier departments)A department that is considering providing services to the public that may have received G&C funding should ensure that:it has the authority to provide the service or the use of a facility to a recipient and to charge for the servicethe policy requirement for determining and charging fees for the service are followed, for example, an hourly rate for using a wind tunnel to test the design of a vehicle (the recipient is not to be given a reduced rate)the service is equally available to any potential customer (a recipient should not receive a service unless it is available to non-recipients)Considerations for departments that fund recipientsDepartments that are considering working with non-government entities to achieve a common goal should ensure that:the activity and associated expenditure are eligible according to the program’s terms and conditions, before the recipient engages the department for the serviceservices provided by a department are eligible expenses under the funding agreement (for example, “professional services”)Any procurement transaction on the part of recipients are recorded as a separate and distinct accounting entry (that is, separate and distinct from the transfer payment)a recipient is not obligated to use the services of a specific department, as such a practice could be perceived as: providing an unfair competitive advantagediscouraging competition",
+    "fr": "Scénario 1 : un bénéficiaire de S et C utilise les services ou les installations d’un ministère fédéral Le financement des S et C implique habituellement une relation directe entre un ministère fédéral en tant que bailleur de fonds et un bénéficiaire qui :entreprend son projet et les activités connexes reçoit un paiement pour les dépenses admissibles engagéesDans ce scénario, la collaboration s’entend de la prestation par un ministère fédéral de services et/ou d’installations envers le bénéficiaire d’un paiement de transfert. Le bénéficiaire :est facturé par le ministère pour les services fournis réclame la dépense auprès du ministère contributif dans le cadre du projet financé par S et CLe bénéficiaire des S et C utilise ses paiements de transfert pour payer les services du gouvernement fédéral que le ministère a le pouvoir de facturer (voir l’exemple 1 de l’annexe A pour plus de détails).Dans ce scénario, l’utilisation des S et C par un bénéficiaire pour obtenir des services d’un ministère fédéral apte à imposer des frais n’est pas réputée appuyer les activités courantes du ministère fournisseur pour lesquelles elles ont été attribuées. Considérations pour les ministères qui fournissent des services ou autorisent l’utilisation d’une installation (ministères fournisseurs)Un ministère qui envisage de fournir des services à un public qui peut avoir reçu des S et C doit s’assurer que : le ministère a le pouvoir de fournir le service ou d’accorder l’accès à une installation à un bénéficiaire et que cette prestation soit facturéel’exigence de la politique visant à établir et à facturer les frais de service est respectée, par exemple, un tarif horaire pour l’utilisation d’une soufflerie pour tester la conception d’un véhicule (le bénéficiaire ne doit pas recevoir de tarif réduit)le service est également accessible à tout client potentiel (le bénéficiaire ne doit pas recevoir de service autrement interdit aux non-bénéficiaires)Considérations pour les ministères qui financent les bénéficiairesLes ministères qui envisagent de travailler avec des entités non gouvernementales pour atteindre un but commun devraient s’assurer que :l’activité et les dépenses connexes sont admissibles conformément aux modalités du programme, avant que le bénéficiaire ne réclame le service du ministèreles services fournis par un ministère sont des dépenses admissibles en vertu de l’entente de financement (par exemple, « services professionnels ») toute transaction d’approvisionnement de la part des bénéficiaires est comptabilisée comme une écriture comptable distincte (c’est-à-dire distincte du paiement de transfert)un bénéficiaire n’est pas tenu d’utiliser les services d’un ministère en particulier, car une telle pratique pourrait être considérée comme : procurant un avantage concurrentiel injuste une forme de découragement de la concurrence",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "In this scenario, collaboration refers to a federal department providing services and/or facilities to a recipient of a transfer payment. The recipient:",
-    "fr": "Le bénéficiaire des S et C utilise ses paiements de transfert pour payer les services du gouvernement fédéral que le ministère a le pouvoir de facturer (voir l’exemple 1 de l’annexe A pour plus de détails)."
+    "en": "Scenario 2: a non-funding department collaborates on a G&C project using its own resourcesIn this scenario, the most common arrangement is where a non-funding department (collaborator department) has a shared interest in a project with a G&C recipient and they enter into a collaborative arrangement. The collaborator department is addressing an operational requirement uses its own operating funds, appropriated for this purpose.Considerations for non-funding departments (collaborator departments) Departments that are considering collaborating on a G&C recipient’s project should ensure that:the department has the authority to provide the use of a facility to a recipient, at a cost or at no costs. the arrangement is documented in a collaboration agreement that outlines the roles and responsibilities of the parties and the terms of the collaborator’s participation in the project (the agreement should be reviewed by the department’s legal services unit and procurement unit to ensure that it complies with the appropriate policies and legislation);key financial representatives within the department are contacted to determine whether costs related to the collaboration should be accounted for separately, with appropriate internal coding createdan estimate of costs to be incurred is made available to any federal department that is: considering providing funding to a recipientconsidering participating in the projectConsiderations for departments that fund recipients (funding departments)When calculating the stacking limit,Footnote 1 the funding department includes the value of the collaborator department’s participation (as applicable). Doing so will ensure that the overall value of the recipient project includes all government funding (transfer payments and operations and maintenance).",
+    "fr": "Scénario 2 : Un ministère non contributif collabore à un projet prestataire de S et C en utilisant ses propres ressources Dans ce scénario, l’entente la plus courante est lorsqu’un ministère non contributif (ministère collaborateur) a un intérêt partagé dans un projet avec un bénéficiaire de S et C et qu’il conclut une entente de collaboration. Le ministère collaborateur répond à une exigence opérationnelle en utilisant ses propres fonds de fonctionnement, affectés à cette fin.Considérations pour les ministères non contributifs (ministères collaborateurs)Les ministères qui envisagent de collaborer au projet d’un bénéficiaire de S et C doivent s’assurer que :le ministère a le droit d’autoriser l’utilisation d’une installation à un bénéficiaire, au prix coûtant ou sans frais l’entente est documentée dans une entente de collaboration qui décrit les rôles et responsabilités des parties et les modalités de participation du collaborateur au projet (l’entente doit être examinée par le service juridique du ministère et l’unité d’approvisionnement afin de garantir qu’elle est conforme aux politiques et aux lois pertinentes) les principaux représentants financiers du ministère sont consultés pour déterminer si les coûts liés à la collaboration doivent être comptabilisés séparément, et si un codage interne approprié est requisl’estimation des coûts à engager est mise à la disposition de tout ministère fédéral qui : envisage de financer un bénéficiaireenvisage de participer à un projetConsidérations pour les ministères qui financent les bénéficiaires (ministères donateurs)Lors du calcul de la limite sur le cumulVoir la note en bas de page 1, le ministère donateur inclut la valeur de la participation du ministère collaborateur (selon le cas). Ainsi, la valeur globale du projet du bénéficiaire comprendra tout le financement gouvernemental accordé (paiements de transfert, puis fonctionnement et entretien).",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "The G&C recipient uses its transfer payment dollars to pay for federal government services for which the department has the authority to charge (see Appendix A, Example 1, for more details).",
-    "fr": "Dans ce scénario, l’utilisation des S et C par un bénéficiaire pour obtenir des services d’un ministère fédéral apte à imposer des frais n’est pas réputée appuyer les activités courantes du ministère fournisseur pour lesquelles elles ont été attribuées."
-  },
-  {
-    "en": "In this scenario, the use of G&Cs by a recipient to procure services from a federal department that has charging authority is not deemed to be supporting the supplier department ongoing operations for which they have been appropriated.",
-    "fr": "Un ministère qui envisage de fournir des services à un public qui peut avoir reçu des S et C doit s’assurer que :"
-  },
-  {
-    "en": "A department that is considering providing services to the public that may have received G&C funding should ensure that:",
-    "fr": "Les ministères qui envisagent de travailler avec des entités non gouvernementales pour atteindre un but commun devraient s’assurer que :"
-  },
-  {
-    "en": "Departments that are considering working with non-government entities to achieve a common goal should ensure that:",
-    "fr": "Dans ce scénario, l’entente la plus courante est lorsqu’un ministère non contributif (ministère collaborateur) a un intérêt partagé dans un projet avec un bénéficiaire de S et C et qu’il conclut une entente de collaboration. Le ministère collaborateur répond à une exigence opérationnelle en utilisant ses propres fonds de fonctionnement, affectés à cette fin."
-  },
-  {
-    "en": "In this scenario, the most common arrangement is where a non-funding department (collaborator department) has a shared interest in a project with a G&C recipient and they enter into a collaborative arrangement. The collaborator department is addressing an operational requirement uses its own operating funds, appropriated for this purpose.",
-    "fr": "Les ministères qui envisagent de collaborer au projet d’un bénéficiaire de S et C doivent s’assurer que :"
-  },
-  {
-    "en": "Departments that are considering collaborating on a G&C recipient’s project should ensure that:",
-    "fr": "Lors du calcul de la limite sur le cumul , le ministère donateur inclut la valeur de la participation du ministère collaborateur (selon le cas). Ainsi, la valeur globale du projet du bénéficiaire comprendra tout le financement gouvernemental accordé (paiements de transfert, puis fonctionnement et entretien)."
-  },
-  {
-    "en": "When calculating the stacking limit, the funding department includes the value of the collaborator department’s participation (as applicable). Doing so will ensure that the overall value of the recipient project includes all government funding (transfer payments and operations and maintenance).",
-    "fr": "Dans les situations où un ministère pourrait communiquer et mettre à profit son expertise, mais où le ministère n’a pas de ressources suffisantes pour aller de l’avant avec une entente de collaboration avec un bénéficiaire de S et C, le ministère donateur du projet peut proposer de transférer des fonds au ministère collaborateur pour compenser le coût supplémentaire de la collaboration en présence d’un intérêt partagé dans le projet."
-  },
-  {
-    "en": "In situations where there is the potential for a department to share and leverage expertise but the department does not have sufficient resources to proceed with a collaborative arrangement with a recipient of a G&C, the funding department can propose to transfer funds to the collaborator department to offset the incremental cost of collaboration when there is a shared interest in the project.",
-    "fr": "Tout transfert éventuel de fonds à un autre ministère doit être discuté avec le Secrétariat du Conseil du Trésor du Canada. Les facteurs suivants doivent être pris en compte:"
-  },
-  {
-    "en": "Any potential transfer of funds to another department should be discussed with the Treasury Board of Canada Secretariat. The following need to be considered:",
-    "fr": "La valeur de la participation du ministère collaborateur devrait faire partie du calcul du cumul pour le bénéficiaire du paiement de transfert."
-  },
-  {
-    "en": "The value of the collaborator department’s participation should be part of the stacking calculations for the recipient of the transfer payment.",
-    "fr": "Les ministères qui envisagent de collaborer au projet d’un bénéficiaire de S et C doivent s’assurer que :"
-  },
-  {
-    "en": "Departments that are considering collaborating on a G&C recipient’s project should ensure that:",
-    "fr": "Les ministères donateurs devraient s’assurer que, lors du calcul de la limite sur le cumul d’un projet, la valeur de la participation d’un ministère collaborateur au projet est considérée comme faisant partie de la contribution du gouvernement, selon le cas."
-  },
-  {
-    "en": "Funding departments should ensure that, when calculating the stacking limit of a project, the value of a collaborator department’s participation in the project is considered as part of the government’s contribution, as applicable.",
-    "fr": "Les ministères qui envisagent d’appuyer d’autres ministères dans l’avancement d’un projet de paiements de transfert devraient s’assurer que :"
-  },
-  {
-    "en": "Departments that are considering supporting other departments in furthering a transfer payment project should ensure that:",
-    "fr": "Les ministères doivent noter que lorsqu’une somme importante des paiements de transfert d’un ministère est transférée aux fonds de F et E d’un autre ministère, ils courent un risque de donner l’impression que ces fonds devraient plutôt être alloués sur une base permanente au budget de F et E."
-  },
-  {
-    "en": "Departments should note that when a significant amount of a department’s transfer payment funds are transferred to O&M funds of another department there may be the perception that the funds belong more appropriately in the O&M budget on a permanent basis.",
-    "fr": "Les ministères doivent suivre les principes suivants liés aux paiements de transfert lorsqu’ils participent à des ententes de collaboration :"
+    "en": "Scenario 3: a non-funding federal department collaborates on a G&C project, and incremental costs are supported by the funding department via transfer of funds from Vote 10 to Vote 1 In situations where there is the potential for a department to share and leverage expertise but the department does not have sufficient resources to proceed with a collaborative arrangement with a recipient of a G&C, the funding department can propose to transfer funds to the collaborator department to offset the incremental cost of collaboration when there is a shared interest in the project.Any potential transfer of funds to another department should be discussed with the Treasury Board of Canada Secretariat. The following need to be considered:Parliament must approve a transfer of funds between departmentssufficient time for the transfer to be completed taking into consideration the supply cycleappropriate policy coverage The value of the collaborator department’s participation should be part of the stacking calculations for the recipient of the transfer payment.Considerations for non-funding departments (collaborator departments) Departments that are considering collaborating on a G&C recipient’s project should ensure that:the arrangement is documented in a collaboration agreement to outline: the roles and responsibilities of the partiesthe terms of the collaborator department’s participation in the project the agreement is reviewed by the department’s legal services unit, procurement unit and financial unit to ensure that it complies with appropriate policies and legislationConsiderations for departments that fund recipients (funding departments)Funding departments should ensure that, when calculating the stacking limit of a project, the value of a collaborator department’s participation in the project is considered as part of the government’s contribution, as applicable.Considerations for departments that transfer fundingDepartments that are considering supporting other departments in furthering a transfer payment project should ensure that:the transfer of funds from a Grants and Contributions Vote to an Operating Vote is not used for costs that have already received funding appropriated by Parliament, such as: fixed costs of government laboratoriessalary costs for staff already employedthe transfer of funds is used only where participation in the project represents an incremental cost to the collaborator department (for example, the incremental cost of running a wind tunnel test when the facility would otherwise be idle, or hiring a term employee to take over the assigned duties of a salaried employee while the salaried employee is participating in the project)the transferred funds are not used to upgrade laboratory equipment or expand the facility for the purpose of participating in the funded projectDepartments should note that when a significant amount of a department’s transfer payment funds are transferred to O&M funds of another department there may be the perception that the funds belong more appropriately in the O&M budget on a permanent basis.",
+    "fr": "Scénario 3 : Un ministère fédéral non contributif collabore à un projet financé par des S et C, et les coûts différentiels sont assumés par le ministère donateur par l’entremise du transfert de fonds du « crédit 10 » au « crédit 1 » Dans les situations où un ministère pourrait communiquer et mettre à profit son expertise, mais où le ministère n’a pas de ressources suffisantes pour aller de l’avant avec une entente de collaboration avec un bénéficiaire de S et C, le ministère donateur du projet peut proposer de transférer des fonds au ministère collaborateur pour compenser le coût supplémentaire de la collaboration en présence d’un intérêt partagé dans le projet.Tout transfert éventuel de fonds à un autre ministère doit être discuté avec le Secrétariat du Conseil du Trésor du Canada. Les facteurs suivants doivent être pris en compte:le Parlement doit approuver un transfert de fonds entre les ministèresun délai suffisant doit être accordé pour que le transfert soit effectué en tenant compte du cycle budgétaireune autorité politique appropriée La valeur de la participation du ministère collaborateur devrait faire partie du calcul du cumul pour le bénéficiaire du paiement de transfert.Considérations pour les ministères non contributifs (ministères collaborateurs) Les ministères qui envisagent de collaborer au projet d’un bénéficiaire de S et C doivent s’assurer que :l’entente est documentée dans une entente de collaboration pour décrire : les rôles et les responsabilités de toutes les partiesles modalités de la participation du ministère collaborateur au projet l’entente est examinée par les services juridiques du ministère, le service d’Approvisionnement et le service des finances du ministère pour s’assurer qu’elle est conforme aux politiques et aux lois pertinentesConsidérations pour les ministères qui financent les bénéficiaires (ministères donateurs)Les ministères donateurs devraient s’assurer que, lors du calcul de la limite sur le cumul d’un projet, la valeur de la participation d’un ministère collaborateur au projet est considérée comme faisant partie de la contribution du gouvernement, selon le cas.Considérations pour les ministères qui transfèrent des fondsLes ministères qui envisagent d’appuyer d’autres ministères dans l’avancement d’un projet de paiements de transfert devraient s’assurer que :le transfert de fonds d’un crédit pour subventions et contributions à un crédit de fonctionnement n’est pas utilisé pour des coûts qui ont déjà reçu des crédits parlementaires, comme : les coûts fixes des laboratoires gouvernementauxles coûts salariaux du personnel déjà employéle transfert de fonds n’est utilisé que lorsque la participation au projet représente un coût différentiel pour le ministère collaborateur (par exemple, le coût différentiel de l’utilisation d’une soufflerie pour effectuer un test lorsque l’installation serait autrement inutilisée, ou l’embauche d’un employé pour une période déterminée en remplacement d’un employé salarié qui participe au projet)les fonds transférés ne sont pas utilisés pour mettre à niveau l’équipement de laboratoire ou agrandir l’installation afin de participer au projet financéLes ministères doivent noter que lorsqu’une somme importante des paiements de transfert d’un ministère est transférée aux fonds de F et E d’un autre ministère, ils courent un risque de donner l’impression que ces fonds devraient plutôt être alloués sur une base permanente au budget de F et E.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "Departments should follow these principles related to transfer payments when they participate in collaborative arrangements:",
-    "fr": "Les ententes doivent toujours être examinées par les experts internes du ministère, y compris les services juridiques, avant d’être approuvées."
+    "fr": "Les ministères doivent suivre les principes suivants liés aux paiements de transfert lorsqu’ils participent à des ententes de collaboration :",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "leverage capacity across sectors",
-    "fr": "tirer parti de la capacité entre les secteurs"
+    "en": "Transparency and fairness: When considering potential transfer payment recipients, the assessment and selection process should be open and fair. All parties involved should be transparent about their involvement with potential recipients.Mandate: Federal government departments are restricted to activities that are within their mandate. For example: the activities that federal employees undertake when collaborating on a recipient’s project must be within the mandate of their departmentthe provision of services to a recipient and the recipient’s use of facilities must be within the mandate of the departmentQuestions about a department’s legal authority should be referred to the department’s legal services unit.Security: Departments are responsible for protecting sensitive information and assets under their control. Before entering into a collaboration agreement, departments should consult with their departmental security officials to assess the risk to departmental information and assets to ensure the collaboration agreement includes appropriate provisions in respect of departmental security obligations. The department’s legal services unit should also be consulted on these provisions. For information, please refer to the 2019 Policy on Government Security.Legal liability: Transfer payments are structured as an arm’s-length relationship in which the government’s only role is to provide funds. The objective is to limit legal liability. Where the government’s role, in relation to a recipient’s project, expands beyond providing funds, there is a potential to expose the government to greater liability. Departments that collaborate with a recipient of a transfer payment should consider the following when defining the relationship with the recipient in order to limit their exposure to legal liability: The collaborative agreement between the department and the recipient should clearly define: governanceparties and the nature of the relationship (the agreement should make it clear that it is the recipient’s project)term and locationintellectual property rightsmaintenance and access to recordssharing of resources (employees, equipment)data management, including confidentiality and personal informationpotential conflicts of interestcommunications and publicationjurisdiction and governing lawindemnification and liabilitysecurity termination securityoccupational health and safetyinsuranceother requirements, as deemed necessaryIf the agreement involves the use of space, the agreement should clearly define: the space to be usedthe nature of use and accessany applicable fees Agreements should always be reviewed by the department’s internal experts including legal services unit before approval. Separation: There should be a clear separation between the department that issues the transfer payment and the department that collaborates with the recipient. If the separation is not clear, there is a risk that the transfer payment could be perceived as an acquisition of goods or services by the Government of Canada, i.e. a department paying its O&M costs with transfer payment funds. A reminder that a transfer payment, as defined in the Policy on Transfer Payments, does not result in the acquisition by the Government of any goods, services or assets. Separation is clear when the collaborating department and funding department are not the same. If a single department is both funding a project and collaborating in it, there should be clear separation between the unit that administers the funding agreement and the unit that collaborates in the project. Departments must avoid creating unintended procurement processes (or the perception of a procurement process) when setting up collaboration and transfer payment agreements.Independence: A non-funding department that is considering a collaborative arrangement with a recipient should not be involved in: drafting a proposalassessing projects that are being considered for fundingThe recipient is solely responsible for achieving the expected results of the agreement with the funding department. Non-monetary contributions: Departments must not “contribute” the use of a government facility or the work of a federal government employee to a recipient’s project at no cost in the form of a transfer payment. A non-cash input made by the recipient to its own project could be considered an eligible expenditure provided it is supported under the funding department’s terms and conditions.",
+    "fr": "Transparence et équité : Le processus d’évaluation et de sélection des bénéficiaires éventuels de paiements de transfert devrait être ouvert et équitable. Toutes les parties concernées doivent faire preuve de transparence quant à leur participation auprès des bénéficiaires potentiels.Mandat : Les ministères fédéraux sont limités aux activités qui relèvent de leur mandat. Par exemple : les activités que les fonctionnaires fédéraux entreprennent lorsqu’ils collaborent au projet d’un bénéficiaire doivent s’inscrire dans le mandat de leur ministèrela prestation de services à un bénéficiaire et l’utilisation des installations par ce bénéficiaire doit s’inscrire dans le mandat du ministèreles questions concernant l’autorité juridique d’un ministère doivent être adressées aux services juridiques du ministère.Sécurité : Les ministères sont responsables de protéger les renseignements et les biens de nature délicate qui sont sous leur contrôle. Avant de conclure une entente de collaboration, les ministères devraient consulter leurs agents de sécurité du Ministère pour évaluer le risque pour les renseignements et les biens du Ministère afin de s’assurer que l’entente de collaboration comprend des dispositions appropriées en ce qui concerne les obligations ministérielles en matière de sécurité. L’unité des services juridiques du Ministère devrait également être consultée relativement à ces dispositions. Pour plus de renseignements, veuillez vous reporter à la Politique sur la sécurité du gouvernement de 2019. Responsabilité juridique : Les paiements de transfert sont structurés comme une relation sans lien de dépendance dans laquelle le seul rôle du gouvernement est de fournir des fonds. L’objectif est de limiter la responsabilité légale. Là où le rôle du gouvernement, relativement au projet d’un bénéficiaire, ne se limite pas à fournir des fonds, il est possible d’exposer le gouvernement à une plus grande responsabilité. Les ministères qui collaborent avec un bénéficiaire d’un paiement de transfert doivent tenir compte des éléments suivants lorsqu’ils définissent la relation avec le bénéficiaire afin de limiter leur exposition à une responsabilité juridique : L’entente collaborative entre le ministère et le bénéficiaire devrait clairement définir : la gouvernance les parties et la nature de la relation (l’entente doit indiquer clairement qu’il s’agit du projet du bénéficiaire)la durée et l’emplacementles droits relatifs à la propriété intellectuellel’entretien et l’accès aux dossiers le partage des ressources (employés, équipement)la gestion des données, y compris la confidentialité et les renseignements personnelsles conflits d’intérêts potentiels les communications et la publicationla compétence et le droit applicablel’indemnisation et la responsabilitéla sécurité la garantie de résiliationla santé et sécurité au travailles assurancesles autres exigences, au besoinSi l’entente prévoit l’utilisation d’un espace, elle devrait clairement définir : l’espace à être utilisé la nature de l’utilisation et de l’accèsles frais applicables Les ententes doivent toujours être examinées par les experts internes du ministère, y compris les services juridiques, avant d’être approuvées.Séparation : Il devrait y avoir une distinction claire entre le ministère qui émet le paiement de transfert et le ministère qui collabore avec le bénéficiaire. Si la séparation n’est pas claire, il existe un risque que le paiement de transfert soit perçu comme une acquisition de biens ou de services par le gouvernement du Canada, c’est-à-dire un ministère qui paie ses coûts de F et E avec des fonds de transfert. Il convient de rappeler qu’un paiement de transfert, en vertu de la Politique sur les paiements de transfert, n’a pas pour résultat l’acquisition de biens, de services ou d’actifs par le gouvernement du Canada. La séparation est claire lorsque le ministère collaborateur et le ministère donateur ne sont pas les mêmes. Si un seul ministère finance un projet et y collabore, une séparation claire s’impose entre l’unité qui administre l’entente de financement et l’unité qui collabore au projet. Les ministères doivent éviter de créer des processus d’approvisionnement involontaires (ou donner l’impression d’un processus d’approvisionnement) lorsqu’ils établissent des ententes de collaboration et de paiements de transfert.Indépendance : Un ministère non contributif qui envisage une entente de collaboration avec un bénéficiaire doit s’abstenir de participer aux activités suivantes : rédaction de proposition évaluation des projets dont le financement est envisagéLe bénéficiaire est le seul responsable d’atteindre les résultats espérés de l’entente avec le ministère donateur. Contributions non monétaires : Les ministères ne doivent pas « contribuer » en autorisant l’utilisation d’une installation gouvernementale ni par le travail d’un fonctionnaire fédéral dans le cadre du projet d’un bénéficiaire, sans frais, sous forme de paiement de transfert. Une contribution non-monétaire effectuée par le bénéficiaire au profit de son propre projet pourrait être admissible comme dépense, sous réserve qu’elle soit compatible aux modalités du ministère donateur.",
+    "anchor": "5",
+    "tag": "ul"
   },
   {
-    "en": "transfer knowledge",
-    "fr": "favoriser le transfert de connaissances"
-  },
-  {
-    "en": "further shared objectives",
-    "fr": "participer à l’avancement d’objectifs communs"
-  },
-  {
-    "en": "G&C recipients have not been able to access government expertise and facilities that could help achieve project outcomes",
-    "fr": "Les bénéficiaires de S et C n’ont pas pu obtenir l’expertise gouvernementale ni bénéficier des installations gouvernementales susceptibles de les aider à atteindre les résultats de leur projet"
-  },
-  {
-    "en": "federal government scientists have been prevented from working with colleagues in academia and other levels of government",
-    "fr": "les scientifiques du gouvernement fédéral n’ont pas pu travailler avec des collègues du milieu universitaire et d’autres ordres de gouvernement"
-  },
-  {
-    "en": "collaborate with G&C recipients to build capacity and enhance Canada’s competitiveness",
-    "fr": "collaborer avec les bénéficiaires de S et C pour renforcer les capacités et améliorer la compétitivité du Canada"
-  },
-  {
-    "en": "remain in compliance with the",
-    "fr": "demeurer conformes à la Politique sur les paiements de transfert"
-  },
-  {
-    "en": "collaborate in projects that receive a G&C",
-    "fr": "collaborer à des projets prestataires de S et C"
-  },
-  {
-    "en": "provide services and the use of facilities for funded G&C projects",
-    "fr": "fournir des services et autoriser l’utilisation des installations pour des projets financés par des S et C"
-  },
-  {
-    "en": "comply with all relevant legislation and Treasury Board policy in their interactions with recipients",
-    "fr": "se conformer à toutes les lois pertinentes et aux politiques du Conseil du Trésor dans leurs interactions avec les bénéficiaires"
-  },
-  {
-    "en": "ensure that they follow the principles set out in the",
-    "fr": "se conformer aux principes énoncés dans la"
-  },
-  {
-    "en": "undertakes its project and related activities",
-    "fr": "entreprend son projet et les activités connexes"
-  },
-  {
-    "en": "receives payment for eligible expenses incurred",
-    "fr": "reçoit un paiement pour les dépenses admissibles engagées"
-  },
-  {
-    "en": "is invoiced by the department for services provided",
-    "fr": "est facturé par le ministère pour les services fournis"
-  },
-  {
-    "en": "claims the expenditure from the funding department as part of the G&C project",
-    "fr": "réclame la dépense auprès du ministère contributif dans le cadre du projet financé par S et C"
-  },
-  {
-    "en": "it has the authority to provide the service or the use of a facility to a recipient and to charge for the service",
-    "fr": "le ministère a le pouvoir de fournir le service ou d’accorder l’accès à une installation à un bénéficiaire et que cette prestation soit facturée"
-  },
-  {
-    "en": "the policy requirement for determining and charging fees for the service are followed, for example, an hourly rate for using a wind tunnel to test the design of a vehicle (the recipient is not to be given a reduced rate)",
-    "fr": "l’exigence de la politique visant à établir et à facturer les frais de service est respectée, par exemple, un tarif horaire pour l’utilisation d’une soufflerie pour tester la conception d’un véhicule (le bénéficiaire ne doit pas recevoir de tarif réduit)"
-  },
-  {
-    "en": "the service is equally available to any potential customer (a recipient should not receive a service unless it is available to non-recipients)",
-    "fr": "le service est également accessible à tout client potentiel (le bénéficiaire ne doit pas recevoir de service autrement interdit aux non-bénéficiaires)"
-  },
-  {
-    "en": "the activity and associated expenditure are eligible according to the program’s terms and conditions, before the recipient engages the department for the service",
-    "fr": "l’activité et les dépenses connexes sont admissibles conformément aux modalités du programme, avant que le bénéficiaire ne réclame le service du ministère"
-  },
-  {
-    "en": "services provided by a department are eligible expenses under the funding agreement (for example, “professional services”)",
-    "fr": "les services fournis par un ministère sont des dépenses admissibles en vertu de l’entente de financement (par exemple, « services professionnels »)"
-  },
-  {
-    "en": "Any procurement transaction on the part of recipients are recorded as a separate and distinct accounting entry (that is, separate and distinct from the transfer payment)",
-    "fr": "toute transaction d’approvisionnement de la part des bénéficiaires est comptabilisée comme une écriture comptable distincte (c’est-à-dire distincte du paiement de transfert)"
-  },
-  {
-    "en": "a recipient is not obligated to use the services of a specific department, as such a practice could be perceived as:",
-    "fr": "un bénéficiaire n’est pas tenu d’utiliser les services d’un ministère en particulier, car une telle pratique pourrait être considérée comme :"
-  },
-  {
-    "en": "providing an unfair competitive advantage",
-    "fr": "procurant un avantage concurrentiel injuste"
-  },
-  {
-    "en": "discouraging competition",
-    "fr": "une forme de découragement de la concurrence"
-  },
-  {
-    "en": "the department has the authority to provide the use of a facility to a recipient, at a cost or at no costs.",
-    "fr": "le ministère a le droit d’autoriser l’utilisation d’une installation à un bénéficiaire, au prix coûtant ou sans frais"
-  },
-  {
-    "en": "the arrangement is documented in a collaboration agreement that outlines the roles and responsibilities of the parties and the terms of the collaborator’s participation in the project (the agreement should be reviewed by the department’s legal services unit and procurement unit to ensure that it complies with the appropriate policies and legislation);",
-    "fr": "l’entente est documentée dans une entente de collaboration qui décrit les rôles et responsabilités des parties et les modalités de participation du collaborateur au projet (l’entente doit être examinée par le service juridique du ministère et l’unité d’approvisionnement afin de garantir qu’elle est conforme aux politiques et aux lois pertinentes)"
-  },
-  {
-    "en": "key financial representatives within the department are contacted to determine whether costs related to the collaboration should be accounted for separately, with appropriate internal coding created",
-    "fr": "les principaux représentants financiers du ministère sont consultés pour déterminer si les coûts liés à la collaboration doivent être comptabilisés séparément, et si un codage interne approprié est requis"
-  },
-  {
-    "en": "an estimate of costs to be incurred is made available to any federal department that is:",
-    "fr": "l’estimation des coûts à engager est mise à la disposition de tout ministère fédéral qui :"
-  },
-  {
-    "en": "considering providing funding to a recipient",
-    "fr": "envisage de financer un bénéficiaire"
-  },
-  {
-    "en": "considering participating in the project",
-    "fr": "envisage de participer à un projet"
-  },
-  {
-    "en": "Parliament must approve a transfer of funds between departments",
-    "fr": "le Parlement doit approuver un transfert de fonds entre les ministères"
-  },
-  {
-    "en": "sufficient time for the transfer to be completed taking into consideration the supply cycle",
-    "fr": "un délai suffisant doit être accordé pour que le transfert soit effectué en tenant compte du cycle budgétaire"
-  },
-  {
-    "en": "appropriate policy coverage",
-    "fr": "une autorité politique appropriée"
-  },
-  {
-    "en": "the arrangement is documented in a collaboration agreement to outline:",
-    "fr": "l’entente est documentée dans une entente de collaboration pour décrire :"
-  },
-  {
-    "en": "the roles and responsibilities of the parties",
-    "fr": "les rôles et les responsabilités de toutes les parties"
-  },
-  {
-    "en": "the terms of the collaborator department’s participation in the project",
-    "fr": "les modalités de la participation du ministère collaborateur au projet"
-  },
-  {
-    "en": "the agreement is reviewed by the department’s legal services unit, procurement unit and financial unit to ensure that it complies with appropriate policies and legislation",
-    "fr": "l’entente est examinée par les services juridiques du ministère, le service d’Approvisionnement et le service des finances du ministère pour s’assurer qu’elle est conforme aux politiques et aux lois pertinentes"
-  },
-  {
-    "en": "the transfer of funds from a Grants and Contributions Vote to an Operating Vote is not used for costs that have already received funding appropriated by Parliament, such as:",
-    "fr": "le transfert de fonds d’un crédit pour subventions et contributions à un crédit de fonctionnement n’est pas utilisé pour des coûts qui ont déjà reçu des crédits parlementaires, comme :"
-  },
-  {
-    "en": "fixed costs of government laboratories",
-    "fr": "les coûts fixes des laboratoires gouvernementaux"
-  },
-  {
-    "en": "salary costs for staff already employed",
-    "fr": "les coûts salariaux du personnel déjà employé"
-  },
-  {
-    "en": "the transfer of funds is used only where participation in the project represents an incremental cost to the collaborator department (for example, the incremental cost of running a wind tunnel test when the facility would otherwise be idle, or hiring a term employee to take over the assigned duties of a salaried employee while the salaried employee is participating in the project)",
-    "fr": "le transfert de fonds n’est utilisé que lorsque la participation au projet représente un coût différentiel pour le ministère collaborateur (par exemple, le coût différentiel de l’utilisation d’une soufflerie pour effectuer un test lorsque l’installation serait autrement inutilisée, ou l’embauche d’un employé pour une période déterminée en remplacement d’un employé salarié qui participe au projet)"
-  },
-  {
-    "en": "the transferred funds are not used to upgrade laboratory equipment or expand the facility for the purpose of participating in the funded project",
-    "fr": "les fonds transférés ne sont pas utilisés pour mettre à niveau l’équipement de laboratoire ou agrandir l’installation afin de participer au projet financé"
-  },
-  {
-    "en": "When considering potential transfer payment recipients, the assessment and selection process should be open and fair. All parties involved should be transparent about their involvement with potential recipients.",
-    "fr": "Le processus d’évaluation et de sélection des bénéficiaires éventuels de paiements de transfert devrait être ouvert et équitable. Toutes les parties concernées doivent faire preuve de transparence quant à leur participation auprès des bénéficiaires potentiels."
-  },
-  {
-    "en": "Federal government departments are restricted to activities that are within their mandate. For example:",
-    "fr": "Les ministères fédéraux sont limités aux activités qui relèvent de leur mandat. Par exemple :"
-  },
-  {
-    "en": "the activities that federal employees undertake when collaborating on a recipient’s project must be within the mandate of their department",
-    "fr": "les activités que les fonctionnaires fédéraux entreprennent lorsqu’ils collaborent au projet d’un bénéficiaire doivent s’inscrire dans le mandat de leur ministère"
-  },
-  {
-    "en": "the provision of services to a recipient and the recipient’s use of facilities must be within the mandate of the department",
-    "fr": "la prestation de services à un bénéficiaire et l’utilisation des installations par ce bénéficiaire doit s’inscrire dans le mandat du ministère"
-  },
-  {
-    "en": "Questions about a department’s legal authority should be referred to the department’s legal services unit.",
-    "fr": "les questions concernant l’autorité juridique d’un ministère doivent être adressées aux services juridiques du ministère."
-  },
-  {
-    "en": ": Departments are responsible for protecting sensitive information and assets under their control. Before entering into a collaboration agreement, departments should consult with their departmental security officials to assess the risk to departmental information and assets to ensure the collaboration agreement includes appropriate provisions in respect of departmental security obligations. The department’s legal services unit should also be consulted on these provisions. For information, please refer to the 2019 Policy on Government Security.",
-    "fr": ": Les ministères sont responsables de protéger les renseignements et les biens de nature délicate qui sont sous leur contrôle. Avant de conclure une entente de collaboration, les ministères devraient consulter leurs agents de sécurité du Ministère pour évaluer le risque pour les renseignements et les biens du Ministère afin de s’assurer que l’entente de collaboration comprend des dispositions appropriées en ce qui concerne les obligations ministérielles en matière de sécurité. L’unité des services juridiques du Ministère devrait également être consultée relativement à ces dispositions. Pour plus de renseignements, veuillez vous reporter à la Politique sur la sécurité du gouvernement de 2019."
-  },
-  {
-    "en": "Transfer payments are structured as an arm’s-length relationship in which the government’s only role is to provide funds. The objective is to limit legal liability. Where the government’s role, in relation to a recipient’s project, expands beyond providing funds, there is a potential to expose the government to greater liability. Departments that collaborate with a recipient of a transfer payment should consider the following when defining the relationship with the recipient in order to limit their exposure to legal liability: Agreements should always be reviewed by the department’s internal experts including legal services unit before approval.",
-    "fr": "Les paiements de transfert sont structurés comme une relation sans lien de dépendance dans laquelle le seul rôle du gouvernement est de fournir des fonds. L’objectif est de limiter la responsabilité légale. Là où le rôle du gouvernement, relativement au projet d’un bénéficiaire, ne se limite pas à fournir des fonds, il est possible d’exposer le gouvernement à une plus grande responsabilité. Les ministères qui collaborent avec un bénéficiaire d’un paiement de transfert doivent tenir compte des éléments suivants lorsqu’ils définissent la relation avec le bénéficiaire afin de limiter leur exposition à une responsabilité juridique :"
-  },
-  {
-    "en": "The collaborative agreement between the department and the recipient should clearly define:",
-    "fr": "L’entente collaborative entre le ministère et le bénéficiaire devrait clairement définir :"
-  },
-  {
-    "en": "governance",
-    "fr": "la gouvernance"
-  },
-  {
-    "en": "parties and the nature of the relationship (the agreement should make it clear that it is the recipient’s project)",
-    "fr": "les parties et la nature de la relation (l’entente doit indiquer clairement qu’il s’agit du projet du bénéficiaire)"
-  },
-  {
-    "en": "term and location",
-    "fr": "la durée et l’emplacement"
-  },
-  {
-    "en": "intellectual property rights",
-    "fr": "les droits relatifs à la propriété intellectuelle"
-  },
-  {
-    "en": "maintenance and access to records",
-    "fr": "l’entretien et l’accès aux dossiers"
-  },
-  {
-    "en": "sharing of resources (employees, equipment)",
-    "fr": "le partage des ressources (employés, équipement)"
-  },
-  {
-    "en": "data management, including confidentiality and personal information",
-    "fr": "la gestion des données, y compris la confidentialité et les renseignements personnels"
-  },
-  {
-    "en": "potential conflicts of interest",
-    "fr": "les conflits d’intérêts potentiels"
-  },
-  {
-    "en": "communications and publication",
-    "fr": "les communications et la publication"
-  },
-  {
-    "en": "jurisdiction and governing law",
-    "fr": "la compétence et le droit applicable"
-  },
-  {
-    "en": "indemnification and liability",
-    "fr": "l’indemnisation et la responsabilité"
-  },
-  {
-    "en": "security",
-    "fr": "la sécurité"
-  },
-  {
-    "en": "termination security",
-    "fr": "la garantie de résiliation"
-  },
-  {
-    "en": "occupational health and safety",
-    "fr": "la santé et sécurité au travail"
-  },
-  {
-    "en": "insurance",
-    "fr": "les assurances"
-  },
-  {
-    "en": "other requirements, as deemed necessary",
-    "fr": "les autres exigences, au besoin"
-  },
-  {
-    "en": "If the agreement involves the use of space, the agreement should clearly define:",
-    "fr": "Si l’entente prévoit l’utilisation d’un espace, elle devrait clairement définir :"
-  },
-  {
-    "en": "the space to be used",
-    "fr": "l’espace à être utilisé"
-  },
-  {
-    "en": "the nature of use and access",
-    "fr": "la nature de l’utilisation et de l’accès"
-  },
-  {
-    "en": "any applicable fees",
-    "fr": "les frais applicables"
-  },
-  {
-    "en": "There should be a clear separation between the department that issues the transfer payment and the department that collaborates with the recipient. If the separation is not clear, there is a risk that the transfer payment could be perceived as an acquisition of goods or services by the Government of Canada, i.e. a department paying its O&M costs with transfer payment funds. A reminder that a transfer payment, as defined in the , does not result in the acquisition by the Government of any goods, services or assets. Separation is clear when the collaborating department and funding department are not the same. If a single department is both funding a project and collaborating in it, there should be clear separation between the unit that administers the funding agreement and the unit that collaborates in the project. Departments must avoid creating unintended procurement processes (or the perception of a procurement process) when setting up collaboration and transfer payment agreements.",
-    "fr": "Il devrait y avoir une distinction claire entre le ministère qui émet le paiement de transfert et le ministère qui collabore avec le bénéficiaire. Si la séparation n’est pas claire, il existe un risque que le paiement de transfert soit perçu comme une acquisition de biens ou de services par le gouvernement du Canada, c’est-à-dire un ministère qui paie ses coûts de F et E avec des fonds de transfert. Il convient de rappeler qu’un paiement de transfert, en vertu de de transfert, n’a pas pour résultat l’acquisition de biens, de services ou d’actifs par le gouvernement du Canada. La séparation est claire lorsque le ministère collaborateur et le ministère donateur ne sont pas les mêmes. Si un seul ministère finance un projet et y collabore, une séparation claire s’impose entre l’unité qui administre l’entente de financement et l’unité qui collabore au projet. Les ministères doivent éviter de créer des processus d’approvisionnement involontaires (ou donner l’impression d’un processus d’approvisionnement) lorsqu’ils établissent des ententes de collaboration et de paiements de transfert."
-  },
-  {
-    "en": "A non-funding department that is considering a collaborative arrangement with a recipient should not be involved in:",
-    "fr": "Un ministère non contributif qui envisage une entente de collaboration avec un bénéficiaire doit s’abstenir de participer aux activités suivantes :"
-  },
-  {
-    "en": "drafting a proposal",
-    "fr": "rédaction de proposition"
-  },
-  {
-    "en": "assessing projects that are being considered for funding",
-    "fr": "évaluation des projets dont le financement est envisagé"
-  },
-  {
-    "en": "The recipient is solely responsible for achieving the expected results of the agreement with the funding department.",
-    "fr": "Le bénéficiaire est le seul responsable d’atteindre les résultats espérés de l’entente avec le ministère donateur."
-  },
-  {
-    "en": ": Departments must not “contribute” the use of a government facility or the work of a federal government employee to a recipient’s project at no cost in the form of a transfer payment. A non-cash input made by the recipient to its own project could be considered an eligible expenditure provided it is supported under the funding department’s terms and conditions.",
-    "fr": "Les ministères ne doivent pas « contribuer » en autorisant l’utilisation d’une installation gouvernementale ni par le travail d’un fonctionnaire fédéral dans le cadre du projet d’un bénéficiaire, sans frais, sous forme de paiement de transfert. Une contribution non-monétaire effectuée par le bénéficiaire au profit de son propre projet pourrait être admissible comme dépense, sous réserve qu’elle soit compatible aux modalités du ministère donateur."
-  },
-  {
-    "en": "Members of the public may contact regarding any questions about this guide.",
-    "fr": "Les membres du public peuvent communiquer avec le personnel chargé des s’ils ont des questions à propos du présent guide."
-  },
-  {
-    "en": "Individuals from departments should contact their chief financial officer or departmental transfer payment centre of expertise regarding any questions about this guide.",
-    "fr": "Les représentants des ministères doivent communiquer avec leur dirigeant principal des finances ou leur centre d’expertise ministériel en matière de paiements de transfert pour toute question au sujet du présent guide."
-  },
-  {
-    "en": "The chief financial officer or individuals from a departmental transfer payment centre of expertise may contact for interpretation of this guide.",
-    "fr": "Le dirigeant principal des finances ou les représentants d’un centre d’expertise ministériel en matière de paiements de transfert peuvent communiquer avec pour obtenir une interprétation du présent guide."
+    "en": "Policy on Transfer Payments",
+    "fr": "Politique sur les paiements de transfert",
+    "anchor": "6",
+    "tag": "ul"
   }
 ]

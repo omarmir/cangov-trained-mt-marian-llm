@@ -1,166 +1,146 @@
 [
   {
     "en": "This guideline takes effect on October 1, 2009.",
-    "fr": "La présente ligne directrice entre en vigueur le 1 octobre 2009."
+    "fr": "La présente ligne directrice entre en vigueur le 1er octobre 2009.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "2.1 The purpose of this guideline is to reference the specific legal and policy instruments and information related toaccountable advances, such as interest charges, debt write-off and accounting that are available to departmental officials.",
-    "fr": "2.1 La présente ligne directrice a pour objet d'invoquer des instruments juridiques et des instruments de politique particuliers ainsi que des renseignements sur les avances comptables, comme les frais d'intérêt, la radiation des dettes et la comptabilité auxquels ont accès les responsables ministériels."
+    "fr": "2.1 La présente ligne directrice a pour objet d'invoquer des instruments juridiques et des instruments de politique particuliers ainsi que des renseignements sur les avances comptables, comme les frais d'intérêt, la radiation des dettes et la comptabilité auxquels ont accès les responsables ministériels.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "2.2 This guideline supports the (hereafter the Directive) and Accountable Advances Regulations (hereafter the Regulations).",
-    "fr": "2.2 La présente ligne directrice appuie la (ci-après appelée la directive) et le (ci-après appelé le règlement)."
+    "en": "2.2 This guideline supports the Directive on Accountable Advances (hereafter the Directive) and Accountable Advances Regulations (hereafter the Regulations).",
+    "fr": "2.2 La présente ligne directrice appuie la Directive sur les avances comptables (ci-après appelée la directive) et le Règlement sur les avances comptables (ci-après appelé le règlement).",
+    "anchor": "2",
+    "tag": "p"
   },
   {
     "en": "2.3 Though this guideline complements the Directive and the Regulations, it does not present new mandatory requirements; rather, it reflects an existing obligation under an act, regulation, policy, directive, standard or other authority.",
-    "fr": "2.3 Même si la présente ligne directrice complète la directive et le règlement, elle n'expose pas les nouvelles exigences obligatoires; au contraire, elle reflète une obligation existante en vertu d'une loi, d'un règlement, d'une politique, d'une directive, d'une norme ou d'une autre autorisation."
+    "fr": "2.3 Même si la présente ligne directrice complète la directive et le règlement, elle n'expose pas les nouvelles exigences obligatoires; au contraire, elle reflète une obligation existante en vertu d'une loi, d'un règlement, d'une politique, d'une directive, d'une norme ou d'une autre autorisation.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Definitions for accountable advances, standing advances, petty cash funds and other terms used in this guideline are included in the .",
-    "fr": "Les définitions des avances comptables, des avances permanentes, des fonds de petite caisse et des autres termes utilisés dans la présente ligne directrice figurent au Règlement sur les avances comptables."
+    "en": "Definitions for accountable advances, standing advances, petty cash funds and other terms used in this guideline are included in the Accountable Advances Regulations.",
+    "fr": "Les définitions des avances comptables, des avances permanentes, des fonds de petite caisse et des autres termes utilisés dans la présente ligne directrice figurent au Règlement sur les avances comptables.",
+    "anchor": "3",
+    "tag": "p"
   },
   {
     "en": "This section identifies a number of transactions that are not subject to or covered by the Directive or the Regulations, namely the following:",
-    "fr": "La présente section indique un certaines transactions qui sont ni couvertes par la directive et le règlement, notamment :"
+    "fr": "La présente section indique un certaines transactions qui sont ni couvertes par la directive et le règlement, notamment :",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "Advance contract payments, which are governed by the Government Contracts Regulations; Advance contributions payments, which are governed by the Directive on Transfer Payments; andPrepaid real property transactions, which are governed by theFederal Real Property and Federal Immovables Act or its related regulations.All of the above transactions are processed according to the Directive on Payment Requisitioning and Cheque Control",
+    "fr": "Les avances contractuelles qui sont régies par le Règlement sur les marchés de l'État;Les avances de contributions qui sont régies par la Directive sur les paiements de transfert;Les transactions immobilières payées à l'avance qui sont régies par la Loi sur les immeubles fédéraux et les biens réels fédéraux ou son règlement connexe.Toutes les transactions mentionnées ci-dessus sont traitées conformément à la Directive sur les demandes de paiement et contrôle des chèques.",
+    "anchor": "4",
+    "tag": "ul"
   },
   {
     "en": "This section identifies a number of limitations and requirements under various acts, regulations, policies, directives, standards and collective agreements that may affect accountable advances.",
-    "fr": "La présente section indique un certain nombre de limites et d'exigences en vertu de divers règlements, lois, politiques, directives, normes et conventions collectives susceptibles d'influer sur les avances comptables."
+    "fr": "La présente section indique un certain nombre de limites et d'exigences en vertu de divers règlements, lois, politiques, directives, normes et conventions collectives susceptibles d'influer sur les avances comptables.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
     "en": "5.1 Detailed requirements pertaining to the following items are specified in the Accountable Advances Regulations and are to be adhered to:",
-    "fr": "5.1 Les exigences détaillées concernant les éléments ci-dessous sont précisées dans le Règlement sur les avances comptables et il faut les respecter."
+    "fr": "5.1 Les exigences détaillées concernant les éléments ci-dessous sont précisées dans le Règlement sur les avances comptables et il faut les respecter.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "5.2 Interest charges on advances that are not settled within the time period specified in the Accountable Advances Regulations and charges to be levied when a dishonoured instrument is received as reimbursement of an accountable advance are specified in the .",
-    "fr": "5.2 Les frais d'intérêt sur les avances qui ne sont pas réglés dans le délai fixé au Règlement sur les avances comptables et les frais à imposer lorsqu'un effet refusé est reçu comme remboursement d'une avance comptable sont précisés dans le ."
+    "en": "Purposes for which accountable advances may or may not be issued;Limits to the amount of petty cash funds and to the individual expense amount from petty cash funds;Time limits and the form of accounting;Authority for recovery according to subsection 38(2) of the Financial Administration Act;Reporting requirements; andOther requirements, such as record keeping.",
+    "fr": "Fins auxquelles les avances comptables peuvent ou ne peuvent pas êtres émises;Limites du montant des fonds de petite caisse et du montant des dépenses personnelles susceptibles d'être effectuées à partir des fonds de petite caisse;Délais et la forme comptable;L'autorisation de recouvrer des fonds conformément au paragraphe 38(2) de la Loi sur la gestion des finances publiques;Exigences en matière présentation de rapports;Autres exigences, comme la tenue de dossiers.",
+    "anchor": "5",
+    "tag": "ul"
   },
   {
-    "en": "5.3 The specify that the approval of the Treasury Board is required to write off any accountable advance.",
-    "fr": "5.3 Le précise que le Conseil du Trésor doit approuver la radiation de toute avance comptable."
+    "en": "5.2 Interest charges on advances that are not settled within the time period specified in the Accountable Advances Regulations and charges to be levied when a dishonoured instrument is received as reimbursement of an accountable advance are specified in the Interest and Administrative Charges Regulations.",
+    "fr": "5.2 Les frais d'intérêt sur les avances qui ne sont pas réglés dans le délai fixé au Règlement sur les avances comptables et les frais à imposer lorsqu'un effet refusé est reçu comme remboursement d'une avance comptable sont précisés dans le Règlement sur les intérêts et les frais administratifs.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "5.3 The Debt Write-off Regulations, 1994 specify that the approval of the Treasury Board is required to write off any accountable advance.",
+    "fr": "5.3 Le Règlement sur la radiation des créances (1994) précise que le Conseil du Trésor doit approuver la radiation de toute avance comptable.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
     "en": "5.4 Certain types of accountable advances, when applicable to the department, are governed by specific legal and policy instruments. Those advances and the corresponding instrument to which their issuance is subject are as follows:",
-    "fr": "5.4 Certains types d'avances comptables applicables au ministère sont régis par des instruments juridiques et des instruments de politique particuliers. Ces avances et l'instrument correspondant auquel leur émission est assujettie sont :"
+    "fr": "5.4 Certains types d'avances comptables applicables au ministère sont régis par des instruments juridiques et des instruments de politique particuliers. Ces avances et l'instrument correspondant auquel leur émission est assujettie sont :",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "5.4.1 Travel advances are covered in the ;",
-    "fr": "5.4.1 Les avances de voyage qui sont couvertes par la ;"
+    "en": "5.4.1 Travel advances are covered in the Travel Directive;5.4.2 Relocation advances are covered in the Integrated Relocation Directive;5.4.3 Vacation travel assistance, non-elective medical or dental treatment, relocation, compassionate travel and bereavement travel are covered in the Isolated Posts and Government Housing Directive;5.4.4 Medical and dental expenses, security deposits, public utilities and other advances are covered in the Foreign Service Directives;5.4.5 Vacation pay advances are covered in collective agreements;5.4.6 Emergency salary advances are covered in the Directive on Terms and Conditions of Employment; 5.4.7 Medical advances to locally-engaged staff are covered in the Locally-Engaged Staff Terms and Conditions Regulations;5.4.8 Travel and moving advances to members of the Canadian Forces are covered in the Accountable Travel and Moving Advance Regulations (Canadian Forces);5.4.9 Education and travel advances to members of the Canadian Forces for travel and education of dependants are covered in the Accountable Education and Travel Advance Regulations (Dependants of Members of the Canadian Forces);5.4.10 Travel and moving advances to members of the Canadian Forces for travel and moving of dependants are covered in the Accountable Travel and Moving Advance Regulations (Dependants of Members of the Canadian Forces);5.4.11 The loss of traveller's cheques received as travel advances is covered in the Directive on Travel Cards and Traveller Cheques; and5.4.12 The conditions under which recovery of a lost accountable advance can be waived are covered in subsections 6.1.5, 6.1.6 and 6.1.7 of the Directive on Losses of Money or Property.",
+    "fr": "5.4.1 Les avances de voyage qui sont couvertes par la Directive sur les voyages;5.4.2 Les avances pour frais de déménagement qui sont couvertes par laDirective sur la réinstallation intégrée;5.4.3 La prestation d'aide au titre des voyages, le traitement médical ou dentaire non facultatif, la réinstallation, les congés de compassion et de décès qui sont couverts par la Directive sur les logements isolés et les logements de l'État;5.4.4 Les frais médicaux et dentaires, les dépôts de garantie, les services publics et les autres avances qui sont couverts par les Directives sur le service extérieur;5.4.5 La rémunération anticipée des congés annuels qui est couverte par lesconventions collectives;5.4.6 Les avances de salaire d'urgence qui sont couvertes par la Directive sur les conditions d'emploi;5.4.7 Les avances pour frais médicaux faites au personnel recruté sur place qui sont couvertes par le Règlement régissant les conditions d'emploi du personnel recruté sur place;5.4.8 Les avances pour frais de voyage et de déménagement des membres des Forces canadiennes qui sont couvertes par le Règlement sur les avances comptables pour frais de voyage et de déménagement (Forces canadiennes);5.4.9 Les avances pour frais d'études et de voyage faites aux membres des Forces canadiennes au titre de leurs personnes à charge qui sont couvertes par le Règlement sur les avances comptables pour frais d'études et de voyage (personnes à charge des membres des Forces canadiennes);5.4.10 Les avances pour frais de voyage et de déménagement faites aux membres des Forces canadiennes au titre de leurs personnes à charge qui sont couvertes par le Règlement sur les avances comptables pour frais de voyage et de déménagement (personnes à charge des membres des Forces canadiennes);5.4.11 La perte de chèques de voyage reçus au titre d'avances de voyage qui est couverte par la Directive sur les cartes de voyage et chèques de voyage;5.4.12 Les conditions dans lesquelles on peut renoncer au recouvrement d'une avance comptable perdue qui sont couvertes par les sections 6.1.5, 6.1.6 et 6.1.7 de la Directive sur les pertes de fonds et de biens.",
+    "anchor": "5",
+    "tag": "div"
   },
   {
-    "en": "5.4.2 Relocation advances are covered in the ;",
-    "fr": "5.4.2 Les avances pour frais de déménagement qui sont couvertes par la ;"
+    "en": "5.5 Accountable advances are recorded and coded according to instructions contained in Section 3.2.3 of the Financial Information Strategy (FIS) Accounting Manual and in the Government-wide Chart of Accounts for Canada.",
+    "fr": "5.5 Les avances comptables sont consignées et encodées conformément aux directives contenues dans la section 3.2.3 du Manuel de comptabilité selon la Stratégie d'information financière (SIF) et le Plan comptable à l'échelle de l'administration fédérale.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
-    "en": "5.4.3 Vacation travel assistance, non-elective medical or dental treatment, relocation, compassionate travel and bereavement travel are covered in the ;",
-    "fr": "5.4.3 La prestation d'aide au titre des voyages, le traitement médical ou dentaire non facultatif, la réinstallation, les congés de compassion et de décès qui sont couverts par la ;"
-  },
-  {
-    "en": "5.4.4 Medical and dental expenses, security deposits, public utilities and other advances are covered in the ;",
-    "fr": "5.4.4 Les frais médicaux et dentaires, les dépôts de garantie, les services publics et les autres avances qui sont couverts par les ;"
-  },
-  {
-    "en": "5.4.5 Vacation pay advances are covered in ;",
-    "fr": "5.4.5 La rémunération anticipée des congés annuels qui est couverte par les ;"
-  },
-  {
-    "en": "5.4.6 Emergency salary advances are covered in the ;",
-    "fr": "5.4.6 Les avances de salaire d'urgence qui sont couvertes par la ;"
-  },
-  {
-    "en": "5.4.7 Medical advances to locally-engaged staff are covered in the Locally-Engaged Staff Terms and Conditions Regulations;",
-    "fr": "5.4.7 Les avances pour frais médicaux faites au personnel recruté sur place qui sont couvertes par le Règlement régissant les conditions d'emploi du personnel recruté sur place;"
-  },
-  {
-    "en": "5.4.8 Travel and moving advances to members of the Canadian Forces are covered in the ;",
-    "fr": "5.4.8 Les avances pour frais de voyage et de déménagement des membres des Forces canadiennes qui sont couvertes par le ;"
-  },
-  {
-    "en": "5.4.9 Education and travel advances to members of the Canadian Forces for travel and education of dependants are covered in the ;",
-    "fr": "5.4.9 Les avances pour frais d'études et de voyage faites aux membres des Forces canadiennes au titre de leurs personnes à charge qui sont couvertes par le ;"
-  },
-  {
-    "en": "5.4.10 Travel and moving advances to members of the Canadian Forces for travel and moving of dependants are covered in the ;",
-    "fr": "5.4.10 Les avances pour frais de voyage et de déménagement faites aux membres des Forces canadiennes au titre de leurs personnes à charge qui sont couvertes par le ;"
-  },
-  {
-    "en": "5.4.11 The loss of traveller's cheques received as travel advances is covered in the ; and",
-    "fr": "5.4.11 La perte de chèques de voyage reçus au titre d'avances de voyage qui est couverte par la ;"
-  },
-  {
-    "en": "5.4.12 The conditions under which recovery of a lost accountable advance can be waived are covered in subsections 6.1.5, 6.1.6 and 6.1.7 of the .",
-    "fr": "5.4.12 Les conditions dans lesquelles on peut renoncer au recouvrement d'une avance comptable perdue qui sont couvertes par les sections 6.1.5, 6.1.6 et 6.1.7 de la ."
-  },
-  {
-    "en": "5.5 Accountable advances are recorded and coded according to instructions contained in Section 3.2.3 of the and in the",
-    "fr": "5.5 Les avances comptables sont consignées et encodées conformément aux directives contenues dans la section 3.2.3 du et le ."
-  },
-  {
-    "en": "5.6 Petty cash and change funds are to be safeguarded at all times according to the and its related standards and as advised by the departmental security officer.",
-    "fr": "5.6 Les fonds de et d'appoint doivent être rangés en lieu sûr en tout temps, conformément à la et à ses normes connexes, tel que le conseille l'agent de sécurité ministérielle."
+    "en": "5.6 Petty cash and change funds are to be safeguarded at all times according to the Policy on Government Security and its related standards and as advised by the departmental security officer.",
+    "fr": "5.6 Les fonds de petite caisse et d'appoint doivent être rangés en lieu sûr en tout temps, conformément à la Politique sur la sécurité du gouvernement et à ses normes connexes, tel que le conseille l'agent de sécurité ministérielle.",
+    "anchor": "5",
+    "tag": "p"
   },
   {
     "en": "5.7 Accountable advances are to be reported at year-end in accordance with Chapter 14, \"Year End Timetable and Procedures,\" and Chapter 15, \"Public Accounts Instructions,\" of the Receiver General Manual.",
-    "fr": "5.7 Les avances comptables doivent être déclarées à la fin de l'exercice, conformément au chapitre 14, « Calendrier et procédures de fin d'exercice », et au chapitre 15, « Procédures des comptes publics », du Manuel du receveur général."
+    "fr": "5.7 Les avances comptables doivent être déclarées à la fin de l'exercice, conformément au chapitre 14, « Calendrier et procédures de fin d'exercice », et au chapitre 15, « Procédures des comptes publics », du Manuel du receveur général.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Financial Administration Act sections 2, 7, 38 and 78 and subsection 76(4)Accountable Advances RegulationsDebt Write-off Regulations, 1994Interest and Administrative Charges RegulationsReceipt and Deposit of Public Money Regulations, 1997Accountable Travel and Moving Advance Regulations (Canadian Forces)Accountable Education and Travel Advance Regulations (Dependants of Members of the Canadian Forces)Accountable Travel and Moving Advance Regulations (Dependants of Members of the Canadian Forces)",
+    "fr": "Loi sur la gestion des finances publiques; articles 2, 7, 38 et 78, et paragraphe 76(4)Règlement sur les avances comptablesRèglement sur la radiation des créances (1994)Règlement sur les intérêts et les frais administratifsRèglement de 1997 sur la réception et le dépôt des fonds publicsRèglement sur les avances comptables pour frais de voyage et de déménagement (Forces canadiennes)Règlement sur les avances comptables pour frais d'études et de voyage (personnes à charge des membres des Forces canadiennes)Règlement sur les avances comptables pour frais de voyage et de déménagement (personnes à charge des membres des Forces canadiennes)",
+    "anchor": "6",
+    "tag": "chapter"
+  },
+  {
+    "en": "Directive on Losses of Money and PropertyDirective on Receipt, Deposit and Recording of MoneyDirective on Terms and Conditions of EmploymentContracting PolicyTravel DirectiveIntegrated Relocation DirectiveIsolated Post and Government Housing DirectiveForeign Service DirectivesLocally-Engaged Staff Terms and Conditions RegulationsCollective AgreementsFinancial Information Strategy (FIS) Accounting ManualGovernment-wide Chart of Accounts for Canada",
+    "fr": "Politique sur les marchésDirective sur les pertes de fonds et de biensDirective sur les rentrées, dépôt et comptabilisation des rentrées de fondsDirective sur les conditions d'emploiDirective sur les voyagesDirective sur la réinstallation intégréeDirective sur les logements isolés et les logements de l'ÉtatDirectives sur le service extérieurRèglement régissant les conditions d'emploi du personnel recruté sur placeConventions collectivesManuel de comptabilité selon la Stratégie d'information financière (SIF)Plan comptable à l'échelle de l'administration fédérale",
+    "anchor": "6",
+    "tag": "chapter"
+  },
+  {
+    "en": "Financial Administration Act sections 2, 7, 38 and 78 and subsection 76(4)Accountable Advances RegulationsDebt Write-off Regulations, 1994Interest and Administrative Charges RegulationsReceipt and Deposit of Public Money Regulations, 1997Accountable Travel and Moving Advance Regulations (Canadian Forces)Accountable Education and Travel Advance Regulations (Dependants of Members of the Canadian Forces)Accountable Travel and Moving Advance Regulations (Dependants of Members of the Canadian Forces)",
+    "fr": "Loi sur la gestion des finances publiques; articles 2, 7, 38 et 78, et paragraphe 76(4)Règlement sur les avances comptablesRèglement sur la radiation des créances (1994)Règlement sur les intérêts et les frais administratifsRèglement de 1997 sur la réception et le dépôt des fonds publicsRèglement sur les avances comptables pour frais de voyage et de déménagement (Forces canadiennes)Règlement sur les avances comptables pour frais d'études et de voyage (personnes à charge des membres des Forces canadiennes)Règlement sur les avances comptables pour frais de voyage et de déménagement (personnes à charge des membres des Forces canadiennes)",
+    "anchor": "6.1",
+    "tag": "ul"
+  },
+  {
+    "en": "Directive on Losses of Money and PropertyDirective on Receipt, Deposit and Recording of MoneyDirective on Terms and Conditions of EmploymentContracting PolicyTravel DirectiveIntegrated Relocation DirectiveIsolated Post and Government Housing DirectiveForeign Service DirectivesLocally-Engaged Staff Terms and Conditions RegulationsCollective AgreementsFinancial Information Strategy (FIS) Accounting ManualGovernment-wide Chart of Accounts for Canada",
+    "fr": "Politique sur les marchésDirective sur les pertes de fonds et de biensDirective sur les rentrées, dépôt et comptabilisation des rentrées de fondsDirective sur les conditions d'emploiDirective sur les voyagesDirective sur la réinstallation intégréeDirective sur les logements isolés et les logements de l'ÉtatDirectives sur le service extérieurRèglement régissant les conditions d'emploi du personnel recruté sur placeConventions collectivesManuel de comptabilité selon la Stratégie d'information financière (SIF)Plan comptable à l'échelle de l'administration fédérale",
+    "anchor": "6.2",
+    "tag": "ul"
   },
   {
     "en": "Please direct enquiries about this guideline to your departmental headquarters. For interpretation of this guideline, departmental headquarters should contact:",
-    "fr": "Prière de diriger les demandes de renseignements au sujet de la présente ligne directrice à l'administration centrale de votre ministère. Pour l'interprétation de la ligne directrice, l'administration centrale ministérielle doit communiquer avec :"
+    "fr": "Prière de diriger les demandes de renseignements au sujet de la présente ligne directrice à l'administration centrale de votre ministère. Pour l'interprétation de la ligne directrice, l'administration centrale ministérielle doit communiquer avec :",
+    "anchor": "7",
+    "tag": "p"
   },
   {
-    "en": "Financial Management Policy Division Financial Management and Analysis Sector Office of the Comptroller General Treasury Board Secretariat Ottawa ON K1A 0R5",
-    "fr": "Division de la politique de gestion financière Secteur de la gestion financière et de l'analyse Bureau du contrôleur général Secrétariat du Conseil du Trésor Ottawa (ON) K1A 0R5"
+    "en": "Financial Management Policy DivisionFinancial Management and Analysis SectorOffice of the Comptroller GeneralTreasury Board SecretariatOttawa ON K1A 0R5",
+    "fr": "Division de la politique de gestion financièreSecteur de la gestion financière et de l'analyseBureau du contrôleur généralSecrétariat du Conseil du TrésorOttawa (ON) K1A 0R5",
+    "anchor": "7",
+    "tag": "p"
   },
   {
-    "en": "Email: Telephone: 613-957-7233 Fax: 613-952-9613",
-    "fr": "Courriel : Téléphone : 613-957-7233 Télécopieur : 613-952-9613"
-  },
-  {
-    "en": "Advance contract payments, which are governed by the ;",
-    "fr": "Les avances contractuelles qui sont régies par le ;"
-  },
-  {
-    "en": "Advance contributions payments, which are governed by the ; and",
-    "fr": "Les avances de contributions qui sont régies par la ;"
-  },
-  {
-    "en": "Prepaid real property transactions, which are governed by the or its related regulations.",
-    "fr": "Les transactions immobilières payées à l'avance qui sont régies par la ou son règlement connexe."
-  },
-  {
-    "en": "All of the above transactions are processed according to the",
-    "fr": "Toutes les transactions mentionnées ci-dessus sont traitées conformément à la ."
-  },
-  {
-    "en": "Purposes for which accountable advances may or may not be issued;",
-    "fr": "Fins auxquelles les avances comptables peuvent ou ne peuvent pas êtres émises;"
-  },
-  {
-    "en": "Limits to the amount of petty cash funds and to the individual expense amount from petty cash funds;",
-    "fr": "Limites du montant des fonds de petite caisse et du montant des dépenses personnelles susceptibles d'être effectuées à partir des fonds de petite caisse;"
-  },
-  {
-    "en": "Time limits and the form of accounting;",
-    "fr": "Délais et la forme comptable;"
-  },
-  {
-    "en": "Authority for recovery according to subsection 38(2) of the ;",
-    "fr": "L'autorisation de recouvrer des fonds conformément au paragraphe 38(2) de la ;"
-  },
-  {
-    "en": "Reporting requirements; and",
-    "fr": "Exigences en matière présentation de rapports;"
-  },
-  {
-    "en": "Other requirements, such as record keeping.",
-    "fr": "Autres exigences, comme la tenue de dossiers."
-  },
-  {
-    "en": "sections 2, 7, 38 and 78 and subsection 76(4)",
-    "fr": "; articles 2, 7, 38 et 78, et paragraphe 76(4)"
-  },
-  {
-    "en": "Locally-Engaged Staff Terms and Conditions Regulations",
-    "fr": "Règlement régissant les conditions d'emploi du personnel recruté sur place"
+    "en": "Email: fin-www@tbs-sct.gc.caTelephone: 613-957-7233Fax: 613-952-9613",
+    "fr": "Courriel : fin-www@tbs-sct.gc.caTéléphone : 613-957-7233Télécopieur : 613-952-9613",
+    "anchor": "7",
+    "tag": "p"
   }
 ]

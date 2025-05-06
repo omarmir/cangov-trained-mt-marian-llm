@@ -1,322 +1,98 @@
 [
   {
     "en": "New accounting standard PS 3450 Financial Instrumentsrequires that certain contracts be reviewed to identify embedded derivatives that may require separate accounting treatment (PS 3450.14).",
-    "fr": "La nouvelle norme comptable SP 3450 Instruments financiers exige que certains contrats soient examinés afin de recenser les dérivés incorporés qui pourraient nécessiter un traitement comptable distinct (SP 3450.14)."
+    "fr": "La nouvelle norme comptable SP 3450 Instruments financiers exige que certains contrats soient examinés afin de recenser les dérivésincorporés qui pourraient nécessiter un traitement comptable distinct (SP 3450.14).",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "An is a provision in a contract that causes the cash flows to vary, either based on an underlying measure, such as an inflation index, foreign exchange rate or commodity price, or due to an optional term. A provision is called an embedded derivative if it meets the definition of a stand-alone derivative.",
-    "fr": "Un est une disposition d’un contrat qui fait varier les flux de trésorerie, soit sur la base d’une mesure sous-jacente, comme un indice d’inflation, un taux de change ou un prix de marchandise, soit en raison d’un terme facultatif. Cette disposition est appelée « dérivé incorporé » si elle répond à la définition d’un dérivé autonome."
+    "en": "An embedded derivative is a provision in a contract that causes the cash flows to vary, either based on an underlying measure, such as an inflation index, foreign exchange rate or commodity price, or due to an optional term. A provision is called an embedded derivative if it meets the definition of a stand-alone derivative.",
+    "fr": "Un dérivé incorporé est une disposition d’un contrat qui fait varier les flux de trésorerie, soit sur la base d’une mesure sous-jacente, comme un indice d’inflation, un taux de change ou un prix de marchandise, soit en raison d’un terme facultatif. Cette disposition est appelée « dérivé incorporé » si elle répond à la définition d’un dérivé autonome.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "Embedded derivatives have the same characteristics as derivatives but are incorporated into a host contract. Embedded derivatives change the way that risk is distributed among the parties to the contract. Such embedded derivatives are found in many types of host contracts, such as leases, insurance contracts and multi-year purchase agreements. For example, a lease agreement with future rent increases based on the consumer price index (CPI) is a host contract with an embedded derivative, by which the lessor transfers inflation risk to the lessee.",
-    "fr": "Les dérivés incorporés ont les mêmes caractéristiques que les dérivés, mais ils sont incorporés dans un contrat hôte. Les dérivés incorporés modifient la manière dont le risque est réparti entre les parties au contrat. De telles dispositions se retrouvent dans de nombreux types de contrats hôtes, comme les contrats de location, les contrats d’assurance et les contrats d’achat pluriannuels. Par exemple, un contrat de location comportant des augmentations de loyer futures fondées sur l’indice des prix à la consommation (IPC) est un contrat hôte avec un dérivé incorporé, par lequel le bailleur transfère le risque d’inflation au locataire."
+    "fr": "Les dérivés incorporés ont les mêmes caractéristiques que les dérivés, mais ils sont incorporés dans un contrat hôte. Les dérivés incorporés modifient la manière dont le risque est réparti entre les parties au contrat. De telles dispositions se retrouvent dans de nombreux types de contrats hôtes, comme les contrats de location, les contrats d’assurance et les contrats d’achat pluriannuels. Par exemple, un contrat de location comportant des augmentations de loyer futures fondées sur l’indice des prix à la consommation (IPC) est un contrat hôte avec un dérivé incorporé, par lequel le bailleur transfère le risque d’inflation au locataire.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "The may be a financial or non-financial contract that is in the scope of PS 3450. Embedded derivatives in such host contracts should be identified. However, they are accounted for separately as derivatives their economic characteristics are closely related to those of the host contract.",
-    "fr": "Le peut être un contrat financier ou non financier qui relève de la portée du chapitre SP 3450. Il convient d’identifier les dérivés incorporés dans ces contrats hôtes. Toutefois, ils ne sont comptabilisés séparément en tant que dérivés leurs caractéristiques économiques ne sont étroitement liées à celles du contrat hôte."
+    "en": "The host contract may be a financial or non-financial contract that is in the scope of PS 3450. Embedded derivatives in such host contracts should be identified. However, they are accounted for separately as derivatives only when their economic characteristics are not closely related to those of the host contract.",
+    "fr": "Le contrat hôte peut être un contrat financier ou non financier qui relève de la portée du chapitre SP 3450. Il convient d’identifier les dérivés incorporés dans ces contrats hôtes. Toutefois, ils ne sont comptabilisés séparément en tant que dérivés que lorsque leurs caractéristiques économiques ne sont pas étroitement liées à celles du contrat hôte.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "This document explains which contracts are in the scope of PS 3450 and provides an overview of the common, variable cash-flow features that may indicate the existence of embedded derivatives and whether they are closely related to the host contract.",
-    "fr": "Le présent document explique quels contrats sont visés par le chapitre SP 3450 et donne un aperçu des caractéristiques courantes des flux de trésorerie variables qui peuvent indiquer l’existence de dérivés incorporés et de la question de savoir si ces contrats sont étroitement liés au contrat hôte."
+    "fr": "Le présent document explique quels contrats sont visés par le chapitre SP 3450 et donne un aperçu des caractéristiques courantes des flux de trésorerie variables qui peuvent indiquer l’existence de dérivés incorporés et de la question de savoir si ces contrats sont étroitement liés au contrat hôte.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "These requirements apply prospectively to new contracts entered into on or after April 1, 2022, or to amendments to existing contracts where the amendment causes a significant change to the cash flows under the contract after April 1, 2022.",
-    "fr": "Ces exigences s’appliquent prospectivement uniquement aux nouveaux contrats conclus à partir du 1er avril 2022, ou aux modifications apportées aux contrats existants lorsque la modification entraîne une modification importante des flux de trésorerie aux termes du contrat après le 1er avril 2022."
+    "en": "1.1 TimingThese requirements apply prospectively to new contracts entered into on or after April 1, 2022, or to amendments to existing contracts where the amendment causes a significant change to the cash flows under the contract after April 1, 2022.",
+    "fr": "1.1 ÉchéancierCes exigences s’appliquent prospectivement uniquement aux nouveaux contrats conclus à partir du 1er avril 2022, ou aux modifications apportées aux contrats existants lorsque la modification entraîne une modification importante des flux de trésorerie aux termes du contrat après le 1er avril 2022.",
+    "anchor": "1",
+    "tag": "section"
   },
   {
-    "en": "Departments must review all contracts worth $10 million or more. Accounting policies need not be applied to immaterial items. Departments may establish thresholds for contracts below $10 million based on materiality.",
-    "fr": "Les ministères doivent examiner tous les contrats d’une valeur de 10 millions de dollars ou plus. Il n’est pas nécessaire d’appliquer les méthodes comptables aux éléments non significatifs. Les ministères peuvent établir un seuil pour les contrats d’une valeur de moins de 10 millions de dollars en fonction de leur importance relative."
+    "en": "1.2 MaterialityDepartments must review all contracts worth $10 million or more. Accounting policies need not be applied to immaterial items. Departments may establish thresholds for contracts below $10 million based on materiality.",
+    "fr": "1.2 ImportanceLes ministères doivent examiner tous les contrats d’une valeur de 10 millions de dollars ou plus. Il n’est pas nécessaire d’appliquer les méthodes comptables aux éléments non significatifs. Les ministères peuvent établir un seuil pour les contrats d’une valeur de moins de 10 millions de dollars en fonction de leur importance relative.",
+    "anchor": "1",
+    "tag": "section"
   },
   {
     "en": "Contracts that are excluded from the scope of PS 3450 do not need to be reviewed for embedded derivatives.",
-    "fr": "Les contrats qui sont exclus du champ d’application du chapitre SP 3450 n’ont pas besoin d’être examinés pour les dérivés incorporés."
+    "fr": "Les contrats qui sont exclus du champ d’application du chapitre SP 3450 n’ont pas besoin d’être examinés pour les dérivés incorporés.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "The following flow chart may be used to decide whether to review contracts for the purchase or sale of goods or services for embedded derivatives.",
-    "fr": "Le diagramme suivant peut servir à décider d’examiner ou non les contrats d’achat ou de vente de biens ou de services pour les dérivés incorporés."
+    "en": "2.1 Contracts for the purchase or sale of goods or servicesThe following flow chart may be used to decide whether to review contracts for the purchase or sale of goods or services for embedded derivatives.Figure 1: flow chart to determine whether to review contracts for embedded derivativesFigure 1 - Text versionDoes the contract exceed the established materiality threshold? If no, no further action required.If yes, is the contract a commodity contract* or a public-private partnership (P3) agreement? If yes, assess the contract for embedded derivatives or as a stand-alone derivative.If no, is the contract an “own use” contract or a contract for which payments are based on volumes of sales or revenues of one of the parties to the contract? If no, assess the contract for embedded derivatives or as a stand-alone derivative.If yes, no further action required.* Entities have the option to first analyze the commodity contract to determine whether it meets the definition of an own use contract, that is, whether the quantities are not in excess of the entity’s purchase or usage requirements, in order to exclude the contract from the review for embedded derivatives.Commodities are goods or raw materials that can be bought, sold, or traded. As basic goods, commodities, such as oil, metals and agricultural goods, are interchangeable with other goods in the same category.According to PS 3450.A13:Some contracts to buy or sell non-financial items that can be settled net or by exchanging financial instruments, or in which the non-financial item is readily convertible to cash, are within the scope of this Section as if they were financial instruments.As commodities are readily convertible to cash, commodity purchase or sale contracts may be derivatives in their entirety or fail the own use exemption. Consequently, it is advised to include such contracts in the contract review, although entities may instead determine whether the contract meets the own use exemption as noted above.Table 1: types of contracts excluded from the scope of the review for embedded derivativesType of contract DescriptionOwn use contracts (PS 3450.03(p))Contracts to buy or sell non-financial items when quantities are in accordance with a department’s expected purchase, sale or usage requirements. Such contracts include: contracts for goods or services purchased in accordance with the department’s purchasing or operating requirements, that is, contracts entered into for the purpose of taking physical delivery of the goods or services under the contract; andsales contracts entered into for the purpose of making physical delivery of the goods or services under the contract, including user fees contracts for services provided to customers.Note: In accordance with PS 3450.005, contracts to buy or sell non-financial items where quantities are in excess of the entity’s purchase, sale or usage requirements for which there is an option to settle net, in cash or another financial instrument instead of taking physical delivery, are not own use contracts and are in the scope of PS 3450.Volume-related contracts (PS 3450.03(m))Contracts that require payments based on specified volumes of sales or service revenues of one of the parties to the contract, and that are not traded on an exchange.",
+    "fr": "2.1 Contrats d’achat ou de vente de biens ou de servicesLe diagramme suivant peut servir à décider d’examiner ou non les contrats d’achat ou de vente de biens ou de services pour les dérivés incorporés.Figure 1 : diagramme pour déterminer s’il est nécessaire d’évaluer les contrats pour les dérivés incorporésFigure 1 - version textuelleLe contrat dépasse-t-il le seuil d’importance établi? Si non, aucune autre mesure n’est requise.Si oui, le contrat est-il un contrat de marchandises* ou un accord de partenariat public-privé? Si oui, évaluer le contrat pour les dérivés incorporés ou comme un dérivé autonome.Si non, le contrat est-il un contrat « pour utilisation par l’entité » ou un contrat pour lequel les paiements sont fondés sur les volumes des ventes ou des recettes de l’une des parties au contrat? Si non, évaluer le contrat pour les dérivés incorporés ou comme un dérivé autonome.Si oui, aucune autre mesure n’est requise.* Les entités ont la possibilité d’analyser d’abord le contrat de marchandise, comme décrit ci-dessous, c’est-à-dire que les quantités ne dépassent pas les besoins d’achat ou d’utilisation de l’entité, pour déterminer s’il répond à la définition d’un contrat pour utilisation par l’entité afin d’exclure le contrat de l’examen des dérivés incorporés. Les marchandises sont des produits de base ou des matières premières qui peuvent être achetées, vendues ou échangées. En tant que produits de base, les produits comme le pétrole, les métaux et les produits agricoles sont interchangeables avec d’autres biens de la même catégorie.Le paragraphe A13 du chapitre SP 3450 stipule que : « Certains contrats d’achat ou de vente d’éléments non financiers qui peuvent faire l’objet d’un règlement net ou être réglés par l’échange d’instruments financiers, ou dont l’élément non financier est facilement convertible en trésorerie, entrent dans le champ d’application du présent chapitre comme s’il s’agissait d’instruments financiers. »Étant donné que les produits de base sont facilement convertibles en trésorerie, les contrats d’achat ou de vente de produits de base peuvent être des dérivés dans leur intégralité ou ne pas bénéficier de l’exemption relative à l’utilisation propre par l’entité. Par conséquent, il est conseillé d’inclure de tels contrats dans l’examen des contrats.Tableau 1 : types de contrats exclus de la portée de l’examen des dérivés incorporésType de contratDescriptionContrats « pour utilisation par l’entité » (SP 3450.03p)) Contrats d’achat ou de vente d’éléments non financiers lorsque les quantités sont conformes aux exigences d’achat, de vente ou d’utilisation prévues par le ministère. Cela englobe : Les contrats de biens ou de services achetés conformément aux exigences d’achat ou d’exploitation du Ministère, c’est-à-dire les contrats conclus dans le but de prendre la livraison physique des biens ou des services prévus au contrat.Contrats de vente conclus dans le but d’effectuer la livraison physique des biens ou des services en vertu du contrat, y compris les contrats de frais d’utilisation pour les services fournis aux clients.Remarque : Selon le paragraphe .005 du chapitre SP 3450, les contrats pour l’achat ou la vente d’éléments non financiers lorsque les quantités dépassent les besoins d’achat, de vente ou d’utilisation de l’entité pour lesquels il est possible de faire un règlement net, en trésorerie ou selon un autre instrument financier plutôt que d’accepter la livraison physique, ne sont pas des contrats pour utilisation par l’entité et sont visés par le chapitre SP 3450.Contrats liés au volume (SP 3450.03m))Contrats qui exigent des paiements en fonction de volumes déterminés de ventes ou de revenus de service d’une des parties au contrat et qui ne sont pas négociés en bourse.",
+    "anchor": "2",
+    "tag": "section"
   },
   {
-    "en": "* Entities have the option to first analyze the commodity contract to determine whether it meets the definition of an , that is, whether the quantities are not in excess of the entity’s purchase or usage requirements, in order to exclude the contract from the review for embedded derivatives.",
-    "fr": "* Les entités ont la possibilité d’analyser d’abord le contrat de marchandise, comme décrit ci-dessous, c’est-à-dire que les quantités ne dépassent pas les besoins d’achat ou d’utilisation de l’entité, pour déterminer s’il répond à la définition d’un afin d’exclure le contrat de l’examen des dérivés incorporés."
+    "en": "2.2 Contracts in scope of PS 3450A review for embedded derivatives should be performed for the following types of contracts if the contract value exceeds the established materiality threshold:financial contracts, such as loans receivable, portfolio investments, market debt and loan guarantees; leases, such as operating leases and capital leases; andnon-financial contracts, such as: purchase or sales contracts where quantities are in excess of purchase, sale or usage requirements, and where the contract can be net settled (no physical delivery); commodity contracts;public-private partnership (P3) contracts;insurance contracts; orcontracts involving payments based on a climatic or geological variable.",
+    "fr": "2.2 Contrats dans le champ d’application du SP 3450Un examen des dérivés incorporés devrait être effectué pour les types de contrats suivants si la valeur du contrat dépasse le seuil d’importance relative établi :Les contrats financiers, comme les prêts, les placements de portefeuille, les dettes contractées sur les marchés et les garanties d’emprunt;Les baux, comme les contrats de location-exploitation et les contrats de location-acquisition;Les contrats non financiers, comme les : Contrats d’achat ou de vente où les quantités dépassent les exigences d’achat, de vente ou d’utilisation et peuvent faire l’objet d’un règlement net (aucune livraison physique);Contrats sur marchandises;Contrats de partenariat public-privé (PPP);Contrats d’assurance;Contrats comportant des paiements fondés sur une variable climatique ou géologique.",
+    "anchor": "2",
+    "tag": "section"
   },
   {
-    "en": "are goods or raw materials that can be bought, sold, or traded. As basic goods, commodities, such as oil, metals and agricultural goods, are interchangeable with other goods in the same category.",
-    "fr": "Les sont des produits de base ou des matières premières qui peuvent être achetées, vendues ou échangées. En tant que produits de base, les produits comme le pétrole, les métaux et les produits agricoles sont interchangeables avec d’autres biens de la même catégorie."
-  },
-  {
-    "en": "According to PS 3450.A13:",
-    "fr": "Le paragraphe A13 du chapitre SP 3450 stipule que :"
-  },
-  {
-    "en": "Some contracts to buy or sell non-financial items that can be settled net or by exchanging financial instruments, or in which the non-financial item is readily convertible to cash, are within the scope of this Section as if they were financial instruments.",
-    "fr": "« Certains contrats d’achat ou de vente d’éléments non financiers qui peuvent faire l’objet d’un règlement net ou être réglés par l’échange d’instruments financiers, ou dont l’élément non financier est facilement convertible en trésorerie, entrent dans le champ d’application du présent chapitre comme s’il s’agissait d’instruments financiers. »"
-  },
-  {
-    "en": "As commodities are readily convertible to cash, commodity purchase or sale contracts may be derivatives in their entirety or fail the own use exemption. Consequently, it is advised to include such contracts in the contract review, although entities may instead determine whether the contract meets the own use exemption as noted above.",
-    "fr": "Étant donné que les produits de base sont facilement convertibles en trésorerie, les contrats d’achat ou de vente de produits de base peuvent être des dérivés dans leur intégralité ou ne pas bénéficier de l’exemption relative à l’utilisation propre par l’entité. Par conséquent, il est conseillé d’inclure de tels contrats dans l’examen des contrats."
-  },
-  {
-    "en": "In accordance with PS 3450.005, contracts to buy or sell non-financial items where quantities are in excess of the entity’s purchase, sale or usage requirements for which there is an option to , in cash or another financial instrument instead of taking physical delivery, are own use contracts and are in the scope of PS 3450.",
-    "fr": ": Selon le paragraphe .005 du chapitre SP 3450, les contrats pour l’achat ou la vente d’éléments non financiers lorsque les quantités dépassent les besoins d’achat, de vente ou d’utilisation de l’entité pour lesquels il est possible de faire un , en trésorerie ou selon un autre instrument financier plutôt que d’accepter la livraison physique, sont des contrats pour utilisation par l’entité et sont visés par le chapitre SP 3450."
-  },
-  {
-    "en": "A review for embedded derivatives should be performed for the following types of contracts if the contract value exceeds the established materiality threshold:",
-    "fr": "Un examen des dérivés incorporés devrait être effectué pour les types de contrats suivants si la valeur du contrat dépasse le seuil d’importance relative établi :"
-  },
-  {
-    "en": "When a contract under review is determined to be in scope of PS 3450, it should be assessed for embedded derivatives.",
-    "fr": "Lorsqu’il est déterminé qu’un contrat faisant l’objet d’un examen relève du champ d’application de SP 3450, il doit être évalué pour les dérivés incorporés."
-  },
-  {
-    "en": "A contract may include embedded derivatives when there is a change in contractual cash flows:",
-    "fr": "Un contrat pourrait comprendre des dérivés incorporés s’il y a un changement des flux de trésorerie contractuels :"
-  },
-  {
-    "en": "3.1.1 Examples of changes in contractual cash flow due to pricing features based on an underlying variable include:",
-    "fr": "3.1.1 Voici quelques exemples de variation des flux de trésorerie contractuels en raison des caractéristiques de prix fondées sur une variable sous-jacente :"
-  },
-  {
-    "en": "3.1.2 Examples of changes in contractual cash flows based on optional contract features include:",
-    "fr": "3.1.2 Voici quelques exemples de modification des flux de trésorerie contractuels en fonction des caractéristiques facultatives du contrat :"
-  },
-  {
-    "en": "3.1.3 Assessment to determine whether the embedded derivative is closely related to the host contract (PS 3450.A25-.A26).",
-    "fr": "3.1.3 Évaluation visant à déterminer si le dérivé incorporé est étroitement lié au contrat hôte (SP 3450.A25-A26)."
-  },
-  {
-    "en": "Not all contracts containing provisions with the features of an embedded derivative will warrant the recognition of the embedded derivative and measurement of its value. When an embedded derivative is closely related to the host contract, it has the same economic characteristics as the host contract. In such instances, the embedded derivative does not need to be accounted for as a separate derivative instrument. In addition to the examples provided in PS 3450.A25-.A26, the following table includes examples that indicate host contracts with embedded derivatives that are closely related or not closely related to the contract.",
-    "fr": "Tous les contrats contenant des provisions présentant les caractéristiques d’un dérivé incorporé ne justifient pas la comptabilisation du dérivé incorporé et l’évaluation de sa valeur. Un dérivé incorporé est étroitement lié au contrat hôte lorsqu’il a les mêmes caractéristiques économiques que le contrat hôte, par conséquent, il n’a pas besoin d’être comptabilisé comme un instrument dérivé distinct. En plus des exemples fournis dans le SP 3450.A25-A26, les exemples suivants indiquent que les contrats hôtes avec des dérivés incorporés sont étroitement liés ou non."
+    "en": "3.1 Identification of embedded derivatives in host contracts (PS 3450.A18-.A24)When a contract under review is determined to be in scope of PS 3450, it should be assessed for embedded derivatives.A contract may include embedded derivatives when there is a change in contractual cash flows:due to pricing features based on an underlying variable; orbased on optional contract features.3.1.1 Examples of changes in contractual cash flow due to pricing features based on an underlying variable include: Foreign currency: cash flows vary based on a foreign exchange rate. Assess whether the currency is: the functional currency of the counterparty,the currency in which commercial transactions for the good or service are routinely denominated globally, ora currency commonly used in contracts to purchase or sell non-financial items in the economic environment of the transaction;Inflation index: cash flows that are adjusted by: inflation indices based on Canadian or non-Canadian rates, orleveraged inflation and CPI adjustments (factor above 2);Cash flows adjusted by any other underlying variable (for example, share price, commodity price, interest rate index, credit risk of a third party, stock exchange); orSettlement permitted with non-cash consideration whose value changes with an underlying variable (that is, with warrants, options of a company, shares or commodities).3.1.2 Examples of changes in contractual cash flows based on optional contract features include:Cash flows that are modified by a pricing cap or floor. Assess whether the cap is above or below the market rate or whether the floor is below or above the market rate;Call, put, prepayment or redemption option that requires the payment of a penalty that: is fixed, orvaries based on current interest rates or some other variable;Term-extension option or options. Consider whether this option is at a market or non-market rate;Complex interest rate features or formulas that calculate the contractual cash flows. Assess whether the holder would not substantially recover their investment or would receive a return that is at least twice the market return; orTerms allowing the transfer of credit risk of a reference asset. Consider whether this is related to the creditworthiness of the obligor.3.1.3 Assessment to determine whether the embedded derivative is closely related to the host contract (PS 3450.A25-.A26).Not all contracts containing provisions with the features of an embedded derivative will warrant the recognition of the embedded derivative and measurement of its value. When an embedded derivative is closely related to the host contract, it has the same economic characteristics as the host contract. In such instances, the embedded derivative does not need to be accounted for as a separate derivative instrument. In addition to the examples provided in PS 3450.A25-.A26, the following table includes examples that indicate host contracts with embedded derivatives that are closely related or not closely related to the contract. Table 2: examples of embedded derivatives in host contractsType of host contractEmbedded derivatives that are closely related to the contractEmbedded derivatives that are not closely related to the contractLoan receivable with floating interest rateFloating interest rate is capped at 4%. Market interest rate at inception is 3% (below cap).Floating interest rate is capped at 2%. Market interest rate at inception is 3% (above cap).Loan receivable with prepayment optionPrepayment option at par value of the loan plus accrued interest (equals the amortized cost of the loan).Prepayment option at 110% of the par value of the loan, plus accrued interest (does not equal the amortized cost of the loan).Deposit liabilityInterest payments linked to an interest rate index.Interest payments linked to an equity or commodity index.Building leaseAnnual payments based on the consumer price index (CPI).Annual payments based on two times CPI; or annual payments based on a non-Canadian inflation index.Executory contract to purchase copper in a foreign currency (commodity contract) Note: If this contract meets the definition of a stand-alone derivative, the entire contract is measured at fair value.Payments are in US dollars, which is the currency in which copper prices are routinely denominated around the world.Payments are in Japanese yen, which is not one of the following: The functional currency of either party to the contract;The currency in which transactions for this service are routinely denominated around the world; orThe currency of the economic environment in which the transaction took place.",
+    "fr": "3.1 Identification des dérivés incorporés dans les contrats hôtes (SP 3450.A18-A24)Lorsqu’il est déterminé qu’un contrat faisant l’objet d’un examen relève du champ d’application de SP 3450, il doit être évalué pour les dérivés incorporés.Un contrat pourrait comprendre des dérivés incorporés s’il y a un changement des flux de trésorerie contractuels :en raison de caractéristiques de prix fondées sur une variable sous-jacente; en raison de caractéristiques facultatives du contrat. 3.1.1 Voici quelques exemples de variation des flux de trésorerie contractuels en raison des caractéristiques de prix fondées sur une variable sous-jacente :Devise étrangère : les flux de trésorerie varient selon le taux de change. Évaluer si la devise est : la monnaie fonctionnelle de la contrepartie;la monnaie dans laquelle les transactions commerciales pour le bien ou le service sont couramment libellées mondialement; ouune monnaie couramment utilisée dans les contrats d’achat ou de vente d’éléments non financiers dans l’environnement économique de la transaction.Indice lié à l’inflation : flux de trésorerie ajustés selon : les indices liés à l’inflation fondés sur les taux canadiens ou non canadiens; oul’inflation avec l’effet de levier et les ajustements de l’indice des prix à la consommation (facteur supérieur à 2).Flux de trésorerie ajustés par toute autre variable sous-jacente (par exemple, le prix des actions, le prix d’une marchandise, l’indice des taux d’intérêt, le risque de crédit d’un tiers, la bourse, etc.).Règlement autorisé avec une contrepartie autre qu’en trésorerie dont la valeur change avec une variable sous-jacente (c’est-à-dire avec des bons de souscription, des options d’une société, des actions ou des marchandises).3.1.2 Voici quelques exemples de modification des flux de trésorerie contractuels en fonction des caractéristiques facultatives du contrat :Flux de trésorerie qui sont modifiés par un prix plafond ou plancher. Évaluer si le plafond est supérieur ou inférieur au taux du marché et/ou si le plancher est inférieur ou supérieur au taux du marché.Option d’achat, de vente, de remboursement anticipé ou de rachat qui exige le paiement d’une pénalité : fixe;variable en fonction des taux d’intérêt actuels ou d’une autre variable.Option(s) de prolongation de terme. Déterminer si cette option est à un taux du marché ou ne l’est pas.Caractéristiques ou formules de taux d’intérêt complexes qui calculent les flux de trésorerie contractuels. Évaluer si le détenteur ne recouvre pas sensiblement son investissement ou reçoit un rendement au moins deux fois supérieur au rendement du marché.Conditions permettant le transfert du risque de crédit d’un actif de référence. Déterminer si cela est lié à la solvabilité du débiteur.3.1.3 Évaluation visant à déterminer si le dérivé incorporé est étroitement lié au contrat hôte (SP 3450.A25-A26).Tous les contrats contenant des provisions présentant les caractéristiques d’un dérivé incorporé ne justifient pas la comptabilisation du dérivé incorporé et l’évaluation de sa valeur. Un dérivé incorporé est étroitement lié au contrat hôte lorsqu’il a les mêmes caractéristiques économiques que le contrat hôte, par conséquent, il n’a pas besoin d’être comptabilisé comme un instrument dérivé distinct. En plus des exemples fournis dans le SP 3450.A25-A26, les exemples suivants indiquent que les contrats hôtes avec des dérivés incorporés sont étroitement liés ou non. Tableau 2 : exemples de dérivés incorporés dans les contrats hôtesType de contrat hôteDérivés incorporés étroitement liés au contratDérivés incorporés non étroitement liés au contratPrêt à taux d’intérêt variableLe taux d’intérêt variable est plafonné à 4 % – le taux d’intérêt du marché à l’entrée en vigueur est de 3 % (en deçà du plafond).Le taux d’intérêt variable est plafonné à 2 % – le taux d’intérêt du marché à l’entrée en vigueur est de 3 % (au-dessus du plafond).Prêt avec option de remboursement anticipé Option de remboursement anticipé à la valeur nominale du prêt plus les intérêts courus (égal au coût amorti du prêt).Option de remboursement anticipé à 110 % de la valeur nominale du prêt, plus les intérêts courus (n’est pas égal au coût amorti du prêt).Passif-dépôtsPaiements d’intérêts liés à un indice de taux d’intérêt.Paiements d’intérêts liés à un indice de capitaux propres ou de marchandises.Contrat de location de bâtimentsPaiements annuels fondés sur l’IPC.Paiements annuels fondés sur 2 x IPC; ou paiements annuels fondés sur un indice d’inflation non canadien.Contrat d’exécution pour l’achat de cuivre en devises étrangères (contrat sur marchandises)Remarque : si ce contrat répond à la définition d’un dérivé autonome, l’ensemble du contrat est mesuré à la juste valeur.Les paiements sont en dollars américains, la monnaie dans laquelle les prix du cuivre sont habituellement libellés dans le monde entier.Les paiements sont en yens japonais, qui ne sont pas l’un des suivants : la monnaie fonctionnelle de l’une ou l’autre des parties au contrat;la devise dans laquelle les transactions pour ce service sont couramment libellées dans le monde entier;la devise de l’environnement économique dans lequel la transaction a eu lieu.",
+    "anchor": "3",
+    "tag": "section"
   },
   {
     "en": "The following flow chart provides an overview of the accounting requirements for embedded derivatives.",
-    "fr": "Ce diagramme donne un aperçu des exigences comptables pour les dérivés incorporés."
+    "fr": "Ce diagramme donne un aperçu des exigences comptables pour les dérivés incorporés.",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "If the embedded derivative is determined to be closely related to the host contract at inception, it is not separated from the host contract and there are no further accounting requirements (PS 3450.A19-.A.26).",
-    "fr": "* Les entités ont la possibilité d’analyser d’abord le contrat de marchandise, comme décrit ci-dessous, c’est-à-dire que les quantités ne dépassent pas les besoins d’achat ou d’utilisation de l’entité, pour déterminer s’il répond à la définition d’un afin d’exclure le contrat de l’examen des dérivés incorporés."
+    "en": "4.1 Embedded derivative closely related to the host contractIf the embedded derivative is determined to be closely related to the host contract at inception, it is not separated from the host contract and there are no further accounting requirements (PS 3450.A19-.A.26). Subsequent reassessment of the embedded derivative is prohibited unless there are changes to the contract that significantly modify the cash flows (PS 3450.A21).",
+    "fr": "4.1 Dérivé incorporé étroitement lié au contrat hôteS’il est déterminé que le dérivé incorporé est étroitement lié au contrat hôte au début, il n’est pas séparé du contrat hôte et il n’y a pas d’autres exigences comptables (SP 3450.A19-.A26).Il est interdit de procéder à une réévaluation subséquente du dérivé incorporé, à moins que des modifications ne soient apportées au contrat qui altèrent de façon significative les flux de trésorerie (SP 3450.A21).",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "Subsequent reassessment of the embedded derivative is prohibited unless there are changes to the contract that significantly modify the cash flows (PS 3450.A21).",
-    "fr": "S’il est déterminé que le dérivé incorporé est étroitement lié au contrat hôte au début, il n’est pas séparé du contrat hôte et il n’y a pas d’autres exigences comptables (SP 3450.A19-.A26)."
+    "en": "4.2 Embedded derivative not closely related to the host contractWhen it has been determined that the embedded derivative is not closely related to the host contract (PS 3450.A25), there are two accounting options available:Measure the combined (hybrid) contract at fair value at inception and throughout its life (PS 3450.A22). Embedded derivatives in financial instruments classified in the fair value category are not separated (PS 3450.A19(c)); orSeparate the embedded derivative and account for it separately as a stand-alone derivative, as long as a separate instrument with the same terms as the embedded derivative would meet the definition of a derivative (PS 3450.A19(b)).",
+    "fr": "4.2 Dérivé incorporé non étroitement lié au contrat hôteLorsqu’il a été déterminé que le dérivé incorporé n’est pas étroitement lié au contrat hôte (SP 3450.A25), deux options comptables sont disponibles :Mesurer le contrat composé (hybride) à la juste valeur au début et tout au long de sa durée de vie (SP 3450.A22). Les dérivés incorporés dans des instruments financiers classés dans la catégorie de la juste valeur ne sont pas séparés (SP 3450.A19c)); ouSéparer le dérivé incorporé et le comptabiliser séparément en tant que dérivé autonome, pourvu qu’un instrument distinct avec les mêmes termes que le dérivé incorporé réponde à la définition d’un dérivé (SP 3450.A19(b)).",
+    "anchor": "4",
+    "tag": "section"
   },
   {
-    "en": "When it has been determined that the embedded derivative is not closely related to the host contract (PS 3450.A25), there are two accounting options available:",
-    "fr": "Il est interdit de procéder à une réévaluation subséquente du dérivé incorporé, à moins que des modifications ne soient apportées au contrat qui altèrent de façon significative les flux de trésorerie (SP 3450.A21)."
-  },
-  {
-    "en": "Apply the accounting requirements for derivatives in PS 3450 as follows:",
-    "fr": "Lorsqu’il a été déterminé que le dérivé incorporé n’est pas étroitement lié au contrat hôte (SP 3450.A25), deux options comptables sont disponibles :"
-  },
-  {
-    "en": "Contact the Office of the Comptroller General for specific coding requirements.",
-    "fr": "Appliquer les exigences comptables pour les dérivés dans le chapitre SP 3450 comme suit :"
+    "en": "4.3 Accounting requirements for derivativesApply the accounting requirements for derivatives in PS 3450 as follows:Determine the fair valueFootnote 1 of the hybrid contract or the embedded feature at inception (PS 3450.A24) and continue to measure the derivative at fair value throughout the life of the contract;Recognize the derivative asset or derivative liability on the statement of financial position; andPresent unrealized fair value gains or losses on the derivative in the statement of remeasurement gains and losses until settlement, except for unrealized exchange gains and losses that are recognized directly in the statement of operations (according to Government of Canada accounting policy election).Contact the Office of the Comptroller General for specific coding requirements.",
+    "fr": "4.3 Exigences comptables pour les dérivésAppliquer les exigences comptables pour les dérivés dans le chapitre SP 3450 comme suit :Déterminer la juste valeurVoir la note en bas de page 1 du contrat hybride ou de la fonction incorporée au début (SP 3450.A24) et continuer de mesurer le dérivé à la juste valeur tout au long de la durée du contrat. Comptabiliser l’actif dérivé ou le passif dérivé dans l’état de la situation financière.Présenter les gains ou pertes de juste valeur non réalisés sur le produit dérivé dans l’état des gains et pertes de réévaluation jusqu’au règlement, à l’exception des gains et des pertes de change non réalisés qui sont comptabilisés directement dans l’état des résultats (selon le choix de la méthode comptable du gouvernement du Canada).Veuillez communiquer avec le Bureau du contrêleur général pour connaître les exigences de codage précises.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "Determining the fair value of a derivative may require the services of a valuation expert.",
-    "fr": "Veuillez communiquer avec le Bureau du contrêleur général pour connaître les exigences de codage précises."
-  },
-  {
-    "en": "Does the contract exceed the established materiality threshold?",
-    "fr": "La détermination de la juste valeur d’un dérivé peut nécessiter les services d’un expert en évaluation."
-  },
-  {
-    "en": "If no, no further action required.",
-    "fr": "Le contrat dépasse-t-il le seuil d’importance établi?"
-  },
-  {
-    "en": "If yes, is the contract a commodity contract* or a public-private partnership (P3) agreement?",
-    "fr": "Si non, aucune autre mesure n’est requise."
-  },
-  {
-    "en": "If yes, assess the contract for embedded derivatives or as a stand-alone derivative.",
-    "fr": "Si oui, le contrat est-il un contrat de marchandises* ou un accord de partenariat public-privé?"
-  },
-  {
-    "en": "If no, is the contract an “own use” contract or a contract for which payments are based on volumes of sales or revenues of one of the parties to the contract?",
-    "fr": "Si oui, évaluer le contrat pour les dérivés incorporés ou comme un dérivé autonome."
-  },
-  {
-    "en": "If no, assess the contract for embedded derivatives or as a stand-alone derivative.",
-    "fr": "Si non, le contrat est-il un contrat « pour utilisation par l’entité » ou un contrat pour lequel les paiements sont fondés sur les volumes des ventes ou des recettes de l’une des parties au contrat?"
-  },
-  {
-    "en": "If yes, no further action required.",
-    "fr": "Si non, évaluer le contrat pour les dérivés incorporés ou comme un dérivé autonome."
-  },
-  {
-    "en": "contracts for goods or services purchased in accordance with the department’s purchasing or operating requirements, that is, contracts entered into for the purpose of taking physical delivery of the goods or services under the contract; and",
-    "fr": "Si oui, aucune autre mesure n’est requise."
-  },
-  {
-    "en": "sales contracts entered into for the purpose of making physical delivery of the goods or services under the contract, including user fees contracts for services provided to customers.",
-    "fr": "Les contrats de biens ou de services achetés conformément aux exigences d’achat ou d’exploitation du Ministère, c’est-à-dire les contrats conclus dans le but de prendre la livraison physique des biens ou des services prévus au contrat."
-  },
-  {
-    "en": "such as loans receivable, portfolio investments, market debt and loan guarantees;",
-    "fr": "Contrats de vente conclus dans le but d’effectuer la livraison physique des biens ou des services en vertu du contrat, y compris les contrats de frais d’utilisation pour les services fournis aux clients."
-  },
-  {
-    "en": "such as operating leases and capital leases; and",
-    "fr": "Les , comme les prêts, les placements de portefeuille, les dettes contractées sur les marchés et les garanties d’emprunt;"
-  },
-  {
-    "en": "such as:",
-    "fr": "Les , comme les contrats de location-exploitation et les contrats de location-acquisition;"
-  },
-  {
-    "en": "purchase or sales contracts where quantities are in excess of purchase, sale or usage requirements, and where the contract can be (no physical delivery);",
-    "fr": "Les , comme les :"
-  },
-  {
-    "en": "commodity contracts;",
-    "fr": "Contrats d’achat ou de vente où les quantités dépassent les exigences d’achat, de vente ou d’utilisation et peuvent faire l’objet d’un (aucune livraison physique);"
-  },
-  {
-    "en": "public-private partnership (P3) contracts;",
-    "fr": "Contrats sur marchandises;"
-  },
-  {
-    "en": "insurance contracts; or",
-    "fr": "Contrats de partenariat public-privé (PPP);"
-  },
-  {
-    "en": "contracts involving payments based on a climatic or geological variable.",
-    "fr": "Contrats d’assurance;"
-  },
-  {
-    "en": "due to pricing features based on an underlying variable; or",
-    "fr": "Contrats comportant des paiements fondés sur une variable climatique ou géologique."
-  },
-  {
-    "en": "based on optional contract features.",
-    "fr": "en raison de caractéristiques de prix fondées sur une variable sous-jacente;"
-  },
-  {
-    "en": "Foreign currency: cash flows vary based on a foreign exchange rate. Assess whether the currency is:",
-    "fr": "en raison de caractéristiques facultatives du contrat."
-  },
-  {
-    "en": "the functional currency of the counterparty,",
-    "fr": "Devise étrangère : les flux de trésorerie varient selon le taux de change. Évaluer si la devise est :"
-  },
-  {
-    "en": "the currency in which commercial transactions for the good or service are routinely denominated globally, or",
-    "fr": "la monnaie fonctionnelle de la contrepartie;"
-  },
-  {
-    "en": "a currency commonly used in contracts to purchase or sell non-financial items in the economic environment of the transaction;",
-    "fr": "la monnaie dans laquelle les transactions commerciales pour le bien ou le service sont couramment libellées mondialement; ou"
-  },
-  {
-    "en": "Inflation index: cash flows that are adjusted by:",
-    "fr": "une monnaie couramment utilisée dans les contrats d’achat ou de vente d’éléments non financiers dans l’environnement économique de la transaction."
-  },
-  {
-    "en": "inflation indices based on Canadian or non-Canadian rates, or",
-    "fr": "Indice lié à l’inflation : flux de trésorerie ajustés selon :"
-  },
-  {
-    "en": "inflation and CPI adjustments (factor above 2);",
-    "fr": "les indices liés à l’inflation fondés sur les taux canadiens ou non canadiens; ou"
-  },
-  {
-    "en": "Cash flows adjusted by any other underlying variable (for example, share price, commodity price, interest rate index, credit risk of a third party, stock exchange); or",
-    "fr": "l’inflation avec l’effet de levier et les ajustements de l’indice des prix à la consommation (facteur supérieur à 2)."
-  },
-  {
-    "en": "Settlement permitted with whose value changes with an underlying variable (that is, with warrants, options of a company, shares or commodities).",
-    "fr": "Flux de trésorerie ajustés par toute autre variable sous-jacente (par exemple, le prix des actions, le prix d’une marchandise, l’indice des taux d’intérêt, le risque de crédit d’un tiers, la bourse, etc.)."
-  },
-  {
-    "en": "Cash flows that are modified by a pricing cap or floor. Assess whether the cap is above or below the market rate or whether the floor is below or above the market rate;",
-    "fr": "Règlement autorisé avec une dont la valeur change avec une variable sous-jacente (c’est-à-dire avec des bons de souscription, des options d’une société, des actions ou des marchandises)."
-  },
-  {
-    "en": ", , prepayment or redemption option that requires the payment of a penalty that:",
-    "fr": "Flux de trésorerie qui sont modifiés par un prix plafond ou plancher. Évaluer si le plafond est supérieur ou inférieur au taux du marché et/ou si le plancher est inférieur ou supérieur au taux du marché."
-  },
-  {
-    "en": "is fixed, or",
-    "fr": "Option d’ , de , de remboursement anticipé ou de rachat qui exige le paiement d’une pénalité :"
-  },
-  {
-    "en": "varies based on current interest rates or some other variable;",
-    "fr": "fixe;"
-  },
-  {
-    "en": "Term-extension option or options. Consider whether this option is at a market or non-market rate;",
-    "fr": "variable en fonction des taux d’intérêt actuels ou d’une autre variable."
-  },
-  {
-    "en": "Complex interest rate features or formulas that calculate the contractual cash flows. Assess whether the holder would not substantially recover their investment or would receive a return that is at least twice the market return; or",
-    "fr": "Option(s) de prolongation de terme. Déterminer si cette option est à un taux du marché ou ne l’est pas."
-  },
-  {
-    "en": "Terms allowing the transfer of credit risk of a reference asset. Consider whether this is related to the creditworthiness of the obligor.",
-    "fr": "Caractéristiques ou formules de taux d’intérêt complexes qui calculent les flux de trésorerie contractuels. Évaluer si le détenteur ne recouvre pas sensiblement son investissement ou reçoit un rendement au moins deux fois supérieur au rendement du marché."
-  },
-  {
-    "en": "The functional currency of either party to the contract;",
-    "fr": "Conditions permettant le transfert du risque de crédit d’un actif de référence. Déterminer si cela est lié à la solvabilité du débiteur."
-  },
-  {
-    "en": "The currency in which transactions for this service are routinely denominated around the world;",
-    "fr": "la monnaie fonctionnelle de l’une ou l’autre des parties au contrat;"
-  },
-  {
-    "en": "The currency of the economic environment in which the transaction took place.",
-    "fr": "la devise dans laquelle les transactions pour ce service sont couramment libellées dans le monde entier;"
-  },
-  {
-    "en": "Are the economic characteristics and risks of the embedded derivative closely related to the host contract?",
-    "fr": "la devise de l’environnement économique dans lequel la transaction a eu lieu."
-  },
-  {
-    "en": "If yes, do not separate the embedded derivatives from the host contract.",
-    "fr": "Les caractéristiques économiques et les risques du dérivé incorporé sont-ils étroitement liés au contrat hôte?"
-  },
-  {
-    "en": "If no, will the hybrid contract be measured at fair value?",
-    "fr": "Si oui, ne pas séparer les dérivés incorporés du contrat hôte."
-  },
-  {
-    "en": "If yes, do not separate the embedded derivatives from the host contract.",
-    "fr": "Si non, le contrat hybride sera-t-il évalué à sa juste valeur?"
-  },
-  {
-    "en": "If no, separate the embedded derivative from the host contract and account for the embedded derivative as a derivative.",
-    "fr": "Si oui, ne pas séparer les dérivés incorporés du contrat hôte."
-  },
-  {
-    "en": "Measure the combined (hybrid) contract at fair value at inception and throughout its life (PS 3450.A22). Embedded derivatives in financial instruments classified in the fair value category are not separated (PS 3450.A19(c));",
-    "fr": "Si non, séparer le dérivé incorporé du contrat hôte et comptabiliser en tant que dérivé."
-  },
-  {
-    "en": "Separate the embedded derivative and account for it separately as a stand-alone derivative, as long as a separate instrument with the same terms as the embedded derivative would meet the definition of a derivative (PS 3450.A19(b)).",
-    "fr": "Mesurer le contrat composé (hybride) à la juste valeur au début et tout au long de sa durée de vie (SP 3450.A22). Les dérivés incorporés dans des instruments financiers classés dans la catégorie de la juste valeur ne sont pas séparés (SP 3450.A19c));"
-  },
-  {
-    "en": "Determine the fair value of the hybrid contract or the embedded feature at inception (PS 3450.A24) and continue to measure the derivative at fair value throughout the life of the contract;",
-    "fr": "Séparer le dérivé incorporé et le comptabiliser séparément en tant que dérivé autonome, pourvu qu’un instrument distinct avec les mêmes termes que le dérivé incorporé réponde à la définition d’un dérivé (SP 3450.A19(b))."
-  },
-  {
-    "en": "Recognize the derivative asset or derivative liability on the statement of financial position; and",
-    "fr": "Déterminer la juste valeur du contrat hybride ou de la fonction incorporée au début (SP 3450.A24) et continuer de mesurer le dérivé à la juste valeur tout au long de la durée du contrat."
-  },
-  {
-    "en": "Present unrealized fair value gains or losses on the derivative in the statement of remeasurement gains and losses until settlement, except for unrealized exchange gains and losses that are recognized directly in the statement of operations (according to Government of Canada accounting policy election).",
-    "fr": "Comptabiliser l’actif dérivé ou le passif dérivé dans l’état de la situation financière."
-  },
-  {
-    "en": "Its value changes in response to the change in a specified interest rate, financial instrument price, commodity price, foreign exchange rate, index of prices or rates, credit rating or credit index, or other variable, provided in the case of a non-financial variable that the variable is not specific to a party to the contract (sometimes the variable is described as “underlying”);",
-    "fr": "Présenter les gains ou pertes de juste valeur non réalisés sur le produit dérivé dans l’état des gains et pertes de réévaluation jusqu’au règlement, à l’exception des gains et des pertes de change non réalisés qui sont comptabilisés directement dans l’état des résultats (selon le choix de la méthode comptable du gouvernement du Canada)."
-  },
-  {
-    "en": "It does not require an initial net investment, or it requires an initial net investment that is smaller than would be required for other types of contracts that would be expected to have a similar response to changes in market factors; and",
-    "fr": "sa valeur fluctue en fonction de l’évolution d’un taux d’intérêt, du prix d’un instrument financier, du prix d’une marchandise, d’un cours de change, d’un indice de prix ou de cours, d’une notation ou d’un indice de crédit, ou d’une autre variable spécifiée (qu’on appelle parfois le « sous-jacent »), à la condition, s’il s’agit d’une variable non financière, que la variable ne soit pas propre à l’une des parties au contrat;"
-  },
-  {
-    "en": "It is settled at a future date or dates.",
-    "fr": "il ne requiert aucun placement net initial ou encore requiert un placement net initial inférieur à celui qui serait nécessaire pour d’autres types de contrats dont on pourrait attendre des réactions similaires aux évolutions des facteurs de marché;"
+    "fr": "La détermination de la juste valeur d’un dérivé peut nécessiter les services d’un expert en évaluation.",
+    "anchor": "fn1",
+    "tag": "p"
   }
 ]

@@ -1,22 +1,32 @@
 [
   {
-    "en": "This document is part of the Appendix A of the .",
-    "fr": "Ce document fait partie de l’Annexe A de la ."
+    "en": "PS 1201 Financial statement presentation",
+    "fr": "SP 1201 Présentation des états financiers",
+    "anchor": "A",
+    "tag": "ul"
   },
   {
-    "en": "PS 1201 Financial statement presentation",
-    "fr": "SP 1201 Présentation des états financiers"
+    "en": "April 1, 2017",
+    "fr": "Le 1er avril 2017",
+    "anchor": "B",
+    "tag": "p"
   },
   {
     "en": "Further to PS 1201.104 and .105, for the Government of Canada, cash consists of public moneys on deposit and cash in transit less outstanding cheques and warrants. Cash equivalents consist mainly of term deposits usually not exceeding 31 days.",
-    "fr": "Conformément aux normes SP 1201.104 et .105, en ce qui concerne le gouvernement du Canada, l’encaisse se compose des fonds publics déposés et des fonds en transit, moins les chèques et mandats non encaissés. Les équivalents de trésorerie consistent essentiellement en des dépôts à terme dont l’échéance est généralement d’au plus 31 jours."
+    "fr": "Conformément aux normes SP 1201.104 et .105, en ce qui concerne le gouvernement du Canada, l’encaisse se compose des fonds publics déposés et des fonds en transit, moins les chèques et mandats non encaissés. Les équivalents de trésorerie consistent essentiellement en des dépôts à terme dont l’échéance est généralement d’au plus 31 jours.",
+    "anchor": "C",
+    "tag": "ol"
   },
   {
-    "en": "GC 4500 Departmental Financial Statements provides instructions for preparing Departmental Financial Statements and disclosure requirements.",
-    "fr": "La norme GC 4500 États financiers ministériels fournit des consignes sur la préparation des états financiers ministériels et les obligations d’information."
+    "en": "GC 4500 Departmental Financial Statements provides instructions for preparing Departmental Financial Statements and disclosure requirements.Further direction is provided annually to departments in the Year-End Call Letter issued by the Office of the Comptroller General of Canada: Departmental Financial Reporting Requirements related to Departmental and Agency Financial Statements for Fiscal Year Ending March 31, 20XX.",
+    "fr": "La norme GC 4500 États financiers ministériels fournit des consignes sur la préparation des états financiers ministériels et les obligations d’information.D’autres lignes directrices sont fournies chaque année aux ministères dans la Lettre d’appel de fin d’exercice émise par le Bureau du contrôleur général du Canada: Exigences ministérielles en matière de rapport financier liées aux états financiers ministériels pour l’exercice se terminant le 31 mars 20XX.",
+    "anchor": "D",
+    "tag": "ol"
   },
   {
-    "en": "Further direction is provided annually to departments in the Year-End Call Letter issued by the Office of the Comptroller General of Canada: Departmental Financial Reporting Requirements related to Departmental and Agency Financial Statements for Fiscal Year Ending March 31, 20XX.",
-    "fr": "D’autres lignes directrices sont fournies chaque année aux ministères dans la Lettre d’appel de fin d’exercice émise par le Bureau du contrôleur général du Canada: Exigences ministérielles en matière de rapport financier liées aux états financiers ministériels pour l’exercice se terminant le 31 mars 20XX."
+    "en": "GC 4500 Departmental Financial Statements",
+    "fr": "GC 4500 États financiers ministériels",
+    "anchor": "E",
+    "tag": "ul"
   }
 ]

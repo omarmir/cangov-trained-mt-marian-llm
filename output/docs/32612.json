@@ -1,182 +1,20 @@
 [
   {
-    "en": "Whenever any of the above cannot be applied:",
-    "fr": "Si l’une des ci-dessus ne peuvent pas être appliquées :"
+    "en": "Table 1: minimum requirements for establishing an identity assurance levelRequirementLevel 1Level 2Level 3Level 4UniquenessDefine identity informationDefine contextEvidence of identityNo restriction on what is provided as evidenceOne instance of evidence of identityTwo instances of evidence of identity (at least one must be foundational evidence of identity)Three instances of evidence of identity (at least one must be foundational evidence of identity)Accuracy of identity informationAcceptance of self-assertion of identity information by an individualIdentity information acceptably matches assertion by an individual and evidence of identity, andConfirmation that evidence of identity originates from an appropriate authorityIdentity information acceptably matches assertion by an individual and all instances of evidence of identity, andConfirmation of the foundational evidence of identity, using an authoritative source, andConfirmation that supporting evidence of identity originates from an appropriate authority, using an authoritative sourceWhenever any of the above cannot be applied: inspection by trained examinerLinkage of identity information to individualNo requirementNo requirementAt least one of the following:knowledge-based confirmationbiological or behavioural characteristic confirmationtrusted referee confirmationphysical possession confirmationAt least three of the following:knowledge-based confirmationbiological or behavioural characteristic confirmationtrusted referee confirmationphysical possession confirmation",
+    "fr": "Tableau 1 : Les exigences minimales pour l’établissement d’un niveau d’assurance de l’identité.ExigenceNiveau 1Niveau 2Niveau 3Niveau 4UnicitéDéfinir l’information confirmant l’identité.Définir le contexte.Preuve de l’identitéIl n’y a aucune restriction quant à ce qui peut être fourni à titre de preuve de l’identité.Une preuve de l’identité.Deux preuves de l’identité. (Dont au moins une est une preuve essentielle.)Trois preuves de l’identité. (Dont au moins une est une preuve essentielle.) Exactitude de l’information confirmant l’identité Acceptation de l’affirmation de soi à titre de confirmation de l’information sur l’identité.Information sur l’identité correspond de façon acceptable à l’affirmation par une personne et à la preuve de l’identité.confirmation que la preuve de l’identité provient d’une autorité compétente. Information sur l’identité correspond de façon acceptable à l’affirmation par une personne et à toutes les preuves de l’identité.Confirmation de la preuve de l’identité à l’aide d’une source autorisée. Confirmation que la preuve de l’identité provient d’une autorité compétente, à l’aide d’une source autorisée.Si l’une des ci-dessus ne peuvent pas être appliquées :Inspection par un examinateur d’expérience.Lien entre l’information confirmant l’identité et la personneAucune exigence.Aucune exigence.Au moins un des éléments suivants :Confirmation reposant sur les connaissances.Confirmation des caractéristiques biologiques ou comportementaleConfirmation par un arbitre de confiance.Confirmation de possession matérielle.Au moins trois des éléments suivants :Confirmation reposant sur les connaissances.Confirmation des caractéristiques biologiques ou comportementaleConfirmation par un arbitre de confiance.Confirmation de possession matérielle.",
+    "anchor": "A.2",
+    "tag": "div"
   },
   {
-    "en": "At least of the following:",
-    "fr": "Au moins des éléments suivants :"
+    "en": "Identity assurance levelsLevel 4: very high confidence required that an individual is who they claim to be;Level 3: high confidence required that an individual is who they claim to be;Level 2: some confidence required that an individual is who they claim to be; andLevel 1: little confidence required that an individual is who they claim to be.",
+    "fr": "Niveaux d’assurance de l’identitéNiveau 4 ‒ Besoin d’un niveau très élevé de confiance que la personne est celle qu’elle affirme être.Niveau 3 ‒ Besoin d’un niveau élevé de confiance que la personne est celle qu’elle affirme être. Niveau 2 ‒ Besoin d’un certain niveau de confiance que la personne est celle qu’elle affirme être. Niveau 1 ‒ Besoin d’un faible niveau de confiance que la personne est celle qu’elle affirme être.",
+    "anchor": "A.2.2",
+    "tag": "section"
   },
   {
-    "en": "At least of the following:",
-    "fr": "Au moins des éléments suivants :"
-  },
-  {
-    "en": "Define identity information",
-    "fr": "Définir l’information confirmant l’identité."
-  },
-  {
-    "en": "Define context",
-    "fr": "Définir le contexte."
-  },
-  {
-    "en": "No restriction on what is provided as evidence",
-    "fr": "Il n’y a aucune restriction quant à ce qui peut être fourni à titre de preuve de l’identité."
-  },
-  {
-    "en": "instance of evidence of identity",
-    "fr": "preuve de l’identité."
-  },
-  {
-    "en": "instances of evidence of identity (at least one must be foundational evidence of identity)",
-    "fr": "preuves de l’identité. (Dont au moins une est une preuve essentielle.)"
-  },
-  {
-    "en": "Three instances of evidence of identity (at least one must be foundational evidence of identity)",
-    "fr": "preuves de l’identité. (Dont au moins une est une preuve essentielle.)"
-  },
-  {
-    "en": "Acceptance of self-assertion of identity information by an individual",
-    "fr": "Acceptation de l’affirmation de soi à titre de confirmation de l’information sur l’identité."
-  },
-  {
-    "en": "Identity information acceptably matches assertion by an individual and evidence of identity,",
-    "fr": "Information sur l’identité correspond de façon acceptable à l’affirmation par une personne et à la preuve de l’identité."
-  },
-  {
-    "en": "Confirmation that evidence of identity originates from an appropriate authority",
-    "fr": "confirmation que la preuve de l’identité provient d’une autorité compétente."
-  },
-  {
-    "en": "Identity information acceptably matches assertion by an individual and all instances of evidence of identity,",
-    "fr": "Information sur l’identité correspond de façon acceptable à l’affirmation par une personne et à toutes les preuves de l’identité."
-  },
-  {
-    "en": "Confirmation of the foundational evidence of identity, using an authoritative source,",
-    "fr": "Confirmation de la preuve de l’identité à l’aide d’une source autorisée."
-  },
-  {
-    "en": "Confirmation that supporting evidence of identity originates from an appropriate authority, using an authoritative source",
-    "fr": "Confirmation que la preuve de l’identité provient d’une autorité compétente, à l’aide d’une source autorisée."
-  },
-  {
-    "en": "inspection by trained examiner",
-    "fr": "Inspection par un examinateur d’expérience."
-  },
-  {
-    "en": "No requirement",
-    "fr": "Aucune exigence."
-  },
-  {
-    "en": "No requirement",
-    "fr": "Aucune exigence."
-  },
-  {
-    "en": "knowledge-based confirmation",
-    "fr": "Confirmation reposant sur les connaissances."
-  },
-  {
-    "en": "biological or behavioural characteristic confirmation",
-    "fr": "Confirmation des caractéristiques biologiques ou comportementale"
-  },
-  {
-    "en": "trusted referee confirmation",
-    "fr": "Confirmation par un arbitre de confiance."
-  },
-  {
-    "en": "physical possession confirmation",
-    "fr": "Confirmation de possession matérielle."
-  },
-  {
-    "en": "knowledge-based confirmation",
-    "fr": "Confirmation reposant sur les connaissances."
-  },
-  {
-    "en": "biological or behavioural characteristic confirmation",
-    "fr": "Confirmation des caractéristiques biologiques ou comportementale"
-  },
-  {
-    "en": "trusted referee confirmation",
-    "fr": "Confirmation par un arbitre de confiance."
-  },
-  {
-    "en": "physical possession confirmation",
-    "fr": "Confirmation de possession matérielle."
-  },
-  {
-    "en": "This standard takes effect on July 1, 2019.",
-    "fr": "La présente Norme entre en vigueur le 1 juillet 2019."
-  },
-  {
-    "en": "This standard replaces the Standard on Identity and Credential Assurance, dated February 1, 2013.",
-    "fr": "La présente Norme remplace la Norme sur la gestion de l’identité et l’assurance du justificatif (1er février 2013)."
-  },
-  {
-    "en": "This standard provides details on the requirements set out in subsection 4.1.7 of the Directive on Identity Management.",
-    "fr": "La présente Norme décrit les exigences énoncées à la section 4.1.7 de la Directive sur la gestion de l’identité."
-  },
-  {
-    "en": "Standards are as follows:",
-    "fr": "Les normes sont comme suit :"
-  },
-  {
-    "en": "very high confidence required that an individual is who they claim to be;",
-    "fr": "‒ Besoin d’un niveau très élevé de confiance que la personne est celle qu’elle affirme être."
-  },
-  {
-    "en": "high confidence required that an individual is who they claim to be;",
-    "fr": "‒ Besoin d’un niveau élevé de confiance que la personne est celle qu’elle affirme être."
-  },
-  {
-    "en": "some confidence required that an individual is who they claim to be; and",
-    "fr": "‒ Besoin d’un certain niveau de confiance que la personne est celle qu’elle affirme être."
-  },
-  {
-    "en": "little confidence required that an individual is who they claim to be.",
-    "fr": "‒ Besoin d’un faible niveau de confiance que la personne est celle qu’elle affirme être."
-  },
-  {
-    "en": "very high confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised;",
-    "fr": "‒ Besoin d’un niveau très élevé de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis.."
-  },
-  {
-    "en": "high confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised;",
-    "fr": "‒ Besoin d’un niveau élevé de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis."
-  },
-  {
-    "en": "some confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised;",
-    "fr": "‒ Besoin d’un certain niveau de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis."
-  },
-  {
-    "en": "little confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised.",
-    "fr": "‒ Besoin d’un faible niveau de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis."
-  },
-  {
-    "en": "The minimum requirements for establishing an identity assurance level are shown in Table 1.",
-    "fr": "Les exigences minimales pour l’établissement d’un niveau d’assurance de l’identité sont indiquées dans le tableau 1."
-  },
-  {
-    "en": "Ensure that the minimum requirements are met, or appropriately manage the related risks.",
-    "fr": "Assurer la conformité aux exigences minimales, ou gérer de façon adéquate les risques connexe."
-  },
-  {
-    "en": "Assurance levels for trusted digital identities when participating in an approved trust framework are as follows:",
-    "fr": "Lors de l’adoption d’un cadre de fiabilité, utiliser des niveaux normalisés d’assurance d’une identité numérique digne de confiance :"
-  },
-  {
-    "en": "very high confidence required in the electronic representation of a person, used exclusively by that same person;",
-    "fr": "‒ Niveau de confiance très élevé dans la représentation électronique d’une personne."
-  },
-  {
-    "en": "high confidence required in the electronic representation of a person, used exclusively by that same person;",
-    "fr": "‒ Niveau de confiance élevé dans la représentation électronique d’une personne."
-  },
-  {
-    "en": "some confidence required in the electronic representation of a person, used exclusively by that same person; and",
-    "fr": "‒ Niveau de confiance modéré dans la représentation électronique d’une personne."
-  },
-  {
-    "en": "little confidence required in the electronic representation of a person, used exclusively by that same person.",
-    "fr": "‒ Niveau de confiance faible dans la représentation électronique d’une personne."
+    "en": "Credential assurance levelsLevel 4: very high confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised;Level 3: high confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised;Level 2: some confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised;Level 1: little confidence required that an individual has maintained control over a credential that has been entrusted to them and that the credential has not been compromised.",
+    "fr": "Niveau d’assurance des justificatifsNiveau 4 ‒ Besoin d’un niveau très élevé de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis.. Niveau 3 ‒ Besoin d’un niveau élevé de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis. Niveau 2 ‒ Besoin d’un certain niveau de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis. Niveau 1 ‒ Besoin d’un faible niveau de confiance que la personne a gardé le contrôle des justificatifs qui lui ont été confiés et que ceux-ci n’ont pas été compromis.",
+    "anchor": "A.2.2",
+    "tag": "section"
   }
 ]

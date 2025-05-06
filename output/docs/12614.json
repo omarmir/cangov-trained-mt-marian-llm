@@ -1,182 +1,116 @@
 [
   {
     "en": "To assist employees who are parents and need day care to pursue careers in the Public Service.",
-    "fr": "Aider les employés qui sont des parents et qui ont besoin d'un service de garderie à poursuivre leur carrière à la fonction publique."
+    "fr": "Aider les employés qui sont des parents et qui ont besoin d'un service de garderie à poursuivre leur carrière à la fonction publique.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "It is the policy of the employer to establish workplace day care centres where such centres are financially and operationally practicable.",
-    "fr": "L'employeur a pour politique d'aménager des garderies en milieu de travail lorsque ces projets sont réalisables sur les plans financier et opérationnel."
+    "fr": "L'employeur a pour politique d'aménager des garderies en milieu de travail lorsque ces projets sont réalisables sur les plans financier et opérationnel.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "This policy applies to all departments and other portions of the Public Service listed in Part I of Schedule I of the .",
-    "fr": "La présente politique s'applique à tous les ministères ou autres éléments de la fonction publique énumérés à la partie I de l'annexe I de la ."
+    "en": "This policy applies to all departments and other portions of the Public Service listed in Part I of Schedule I of thePublic Service Staff Relations Act.",
+    "fr": "La présente politique s'applique à tous les ministères ou autres éléments de la fonction publique énumérés à la partie I de l'annexe I de la Loi sur les relations de travail dans la fonction publique.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "1. The following conditions apply to every workplace day care centre (hereafter referred to as centre).1.1 A centre must be associated with a lead department or a group of user departments -in which case one department must be chosen as the lead department -whose employees work in or near the workplace in question.1.2 The total number of actual or proposed centres, including the one under active consideration, in the municipality or census subdivision as set out in the Geographic Location Master File (see references), must not exceed one for every 4,000 employees.1.3 The centre must have the capacity to accommodate at least 30 children.1.4 A centre must attempt to operate with all or most of its capacity used by children of employees. After the initial five years of operation, the rental subsidy calculation will be based on the percentage of children of employees using the centre. (See appendix B)1.5 A centre must cost the employer no more than $400,000 (1991 dollars) to fit up the space it will occupy.1.6 Before the fit-up of a centre, employee-parent volunteers must form a non-profit day care centre corporation (hereafter referred to as corporation) in accordance with the legislation that applies in the area where the centre will be located.1.7 A centre must be entirely financially self-supporting, except for the federally subsidized fit-up and rent at full market rates, described in this policy. Federal funds will not be available for centres in financial difficulty.1.8 Fit-up, rent and wrap-up costs must come from the existing financial resources of the relevant department(s). (See policy requirement 2.4)1.9 A centre must strictly observe all the provisions of its licence agreement with the custodian department. (See policy requirement 3.6)",
+    "fr": "1. Les conditions suivantes s'appliquent à toute garderie en milieu de travail (ci-après appelée garderie).1.1 La garderie doit recevoir l'appui d'un ministère principal ou d'un groupe de ministères usagers (parmi lesquels un ministère principal est désigné) dont les employés travaillent dans l'immeuble concerné ou à proximité.1.2 Le nombre réel ou projeté de garderies, y compris le projet de garderie en question, ne doit pas dépasser une garderie par 4 000 employés dans la municipalité ou la subdivision de recensement, tel qu'il est stipulé dans le Fichier maître des codes géographiques. (Voir les références.)1.3 La garderie doit pouvoir accueillir au moins 30 enfants.1.4 La garderie doit tenter de fonctionner en ayant l'ensemble ou la plupart de sa capacité utilisée par des enfants de fonctionnaires. Après les cinq premières années d'exploitation, on effectuera le calcul de la subvention locative d'après le pourcentage d'enfants de fonctionnaires qui fréquentent la garderie. (Voir l'appendice B pour plus de détails)1.5 Les frais d'aménagement de la garderie encourus par l'employeur ne doivent pas dépasser 400 000 $ (valeur en 1991).1.6 Avant l'aménagement d'une garderie, des parents-employés bénévoles doivent constituer une société sans but lucratif (société), conformément aux dispositions législatives en vigueur dans le secteur où sera établie la garderie.1.7 La garderie doit être entièrement autonome sur le plan financier, exception faite des frais d'aménagement et des subventions fédérales pour le loyer (aux taux maximaux du marché) dont il est question dans la présente politique. Le gouvernement fédéral ne dépannera aucune garderie ayant des problèmes financiers.1.8 Le financement des frais d'aménagement, de location et de remise à neuf doit provenir des ressources financières actuelles du ou des ministère(s) concerné(s). (Voir le paragraphe 2.4)1.9 La garderie doit respecter rigoureusement toutes les dispositionss du permis d'occupation octroyé par le ministère ayant la garde de l'immeuble. (Voir le paragraphe 3.6)",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "2. The lead department must do the following:2.1 Interested deputy heads reserve the option to proceed with the establishment of a centre by writing to the secretary of the Treasury Board.The ten available options for new centres will be allotted on a \"first come, first served\" basis. Each option expires within six months unless the deputy minister writes to the secretary within that period, indicating that as a result of the economic viability assessment, a centre will be established. (See policy requirement 2.4)2.2 Ensure that:No other actual or proposed centre already serves any of the identified federal work force; Requirements 1.2 and 1.3 are met.2.3 Survey the identified federal workforce, including determining the official languages needs of interested employees (i.e. English, French, bilingual) and conduct a thorough financial analysis to establish whether current and future demands are sufficient for a centre to be viable.2.4 Where the deputy head is satisfied that a centre is financially viable and that the department is willing to be the lead department, he or she advises the appropriate custodian department and the Secretary of the Treasury Board that the department agrees to:be financially responsible for the fit-up of a centre; cover the costs of preparing space for a new tenant should the centre close in the future; andtransfer to the custodian enough money to cover the rental subsidy or capital construction costs, where appropriate.In the case of a group of departments, each deputy head must 'viability and agree to 'share of the money.2.5 Compile and submit data for evaluation purposes as set out in appendix C.",
+    "fr": "2. Le ministère principal doit procéder comme suit:2.1 Les administrateurs généraux intéressés réservent l'option de procéder à l'établissement d'une garderie en écrivant au secrétaire du Conseil du Trésor.Les dix options disponibles pour de nouvelles garderies sont attribuées dans l'ordre des \"premiers arrivés, premiers servis\". Chaque option est échue dans un délai de six mois, sauf si le sous-ministre écrit au secrétaire pendant ce délai, pour indiquer qu'une garderie sera établie, d'après les résultats de l'examen de la viabilité économique. (Voir le paragraphe 2.4)2.2 Veiller à ce que:aucune autre garderie en milieu de travail, actuelle ou projetée, ne desserve les fonctionnaires fédéraux intéressésles exigences des paragraphes 1.2 et 1.3 soient respectées.2.3 Mener un sondage auprès des fonctionnaires fédéraux intéressés tout en déterminant leurs besoins linguistiques (français, anglais ou bilingues) et effectuer une analyse financière approfondie pour déterminer si la demande actuelle et anticipée est assez forte pour rentabiliser une garderie.2.4 Si l'administrateur général convient que la garderie est économiquement viable et que le ministère est disposé à la parrainer à titre de ministère principal, il informe le ministère ayant la garde de l'immeuble fédéral et le secrétaire du Conseil du Trésor qu'il accepte:d'assumer les frais d'aménagement d'une garderie; de payer les dépenses de remise à neuf en faveur d'un nouveau locataire, si la garderie ferme etde transférer suffisamment de fonds pour couvrir la subvention locative ou les coûts d'installation permanente, s'il y a lieu.Dans le cas d'un groupe de ministères, chaque administrateur général doit convenir que la garderie est économiquement viable et accepter de transférer la quote-part de son ministère.2.5 Recueillir et présenter des données aux fins d'évaluation, comme il est indiqué à l'appendice C.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "3. The custodian department responsible for the worksite must:3.1 determine whether an operationally practicable location for a centre exists;3.2 board and the lead department, identify an economically suitable location within or near a federal workplace for which fit-up costs will not exceed $400,000 (1991 dollars) and plan the fit-up of the centre;3.3 ensure that the fit-up complies with the legal requirements for licensed day care centres in the area where the centre is to be located;3.4 ensure that the centre is accessible to parents and children with disabilities;3.5 verify that the corporation has received the appropriate provincial or municipal licences or both; and3.6 in entering into a licence agreement with the corporation for the use of the space allocated to the centre, obtain legal advice with respect to the proposed agreement on matters relating thereto, including the issues of liability and of ensuring conformity with this policy. The agreement must include provision for: payment of rent by the corporation of not less than that set out in appendix B and, if applicable, meeting the language requirements in appendix D.",
+    "fr": "3. Le ministère à qui incombe la garde du lieu de travail doit:3.1 déterminer s'il existe un endroit convenable pour aménager la garderie;3.2 après avoir consulté le conseil d'administration de la garderie et le ministère principal, choisir un emplacement économiquement viable dans un immeuble fédéral ou à proximité, dont les frais d'aménagement ne dépasseront pas 400 000 $ (valeur en 1991) et en planifier l'aménagement;3.3 veiller à ce que l'aménagement soit conforme aux exigences législatives s'appliquant aux garderies accréditées en vigueur dans le secteur où la garderie sera aménagée;3.4 veiller à ce que les parents et les enfants handicapés puissent y avoir facilement accès;3.5 s'assurer que la société a obtenu les permis nécessaires de la province ou de la municipalité ou des deux;3.6 lors de la remise du permis d'occupation à la société pour l'occupation de l'espace alloué à la garderie, obtenir des conseils juridiques relativement aux termes de l'entente proposée, y compris les questions de responsabilité et de conformité à la présente politique. Le permis doit inclure une clause relative au paiement par la société d'une part du loyer au moins égale à la somme mentionnée à l'appendice B et, s'il y a lieu, une clause sur les exigences linguistiques suivant l'appendice D.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "4. Before the custodian department enters into any obligations for the fit-up of a centre, the corporation must:4.1 ensure that the centre meets all the requirements for a provincially or municipally licensed day care centre other than the fit-up requirements for which the custodian department is responsible;4.2 enter into a licence agreement with the custodian department for the use of the space allocated to the centre;4.3 within the licence agreement, undertake to pay for utilities, cleaning and operating costs of the centre (excluding structural maintenance); and4.4 undertake to fulfill the requirements for the collection of data set out in appendix C and to submit the data to the lead department.",
+    "fr": "4. Avant que le ministère ayant la garde de l'immeuble ne prenne d'engagement relatif à l'aménagement de la garderie, la société doit:4.1 s'assurer que la garderie satisfait à toutes les exigences d'accréditation autres que les exigences d'aménagement qui relèvent du ministère ayant la garde de l'immeuble;4.2 obtenir du ministère ayant la garde de l'immeuble un permis d'occupation de l'espace alloué à la garderie;4.3 dans les limites du permis d'occupation, s'engager à défrayer les frais de services, de nettoyage et d'opération de la garderie (excluant l'entretien structural);4.4 s'engager à remplir toutes les exigences relatives à la collecte des données mentionnées à l'appendice C et à présenter ces données au ministère principal.",
+    "anchor": "4",
+    "tag": "section"
   },
   {
     "en": "1. The following conditions apply to every workplace day care centre (hereafter referred to as centre).",
-    "fr": "1. Les conditions suivantes s'appliquent à toute garderie en milieu de travail (ci-après appelée garderie)."
+    "fr": "1. Les conditions suivantes s'appliquent à toute garderie en milieu de travail (ci-après appelée garderie).",
+    "anchor": "4.1",
+    "tag": "p"
   },
   {
-    "en": "1.1 A centre must be associated with a lead department or a group of user departments -in which case one department must be chosen as the lead department -whose employees work in or near the workplace in question.",
-    "fr": "1.1 La garderie doit recevoir l'appui d'un ministère principal ou d'un groupe de ministères usagers (parmi lesquels un ministère principal est désigné) dont les employés travaillent dans l'immeuble concerné ou à proximité."
-  },
-  {
-    "en": "1.2 The total number of actual or proposed centres, including the one under active consideration, in the municipality or census subdivision as set out in the Geographic Location Master File (see references), must not exceed one for every 4,000 employees.",
-    "fr": "1.2 Le nombre réel ou projeté de garderies, y compris le projet de garderie en question, ne doit pas dépasser une garderie par 4 000 employés dans la municipalité ou la subdivision de recensement, tel qu'il est stipulé dans le Fichier maître des codes géographiques. (Voir les références.)"
-  },
-  {
-    "en": "1.3 The centre must have the capacity to accommodate at least 30 children.",
-    "fr": "1.3 La garderie doit pouvoir accueillir au moins 30 enfants."
-  },
-  {
-    "en": "1.4 A centre must attempt to operate with all or most of its capacity used by children of employees. After the initial five years of operation, the rental subsidy calculation will be based on the percentage of children of employees using the centre. (See appendix B)",
-    "fr": "1.4 La garderie doit tenter de fonctionner en ayant l'ensemble ou la plupart de sa capacité utilisée par des enfants de fonctionnaires. Après les cinq premières années d'exploitation, on effectuera le calcul de la subvention locative d'après le pourcentage d'enfants de fonctionnaires qui fréquentent la garderie. (Voir l'appendice B pour plus de détails)"
-  },
-  {
-    "en": "1.5 A centre must cost the employer no more than $400,000 (1991 dollars) to fit up the space it will occupy.",
-    "fr": "1.5 Les frais d'aménagement de la garderie encourus par l'employeur ne doivent pas dépasser 400 000 $ (valeur en 1991)."
-  },
-  {
-    "en": "1.6 Before the fit-up of a centre, employee-parent volunteers must form a non-profit day care centre corporation (hereafter referred to as corporation) in accordance with the legislation that applies in the area where the centre will be located.",
-    "fr": "1.6 Avant l'aménagement d'une garderie, des parents-employés bénévoles doivent constituer une société sans but lucratif (société), conformément aux dispositions législatives en vigueur dans le secteur où sera établie la garderie."
-  },
-  {
-    "en": "1.7 A centre must be entirely financially self-supporting, except for the federally subsidized fit-up and rent at full market rates, described in this policy. Federal funds will not be available for centres in financial difficulty.",
-    "fr": "1.7 La garderie doit être entièrement autonome sur le plan financier, exception faite des frais d'aménagement et des subventions fédérales pour le loyer (aux taux maximaux du marché) dont il est question dans la présente politique. Le gouvernement fédéral ne dépannera aucune garderie ayant des problèmes financiers."
-  },
-  {
-    "en": "1.8 Fit-up, rent and wrap-up costs must come from the existing financial resources of the relevant department(s). (See policy requirement 2.4)",
-    "fr": "1.8 Le financement des frais d'aménagement, de location et de remise à neuf doit provenir des ressources financières actuelles du ou des ministère(s) concerné(s). (Voir le paragraphe 2.4)"
-  },
-  {
-    "en": "1.9 A centre must strictly observe all the provisions of its licence agreement with the custodian department. (See policy requirement 3.6)",
-    "fr": "1.9 La garderie doit respecter rigoureusement toutes les dispositionss du permis d'occupation octroyé par le ministère ayant la garde de l'immeuble. (Voir le paragraphe 3.6)"
+    "en": "1.1 A centre must be associated with a lead department or a group of user departments -in which case one department must be chosen as the lead department -whose employees work in or near the workplace in question.1.2 The total number of actual or proposed centres, including the one under active consideration, in the municipality or census subdivision as set out in the Geographic Location Master File (see references), must not exceed one for every 4,000 employees.1.3 The centre must have the capacity to accommodate at least 30 children.1.4 A centre must attempt to operate with all or most of its capacity used by children of employees. After the initial five years of operation, the rental subsidy calculation will be based on the percentage of children of employees using the centre. (See appendix B)1.5 A centre must cost the employer no more than $400,000 (1991 dollars) to fit up the space it will occupy.1.6 Before the fit-up of a centre, employee-parent volunteers must form a non-profit day care centre corporation (hereafter referred to as corporation) in accordance with the legislation that applies in the area where the centre will be located.1.7 A centre must be entirely financially self-supporting, except for the federally subsidized fit-up and rent at full market rates, described in this policy. Federal funds will not be available for centres in financial difficulty.1.8 Fit-up, rent and wrap-up costs must come from the existing financial resources of the relevant department(s). (See policy requirement 2.4)1.9 A centre must strictly observe all the provisions of its licence agreement with the custodian department. (See policy requirement 3.6)",
+    "fr": "1.1 La garderie doit recevoir l'appui d'un ministère principal ou d'un groupe de ministères usagers (parmi lesquels un ministère principal est désigné) dont les employés travaillent dans l'immeuble concerné ou à proximité.1.2 Le nombre réel ou projeté de garderies, y compris le projet de garderie en question, ne doit pas dépasser une garderie par 4 000 employés dans la municipalité ou la subdivision de recensement, tel qu'il est stipulé dans le Fichier maître des codes géographiques. (Voir les références.)1.3 La garderie doit pouvoir accueillir au moins 30 enfants.1.4 La garderie doit tenter de fonctionner en ayant l'ensemble ou la plupart de sa capacité utilisée par des enfants de fonctionnaires. Après les cinq premières années d'exploitation, on effectuera le calcul de la subvention locative d'après le pourcentage d'enfants de fonctionnaires qui fréquentent la garderie. (Voir l'appendice B pour plus de détails)1.5 Les frais d'aménagement de la garderie encourus par l'employeur ne doivent pas dépasser 400 000 $ (valeur en 1991).1.6 Avant l'aménagement d'une garderie, des parents-employés bénévoles doivent constituer une société sans but lucratif (société), conformément aux dispositions législatives en vigueur dans le secteur où sera établie la garderie.1.7 La garderie doit être entièrement autonome sur le plan financier, exception faite des frais d'aménagement et des subventions fédérales pour le loyer (aux taux maximaux du marché) dont il est question dans la présente politique. Le gouvernement fédéral ne dépannera aucune garderie ayant des problèmes financiers.1.8 Le financement des frais d'aménagement, de location et de remise à neuf doit provenir des ressources financières actuelles du ou des ministère(s) concerné(s). (Voir le paragraphe 2.4)1.9 La garderie doit respecter rigoureusement toutes les dispositionss du permis d'occupation octroyé par le ministère ayant la garde de l'immeuble. (Voir le paragraphe 3.6)",
+    "anchor": "4.1",
+    "tag": "div"
   },
   {
     "en": "2. The lead department must do the following:",
-    "fr": "2. Le ministère principal doit procéder comme suit:"
+    "fr": "2. Le ministère principal doit procéder comme suit:",
+    "anchor": "4.2",
+    "tag": "p"
   },
   {
-    "en": "2.1 Interested deputy heads reserve the option to proceed with the establishment of a centre by writing to the secretary of the Treasury Board.",
-    "fr": "2.1 Les administrateurs généraux intéressés réservent l'option de procéder à l'établissement d'une garderie en écrivant au secrétaire du Conseil du Trésor."
-  },
-  {
-    "en": "The ten available options for new centres will be allotted on a \"first come, first served\" basis. Each option expires within six months unless the deputy minister writes to the secretary within that period, indicating that as a result of the economic viability assessment, a centre will be established. (See policy requirement 2.4)",
-    "fr": "Les dix options disponibles pour de nouvelles garderies sont attribuées dans l'ordre des \"premiers arrivés, premiers servis\". Chaque option est échue dans un délai de six mois, sauf si le sous-ministre écrit au secrétaire pendant ce délai, pour indiquer qu'une garderie sera établie, d'après les résultats de l'examen de la viabilité économique. (Voir le paragraphe 2.4)"
-  },
-  {
-    "en": "2.2 Ensure that:",
-    "fr": "2.2 Veiller à ce que:"
-  },
-  {
-    "en": "2.3 Survey the identified federal workforce, including determining the official languages needs of interested employees (i.e. English, French, bilingual) and conduct a thorough financial analysis to establish whether current and future demands are sufficient for a centre to be viable.",
-    "fr": "2.3 Mener un sondage auprès des fonctionnaires fédéraux intéressés tout en déterminant leurs besoins linguistiques (français, anglais ou bilingues) et effectuer une analyse financière approfondie pour déterminer si la demande actuelle et anticipée est assez forte pour rentabiliser une garderie."
-  },
-  {
-    "en": "2.4 Where the deputy head is satisfied that a centre is financially viable and that the department is willing to be the lead department, he or she advises the appropriate custodian department and the Secretary of the Treasury Board that the department agrees to:",
-    "fr": "2.4 Si l'administrateur général convient que la garderie est économiquement viable et que le ministère est disposé à la parrainer à titre de ministère principal, il informe le ministère ayant la garde de l'immeuble fédéral et le secrétaire du Conseil du Trésor qu'il accepte:"
-  },
-  {
-    "en": "In the case of a group of departments, each deputy head must 'viability and agree to 'share of the money.",
-    "fr": "Dans le cas d'un groupe de ministères, chaque administrateur général doit convenir que la garderie est économiquement viable et accepter de transférer la quote-part de son ministère."
-  },
-  {
-    "en": "2.5 Compile and submit data for evaluation purposes as set out in appendix C.",
-    "fr": "2.5 Recueillir et présenter des données aux fins d'évaluation, comme il est indiqué à l'appendice C."
+    "en": "2.1 Interested deputy heads reserve the option to proceed with the establishment of a centre by writing to the secretary of the Treasury Board.The ten available options for new centres will be allotted on a \"first come, first served\" basis. Each option expires within six months unless the deputy minister writes to the secretary within that period, indicating that as a result of the economic viability assessment, a centre will be established. (See policy requirement 2.4)2.2 Ensure that:No other actual or proposed centre already serves any of the identified federal work force; Requirements 1.2 and 1.3 are met.2.3 Survey the identified federal workforce, including determining the official languages needs of interested employees (i.e. English, French, bilingual) and conduct a thorough financial analysis to establish whether current and future demands are sufficient for a centre to be viable.2.4 Where the deputy head is satisfied that a centre is financially viable and that the department is willing to be the lead department, he or she advises the appropriate custodian department and the Secretary of the Treasury Board that the department agrees to:be financially responsible for the fit-up of a centre; cover the costs of preparing space for a new tenant should the centre close in the future; andtransfer to the custodian enough money to cover the rental subsidy or capital construction costs, where appropriate.In the case of a group of departments, each deputy head must 'viability and agree to 'share of the money.2.5 Compile and submit data for evaluation purposes as set out in appendix C.",
+    "fr": "2.1 Les administrateurs généraux intéressés réservent l'option de procéder à l'établissement d'une garderie en écrivant au secrétaire du Conseil du Trésor.Les dix options disponibles pour de nouvelles garderies sont attribuées dans l'ordre des \"premiers arrivés, premiers servis\". Chaque option est échue dans un délai de six mois, sauf si le sous-ministre écrit au secrétaire pendant ce délai, pour indiquer qu'une garderie sera établie, d'après les résultats de l'examen de la viabilité économique. (Voir le paragraphe 2.4)2.2 Veiller à ce que:aucune autre garderie en milieu de travail, actuelle ou projetée, ne desserve les fonctionnaires fédéraux intéressésles exigences des paragraphes 1.2 et 1.3 soient respectées.2.3 Mener un sondage auprès des fonctionnaires fédéraux intéressés tout en déterminant leurs besoins linguistiques (français, anglais ou bilingues) et effectuer une analyse financière approfondie pour déterminer si la demande actuelle et anticipée est assez forte pour rentabiliser une garderie.2.4 Si l'administrateur général convient que la garderie est économiquement viable et que le ministère est disposé à la parrainer à titre de ministère principal, il informe le ministère ayant la garde de l'immeuble fédéral et le secrétaire du Conseil du Trésor qu'il accepte:d'assumer les frais d'aménagement d'une garderie; de payer les dépenses de remise à neuf en faveur d'un nouveau locataire, si la garderie ferme etde transférer suffisamment de fonds pour couvrir la subvention locative ou les coûts d'installation permanente, s'il y a lieu.Dans le cas d'un groupe de ministères, chaque administrateur général doit convenir que la garderie est économiquement viable et accepter de transférer la quote-part de son ministère.2.5 Recueillir et présenter des données aux fins d'évaluation, comme il est indiqué à l'appendice C.",
+    "anchor": "4.2",
+    "tag": "div"
   },
   {
     "en": "3. The custodian department responsible for the worksite must:",
-    "fr": "3. Le ministère à qui incombe la garde du lieu de travail doit:"
+    "fr": "3. Le ministère à qui incombe la garde du lieu de travail doit:",
+    "anchor": "4.3",
+    "tag": "p"
   },
   {
-    "en": "3.1 determine whether an operationally practicable location for a centre exists;",
-    "fr": "3.1 déterminer s'il existe un endroit convenable pour aménager la garderie;"
-  },
-  {
-    "en": "3.2 board and the lead department, identify an economically suitable location within or near a federal workplace for which fit-up costs will not exceed $400,000 (1991 dollars) and plan the fit-up of the centre;",
-    "fr": "3.2 après avoir consulté le conseil d'administration de la garderie et le ministère principal, choisir un emplacement économiquement viable dans un immeuble fédéral ou à proximité, dont les frais d'aménagement ne dépasseront pas 400 000 $ (valeur en 1991) et en planifier l'aménagement;"
-  },
-  {
-    "en": "3.3 ensure that the fit-up complies with the legal requirements for licensed day care centres in the area where the centre is to be located;",
-    "fr": "3.3 veiller à ce que l'aménagement soit conforme aux exigences législatives s'appliquant aux garderies accréditées en vigueur dans le secteur où la garderie sera aménagée;"
-  },
-  {
-    "en": "3.4 ensure that the centre is accessible to parents and children with disabilities;",
-    "fr": "3.4 veiller à ce que les parents et les enfants handicapés puissent y avoir facilement accès;"
-  },
-  {
-    "en": "3.5 verify that the corporation has received the appropriate provincial or municipal licences or both; and",
-    "fr": "3.5 s'assurer que la société a obtenu les permis nécessaires de la province ou de la municipalité ou des deux;"
-  },
-  {
-    "en": "3.6 in entering into a licence agreement with the corporation for the use of the space allocated to the centre, obtain legal advice with respect to the proposed agreement on matters relating thereto, including the issues of liability and of ensuring conformity with this policy. The agreement must include provision for: payment of rent by the corporation of not less than that set out in appendix B and, if applicable, meeting the language requirements in appendix D.",
-    "fr": "3.6 lors de la remise du permis d'occupation à la société pour l'occupation de l'espace alloué à la garderie, obtenir des conseils juridiques relativement aux termes de l'entente proposée, y compris les questions de responsabilité et de conformité à la présente politique. Le permis doit inclure une clause relative au paiement par la société d'une part du loyer au moins égale à la somme mentionnée à l'appendice B et, s'il y a lieu, une clause sur les exigences linguistiques suivant l'appendice D."
+    "en": "3.1 determine whether an operationally practicable location for a centre exists;3.2 board and the lead department, identify an economically suitable location within or near a federal workplace for which fit-up costs will not exceed $400,000 (1991 dollars) and plan the fit-up of the centre;3.3 ensure that the fit-up complies with the legal requirements for licensed day care centres in the area where the centre is to be located;3.4 ensure that the centre is accessible to parents and children with disabilities;3.5 verify that the corporation has received the appropriate provincial or municipal licences or both; and3.6 in entering into a licence agreement with the corporation for the use of the space allocated to the centre, obtain legal advice with respect to the proposed agreement on matters relating thereto, including the issues of liability and of ensuring conformity with this policy. The agreement must include provision for: payment of rent by the corporation of not less than that set out in appendix B and, if applicable, meeting the language requirements in appendix D.",
+    "fr": "3.1 déterminer s'il existe un endroit convenable pour aménager la garderie;3.2 après avoir consulté le conseil d'administration de la garderie et le ministère principal, choisir un emplacement économiquement viable dans un immeuble fédéral ou à proximité, dont les frais d'aménagement ne dépasseront pas 400 000 $ (valeur en 1991) et en planifier l'aménagement;3.3 veiller à ce que l'aménagement soit conforme aux exigences législatives s'appliquant aux garderies accréditées en vigueur dans le secteur où la garderie sera aménagée;3.4 veiller à ce que les parents et les enfants handicapés puissent y avoir facilement accès;3.5 s'assurer que la société a obtenu les permis nécessaires de la province ou de la municipalité ou des deux;3.6 lors de la remise du permis d'occupation à la société pour l'occupation de l'espace alloué à la garderie, obtenir des conseils juridiques relativement aux termes de l'entente proposée, y compris les questions de responsabilité et de conformité à la présente politique. Le permis doit inclure une clause relative au paiement par la société d'une part du loyer au moins égale à la somme mentionnée à l'appendice B et, s'il y a lieu, une clause sur les exigences linguistiques suivant l'appendice D.",
+    "anchor": "4.3",
+    "tag": "div"
   },
   {
     "en": "4. Before the custodian department enters into any obligations for the fit-up of a centre, the corporation must:",
-    "fr": "4. Avant que le ministère ayant la garde de l'immeuble ne prenne d'engagement relatif à l'aménagement de la garderie, la société doit:"
+    "fr": "4. Avant que le ministère ayant la garde de l'immeuble ne prenne d'engagement relatif à l'aménagement de la garderie, la société doit:",
+    "anchor": "4.4",
+    "tag": "p"
   },
   {
-    "en": "4.1 ensure that the centre meets all the requirements for a provincially or municipally licensed day care centre other than the fit-up requirements for which the custodian department is responsible;",
-    "fr": "4.1 s'assurer que la garderie satisfait à toutes les exigences d'accréditation autres que les exigences d'aménagement qui relèvent du ministère ayant la garde de l'immeuble;"
-  },
-  {
-    "en": "4.2 enter into a licence agreement with the custodian department for the use of the space allocated to the centre;",
-    "fr": "4.2 obtenir du ministère ayant la garde de l'immeuble un permis d'occupation de l'espace alloué à la garderie;"
-  },
-  {
-    "en": "4.3 within the licence agreement, undertake to pay for utilities, cleaning and operating costs of the centre (excluding structural maintenance); and",
-    "fr": "4.3 dans les limites du permis d'occupation, s'engager à défrayer les frais de services, de nettoyage et d'opération de la garderie (excluant l'entretien structural);"
-  },
-  {
-    "en": "4.4 undertake to fulfill the requirements for the collection of data set out in appendix C and to submit the data to the lead department.",
-    "fr": "4.4 s'engager à remplir toutes les exigences relatives à la collecte des données mentionnées à l'appendice C et à présenter ces données au ministère principal."
+    "en": "4.1 ensure that the centre meets all the requirements for a provincially or municipally licensed day care centre other than the fit-up requirements for which the custodian department is responsible;4.2 enter into a licence agreement with the custodian department for the use of the space allocated to the centre;4.3 within the licence agreement, undertake to pay for utilities, cleaning and operating costs of the centre (excluding structural maintenance); and4.4 undertake to fulfill the requirements for the collection of data set out in appendix C and to submit the data to the lead department.",
+    "fr": "4.1 s'assurer que la garderie satisfait à toutes les exigences d'accréditation autres que les exigences d'aménagement qui relèvent du ministère ayant la garde de l'immeuble;4.2 obtenir du ministère ayant la garde de l'immeuble un permis d'occupation de l'espace alloué à la garderie;4.3 dans les limites du permis d'occupation, s'engager à défrayer les frais de services, de nettoyage et d'opération de la garderie (excluant l'entretien structural);4.4 s'engager à remplir toutes les exigences relatives à la collecte des données mentionnées à l'appendice C et à présenter ces données au ministère principal.",
+    "anchor": "4.4",
+    "tag": "div"
   },
   {
     "en": "In monitoring a department's administration of this policy, the Treasury Board Secretariat will determine, in conformance with data collected as outlined in appendix C, the extent to which children of employees are using the centre.",
-    "fr": "Lors du contrôle de l'application de la présente politique par les ministères, le Secrétariat du Conseil du Trésor déterminera, suivant l'appendice C, combien d'enfants d'employés fréquentent la garderie."
+    "fr": "Lors du contrôle de l'application de la présente politique par les ministères, le Secrétariat du Conseil du Trésor déterminera, suivant l'appendice C, combien d'enfants d'employés fréquentent la garderie.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "A Model for a Demand Survey and Economic Viability Study (available from the departmental officers responsible for the policy)Fact Sheet on Existing and Proposed Workplace Day Care Centres (available from the departmental officers responsible for the policy)Information and Referral Services for Child Care PolicyGeographic Location Master File, Supply and Services Canada (available through departmental personnel offices or from the Personnel Systems Group, Information Services Directorate, SSC).",
+    "fr": "Cadre d'enquête sur la demande et d'étude de garderies en milieu de travail. On peut obtenir un exemplaire de ce document auprès des agents ministériels chargés de la politique sur les garderies.Feuillet de renseignements sur les garderies en milieu de travail actuelles et prévues. On peut obtenir un exemplaire de ce document auprès des agents ministériels chargés de la politique.Services d'information et d'orientation sur la garde des enfants (volume Ressources humaines du MCT, chapitre 4-3)Fichier maître des codes géographiques, Approvisionnements et services Canada. On peut obtenir un exemplaire de ce document auprès des agents ministériels ou auprès du Groupe des systèmes du personnel, Direction des services d'information, ASC.",
+    "anchor": "6",
+    "tag": "ul"
   },
   {
     "en": "This chapter replaces chapter 18 of PMM volume 4.",
-    "fr": "Le présent chapitre remplace le chapitre 18 du volume 4 du MGP."
+    "fr": "Le présent chapitre remplace le chapitre 18 du volume 4 du MGP.",
+    "anchor": "6",
+    "tag": "p"
   },
   {
     "en": "Enquiries relating to this policy should be referred to the responsible officer designated in departmental/organizational headquarters, who in turn may direct questions regarding interpretation to the Human Resources Branch of the Treasury Board of Canada Secretariat.",
-    "fr": "Les demandes d'information concernant cette politique doivent être adressées à l'agent responsable désigné à l'administration centrale du ministère ou de l'organisme qui, à son tour, pourra transmettre les questions d'interprétation à la Direction des ressources humaines du Secrétariat du Conseil du Trésor du Canada."
-  },
-  {
-    "en": "No other actual or proposed centre already serves any of the identified federal work force;",
-    "fr": "aucune autre garderie en milieu de travail, actuelle ou projetée, ne desserve les fonctionnaires fédéraux intéressés"
-  },
-  {
-    "en": "Requirements 1.2 and 1.3 are met.",
-    "fr": "les exigences des paragraphes 1.2 et 1.3 soient respectées."
-  },
-  {
-    "en": "be financially responsible for the fit-up of a centre;",
-    "fr": "d'assumer les frais d'aménagement d'une garderie;"
-  },
-  {
-    "en": "cover the costs of preparing space for a new tenant should the centre close in the future; and",
-    "fr": "de payer les dépenses de remise à neuf en faveur d'un nouveau locataire, si la garderie ferme et"
-  },
-  {
-    "en": "transfer to the custodian enough money to cover the rental subsidy or capital construction costs, where appropriate.",
-    "fr": "de transférer suffisamment de fonds pour couvrir la subvention locative ou les coûts d'installation permanente, s'il y a lieu."
-  },
-  {
-    "en": "A Model for a Demand Survey and Economic Viability Study (available from the departmental officers responsible for the policy)",
-    "fr": "Cadre d'enquête sur la demande et d'étude de garderies en milieu de travail. On peut obtenir un exemplaire de ce document auprès des agents ministériels chargés de la politique sur les garderies."
-  },
-  {
-    "en": "Fact Sheet on Existing and Proposed Workplace Day Care Centres (available from the departmental officers responsible for the policy)",
-    "fr": "Feuillet de renseignements sur les garderies en milieu de travail actuelles et prévues. On peut obtenir un exemplaire de ce document auprès des agents ministériels chargés de la politique."
-  },
-  {
-    "en": "Information and Referral Services for Child Care Policy",
-    "fr": "Services d'information et d'orientation sur la garde des enfants (volume Ressources humaines du MCT, chapitre 4-3)"
-  },
-  {
-    "en": "Geographic Location Master File, Supply and Services Canada (available through departmental personnel offices or from the Personnel Systems Group, Information Services Directorate, SSC).",
-    "fr": "Fichier maître des codes géographiques, Approvisionnements et services Canada. On peut obtenir un exemplaire de ce document auprès des agents ministériels ou auprès du Groupe des systèmes du personnel, Direction des services d'information, ASC."
+    "fr": "Les demandes d'information concernant cette politique doivent être adressées à l'agent responsable désigné à l'administration centrale du ministère ou de l'organisme qui, à son tour, pourra transmettre les questions d'interprétation à la Direction des ressources humaines du Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "7",
+    "tag": "p"
   }
 ]

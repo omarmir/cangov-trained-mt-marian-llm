@@ -1,258 +1,488 @@
 [
   {
-    "en": "This directive takes effect on , with compliance required by no later than .",
-    "fr": "La présente directive entre en vigueur le et doit être respectée au plus tard le ."
+    "en": "This directive takes effect on April 1, 2019, with compliance required by no later than April 1, 2020.",
+    "fr": "La présente directive entre en vigueur le 1er avril 2019 et doit être respectée au plus tard le 1er avril 2020.",
+    "anchor": "1.1",
+    "tag": "p"
   },
   {
-    "en": "This directive applies to all automated decision systems developed or procured after . However,",
-    "fr": "La présente directive s’applique à tous les systèmes décisionnels automatisés développés ou acquis après le . Cependant,"
+    "en": "This directive applies to all automated decision systems developed or procured after April 1, 2020. However,",
+    "fr": "La présente directive s’applique à tous les systèmes décisionnels automatisés développés ou acquis après le 1er avril 2020. Cependant,",
+    "anchor": "1.2",
+    "tag": "p"
   },
   {
-    "en": "existing systems developed or procured prior to will have until to fully transition to the requirements in subsections 6.2.3, 6.3.1, 6.3.4, 6.3.5 and 6.3.6 in this directive;",
-    "fr": "les systèmes existants développés ou acquis avant le auront jusqu’au pour effectuer une transition complète vers les exigences des sous-sections 6.2.3, 6.3.1, 6.3.4, 6.3.5 et 6.3.6 de la présente directive;"
+    "en": "existing systems developed or procured prior to April 25, 2023 will have until April 25, 2024 to fully transition to the requirements in subsections 6.2.3, 6.3.1, 6.3.4, 6.3.5 and 6.3.6 in this directive;",
+    "fr": "les systèmes existants développés ou acquis avant le 25 avril 2023 auront jusqu’au 25 avril 2024 pour effectuer une transition complète vers les exigences des sous-sections 6.2.3, 6.3.1, 6.3.4, 6.3.5 et 6.3.6 de la présente directive;",
+    "anchor": "1.2.1",
+    "tag": "p"
   },
   {
-    "en": "new systems developed or procured after will have until to meet the requirements in this directive.",
-    "fr": "les nouveaux systèmes développés ou acquis après le auront jusqu’au pour satisfaire aux exigences de la présente directive."
+    "en": "new systems developed or procured after April 25, 2023 will have until October 25, 2023 to meet the requirements in this directive.",
+    "fr": "les nouveaux systèmes développés ou acquis après le 25 avril 2023 auront jusqu’au 25 octobre 2023 pour satisfaire aux exigences de la présente directive.",
+    "anchor": "1.2.2",
+    "tag": "p"
   },
   {
     "en": "This directive will be reviewed every two years, and as determined by the Chief Information Officer of Canada.",
-    "fr": "La présente directive sera révisée tous les deux ans et selon ce que déterminera la dirigeante principale de l’information du Canada."
+    "fr": "La présente directive sera révisée tous les deux ans et selon ce que déterminera la dirigeante principale de l’information du Canada.",
+    "anchor": "1.3",
+    "tag": "p"
   },
   {
-    "en": "This directive is issued pursuant to the same authority indicated in section 2 of the .",
-    "fr": "La présente directive est émise conformément aux mêmes autorisations et pouvoirs indiqués à la section 2 de la ."
+    "en": "Legislation",
+    "fr": "Lois",
+    "anchor": "10.1",
+    "tag": "p"
   },
   {
-    "en": "Definitions to be used in the interpretation of this directive are listed in .",
-    "fr": "Les définitions servant à l’interprétation de la présente directive sont présentées à l’ ."
+    "en": "Financial Administration ActAccess to Information ActCanadian Human Rights ActPrivacy ActSecurity of Information ActAccessible Canada Act",
+    "fr": "Loi sur la gestion des finances publiquesLoi sur l’accès à l’informationLoi canadienne sur les droits de la personneLoi sur la protection des renseignements personnelsLoi sur la protection de l’informationLoi canadienne sur l’accessibilité",
+    "anchor": "10.1",
+    "tag": "ul"
+  },
+  {
+    "en": "Related policy instruments",
+    "fr": "Instruments de politique connexes",
+    "anchor": "10.2",
+    "tag": "p"
+  },
+  {
+    "en": "Policy on Access to InformationPolicy on Service and DigitalPolicy on Government SecurityPolicy on Privacy ProtectionPolicy on People ManagementDirective on Open GovernmentStandard on Security Screening",
+    "fr": "Politique sur l’accès à l’informationPolitique sur les services et le numériquePolitique sur la sécurité du gouvernementPolitique sur la protection de la vie privéePolitique sur la gestion des personnesDirective sur le gouvernement ouvertNorme sur le filtrage de sécurité",
+    "anchor": "10.2",
+    "tag": "ul"
+  },
+  {
+    "en": "For interpretation of any aspect of this directive, contact Treasury Board of Canada Secretariat Public Enquiries.",
+    "fr": "Afin d’interpréter tout aspect de la présente directive, veuillez présenter une demande de renseignements auprès du Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "11.1",
+    "tag": "p"
+  },
+  {
+    "en": "Individuals from federal institutions may contact ai-ia@tbs-sct.gc.ca for any questions regarding this directive, including the Algorithmic Impact Assessment.",
+    "fr": "Les personnes qui proviennent d’institutions fédérales peuvent communiquer avec ai-ia@tbs-sct.gc.ca pour toute question concernant la présente directive, y compris l’évaluation de l’incidence algorithmique.",
+    "anchor": "11.2",
+    "tag": "p"
+  },
+  {
+    "en": "This directive is issued pursuant to the same authority indicated in section 2 of the Policy on Service and Digital.",
+    "fr": "La présente directive est émise conformément aux mêmes autorisations et pouvoirs indiqués à la section 2 de la Politique sur les services et le numérique.",
+    "anchor": "2.1",
+    "tag": "p"
+  },
+  {
+    "en": "Definitions to be used in the interpretation of this directive are listed in Appendix A.",
+    "fr": "Les définitions servant à l’interprétation de la présente directive sont présentées à l’annexe A.",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
     "en": "The objective of this directive is to ensure that automated decision systems are deployed in a manner that reduces risks to clients, federal institutions and Canadian society, and leads to more efficient, accurate, consistent and interpretable decisions made pursuant to Canadian law.",
-    "fr": "La présente directive a pour objet de veiller à ce que les systèmes décisionnels automatisés soient déployés d’une manière qui permet de réduire les risques pour les clients, les institutions fédérales et la société canadienne, et qui donne lieu à une prise de décisions plus efficace, exacte et conforme, qui peut être interprétée en vertu du droit canadien."
+    "fr": "La présente directive a pour objet de veiller à ce que les systèmes décisionnels automatisés soient déployés d’une manière qui permet de réduire les risques pour les clients, les institutions fédérales et la société canadienne, et qui donne lieu à une prise de décisions plus efficace, exacte et conforme, qui peut être interprétée en vertu du droit canadien.",
+    "anchor": "4.1",
+    "tag": "p"
   },
   {
     "en": "The expected results of this directive are as follows:",
-    "fr": "Les résultats escomptés de la présente directive sont les suivants :"
+    "fr": "Les résultats escomptés de la présente directive sont les suivants :",
+    "anchor": "4.2",
+    "tag": "p"
   },
   {
     "en": "Decisions made by federal institutions are data-driven, responsible and comply with procedural fairness and due process requirements.",
-    "fr": "Les décisions prises par les institutions fédérales sont appuyées par des données, et sont prises de façon responsable et conformes à l’équité procédurale et aux exigences d’application régulière de la loi."
+    "fr": "Les décisions prises par les institutions fédérales sont appuyées par des données, et sont prises de façon responsable et conformes à l’équité procédurale et aux exigences d’application régulière de la loi.",
+    "anchor": "4.2.1",
+    "tag": "p"
   },
   {
     "en": "Impacts of algorithms on administrative decisions are assessed and negative outcomes are reduced, when encountered.",
-    "fr": "Les incidences des algorithmes sur les décisions administratives sont évaluées et les résultats négatifs sont atténués, au nécessaire."
+    "fr": "Les incidences des algorithmes sur les décisions administratives sont évaluées et les résultats négatifs sont atténués, au nécessaire.",
+    "anchor": "4.2.2",
+    "tag": "p"
   },
   {
     "en": "Data and information on the use of automated decision systems in federal institutions are made available to the public, where appropriate.",
-    "fr": "Les données et les renseignements sur l’utilisation des systèmes décisionnels automatisés dans les institutions fédérales sont mis à la disposition du public, si nécessaire."
+    "fr": "Les données et les renseignements sur l’utilisation des systèmes décisionnels automatisés dans les institutions fédérales sont mis à la disposition du public, si nécessaire.",
+    "anchor": "4.2.3",
+    "tag": "p"
   },
   {
     "en": "This directive applies to any system, tool, or statistical model used to make an administrative decision or a related assessment about a client.",
-    "fr": "La présente directive s’applique à tout système, outil ou modèle statistique utilisé pour prendre une décision administrative ou une évaluation connexe au sujet d’un client."
+    "fr": "La présente directive s’applique à tout système, outil ou modèle statistique utilisé pour prendre une décision administrative ou une évaluation connexe au sujet d’un client.",
+    "anchor": "5.1",
+    "tag": "p"
   },
   {
     "en": "This directive applies only to automated decision systems in production and excludes systems operating in test environments.",
-    "fr": "La présente directive s’applique uniquement aux systèmes décisionnels automatisés en production et exclut les systèmes fonctionnant dans des environnements d’essais."
+    "fr": "La présente directive s’applique uniquement aux systèmes décisionnels automatisés en production et exclut les systèmes fonctionnant dans des environnements d’essais.",
+    "anchor": "5.2",
+    "tag": "p"
   },
   {
     "en": "The Assistant Deputy Minister responsible for the program using the automated decision system, or any other person named by the Deputy Head, is responsible for:",
-    "fr": "Le sous-ministre adjoint chargé du programme qui utilise le système décisionnel automatisé (ou toute autre personne nommée par l’administrateur général) est chargé de ce qui suit :"
+    "fr": "Le sous-ministre adjoint chargé du programme qui utilise le système décisionnel automatisé (ou toute autre personne nommée par l’administrateur général) est chargé de ce qui suit :",
+    "anchor": "6",
+    "tag": "p"
   },
   {
-    "en": "Completing and releasing the final results of an prior to the production of any automated decision system.",
-    "fr": "Effectuer et publier les résultats finaux d’une avant la production de tout système décisionnel automatisé."
+    "en": "Completing and releasing the final results of an Algorithmic Impact Assessment prior to the production of any automated decision system.Applying the relevant requirements prescribed in Appendix C as determined by the Algorithmic Impact Assessment.Reviewing and updating the Algorithmic Impact Assessment on a scheduled basis, including when the functionality or scope of the automated decision system changes.Releasing the final results of the Algorithmic Impact Assessment in an accessible format via Government of Canada websites and any other services designated by the Treasury Board of Canada Secretariat pursuant to the Directive on Open Government.",
+    "fr": "Effectuer et publier les résultats finaux d’une évaluation de l’incidence algorithmique avant la production de tout système décisionnel automatisé.Appliquer les exigences pertinentes décrites à l’annexe C, telles qu’elles ont été déterminées par l’évaluation de l’incidence algorithmique.Revoir et mettre à jour l’évaluation de l’incidence algorithmique à intervalles réguliers, notamment en cas de changement à la fonctionnalité ou la portée du système décisionnel automatisé.Diffuser les résultats finaux de l’évaluation de l’incidence algorithmique dans un format accessible par l’entremise des sites Web du gouvernement du Canada et de tout autre service désigné par le Secrétariat du Conseil du Trésor du Canada conformément à la Directive sur le gouvernement ouvert.",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
-    "en": "Applying the relevant requirements prescribed in Appendix C as determined by the Algorithmic Impact Assessment.",
-    "fr": "Appliquer les exigences pertinentes décrites à l’annexe C, telles qu’elles ont été déterminées par l’évaluation de l’incidence algorithmique."
+    "en": "Providing notice before decisionsProviding notice through all service delivery channels in use that the decision rendered will be undertaken in whole or in part by an automated decision system, as prescribed in Appendix C.Providing notices prominently and in plain language, pursuant to the Canada.ca Content Style Guide.Providing explanations after decisionsProviding a meaningful explanation to affected individuals of how and why the decision was made, as prescribed in Appendix C.Access to componentsDetermining the appropriate licence for software components, including consideration of open source software in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework.If using a proprietary licence, ensuring that:All released versions of proprietary software components used for automated decision systems are delivered to, and safeguarded by, the department.The Government of Canada retains the right to access and test automated decision systems, including all released versions of proprietary software components, in case it is necessary for a specific audit, investigation, inspection, examination, enforcement action, or judicial proceeding, subject to safeguards against unauthorized disclosure.As part of this access, the Government of Canada retains the right to authorize external parties to review and audit these components as necessary.Release of source codeReleasing custom source code owned by the Government of Canada in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework, unless:the source code is processing data classified as Secret, Top Secret or Protected C; ordisclosure would otherwise be exempted or excluded under the Access to Information Act, if the Access to Information Act were to apply.Determining the appropriate access restrictions to the released source code.Documenting decisionsDocumenting the decisions of automated decision systems in accordance with the Directive on Service and Digital, and in support of the monitoring (6.3.2), data governance (6.3.4) and reporting requirements (6.5.1).",
+    "fr": "Fournir un avis avant les décisionsFournir, par l’entremise de tous les modes de prestation de services utilisés, des avis sur le fait que la décision rendue sera formulée totalement ou en partie par un système décisionnel automatisé, comme prescrit à l’annexe C.Fournir des avis en langage simple et affichés de façon évidente, conformément au Guide de rédaction du contenu du site canada.ca.Fournir des explications après les décisionsFournir une explication significative aux personnes concernées sur la façon dont la décision a été prise et la raison pour laquelle elle a été prise, comme prescrit à l’annexe C.Accès aux composantsDéterminer la licence appropriée pour les composants logiciels, y compris la prise en compte des logiciels libres, conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada.Si l’on utilise une licence propriétaire, veiller à ce que :toutes les versions publiées des composants logiciels propriétaires utilisés pour les systèmes décisionels automatisés sont livrées et protégées par le ministère.le gouvernement du Canada détienne le droit d’accéder aux systèmes décisionnels automatisés et d’effectuer des essais sur celui-ci, y compris toutes les versions publiées des composants exclusifs, si de telles actions sont nécessaires pour réaliser un audit, une enquête, une inspection, un examen, une mesure d’exécution ou une procédure judiciaire, sous réserve de garanties contre une divulgation non autorisée.dans le cadre de son accès au système, le gouvernement du Canada se réserve le droit d’autoriser des tiers à examiner et à vérifier les composants au nécessaire.Publication du code sourceRendre public tout code source créé sur mesure détenu par le gouvernement du Canada conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada, sauf dans les cas où : le code source traite des données classifiées Secret, Très secret ou Protégé C; oula divulgation serait autrement exemptée ou exclue en vertu d’une clause de la Loi sur l’accès à l’information, si la Loi sur l’accès à l’information venait à s’appliquer.Déterminer les restrictions d’accès appropriées qui s’appliquent au code source rendu public.Documenter les décisionsDocumenter les décisions des systèmes décisionnels automatisés conformément à la Directive sur les services et le numérique, et à l’appui des exigences en matière de surveillance (6.3.2), de gouvernance des données (6.3.4) et d’établissement de rapports (6.5.1).",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
-    "en": "Reviewing and updating the Algorithmic Impact Assessment on a scheduled basis, including when the functionality or scope of the automated decision system changes.",
-    "fr": "Revoir et mettre à jour l’évaluation de l’incidence algorithmique à intervalles réguliers, notamment en cas de changement à la fonctionnalité ou la portée du système décisionnel automatisé."
-  },
-  {
-    "en": "Releasing the final results of the Algorithmic Impact Assessment in an accessible format via Government of Canada websites and any other services designated by the Treasury Board of Canada Secretariat pursuant to the .",
-    "fr": "Diffuser les résultats finaux de l’évaluation de l’incidence algorithmique dans un format accessible par l’entremise des sites Web du gouvernement du Canada et de tout autre service désigné par le Secrétariat du Conseil du Trésor du Canada conformément à la ."
-  },
-  {
-    "en": "Providing notice through all service delivery channels in use that the decision rendered will be undertaken in whole or in part by an automated decision system, as prescribed in Appendix C.",
-    "fr": "Fournir, par l’entremise de tous les modes de prestation de services utilisés, des avis sur le fait que la décision rendue sera formulée totalement ou en partie par un système décisionnel automatisé, comme prescrit à l’annexe C."
-  },
-  {
-    "en": "Providing notices prominently and in plain language, pursuant to the .",
-    "fr": "Fournir des avis en langage simple et affichés de façon évidente, conformément au ."
-  },
-  {
-    "en": "Providing a meaningful explanation to affected individuals of how and why the decision was made, as prescribed in Appendix C.",
-    "fr": "Fournir une explication significative aux personnes concernées sur la façon dont la décision a été prise et la raison pour laquelle elle a été prise, comme prescrit à l’annexe C."
-  },
-  {
-    "en": "Determining the appropriate licence for software components, including consideration of open source software in accordance with the measures specified in the .",
-    "fr": "Déterminer la licence appropriée pour les composants logiciels, y compris la prise en compte des logiciels libres, conformément aux mesures précisées dans le ."
-  },
-  {
-    "en": "If using a proprietary licence, ensuring that:",
-    "fr": "Si l’on utilise une licence propriétaire, veiller à ce que :"
-  },
-  {
-    "en": "All released versions of proprietary software components used for automated decision systems are delivered to, and safeguarded by, the department.",
-    "fr": "toutes les versions publiées des composants logiciels propriétaires utilisés pour les systèmes décisionels automatisés sont livrées et protégées par le ministère."
-  },
-  {
-    "en": "The Government of Canada retains the right to access and test automated decision systems, including all released versions of proprietary software components, in case it is necessary for a specific audit, investigation, inspection, examination, enforcement action, or judicial proceeding, subject to safeguards against unauthorized disclosure.",
-    "fr": "le gouvernement du Canada détienne le droit d’accéder aux systèmes décisionnels automatisés et d’effectuer des essais sur celui-ci, y compris toutes les versions publiées des composants exclusifs, si de telles actions sont nécessaires pour réaliser un audit, une enquête, une inspection, un examen, une mesure d’exécution ou une procédure judiciaire, sous réserve de garanties contre une divulgation non autorisée."
-  },
-  {
-    "en": "As part of this access, the Government of Canada retains the right to authorize external parties to review and audit these components as necessary.",
-    "fr": "dans le cadre de son accès au système, le gouvernement du Canada se réserve le droit d’autoriser des tiers à examiner et à vérifier les composants au nécessaire."
-  },
-  {
-    "en": "Releasing custom source code owned by the Government of Canada in accordance with the measures specified in the , unless:",
-    "fr": "Rendre public tout code source créé sur mesure détenu par le gouvernement du Canada conformément aux mesures précisées dans le , sauf dans les cas où :"
-  },
-  {
-    "en": "the source code is processing data classified as Secret, Top Secret or Protected C; or",
-    "fr": "le code source traite des données classifiées Secret, Très secret ou Protégé C; ou"
-  },
-  {
-    "en": "disclosure would otherwise be exempted or excluded under the , if the were to apply.",
-    "fr": "la divulgation serait autrement exemptée ou exclue en vertu d’une clause de la , si la venait à s’appliquer."
-  },
-  {
-    "en": "Determining the appropriate access restrictions to the released source code.",
-    "fr": "Déterminer les restrictions d’accès appropriées qui s’appliquent au code source rendu public."
-  },
-  {
-    "en": "Documenting the decisions of automated decision systems in accordance with the , and in support of the monitoring (6.3.2), data governance (6.3.4) and reporting requirements (6.5.1).",
-    "fr": "Documenter les décisions des systèmes décisionnels automatisés conformément à la , et à l’appui des exigences en matière de surveillance (6.3.2), de gouvernance des données (6.3.4) et d’établissement de rapports (6.5.1)."
-  },
-  {
-    "en": "Before launching into production, developing processes so that the data and information used by the automated decision system, as well as the system’s underlying model, are tested for unintended biases and other factors that may unfairly impact the outcomes.",
-    "fr": "Avant d’amorcer la production, élaborer les processus de sorte que les données et l’information utilisés dans le système décisionel automatisé, ainsi que le modèle sous-jacent du système, soient testés afin de détecter les biais imprévus et d’autres facteurs qui pourraient influencer injustement les résultats."
-  },
-  {
-    "en": "Developing processes to monitor the outcomes of the automated decision system to safeguard against unintentional outcomes and to verify compliance with institutional and program legislation, as well as this directive, on a scheduled basis.",
-    "fr": "Élaborer des processus de surveillance des résultats du système décisionnel automatisé afin d’éviter les résultats imprévus et de vérifier régulièrement la conformité aux dispositions législatives institutionnelles et relatives aux programmes, ainsi qu’à la présente directive, sur une base régulière."
-  },
-  {
-    "en": "Validating that the data collected for, and used by, the automated decision system is relevant, accurate, up-to-date, and in accordance with the and the .",
-    "fr": "Confirmer que toutes les données recueillies pour le système décisionnel automatisé et utilisées par celui-ci sont pertinentes, exactes, à jour, et conformes à la et à la ."
-  },
-  {
-    "en": "Consulting the appropriate qualified experts to review the automated decision system and publishing the complete review or a plain language summary of the findings prior to the system’s production, as prescribed in Appendix C.",
-    "fr": "Mettre en place des mesures garantissant que les données utilisées et générées par le système décisionnel automatisé sont traçables, protégées et accessibles de manière appropriée, et qu’elles sont collectées, utilisées, conservées et éliminées légalement conformément à la , la et la ."
-  },
-  {
-    "en": "Completing a Gender-based Analysis Plus during the development or modification of the automated decision system, as prescribed in Appendix C.",
-    "fr": "Consulter les experts qualifiés appropriés pour demander une évaluation du système décisionnel automatisé et publier l’examen complet ou un résumé en langage clair des conclusions avant la production du système, comme prescrit à l’annexe C."
-  },
-  {
-    "en": "Providing adequate employee training in the design, function, and implementation of the automated decision system to be able to review, explain and oversee its operations, as prescribed in Appendix C.",
-    "fr": "Réaliser une analyse comparative entre les sexes plus lors de l’élaboration ou de la modification du système décisionnel automatisé, comme prescrit à l’annexe C."
-  },
-  {
-    "en": "Establishing strategies, plans and/or measures to support IT and business continuity management, as prescribed in Appendix C and in accordance with the .",
-    "fr": "Fournir aux employés la formation appropriée concernant la conception, la fonction et la mise en œuvre du système décisionnel automatisé afin d’être en mesure d’examiner, d’expliquer et de surveiller le fonctionnement du système, comme prescrit à l’annexe C."
-  },
-  {
-    "en": "Conducting risk assessments during the development of the automated decision system and establishing appropriate safeguards, in accordance with the .",
-    "fr": "Mettre en place des stratégies, des plans, et/ou des mesures pour soutenir la gestion de la continuité de la TI et des activités, comme prescrit à l’annexe C et conformément à la ."
-  },
-  {
-    "en": "Consulting with the institution’s legal services from the concept stage of an automation project to ensure that the use of the automated decision system is compliant with applicable legal requirements.",
-    "fr": "Mener des évaluations des risques durant le développement du système décisionnel automatisé et établir les mesures de protection appropriées, conformément à la ."
-  },
-  {
-    "en": "Ensuring that the automated decision system allows for human intervention, when appropriate, as prescribed in Appendix C.",
-    "fr": "Consulter l’unité des services juridiques de l’institution, dès la phase de conception d’un projet d’automatisation, afin de veiller à ce que l’utilisation du système décisionnel automatisé soit conforme aux exigences juridiques applicables."
-  },
-  {
-    "en": "Obtaining the appropriate level of approvals prior to the production of an automated decision system, as prescribed in Appendix C.",
-    "fr": "Veiller à ce que le système décisionnel automatisé permette une intervention par un humain au nécessaire, comme prescrit à l’annexe C."
+    "en": "Testing and monitoring outcomesBefore launching into production, developing processes so that the data and information used by the automated decision system, as well as the system’s underlying model, are tested for unintended biases and other factors that may unfairly impact the outcomes.Developing processes to monitor the outcomes of the automated decision system to safeguard against unintentional outcomes and to verify compliance with institutional and program legislation, as well as this directive, on a scheduled basis.Data qualityValidating that the data collected for, and used by, the automated decision system is relevant, accurate, up-to-date, and in accordance with the Policy on Service and Digital and the Privacy Act.Data governanceEstablishing measures to ensure that data used and generated by the automated decision system are traceable, protected and accessed appropriately, and lawfully collected, used, retained and disposed of in accordance with the Directive on Service and Digital, Directive on Privacy Practices, and Directive on Security Management.Peer reviewConsulting the appropriate qualified experts to review the automated decision system and publishing the complete review or a plain language summary of the findings prior to the system’s production, as prescribed in Appendix C.Gender-based Analysis PlusCompleting a Gender-based Analysis Plus during the development or modification of the automated decision system, as prescribed in Appendix C.Employee trainingProviding adequate employee training in the design, function, and implementation of the automated decision system to be able to review, explain and oversee its operations, as prescribed in Appendix C.IT and business continuity managementEstablishing strategies, plans and/or measures to support IT and business continuity management, as prescribed in Appendix C and in accordance with the Directive on Security Management.SecurityConducting risk assessments during the development of the automated decision system and establishing appropriate safeguards, in accordance with the Policy on Government Security.LegalConsulting with the institution’s legal services from the concept stage of an automation project to ensure that the use of the automated decision system is compliant with applicable legal requirements.Ensuring human interventionEnsuring that the automated decision system allows for human intervention, when appropriate, as prescribed in Appendix C.Obtaining the appropriate level of approvals prior to the production of an automated decision system, as prescribed in Appendix C.",
+    "fr": "Évaluer et surveiller les résultatsAvant d’amorcer la production, élaborer les processus de sorte que les données et l’information utilisés dans le système décisionel automatisé, ainsi que le modèle sous-jacent du système, soient testés afin de détecter les biais imprévus et d’autres facteurs qui pourraient influencer injustement les résultats.Élaborer des processus de surveillance des résultats du système décisionnel automatisé afin d’éviter les résultats imprévus et de vérifier régulièrement la conformité aux dispositions législatives institutionnelles et relatives aux programmes, ainsi qu’à la présente directive, sur une base régulière.Qualité des donnéesConfirmer que toutes les données recueillies pour le système décisionnel automatisé et utilisées par celui-ci sont pertinentes, exactes, à jour, et conformes à la Politique sur les services et le numérique et à la Loi sur la protection des renseignements personnels.Gouvernance des donnéesMettre en place des mesures garantissant que les données utilisées et générées par le système décisionnel automatisé sont traçables, protégées et accessibles de manière appropriée, et qu’elles sont collectées, utilisées, conservées et éliminées légalement conformément à la Directive sur les services et le numérique, la Directive sur les pratiques relatives à la protection de la vie privée et la Directive sur la gestion de la sécurité.Examen par les pairsConsulter les experts qualifiés appropriés pour demander une évaluation du système décisionnel automatisé et publier l’examen complet ou un résumé en langage clair des conclusions avant la production du système, comme prescrit à l’annexe C.Analyse comparative entre les sexes plusRéaliser une analyse comparative entre les sexes plus lors de l’élaboration ou de la modification du système décisionnel automatisé, comme prescrit à l’annexe C.Formation des employésFournir aux employés la formation appropriée concernant la conception, la fonction et la mise en œuvre du système décisionnel automatisé afin d’être en mesure d’examiner, d’expliquer et de surveiller le fonctionnement du système, comme prescrit à l’annexe C.Gestion de la TI et de la continuité des activitésMettre en place des stratégies, des plans, et/ou des mesures pour soutenir la gestion de la continuité de la TI et des activités, comme prescrit à l’annexe C et conformément à la Directive sur la gestion de la sécurité.SécuritéMener des évaluations des risques durant le développement du système décisionnel automatisé et établir les mesures de protection appropriées, conformément à la Politique sur la sécurité du gouvernement.Services juridiquesConsulter l’unité des services juridiques de l’institution, dès la phase de conception d’un projet d’automatisation, afin de veiller à ce que l’utilisation du système décisionnel automatisé soit conforme aux exigences juridiques applicables. Assurer une intervention humaineVeiller à ce que le système décisionnel automatisé permette une intervention par un humain au nécessaire, comme prescrit à l’annexe C.Obtenir le niveau d’approbation approprié avant de produire un système décisionnel automatisé, comme prescrit à l’annexe C.",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
     "en": "Providing clients with any applicable recourse options that are available to them to challenge the administrative decision.",
-    "fr": "Obtenir le niveau d’approbation approprié avant de produire un système décisionnel automatisé, comme prescrit à l’annexe C."
+    "fr": "Offrir aux clients toute possibilité à leur disposition en matière de recours applicable afin de contester la prise de décision administrative automatisée.",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
     "en": "Publishing information on the effectiveness and efficiency of the automated decision system in meeting program objectives on a website or service designated by the Treasury Board of Canada Secretariat.",
-    "fr": "Offrir aux clients toute possibilité à leur disposition en matière de recours applicable afin de contester la prise de décision administrative automatisée."
+    "fr": "Publier les renseignements sur l’efficacité et l’efficience des systèmes décisionnels automatisés en matière de réalisation des objectifs du programme sur un site Web ou service désigné par le Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "6",
+    "tag": "chapter"
   },
   {
-    "en": "Consequences of non-compliance with this directive can include any measure allowed by the that the Treasury Board would determine as appropriate and acceptable in the circumstances.",
-    "fr": "Publier les renseignements sur l’efficacité et l’efficience des systèmes décisionnels automatisés en matière de réalisation des objectifs du programme sur un site Web ou service désigné par le Secrétariat du Conseil du Trésor du Canada."
+    "en": "Completing and releasing the final results of an Algorithmic Impact Assessment prior to the production of any automated decision system.",
+    "fr": "Effectuer et publier les résultats finaux d’une évaluation de l’incidence algorithmique avant la production de tout système décisionnel automatisé.",
+    "anchor": "6.1.1",
+    "tag": "p"
   },
   {
-    "en": "For an outline of the consequences of non‐compliance, refer to the , Appendix C: Consequences for Institutions and Appendix D: Consequences for Individuals.",
-    "fr": "Les conséquences d’une non-conformité à la présente directive peuvent comprendre toute mesure prescrite en vertu de la que le Conseil du Trésor pourrait déterminer comme étant appropriée et acceptable, selon les circonstances."
+    "en": "Applying the relevant requirements prescribed in Appendix C as determined by the Algorithmic Impact Assessment.",
+    "fr": "Appliquer les exigences pertinentes décrites à l’annexe C, telles qu’elles ont été déterminées par l’évaluation de l’incidence algorithmique.",
+    "anchor": "6.1.2",
+    "tag": "p"
+  },
+  {
+    "en": "Reviewing and updating the Algorithmic Impact Assessment on a scheduled basis, including when the functionality or scope of the automated decision system changes.",
+    "fr": "Revoir et mettre à jour l’évaluation de l’incidence algorithmique à intervalles réguliers, notamment en cas de changement à la fonctionnalité ou la portée du système décisionnel automatisé.",
+    "anchor": "6.1.3",
+    "tag": "p"
+  },
+  {
+    "en": "Releasing the final results of the Algorithmic Impact Assessment in an accessible format via Government of Canada websites and any other services designated by the Treasury Board of Canada Secretariat pursuant to the Directive on Open Government.",
+    "fr": "Diffuser les résultats finaux de l’évaluation de l’incidence algorithmique dans un format accessible par l’entremise des sites Web du gouvernement du Canada et de tout autre service désigné par le Secrétariat du Conseil du Trésor du Canada conformément à la Directive sur le gouvernement ouvert.",
+    "anchor": "6.1.4",
+    "tag": "p"
+  },
+  {
+    "en": "Providing notice before decisionsProviding notice through all service delivery channels in use that the decision rendered will be undertaken in whole or in part by an automated decision system, as prescribed in Appendix C.Providing notices prominently and in plain language, pursuant to the Canada.ca Content Style Guide.",
+    "fr": "Fournir un avis avant les décisionsFournir, par l’entremise de tous les modes de prestation de services utilisés, des avis sur le fait que la décision rendue sera formulée totalement ou en partie par un système décisionnel automatisé, comme prescrit à l’annexe C.Fournir des avis en langage simple et affichés de façon évidente, conformément au Guide de rédaction du contenu du site canada.ca.",
+    "anchor": "6.2",
+    "tag": "section"
+  },
+  {
+    "en": "Providing explanations after decisionsProviding a meaningful explanation to affected individuals of how and why the decision was made, as prescribed in Appendix C.",
+    "fr": "Fournir des explications après les décisionsFournir une explication significative aux personnes concernées sur la façon dont la décision a été prise et la raison pour laquelle elle a été prise, comme prescrit à l’annexe C.",
+    "anchor": "6.2",
+    "tag": "section"
+  },
+  {
+    "en": "Access to componentsDetermining the appropriate licence for software components, including consideration of open source software in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework.If using a proprietary licence, ensuring that:All released versions of proprietary software components used for automated decision systems are delivered to, and safeguarded by, the department.The Government of Canada retains the right to access and test automated decision systems, including all released versions of proprietary software components, in case it is necessary for a specific audit, investigation, inspection, examination, enforcement action, or judicial proceeding, subject to safeguards against unauthorized disclosure.As part of this access, the Government of Canada retains the right to authorize external parties to review and audit these components as necessary.",
+    "fr": "Accès aux composantsDéterminer la licence appropriée pour les composants logiciels, y compris la prise en compte des logiciels libres, conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada.Si l’on utilise une licence propriétaire, veiller à ce que :toutes les versions publiées des composants logiciels propriétaires utilisés pour les systèmes décisionels automatisés sont livrées et protégées par le ministère.le gouvernement du Canada détienne le droit d’accéder aux systèmes décisionnels automatisés et d’effectuer des essais sur celui-ci, y compris toutes les versions publiées des composants exclusifs, si de telles actions sont nécessaires pour réaliser un audit, une enquête, une inspection, un examen, une mesure d’exécution ou une procédure judiciaire, sous réserve de garanties contre une divulgation non autorisée.dans le cadre de son accès au système, le gouvernement du Canada se réserve le droit d’autoriser des tiers à examiner et à vérifier les composants au nécessaire.",
+    "anchor": "6.2",
+    "tag": "section"
+  },
+  {
+    "en": "Release of source codeReleasing custom source code owned by the Government of Canada in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework, unless:the source code is processing data classified as Secret, Top Secret or Protected C; ordisclosure would otherwise be exempted or excluded under the Access to Information Act, if the Access to Information Act were to apply.Determining the appropriate access restrictions to the released source code.",
+    "fr": "Publication du code sourceRendre public tout code source créé sur mesure détenu par le gouvernement du Canada conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada, sauf dans les cas où : le code source traite des données classifiées Secret, Très secret ou Protégé C; oula divulgation serait autrement exemptée ou exclue en vertu d’une clause de la Loi sur l’accès à l’information, si la Loi sur l’accès à l’information venait à s’appliquer.Déterminer les restrictions d’accès appropriées qui s’appliquent au code source rendu public.",
+    "anchor": "6.2",
+    "tag": "section"
+  },
+  {
+    "en": "Documenting decisionsDocumenting the decisions of automated decision systems in accordance with the Directive on Service and Digital, and in support of the monitoring (6.3.2), data governance (6.3.4) and reporting requirements (6.5.1).",
+    "fr": "Documenter les décisionsDocumenter les décisions des systèmes décisionnels automatisés conformément à la Directive sur les services et le numérique, et à l’appui des exigences en matière de surveillance (6.3.2), de gouvernance des données (6.3.4) et d’établissement de rapports (6.5.1).",
+    "anchor": "6.2",
+    "tag": "section"
+  },
+  {
+    "en": "Providing notice through all service delivery channels in use that the decision rendered will be undertaken in whole or in part by an automated decision system, as prescribed in Appendix C.",
+    "fr": "Fournir, par l’entremise de tous les modes de prestation de services utilisés, des avis sur le fait que la décision rendue sera formulée totalement ou en partie par un système décisionnel automatisé, comme prescrit à l’annexe C.",
+    "anchor": "6.2.1",
+    "tag": "p"
+  },
+  {
+    "en": "Providing notices prominently and in plain language, pursuant to the Canada.ca Content Style Guide.",
+    "fr": "Fournir des avis en langage simple et affichés de façon évidente, conformément au Guide de rédaction du contenu du site canada.ca.",
+    "anchor": "6.2.2",
+    "tag": "p"
+  },
+  {
+    "en": "Providing a meaningful explanation to affected individuals of how and why the decision was made, as prescribed in Appendix C.",
+    "fr": "Fournir une explication significative aux personnes concernées sur la façon dont la décision a été prise et la raison pour laquelle elle a été prise, comme prescrit à l’annexe C.",
+    "anchor": "6.2.3",
+    "tag": "p"
+  },
+  {
+    "en": "Determining the appropriate licence for software components, including consideration of open source software in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework.",
+    "fr": "Déterminer la licence appropriée pour les composants logiciels, y compris la prise en compte des logiciels libres, conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada.",
+    "anchor": "6.2.4",
+    "tag": "p"
+  },
+  {
+    "en": "If using a proprietary licence, ensuring that:",
+    "fr": "Si l’on utilise une licence propriétaire, veiller à ce que :",
+    "anchor": "6.2.5",
+    "tag": "p"
+  },
+  {
+    "en": "All released versions of proprietary software components used for automated decision systems are delivered to, and safeguarded by, the department.",
+    "fr": "toutes les versions publiées des composants logiciels propriétaires utilisés pour les systèmes décisionels automatisés sont livrées et protégées par le ministère.",
+    "anchor": "6.2.5.1",
+    "tag": "p"
+  },
+  {
+    "en": "The Government of Canada retains the right to access and test automated decision systems, including all released versions of proprietary software components, in case it is necessary for a specific audit, investigation, inspection, examination, enforcement action, or judicial proceeding, subject to safeguards against unauthorized disclosure.",
+    "fr": "le gouvernement du Canada détienne le droit d’accéder aux systèmes décisionnels automatisés et d’effectuer des essais sur celui-ci, y compris toutes les versions publiées des composants exclusifs, si de telles actions sont nécessaires pour réaliser un audit, une enquête, une inspection, un examen, une mesure d’exécution ou une procédure judiciaire, sous réserve de garanties contre une divulgation non autorisée.",
+    "anchor": "6.2.5.2",
+    "tag": "p"
+  },
+  {
+    "en": "As part of this access, the Government of Canada retains the right to authorize external parties to review and audit these components as necessary.",
+    "fr": "dans le cadre de son accès au système, le gouvernement du Canada se réserve le droit d’autoriser des tiers à examiner et à vérifier les composants au nécessaire.",
+    "anchor": "6.2.5.3",
+    "tag": "p"
+  },
+  {
+    "en": "Releasing custom source code owned by the Government of Canada in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework, unless:",
+    "fr": "Rendre public tout code source créé sur mesure détenu par le gouvernement du Canada conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada, sauf dans les cas où :",
+    "anchor": "6.2.6",
+    "tag": "p"
+  },
+  {
+    "en": "the source code is processing data classified as Secret, Top Secret or Protected C; or",
+    "fr": "le code source traite des données classifiées Secret, Très secret ou Protégé C; ou",
+    "anchor": "6.2.6.1",
+    "tag": "p"
+  },
+  {
+    "en": "disclosure would otherwise be exempted or excluded under the Access to Information Act, if the Access to Information Act were to apply.",
+    "fr": "la divulgation serait autrement exemptée ou exclue en vertu d’une clause de la Loi sur l’accès à l’information, si la Loi sur l’accès à l’information venait à s’appliquer.",
+    "anchor": "6.2.6.2",
+    "tag": "p"
+  },
+  {
+    "en": "Determining the appropriate access restrictions to the released source code.",
+    "fr": "Déterminer les restrictions d’accès appropriées qui s’appliquent au code source rendu public.",
+    "anchor": "6.2.7",
+    "tag": "p"
+  },
+  {
+    "en": "Documenting the decisions of automated decision systems in accordance with the Directive on Service and Digital, and in support of the monitoring (6.3.2), data governance (6.3.4) and reporting requirements (6.5.1).",
+    "fr": "Documenter les décisions des systèmes décisionnels automatisés conformément à la Directive sur les services et le numérique, et à l’appui des exigences en matière de surveillance (6.3.2), de gouvernance des données (6.3.4) et d’établissement de rapports (6.5.1).",
+    "anchor": "6.2.8",
+    "tag": "p"
+  },
+  {
+    "en": "Testing and monitoring outcomesBefore launching into production, developing processes so that the data and information used by the automated decision system, as well as the system’s underlying model, are tested for unintended biases and other factors that may unfairly impact the outcomes.Developing processes to monitor the outcomes of the automated decision system to safeguard against unintentional outcomes and to verify compliance with institutional and program legislation, as well as this directive, on a scheduled basis.",
+    "fr": "Évaluer et surveiller les résultatsAvant d’amorcer la production, élaborer les processus de sorte que les données et l’information utilisés dans le système décisionel automatisé, ainsi que le modèle sous-jacent du système, soient testés afin de détecter les biais imprévus et d’autres facteurs qui pourraient influencer injustement les résultats.Élaborer des processus de surveillance des résultats du système décisionnel automatisé afin d’éviter les résultats imprévus et de vérifier régulièrement la conformité aux dispositions législatives institutionnelles et relatives aux programmes, ainsi qu’à la présente directive, sur une base régulière.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "Data qualityValidating that the data collected for, and used by, the automated decision system is relevant, accurate, up-to-date, and in accordance with the Policy on Service and Digital and the Privacy Act.",
+    "fr": "Qualité des donnéesConfirmer que toutes les données recueillies pour le système décisionnel automatisé et utilisées par celui-ci sont pertinentes, exactes, à jour, et conformes à la Politique sur les services et le numérique et à la Loi sur la protection des renseignements personnels.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "Data governanceEstablishing measures to ensure that data used and generated by the automated decision system are traceable, protected and accessed appropriately, and lawfully collected, used, retained and disposed of in accordance with the Directive on Service and Digital, Directive on Privacy Practices, and Directive on Security Management.",
+    "fr": "Gouvernance des donnéesMettre en place des mesures garantissant que les données utilisées et générées par le système décisionnel automatisé sont traçables, protégées et accessibles de manière appropriée, et qu’elles sont collectées, utilisées, conservées et éliminées légalement conformément à la Directive sur les services et le numérique, la Directive sur les pratiques relatives à la protection de la vie privée et la Directive sur la gestion de la sécurité.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "Peer reviewConsulting the appropriate qualified experts to review the automated decision system and publishing the complete review or a plain language summary of the findings prior to the system’s production, as prescribed in Appendix C.",
+    "fr": "Examen par les pairsConsulter les experts qualifiés appropriés pour demander une évaluation du système décisionnel automatisé et publier l’examen complet ou un résumé en langage clair des conclusions avant la production du système, comme prescrit à l’annexe C.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "Gender-based Analysis PlusCompleting a Gender-based Analysis Plus during the development or modification of the automated decision system, as prescribed in Appendix C.",
+    "fr": "Analyse comparative entre les sexes plusRéaliser une analyse comparative entre les sexes plus lors de l’élaboration ou de la modification du système décisionnel automatisé, comme prescrit à l’annexe C.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "Employee trainingProviding adequate employee training in the design, function, and implementation of the automated decision system to be able to review, explain and oversee its operations, as prescribed in Appendix C.",
+    "fr": "Formation des employésFournir aux employés la formation appropriée concernant la conception, la fonction et la mise en œuvre du système décisionnel automatisé afin d’être en mesure d’examiner, d’expliquer et de surveiller le fonctionnement du système, comme prescrit à l’annexe C.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "IT and business continuity managementEstablishing strategies, plans and/or measures to support IT and business continuity management, as prescribed in Appendix C and in accordance with the Directive on Security Management.",
+    "fr": "Gestion de la TI et de la continuité des activitésMettre en place des stratégies, des plans, et/ou des mesures pour soutenir la gestion de la continuité de la TI et des activités, comme prescrit à l’annexe C et conformément à la Directive sur la gestion de la sécurité.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "SecurityConducting risk assessments during the development of the automated decision system and establishing appropriate safeguards, in accordance with the Policy on Government Security.",
+    "fr": "SécuritéMener des évaluations des risques durant le développement du système décisionnel automatisé et établir les mesures de protection appropriées, conformément à la Politique sur la sécurité du gouvernement.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "LegalConsulting with the institution’s legal services from the concept stage of an automation project to ensure that the use of the automated decision system is compliant with applicable legal requirements.",
+    "fr": "Services juridiquesConsulter l’unité des services juridiques de l’institution, dès la phase de conception d’un projet d’automatisation, afin de veiller à ce que l’utilisation du système décisionnel automatisé soit conforme aux exigences juridiques applicables.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "Ensuring human interventionEnsuring that the automated decision system allows for human intervention, when appropriate, as prescribed in Appendix C.Obtaining the appropriate level of approvals prior to the production of an automated decision system, as prescribed in Appendix C.",
+    "fr": "Assurer une intervention humaineVeiller à ce que le système décisionnel automatisé permette une intervention par un humain au nécessaire, comme prescrit à l’annexe C.Obtenir le niveau d’approbation approprié avant de produire un système décisionnel automatisé, comme prescrit à l’annexe C.",
+    "anchor": "6.3",
+    "tag": "section"
+  },
+  {
+    "en": "Before launching into production, developing processes so that the data and information used by the automated decision system, as well as the system’s underlying model, are tested for unintended biases and other factors that may unfairly impact the outcomes.",
+    "fr": "Avant d’amorcer la production, élaborer les processus de sorte que les données et l’information utilisés dans le système décisionel automatisé, ainsi que le modèle sous-jacent du système, soient testés afin de détecter les biais imprévus et d’autres facteurs qui pourraient influencer injustement les résultats.",
+    "anchor": "6.3.1",
+    "tag": "p"
+  },
+  {
+    "en": "Consulting with the institution’s legal services from the concept stage of an automation project to ensure that the use of the automated decision system is compliant with applicable legal requirements.",
+    "fr": "Consulter l’unité des services juridiques de l’institution, dès la phase de conception d’un projet d’automatisation, afin de veiller à ce que l’utilisation du système décisionnel automatisé soit conforme aux exigences juridiques applicables.",
+    "anchor": "6.3.10",
+    "tag": "p"
+  },
+  {
+    "en": "Ensuring that the automated decision system allows for human intervention, when appropriate, as prescribed in Appendix C.",
+    "fr": "Veiller à ce que le système décisionnel automatisé permette une intervention par un humain au nécessaire, comme prescrit à l’annexe C.",
+    "anchor": "6.3.11",
+    "tag": "p"
+  },
+  {
+    "en": "Obtaining the appropriate level of approvals prior to the production of an automated decision system, as prescribed in Appendix C.",
+    "fr": "Obtenir le niveau d’approbation approprié avant de produire un système décisionnel automatisé, comme prescrit à l’annexe C.",
+    "anchor": "6.3.12",
+    "tag": "p"
+  },
+  {
+    "en": "Developing processes to monitor the outcomes of the automated decision system to safeguard against unintentional outcomes and to verify compliance with institutional and program legislation, as well as this directive, on a scheduled basis.",
+    "fr": "Élaborer des processus de surveillance des résultats du système décisionnel automatisé afin d’éviter les résultats imprévus et de vérifier régulièrement la conformité aux dispositions législatives institutionnelles et relatives aux programmes, ainsi qu’à la présente directive, sur une base régulière.",
+    "anchor": "6.3.2",
+    "tag": "p"
+  },
+  {
+    "en": "Validating that the data collected for, and used by, the automated decision system is relevant, accurate, up-to-date, and in accordance with the Policy on Service and Digital and the Privacy Act.",
+    "fr": "Confirmer que toutes les données recueillies pour le système décisionnel automatisé et utilisées par celui-ci sont pertinentes, exactes, à jour, et conformes à la Politique sur les services et le numérique et à la Loi sur la protection des renseignements personnels.",
+    "anchor": "6.3.3",
+    "tag": "p"
+  },
+  {
+    "en": "Consulting the appropriate qualified experts to review the automated decision system and publishing the complete review or a plain language summary of the findings prior to the system’s production, as prescribed in Appendix C.",
+    "fr": "Consulter les experts qualifiés appropriés pour demander une évaluation du système décisionnel automatisé et publier l’examen complet ou un résumé en langage clair des conclusions avant la production du système, comme prescrit à l’annexe C.",
+    "anchor": "6.3.5",
+    "tag": "p"
+  },
+  {
+    "en": "Completing a Gender-based Analysis Plus during the development or modification of the automated decision system, as prescribed in Appendix C.",
+    "fr": "Réaliser une analyse comparative entre les sexes plus lors de l’élaboration ou de la modification du système décisionnel automatisé, comme prescrit à l’annexe C.",
+    "anchor": "6.3.6",
+    "tag": "p"
+  },
+  {
+    "en": "Providing adequate employee training in the design, function, and implementation of the automated decision system to be able to review, explain and oversee its operations, as prescribed in Appendix C.",
+    "fr": "Fournir aux employés la formation appropriée concernant la conception, la fonction et la mise en œuvre du système décisionnel automatisé afin d’être en mesure d’examiner, d’expliquer et de surveiller le fonctionnement du système, comme prescrit à l’annexe C.",
+    "anchor": "6.3.7",
+    "tag": "p"
+  },
+  {
+    "en": "Establishing strategies, plans and/or measures to support IT and business continuity management, as prescribed in Appendix C and in accordance with the Directive on Security Management.",
+    "fr": "Mettre en place des stratégies, des plans, et/ou des mesures pour soutenir la gestion de la continuité de la TI et des activités, comme prescrit à l’annexe C et conformément à la Directive sur la gestion de la sécurité.",
+    "anchor": "6.3.8",
+    "tag": "p"
+  },
+  {
+    "en": "Conducting risk assessments during the development of the automated decision system and establishing appropriate safeguards, in accordance with the Policy on Government Security.",
+    "fr": "Mener des évaluations des risques durant le développement du système décisionnel automatisé et établir les mesures de protection appropriées, conformément à la Politique sur la sécurité du gouvernement.",
+    "anchor": "6.3.9",
+    "tag": "p"
+  },
+  {
+    "en": "Providing clients with any applicable recourse options that are available to them to challenge the administrative decision.",
+    "fr": "Offrir aux clients toute possibilité à leur disposition en matière de recours applicable afin de contester la prise de décision administrative automatisée.",
+    "anchor": "6.4.1",
+    "tag": "p"
+  },
+  {
+    "en": "Publishing information on the effectiveness and efficiency of the automated decision system in meeting program objectives on a website or service designated by the Treasury Board of Canada Secretariat.",
+    "fr": "Publier les renseignements sur l’efficacité et l’efficience des systèmes décisionnels automatisés en matière de réalisation des objectifs du programme sur un site Web ou service désigné par le Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "6.5.1",
+    "tag": "p"
+  },
+  {
+    "en": "Consequences of non-compliance with this directive can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances.",
+    "fr": "Les conséquences d’une non-conformité à la présente directive peuvent comprendre toute mesure prescrite en vertu de la Loi sur la gestion des finances publiques que le Conseil du Trésor pourrait déterminer comme étant appropriée et acceptable, selon les circonstances.",
+    "anchor": "7.1",
+    "tag": "p"
+  },
+  {
+    "en": "For an outline of the consequences of non‐compliance, refer to the Framework for the Management of Compliance, Appendix C: Consequences for Institutions and Appendix D: Consequences for Individuals.",
+    "fr": "Pour obtenir un aperçu des conséquences de la non-conformité, veuillez consulter l’annexe C : Conséquences pour les institutions et l’annexe D : Conséquences pour les personnes du Cadre stratégique sur la gestion de la conformité.",
+    "anchor": "7.2",
+    "tag": "p"
   },
   {
     "en": "Subject to the necessary delegations, the Chief Information Officer of Canada is responsible for:",
-    "fr": "Pour obtenir un aperçu des conséquences de la non-conformité, veuillez consulter l’annexe C : Conséquences pour les institutions et l’annexe D : Conséquences pour les personnes du ."
+    "fr": "Sous réserve des délégations nécessaires, la dirigeante principale de l’information du Canada est responsable de ce qui suit :",
+    "anchor": "8",
+    "tag": "p"
   },
   {
     "en": "Providing government-wide guidance on the use of automated decision systems.",
-    "fr": "Sous réserve des délégations nécessaires, la dirigeante principale de l’information du Canada est responsable de ce qui suit :"
+    "fr": "fournir une orientation pangouvernementale sur l’utilisation des systèmes décisionnels automatisés.",
+    "anchor": "8.1",
+    "tag": "p"
   },
   {
     "en": "Developing and maintaining the Algorithmic Impact Assessment and any supporting documentation.",
-    "fr": "fournir une orientation pangouvernementale sur l’utilisation des systèmes décisionnels automatisés."
+    "fr": "élaborer et tenir à jour l’évaluation de l’incidence algorithmique et tout document connexe.",
+    "anchor": "8.2",
+    "tag": "p"
   },
   {
     "en": "Communicating and engaging government-wide and with partners in other jurisdictions and sectors to develop common strategies, approaches, and processes to support the responsible use of automated decision systems.",
-    "fr": "élaborer et tenir à jour l’évaluation de l’incidence algorithmique et tout document connexe."
+    "fr": "mener des activités de communication et de mobilisation dans l’ensemble du gouvernement et auprès des partenaires dans d’autres administrations et secteurs afin d’élaborer des stratégies, des approches et des processus communs et d’appuyer l’utilisation responsable des systèmes décisionnels automatisés.",
+    "anchor": "8.3",
+    "tag": "p"
   },
   {
-    "en": "This directive applies to all institutions subject to the , unless excluded by specific acts, regulations or Orders-in-Council;",
-    "fr": "mener des activités de communication et de mobilisation dans l’ensemble du gouvernement et auprès des partenaires dans d’autres administrations et secteurs afin d’élaborer des stratégies, des approches et des processus communs et d’appuyer l’utilisation responsable des systèmes décisionnels automatisés."
+    "en": "This directive applies to all institutions subject to the Policy on Service and Digital, unless excluded by specific acts, regulations or Orders-in-Council;",
+    "fr": "La présente directive s’applique à toutes les institutions assujetties à la Politique sur les services et le numérique, sauf en cas d’exclusion par des lois, des règlements ou des décrets précis.",
+    "anchor": "9.1",
+    "tag": "p"
   },
   {
     "en": "Agents of Parliament are excluded from this directive, including the:",
-    "fr": "La présente directive s’applique à toutes les institutions assujetties à la , sauf en cas d’exclusion par des lois, des règlements ou des décrets précis."
+    "fr": "Les agents du Parlement sont soustraits de l’application de la présente directive, y compris :",
+    "anchor": "9.1.1",
+    "tag": "p"
+  },
+  {
+    "en": "Office of the Auditor General of Canada,Office of the Chief Electoral Officer,Office of the Commissioner of Lobbying of Canada,Office of the Commissioner of Official Languages,Office of the Information Commissioner of Canada,Office of the Privacy Commissioner of Canada, andOffice of the Public Sector Integrity Commissioner of Canada.",
+    "fr": "le Bureau du vérificateur général du Canada;le Bureau du directeur général des élections;le Commissariat au lobbying du Canada;le Commissariat aux langues officielles;le Commissariat à l’information du Canada;le Commissariat à la protection de la vie privée du Canada;le Commissariat à l’intégrité du secteur public du Canada.",
+    "anchor": "9.1.1",
+    "tag": "ul"
   },
   {
     "en": "Agencies, Crown Corporations, or Agents of Parliament may enter into Specific Agreements with the Treasury Board of Canada Secretariat to adopt the requirements of this directive and apply them to their organization, as required.",
-    "fr": "Les agents du Parlement sont soustraits de l’application de la présente directive, y compris :"
-  },
-  {
-    "en": "For interpretation of any aspect of this directive, contact .",
-    "fr": "Les organismes, les sociétés d’État ou les agents du Parlement peuvent conclure des ententes précises avec le SCT en vue d’adopter des exigences de la présente directive et de les appliquer à leur organisation, au besoin."
-  },
-  {
-    "en": "Individuals from federal institutions may contact for any questions regarding this directive, including the Algorithmic Impact Assessment.",
-    "fr": "Afin d’interpréter tout aspect de la présente directive, veuillez présenter une demande de renseignements auprès du ."
-  },
-  {
-    "en": "Office of the Auditor General of Canada,",
-    "fr": "Les personnes qui proviennent d’institutions fédérales peuvent communiquer avec pour toute question concernant la présente directive, y compris l’évaluation de l’incidence algorithmique."
-  },
-  {
-    "en": "Office of the Chief Electoral Officer,",
-    "fr": "le Bureau du vérificateur général du Canada;"
-  },
-  {
-    "en": "Office of the Commissioner of Lobbying of Canada,",
-    "fr": "le Bureau du directeur général des élections;"
-  },
-  {
-    "en": "Office of the Commissioner of Official Languages,",
-    "fr": "le Commissariat au lobbying du Canada;"
-  },
-  {
-    "en": "Office of the Information Commissioner of Canada,",
-    "fr": "le Commissariat aux langues officielles;"
-  },
-  {
-    "en": "Office of the Privacy Commissioner of Canada, and",
-    "fr": "le Commissariat à l’information du Canada;"
-  },
-  {
-    "en": "Office of the Public Sector Integrity Commissioner of Canada.",
-    "fr": "le Commissariat à la protection de la vie privée du Canada;"
-  },
-  {
-    "en": "Establishing measures to ensure that data used and generated by the automated decision system are traceable, protected and accessed appropriately, and lawfully collected, used, retained and disposed of in accordance with the , , and .",
-    "fr": "le Commissariat à l’intégrité du secteur public du Canada."
+    "fr": "Les organismes, les sociétés d’État ou les agents du Parlement peuvent conclure des ententes précises avec le SCT en vue d’adopter des exigences de la présente directive et de les appliquer à leur organisation, au besoin.",
+    "anchor": "9.2",
+    "tag": "p"
   }
 ]

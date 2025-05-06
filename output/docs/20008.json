@@ -1,430 +1,488 @@
 [
   {
-    "en": "On July 1, 2009, the (PKIPolicy) was rescinded. This guideline is intended to helpdepartments and program managers understand how the responsibilities andpractices which were established by the PKI Policy are governed under therequirements of the (PGS).",
-    "fr": "Le 1 juillet 2009,la (Politique sur l'ICP) était abrogée. La présente Ligne directrice a pour but d'aiderles ministères et les gestionnaires de programme à comprendre comment lesresponsabilités et les pratiques établies par la Politique sur l'ICP ont évoluéconformément aux exigences de la (PSG)."
+    "en": "On July 1, 2009, the Policyfor Public Key Infrastructure Management in the Government of Canada (PKIPolicy) was rescinded. This guideline is intended to helpdepartments and program managers understand how the responsibilities andpractices which were established by the PKI Policy are governed under therequirements of the Policy onGovernment Security (PGS).",
+    "fr": "Le 1er juillet 2009,la Politiquede gestion de l'infrastructure à clé publique au gouvernement du Canada(Politique sur l'ICP) était abrogée. La présente Ligne directrice a pour but d'aiderles ministères et les gestionnaires de programme à comprendre comment lesresponsabilités et les pratiques établies par la Politique sur l'ICP ont évoluéconformément aux exigences de la Politiquesur la sécurité du gouvernement (PSG).",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "The guideline describes recommended practices for thegovernance and management of Public Key Infrastructure (PKI) within theGovernment of Canada (GC) and provides operational guidance. Thisguideline does not include technical advice, guidance or requirements on theimplementation of public key technology by GC departments and agencies.",
-    "fr": "La Lignedirectrice décrit les pratiques recommandées pour la gouvernance et la gestionde l'Infrastructure à clé publique (ICP) au gouvernement du Canada (GC), avecles conseils opérationnels qui s'imposent. Elle ne renferme toutefois pasd'avis, de conseils ni d'exigences techniques quant à la mise en œuvre de latechnologie à clé publique par les ministères et organismes du GC."
+    "fr": "La Lignedirectrice décrit les pratiques recommandées pour la gouvernance et la gestionde l'Infrastructure à clé publique (ICP) au gouvernement du Canada (GC), avecles conseils opérationnels qui s'imposent. Elle ne renferme toutefois pasd'avis, de conseils ni d'exigences techniques quant à la mise en œuvre de latechnologie à clé publique par les ministères et organismes du GC.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "The PKI Policy was established to implement the position ofthe GC that public key technology would be the preferred means by which the GCwould electronically authenticate the identity of entities or persons andenhance the integrity and confidentiality of documents.",
-    "fr": "LaPolitique sur l'ICP a été établie afin de concrétiser la position du GC, quiveut faire de la technologie à clé publique son moyen de prédilection pourauthentifier électroniquement l'identité des entités ou des individus, et derehausser l'intégrité et la confidentialité des documents."
+    "fr": "LaPolitique sur l'ICP a été établie afin de concrétiser la position du GC, quiveut faire de la technologie à clé publique son moyen de prédilection pourauthentifier électroniquement l'identité des entités ou des individus, et derehausser l'intégrité et la confidentialité des documents.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "As part of the renewed policy suite initiative, the PKIPolicy was rescinded to align responsibilities and accountabilities for secureelectronic transactions under the PGS and its supporting instruments. This will ensure a consistent approach to supporting the secure electronicbusiness of government. It enables options for electronic authentication,which should permit the GC to achieve security and identity outcomes while alsoproviding the flexibility for departments and agencies to utilise technologiesbest suited to their specific business requirements.",
-    "fr": "Dans lecontexte de l'initiative de renouvellement de l'ensemble des politiques, laPolitique sur l'ICP a été abrogée afin d'harmoniser les responsabilités et lareddition de comptes en ce qui concerne les opérations électroniques sécuriséesaux termes de la PSG et des instruments connexes. Cela assurera une approcheuniforme pour la sécurisation des activités électroniques de l'administrationgouvernementale, en rendant possibles différentes options d'authentificationélectronique qui devraient permettre au GC d'obtenir les résultats escomptés enmatière de sécurité et d'identité, tout en donnant aux ministères et auxorganismes la marge de manœuvre nécessaire pour qu'ils puissent se servir destechnologies les mieux adaptées à leurs propres exigences opérationnelles."
+    "fr": "Dans lecontexte de l'initiative de renouvellement de l'ensemble des politiques, laPolitique sur l'ICP a été abrogée afin d'harmoniser les responsabilités et lareddition de comptes en ce qui concerne les opérations électroniques sécuriséesaux termes de la PSG et des instruments connexes. Cela assurera une approcheuniforme pour la sécurisation des activités électroniques de l'administrationgouvernementale, en rendant possibles différentes options d'authentificationélectronique qui devraient permettre au GC d'obtenir les résultats escomptés enmatière de sécurité et d'identité, tout en donnant aux ministères et auxorganismes la marge de manœuvre nécessaire pour qu'ils puissent se servir destechnologies les mieux adaptées à leurs propres exigences opérationnelles.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Whereas the PKI Policy previously promoted the use of publickey technology, the PGS and its supporting instruments are intended to betechnology neutral. In order to achieve the GC's desired securityoutcomes of assuring that information, assets, services and interactions areprotected against compromise, the PGS, the (DDSM) and the (DIDM) outline theGC-wide requirements for establishing risk management-based processes by whichdepartments and agencies can effectively address their security and identityrisks.",
-    "fr": "Alors quela Politique sur l'ICP favorisait l'utilisation des technologies à clépublique, la PSG et ses instruments connexes sont censés être technologiquementneutres. Pour obtenir les résultats auxquels le GC s'attend en matière desécurité et pour faire en sorte que l'information, les biens, les services etles interactions soient protégés à cet égard, la PSG, la (DGSM) et la (DGI) précisent les exigences à l'échelledu GC applicables à l'établissement de procédés basés sur la gestion desrisques grâce auxquels les ministères et les organismes pourront efficacementcontrer leurs risques en matière de sécurité et d'identité."
+    "en": "Whereas the PKI Policy previously promoted the use of publickey technology, the PGS and its supporting instruments are intended to betechnology neutral. In order to achieve the GC's desired securityoutcomes of assuring that information, assets, services and interactions areprotected against compromise, the PGS, the Directive on Departmental SecurityManagement (DDSM) and the Directive on Identity Management (DIDM) outline theGC-wide requirements for establishing risk management-based processes by whichdepartments and agencies can effectively address their security and identityrisks.",
+    "fr": "Alors quela Politique sur l'ICP favorisait l'utilisation des technologies à clépublique, la PSG et ses instruments connexes sont censés être technologiquementneutres. Pour obtenir les résultats auxquels le GC s'attend en matière desécurité et pour faire en sorte que l'information, les biens, les services etles interactions soient protégés à cet égard, la PSG, la Directivesur la gestion de la sécurité ministérielle (DGSM) et la Directivesur la gestion de l'identité (DGI) précisent les exigences à l'échelledu GC applicables à l'établissement de procédés basés sur la gestion desrisques grâce auxquels les ministères et les organismes pourront efficacementcontrer leurs risques en matière de sécurité et d'identité.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "Standards and guidelines that support the PGS and itsdirectives serve to promote common and/or best practices across the GC, but donot seek to prescribe the specific method, solution, tool or technology thatdepartments and agencies are required to employ in order to meet securitycontrol objectives. As a result,",
-    "fr": "Les normeset les lignes directrices qui étayent la PSG et ses directives servent àpromouvoir les pratiques communes et/ou exemplaires dans tout le GC, sanstoutefois chercher à prescrire la méthode, la solution, l'outil ou latechnologie que les ministères et les organismes doivent employer pouratteindre les objectifs de contrôle de la sécurité. Il s'ensuit que ."
+    "en": "Standards and guidelines that support the PGS and itsdirectives serve to promote common and/or best practices across the GC, but donot seek to prescribe the specific method, solution, tool or technology thatdepartments and agencies are required to employ in order to meet securitycontrol objectives. As a result, departments now have greaterdiscretion in selecting technologies that best meet their needs; PKI is one ofthe available options.",
+    "fr": "Les normeset les lignes directrices qui étayent la PSG et ses directives servent àpromouvoir les pratiques communes et/ou exemplaires dans tout le GC, sanstoutefois chercher à prescrire la méthode, la solution, l'outil ou latechnologie que les ministères et les organismes doivent employer pouratteindre les objectifs de contrôle de la sécurité. Il s'ensuit que lesministères et les organismes ont plus de latitude que jamais dans le choix destechnologies répondant le mieux à leurs besoins; l'ICP est l'une des optionsqui s'offrent à eux.",
+    "anchor": "2",
+    "tag": "p"
   },
   {
-    "en": "This section identifies, at a high level, the federalelectronic signature and electronic documents legislation. This is anon-exhaustive list.",
-    "fr": "La listedes lois fédérales applicables à la signature électronique et aux documentsélectroniques, présentée sous cette rubrique, n'est pas exhaustive."
+    "en": "This section identifies, at a high level, the federalelectronic signature and electronic documents legislation. This is anon-exhaustive list. Departments should consult their departmentallegal services unit to determine which, if any, legislation applies to theirspecific uses.Part 2 of the PersonalInformation Protection and Electronic Documents Act (PIPEDA) provides anopt-in framework that describes electronic alternatives to the use of paper torecord or communicate information or transactions, where the use of paper iscontemplated by statutes or regulations (e.g. when a federal law refers to\"originals\", \"statements under oath\", \"solemnaffirmation\", \"declarations of truth, or accuracy orcompleteness\", \"documents under seal\" and \"witnesseddocuments\"). Section 31.4 of the CanadaEvidence Act (CEA) provides the Governor in Council with a powerto make regulations establishing evidentiary presumptions in relation toelectronic documents signed with secure electronic signatures.The SecureElectronic Signature Regulations (SES Regulations) adoptedpursuant to PIPEDA and the CEA prescribe the technology and process requiredfor the implementation of secure electronic signatures and establish theevidentiary presumptions applicable when the prescribed technology and processwere used in respect of data contained in an electronic document.Additional information on secure electronic signatures canbe found under the \"Recognition\" section of these guidelines.",
+    "fr": "La listedes lois fédérales applicables à la signature électronique et aux documentsélectroniques, présentée sous cette rubrique, n'est pas exhaustive. Lesministères et les organismes devraient consulter leurs services juridiques pourdéterminer quelle loi s'applique à leurs fins particulières, s'il y a lieu.Cela dit,la partie 2 de la Loi sur laprotection des renseignements personnels et les documents électroniques(LPRPDE) établit un cadre décrivant des moyens électroniques dont on peut seservir plutôt que de papier pour créer des documents ou pour communiquer del'information ou des opérations dans les cas où une loi ou un règlement prévoitl'utilisation du papier (p. ex., quand une loi fédérale fait étatd'« originaux », de « déclarations sous serment », d'une« affirmation solennelle », de « déclarations attestant lavéracité, l'exactitude ou l'intégralité », de documents portant un sceauet de la signature d'un témoin).L'article 31.4de la Loi surla preuve au Canada (LPC) investit le gouverneur en conseil dupouvoir de prendre des règlements établissant des présomptions relatives à lapreuve relativement aux documents électroniques portant une signatureélectronique sécurisée.Le Règlement sur lessignatures électroniques sécurisées (Règlement sur les SES)adopté en vertu de la LPRPDE et de la LPC, prescrit la technologie et leprocessus requis pour l'obtention des signatures électroniques sécurisées, etétablit les présomptions relatives à la preuve applicables lorsqu'on utilise latechnologie et le processus prescrits à l'égard des données contenues dans undocument électronique.La rubrique« Reconnaissance d'une AC » de cette ligne directrice contientd'autres renseignements sur les signatures électroniques sécurisées.",
+    "anchor": "2",
+    "tag": "section"
   },
   {
-    "en": "Part 2 of the (PIPEDA) provides anopt-in framework that describes electronic alternatives to the use of paper torecord or communicate information or transactions, where the use of paper iscontemplated by statutes or regulations (e.g. when a federal law refers to\"originals\", \"statements under oath\", \"solemnaffirmation\", \"declarations of truth, or accuracy orcompleteness\", \"documents under seal\" and \"witnesseddocuments\").",
-    "fr": "Cela dit,la partie 2 de la (LPRPDE) établit un cadre décrivant des moyens électroniques dont on peut seservir plutôt que de papier pour créer des documents ou pour communiquer del'information ou des opérations dans les cas où une loi ou un règlement prévoitl'utilisation du papier (p. ex., quand une loi fédérale fait étatd'« originaux », de « déclarations sous serment », d'une« affirmation solennelle », de « déclarations attestant lavéracité, l'exactitude ou l'intégralité », de documents portant un sceauet de la signature d'un témoin)."
+    "en": "This section identifies and describes applicable policies,directives and standards that should be consulted by departments in decidingwhether to implement a PKI to meet their needs. Relevant sections ofthese documents have been quoted for ease of reference; however it isrecommended that readers consult the original documents for full context.The PGSidentifies, at a high level, the need for establishing trust in interactionsfor government services and programs without prescribing the mechanisms fordoing so:Security begins by establishing trust ininteractions between government and Canadians and within government.[1]AppendixC of the DDSM provides the direction that departments have theresponsibility for selecting appropriate security controls to meet their needs:Departments are responsible for selecting,implementing, monitoring and maintaining sustainable security controls toachieve the security control objectives. Security controls may beadministrative, managerial, operational, technical or procedural. Mandatory andrecommended security controls are specified in standards and guidelines thatsupport the Policy on Government Security. Additional security controls andcontrol objectives are selected and implemented by departments based on the resultsof risk assessments.[2]The DDSM goes into greater specificity on theresponsibilities for selecting security controls and assessing and acceptingresidual risk levels for programs and services. The DDSM states thatdepartmental security practitioners are responsible for:Selecting, implementing and maintaining securitycontrols related to their area of responsibility to ensure that controlobjectives are achieved.[3]Additionally, according to the DDSM, managers at all levels are responsiblefor: Assessing security risks, formally acceptingresidual risks or recommending acceptance of residual risks as defined in theDepartmental Security Plan and periodically reassessing and re-evaluating risksin light of changes to programs, activities or services and taking correctiveaction to address identified deficiencies;[4]The Operational SecurityStandard: Management of IT Security (MITS) expands on thisresponsibility for program and service delivery managers within the realm of ITsecurity: In designing programs and services, managers willwork with departmental security specialists to risk manage their programs orservices. Relying on the advice and support of the IT SecurityCoordinator, managers must determine the IT security requirements of theirprograms and services, have them accredited, and accept the associated residualrisk.[5]MITS further specifies responsibilities for certificationand accreditation of IT systems in the GC: For common systems or services, the Government ofCanada Chief Information Officer is the accreditation authority. Forsystems or services that are specific to a department, the program or servicedelivery manager is responsible for accreditation. For systems orservices shared by two or more organizations, the manager of the program or serviceis the accreditation authority.[6]These responsibilities are applicable to the certificationand accreditation of PKI systems in the GC. As a result, the responsibleprogram or service delivery manager should ensure (with the assistance of thedepartment's security practitioners) that any policies, processes, ortechnologies implemented to provide assurance in the PKI system are appropriateand sufficient when making their decision to accredit the system.While previously the governance and management of PKI withinthe GC was specifically defined by the mechanisms prescribed within the PKIPolicy, PKI is managed in accordance with the requirements of the PGS andsupporting GC security directives and standards (particularly MITS). As aresult of rescinding the PKI Policy, departments who select PKI as anappropriate security control should find that they have more flexibility in howthey manage their PKI.",
+    "fr": "Cette rubriqueprécise et décrit les politiques, les directives et les normes applicables queles ministères et les organismes devraient consulter lorsqu'ils doivent déciders'ils devraient mettre une ICP en place pour répondre à leurs besoins. Nousavons cité les extraits pertinents de ces documents pour qu'il soit plus facilede s'y reporter, mais le lecteur devrait consulter les originaux pour avoir lecontexte intégral.La PSGdéfinit au sens large le besoin d'établir un sentiment de confiance dans lesinteractions avec les services et les programmes du gouvernement, sanstoutefois prescrire les mécanismes qu'il faudrait employer à cette fin :La sécurité commence par l'établissement d'un sentiment de confiancedans les interactions entre le gouvernement et la population et à l'intérieurdu gouvernement[1].L'annexe Cde la DGSM stipule que les ministères ont la responsabilité de choisir desmoyens de contrôle de la sécurité correspondant à leurs besoins :Les ministères sont responsables desélectionner, de mettre en œuvre, de surveiller et de maintenir des moyensdurables de contrôle de la sécurité afin d'atteindre les objectifs en matièrede contrôles de sécurité. Les mesures de contrôle de sécurité peuvent être denature administrative, gestionnelle, opérationnelle, technique ou procédurale.Les contrôles de sécurité obligatoires et recommandés sont précisés dans lesnormes et lignes directrices qui appuient la Politique sur la sécurité augouvernement. Les ministères peuvent prendre d'autres mesures de contrôle desécurité et se fixer des objectifs de contrôle additionnels en se fondant surles résultats des évaluations des risques[2].La DGSMprécise de façon plus détaillée les responsabilités applicables au choix desmoyens de contrôle de la sécurité ainsi qu'à l'évaluation et à l'acceptationdes niveaux de risque résiduel des programmes et des services. Elle précise queles praticiens ministériels en matière de sécurité sont responsables de :sélectionner, mettre en œuvre etmaintenir des contrôles de sécurité liés à leur champ de responsabilité afind'assurer la réalisation des objectifs de contrôle[3].En outre,la DGSM impose aux gestionnaires de tous les niveaux la responsabilité :d'évaluer les risques en matière desécurité, d'accepter officiellement les risques résiduels ou en recommanderl'acceptation (ces risques sont définis dans le plan de sécurité ministérielle)et de réévaluer périodiquement les risques à la lumière des changementsapportés aux programmes, aux activités ou aux services et de prendre desmesures correctives pour corriger les lacunes relevées[4].La Norme opérationnellede sécurité : Gestion de la sécurité des technologies de l'information(GSTI) explique cette responsabilité en ce qui concerne les gestionnaireschargés de l'exécution de programmes et de la prestation de services dans ledomaine de la sécurité des technologies de l'information :Au stade de la conception desprogrammes et services, les gestionnaires collaborent avec les spécialistes dela sécurité du ministère afin de gérer les risques liés à leurs programmes ouservices. En s'appuyant sur les conseils et le support du coordonnateur de lasécurité des TI, les gestionnaires doivent déterminer les exigences de sécuritédes TI pour leurs programmes et services et doivent les accréditer en acceptantle risque résiduel qui leur est associé[5].La GSTIprécise encore davantage les responsabilités de certification etd'accréditation des systèmes de TI au GC :Pour les systèmes ou servicescommuns, le dirigeant principal de l'information du gouvernement du Canada estle responsable de l'accréditation. Pour les systèmes ou services propres à unministère, le gestionnaire de la prestation de programmes ou services estchargé de l'accréditation. Pour les systèmes ou services communs à deuxorganisations ou plus, le gestionnaire du programme ou du service estresponsable de l'accréditation[6].Cesresponsabilités s'appliquent à la certification et à l'accréditation dessystèmes d'ICP au GC. Il s'ensuit que le gestionnaire responsable del'exécution du programme ou de la prestation du service devrait s'assurer (avecl'aide des spécialistes de la sécurité du ministère) que toutes les politiques,tous les processus ou toutes les technologies mis en place pour s'assurer quele système d'ICP sont adaptés aux besoins et capables d'y répondre quand ilsprennent leur décision d'accréditer un système quelconque.Auparavant,la gouvernance et la gestion de l'ICP au GC étaient expressément définies parles mécanismes que prescrivait la Politique sur l'ICP, mais l'ICP devraitdésormais être gérée conformément aux exigences de la PSG et des directivesainsi que des normes connexes sur la sécurité du GC (plus particulièrement laGSTI). Par suite de l'abrogation de la Politique sur l'ICP, les ministères quichoisissent l'ICP comme moyen de contrôle de la sécurité devraient constaterqu'ils disposent d'une plus grande marge de manœuvre pour gérer leur ICP.",
+    "anchor": "2",
+    "tag": "section"
   },
   {
-    "en": "Section 31.4 of the (CEA) provides the Governor in Council with a powerto make regulations establishing evidentiary presumptions in relation toelectronic documents signed with secure electronic signatures.",
-    "fr": "L'article 31.4de la (LPC) investit le gouverneur en conseil dupouvoir de prendre des règlements établissant des présomptions relatives à lapreuve relativement aux documents électroniques portant une signatureélectronique sécurisée."
+    "en": "This section identifies, at a high level, the federalelectronic signature and electronic documents legislation. This is anon-exhaustive list. Departments should consult their departmentallegal services unit to determine which, if any, legislation applies to theirspecific uses.",
+    "fr": "La listedes lois fédérales applicables à la signature électronique et aux documentsélectroniques, présentée sous cette rubrique, n'est pas exhaustive. Lesministères et les organismes devraient consulter leurs services juridiques pourdéterminer quelle loi s'applique à leurs fins particulières, s'il y a lieu.",
+    "anchor": "2.1",
+    "tag": "p"
   },
   {
-    "en": "The (SES Regulations) adoptedpursuant to PIPEDA and the CEA prescribe the technology and process requiredfor the implementation of secure electronic signatures and establish theevidentiary presumptions applicable when the prescribed technology and processwere used in respect of data contained in an electronic document.",
-    "fr": "Le (Règlement sur les SES)adopté en vertu de la LPRPDE et de la LPC, prescrit la technologie et leprocessus requis pour l'obtention des signatures électroniques sécurisées, etétablit les présomptions relatives à la preuve applicables lorsqu'on utilise latechnologie et le processus prescrits à l'égard des données contenues dans undocument électronique."
+    "en": "Part 2 of the PersonalInformation Protection and Electronic Documents Act (PIPEDA) provides anopt-in framework that describes electronic alternatives to the use of paper torecord or communicate information or transactions, where the use of paper iscontemplated by statutes or regulations (e.g. when a federal law refers to\"originals\", \"statements under oath\", \"solemnaffirmation\", \"declarations of truth, or accuracy orcompleteness\", \"documents under seal\" and \"witnesseddocuments\").",
+    "fr": "Cela dit,la partie 2 de la Loi sur laprotection des renseignements personnels et les documents électroniques(LPRPDE) établit un cadre décrivant des moyens électroniques dont on peut seservir plutôt que de papier pour créer des documents ou pour communiquer del'information ou des opérations dans les cas où une loi ou un règlement prévoitl'utilisation du papier (p. ex., quand une loi fédérale fait étatd'« originaux », de « déclarations sous serment », d'une« affirmation solennelle », de « déclarations attestant lavéracité, l'exactitude ou l'intégralité », de documents portant un sceauet de la signature d'un témoin).",
+    "anchor": "2.1",
+    "tag": "p"
+  },
+  {
+    "en": "Section 31.4 of the CanadaEvidence Act (CEA) provides the Governor in Council with a powerto make regulations establishing evidentiary presumptions in relation toelectronic documents signed with secure electronic signatures.",
+    "fr": "L'article 31.4de la Loi surla preuve au Canada (LPC) investit le gouverneur en conseil dupouvoir de prendre des règlements établissant des présomptions relatives à lapreuve relativement aux documents électroniques portant une signatureélectronique sécurisée.",
+    "anchor": "2.1",
+    "tag": "p"
+  },
+  {
+    "en": "The SecureElectronic Signature Regulations (SES Regulations) adoptedpursuant to PIPEDA and the CEA prescribe the technology and process requiredfor the implementation of secure electronic signatures and establish theevidentiary presumptions applicable when the prescribed technology and processwere used in respect of data contained in an electronic document.",
+    "fr": "Le Règlement sur lessignatures électroniques sécurisées (Règlement sur les SES)adopté en vertu de la LPRPDE et de la LPC, prescrit la technologie et leprocessus requis pour l'obtention des signatures électroniques sécurisées, etétablit les présomptions relatives à la preuve applicables lorsqu'on utilise latechnologie et le processus prescrits à l'égard des données contenues dans undocument électronique.",
+    "anchor": "2.1",
+    "tag": "p"
   },
   {
     "en": "Additional information on secure electronic signatures canbe found under the \"Recognition\" section of these guidelines.",
-    "fr": "La rubrique« Reconnaissance d'une AC » de cette ligne directrice contientd'autres renseignements sur les signatures électroniques sécurisées."
+    "fr": "La rubrique« Reconnaissance d'une AC » de cette ligne directrice contientd'autres renseignements sur les signatures électroniques sécurisées.",
+    "anchor": "2.1",
+    "tag": "p"
   },
   {
     "en": "This section identifies and describes applicable policies,directives and standards that should be consulted by departments in decidingwhether to implement a PKI to meet their needs. Relevant sections ofthese documents have been quoted for ease of reference; however it isrecommended that readers consult the original documents for full context.",
-    "fr": "Cette rubriqueprécise et décrit les politiques, les directives et les normes applicables queles ministères et les organismes devraient consulter lorsqu'ils doivent déciders'ils devraient mettre une ICP en place pour répondre à leurs besoins. Nousavons cité les extraits pertinents de ces documents pour qu'il soit plus facilede s'y reporter, mais le lecteur devrait consulter les originaux pour avoir lecontexte intégral."
+    "fr": "Cette rubriqueprécise et décrit les politiques, les directives et les normes applicables queles ministères et les organismes devraient consulter lorsqu'ils doivent déciders'ils devraient mettre une ICP en place pour répondre à leurs besoins. Nousavons cité les extraits pertinents de ces documents pour qu'il soit plus facilede s'y reporter, mais le lecteur devrait consulter les originaux pour avoir lecontexte intégral.",
+    "anchor": "2.2",
+    "tag": "p"
   },
   {
-    "en": "The identifies, at a high level, the need for establishing trust in interactionsfor government services and programs without prescribing the mechanisms fordoing so:",
-    "fr": "La définit au sens large le besoin d'établir un sentiment de confiance dans lesinteractions avec les services et les programmes du gouvernement, sanstoutefois prescrire les mécanismes qu'il faudrait employer à cette fin :"
+    "en": "The PGSidentifies, at a high level, the need for establishing trust in interactionsfor government services and programs without prescribing the mechanisms fordoing so:",
+    "fr": "La PSGdéfinit au sens large le besoin d'établir un sentiment de confiance dans lesinteractions avec les services et les programmes du gouvernement, sanstoutefois prescrire les mécanismes qu'il faudrait employer à cette fin :",
+    "anchor": "2.2",
+    "tag": "p"
   },
   {
-    "en": "provides the direction that departments have theresponsibility for selecting appropriate security controls to meet their needs:",
-    "fr": "stipule que les ministères ont la responsabilité de choisir desmoyens de contrôle de la sécurité correspondant à leurs besoins :"
+    "en": "Security begins by establishing trust ininteractions between government and Canadians and within government.[1]",
+    "fr": "La sécurité commence par l'établissement d'un sentiment de confiancedans les interactions entre le gouvernement et la population et à l'intérieurdu gouvernement[1].",
+    "anchor": "2.2",
+    "tag": "div"
+  },
+  {
+    "en": "AppendixC of the DDSM provides the direction that departments have theresponsibility for selecting appropriate security controls to meet their needs:",
+    "fr": "L'annexe Cde la DGSM stipule que les ministères ont la responsabilité de choisir desmoyens de contrôle de la sécurité correspondant à leurs besoins :",
+    "anchor": "2.2",
+    "tag": "p"
+  },
+  {
+    "en": "Departments are responsible for selecting,implementing, monitoring and maintaining sustainable security controls toachieve the security control objectives. Security controls may beadministrative, managerial, operational, technical or procedural. Mandatory andrecommended security controls are specified in standards and guidelines thatsupport the Policy on Government Security. Additional security controls andcontrol objectives are selected and implemented by departments based on the resultsof risk assessments.[2]",
+    "fr": "Les ministères sont responsables desélectionner, de mettre en œuvre, de surveiller et de maintenir des moyensdurables de contrôle de la sécurité afin d'atteindre les objectifs en matièrede contrôles de sécurité. Les mesures de contrôle de sécurité peuvent être denature administrative, gestionnelle, opérationnelle, technique ou procédurale.Les contrôles de sécurité obligatoires et recommandés sont précisés dans lesnormes et lignes directrices qui appuient la Politique sur la sécurité augouvernement. Les ministères peuvent prendre d'autres mesures de contrôle desécurité et se fixer des objectifs de contrôle additionnels en se fondant surles résultats des évaluations des risques[2].",
+    "anchor": "2.2",
+    "tag": "div"
   },
   {
     "en": "The DDSM goes into greater specificity on theresponsibilities for selecting security controls and assessing and acceptingresidual risk levels for programs and services. The DDSM states thatdepartmental security practitioners are responsible for:",
-    "fr": "La DGSMprécise de façon plus détaillée les responsabilités applicables au choix desmoyens de contrôle de la sécurité ainsi qu'à l'évaluation et à l'acceptationdes niveaux de risque résiduel des programmes et des services. Elle précise queles praticiens ministériels en matière de sécurité sont responsables de :"
+    "fr": "La DGSMprécise de façon plus détaillée les responsabilités applicables au choix desmoyens de contrôle de la sécurité ainsi qu'à l'évaluation et à l'acceptationdes niveaux de risque résiduel des programmes et des services. Elle précise queles praticiens ministériels en matière de sécurité sont responsables de :",
+    "anchor": "2.2",
+    "tag": "p"
+  },
+  {
+    "en": "Selecting, implementing and maintaining securitycontrols related to their area of responsibility to ensure that controlobjectives are achieved.[3]",
+    "fr": "sélectionner, mettre en œuvre etmaintenir des contrôles de sécurité liés à leur champ de responsabilité afind'assurer la réalisation des objectifs de contrôle[3].",
+    "anchor": "2.2",
+    "tag": "div"
   },
   {
     "en": "Additionally, according to the DDSM, managers at all levels are responsiblefor:",
-    "fr": "En outre,la DGSM impose aux gestionnaires de tous les niveaux la responsabilité :"
+    "fr": "En outre,la DGSM impose aux gestionnaires de tous les niveaux la responsabilité :",
+    "anchor": "2.2",
+    "tag": "p"
   },
   {
-    "en": "The (MITS) expands on thisresponsibility for program and service delivery managers within the realm of ITsecurity:",
-    "fr": "La (GSTI) explique cette responsabilité en ce qui concerne les gestionnaireschargés de l'exécution de programmes et de la prestation de services dans ledomaine de la sécurité des technologies de l'information :"
+    "en": "Assessing security risks, formally acceptingresidual risks or recommending acceptance of residual risks as defined in theDepartmental Security Plan and periodically reassessing and re-evaluating risksin light of changes to programs, activities or services and taking correctiveaction to address identified deficiencies;[4]",
+    "fr": "d'évaluer les risques en matière desécurité, d'accepter officiellement les risques résiduels ou en recommanderl'acceptation (ces risques sont définis dans le plan de sécurité ministérielle)et de réévaluer périodiquement les risques à la lumière des changementsapportés aux programmes, aux activités ou aux services et de prendre desmesures correctives pour corriger les lacunes relevées[4].",
+    "anchor": "2.2",
+    "tag": "div"
+  },
+  {
+    "en": "The Operational SecurityStandard: Management of IT Security (MITS) expands on thisresponsibility for program and service delivery managers within the realm of ITsecurity:",
+    "fr": "La Norme opérationnellede sécurité : Gestion de la sécurité des technologies de l'information(GSTI) explique cette responsabilité en ce qui concerne les gestionnaireschargés de l'exécution de programmes et de la prestation de services dans ledomaine de la sécurité des technologies de l'information :",
+    "anchor": "2.2",
+    "tag": "p"
+  },
+  {
+    "en": "In designing programs and services, managers willwork with departmental security specialists to risk manage their programs orservices. Relying on the advice and support of the IT SecurityCoordinator, managers must determine the IT security requirements of theirprograms and services, have them accredited, and accept the associated residualrisk.[5]",
+    "fr": "Au stade de la conception desprogrammes et services, les gestionnaires collaborent avec les spécialistes dela sécurité du ministère afin de gérer les risques liés à leurs programmes ouservices. En s'appuyant sur les conseils et le support du coordonnateur de lasécurité des TI, les gestionnaires doivent déterminer les exigences de sécuritédes TI pour leurs programmes et services et doivent les accréditer en acceptantle risque résiduel qui leur est associé[5].",
+    "anchor": "2.2",
+    "tag": "div"
   },
   {
     "en": "MITS further specifies responsibilities for certificationand accreditation of IT systems in the GC:",
-    "fr": "La GSTIprécise encore davantage les responsabilités de certification etd'accréditation des systèmes de TI au GC :"
+    "fr": "La GSTIprécise encore davantage les responsabilités de certification etd'accréditation des systèmes de TI au GC :",
+    "anchor": "2.2",
+    "tag": "p"
+  },
+  {
+    "en": "For common systems or services, the Government ofCanada Chief Information Officer is the accreditation authority. Forsystems or services that are specific to a department, the program or servicedelivery manager is responsible for accreditation. For systems orservices shared by two or more organizations, the manager of the program or serviceis the accreditation authority.[6]",
+    "fr": "Pour les systèmes ou servicescommuns, le dirigeant principal de l'information du gouvernement du Canada estle responsable de l'accréditation. Pour les systèmes ou services propres à unministère, le gestionnaire de la prestation de programmes ou services estchargé de l'accréditation. Pour les systèmes ou services communs à deuxorganisations ou plus, le gestionnaire du programme ou du service estresponsable de l'accréditation[6].",
+    "anchor": "2.2",
+    "tag": "div"
   },
   {
     "en": "These responsibilities are applicable to the certificationand accreditation of PKI systems in the GC. As a result, the responsibleprogram or service delivery manager should ensure (with the assistance of thedepartment's security practitioners) that any policies, processes, ortechnologies implemented to provide assurance in the PKI system are appropriateand sufficient when making their decision to accredit the system.",
-    "fr": "Cesresponsabilités s'appliquent à la certification et à l'accréditation dessystèmes d'ICP au GC. Il s'ensuit que le gestionnaire responsable del'exécution du programme ou de la prestation du service devrait s'assurer (avecl'aide des spécialistes de la sécurité du ministère) que toutes les politiques,tous les processus ou toutes les technologies mis en place pour s'assurer quele système d'ICP sont adaptés aux besoins et capables d'y répondre quand ilsprennent leur décision d'accréditer un système quelconque."
+    "fr": "Cesresponsabilités s'appliquent à la certification et à l'accréditation dessystèmes d'ICP au GC. Il s'ensuit que le gestionnaire responsable del'exécution du programme ou de la prestation du service devrait s'assurer (avecl'aide des spécialistes de la sécurité du ministère) que toutes les politiques,tous les processus ou toutes les technologies mis en place pour s'assurer quele système d'ICP sont adaptés aux besoins et capables d'y répondre quand ilsprennent leur décision d'accréditer un système quelconque.",
+    "anchor": "2.2",
+    "tag": "p"
   },
   {
     "en": "While previously the governance and management of PKI withinthe GC was specifically defined by the mechanisms prescribed within the PKIPolicy, PKI is managed in accordance with the requirements of the PGS andsupporting GC security directives and standards (particularly MITS). As aresult of rescinding the PKI Policy, departments who select PKI as anappropriate security control should find that they have more flexibility in howthey manage their PKI.",
-    "fr": "Auparavant,la gouvernance et la gestion de l'ICP au GC étaient expressément définies parles mécanismes que prescrivait la Politique sur l'ICP, mais l'ICP devraitdésormais être gérée conformément aux exigences de la PSG et des directivesainsi que des normes connexes sur la sécurité du GC (plus particulièrement laGSTI). Par suite de l'abrogation de la Politique sur l'ICP, les ministères quichoisissent l'ICP comme moyen de contrôle de la sécurité devraient constaterqu'ils disposent d'une plus grande marge de manœuvre pour gérer leur ICP."
+    "fr": "Auparavant,la gouvernance et la gestion de l'ICP au GC étaient expressément définies parles mécanismes que prescrivait la Politique sur l'ICP, mais l'ICP devraitdésormais être gérée conformément aux exigences de la PSG et des directivesainsi que des normes connexes sur la sécurité du GC (plus particulièrement laGSTI). Par suite de l'abrogation de la Politique sur l'ICP, les ministères quichoisissent l'ICP comme moyen de contrôle de la sécurité devraient constaterqu'ils disposent d'une plus grande marge de manœuvre pour gérer leur ICP.",
+    "anchor": "2.2",
+    "tag": "p"
   },
   {
-    "en": "Within the GC, a common CA issues public key certificates(PKC) on behalf of other departments or external users. The , operated by PWGSC on behalfof Treasury Board Secretariat (TBS), is the approved common CA for departmentsrequiring PKI certificates for internal-to-government systems which containinformation up to and including the \"Protected B\" level. Departmentsshould consult the and the DepartmentalGuide to Adoption of Secure Channel Mandatory Services to identifymandatory uses of this service. The ICM Common Services CA has beenrecognized by the President of the Treasury Board in accordance with the SESRegulations.",
-    "fr": "Cetterubrique distingue les types d'autorité de certification (AC) qui peuvent êtreutiles aux ministères pour s'acquitter de leurs exigences en matière d'ICP."
+    "en": "3.1.1 Common CAWithin the GC, a common CA issues public key certificates(PKC) on behalf of other departments or external users. The InternalCredential Management (ICM) Common Services CA, operated by PWGSC on behalfof Treasury Board Secretariat (TBS), is the approved common CA for departmentsrequiring PKI certificates for internal-to-government systems which containinformation up to and including the \"Protected B\" level. Departmentsshould consult the Common ServicesPolicy and the DepartmentalGuide to Adoption of Secure Channel Mandatory Services to identifymandatory uses of this service. The ICM Common Services CA has beenrecognized by the President of the Treasury Board in accordance with the SESRegulations.PWGSC also operates the Government On-Line (GOL) CAservice on behalf of TBS, for the issuance of certificates toexternal-to-government users. The GOL CA is approved for uses up to andincluding the \"Protected B\" level of information.Departments should contact their PWGSC client-servicesrepresentative to discuss their objectives and to identify whether these commonCAs can help to address the department's needs. Where a departmentalrequirement exists for a common CA that cannot be met by the ICM CommonServices CA, TBS should be contacted at the earliest possible opportunity toidentify the requirement and to specify why the ICM Common Services CA is notsufficient. Based on this information, a way forward will be identified,as will roles and responsibilities for certification and accreditation of thesystem. A common CA should cross-certify through the Canadian Federal PKIBridge where practicable (see sections 3.1.3 and 3.2 below).Departments or program managers wishing to establish acommon CA should: Contact the Security and Identity Management Division(SIDM) of the Chief Information Officer Branch (CIOB) at TBS to identify the department's requirement. Ensure certification and accreditation plans are developed and forwarded to TBS for review prior to final accreditation.3.1.2 DepartmentalCAA Departmental CA isused by a department to meet an internal requirement for which the GC ICM CommonServices CA is not mandatory (see the previous section on Common CA) andfor which the ICM Common Services CA cannot adequately meet the department'sneeds. For a Departmental CA, the department should ensure thatproper risk management has been performed on the system. As per MITS, theprogram or service delivery manager at that department is responsible foraccrediting the system. Departments have the flexibility to developsecurity requirements for Departmental CAs within their risk tolerances. It is recommended that industry best practices be followed in thedefinition of security requirements. It is also recommended thatdepartments align their Certificate Policies (CP) and practices with those usedby the Canadian Federal PKI Bridge where practicable and appropriate (seesection 3.1.3 below).Examples of a Departmental CA may include: A CA intended for the issuance of Transport Layer Security (TLS) certificates solely for internal departmental use (i.e. not for issuance to other departments or for public consumption);A CA with specific trust requirements that precludes the use of a common CA; and,A CA intended for the issuance of internal high-assurance certificates or for use within a closed (e.g. classified) system.It is recommended that departments or program managersestablishing a Departmental CA: Ensure that their requirements cannot be met by the GC Common CA by discussing with the department's PWGSC IT-SSO Client Relationship Manager; Request an exemption for the CA from the Common Services Policy; Contact Communications Security Establishment Canada (CSEC) for guidance on cryptographic measures and key management, if needed; Ensure that system certification and accreditation plans are developed and followed; and Ensure that the CA is accredited in accordance with their departmental standard prior to being put into operation.3.1.3 Bridge CAA Bridge CA (or PKI Bridge) is a CA which is used toestablish a relationship of trust between separate and distinct PKIsystems. The trust relationship is created through a process ofcross-certification between different CAs.Within the GC, the Canadian Federal PKI Bridge (CFPB)is the approved Bridge CA. It is operated by CSEC on behalf of TBS.",
+    "fr": "Cetterubrique distingue les types d'autorité de certification (AC) qui peuvent êtreutiles aux ministères pour s'acquitter de leurs exigences en matière d'ICP.3.1.1 AC communeAu GC, uneAC commune délivre des certificats de clé publique (CCP) au nom d'autresministères ou d'utilisateurs externes. L'AC des services communs de gestiondes justificatifs internes (GJI) administrée par TPSGC pour le compte duSecrétariat du Conseil du Trésor (SCT) est l'AC commune approuvée pour lesministères qui ont besoin de certificats d'ICP pour leurs systèmes internesgouvernementaux contenant de l'information jusqu'au niveau « Protégé B ».Les ministères devraient consulter la Politique sur lesservices communs et le Guideministériel pour l'adoption des services obligatoires de la Voie protégéepour s'informer des utilisations obligatoires de ce service. L'AC des servicescommuns de GJI a été reconnue par le président du Conseil du Trésor commeconforme au Règlement sur les SES.TPSGC gèreaussi le service d'AC du gouvernement en direct (GED) pour le compte duSCT, en délivrant des certificats aux utilisateurs de l'extérieur dugouvernement. L'AC du GED est approuvée pour des utilisations allant jusqu'auniveau d'information « Protégé B ».Lesministères devraient communiquer avec leur représentant au service à laclientèle de TPSGC pour lui parler de leurs objectifs et pour savoir si ces ACcommunes peuvent les aider à répondre à leurs besoins. Lorsqu'un ministère a unbesoin d'AC commune auquel l'AC de services communs de GJI ne peut pasrépondre, il devrait communiquer le plus tôt possible avec le SCT afin decerner ce besoin et de préciser pourquoi l'AC des services communs de GJI n'yrépond pas. À partir de là, on trouvera un moyen d'aller de l'avant endéfinissant les rôles et les responsabilités en vue de la certification et del'accréditation du système. On devrait pouvoir faire une certification réciproque(ou cocertification) avec une AC commune grâce à la Charnière fédéralecanadienne de l'ICP quand elle s'y prête (voir 3.1.3 et 3.2, plus loin).Lesministères ou les gestionnaires de programmes désireux d'établir une AC communedevraient : communiquer avec la Division de la gestion de la sécurité et de l'identité (DGSI) de la Direction du dirigeant principal de l'information (DDPI) du SCT pour préciser leurs besoins; faire en sorte qu'on élabore des plans de certification et d'accréditation et qu'on les envoie au SCT pour examen avant l'accréditation définitive.3.1.2 AC ministérielleLesministères se servent de leur AC ministérielle pour répondre à un besoininterne lorsqu'ils ne sont pas tenus d'avoir recours à l'AC des servicescommuns de GJI du GC (voir la rubrique qui précède sur l'AC commune) etque celle-ci ne peut pas répondre de façon satisfaisante aux besoins duministère.Pour son ACministérielle, le ministère devrait s'assurer qu'on a bien géré les risquesdans le système. Conformément à la GSTI, c'est le gestionnaire du ministère quiest chargé de l'exécution du programme ou de la prestation du service qui estresponsable de l'accréditation du système. Les ministères disposent de la margede manœuvre nécessaire pour déterminer les exigences de sécurité applicables àleurs AC ministérielles dans leur fourchette de tolérances des risques. Il estrecommandé qu'ils se conforment aux pratiques exemplaires du secteur privé pourétablir leurs exigences de sécurité et qu'ils harmonisent dans toute la mesuredu possible leurs politiques et leurs pratiques de certification avec celles dela Charnière fédérale canadienne de l'ICP (voir 3.1.3, plus loin).Les ACministérielles peuvent être par exemple : des AC conçues pour délivrer des certificats de couche de sécurité pour le transport (CST) à des fins ministérielles internes seulement (autrement dit pas pour délivrer des certificats à d'autres ministères ou au public); des AC assorties d'exigences de confiance spécifiques telles qu'il est impossible d'avoir recours à une AC commune; des AC conçues pour délivrer des certificats internes de grandes assurances ou des certificats destinés à être utilisés dans un système fermé (p. ex., classifié).Les ministères ou les gestionnaires de programmes qui établissent une AC ministérielle devraient : s'assurer que l'AC commune du GC ne peut pas satisfaire à leurs exigences, en en parlant avec le gestionnaire des relations avec la clientèle de l'OSPTI de TPSGC du ministère; demander une dérogation à la Politique sur les services communs pour l'AC; communiquer avec le Centre de la sécurité des télécommunications Canada (CSTC) pour obtenir des conseils sur les mesures de chiffrement et sur la gestion des clés, s'il y a lieu; s'assurer qu'on a établi des plans de certification et d'accréditation des systèmes et qu'on les a appliqués; s'assurer que l'AC a été accréditée conformément à leur norme ministérielle avant d'avoir été mise en œuvre.3.1.3 AC charnièreUne ACcharnière (ou charnière d'ICP) est une AC servant à établir une relation deconfiance entre des systèmes d'ICP séparés distincts. La relation de confianceest établie grâce à un processus de certification réciproque entre différentesAC.Au GC, la Charnièrefédérale canadienne de l'ICP (CCFICP) est l'AC charnière approuvée. Elleest gérée par le CSTC pour le compte du SCT.",
+    "anchor": "3",
+    "tag": "section"
   },
   {
-    "en": "PWGSC also operates the service on behalf of TBS, for the issuance of certificates toexternal-to-government users. The GOL CA is approved for uses up to andincluding the \"Protected B\" level of information.",
-    "fr": "Au GC, uneAC commune délivre des certificats de clé publique (CCP) au nom d'autresministères ou d'utilisateurs externes. administrée par TPSGC pour le compte duSecrétariat du Conseil du Trésor (SCT) est l'AC commune approuvée pour lesministères qui ont besoin de certificats d'ICP pour leurs systèmes internesgouvernementaux contenant de l'information jusqu'au niveau « Protégé B ».Les ministères devraient consulter la et le Guideministériel pour l'adoption des services obligatoires de la Voie protégéepour s'informer des utilisations obligatoires de ce service. L'AC des servicescommuns de GJI a été reconnue par le président du Conseil du Trésor commeconforme au Règlement sur les SES."
+    "en": "Cross-certification is a process undertaken by CAs toestablish a trust relationship. It involves one CA issuing a certificate toanother CA. Cross-certifications can also be combined, with the issuer andsubject or user roles of CAs being reversed (i.e. mutualcross-certification). When two CAs are mutually cross-certified, they agreeto trust and rely upon each other's PKC and keys as if they had issued thecertificates themselves. GC departments with a requirement tocross-certify their CA with another CA outside of their organization should doso through the Canadian Federal PKI Bridge; this includes cross-certificationsbetween GC CAs and external to GC CAs.The President of the Treasury Board, pursuant to authorityprovided by Order in Council, may enter into or terminate an agreement for cross-certificationor recognition of a CA including those outside of the GC. The President of theTreasury Board has delegated this authority to the Government of Canada ChiefInformation Officer. Overview of the Cross-Certification Process: The requestor should determine the business requirement for cross-certifying with the CFPB. The requestor submits a request to CIOB. If the organization is external to the GC, a GC department will be required as a sponsor. Certificate Policies of the requesting CA will be examined to ensure alignment with those of the CFPB. Test-bed trials will be performed. A formal arrangement will be negotiated and signed. Cross-certificates will be exchanged between the requesting CA and the CFPB.Please contact the Security and Identity Management Division of CIOB at the coordinates indicated in the \"Enquiries\" section of this Guideline for more detailed information on the cross-certification process or to identify arequirement for cross-certification.",
+    "fr": "Lacertification réciproque est un processus dont les AC se servent pour établirune relation de confiance dans lequel une AC délivre un certificat à une autreAC. Les certifications réciproques peuvent aussi être combinées, les rôles desAC qui délivrent la certification et qui la reçoivent ou qui s'en serventpouvant être inversés (ce qui revient à une certification réciproque mutuelle).Quand deux AC se certifient réciproquement, elles conviennent de se fier àleurs CCP et à leurs clés réciproques comme si elles avaient délivré les certificatselles-mêmes. Les ministères du GC qui sont tenus de certifierréciproquement leur AC avec une autre AC de l'extérieur de leur organisationdevraient le faire en passant par la Charnière fédérale canadienne de l'ICP, cequi nécessite des certifications réciproques entre les AC du GC et des AC del'extérieur du GC.Leprésident du Conseil du Trésor est investi par décret du pouvoir de conclure oude résilier des ententes de certification réciproque ou de reconnaissance d'AC,incluant celles de l'extérieur du GC. Il a délégué ce pouvoir au dirigeantprincipal de l'information du gouvernement du Canada.Aperçu duprocessus de certification réciproque : Le demandeur doit établir le besoin opérationnel d'une certification réciproque avec la CCFICP. Le demandeur soumet sa demande à la DDPI. Dans le cas d'une organisation de l'extérieur du GC, un ministère fédéral devra agir comme parrain. Les politiques de certification de l'AC qui fait la demande seront examinées pour en assurer l'harmonisation avec celles de la CCFICP. Un banc d'essais sera réalisé. Une entente officielle sera négociée et signée. L'AC qui fait la demande et la CCFICP échangeront les certificats. Veuillez communiquer avec la Direction de la gestion de la sécurité et de l'identité de la DDPI, aux coordonnées indiquées sous la rubrique « Demandes de renseignements » de cette ligne directrice, si vous avez besoin de renseignements détaillés sur le processus de certification réciproque ou si vous voulez déterminer la nécessité d'une telle certification.",
+    "anchor": "3",
+    "tag": "section"
+  },
+  {
+    "en": "3.3.1 ApplicabilityRecognition of a CA relates to the formal requirements tosatisfy the need for a secure electronic signature as identified within Part 2of PIPEDA. Pursuant to the SES Regulations, the President of the TreasuryBoard has the authority to recognize an entity or person as a CA. Inaccordance with the SES Regulations, prior to recognizing a CA, the Presidentof the Treasury Board must be satisfied that the person or entity has thecapacity to issue digital signature certificates in a secure and reliablemanner, as set out by paragraphs 48(2)(a) to (d) of PIPEDA. Specifically,these provisions require that: the electronic signature resulting from the use by a person of the technology or process is unique to the person; the use of the technology or process by a person to incorporate, attach or associate the person's electronic signature to an electronic document is under the sole control of the person; the technology or process can be used to identify the person using the technology or process; and the electronic signature can be linked with an electronic document in such a way that it can be used to determine whether the electronic document has been changed since the electronic signature was incorporated in, attached to or associated with the electronic document. The circumstances in which departments will require recognition of their CA by the President of the Treasury Board are very limited. Prior to initiating a request with TBS for recognition of their CA, departments should ascertain their needs with regard to a program or transaction. Departments should also consult with their departmental legal services unit to determine whether there are impediments to proceeding electronically and, if there are not, whether a secure electronic signature under PIPEDA and the SES Regulations is required or whether anotherform of electronic signature may suffice.In general, PIPEDA allows a department that is bound underits legislation to process signed paper documents, but that wishes to implementelectronic documents in their place, to use secure electronic signatures. A secure electronic signature also allows certain evidentiary presumptionsestablished by the SES Regulations under the CEA. In order to use secureelectronic signatures and benefit from the associated presumptions, thedepartment must first have its legislation added to the list in Schedule 2 or 3of PIPEDAand must then comply with the SES Regulations which includes havingthe President of the Treasury Board recognize the CA issuing the signing keys. Theregulations specify that CAs recognized as being capable of creating secureelectronic signatures are to be listed on the TBS website. At this time,only federal government CAs that have cross-certified with the Canadian FederalPKI Bridge are eligible to be recognized.Where a department has opted into the PIPEDA schemedescribed above, secure electronic signatures will have to be used forelectronic documents where: A certificate or other document signed by a minister or public officer serves as proof or evidence – PIPEDA, sect. 36; A person's seal is required – PIPEDA, sect. 39; An original document is required – PIPEDA, sect. 42; A statement under oath is required – PIPEDA, sect. 44; A statement declaring or certifying that any information given by a person making the statement is true, accurate or complete is required – PIPEDA, sect. 45; A witnessed signature is required – PIPEDA sect. 46.3.3.2 Overview of the Recognition ProcessThe followinghigh-level steps are performed in order to recognize a CA in the context of theSES Regulations: Identify the business requirement for recognition; If not already done, the requesting CA will need to cross-certify with the CFPB (see section 3.2); The GC CIO will approve the recognition request of the CA once satisfied that the CA has the capacity to issue digital signature certificates in a secure and reliable manner (within the context of the SES Regulations & PIPEDA); Once approved, the CA's details will be listed on the TBS website. On an annual basis the recognition status will be reviewed. In order for renewal of the CA's recognition status to occur, the CA will need to remain in good standing with the CFPB (with regard to cross-certification) and the operational authority for the CA will need to send a letter to CIOB indicating that the CA remains in compliance with its certificate policies. Please contact the Security and Identity Management Division of CIOB at the coordinates indicated in the \"Enquiries\" section of this Guideline for details on having a CA recognized.",
+    "fr": "3.3.1ApplicabilitéLareconnaissance d'une AC s'entend des exigences officielles auxquelles il fautsatisfaire pour sécuriser une signature électronique conformément à lapartie 2 de la LPRPDE. En vertu du Règlement sur les SES, le président duConseil du Trésor peut reconnaître une entité ou un individu en tant qu'AC.Toutefois, avant de le faire, il doit être convaincu que l'individu ou l'entitéa la capacité de délivrer des certificats de signature numérique sécurisée defaçon fiable, conformément aux alinéas 48(2)a) à d) de laLPRPDE, qui disposent que : la signature électronique résultant de l'utilisation de la technologie ou du procédé est propre à l'utilisateur; l'utilisation de la technologie ou du procédé pour l'incorporation, l'adjonction ou l'association de la signature électronique de l'utilisateur au document électronique est sous le seul contrôle de ce dernier; la technologie ou le procédé permet d'identifier l'utilisateur; la signature électronique peut être liée au document électronique de façon à permettre de vérifier si le document a été modifié depuis que la signature électronique a été incorporée, jointe ou associée au document.Les circonstances dans lesquelles les ministères devront faire reconnaître leur AC par le président du Conseil du Trésor sont très limitées. Avant de demander au SCT de reconnaître leur AC, ils devraient préciser leurs besoins à l'égard d'un programme ou d'une opération. Les ministères devraient également consulter leurs services juridiques pour déterminer si des facteurs font obstacle à ce qu'ils procèdent par des moyens électroniques et, s'il n'y a pas d'obstacle, si une signature électronique sécurisée aux termes de la LPRPDE et du Règlement sur les SES s'impose ou si une autre forme de signature électronique peut suffire.En général,une signature électronique sécurisée s'impose lorsqu'un ministère est tenu parsa loi de traiter des documents de papier signés, mais souhaite les remplacerpar des documents électroniques. Une signature électronique sécurisée rendégalement possibles certaines présomptions relatives à la preuve établies parle Règlement sur les SES en vertu de la LPC. Pour pouvoir utiliser dessignatures électroniques et bénéficier de ces présomptions, le ministère doitd'abord faire ajouter sa loi à la liste des annexes 2 ou 3 de la LPRPDE,puis se conformer au Règlement sur les SES, ce qui implique que le président duConseil du Trésor doit reconnaître l'AC qui délivre les clés de signature. LeRèglement stipule que les AC reconnues comme étant capables de créer dessignatures électroniques sécurisées doivent figurer sur le site Web du SCT. Àl'heure actuelle, seules les AC du gouvernement fédéral qui ont fait l'objetd'une certification réciproque avec la Charnière fédérale canadienne de l'ICPsont admissibles à cette reconnaissance.Lorsqu'unministère a opté d'adhérer au régime susdécrit de la LPRPDE, il doit utiliserdes signatures électroniques sécurisées pour les documents électroniqueslorsque : un certificat ou autre document portant la signature d'un ministre ou d'un fonctionnaire public fait foi du contenu du document – LPRPDE, art. 36; la position du sceau d'une personne est exigée – LPRPDE, art. 39; un document original est exigé – LPRPDE, art. 42; une déclaration sous serment ou une affirmation solennelle est exigée – LPRPDE, art. 44; une déclaration attestant la véracité, l'exactitude ou l'intégralité d'une information fournie par le déclarant est exigée – LPRPDE, art. 45; la signature d'un témoin est exigée – LPRPDE, art. 46.3.3.2 Aperçu du processus de reconnaissanceIl faut respecter lesétapes suivantes de haut niveau afin d'accorder la reconnaissance d'une AC dansle contexte du Règlement sur les SES: Déterminer le besoin opérationnel de reconnaissance; Si cela n'est pas déjà fait, l'AC qui fait la demande doit obtenir une certification réciproque avec la CCFICP (processus décrit à la section 3.2); Le DPI du GC approuvera la demande de reconnaissance lorsqu'il sera convaincu que l'AC dispose des capacités nécessaires pour émettre de façon sûre et fiable des certificats de signature numérique (en tenant compte du contexte du Règlement sur les SES et de la LPRPDE); Dès l'approbation donnée, les détails concernant l'AC seront affichés dans le site Web du SCT; L'état de reconnaissance sera évalué chaque année. Aux fins du renouvellement de la reconnaissance, l'AC devra être encore en règle auprès de la CCFICP, en ce qui concerne la certification réciproque, et le responsable opérationnel de l'AC devra envoyer à la DDPI une lettre d'attestation de l'observation par l'AC de ses politiques de certification. Veuillez communiquer avec la Direction de la gestion de la sécurité et de l'identité de la DDPI, aux coordonnées indiquées sous la rubrique « Demandes de renseignements » de cette ligne directrice, si vous avez besoin de renseignements additionnels sur la reconnaissance d'une AC.",
+    "anchor": "3",
+    "tag": "section"
+  },
+  {
+    "en": "3.1.1 Common CA",
+    "fr": "Cetterubrique distingue les types d'autorité de certification (AC) qui peuvent êtreutiles aux ministères pour s'acquitter de leurs exigences en matière d'ICP.",
+    "anchor": "3.1",
+    "tag": "h4"
+  },
+  {
+    "en": "Within the GC, a common CA issues public key certificates(PKC) on behalf of other departments or external users. The InternalCredential Management (ICM) Common Services CA, operated by PWGSC on behalfof Treasury Board Secretariat (TBS), is the approved common CA for departmentsrequiring PKI certificates for internal-to-government systems which containinformation up to and including the \"Protected B\" level. Departmentsshould consult the Common ServicesPolicy and the DepartmentalGuide to Adoption of Secure Channel Mandatory Services to identifymandatory uses of this service. The ICM Common Services CA has beenrecognized by the President of the Treasury Board in accordance with the SESRegulations.",
+    "fr": "3.1.1 AC commune",
+    "anchor": "3.1",
+    "tag": "p"
+  },
+  {
+    "en": "PWGSC also operates the Government On-Line (GOL) CAservice on behalf of TBS, for the issuance of certificates toexternal-to-government users. The GOL CA is approved for uses up to andincluding the \"Protected B\" level of information.",
+    "fr": "Au GC, uneAC commune délivre des certificats de clé publique (CCP) au nom d'autresministères ou d'utilisateurs externes. L'AC des services communs de gestiondes justificatifs internes (GJI) administrée par TPSGC pour le compte duSecrétariat du Conseil du Trésor (SCT) est l'AC commune approuvée pour lesministères qui ont besoin de certificats d'ICP pour leurs systèmes internesgouvernementaux contenant de l'information jusqu'au niveau « Protégé B ».Les ministères devraient consulter la Politique sur lesservices communs et le Guideministériel pour l'adoption des services obligatoires de la Voie protégéepour s'informer des utilisations obligatoires de ce service. L'AC des servicescommuns de GJI a été reconnue par le président du Conseil du Trésor commeconforme au Règlement sur les SES.",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
     "en": "Departments should contact their PWGSC client-servicesrepresentative to discuss their objectives and to identify whether these commonCAs can help to address the department's needs. Where a departmentalrequirement exists for a common CA that cannot be met by the ICM CommonServices CA, TBS should be contacted at the earliest possible opportunity toidentify the requirement and to specify why the ICM Common Services CA is notsufficient. Based on this information, a way forward will be identified,as will roles and responsibilities for certification and accreditation of thesystem. A common CA should cross-certify through the Canadian Federal PKIBridge where practicable (see sections 3.1.3 and 3.2 below).",
-    "fr": "TPSGC gèreaussi le service d' pour le compte duSCT, en délivrant des certificats aux utilisateurs de l'extérieur dugouvernement. L'AC du GED est approuvée pour des utilisations allant jusqu'auniveau d'information « Protégé B »."
+    "fr": "TPSGC gèreaussi le service d'AC du gouvernement en direct (GED) pour le compte duSCT, en délivrant des certificats aux utilisateurs de l'extérieur dugouvernement. L'AC du GED est approuvée pour des utilisations allant jusqu'auniveau d'information « Protégé B ».",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
     "en": "Departments or program managers wishing to establish acommon CA should:",
-    "fr": "Lesministères devraient communiquer avec leur représentant au service à laclientèle de TPSGC pour lui parler de leurs objectifs et pour savoir si ces ACcommunes peuvent les aider à répondre à leurs besoins. Lorsqu'un ministère a unbesoin d'AC commune auquel l'AC de services communs de GJI ne peut pasrépondre, il devrait communiquer le plus tôt possible avec le SCT afin decerner ce besoin et de préciser pourquoi l'AC des services communs de GJI n'yrépond pas. À partir de là, on trouvera un moyen d'aller de l'avant endéfinissant les rôles et les responsabilités en vue de la certification et del'accréditation du système. On devrait pouvoir faire une certification réciproque(ou cocertification) avec une AC commune grâce à la Charnière fédéralecanadienne de l'ICP quand elle s'y prête (voir 3.1.3 et 3.2, plus loin)."
+    "fr": "Lesministères devraient communiquer avec leur représentant au service à laclientèle de TPSGC pour lui parler de leurs objectifs et pour savoir si ces ACcommunes peuvent les aider à répondre à leurs besoins. Lorsqu'un ministère a unbesoin d'AC commune auquel l'AC de services communs de GJI ne peut pasrépondre, il devrait communiquer le plus tôt possible avec le SCT afin decerner ce besoin et de préciser pourquoi l'AC des services communs de GJI n'yrépond pas. À partir de là, on trouvera un moyen d'aller de l'avant endéfinissant les rôles et les responsabilités en vue de la certification et del'accréditation du système. On devrait pouvoir faire une certification réciproque(ou cocertification) avec une AC commune grâce à la Charnière fédéralecanadienne de l'ICP quand elle s'y prête (voir 3.1.3 et 3.2, plus loin).",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
-    "en": "A isused by a department to meet an internal requirement for which the GC ICM CommonServices CA is not mandatory (see the previous section on ) andfor which the ICM Common Services CA cannot adequately meet the department'sneeds.",
-    "fr": "Lesministères ou les gestionnaires de programmes désireux d'établir une AC communedevraient :"
+    "en": "Contact the Security and Identity Management Division(SIDM) of the Chief Information Officer Branch (CIOB) at TBS to identify the department's requirement. Ensure certification and accreditation plans are developed and forwarded to TBS for review prior to final accreditation.",
+    "fr": "Lesministères ou les gestionnaires de programmes désireux d'établir une AC communedevraient :",
+    "anchor": "3.1",
+    "tag": "ul"
+  },
+  {
+    "en": "3.1.2 DepartmentalCA",
+    "fr": "communiquer avec la Division de la gestion de la sécurité et de l'identité (DGSI) de la Direction du dirigeant principal de l'information (DDPI) du SCT pour préciser leurs besoins; faire en sorte qu'on élabore des plans de certification et d'accréditation et qu'on les envoie au SCT pour examen avant l'accréditation définitive.",
+    "anchor": "3.1",
+    "tag": "h4"
+  },
+  {
+    "en": "A Departmental CA isused by a department to meet an internal requirement for which the GC ICM CommonServices CA is not mandatory (see the previous section on Common CA) andfor which the ICM Common Services CA cannot adequately meet the department'sneeds.",
+    "fr": "3.1.2 AC ministérielle",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
     "en": "For a Departmental CA, the department should ensure thatproper risk management has been performed on the system. As per MITS, theprogram or service delivery manager at that department is responsible foraccrediting the system. Departments have the flexibility to developsecurity requirements for Departmental CAs within their risk tolerances. It is recommended that industry best practices be followed in thedefinition of security requirements. It is also recommended thatdepartments align their Certificate Policies (CP) and practices with those usedby the Canadian Federal PKI Bridge where practicable and appropriate (seesection 3.1.3 below).",
-    "fr": "Lesministères se servent de leur pour répondre à un besoininterne lorsqu'ils ne sont pas tenus d'avoir recours à l'AC des servicescommuns de GJI du GC (voir la rubrique qui précède sur l' ) etque celle-ci ne peut pas répondre de façon satisfaisante aux besoins duministère."
+    "fr": "Lesministères se servent de leur AC ministérielle pour répondre à un besoininterne lorsqu'ils ne sont pas tenus d'avoir recours à l'AC des servicescommuns de GJI du GC (voir la rubrique qui précède sur l'AC commune) etque celle-ci ne peut pas répondre de façon satisfaisante aux besoins duministère.",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
     "en": "Examples of a Departmental CA may include:",
-    "fr": "Pour son ACministérielle, le ministère devrait s'assurer qu'on a bien géré les risquesdans le système. Conformément à la GSTI, c'est le gestionnaire du ministère quiest chargé de l'exécution du programme ou de la prestation du service qui estresponsable de l'accréditation du système. Les ministères disposent de la margede manœuvre nécessaire pour déterminer les exigences de sécurité applicables àleurs AC ministérielles dans leur fourchette de tolérances des risques. Il estrecommandé qu'ils se conforment aux pratiques exemplaires du secteur privé pourétablir leurs exigences de sécurité et qu'ils harmonisent dans toute la mesuredu possible leurs politiques et leurs pratiques de certification avec celles dela Charnière fédérale canadienne de l'ICP (voir 3.1.3, plus loin)."
+    "fr": "Pour son ACministérielle, le ministère devrait s'assurer qu'on a bien géré les risquesdans le système. Conformément à la GSTI, c'est le gestionnaire du ministère quiest chargé de l'exécution du programme ou de la prestation du service qui estresponsable de l'accréditation du système. Les ministères disposent de la margede manœuvre nécessaire pour déterminer les exigences de sécurité applicables àleurs AC ministérielles dans leur fourchette de tolérances des risques. Il estrecommandé qu'ils se conforment aux pratiques exemplaires du secteur privé pourétablir leurs exigences de sécurité et qu'ils harmonisent dans toute la mesuredu possible leurs politiques et leurs pratiques de certification avec celles dela Charnière fédérale canadienne de l'ICP (voir 3.1.3, plus loin).",
+    "anchor": "3.1",
+    "tag": "p"
+  },
+  {
+    "en": "A CA intended for the issuance of Transport Layer Security (TLS) certificates solely for internal departmental use (i.e. not for issuance to other departments or for public consumption);A CA with specific trust requirements that precludes the use of a common CA; and,A CA intended for the issuance of internal high-assurance certificates or for use within a closed (e.g. classified) system.",
+    "fr": "Les ACministérielles peuvent être par exemple :",
+    "anchor": "3.1",
+    "tag": "ul"
   },
   {
     "en": "It is recommended that departments or program managersestablishing a Departmental CA:",
-    "fr": "Les ACministérielles peuvent être par exemple :"
+    "fr": "des AC conçues pour délivrer des certificats de couche de sécurité pour le transport (CST) à des fins ministérielles internes seulement (autrement dit pas pour délivrer des certificats à d'autres ministères ou au public); des AC assorties d'exigences de confiance spécifiques telles qu'il est impossible d'avoir recours à une AC commune; des AC conçues pour délivrer des certificats internes de grandes assurances ou des certificats destinés à être utilisés dans un système fermé (p. ex., classifié).",
+    "anchor": "3.1",
+    "tag": "p"
+  },
+  {
+    "en": "Ensure that their requirements cannot be met by the GC Common CA by discussing with the department's PWGSC IT-SSO Client Relationship Manager; Request an exemption for the CA from the Common Services Policy; Contact Communications Security Establishment Canada (CSEC) for guidance on cryptographic measures and key management, if needed; Ensure that system certification and accreditation plans are developed and followed; and Ensure that the CA is accredited in accordance with their departmental standard prior to being put into operation.",
+    "fr": "Les ministères ou les gestionnaires de programmes qui établissent une AC ministérielle devraient :",
+    "anchor": "3.1",
+    "tag": "ul"
+  },
+  {
+    "en": "3.1.3 Bridge CA",
+    "fr": "s'assurer que l'AC commune du GC ne peut pas satisfaire à leurs exigences, en en parlant avec le gestionnaire des relations avec la clientèle de l'OSPTI de TPSGC du ministère; demander une dérogation à la Politique sur les services communs pour l'AC; communiquer avec le Centre de la sécurité des télécommunications Canada (CSTC) pour obtenir des conseils sur les mesures de chiffrement et sur la gestion des clés, s'il y a lieu; s'assurer qu'on a établi des plans de certification et d'accréditation des systèmes et qu'on les a appliqués; s'assurer que l'AC a été accréditée conformément à leur norme ministérielle avant d'avoir été mise en œuvre.",
+    "anchor": "3.1",
+    "tag": "h4"
   },
   {
     "en": "A Bridge CA (or PKI Bridge) is a CA which is used toestablish a relationship of trust between separate and distinct PKIsystems. The trust relationship is created through a process ofcross-certification between different CAs.",
-    "fr": "Les ministères ou les gestionnaires de programmes qui établissent une AC ministérielle devraient :"
+    "fr": "3.1.3 AC charnière",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
-    "en": "Within the GC, the (CFPB)is the approved Bridge CA. It is operated by CSEC on behalf of TBS.",
-    "fr": "Une ACcharnière (ou charnière d'ICP) est une AC servant à établir une relation deconfiance entre des systèmes d'ICP séparés distincts. La relation de confianceest établie grâce à un processus de certification réciproque entre différentesAC."
+    "en": "Within the GC, the Canadian Federal PKI Bridge (CFPB)is the approved Bridge CA. It is operated by CSEC on behalf of TBS.",
+    "fr": "Une ACcharnière (ou charnière d'ICP) est une AC servant à établir une relation deconfiance entre des systèmes d'ICP séparés distincts. La relation de confianceest établie grâce à un processus de certification réciproque entre différentesAC.",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
     "en": "Cross-certification is a process undertaken by CAs toestablish a trust relationship. It involves one CA issuing a certificate toanother CA. Cross-certifications can also be combined, with the issuer andsubject or user roles of CAs being reversed (i.e. mutualcross-certification). When two CAs are mutually cross-certified, they agreeto trust and rely upon each other's PKC and keys as if they had issued thecertificates themselves. GC departments with a requirement tocross-certify their CA with another CA outside of their organization should doso through the Canadian Federal PKI Bridge; this includes cross-certificationsbetween GC CAs and external to GC CAs.",
-    "fr": "Au GC, la (CCFICP) est l'AC charnière approuvée. Elleest gérée par le CSTC pour le compte du SCT."
+    "fr": "Lacertification réciproque est un processus dont les AC se servent pour établirune relation de confiance dans lequel une AC délivre un certificat à une autreAC. Les certifications réciproques peuvent aussi être combinées, les rôles desAC qui délivrent la certification et qui la reçoivent ou qui s'en serventpouvant être inversés (ce qui revient à une certification réciproque mutuelle).Quand deux AC se certifient réciproquement, elles conviennent de se fier àleurs CCP et à leurs clés réciproques comme si elles avaient délivré les certificatselles-mêmes. Les ministères du GC qui sont tenus de certifierréciproquement leur AC avec une autre AC de l'extérieur de leur organisationdevraient le faire en passant par la Charnière fédérale canadienne de l'ICP, cequi nécessite des certifications réciproques entre les AC du GC et des AC del'extérieur du GC.",
+    "anchor": "3.2",
+    "tag": "p"
   },
   {
     "en": "The President of the Treasury Board, pursuant to authorityprovided by Order in Council, may enter into or terminate an agreement for cross-certificationor recognition of a CA including those outside of the GC. The President of theTreasury Board has delegated this authority to the Government of Canada ChiefInformation Officer.",
-    "fr": "Lacertification réciproque est un processus dont les AC se servent pour établirune relation de confiance dans lequel une AC délivre un certificat à une autreAC. Les certifications réciproques peuvent aussi être combinées, les rôles desAC qui délivrent la certification et qui la reçoivent ou qui s'en serventpouvant être inversés (ce qui revient à une certification réciproque mutuelle).Quand deux AC se certifient réciproquement, elles conviennent de se fier àleurs CCP et à leurs clés réciproques comme si elles avaient délivré les certificatselles-mêmes. Les ministères du GC qui sont tenus de certifierréciproquement leur AC avec une autre AC de l'extérieur de leur organisationdevraient le faire en passant par la Charnière fédérale canadienne de l'ICP, cequi nécessite des certifications réciproques entre les AC du GC et des AC del'extérieur du GC."
+    "fr": "Leprésident du Conseil du Trésor est investi par décret du pouvoir de conclure oude résilier des ententes de certification réciproque ou de reconnaissance d'AC,incluant celles de l'extérieur du GC. Il a délégué ce pouvoir au dirigeantprincipal de l'information du gouvernement du Canada.",
+    "anchor": "3.2",
+    "tag": "p"
   },
   {
     "en": "Overview of the Cross-Certification Process:",
-    "fr": "Leprésident du Conseil du Trésor est investi par décret du pouvoir de conclure oude résilier des ententes de certification réciproque ou de reconnaissance d'AC,incluant celles de l'extérieur du GC. Il a délégué ce pouvoir au dirigeantprincipal de l'information du gouvernement du Canada."
+    "fr": "Aperçu duprocessus de certification réciproque :",
+    "anchor": "3.2",
+    "tag": "p"
   },
   {
-    "en": "Please contact the of CIOB at the coordinates indicated in the \"Enquiries\" section of this Guideline for more detailed information on the cross-certification process or to identify arequirement for cross-certification.",
-    "fr": "Aperçu duprocessus de certification réciproque :"
+    "en": "The requestor should determine the business requirement for cross-certifying with the CFPB. The requestor submits a request to CIOB. If the organization is external to the GC, a GC department will be required as a sponsor. Certificate Policies of the requesting CA will be examined to ensure alignment with those of the CFPB. Test-bed trials will be performed. A formal arrangement will be negotiated and signed. Cross-certificates will be exchanged between the requesting CA and the CFPB.",
+    "fr": "Le demandeur doit établir le besoin opérationnel d'une certification réciproque avec la CCFICP. Le demandeur soumet sa demande à la DDPI. Dans le cas d'une organisation de l'extérieur du GC, un ministère fédéral devra agir comme parrain. Les politiques de certification de l'AC qui fait la demande seront examinées pour en assurer l'harmonisation avec celles de la CCFICP. Un banc d'essais sera réalisé. Une entente officielle sera négociée et signée. L'AC qui fait la demande et la CCFICP échangeront les certificats.",
+    "anchor": "3.2",
+    "tag": "ul"
+  },
+  {
+    "en": "Please contact the Security and Identity Management Division of CIOB at the coordinates indicated in the \"Enquiries\" section of this Guideline for more detailed information on the cross-certification process or to identify arequirement for cross-certification.",
+    "fr": "Veuillez communiquer avec la Direction de la gestion de la sécurité et de l'identité de la DDPI, aux coordonnées indiquées sous la rubrique « Demandes de renseignements » de cette ligne directrice, si vous avez besoin de renseignements détaillés sur le processus de certification réciproque ou si vous voulez déterminer la nécessité d'une telle certification.",
+    "anchor": "3.2",
+    "tag": "p"
+  },
+  {
+    "en": "3.3.1 Applicability",
+    "fr": "3.3.1Applicabilité",
+    "anchor": "3.3",
+    "tag": "h4"
   },
   {
     "en": "Recognition of a CA relates to the formal requirements tosatisfy the need for a secure electronic signature as identified within Part 2of PIPEDA. Pursuant to the SES Regulations, the President of the TreasuryBoard has the authority to recognize an entity or person as a CA. Inaccordance with the SES Regulations, prior to recognizing a CA, the Presidentof the Treasury Board must be satisfied that the person or entity has thecapacity to issue digital signature certificates in a secure and reliablemanner, as set out by paragraphs 48(2)(a) to (d) of PIPEDA. Specifically,these provisions require that:",
-    "fr": "Veuillez communiquer avec la de la DDPI, aux coordonnées indiquées sous la rubrique « Demandes de renseignements » de cette ligne directrice, si vous avez besoin de renseignements détaillés sur le processus de certification réciproque ou si vous voulez déterminer la nécessité d'une telle certification."
+    "fr": "Lareconnaissance d'une AC s'entend des exigences officielles auxquelles il fautsatisfaire pour sécuriser une signature électronique conformément à lapartie 2 de la LPRPDE. En vertu du Règlement sur les SES, le président duConseil du Trésor peut reconnaître une entité ou un individu en tant qu'AC.Toutefois, avant de le faire, il doit être convaincu que l'individu ou l'entitéa la capacité de délivrer des certificats de signature numérique sécurisée defaçon fiable, conformément aux alinéas 48(2)a) à d) de laLPRPDE, qui disposent que :",
+    "anchor": "3.3",
+    "tag": "p"
   },
   {
-    "en": "The circumstances in which departments will require recognition of their CA by the President of the Treasury Board are very limited. Prior to initiating a request with TBS for recognition of their CA, departments should ascertain their needs with regard to a program or transaction. .",
-    "fr": "Lareconnaissance d'une AC s'entend des exigences officielles auxquelles il fautsatisfaire pour sécuriser une signature électronique conformément à lapartie 2 de la LPRPDE. En vertu du Règlement sur les SES, le président duConseil du Trésor peut reconnaître une entité ou un individu en tant qu'AC.Toutefois, avant de le faire, il doit être convaincu que l'individu ou l'entitéa la capacité de délivrer des certificats de signature numérique sécurisée defaçon fiable, conformément aux alinéas 48(2) ) à ) de laLPRPDE, qui disposent que :"
+    "en": "the electronic signature resulting from the use by a person of the technology or process is unique to the person; the use of the technology or process by a person to incorporate, attach or associate the person's electronic signature to an electronic document is under the sole control of the person; the technology or process can be used to identify the person using the technology or process; and the electronic signature can be linked with an electronic document in such a way that it can be used to determine whether the electronic document has been changed since the electronic signature was incorporated in, attached to or associated with the electronic document.",
+    "fr": "la signature électronique résultant de l'utilisation de la technologie ou du procédé est propre à l'utilisateur; l'utilisation de la technologie ou du procédé pour l'incorporation, l'adjonction ou l'association de la signature électronique de l'utilisateur au document électronique est sous le seul contrôle de ce dernier; la technologie ou le procédé permet d'identifier l'utilisateur; la signature électronique peut être liée au document électronique de façon à permettre de vérifier si le document a été modifié depuis que la signature électronique a été incorporée, jointe ou associée au document.",
+    "anchor": "3.3",
+    "tag": "ul"
   },
   {
-    "en": "In general, PIPEDA allows a department that is bound underits legislation to process signed paper documents, but that wishes to implementelectronic documents in their place, to use secure electronic signatures. A secure electronic signature also allows certain evidentiary presumptionsestablished by the SES Regulations under the CEA. In order to use secureelectronic signatures and benefit from the associated presumptions, thedepartment must first have its legislation added to the list in Schedule 2 or 3of PIPEDAand must then comply with the SES Regulations which includes havingthe President of the Treasury Board recognize the CA issuing the signing keys Theregulations specify that CAs recognized as being capable of creating secureelectronic signatures are to be listed on the TBS website. At this time,only federal government CAs that have cross-certified with the Canadian FederalPKI Bridge are eligible to be recognized.",
-    "fr": "Les circonstances dans lesquelles les ministères devront faire reconnaître leur AC par le président du Conseil du Trésor sont très limitées. Avant de demander au SCT de reconnaître leur AC, ils devraient préciser leurs besoins à l'égard d'un programme ou d'une opération. ."
+    "en": "The circumstances in which departments will require recognition of their CA by the President of the Treasury Board are very limited. Prior to initiating a request with TBS for recognition of their CA, departments should ascertain their needs with regard to a program or transaction. Departments should also consult with their departmental legal services unit to determine whether there are impediments to proceeding electronically and, if there are not, whether a secure electronic signature under PIPEDA and the SES Regulations is required or whether anotherform of electronic signature may suffice.",
+    "fr": "Les circonstances dans lesquelles les ministères devront faire reconnaître leur AC par le président du Conseil du Trésor sont très limitées. Avant de demander au SCT de reconnaître leur AC, ils devraient préciser leurs besoins à l'égard d'un programme ou d'une opération. Les ministères devraient également consulter leurs services juridiques pour déterminer si des facteurs font obstacle à ce qu'ils procèdent par des moyens électroniques et, s'il n'y a pas d'obstacle, si une signature électronique sécurisée aux termes de la LPRPDE et du Règlement sur les SES s'impose ou si une autre forme de signature électronique peut suffire.",
+    "anchor": "3.3",
+    "tag": "p"
+  },
+  {
+    "en": "In general, PIPEDA allows a department that is bound underits legislation to process signed paper documents, but that wishes to implementelectronic documents in their place, to use secure electronic signatures. A secure electronic signature also allows certain evidentiary presumptionsestablished by the SES Regulations under the CEA. In order to use secureelectronic signatures and benefit from the associated presumptions, thedepartment must first have its legislation added to the list in Schedule 2 or 3of PIPEDAand must then comply with the SES Regulations which includes havingthe President of the Treasury Board recognize the CA issuing the signing keys. Theregulations specify that CAs recognized as being capable of creating secureelectronic signatures are to be listed on the TBS website. At this time,only federal government CAs that have cross-certified with the Canadian FederalPKI Bridge are eligible to be recognized.",
+    "fr": "En général,une signature électronique sécurisée s'impose lorsqu'un ministère est tenu parsa loi de traiter des documents de papier signés, mais souhaite les remplacerpar des documents électroniques. Une signature électronique sécurisée rendégalement possibles certaines présomptions relatives à la preuve établies parle Règlement sur les SES en vertu de la LPC. Pour pouvoir utiliser dessignatures électroniques et bénéficier de ces présomptions, le ministère doitd'abord faire ajouter sa loi à la liste des annexes 2 ou 3 de la LPRPDE,puis se conformer au Règlement sur les SES, ce qui implique que le président duConseil du Trésor doit reconnaître l'AC qui délivre les clés de signature. LeRèglement stipule que les AC reconnues comme étant capables de créer dessignatures électroniques sécurisées doivent figurer sur le site Web du SCT. Àl'heure actuelle, seules les AC du gouvernement fédéral qui ont fait l'objetd'une certification réciproque avec la Charnière fédérale canadienne de l'ICPsont admissibles à cette reconnaissance.",
+    "anchor": "3.3",
+    "tag": "p"
   },
   {
     "en": "Where a department has opted into the PIPEDA schemedescribed above, secure electronic signatures will have to be used forelectronic documents where:",
-    "fr": "En général,une signature électronique sécurisée s'impose lorsqu'un ministère est tenu parsa loi de traiter des documents de papier signés, mais souhaite les remplacerpar des documents électroniques. Une signature électronique sécurisée rendégalement possibles certaines présomptions relatives à la preuve établies parle Règlement sur les SES en vertu de la LPC. Pour pouvoir utiliser dessignatures électroniques et bénéficier de ces présomptions, le ministère doitd'abord faire ajouter sa loi à la liste des annexes 2 ou 3 de la LPRPDE,puis se conformer au Règlement sur les SES, ce qui implique que le président duConseil du Trésor doit reconnaître l'AC qui délivre les clés de signature. LeRèglement stipule que les AC reconnues comme étant capables de créer dessignatures électroniques sécurisées doivent figurer sur le site Web du SCT. Àl'heure actuelle, seules les AC du gouvernement fédéral qui ont fait l'objetd'une certification réciproque avec la Charnière fédérale canadienne de l'ICPsont admissibles à cette reconnaissance."
+    "fr": "Lorsqu'unministère a opté d'adhérer au régime susdécrit de la LPRPDE, il doit utiliserdes signatures électroniques sécurisées pour les documents électroniqueslorsque :",
+    "anchor": "3.3",
+    "tag": "p"
+  },
+  {
+    "en": "A certificate or other document signed by a minister or public officer serves as proof or evidence – PIPEDA, sect. 36; A person's seal is required – PIPEDA, sect. 39; An original document is required – PIPEDA, sect. 42; A statement under oath is required – PIPEDA, sect. 44; A statement declaring or certifying that any information given by a person making the statement is true, accurate or complete is required – PIPEDA, sect. 45; A witnessed signature is required – PIPEDA sect. 46.",
+    "fr": "un certificat ou autre document portant la signature d'un ministre ou d'un fonctionnaire public fait foi du contenu du document – LPRPDE, art. 36; la position du sceau d'une personne est exigée – LPRPDE, art. 39; un document original est exigé – LPRPDE, art. 42; une déclaration sous serment ou une affirmation solennelle est exigée – LPRPDE, art. 44; une déclaration attestant la véracité, l'exactitude ou l'intégralité d'une information fournie par le déclarant est exigée – LPRPDE, art. 45; la signature d'un témoin est exigée – LPRPDE, art. 46.",
+    "anchor": "3.3",
+    "tag": "ul"
+  },
+  {
+    "en": "3.3.2 Overview of the Recognition Process",
+    "fr": "3.3.2 Aperçu du processus de reconnaissance",
+    "anchor": "3.3",
+    "tag": "h4"
   },
   {
     "en": "The followinghigh-level steps are performed in order to recognize a CA in the context of theSES Regulations:",
-    "fr": "Lorsqu'unministère a opté d'adhérer au régime susdécrit de la LPRPDE, il doit utiliserdes signatures électroniques sécurisées pour les documents électroniqueslorsque :"
+    "fr": "Il faut respecter lesétapes suivantes de haut niveau afin d'accorder la reconnaissance d'une AC dansle contexte du Règlement sur les SES:",
+    "anchor": "3.3",
+    "tag": "p"
   },
   {
-    "en": "Please contact the of CIOB at the coordinates indicated in the \"Enquiries\" section of this Guideline for details on having a CA recognized.",
-    "fr": "Il faut respecter lesétapes suivantes de haut niveau afin d'accorder la reconnaissance d'une AC dansle contexte du Règlement sur les SES:"
+    "en": "Identify the business requirement for recognition; If not already done, the requesting CA will need to cross-certify with the CFPB (see section 3.2); The GC CIO will approve the recognition request of the CA once satisfied that the CA has the capacity to issue digital signature certificates in a secure and reliable manner (within the context of the SES Regulations & PIPEDA); Once approved, the CA's details will be listed on the TBS website. On an annual basis the recognition status will be reviewed. In order for renewal of the CA's recognition status to occur, the CA will need to remain in good standing with the CFPB (with regard to cross-certification) and the operational authority for the CA will need to send a letter to CIOB indicating that the CA remains in compliance with its certificate policies.",
+    "fr": "Déterminer le besoin opérationnel de reconnaissance; Si cela n'est pas déjà fait, l'AC qui fait la demande doit obtenir une certification réciproque avec la CCFICP (processus décrit à la section 3.2); Le DPI du GC approuvera la demande de reconnaissance lorsqu'il sera convaincu que l'AC dispose des capacités nécessaires pour émettre de façon sûre et fiable des certificats de signature numérique (en tenant compte du contexte du Règlement sur les SES et de la LPRPDE); Dès l'approbation donnée, les détails concernant l'AC seront affichés dans le site Web du SCT; L'état de reconnaissance sera évalué chaque année. Aux fins du renouvellement de la reconnaissance, l'AC devra être encore en règle auprès de la CCFICP, en ce qui concerne la certification réciproque, et le responsable opérationnel de l'AC devra envoyer à la DDPI une lettre d'attestation de l'observation par l'AC de ses politiques de certification.",
+    "anchor": "3.3",
+    "tag": "ul"
+  },
+  {
+    "en": "Please contact the Security and Identity Management Division of CIOB at the coordinates indicated in the \"Enquiries\" section of this Guideline for details on having a CA recognized.",
+    "fr": "Veuillez communiquer avec la Direction de la gestion de la sécurité et de l'identité de la DDPI, aux coordonnées indiquées sous la rubrique « Demandes de renseignements » de cette ligne directrice, si vous avez besoin de renseignements additionnels sur la reconnaissance d'une AC.",
+    "anchor": "3.3",
+    "tag": "p"
   },
   {
     "en": "Departments or program managers choosing to use public keytechnology as a means of protecting the confidentiality of information orelectronically authenticating the identity of individuals and/or documents should:",
-    "fr": "Veuillez communiquer avec la de la DDPI, aux coordonnées indiquées sous la rubrique « Demandes de renseignements » de cette ligne directrice, si vous avez besoin de renseignements additionnels sur la reconnaissance d'une AC."
+    "fr": "Lesministères ou les gestionnaires de programmes qui choisissent de se servir dela technologie à clé publique comme moyen de protéger la confidentialité desrenseignements ou d'authentifier électroniquement l'identité des individuset/ou des documents devraient :",
+    "anchor": "4",
+    "tag": "p"
   },
   {
-    "en": "This section discusses the roles, responsibilities andservices of lead agencies in support PKI management.",
-    "fr": "Lesministères ou les gestionnaires de programmes qui choisissent de se servir dela technologie à clé publique comme moyen de protéger la confidentialité desrenseignements ou d'authentifier électroniquement l'identité des individuset/ou des documents devraient :"
+    "en": "Using the ICM Common Services CA provided by PWGSC for the purpose of issuing medium assurance digital certificates to users or obtaining the appropriate exemptions in order to establish their own departmental certificate authority; Using the CFPB operated by CSEC when cross-certification is required between common and Departmental CAs, or for cross-certification with CAs outside the GC; and Ensuring the use and management of PKI is aligned with GC goals for security and identity management as established by the Treasury Board through the PGS and its supporting instruments.",
+    "fr": "se servant de l'AC de services communs de GJI fournie par TPSGC afin de délivrer des certificats numériques d'assurance moyenne aux utilisateurs ou d'obtenir les dérogations appropriées afin d'établir leur propre autorité de certification ministérielle; utilisant la CCFICP gérée par le CSTC quand une certification réciproque est requise entre des AC communes et ministérielles ou lorsqu'une certification réciproque est requise avec des AC de l'extérieur du GC; s'assurant que l'utilisation et la gestion de l'ICP est compatible avec les buts du GC en matière de gestion de la sécurité et de l'identité établis par le Conseil du Trésor dans la PSG et dans ses instruments connexes.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "Ensuring the CA manages the PKC and certificate revocation lists (CRLs) it issues by implementing one or more certificate policies and a certification practice statement with respect to the operation of that Certification Authority; Ensuring compliance with certificate policies and certification practice statements by any individual or entity acting on its behalf; and Where practicable and appropriate, aligning certificate policies and certification practice statements with those in use by the CFPB.",
+    "fr": "s'assurant que l'AC gère le CCP et les listes de certificats révoqués (LCR) qu'il délivre en mettant en œuvre une ou plusieurs politiques de certification et en publiant un énoncé de pratiques de certification sur le fonctionnement de cette autorité de certification; s'assurant que tous les individus ou toutes les entités qui agissent en son nom se conforment à ses politiques de certification et à ses énoncés de pratiques de certification; en harmonisant dans toute la mesure du possible ses politiques de certification et ses énoncés de pratiques de certification avec ceux de la CCFICP.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "Ensuring users are advised of their respective rights and obligations as well as those of the CA; Developing, implementing, and communicating to users the terms and conditions for the appropriate use of and reliance on their PKC and obtaining their signed agreement to these terms and conditions; Developing, implementing, and communicating to users, the policies and procedures concerning the use of their PKC; and Establishing and communicating, or causing to be communicated, to relevant parties, including users and relying parties, any limits for any judgement, award or settlement made against it by reason of the use of such PKC.",
+    "fr": "s'assurant que les utilisateurs sont informés de leurs droits et de leurs obligations ainsi que des droits et des obligations de l'AC; élaborant, mettant en œuvre et communiquant aux utilisateurs les conditions d'utilisation appropriée en toute confiance de leur CCP et en obtenant par écrit leur acceptation de ces conditions; établissant, mettant en œuvre et communiquant aux utilisateurs les politiques et les procédures applicables à l'utilisation de leur CCP; établissant et communiquant ou faisant communiquer aux parties intéressées, y compris les utilisateurs et les parties qui s'y fient, toutes les limites applicables aux jugements, aux décisions ou aux règlements à leur détriment résultant de l'utilisation de ces CCP.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "Ensuring that PKC and CRLs are published in a repository that is appropriately accessible for the purposes of verifying the validity of the lists; Ensuring that any information concerning the CAs PKC and CRLs in the repository is current and accurate; and For a common CA, ensuring that their repository is interoperable with other departmental and common CA repositories and that it is registered with the Registrar of Repositories.",
+    "fr": "faisant en sorte que les CCP et les LCR soient publiés dans un dépôt commodément accessible pour qu'on puisse vérifier la validité des listes; veillant à ce que les renseignements concernant les CCP et les LCR figurant dans le dépôt soient tous à jour; faisant en sorte que leur dépôt soit interutilisable avec les autres dépôts ministériels et avec ceux des AC communes et qu'il soit enregistré auprès du registraire des dépôts, dans le cas d'une AC commune.",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "Developing policies and procedures to manage information appropriately where encryption is in use. This information should be managed in accordance with the Privacy Act, the Access to Information Act, the Library and Archives of Canada Act and other relevant government legislation and policies. In particular, consideration should be given to how the department will ensure access to encrypted information in the event of Access to Information or eDiscovery requests; Where applicable, retaining a copy of users' private confidentiality keys for data recovery purposes; notifying users that their private confidentiality keys are backed up; and, notifying users when the department accesses their private confidentiality keys; Ensuring that they obtain the consent of users before the backup of their private confidentiality keys; Ensuring that the private confidentiality keys of users are not accessed or disclosed except with the prior consent of users, or where required or authorized by law or with judicial authorization; Ensuring that they do not retain or have retained, under any circumstances, a copy of private digital signature keys. (Note: storage of private digital signature keys on departmental servers but under the control of the user is not retention by a department.)",
+    "fr": "élaborant des politiques et des procédures de gestion de l'information de manière appropriée lorsqu'on a recours au chiffrement. L'information devrait alors être gérée conformément à la Loi sur la protection des renseignements personnels, à la Loi sur l'accès à l'information, à la Loi sur la Bibliothèque et les Archives du Canada et aux autres lois et politiques pertinentes du gouvernement. On devrait accorder une attention particulière à la façon du ministère d'assurer l'accès aux données cryptées advenant des demandes d'accès à l'information ou de découverte électronique; s'il y a lieu, en conservant une copie des clés de confidentialité privées des utilisateurs pour fins de récupération des données, en avisant les utilisateurs qu'on a créé des copies de sauvegarde de leurs clés de confidentialité privées et en les avisant que le ministère y a accès; s'assurant d'obtenir le consentement des utilisateurs avant de faire des copies de sauvegarde de leurs clés de confidentialité privées; s'assurant qu'on n'accède pas aux clés de confidentialité privées des utilisateurs ou qu'on ne les communique pas sans leur consentement préalable ou sans que la loi ou une autorisation judiciaire ne l'exige ou le permette; s'assurant qu'ils ne conservent ni n'ont conservé dans quelque circonstance que ce soit une copie de clés de signatures numériques privées. (N.B. : la conservation de clés de signatures numériques privées dans des serveurs ministériels n'en est pas une conservation par le ministère, pourvu qu'elles restent sous le contrôle de l'utilisateur.)",
+    "anchor": "4",
+    "tag": "section"
+  },
+  {
+    "en": "Using the ICM Common Services CA provided by PWGSC for the purpose of issuing medium assurance digital certificates to users or obtaining the appropriate exemptions in order to establish their own departmental certificate authority; Using the CFPB operated by CSEC when cross-certification is required between common and Departmental CAs, or for cross-certification with CAs outside the GC; and Ensuring the use and management of PKI is aligned with GC goals for security and identity management as established by the Treasury Board through the PGS and its supporting instruments.",
+    "fr": "se servant de l'AC de services communs de GJI fournie par TPSGC afin de délivrer des certificats numériques d'assurance moyenne aux utilisateurs ou d'obtenir les dérogations appropriées afin d'établir leur propre autorité de certification ministérielle; utilisant la CCFICP gérée par le CSTC quand une certification réciproque est requise entre des AC communes et ministérielles ou lorsqu'une certification réciproque est requise avec des AC de l'extérieur du GC; s'assurant que l'utilisation et la gestion de l'ICP est compatible avec les buts du GC en matière de gestion de la sécurité et de l'identité établis par le Conseil du Trésor dans la PSG et dans ses instruments connexes.",
+    "anchor": "4.1",
+    "tag": "ul"
+  },
+  {
+    "en": "Ensuring the CA manages the PKC and certificate revocation lists (CRLs) it issues by implementing one or more certificate policies and a certification practice statement with respect to the operation of that Certification Authority; Ensuring compliance with certificate policies and certification practice statements by any individual or entity acting on its behalf; and Where practicable and appropriate, aligning certificate policies and certification practice statements with those in use by the CFPB.",
+    "fr": "s'assurant que l'AC gère le CCP et les listes de certificats révoqués (LCR) qu'il délivre en mettant en œuvre une ou plusieurs politiques de certification et en publiant un énoncé de pratiques de certification sur le fonctionnement de cette autorité de certification; s'assurant que tous les individus ou toutes les entités qui agissent en son nom se conforment à ses politiques de certification et à ses énoncés de pratiques de certification; en harmonisant dans toute la mesure du possible ses politiques de certification et ses énoncés de pratiques de certification avec ceux de la CCFICP.",
+    "anchor": "4.2",
+    "tag": "ul"
+  },
+  {
+    "en": "Ensuring users are advised of their respective rights and obligations as well as those of the CA; Developing, implementing, and communicating to users the terms and conditions for the appropriate use of and reliance on their PKC and obtaining their signed agreement to these terms and conditions; Developing, implementing, and communicating to users, the policies and procedures concerning the use of their PKC; and Establishing and communicating, or causing to be communicated, to relevant parties, including users and relying parties, any limits for any judgement, award or settlement made against it by reason of the use of such PKC.",
+    "fr": "s'assurant que les utilisateurs sont informés de leurs droits et de leurs obligations ainsi que des droits et des obligations de l'AC; élaborant, mettant en œuvre et communiquant aux utilisateurs les conditions d'utilisation appropriée en toute confiance de leur CCP et en obtenant par écrit leur acceptation de ces conditions; établissant, mettant en œuvre et communiquant aux utilisateurs les politiques et les procédures applicables à l'utilisation de leur CCP; établissant et communiquant ou faisant communiquer aux parties intéressées, y compris les utilisateurs et les parties qui s'y fient, toutes les limites applicables aux jugements, aux décisions ou aux règlements à leur détriment résultant de l'utilisation de ces CCP.",
+    "anchor": "4.3",
+    "tag": "ul"
+  },
+  {
+    "en": "Ensuring that PKC and CRLs are published in a repository that is appropriately accessible for the purposes of verifying the validity of the lists; Ensuring that any information concerning the CAs PKC and CRLs in the repository is current and accurate; and For a common CA, ensuring that their repository is interoperable with other departmental and common CA repositories and that it is registered with the Registrar of Repositories.",
+    "fr": "faisant en sorte que les CCP et les LCR soient publiés dans un dépôt commodément accessible pour qu'on puisse vérifier la validité des listes; veillant à ce que les renseignements concernant les CCP et les LCR figurant dans le dépôt soient tous à jour; faisant en sorte que leur dépôt soit interutilisable avec les autres dépôts ministériels et avec ceux des AC communes et qu'il soit enregistré auprès du registraire des dépôts, dans le cas d'une AC commune.",
+    "anchor": "4.4",
+    "tag": "ul"
+  },
+  {
+    "en": "Developing policies and procedures to manage information appropriately where encryption is in use. This information should be managed in accordance with the Privacy Act, the Access to Information Act, the Library and Archives of Canada Act and other relevant government legislation and policies. In particular, consideration should be given to how the department will ensure access to encrypted information in the event of Access to Information or eDiscovery requests; Where applicable, retaining a copy of users' private confidentiality keys for data recovery purposes; notifying users that their private confidentiality keys are backed up; and, notifying users when the department accesses their private confidentiality keys; Ensuring that they obtain the consent of users before the backup of their private confidentiality keys; Ensuring that the private confidentiality keys of users are not accessed or disclosed except with the prior consent of users, or where required or authorized by law or with judicial authorization; Ensuring that they do not retain or have retained, under any circumstances, a copy of private digital signature keys. (Note: storage of private digital signature keys on departmental servers but under the control of the user is not retention by a department.)",
+    "fr": "élaborant des politiques et des procédures de gestion de l'information de manière appropriée lorsqu'on a recours au chiffrement. L'information devrait alors être gérée conformément à la Loi sur la protection des renseignements personnels, à la Loi sur l'accès à l'information, à la Loi sur la Bibliothèque et les Archives du Canada et aux autres lois et politiques pertinentes du gouvernement. On devrait accorder une attention particulière à la façon du ministère d'assurer l'accès aux données cryptées advenant des demandes d'accès à l'information ou de découverte électronique; s'il y a lieu, en conservant une copie des clés de confidentialité privées des utilisateurs pour fins de récupération des données, en avisant les utilisateurs qu'on a créé des copies de sauvegarde de leurs clés de confidentialité privées et en les avisant que le ministère y a accès; s'assurant d'obtenir le consentement des utilisateurs avant de faire des copies de sauvegarde de leurs clés de confidentialité privées; s'assurant qu'on n'accède pas aux clés de confidentialité privées des utilisateurs ou qu'on ne les communique pas sans leur consentement préalable ou sans que la loi ou une autorisation judiciaire ne l'exige ou le permette; s'assurant qu'ils ne conservent ni n'ont conservé dans quelque circonstance que ce soit une copie de clés de signatures numériques privées. (N.B. : la conservation de clés de signatures numériques privées dans des serveurs ministériels n'en est pas une conservation par le ministère, pourvu qu'elles restent sous le contrôle de l'utilisateur.)",
+    "anchor": "4.5",
+    "tag": "ul"
   },
   {
     "en": "TBS sets government-wide direction, prioritizing andformalizing security and identity management requirements. This includes:",
-    "fr": "Cetterubrique est une description des rôles, des responsabilités et des services desorganismes responsables du soutien de la gestion de l'ICP."
+    "fr": "Le SCTétablit l'orientation pangouvernementale, fixe les priorités et officialise lesexigences en matière de gestion de la sécurité et de l'identité, ce quicomprend :",
+    "anchor": "5.1",
+    "tag": "p"
+  },
+  {
+    "en": "Establishing and maintaining interdepartmental security governance to exercise strategic oversight, provide leadership and recommend priorities related to the establishment of standards and the designation of the necessary authorities for identifying and authenticating individuals internal and external to the GC; Accreditation of GC common services; Recognition of CAs for the purposes described within SES Regulations; and Issuing guidelines supporting the PGS and its directives.",
+    "fr": "l'établissement et le maintien de la gouvernance de la sécurité interministérielle afin d'exercer la surveillance stratégique, d'assurer le leadership et de recommander les priorités nécessaires à l'établissement des normes et à la désignation des autorités nécessaires pour l'identification et l'authentification des individus, tant au GC qu'à l'extérieur du GC; l'accréditation des services communs du GC; la reconnaissance des AC aux fins décrites dans le Règlement sur les SES; la publication des lignes directrices à l'appui de la PSG et de ses directives.",
+    "anchor": "5.1",
+    "tag": "ul"
   },
   {
     "en": "CSEC provides leadership and coordination for departmentalactivities that help ensure the protection of electronic information. This includes:",
-    "fr": "Le SCTétablit l'orientation pangouvernementale, fixe les priorités et officialise lesexigences en matière de gestion de la sécurité et de l'identité, ce quicomprend :"
+    "fr": "Le CSTCassure le leadership et la coordination des activités ministérielles visant àprotéger les renseignements sur support électronique, ce qui comprend :",
+    "anchor": "5.2",
+    "tag": "p"
+  },
+  {
+    "en": "Operating and maintaining the CFPB for the purposes of cross-certification of GC CAs with other GC CAs and with CAs external to the GC; Providing advice and guidance on the certification of shared and common IT services, emerging IT security technologies, ITS architecture design, common ITS solutions, including secure use of commercial-off-the-shelf products, system and network security design, and security posture and vulnerability assessments; Providing advice and guidance on certification of GC shared, common, or federated services; Providing advice and guidance to departments on the use and application of IT security products, COMSEC devices, cryptographic measures and key management.",
+    "fr": "la gestion et le maintien de la CCFICP aux fins de la certification réciproque des AC avec les autres AC du GC et avec les AC de l'extérieur du GC; la prestation d'avis et de conseils sur la certification des services partagés et communs de TI, les nouvelles technologies de sécurité des TI, la conception de l'architecture de la sécurité des TI, les solutions communes de sécurité des TI, y compris l'utilisation sûre de produits commerciaux normalisés, la conception de dispositifs de sécurité pour les systèmes et les réseaux ainsi que les évaluations de la posture de sécurité et de la vulnérabilité; la prestation d'avis et de conseils sur la certification des services de TI partagés, communs ou fédérés du GC; la prestation d'avis et de conseils aux ministères sur l'utilisation et l'application des produits de sécurité des TI, des dispositifs COMSEC, des mesures cryptographiques et de la gestion des clés.",
+    "anchor": "5.2",
+    "tag": "ul"
   },
   {
     "en": "PWGSC delivers common IT services and other solutions thatenable departments to exchange information with citizens, businesses andemployees. This includes:",
-    "fr": "Le CSTCassure le leadership et la coordination des activités ministérielles visant àprotéger les renseignements sur support électronique, ce qui comprend :"
+    "fr": "TPSGCfournit des services communs de sécurité des TI et d'autres solutionspermettant aux ministères d'échanger de l'information avec les citoyens, lesentreprises et les employés, ce qui comprend :",
+    "anchor": "5.3",
+    "tag": "p"
   },
   {
-    "en": "For enquiries regarding this policy instrument, please contact the .",
-    "fr": "TPSGCfournit des services communs de sécurité des TI et d'autres solutionspermettant aux ministères d'échanger de l'information avec les citoyens, lesentreprises et les employés, ce qui comprend :"
+    "en": "Operating and maintaining the ICM Common Services CA for the purposes of issuing digital certificates to users; and Operating and maintaining the GOL CA for the purposes of issuing digital certificates for external-to-government users. Operating and maintaining the ICM Public Border Directory Service that acts as a hub to facilitate access to certificates and revocation lists of GC cross-certified CAs.",
+    "fr": "l'utilisation et le maintien de l'AC des services communs de GJI pour fins de délivrance de certificats numériques aux utilisateurs; l'utilisation et le maintien de l'AC du GED pour fins de délivrance de certificats numériques aux utilisateurs de l'extérieur du gouvernement; l'utilisation et le maintien du Service public de répertoire de frontière de GJI, qui sert de plaque tournante pour faciliter l'accès aux certificats et aux listes de certificats révoqués des AC réciproquement certifiées du GC.",
+    "anchor": "5.3",
+    "tag": "ul"
   },
   {
-    "en": "Contact the (SIDM) of the Chief Information Officer Branch (CIOB) at TBS to identify the department's requirement.",
-    "fr": "Pour toute demande de renseignements au sujet du présent instrument de politique, veuillez communiquer avec la ."
-  },
-  {
-    "en": "Ensure certification and accreditation plans are developed and forwarded to TBS for review prior to final accreditation.",
-    "fr": "communiquer avec la (DGSI) de la Direction du dirigeant principal de l'information (DDPI) du SCT pour préciser leurs besoins;"
-  },
-  {
-    "en": "A CA intended for the issuance of Transport Layer Security (TLS) certificates solely for internal departmental use (i.e. not for issuance to other departments or for public consumption);",
-    "fr": "faire en sorte qu'on élabore des plans de certification et d'accréditation et qu'on les envoie au SCT pour examen avant l'accréditation définitive."
-  },
-  {
-    "en": "A CA with specific trust requirements that precludes the use of a common CA; and,",
-    "fr": "des AC conçues pour délivrer des certificats de couche de sécurité pour le transport (CST) à des fins ministérielles internes seulement (autrement dit pas pour délivrer des certificats à d'autres ministères ou au public);"
-  },
-  {
-    "en": "A CA intended for the issuance of internal high-assurance certificates or for use within a closed (e.g. classified) system.",
-    "fr": "des AC assorties d'exigences de confiance spécifiques telles qu'il est impossible d'avoir recours à une AC commune;"
-  },
-  {
-    "en": "Ensure that their requirements cannot be met by the GC Common CA by discussing with the department's PWGSC IT-SSO Client Relationship Manager;",
-    "fr": "des AC conçues pour délivrer des certificats internes de grandes assurances ou des certificats destinés à être utilisés dans un système fermé (p. ex., classifié)."
-  },
-  {
-    "en": "Request an exemption for the CA from the Common Services Policy;",
-    "fr": "s'assurer que l'AC commune du GC ne peut pas satisfaire à leurs exigences, en en parlant avec le gestionnaire des relations avec la clientèle de l'OSPTI de TPSGC du ministère;"
-  },
-  {
-    "en": "Contact Communications Security Establishment Canada (CSEC) for guidance on cryptographic measures and key management, if needed;",
-    "fr": "demander une dérogation à la Politique sur les services communs pour l'AC;"
-  },
-  {
-    "en": "Ensure that system certification and accreditation plans are developed and followed; and",
-    "fr": "communiquer avec le Centre de la sécurité des télécommunications Canada (CSTC) pour obtenir des conseils sur les mesures de chiffrement et sur la gestion des clés, s'il y a lieu;"
-  },
-  {
-    "en": "Ensure that the CA is accredited in accordance with their departmental standard prior to being put into operation.",
-    "fr": "s'assurer qu'on a établi des plans de certification et d'accréditation des systèmes et qu'on les a appliqués;"
-  },
-  {
-    "en": "The requestor should determine the business requirement for cross-certifying with the CFPB.",
-    "fr": "s'assurer que l'AC a été accréditée conformément à leur norme ministérielle avant d'avoir été mise en œuvre."
-  },
-  {
-    "en": "The requestor submits a request to CIOB.",
-    "fr": "Le demandeur doit établir le besoin opérationnel d'une certification réciproque avec la CCFICP."
-  },
-  {
-    "en": "If the organization is external to the GC, a GC department will be required as a sponsor.",
-    "fr": "Le demandeur soumet sa demande à la DDPI."
-  },
-  {
-    "en": "Certificate Policies of the requesting CA will be examined to ensure alignment with those of the CFPB.",
-    "fr": "Dans le cas d'une organisation de l'extérieur du GC, un ministère fédéral devra agir comme parrain."
-  },
-  {
-    "en": "Test-bed trials will be performed.",
-    "fr": "Les politiques de certification de l'AC qui fait la demande seront examinées pour en assurer l'harmonisation avec celles de la CCFICP."
-  },
-  {
-    "en": "A formal arrangement will be negotiated and signed.",
-    "fr": "Un banc d'essais sera réalisé."
-  },
-  {
-    "en": "Cross-certificates will be exchanged between the requesting CA and the CFPB.",
-    "fr": "Une entente officielle sera négociée et signée."
-  },
-  {
-    "en": "the electronic signature resulting from the use by a person of the technology or process is unique to the person;",
-    "fr": "L'AC qui fait la demande et la CCFICP échangeront les certificats."
-  },
-  {
-    "en": "the use of the technology or process by a person to incorporate, attach or associate the person's electronic signature to an electronic document is under the sole control of the person;",
-    "fr": "la signature électronique résultant de l'utilisation de la technologie ou du procédé est propre à l'utilisateur;"
-  },
-  {
-    "en": "the technology or process can be used to identify the person using the technology or process; and",
-    "fr": "l'utilisation de la technologie ou du procédé pour l'incorporation, l'adjonction ou l'association de la signature électronique de l'utilisateur au document électronique est sous le seul contrôle de ce dernier;"
-  },
-  {
-    "en": "the electronic signature can be linked with an electronic document in such a way that it can be used to determine whether the electronic document has been changed since the electronic signature was incorporated in, attached to or associated with the electronic document.",
-    "fr": "la technologie ou le procédé permet d'identifier l'utilisateur;"
-  },
-  {
-    "en": "A certificate or other document signed by a minister or public officer serves as proof or evidence – PIPEDA, sect. 36;",
-    "fr": "la signature électronique peut être liée au document électronique de façon à permettre de vérifier si le document a été modifié depuis que la signature électronique a été incorporée, jointe ou associée au document."
-  },
-  {
-    "en": "A person's seal is required – PIPEDA, sect. 39;",
-    "fr": "un certificat ou autre document portant la signature d'un ministre ou d'un fonctionnaire public fait foi du contenu du document – LPRPDE, art. 36;"
-  },
-  {
-    "en": "An original document is required – PIPEDA, sect. 42;",
-    "fr": "la position du sceau d'une personne est exigée – LPRPDE, art. 39;"
-  },
-  {
-    "en": "A statement under oath is required – PIPEDA, sect. 44;",
-    "fr": "un document original est exigé – LPRPDE, art. 42;"
-  },
-  {
-    "en": "A statement declaring or certifying that any information given by a person making the statement is true, accurate or complete is required – PIPEDA, sect. 45;",
-    "fr": "une déclaration sous serment ou une affirmation solennelle est exigée – LPRPDE, art. 44;"
-  },
-  {
-    "en": "A witnessed signature is required – PIPEDA sect. 46.",
-    "fr": "une déclaration attestant la véracité, l'exactitude ou l'intégralité d'une information fournie par le déclarant est exigée – LPRPDE, art. 45;"
-  },
-  {
-    "en": "Identify the business requirement for recognition;",
-    "fr": "la signature d'un témoin est exigée – LPRPDE, art. 46."
-  },
-  {
-    "en": "If not already done, the requesting CA will need to cross-certify with the CFPB (see section 3.2);",
-    "fr": "Déterminer le besoin opérationnel de reconnaissance;"
-  },
-  {
-    "en": "The GC CIO will approve the recognition request of the CA once satisfied that the CA has the capacity to issue digital signature certificates in a secure and reliable manner (within the context of the SES Regulations & PIPEDA);",
-    "fr": "Si cela n'est pas déjà fait, l'AC qui fait la demande doit obtenir une certification réciproque avec la CCFICP (processus décrit à la section 3.2);"
-  },
-  {
-    "en": "Once approved, the CA's details will be listed on the TBS .",
-    "fr": "Le DPI du GC approuvera la demande de reconnaissance lorsqu'il sera convaincu que l'AC dispose des capacités nécessaires pour émettre de façon sûre et fiable des certificats de signature numérique (en tenant compte du contexte du Règlement sur les SES et de la LPRPDE);"
-  },
-  {
-    "en": "On an annual basis the recognition status will be reviewed. In order for renewal of the CA's recognition status to occur, the CA will need to remain in good standing with the CFPB (with regard to cross-certification) and the operational authority for the CA will need to send a letter to CIOB indicating that the CA remains in compliance with its certificate policies.",
-    "fr": "Dès l'approbation donnée, les détails concernant l'AC seront affichés dans le du SCT;"
-  },
-  {
-    "en": "Using the ICM Common Services CA provided by PWGSC for the purpose of issuing medium assurance digital certificates to users or obtaining the appropriate exemptions in order to establish their own departmental certificate authority;",
-    "fr": "L'état de reconnaissance sera évalué chaque année. Aux fins du renouvellement de la reconnaissance, l'AC devra être encore en règle auprès de la CCFICP, en ce qui concerne la certification réciproque, et le responsable opérationnel de l'AC devra envoyer à la DDPI une lettre d'attestation de l'observation par l'AC de ses politiques de certification."
-  },
-  {
-    "en": "Using the CFPB operated by CSEC when cross-certification is required between common and Departmental CAs, or for cross-certification with CAs outside the GC; and",
-    "fr": "se servant de l'AC de services communs de GJI fournie par TPSGC afin de délivrer des certificats numériques d'assurance moyenne aux utilisateurs ou d'obtenir les dérogations appropriées afin d'établir leur propre autorité de certification ministérielle;"
-  },
-  {
-    "en": "Ensuring the use and management of PKI is aligned with GC goals for security and identity management as established by the Treasury Board through the PGS and its supporting instruments.",
-    "fr": "utilisant la CCFICP gérée par le CSTC quand une certification réciproque est requise entre des AC communes et ministérielles ou lorsqu'une certification réciproque est requise avec des AC de l'extérieur du GC;"
-  },
-  {
-    "en": "Ensuring the CA manages the PKC and certificate revocation lists (CRLs) it issues by implementing one or more certificate policies and a certification practice statement with respect to the operation of that Certification Authority;",
-    "fr": "s'assurant que l'utilisation et la gestion de l'ICP est compatible avec les buts du GC en matière de gestion de la sécurité et de l'identité établis par le Conseil du Trésor dans la PSG et dans ses instruments connexes."
-  },
-  {
-    "en": "Ensuring compliance with certificate policies and certification practice statements by any individual or entity acting on its behalf; and",
-    "fr": "s'assurant que l'AC gère le CCP et les listes de certificats révoqués (LCR) qu'il délivre en mettant en œuvre une ou plusieurs politiques de certification et en publiant un énoncé de pratiques de certification sur le fonctionnement de cette autorité de certification;"
-  },
-  {
-    "en": "Where practicable and appropriate, aligning certificate policies and certification practice statements with those in use by the CFPB.",
-    "fr": "s'assurant que tous les individus ou toutes les entités qui agissent en son nom se conforment à ses politiques de certification et à ses énoncés de pratiques de certification;"
-  },
-  {
-    "en": "Ensuring users are advised of their respective rights and obligations as well as those of the CA;",
-    "fr": "en harmonisant dans toute la mesure du possible ses politiques de certification et ses énoncés de pratiques de certification avec ceux de la CCFICP."
-  },
-  {
-    "en": "Developing, implementing, and communicating to users the terms and conditions for the appropriate use of and reliance on their PKC and obtaining their signed agreement to these terms and conditions;",
-    "fr": "s'assurant que les utilisateurs sont informés de leurs droits et de leurs obligations ainsi que des droits et des obligations de l'AC;"
-  },
-  {
-    "en": "Developing, implementing, and communicating to users, the policies and procedures concerning the use of their PKC; and",
-    "fr": "élaborant, mettant en œuvre et communiquant aux utilisateurs les conditions d'utilisation appropriée en toute confiance de leur CCP et en obtenant par écrit leur acceptation de ces conditions;"
-  },
-  {
-    "en": "Establishing and communicating, or causing to be communicated, to relevant parties, including users and relying parties, any limits for any judgement, award or settlement made against it by reason of the use of such PKC.",
-    "fr": "établissant, mettant en œuvre et communiquant aux utilisateurs les politiques et les procédures applicables à l'utilisation de leur CCP;"
-  },
-  {
-    "en": "Ensuring that PKC and CRLs are published in a repository that is appropriately accessible for the purposes of verifying the validity of the lists;",
-    "fr": "établissant et communiquant ou faisant communiquer aux parties intéressées, y compris les utilisateurs et les parties qui s'y fient, toutes les limites applicables aux jugements, aux décisions ou aux règlements à leur détriment résultant de l'utilisation de ces CCP."
-  },
-  {
-    "en": "Ensuring that any information concerning the CAs PKC and CRLs in the repository is current and accurate; and",
-    "fr": "faisant en sorte que les CCP et les LCR soient publiés dans un dépôt commodément accessible pour qu'on puisse vérifier la validité des listes;"
-  },
-  {
-    "en": "For a common CA, ensuring that their repository is interoperable with other departmental and common CA repositories and that it is registered with the Registrar of Repositories.",
-    "fr": "veillant à ce que les renseignements concernant les CCP et les LCR figurant dans le dépôt soient tous à jour;"
-  },
-  {
-    "en": "Developing policies and procedures to manage information appropriately where encryption is in use. This information should be managed in accordance with the Privacy Act, the Access to Information Act, the Library and Archives of Canada Act and other relevant government legislation and policies. In particular, consideration should be given to how the department will ensure access to encrypted information in the event of Access to Information or eDiscovery requests;",
-    "fr": "faisant en sorte que leur dépôt soit interutilisable avec les autres dépôts ministériels et avec ceux des AC communes et qu'il soit enregistré auprès du registraire des dépôts, dans le cas d'une AC commune."
-  },
-  {
-    "en": "Where applicable, retaining a copy of users' private confidentiality keys for data recovery purposes; notifying users that their private confidentiality keys are backed up; and, notifying users when the department accesses their private confidentiality keys;",
-    "fr": "élaborant des politiques et des procédures de gestion de l'information de manière appropriée lorsqu'on a recours au chiffrement. L'information devrait alors être gérée conformément à la Loi sur la protection des renseignements personnels, à la Loi sur l'accès à l'information, à la Loi sur la Bibliothèque et les Archives du Canada et aux autres lois et politiques pertinentes du gouvernement. On devrait accorder une attention particulière à la façon du ministère d'assurer l'accès aux données cryptées advenant des demandes d'accès à l'information ou de découverte électronique;"
-  },
-  {
-    "en": "Ensuring that they obtain the consent of users before the backup of their private confidentiality keys;",
-    "fr": "s'il y a lieu, en conservant une copie des clés de confidentialité privées des utilisateurs pour fins de récupération des données, en avisant les utilisateurs qu'on a créé des copies de sauvegarde de leurs clés de confidentialité privées et en les avisant que le ministère y a accès;"
-  },
-  {
-    "en": "Ensuring that the private confidentiality keys of users are not accessed or disclosed except with the prior consent of users, or where required or authorized by law or with judicial authorization;",
-    "fr": "s'assurant d'obtenir le consentement des utilisateurs avant de faire des copies de sauvegarde de leurs clés de confidentialité privées;"
-  },
-  {
-    "en": "Ensuring that they do not retain or have retained, under any circumstances, a copy of private digital signature keys. (Note: storage of private digital signature keys on departmental servers but under the control of the user is not retention by a department.)",
-    "fr": "s'assurant qu'on n'accède pas aux clés de confidentialité privées des utilisateurs ou qu'on ne les communique pas sans leur consentement préalable ou sans que la loi ou une autorisation judiciaire ne l'exige ou le permette;"
-  },
-  {
-    "en": "Establishing and maintaining interdepartmental security governance to exercise strategic oversight, provide leadership and recommend priorities related to the establishment of standards and the designation of the necessary authorities for identifying and authenticating individuals internal and external to the GC;",
-    "fr": "s'assurant qu'ils ne conservent ni n'ont conservé dans quelque circonstance que ce soit une copie de clés de signatures numériques privées. (N.B. : la conservation de clés de signatures numériques privées dans des serveurs ministériels n'en est pas une conservation par le ministère, pourvu qu'elles restent sous le contrôle de l'utilisateur.)"
-  },
-  {
-    "en": "Accreditation of GC common services;",
-    "fr": "l'établissement et le maintien de la gouvernance de la sécurité interministérielle afin d'exercer la surveillance stratégique, d'assurer le leadership et de recommander les priorités nécessaires à l'établissement des normes et à la désignation des autorités nécessaires pour l'identification et l'authentification des individus, tant au GC qu'à l'extérieur du GC;"
-  },
-  {
-    "en": "Recognition of CAs for the purposes described within SES Regulations; and",
-    "fr": "l'accréditation des services communs du GC;"
-  },
-  {
-    "en": "Issuing guidelines supporting the PGS and its directives.",
-    "fr": "la reconnaissance des AC aux fins décrites dans le Règlement sur les SES;"
-  },
-  {
-    "en": "Operating and maintaining the CFPB for the purposes of cross-certification of GC CAs with other GC CAs and with CAs external to the GC;",
-    "fr": "la publication des lignes directrices à l'appui de la PSG et de ses directives."
-  },
-  {
-    "en": "Providing advice and guidance on the certification of shared and common IT services, emerging IT security technologies, ITS architecture design, common ITS solutions, including secure use of commercial-off-the-shelf products, system and network security design, and security posture and vulnerability assessments;",
-    "fr": "la gestion et le maintien de la CCFICP aux fins de la certification réciproque des AC avec les autres AC du GC et avec les AC de l'extérieur du GC;"
-  },
-  {
-    "en": "Providing advice and guidance on certification of GC shared, common, or federated services;",
-    "fr": "la prestation d'avis et de conseils sur la certification des services partagés et communs de TI, les nouvelles technologies de sécurité des TI, la conception de l'architecture de la sécurité des TI, les solutions communes de sécurité des TI, y compris l'utilisation sûre de produits commerciaux normalisés, la conception de dispositifs de sécurité pour les systèmes et les réseaux ainsi que les évaluations de la posture de sécurité et de la vulnérabilité;"
-  },
-  {
-    "en": "Providing advice and guidance to departments on the use and application of IT security products, COMSEC devices, cryptographic measures and key management.",
-    "fr": "la prestation d'avis et de conseils sur la certification des services de TI partagés, communs ou fédérés du GC;"
-  },
-  {
-    "en": "Operating and maintaining the ICM Common Services CA for the purposes of issuing digital certificates to users; and",
-    "fr": "la prestation d'avis et de conseils aux ministères sur l'utilisation et l'application des produits de sécurité des TI, des dispositifs COMSEC, des mesures cryptographiques et de la gestion des clés."
-  },
-  {
-    "en": "Operating and maintaining the GOL CA for the purposes of issuing digital certificates for external-to-government users.",
-    "fr": "l'utilisation et le maintien de l'AC des services communs de GJI pour fins de délivrance de certificats numériques aux utilisateurs;"
-  },
-  {
-    "en": "Operating and maintaining the ICM Public Border Directory Service that acts as a hub to facilitate access to certificates and revocation lists of GC cross-certified CAs.",
-    "fr": "l'utilisation et le maintien de l'AC du GED pour fins de délivrance de certificats numériques aux utilisateurs de l'extérieur du gouvernement;"
+    "en": "For enquiries regarding this policy instrument, please contact the Security and Identity Management Division.",
+    "fr": "Pour toute demande de renseignements au sujet du présent instrument de politique, veuillez communiquer avec la Division de la sécurité et gestion de l'identité.",
+    "anchor": "6",
+    "tag": "p"
   }
 ]

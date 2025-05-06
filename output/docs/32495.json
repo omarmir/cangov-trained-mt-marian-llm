@@ -1,686 +1,134 @@
 [
   {
+    "en": "Policy Framework for Financial Management (June 1, 2010)Policy on Financial Management Governance (April 1, 2009)Policy on Financial Resource Management, Information and Reporting (June 1, 2010)Policy on the Stewardship of Financial Management Systems (January 1, 2010)Policy on Internal Control (April 1, 2009)Directive on Electronic Authentication and Authorization of Financial Transactions (March 1, 2012)Directive on the Stewardship of Financial Management Systems (January 1, 2010)Standard on Recording Financial Transactions in the Departmental Chart of Accounts (April 1, 2012)",
+    "fr": "Cadre des politiques de gestion financière (1er juin 2010)Politique sur la gouvernance en matière de gestion financière (1er avril 2009)Politique sur la gestion financière des ressources, l’information et les rapports financiers (1er juin 2010)Politique sur la gérance des systèmes de gestion financière (1er janvier 2010)Politique sur le contrôle interne (1er avril 2009)Directive sur l’authentification et l’autorisation électroniques des opérations financières (1er mars 2012)Directive sur la gérance des systèmes de gestion financière (1er janvier 2010)Norme sur l’inscription des opérations financières dans le plan comptable ministériel (1er avril 2012)",
+    "anchor": "1.2",
+    "tag": "ul"
+  },
+  {
+    "en": "Governance and oversightDesignating a chief financial officer (CFO) to lead the departmental financial management function;Establishing departmental governance and oversight to ensure that:Senior departmental managers and the CFO:Are aware of their financial management responsibilities;Have the necessary knowledge to carry them out; andMonitor financial management performance within their areas of responsibility;The CFO is empowered to provide strategic financial and business advice and support to senior departmental managers; andThe delegation of financial authorities is risk-based, taking into consideration the timely delivery of programs, empowerment of individuals and departmental controls;Investigating and acting when significant issues regarding policy compliance arise, and ensuring that appropriate remedial action is taken to address such issues within the department;Ensuring that the CFO advises the Comptroller General of Canada on a timely basis when there are difficulties in complying with this policy, its supporting instruments or other direction from the Comptroller General of Canada;Advising the Secretary of the Treasury Board and the Comptroller General of Canada on a timely basis when there are issues that pose a critical financial risk to the department, including the possibility that the department may exceed its appropriations;",
+    "fr": "Gouvernance et surveillanceDésigner un dirigeant principal des finances (DPF) pour diriger la fonction de gestion financière du ministère;Établir une gouvernance et une surveillance ministérielles qui permettent de s’assurer que :Les cadres supérieurs du ministère et le DPF :sont au fait de leurs responsabilités en matière de gestion financière;ont les connaissances nécessaires pour les exécuter; etsurveillent le rendement au chapitre de la gestion financière dans leur domaine de responsabilité;Le DPF a le pouvoir de fournir des conseils et un soutien stratégiques en matière de finances aux cadres supérieurs du ministère; etLa délégation des pouvoirs financiers est fondée sur le risque, en prenant en considération l’exécution en temps utile des programmes, la responsabilisation des personnes et les contrôles ministériels;Faire enquête et intervenir lorsque des problèmes importants liés à la conformité aux politiques surviennent, et s’assurer que des mesures correctives appropriées sont prises pour résoudre les problèmes au sein du ministère;Veiller à ce que le DPF informe le contrôleur général du Canada en temps opportun lorsqu’il y a des difficultés concernant l’observation de la présente politique, de ses instruments connexes ou d’une autre directive du contrôleur général du Canada;Informer le secrétaire du Conseil du Trésor et le contrôleur général du Canada en temps opportun lorsque des questions entraînent un risque financier majeur pour le ministère, notamment lorsqu’il existe une possibilité que le ministère dépasse la limite de ses crédits;",
+    "anchor": "4.1",
+    "tag": "section"
+  },
+  {
+    "en": "Internal controlsEnsuring that a risk-based departmental system of internal control over financial management is established, monitored and maintained;",
+    "fr": "Contrôles internesVeiller à l’établissement, à la surveillance et au maintien d’un système ministériel de contrôle interne de la gestion financière axé sur le risque;",
+    "anchor": "4.1",
+    "tag": "section"
+  },
+  {
+    "en": "Financial informationEnsuring that timely and accurate departmental financial information is available to support decision making in the department and across government;Approving key financial statements, disclosures and reports, including the following:Cabinet submission documents;Financial reports and statements, including annual financial statements;Annual Statement of Management Responsibility Including Internal Control Over Financial Reporting, including a summary of the annual assessment of the system of internal control over financial reporting;Letters of Representation to the Auditor General and the Deputy Receiver General in support of the Public Accounts; andOther documents as required;",
+    "fr": "Renseignements financiersVeiller à ce que des renseignements financiers ministériels exacts soient accessibles en temps opportun pour soutenir la prise de décisions dans le ministère et à l’échelle du gouvernement;Approuver les états financiers, les divulgations et les rapports financiers clés, y compris :les documents liés aux présentations au Cabinet;les rapports et les états financiers (y compris les états financiers annuels);la déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers, notamment un résumé de l’évaluation annuelle du système de contrôle interne en matière de rapports financiers;la lettre de déclaration à l’intention du vérificateur général et du sous‐receveur général à l’appui des Comptes publics; etd’autres documents, au besoin;",
+    "anchor": "4.1",
+    "tag": "section"
+  },
+  {
+    "en": "Financial management workforceEnsuring the development of talent management and succession plans that:Demonstrate that the department has ongoing strategic leadership capabilities and the capacity to lead the financial management workforce; andSupport the Comptroller General of Canada’s government-wide talent management and community development initiatives;Ensuring that the CFO:Reports directly to the deputy head;Is not assigned program responsibilities;Is not assigned non-financial corporate responsibilities that would compromise their objectivity or financial capabilities;Possess, for the purposes of the Treasury Board Executive Group (EX) Qualification Standard, either:A designation bestowed by the Chartered Professional Accountants of Canada (CPA Canada); orAn acceptable combination of education, training and/or experience as determined by the Comptroller General of Canada; andConsulting with the Comptroller General of Canada regarding creating a CFO position and prior to:The appointment, deployment, replacement or departure of a CFO; andSelection of a CFO who does not hold a designation bestowed by CPA Canada.",
+    "fr": "Effectif de la gestion financièreAssurer l’élaboration de plans de gestion des talents et de relève qui :Démontre que le ministère a des capacités de leadership stratégique permanentes et la capacité de diriger l’effectif de la gestion financière; etsoutiennent les initiatives pangouvernementales du contrôleur général du Canada concernant la gestion des talents et le perfectionnement de la collectivité;S’assurer que le dirigeant principal des finances :Relève directement de l’administrateur général;N’assume pas de responsabilité en matière de programmes :N’assume pas de responsabilités ministérielles non financières qui compromettraient son objectivité ou ses capacités financières;Possède, pour l’application de la Norme de qualification du groupe de la direction (EX) du Conseil du Trésor, l’une ou l’autre des qualifications suivantes : Un titre décerné par Comptables professionnels agréés du Canada (CPA Canada);Une combinaison acceptable d’études, de formation et/ou d’expérience telle que déterminée par le contrôleur général du Canada; etConsulter le contrôleur général du Canada au sujet de la création d’un poste de DPF et avant :la nomination, la mutation, le remplacement ou le départ d’un DPF;la sélection d’un DPF qui ne détient pas un titre décerné par CPA Canada.",
+    "anchor": "4.1",
+    "tag": "section"
+  },
+  {
+    "en": "Governance and oversightSupporting deputy heads in fulfilling their financial management responsibilities and accountabilities;Leading and managing the departmental financial management function, including the following:Providing strategic financial and business advice to support deputy heads and senior departmental managers to ensure that:Program plans and key business decisions are based on sound financial analysis; andFinancial results are integrated into the management of program performance;Leading the departmental financial planning and budgeting process, including the following:The timely allocation of budgets;The provision of tools to forecast and manage financial resources; andIntegration with the organizational plans of other internal services sectors.Assessing financial pressures, both on an in-year and multi-year basis, and recommending resource management strategies, including opportunities to reallocate funds; andEnsuring that the department’s financial plans, budgets, financial performance and financial position are regularly communicated and integrated into departmental strategic planning processes;Designating a deputy CFO who has appropriate qualifications to ensure the ongoing leadership of the department’s financial management function;Performing a challenge function on financial management matters, including assessing departmental financial plans, and forecasts to determine whether:Financial resources are aligned with departmental priorities;Key financial assumptions underlying the plans are reasonable and their multi-year impacts have been assessed;Financial risks and mitigating strategies are identified; andThe anticipated multi-year financial position of the department is reasonable;Serving as the primary contact point with central agencies on all matters related to departmental financial management;Advising the deputy head and the Comptroller General of Canada on a timely basis if:There is a critical financial risk to the department, including where there is a possibility that the department may exceed its appropriations;There are significant departmental financial transactions that involve uncertain or unusual circumstances; orThere are difficulties complying with this policy, its supporting instruments or other direction from the Comptroller General of Canada;Advising the Comptroller General of Canada on a timely basis if the deputy head does not accept the CFO’s advice on a significant financial matter;",
+    "fr": "Gouvernance et surveillanceAider les administrateurs généraux à s’acquitter de leurs responsabilités et obligations redditionnelles en matière de gestion financière;Diriger et gérer la fonction de gestion financière du ministère, ce qui comprend ce qui suit :Fournir des conseils et un soutien financiers stratégiques aux administrateurs généraux et aux cadres supérieurs du ministère pour s’assurer que :les plans de programme et les décisions organisationnelles importantes sont fondés sur une analyse financière saine; etles résultats financiers sont intégrés à la gestion du rendement des programmes;Diriger la planification financière et le processus budgétaire du ministère, ce qui comprend :l’affectation en temps opportun des budgets; etla fourniture d’outils pour prévoir et gérer les ressources financières;l’intégration avec les plans organisationnels des autres secteurs de services internes;Évaluer les pressions financières, à la fois de façon annuelle ou pluriannuelle, et recommander des stratégies de gestion des ressources, notamment des possibilités de réaffectation des fonds; etVeiller à ce que les plans financiers, les budgets, le rendement financier et la situation financière du ministère soient régulièrement communiqués et intégrés aux processus ministériels de planification stratégique;Désigner un adjoint au dirigeant principal des finances ayant les compétences appropriées pour assurer le leadership permanent de la fonction de gestion financière du ministère;Exécuter une fonction de remise en question en matière de gestion financière, notamment l’évaluation des prévisions et des plans financiers du ministère pour déterminer si :les ressources financières sont harmonisées aux priorités ministérielles;les principales hypothèses financières qui sous-tendent les plans sont raisonnables et leurs répercussions pluriannuelles ont été évaluées;les risques financiers et les stratégies d’atténuation ont été recensés; etla situation financière pluriannuelle prévue du ministère est raisonnable;Agir à titre de personne ressource principale auprès des organismes centraux concernant toutes les questions liées à la gestion financière du ministère;Informer rapidement l’administrateur général et le contrôleur général du Canada dans les cas suivants :le ministère est exposé à un risque financier majeur, notamment lorsqu’il existe une possibilité que le ministère dépasse la limite de ses crédits;des opérations financières ministérielles importantes sont effectuées dans des circonstances incertaines ou inhabituelles; ouil y a des difficultés concernant l’observation de la présente politique, de ses instruments connexes ou d’une autre directive du contrôleur général du Canada;Informer rapidement le contrôleur général du Canada si l’administrateur général rejette l’avis du DPF au sujet d’une question financière importante;",
+    "anchor": "4.2",
+    "tag": "section"
+  },
+  {
+    "en": "Internal controlsEstablishing, monitoring and maintaining a risk-based system of internal control over financial management to provide reasonable assurance that:Public resources are used prudently and in an economical manner;Financial management processes are effective and efficient; andRelevant legislation, regulations and financial management policy instruments are being complied with;Establishing, monitoring and maintaining a risk-based system of internal control over financial reporting, as demonstrated by the departmental Statement of Management Responsibility Including Internal Control Over Financial Reporting, to provide reasonable assurance, at a minimum, that:Records are maintained that support and represent fairly all financial transactions;Recording of financial transactions allows for the preparation of internal and external financial information, reports and statements in compliance with financial management policy instruments;Expenditures made are in accordance with delegated authorities, and unauthorized transactions that could have a material effect on the financial statements are prevented or detected in a timely manner; andFinancial resources are safeguarded against material loss due to waste, abuse, mismanagement, errors, fraud, omissions and other irregularities;Ensuring that prompt corrective action is taken when control weaknesses and material unmitigated risks are identified, including the risk of fraud, in the system of internal control over financial management and financial reporting;",
+    "fr": "Contrôles internesÉtablir, surveiller et maintenir un système de contrôle interne de la gestion financière pour fournir une assurance raisonnable que :les ressources publiques sont utilisées prudemment et de façon économique;les processus de gestion financière sont efficaces et efficients; etles lois, les règlements et les instruments de politique de gestion financière pertinents sont respectés; Établir, surveiller et maintenir un système de contrôle interne des rapports financiers axé sur le risque, comme le démontre la déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers du ministère, pour fournir une assurance raisonnable, au minimum, que :les documents qui soutiennent et représentent toutes les transactions financières de façon équitable sont conservés;l’inscription des opérations financières permet la préparation de renseignements, de rapports et d’états financiers internes et externes en conformité avec les instruments de la politique sur la gestion financière;les dépenses réalisées sont conformes aux pouvoirs délégués, et les transactions non autorisées qui pourraient avoir une incidence importante sur les états financiers sont évitées ou détectées en temps opportun; etles ressources financières sont protégées contre les pertes matérielles attribuables au gaspillage, à l’abus, à la mauvaise gestion, aux erreurs, à la fraude, aux omissions et aux autres irrégularités;S’assurer que des mesures correctives sont prises rapidement lorsque des lacunes concernant les contrôles et des risques importants n’ayant pas fait l’objet de mesures d’atténuation sont repérés, y compris tout risque de fraude concernant le système de contrôle interne de la gestion financière et les rapports financiers;",
+    "anchor": "4.2",
+    "tag": "section"
+  },
+  {
+    "en": "Financial informationMaintaining and reporting timely and accurate departmental financial information;Integrating financial information with non-financial information to support decision making and risk management;Ensuring the accuracy and reasonableness of key departmental financial information, financial statements, disclosures and reports, including the following:Cabinet submission documents by way of a CFO attestation;Documents related to the Estimates process;Financial reports and statements, including annual financial statements;Annual Statement of Management Responsibility Including Internal Control Over Financial Reporting, including a summary of:The results of the annual assessment of the system of internal control over financial reporting, along with actions taken and future plans; andThe results of the annual assessment of the system of internal control over common services when providing such services to other departments;Letters of Representation to the Auditor General and the Deputy Receiver General in support of the Public Accounts; andOther documents as required;Notifying the deputy head of any subsequent material errors or changes in respect to information referred to in subsection 4.2.13 of this policy;",
+    "fr": "Renseignements financiersTenir et déclarer des renseignements financiers ministériels à jour et exacts;Intégrer les renseignements financiers aux renseignements non financiers afin de soutenir la prise de décisions et la gestion du risque;Assurer l’exactitude et le caractère raisonnable des principaux renseignements financiers ministériels, des états financiers, des divulgations et des rapports financiers, notamment :les documents liés aux présentations au Cabinet sous la forme d’une attestation du DPF;les documents liés au processus du budget des dépenses;les rapports et les états financiers (y compris les états financiers annuels);la déclaration de responsabilité de la direction annuelle englobant le contrôle interne en matière de rapports financiers, notamment un résumé de ce qui suit :les résultats de l’évaluation annuelle du système de contrôle interne en matière de rapports financiers, de même que les mesures prises et les plans pour l’avenir; etles résultats de l’évaluation annuelle du système de contrôle interne à l’égard des services communs fournis à d’autres ministères, le cas échéant;la lettre de déclaration à l’intention du vérificateur général et du sous‐receveur général à l’appui des Comptes publics; etd’autres documents, au besoin;Informer l’administrateur général de toute erreur importante ou de tout changement important concernant les éléments visés à la section 4.2.13;",
+    "anchor": "4.2",
+    "tag": "section"
+  },
+  {
+    "en": "Efficient financial management practicesEnsuring that the department pursues internal opportunities and actively collaborates with other departments to continuously improve and standardize the financial management function to achieve greater efficiencies;Seeking the endorsement of the Comptroller General of Canada for departmental investments in financial management systems, including the following:Communicating the results and benefits of those investments, as requested;",
+    "fr": "Pratiques de gestion financière efficacesS’assurer que le ministère exploite les possibilités à l’interne et collabore de façon active avec d’autres ministères pour s’améliorer constamment, normaliser la fonction de gestion financière et réaliser des gains d’efficacité;Solliciter l’appui du contrôleur général du Canada à l’égard des investissements ministériels dans les systèmes de gestion financière, y compris :Communiquer les résultats et les avantages de ces investissements, comme il est requis;",
+    "anchor": "4.2",
+    "tag": "section"
+  },
+  {
+    "en": "Financial management workforceEnsuring that the deputy CFO possesses a designation bestowed by CPA Canada where the CFO does not possess a designation;Developing a sustainable talent management strategy and succession plan to ensure that the department has the capacity to deliver the financial management workforce;Providing leadership, both within the department and across government, in cultivating a high-performing financial management culture; andSupporting the Comptroller General of Canada’s government-wide talent management and community development initiatives.",
+    "fr": "Effectif de la gestion financièreS’assurer que l’adjoint au dirigeant principal des finances possède un titre décerné par CPA Canada lorsque le DPF ne possède pas ce titre;Élaborer une stratégie de gestion des talents et un plan de relève viables pour faire en sorte que le ministère dispose de la capacité requise pour constituer l’effectif de la gestion financière;Assurer un leadership au sein du ministère et à l’échelle du gouvernement pour ce qui est de favoriser une culture de gestion financière à rendement élevé; etSoutenir les initiatives pangouvernementales du contrôleur général du Canada concernant la gestion des talents et le perfectionnement de la collectivité.",
+    "anchor": "4.2",
+    "tag": "section"
+  },
+  {
+    "en": "Governance and oversightEstablishing governance and oversight to ensure that individuals responsible for financial management in their area of responsibility:Are aware of their financial management responsibilities and have the necessary training to carry them out;Exercise their delegated authorities in accordance with Treasury Board and departmental rules; andMonitor the financial management performance in their areas of responsibility;Developing timely financial plans and budgets for their area of responsibility and ensuring that:Financial resources are aligned to support their program priorities;Key financial assumptions underlying plans and decisions are supported and their multi-year impacts have been identified and assessed; andFinancial risks and mitigating strategies are identified;Regularly monitoring and communicating to the CFO the status of their financial plans, budgets, performance and financial position;Seeking the advice and support of the CFO for matters related to financial management, including the following:Preparing Cabinet submissions;Preparing financial reports and disclosures;Ensuring the application of financial controls;Developing cost estimates and evaluating financial risks;Considering key program decisions with significant financial management implications; andIntegrating financial and program results to support the management of program performance;Notifying the CFO when they anticipate being unable to comply with this policy, its supporting instruments, or other direction from the Comptroller General of Canada;",
+    "fr": "Gouvernance et surveillanceÉtablir des mécanismes de gouvernance et de surveillance pour s’assurer que les personnes responsables de la gestion financière dans leur domaine de responsabilité :sont au fait de leurs responsabilités en matière de gestion financière et possèdent la formation requise pour s’acquitter de celles-ci;exercent les pouvoirs qui leur sont délégués conformément aux règles du Conseil du Trésor et du ministère; etsurveillent le rendement au chapitre de la gestion financière dans leur domaine de responsabilité;Élaborer en temps opportun des plans financiers et des budgets relatifs à leur domaine de responsabilité, et s’assurer que :les ressources financières sont harmonisées en vue de soutenir les priorités de leurs programmes;les principales hypothèses financières qui sous-tendent les plans et les décisions sont bien étayées et leurs répercussions pluriannuelles ont été déterminées et évaluées; etles risques financiers et les stratégies d’atténuation ont été déterminés;Surveiller et communiquer au DPF de façon régulière l’état de leurs plans financiers, budgets, rendement et situation financière;Demander au DPF de fournir des conseils et un soutien relativement à des questions liées à la gestion financière, y compris :la préparation des présentations au Cabinet;la préparation des rapports financiers et des divulgations;l’application des contrôles financiers;l’élaboration des estimations des coûts et l’évaluation des risques financiers;l’éventualité d’une prise de décisions importantes sur les programmes ayant des répercussions financières considérables; etla prise en compte des résultats financiers et des résultats des programmes pour soutenir la gestion du rendement des programmes;Aviser le DPF lorsqu’ils s’attendent à ne pas pouvoir observer la présente politique, ses instruments connexes ou une autre directive du contrôleur général du Canada;",
+    "anchor": "4.3",
+    "tag": "section"
+  },
+  {
+    "en": "Internal controlsImplementing and maintaining a risk-based system of internal control over financial management in their area of responsibility;Notifying the CFO of material control weaknesses and ensuring that prompt corrective action is taken when control weaknesses are identified in their area of responsibility;",
+    "fr": "Contrôles internesMettre en œuvre et maintenir un système de contrôle interne de la gestion financière axé sur le risque dans leur domaine de responsabilité;Aviser le DPF des faiblesses du contrôle importantes et s’assurer que des mesures correctives sont prises rapidement lorsque de telles faiblesses sont cernées dans leur domaine de responsabilité;",
+    "anchor": "4.3",
+    "tag": "section"
+  },
+  {
+    "en": "Financial information Ensuring the accuracy and reasonableness of the financial information reported externally and internally for their areas of responsibility; andNotifying the CFO of any subsequent material errors or changes to the information referred to in subsection 4.3.8 of this policy.",
+    "fr": "Renseignements financiersAssurer l’exactitude et le caractère raisonnable des renseignements financiers inscrits dans les rapports externes et internes pour leur domaine de responsabilité; etAviser le DPF de toute erreur matérielle importante ou de changements aux renseignements définis à la section 4.3.8.",
+    "anchor": "4.3",
+    "tag": "section"
+  },
+  {
+    "en": "Governance and oversightProviding strategic financial advice to the President of the Treasury Board, the Secretary of the Treasury Board, the Clerk of the Privy Council, deputy heads and CFOs;Monitoring, providing guidance and recommending corrective actions regarding the following:Compliance with this policy and its supporting instruments;Financial management performance of departments; andThe financial management function across government;As required, appointing external advisors to support CFOs in addressing financial issues;",
+    "fr": "Gouvernance et surveillanceFormuler des conseils financiers stratégiques au président du Conseil du Trésor, au secrétaire du Conseil du Trésor, au greffier du Conseil privé, aux administrateurs généraux et aux DPF;Surveiller, orienter et recommander les mesures correctives à prendre concernant les éléments suivants :l’observation de la présente politique et de ses instruments connexes;le rendement des ministères au chapitre de la gestion financière; etla fonction de gestion financière à l’échelle du gouvernement;Au besoin, nommer des conseillers externes chargés d’aider les DPF à résoudre des questions de nature financière;",
+    "anchor": "4.4",
+    "tag": "section"
+  },
+  {
+    "en": "Financial informationProviding government-wide functional leadership regarding accounting standards and the preparation of departmental financial statements, quarterly financial reports and the Public Accounts of Canada;",
+    "fr": "Renseignements financiersAssurer un leadership fonctionnel à l’échelle du gouvernement quant aux normes comptables et à la préparation d’états financiers ministériels, de rapports financiers trimestriels et des Comptes publics du Canada;",
+    "anchor": "4.4",
+    "tag": "section"
+  },
+  {
+    "en": "Efficient financial management practicesProviding government-wide leadership for the continuous improvement and standardization of the financial management function to achieve greater efficiencies;Working internally and with departments in reviewing and endorsing financial management system investments, and reviewing results and benefits realized; and",
+    "fr": "Pratiques de gestion financière efficacesAssurer un leadership à l’échelle du gouvernement quant à l’amélioration continue et la normalisation de la fonction de gestion financière pour réaliser de plus grands gains d’efficience;Travailler à l’interne et avec les ministères en vue d’examiner et de soutenir les investissements dans des systèmes de gestion financière, et examiner les résultats et les avantages obtenus; et",
+    "anchor": "4.4",
+    "tag": "section"
+  },
+  {
+    "en": "Financial management workforceProviding government-wide functional leadership regarding the following:Knowledge and certification standards for CFOs and the financial management community, including determining:The acceptable combination of education, training and/or experience for purposes of the Treasury Board Executive Group (EX) Qualification Standard; andAny additional measures that may be appropriate to safeguard the integrity of the financial management workforce; andDevelopment and sustainability of the financial management community through talent management and community development strategies.",
+    "fr": "Effectif de la gestion financièreAssurer un leadership fonctionnel à l’échelle du gouvernement concernant les éléments suivants :Les normes en matière de connaissances et de certification pour les DPF et la collectivité de la gestion financière, y compris déterminer :la combinaison acceptable d’études, de formation et/ou d’expérience pour l’application de la Norme de qualification du groupe de la direction (EX) du Conseil du Trésor; ettoute autre mesure appropriée pour protéger l’intégrité de l’effectif de la gestion financière.Le perfectionnement et le maintien de la collectivité de la gestion financière au moyen de stratégies de gestion des talents et de perfectionnement de la collectivité.",
+    "anchor": "4.4",
+    "tag": "section"
+  },
+  {
+    "en": "Office of the Auditor GeneralOffice of the Chief Electoral OfficerOffice of the Commissioner of Lobbying of CanadaOffice of the Commissioner of Official LanguagesOffice of the Information Commissioner of CanadaOffice of the Privacy Commissioner of CanadaOffice of the Public Sector Integrity Commissioner of Canada",
+    "fr": "le Bureau du vérificateur généralle Bureau du directeur général des élections le Commissariat à la protection de la vie privée du Canadale Commissariat à l’information du Canadale Commissariat à l’intégrité du secteur public du Canadale Commissariat au lobbying du Canadale Commissariat aux langues officielles",
+    "anchor": "6.3",
+    "tag": "ul"
+  },
+  {
     "en": "The heads of these organizations are solely responsible for the following:",
-    "fr": "L’administrateur général de chacun de ces organismes est l’unique responsable de ce qui suit :"
+    "fr": "L’administrateur général de chacun de ces organismes est l’unique responsable de ce qui suit :",
+    "anchor": "6.3",
+    "tag": "p"
   },
   {
-    "en": "Policy Framework for Financial Management ( )",
-    "fr": "Cadre des politiques de gestion financière ( )"
+    "en": "Monitoring and ensuring compliance with this policy within their organizations;Endorsing investments in their financial management systems; andWhen a CFO candidate does not hold a designation bestowed by CPA Canada, determining the acceptable combination of education, training and/or experience and any additional measures that may be appropriate to safeguard the integrity of the financial management function.",
+    "fr": "Surveiller et assurer la conformité à la présente politique au sein de son organisation;Approuver les investissements dans les systèmes de gestion financière; etLorsqu’un candidat à titre de DPF ne possède pas un titre décerné par CPA Canada, déterminer une combinaison acceptable d’études, de formation et/ou d’expérience et déterminer toute autre mesure appropriée pour protéger l’intégrité de la fonction de gestion financière.",
+    "anchor": "6.3",
+    "tag": "ul"
   },
   {
-    "en": "Policy on Financial Management Governance ( )",
-    "fr": "Politique sur la gouvernance en matière de gestion financière ( )"
+    "en": "Financial Administration Act",
+    "fr": "Loi sur la gestion des finances publiques",
+    "anchor": "8.1",
+    "tag": "ul"
   },
   {
-    "en": "Policy on Financial Resource Management, Information and Reporting ( )",
-    "fr": "Politique sur la gestion financière des ressources, l’information et les rapports financiers ( )"
-  },
-  {
-    "en": "Policy on the Stewardship of Financial Management Systems ( )",
-    "fr": "Politique sur la gérance des systèmes de gestion financière ( )"
-  },
-  {
-    "en": "Policy on Internal Control ( )",
-    "fr": "Politique sur le contrôle interne ( )"
-  },
-  {
-    "en": "Directive on Electronic Authentication and Authorization of Financial Transactions ( )",
-    "fr": "Directive sur l’authentification et l’autorisation électroniques des opérations financières ( )"
-  },
-  {
-    "en": "Directive on the Stewardship of Financial Management Systems ( )",
-    "fr": "Directive sur la gérance des systèmes de gestion financière ( )"
-  },
-  {
-    "en": "Standard on Recording Financial Transactions in the Departmental Chart of Accounts ( )",
-    "fr": "Norme sur l’inscription des opérations financières dans le plan comptable ministériel ( )"
-  },
-  {
-    "en": "Office of the Auditor General",
-    "fr": "le Bureau du vérificateur général"
-  },
-  {
-    "en": "Office of the Chief Electoral Officer",
-    "fr": "le Bureau du directeur général des élections"
-  },
-  {
-    "en": "Office of the Commissioner of Lobbying of Canada",
-    "fr": "le Commissariat à la protection de la vie privée du Canada"
-  },
-  {
-    "en": "Office of the Commissioner of Official Languages",
-    "fr": "le Commissariat à l’information du Canada"
-  },
-  {
-    "en": "Office of the Information Commissioner of Canada",
-    "fr": "le Commissariat à l’intégrité du secteur public du Canada"
-  },
-  {
-    "en": "Office of the Privacy Commissioner of Canada",
-    "fr": "le Commissariat au lobbying du Canada"
-  },
-  {
-    "en": "Office of the Public Sector Integrity Commissioner of Canada",
-    "fr": "le Commissariat aux langues officielles"
-  },
-  {
-    "en": "Monitoring and ensuring compliance with this policy within their organizations;",
-    "fr": "Surveiller et assurer la conformité à la présente politique au sein de son organisation;"
-  },
-  {
-    "en": "Endorsing investments in their financial management systems; and",
-    "fr": "Approuver les investissements dans les systèmes de gestion financière; et"
-  },
-  {
-    "en": "When a CFO candidate does not hold a designation bestowed by CPA Canada, determining the acceptable combination of education, training and/or experience and any additional measures that may be appropriate to safeguard the integrity of the financial management function.",
-    "fr": "Lorsqu’un candidat à titre de DPF ne possède pas un titre décerné par CPA Canada, déterminer une combinaison acceptable d’études, de formation et/ou d’expérience et déterminer toute autre mesure appropriée pour protéger l’intégrité de la fonction de gestion financière."
-  },
-  {
-    "en": "This policy takes effect on April 1, 2017, and incorporates changes effective as of June 20, 2024.",
-    "fr": "La présente politique entre en vigueur le 1 avril 2017 et incorpore les modifications en vigueur le 20 juin 2024."
-  },
-  {
-    "en": "This policy replaces the following Treasury Board policy instruments:",
-    "fr": "La présente politique remplace les instruments du Conseil du Trésor suivants :"
-  },
-  {
-    "en": "This policy is issued pursuant to section 7 and subsection 11.1 of the and section 31 of the .",
-    "fr": "La présente politique est émise aux termes de l’article 7 et section 11.1 de la et de l’article 31 de ."
-  },
-  {
-    "en": "The Treasury Board has delegated to the President of the Treasury Board the authority to:",
-    "fr": "Le Conseil du Trésor a délégué au président du Conseil du Trésor les pouvoirs suivants :"
-  },
-  {
-    "en": "Approve exceptions to the directives, including standards, mandatory procedures and other appendices related to this policy;",
-    "fr": "Approuver les exceptions aux directives liées à cette politique;"
-  },
-  {
-    "en": "Amend, issue and rescind directives related to this policy.",
-    "fr": "Modifier les directives liées à cette politique."
-  },
-  {
-    "en": "The Treasury Board has delegated to the Comptroller General of Canada the authority to:",
-    "fr": "Le Conseil du Trésor a délégué au contrôleur général du Canada les pouvoirs suivants :"
-  },
-  {
-    "en": "Amend the Directive on Accounting Standards;",
-    "fr": "Le pouvoir de modifier la Directive sur les normes comptables;"
-  },
-  {
-    "en": "Issue, amend and rescind the Standard on Government of Canada Accounting Handbook;",
-    "fr": "Le pouvoir de publier, de modifier et d'abroger la norme relative au Manuel de comptabilité du gouvernement du Canada;"
-  },
-  {
-    "en": "Grant exceptions on a case-by-case basis, to associated requirements of directives, standards, mandatory procedures, and other appendices under this policy; and",
-    "fr": "Accorder des exceptions, au cas par cas, aux exigences connexes des directives, normes, procédures obligatoires et autres annexes de cette politique; et"
-  },
-  {
-    "en": "Issue, amend and rescind standards, mandatory procedures and other appendices related to this policy and related directives.",
-    "fr": "Publier, modifier et abroger les normes, procédures obligatoires et autres annexes relatives à la présente politique et aux directives connexes."
-  },
-  {
-    "en": "The objective of this policy is as follows:",
-    "fr": "L’objectif de la présente politique est le suivant :"
-  },
-  {
-    "en": "Financial resources of the Government of Canada are well managed in the delivery of programs to Canadians and safeguarded through balanced controls that enable flexibility and manage risk.",
-    "fr": "Faire en sorte que les ressources financières du gouvernement du Canada soient bien gérées quant à l’exécution des programmes offerts à la population canadienne et soient protégées grâce à des contrôles équilibrés qui permettent une certaine souplesse et une gestion des risques."
-  },
-  {
-    "en": "The expected government-wide results of this policy are as follows:",
-    "fr": "Les résultats attendus de la présente politique à l’échelle du gouvernement sont les suivants:"
-  },
-  {
-    "en": "Governance and oversight over financial management are effective;",
-    "fr": "La gouvernance et la surveillance de la gestion financière sont efficaces;"
-  },
-  {
-    "en": "Internal controls over financial management are effective;",
-    "fr": "Les contrôles internes de la gestion financière sont efficaces;"
-  },
-  {
-    "en": "Financial information supports decision making and accountability to Canadians;",
-    "fr": "Les renseignements financiers appuient la prise de décisions et la responsabilisation envers les Canadiens;"
-  },
-  {
-    "en": "Standardized and efficient financial management practices are in place; and",
-    "fr": "Les pratiques de gestion financière sont normalisées et efficaces; et"
-  },
-  {
-    "en": "The financial management workforce is agile and sustainable.",
-    "fr": "L’effectif de la gestion financière est souple et durable."
-  },
-  {
-    "en": "Deputy heads are responsible for the following:",
-    "fr": "Les administrateurs généraux ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Designating a chief financial officer (CFO) to lead the departmental financial management function;",
-    "fr": "Désigner un dirigeant principal des finances (DPF) pour diriger la fonction de gestion financière du ministère;"
-  },
-  {
-    "en": "Establishing departmental governance and oversight to ensure that:",
-    "fr": "Établir une gouvernance et une surveillance ministérielles qui permettent de s’assurer que :"
-  },
-  {
-    "en": "Senior departmental managers and the CFO:",
-    "fr": "Les cadres supérieurs du ministère et le DPF :"
-  },
-  {
-    "en": "Are aware of their financial management responsibilities;",
-    "fr": "sont au fait de leurs responsabilités en matière de gestion financière;"
-  },
-  {
-    "en": "Have the necessary knowledge to carry them out; and",
-    "fr": "ont les connaissances nécessaires pour les exécuter; et"
-  },
-  {
-    "en": "Monitor financial management performance within their areas of responsibility;",
-    "fr": "surveillent le rendement au chapitre de la gestion financière dans leur domaine de responsabilité;"
-  },
-  {
-    "en": "The CFO is empowered to provide strategic financial and business advice and support to senior departmental managers; and",
-    "fr": "Le DPF a le pouvoir de fournir des conseils et un soutien stratégiques en matière de finances aux cadres supérieurs du ministère; et"
-  },
-  {
-    "en": "The delegation of financial authorities is risk-based, taking into consideration the timely delivery of programs, empowerment of individuals and departmental controls;",
-    "fr": "La délégation des pouvoirs financiers est fondée sur le risque, en prenant en considération l’exécution en temps utile des programmes, la responsabilisation des personnes et les contrôles ministériels;"
-  },
-  {
-    "en": "Investigating and acting when significant issues regarding policy compliance arise, and ensuring that appropriate remedial action is taken to address such issues within the department;",
-    "fr": "Faire enquête et intervenir lorsque des problèmes importants liés à la conformité aux politiques surviennent, et s’assurer que des mesures correctives appropriées sont prises pour résoudre les problèmes au sein du ministère;"
-  },
-  {
-    "en": "Ensuring that the CFO advises the Comptroller General of Canada on a timely basis when there are difficulties in complying with this policy, its supporting instruments or other direction from the Comptroller General of Canada;",
-    "fr": "Veiller à ce que le DPF informe le contrôleur général du Canada en temps opportun lorsqu’il y a des difficultés concernant l’observation de la présente politique, de ses instruments connexes ou d’une autre directive du contrôleur général du Canada;"
-  },
-  {
-    "en": "Advising the Secretary of the Treasury Board and the Comptroller General of Canada on a timely basis when there are issues that pose a critical financial risk to the department, including the possibility that the department may exceed its appropriations;",
-    "fr": "Informer le secrétaire du Conseil du Trésor et le contrôleur général du Canada en temps opportun lorsque des questions entraînent un risque financier majeur pour le ministère, notamment lorsqu’il existe une possibilité que le ministère dépasse la limite de ses crédits;"
-  },
-  {
-    "en": "Ensuring that a risk-based departmental system of internal control over financial management is established, monitored and maintained;",
-    "fr": "Veiller à l’établissement, à la surveillance et au maintien d’un système ministériel de contrôle interne de la gestion financière axé sur le risque;"
-  },
-  {
-    "en": "Ensuring that timely and accurate departmental financial information is available to support decision making in the department and across government;",
-    "fr": "Veiller à ce que des renseignements financiers ministériels exacts soient accessibles en temps opportun pour soutenir la prise de décisions dans le ministère et à l’échelle du gouvernement;"
-  },
-  {
-    "en": "Approving key financial statements, disclosures and reports, including the following:",
-    "fr": "Approuver les états financiers, les divulgations et les rapports financiers clés, y compris :"
-  },
-  {
-    "en": "Cabinet submission documents;",
-    "fr": "les documents liés aux présentations au Cabinet;"
-  },
-  {
-    "en": "Financial reports and statements, including annual financial statements;",
-    "fr": "les rapports et les états financiers (y compris les états financiers annuels);"
-  },
-  {
-    "en": "Annual Statement of Management Responsibility Including Internal Control Over Financial Reporting, including a summary of the annual assessment of the system of internal control over financial reporting;",
-    "fr": "la déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers, notamment un résumé de l’évaluation annuelle du système de contrôle interne en matière de rapports financiers;"
-  },
-  {
-    "en": "Letters of Representation to the Auditor General and the Deputy Receiver General in support of the Public Accounts; and",
-    "fr": "la lettre de déclaration à l’intention du vérificateur général et du sous‐receveur général à l’appui des Comptes publics; et"
-  },
-  {
-    "en": "Other documents as required;",
-    "fr": "d’autres documents, au besoin;"
-  },
-  {
-    "en": "Ensuring the development of talent management and succession plans that:",
-    "fr": "Assurer l’élaboration de plans de gestion des talents et de relève qui :"
-  },
-  {
-    "en": "Demonstrate that the department has ongoing strategic leadership capabilities and the capacity to lead the financial management workforce; and",
-    "fr": "Démontre que le ministère a des capacités de leadership stratégique permanentes et la capacité de diriger l’effectif de la gestion financière; et"
-  },
-  {
-    "en": "Support the Comptroller General of Canada’s government-wide talent management and community development initiatives;",
-    "fr": "soutiennent les initiatives pangouvernementales du contrôleur général du Canada concernant la gestion des talents et le perfectionnement de la collectivité;"
-  },
-  {
-    "en": "Ensuring that the CFO:",
-    "fr": "S’assurer que le dirigeant principal des finances :"
-  },
-  {
-    "en": "Reports directly to the deputy head;",
-    "fr": "Relève directement de l’administrateur général;"
-  },
-  {
-    "en": "Is not assigned program responsibilities;",
-    "fr": "N’assume pas de responsabilité en matière de programmes :"
-  },
-  {
-    "en": "Is not assigned non-financial corporate responsibilities that would compromise their objectivity or financial capabilities;",
-    "fr": "N’assume pas de responsabilités ministérielles non financières qui compromettraient son objectivité ou ses capacités financières;"
-  },
-  {
-    "en": "Possess, for the purposes of the Treasury Board Executive Group (EX) Qualification Standard, either:",
-    "fr": "Possède, pour l’application de la Norme de qualification du groupe de la direction (EX) du Conseil du Trésor, l’une ou l’autre des qualifications suivantes :"
-  },
-  {
-    "en": "A designation bestowed by the Chartered Professional Accountants of Canada (CPA Canada); or",
-    "fr": "Un titre décerné par Comptables professionnels agréés du Canada (CPA Canada);"
-  },
-  {
-    "en": "An acceptable combination of education, training and/or experience as determined by the Comptroller General of Canada; and",
-    "fr": "Une combinaison acceptable d’études, de formation et/ou d’expérience telle que déterminée par le contrôleur général du Canada; et"
-  },
-  {
-    "en": "Consulting with the Comptroller General of Canada regarding creating a CFO position and prior to:",
-    "fr": "Consulter le contrôleur général du Canada au sujet de la création d’un poste de DPF et avant :"
-  },
-  {
-    "en": "The appointment, deployment, replacement or departure of a CFO; and",
-    "fr": "la nomination, la mutation, le remplacement ou le départ d’un DPF;"
-  },
-  {
-    "en": "Selection of a CFO who does not hold a designation bestowed by CPA Canada.",
-    "fr": "la sélection d’un DPF qui ne détient pas un titre décerné par CPA Canada."
-  },
-  {
-    "en": "Departmental CFOs are responsible for the following:",
-    "fr": "Les dirigeants principaux des finances des ministères ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Supporting deputy heads in fulfilling their financial management responsibilities and accountabilities;",
-    "fr": "Aider les administrateurs généraux à s’acquitter de leurs responsabilités et obligations redditionnelles en matière de gestion financière;"
-  },
-  {
-    "en": "Leading and managing the departmental financial management function, including the following:",
-    "fr": "Diriger et gérer la fonction de gestion financière du ministère, ce qui comprend ce qui suit :"
-  },
-  {
-    "en": "Providing strategic financial and business advice to support deputy heads and senior departmental managers to ensure that:",
-    "fr": "Fournir des conseils et un soutien financiers stratégiques aux administrateurs généraux et aux cadres supérieurs du ministère pour s’assurer que :"
-  },
-  {
-    "en": "Program plans and key business decisions are based on sound financial analysis; and",
-    "fr": "les plans de programme et les décisions organisationnelles importantes sont fondés sur une analyse financière saine; et"
-  },
-  {
-    "en": "Financial results are integrated into the management of program performance;",
-    "fr": "les résultats financiers sont intégrés à la gestion du rendement des programmes;"
-  },
-  {
-    "en": "Leading the departmental financial planning and budgeting process, including the following:",
-    "fr": "Diriger la planification financière et le processus budgétaire du ministère, ce qui comprend :"
-  },
-  {
-    "en": "The timely allocation of budgets;",
-    "fr": "l’affectation en temps opportun des budgets; et"
-  },
-  {
-    "en": "The provision of tools to forecast and manage financial resources; and",
-    "fr": "la fourniture d’outils pour prévoir et gérer les ressources financières;"
-  },
-  {
-    "en": "Integration with the organizational plans of other internal services sectors.",
-    "fr": "l’intégration avec les plans organisationnels des autres secteurs de services internes;"
-  },
-  {
-    "en": "Assessing financial pressures, both on an in-year and multi-year basis, and recommending resource management strategies, including opportunities to reallocate funds; and",
-    "fr": "Évaluer les pressions financières, à la fois de façon annuelle ou pluriannuelle, et recommander des stratégies de gestion des ressources, notamment des possibilités de réaffectation des fonds; et"
-  },
-  {
-    "en": "Ensuring that the department’s financial plans, budgets, financial performance and financial position are regularly communicated and integrated into departmental strategic planning processes;",
-    "fr": "Veiller à ce que les plans financiers, les budgets, le rendement financier et la situation financière du ministère soient régulièrement communiqués et intégrés aux processus ministériels de planification stratégique;"
-  },
-  {
-    "en": "Designating a deputy CFO who has appropriate qualifications to ensure the ongoing leadership of the department’s financial management function;",
-    "fr": "Désigner un adjoint au dirigeant principal des finances ayant les compétences appropriées pour assurer le leadership permanent de la fonction de gestion financière du ministère;"
-  },
-  {
-    "en": "Performing a challenge function on financial management matters, including assessing departmental financial plans, and forecasts to determine whether:",
-    "fr": "Exécuter une fonction de remise en question en matière de gestion financière, notamment l’évaluation des prévisions et des plans financiers du ministère pour déterminer si :"
-  },
-  {
-    "en": "Financial resources are aligned with departmental priorities;",
-    "fr": "les ressources financières sont harmonisées aux priorités ministérielles;"
-  },
-  {
-    "en": "Key financial assumptions underlying the plans are reasonable and their multi-year impacts have been assessed;",
-    "fr": "les principales hypothèses financières qui sous-tendent les plans sont raisonnables et leurs répercussions pluriannuelles ont été évaluées;"
-  },
-  {
-    "en": "Financial risks and mitigating strategies are identified; and",
-    "fr": "les risques financiers et les stratégies d’atténuation ont été recensés; et"
-  },
-  {
-    "en": "The anticipated multi-year financial position of the department is reasonable;",
-    "fr": "la situation financière pluriannuelle prévue du ministère est raisonnable;"
-  },
-  {
-    "en": "Serving as the primary contact point with central agencies on all matters related to departmental financial management;",
-    "fr": "Agir à titre de personne ressource principale auprès des organismes centraux concernant toutes les questions liées à la gestion financière du ministère;"
-  },
-  {
-    "en": "Advising the deputy head and the Comptroller General of Canada on a timely basis if:",
-    "fr": "Informer rapidement l’administrateur général et le contrôleur général du Canada dans les cas suivants :"
-  },
-  {
-    "en": "There is a critical financial risk to the department, including where there is a possibility that the department may exceed its appropriations;",
-    "fr": "le ministère est exposé à un risque financier majeur, notamment lorsqu’il existe une possibilité que le ministère dépasse la limite de ses crédits;"
-  },
-  {
-    "en": "There are significant departmental financial transactions that involve uncertain or unusual circumstances; or",
-    "fr": "des opérations financières ministérielles importantes sont effectuées dans des circonstances incertaines ou inhabituelles; ou"
-  },
-  {
-    "en": "There are difficulties complying with this policy, its supporting instruments or other direction from the Comptroller General of Canada;",
-    "fr": "il y a des difficultés concernant l’observation de la présente politique, de ses instruments connexes ou d’une autre directive du contrôleur général du Canada;"
-  },
-  {
-    "en": "Advising the Comptroller General of Canada on a timely basis if the deputy head does not accept the CFO’s advice on a significant financial matter;",
-    "fr": "Informer rapidement le contrôleur général du Canada si l’administrateur général rejette l’avis du DPF au sujet d’une question financière importante;"
-  },
-  {
-    "en": "Establishing, monitoring and maintaining a risk-based system of internal control over financial management to provide reasonable assurance that:",
-    "fr": "Établir, surveiller et maintenir un système de contrôle interne de la gestion financière pour fournir une assurance raisonnable que :"
-  },
-  {
-    "en": "Public resources are used prudently and in an economical manner;",
-    "fr": "les ressources publiques sont utilisées prudemment et de façon économique;"
-  },
-  {
-    "en": "Financial management processes are effective and efficient; and",
-    "fr": "les processus de gestion financière sont efficaces et efficients; et"
-  },
-  {
-    "en": "Relevant legislation, regulations and financial management policy instruments are being complied with;",
-    "fr": "les lois, les règlements et les instruments de politique de gestion financière pertinents sont respectés;"
-  },
-  {
-    "en": "Establishing, monitoring and maintaining a risk-based system of internal control over financial reporting, as demonstrated by the departmental Statement of Management Responsibility Including Internal Control Over Financial Reporting, to provide reasonable assurance, at a minimum, that:",
-    "fr": "Établir, surveiller et maintenir un système de contrôle interne des rapports financiers axé sur le risque, comme le démontre la déclaration de responsabilité de la direction englobant le contrôle interne en matière de rapports financiers du ministère, pour fournir une assurance raisonnable, au minimum, que :"
-  },
-  {
-    "en": "Records are maintained that support and represent fairly all financial transactions;",
-    "fr": "les documents qui soutiennent et représentent toutes les transactions financières de façon équitable sont conservés;"
-  },
-  {
-    "en": "Recording of financial transactions allows for the preparation of internal and external financial information, reports and statements in compliance with financial management policy instruments;",
-    "fr": "l’inscription des opérations financières permet la préparation de renseignements, de rapports et d’états financiers internes et externes en conformité avec les instruments de la politique sur la gestion financière;"
-  },
-  {
-    "en": "Expenditures made are in accordance with delegated authorities, and unauthorized transactions that could have a material effect on the financial statements are prevented or detected in a timely manner; and",
-    "fr": "les dépenses réalisées sont conformes aux pouvoirs délégués, et les transactions non autorisées qui pourraient avoir une incidence importante sur les états financiers sont évitées ou détectées en temps opportun; et"
-  },
-  {
-    "en": "Financial resources are safeguarded against material loss due to waste, abuse, mismanagement, errors, fraud, omissions and other irregularities;",
-    "fr": "les ressources financières sont protégées contre les pertes matérielles attribuables au gaspillage, à l’abus, à la mauvaise gestion, aux erreurs, à la fraude, aux omissions et aux autres irrégularités;"
-  },
-  {
-    "en": "Ensuring that prompt corrective action is taken when control weaknesses and material unmitigated risks are identified, including the risk of fraud, in the system of internal control over financial management and financial reporting;",
-    "fr": "S’assurer que des mesures correctives sont prises rapidement lorsque des lacunes concernant les contrôles et des risques importants n’ayant pas fait l’objet de mesures d’atténuation sont repérés, y compris tout risque de fraude concernant le système de contrôle interne de la gestion financière et les rapports financiers;"
-  },
-  {
-    "en": "Maintaining and reporting timely and accurate departmental financial information;",
-    "fr": "Tenir et déclarer des renseignements financiers ministériels à jour et exacts;"
-  },
-  {
-    "en": "Integrating financial information with non-financial information to support decision making and risk management;",
-    "fr": "Intégrer les renseignements financiers aux renseignements non financiers afin de soutenir la prise de décisions et la gestion du risque;"
-  },
-  {
-    "en": "Ensuring the accuracy and reasonableness of key departmental financial information, financial statements, disclosures and reports, including the following:",
-    "fr": "Assurer l’exactitude et le caractère raisonnable des principaux renseignements financiers ministériels, des états financiers, des divulgations et des rapports financiers, notamment :"
-  },
-  {
-    "en": "Cabinet submission documents by way of a CFO attestation;",
-    "fr": "les documents liés aux présentations au Cabinet sous la forme d’une attestation du DPF;"
-  },
-  {
-    "en": "Documents related to the Estimates process;",
-    "fr": "les documents liés au processus du budget des dépenses;"
-  },
-  {
-    "en": "Financial reports and statements, including annual financial statements;",
-    "fr": "les rapports et les états financiers (y compris les états financiers annuels);"
-  },
-  {
-    "en": "Annual Statement of Management Responsibility Including Internal Control Over Financial Reporting, including a summary of:",
-    "fr": "la déclaration de responsabilité de la direction annuelle englobant le contrôle interne en matière de rapports financiers, notamment un résumé de ce qui suit :"
-  },
-  {
-    "en": "The results of the annual assessment of the system of internal control over financial reporting, along with actions taken and future plans; and",
-    "fr": "les résultats de l’évaluation annuelle du système de contrôle interne en matière de rapports financiers, de même que les mesures prises et les plans pour l’avenir; et"
-  },
-  {
-    "en": "The results of the annual assessment of the system of internal control over common services when providing such services to other departments;",
-    "fr": "les résultats de l’évaluation annuelle du système de contrôle interne à l’égard des services communs fournis à d’autres ministères, le cas échéant;"
-  },
-  {
-    "en": "Letters of Representation to the Auditor General and the Deputy Receiver General in support of the Public Accounts; and",
-    "fr": "la lettre de déclaration à l’intention du vérificateur général et du sous‐receveur général à l’appui des Comptes publics; et"
-  },
-  {
-    "en": "Other documents as required;",
-    "fr": "d’autres documents, au besoin;"
-  },
-  {
-    "en": "Notifying the deputy head of any subsequent material errors or changes in respect to information referred to in subsection 4.2.13 of this policy;",
-    "fr": "Informer l’administrateur général de toute erreur importante ou de tout changement important concernant les éléments visés à la section 4.2.13;"
-  },
-  {
-    "en": "Ensuring that the department pursues internal opportunities and actively collaborates with other departments to continuously improve and standardize the financial management function to achieve greater efficiencies;",
-    "fr": "S’assurer que le ministère exploite les possibilités à l’interne et collabore de façon active avec d’autres ministères pour s’améliorer constamment, normaliser la fonction de gestion financière et réaliser des gains d’efficacité;"
-  },
-  {
-    "en": "Seeking the endorsement of the Comptroller General of Canada for departmental investments in financial management systems, including the following:",
-    "fr": "Solliciter l’appui du contrôleur général du Canada à l’égard des investissements ministériels dans les systèmes de gestion financière, y compris :"
-  },
-  {
-    "en": "Communicating the results and benefits of those investments, as requested;",
-    "fr": "Communiquer les résultats et les avantages de ces investissements, comme il est requis;"
-  },
-  {
-    "en": "Ensuring that the deputy CFO possesses a designation bestowed by CPA Canada where the CFO does not possess a designation;",
-    "fr": "S’assurer que l’adjoint au dirigeant principal des finances possède un titre décerné par CPA Canada lorsque le DPF ne possède pas ce titre;"
-  },
-  {
-    "en": "Developing a sustainable talent management strategy and succession plan to ensure that the department has the capacity to deliver the financial management workforce;",
-    "fr": "Élaborer une stratégie de gestion des talents et un plan de relève viables pour faire en sorte que le ministère dispose de la capacité requise pour constituer l’effectif de la gestion financière;"
-  },
-  {
-    "en": "Providing leadership, both within the department and across government, in cultivating a high-performing financial management culture; and",
-    "fr": "Assurer un leadership au sein du ministère et à l’échelle du gouvernement pour ce qui est de favoriser une culture de gestion financière à rendement élevé; et"
-  },
-  {
-    "en": "Supporting the Comptroller General of Canada’s government-wide talent management and community development initiatives.",
-    "fr": "Soutenir les initiatives pangouvernementales du contrôleur général du Canada concernant la gestion des talents et le perfectionnement de la collectivité."
-  },
-  {
-    "en": "Senior departmental managers are responsible for the following:",
-    "fr": "Les cadres supérieurs des ministères ont les responsabilités suivantes :"
-  },
-  {
-    "en": "Establishing governance and oversight to ensure that individuals responsible for financial management in their area of responsibility:",
-    "fr": "Établir des mécanismes de gouvernance et de surveillance pour s’assurer que les personnes responsables de la gestion financière dans leur domaine de responsabilité :"
-  },
-  {
-    "en": "Are aware of their financial management responsibilities and have the necessary training to carry them out;",
-    "fr": "sont au fait de leurs responsabilités en matière de gestion financière et possèdent la formation requise pour s’acquitter de celles-ci;"
-  },
-  {
-    "en": "Exercise their delegated authorities in accordance with Treasury Board and departmental rules; and",
-    "fr": "exercent les pouvoirs qui leur sont délégués conformément aux règles du Conseil du Trésor et du ministère; et"
-  },
-  {
-    "en": "Monitor the financial management performance in their areas of responsibility;",
-    "fr": "surveillent le rendement au chapitre de la gestion financière dans leur domaine de responsabilité;"
-  },
-  {
-    "en": "Developing timely financial plans and budgets for their area of responsibility and ensuring that:",
-    "fr": "Élaborer en temps opportun des plans financiers et des budgets relatifs à leur domaine de responsabilité, et s’assurer que :"
-  },
-  {
-    "en": "Financial resources are aligned to support their program priorities;",
-    "fr": "les ressources financières sont harmonisées en vue de soutenir les priorités de leurs programmes;"
-  },
-  {
-    "en": "Key financial assumptions underlying plans and decisions are supported and their multi-year impacts have been identified and assessed; and",
-    "fr": "les principales hypothèses financières qui sous-tendent les plans et les décisions sont bien étayées et leurs répercussions pluriannuelles ont été déterminées et évaluées; et"
-  },
-  {
-    "en": "Financial risks and mitigating strategies are identified;",
-    "fr": "les risques financiers et les stratégies d’atténuation ont été déterminés;"
-  },
-  {
-    "en": "Regularly monitoring and communicating to the CFO the status of their financial plans, budgets, performance and financial position;",
-    "fr": "Surveiller et communiquer au DPF de façon régulière l’état de leurs plans financiers, budgets, rendement et situation financière;"
-  },
-  {
-    "en": "Seeking the advice and support of the CFO for matters related to financial management, including the following:",
-    "fr": "Demander au DPF de fournir des conseils et un soutien relativement à des questions liées à la gestion financière, y compris :"
-  },
-  {
-    "en": "Preparing Cabinet submissions;",
-    "fr": "la préparation des présentations au Cabinet;"
-  },
-  {
-    "en": "Preparing financial reports and disclosures;",
-    "fr": "la préparation des rapports financiers et des divulgations;"
-  },
-  {
-    "en": "Ensuring the application of financial controls;",
-    "fr": "l’application des contrôles financiers;"
-  },
-  {
-    "en": "Developing cost estimates and evaluating financial risks;",
-    "fr": "l’élaboration des estimations des coûts et l’évaluation des risques financiers;"
-  },
-  {
-    "en": "Considering key program decisions with significant financial management implications; and",
-    "fr": "l’éventualité d’une prise de décisions importantes sur les programmes ayant des répercussions financières considérables; et"
-  },
-  {
-    "en": "Integrating financial and program results to support the management of program performance;",
-    "fr": "la prise en compte des résultats financiers et des résultats des programmes pour soutenir la gestion du rendement des programmes;"
-  },
-  {
-    "en": "Notifying the CFO when they anticipate being unable to comply with this policy, its supporting instruments, or other direction from the Comptroller General of Canada;",
-    "fr": "Aviser le DPF lorsqu’ils s’attendent à ne pas pouvoir observer la présente politique, ses instruments connexes ou une autre directive du contrôleur général du Canada;"
-  },
-  {
-    "en": "Implementing and maintaining a risk-based system of internal control over financial management in their area of responsibility;",
-    "fr": "Mettre en œuvre et maintenir un système de contrôle interne de la gestion financière axé sur le risque dans leur domaine de responsabilité;"
-  },
-  {
-    "en": "Notifying the CFO of material control weaknesses and ensuring that prompt corrective action is taken when control weaknesses are identified in their area of responsibility;",
-    "fr": "Aviser le DPF des faiblesses du contrôle importantes et s’assurer que des mesures correctives sont prises rapidement lorsque de telles faiblesses sont cernées dans leur domaine de responsabilité;"
-  },
-  {
-    "en": "Ensuring the accuracy and reasonableness of the financial information reported externally and internally for their areas of responsibility; and",
-    "fr": "Assurer l’exactitude et le caractère raisonnable des renseignements financiers inscrits dans les rapports externes et internes pour leur domaine de responsabilité; et"
-  },
-  {
-    "en": "Notifying the CFO of any subsequent material errors or changes to the information referred to in subsection 4.3.8 of this policy.",
-    "fr": "Aviser le DPF de toute erreur matérielle importante ou de changements aux renseignements définis à la section 4.3.8."
-  },
-  {
-    "en": "The Comptroller General of Canada is responsible for providing leadership for financial management within the Government of Canada, including the following:",
-    "fr": "Le contrôleur général est chargé d’assurer un leadership pour la gestion financière au gouvernement du Canada, y compris :"
-  },
-  {
-    "en": "Providing strategic financial advice to the President of the Treasury Board, the Secretary of the Treasury Board, the Clerk of the Privy Council, deputy heads and CFOs;",
-    "fr": "Formuler des conseils financiers stratégiques au président du Conseil du Trésor, au secrétaire du Conseil du Trésor, au greffier du Conseil privé, aux administrateurs généraux et aux DPF;"
-  },
-  {
-    "en": "Monitoring, providing guidance and recommending corrective actions regarding the following:",
-    "fr": "Surveiller, orienter et recommander les mesures correctives à prendre concernant les éléments suivants :"
-  },
-  {
-    "en": "Compliance with this policy and its supporting instruments;",
-    "fr": "l’observation de la présente politique et de ses instruments connexes;"
-  },
-  {
-    "en": "Financial management performance of departments; and",
-    "fr": "le rendement des ministères au chapitre de la gestion financière; et"
-  },
-  {
-    "en": "The financial management function across government;",
-    "fr": "la fonction de gestion financière à l’échelle du gouvernement;"
-  },
-  {
-    "en": "As required, appointing external advisors to support CFOs in addressing financial issues;",
-    "fr": "Au besoin, nommer des conseillers externes chargés d’aider les DPF à résoudre des questions de nature financière;"
-  },
-  {
-    "en": "Providing government-wide functional leadership regarding accounting standards and the preparation of departmental financial statements, quarterly financial reports and the Public Accounts of Canada;",
-    "fr": "Assurer un leadership fonctionnel à l’échelle du gouvernement quant aux normes comptables et à la préparation d’états financiers ministériels, de rapports financiers trimestriels et des Comptes publics du Canada;"
-  },
-  {
-    "en": "Providing government-wide leadership for the continuous improvement and standardization of the financial management function to achieve greater efficiencies;",
-    "fr": "Assurer un leadership à l’échelle du gouvernement quant à l’amélioration continue et la normalisation de la fonction de gestion financière pour réaliser de plus grands gains d’efficience;"
-  },
-  {
-    "en": "Working internally and with departments in reviewing and endorsing financial management system investments, and reviewing results and benefits realized; and",
-    "fr": "Travailler à l’interne et avec les ministères en vue d’examiner et de soutenir les investissements dans des systèmes de gestion financière, et examiner les résultats et les avantages obtenus; et"
-  },
-  {
-    "en": "Providing government-wide functional leadership regarding the following:",
-    "fr": "Assurer un leadership fonctionnel à l’échelle du gouvernement concernant les éléments suivants :"
-  },
-  {
-    "en": "Knowledge and certification standards for CFOs and the financial management community, including determining:",
-    "fr": "Les normes en matière de connaissances et de certification pour les DPF et la collectivité de la gestion financière, y compris déterminer :"
-  },
-  {
-    "en": "The acceptable combination of education, training and/or experience for purposes of the Treasury Board Executive Group (EX) Qualification Standard; and",
-    "fr": "la combinaison acceptable d’études, de formation et/ou d’expérience pour l’application de la Norme de qualification du groupe de la direction (EX) du Conseil du Trésor; et"
-  },
-  {
-    "en": "Any additional measures that may be appropriate to safeguard the integrity of the financial management workforce; and",
-    "fr": "toute autre mesure appropriée pour protéger l’intégrité de l’effectif de la gestion financière."
-  },
-  {
-    "en": "Development and sustainability of the financial management community through talent management and community development strategies.",
-    "fr": "Le perfectionnement et le maintien de la collectivité de la gestion financière au moyen de stratégies de gestion des talents et de perfectionnement de la collectivité."
-  },
-  {
-    "en": "Not applicable.",
-    "fr": "Sans objet."
-  },
-  {
-    "en": "This policy and its supporting instruments apply to departments as defined in section 2 of the , unless otherwise excluded by other acts, regulations or orders in council.",
-    "fr": "La présente politique et les instruments connexes s’appliquent aux ministères au sens de l’article 2 de la , sauf si des lois, des règlements ou des décrets les en excluent."
-  },
-  {
-    "en": "Departments, agencies and organizations in the Government of Canada not subject to these provisions are encouraged to adopt this policy and its supporting instruments to the extent possible.",
-    "fr": "Les ministères, les organismes et les organisations du gouvernement du Canada qui ne sont pas assujettis à ces dispositions sont encouragés à adopter la présente politique et ses instruments connexes dans la mesure du possible."
-  },
-  {
-    "en": "The requirements of the Comptroller General of Canada to monitor and recommend corrective actions regarding matters set out in subsections 4.4.2.1 and 4.4.2.2, to endorse investments in financial management systems under subsections 4.2.16 and 4.4.6, to determine an acceptable combination of education, training and/or experience in subsections 4.1.10.4.2 and 4.4.7.1.1 and to determine any additional measures that may be appropriate to safeguard the integrity of the financial management function in subsection 4.4.7.1.2 of this policy do not apply to the following organizations:",
-    "fr": "Les exigences selon lesquelles le contrôleur général du Canada doit assurer une surveillance et recommander des mesures correctives concernant les questions énoncées aux sections 4.4.2.1 et 4.4.2.2, approuver des investissements dans les systèmes de gestion financière aux termes des sections 4.2.16 et 4.4.6, déterminer une combinaison acceptable d’études, de formation et/ou d’expérience aux sections 4.1.10.4.2 et 4.4.7.1.1 et déterminer toute autre mesure appropriée pour protéger l’intégrité de la fonction de gestion financière à la section 4.4.7.1.2 de la présente politique ne s’appliquent pas pour :"
-  },
-  {
-    "en": "For an outline of the consequences of non‐compliance, refer to the , Appendix C: Consequences for Institutions and Appendix D: Consequences for Individuals.",
-    "fr": "Pour une description des conséquences du non-respect, consulter l’appendice C (Tableau des conséquences pour les institutions) et l’appendice D (Tableau des conséquences pour les personnes) du ."
-  },
-  {
-    "en": "Legislation",
-    "fr": "Textes législatifs"
-  },
-  {
-    "en": "Related policy instrument",
-    "fr": "Instrument de politique connexe"
-  },
-  {
-    "en": "Members of the public may contact regarding any questions about this policy.",
-    "fr": "Les membres du public peuvent communiquer avec le pour toute question en ce qui concerne cette politique."
-  },
-  {
-    "en": "Individuals from departments should contact their departmental financial policy group regarding any questions about this policy.",
-    "fr": "Les employés des ministères devraient communiquer avec leur groupe ministériel de la politique financière pour toute question en ce qui concerne cette politique."
-  },
-  {
-    "en": "Individuals from a departmental financial policy group may contact for interpretation of this policy.",
-    "fr": "Les employés du groupe ministériel de la politique financière peuvent communiquer avec pour des interprétations de la présente politique."
+    "en": "Foundation Framework for Treasury Board Policies",
+    "fr": "Cadre principal des politiques du Conseil du Trésor",
+    "anchor": "8.2",
+    "tag": "ul"
   }
 ]

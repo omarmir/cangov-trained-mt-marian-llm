@@ -1,186 +1,158 @@
 [
   {
-    "en": "This document provides guidance to Crown corporations’ for the preparation of their quarterly financial reports (CC QFR), and should be read in conjunction with the . It provides guidance on the statement that outlines the results, risks and significant changes relating to a department’s operations, personnel and programs. Since this guidance cannot consider all circumstances, professional judgement must be used when considering the Crown corporation’s reporting requirements.",
-    "fr": "Le présent document fournit des lignes directrices aux sociétés d’État quant à la préparation de leurs rapports financiers trimestriels (RFT SE) et doit être lu conjointement avec la . Il fournit des lignes directrices quant à l’énoncé des résultats, des risques et des changements importants concernant le fonctionnement, le personnel et les programmes d’une société d’État. Étant donné que les présentes lignes directrices ne peuvent tenir compte de toutes les circonstances, il faut faire preuve de jugement professionnel lorsqu’on examine les exigences en matière de rapports s’appliquant aux sociétés d’État."
-  },
-  {
     "en": "Parent Crown corporations are required to prepare quarterly financial statements using the principles outlined in this standard. The financial statements will include the results of the parent Crown corporation and its wholly-owned subsidiaries.",
-    "fr": "Les sociétés d’État mères sont tenues de préparer des états financiers trimestriels selon les principes décrits dans la présente norme. Ces états financiers comprendront les résultats de la société d’État mère et de toutes ses filiales en propriété exclusive."
+    "fr": "Les sociétés d’État mères sont tenues de préparer des états financiers trimestriels selon les principes décrits dans la présente norme. Ces états financiers comprendront les résultats de la société d’État mère et de toutes ses filiales en propriété exclusive.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
     "en": "The financial statements are to prepared based on the presentation, recognition and measurement standards used in the preparation of the annual audited financial statements, either Public Sector Accounting Standards (PSAS) or International Financial Reporting Standards (IFRS) as applicable for the parent Crown corporation. Notwithstanding, management may use discretion with respect to the adoption of new or changed accounting policies and, in doing so, may choose not to adopt a new or changed policy during a quarter, but rather to adopt the new or changed policy for the first time in the year end financial statements. Where there is a delay in adoption of an accounting policy and this results in a departure from generally accepted accounting principles, management must disclose in the quarterly financial report that:",
-    "fr": "Les états financiers doivent être préparés en conformité avec les normes de présentation, de constatation et de mesure servant à la préparation des états financiers annuels vérifiés; il peut s’agir des Normes comptables du secteur public (NCSP) ou des Normes internationales d’information financière (IFRS) applicables aux sociétés d’État mères. Cela dit, la direction peut exercer un pouvoir discrétionnaire en vue d’adopter des conventions comptables nouvelles ou modifiées, et elle peut à cet égard décider d’adopter de telles conventions à compter des états financiers de fin d’exercice plutôt que d’un trimestre en cours d’exercice. Si l’on reporte ainsi l’adoption d’une convention comptable et que cela donne lieu à une dérogation aux principes comptables généralement reconnus, la direction doit préciser dans le rapport financier trimestrie :"
+    "fr": "Les états financiers doivent être préparés en conformité avec les normes de présentation, de constatation et de mesure servant à la préparation des états financiers annuels vérifiés; il peut s’agir des Normes comptables du secteur public (NCSP) ou des Normes internationales d’information financière (IFRS) applicables aux sociétés d’État mères. Cela dit, la direction peut exercer un pouvoir discrétionnaire en vue d’adopter des conventions comptables nouvelles ou modifiées, et elle peut à cet égard décider d’adopter de telles conventions à compter des états financiers de fin d’exercice plutôt que d’un trimestre en cours d’exercice. Si l’on reporte ainsi l’adoption d’une convention comptable et que cela donne lieu à une dérogation aux principes comptables généralement reconnus, la direction doit préciser dans le rapport financier trimestrie :",
+    "anchor": "A",
+    "tag": "p"
+  },
+  {
+    "en": "there has been a departure from generally accepted accounting principles;management has elected to reflect the change only in the annual audited financial statements; andthe quarterly financial statements do not include the impact of the new accounting principle.",
+    "fr": "qu’une telle dérogation est survenue;que le changement ne sera pris en compte que dans les états financiers annuels vérifiés; etque les états financiers trimestriels ne reflètent pas le nouveau principe comptable.",
+    "anchor": "A",
+    "tag": "ul"
   },
   {
     "en": "It is up to discretion of management in exercising its responsibility over the quarterly financial statements to determine which financial statement notes are required to explain significant differences in the quarterly results as compared to the previous annual financial statements or quarterly financial reports. It is not necessary to adhere to all disclosure requirements stipulated in accounting standards for interim reports under generally accepted accounting principles. However, the following notes are required in the financial statements:",
-    "fr": "Il appartient à la direction de décider, dans l’exercice de ses responsabilités à l’égard des états financiers trimestriels, quelles sont les notes à joindre aux états financiers pour expliquer les écarts importants des résultats trimestriels par rapport aux états financiers annuels ou rapports financiers trimestriels précédents. Il n’est pas nécessaire de se conformer à toutes les obligations de divulgation énoncées dans les normes comptables pour les rapports intermédiaires en vertu des principes comptables généralement reconnus. Les états financiers doivent toutefois comprendre les notes suivante."
+    "fr": "Il appartient à la direction de décider, dans l’exercice de ses responsabilités à l’égard des états financiers trimestriels, quelles sont les notes à joindre aux états financiers pour expliquer les écarts importants des résultats trimestriels par rapport aux états financiers annuels ou rapports financiers trimestriels précédents. Il n’est pas nécessaire de se conformer à toutes les obligations de divulgation énoncées dans les normes comptables pour les rapports intermédiaires en vertu des principes comptables généralement reconnus. Les états financiers doivent toutefois comprendre les notes suivante.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
-    "en": "A Parent Crown corporation may elect to prepare the quarterly financial statements based on the requirements of 34: (IAS 34). The Statement of Management Responsibility may then state that the quarterly financial statements have been prepared based on IAS 34.",
-    "fr": "Une société d’État mère peut choisir de préparer ses états financiers trimestriels en conformité avec la (IAS 34). On peut alors préciser dans la Déclaration de responsabilité de la direction que les états financiers trimestriels ont été préparés conformément à l’IAS 34."
+    "en": "a message to reader that the quarterly financial statement must be read in conjunction with the most recent annual audited financial statements and with the narrative discussion included in the quarterly financial report;a note describing the basis of presentation of the quarterly financial statements;a statement that the same accounting policies and methods of computation are followed in the quarterly financial statements as compared with the most recent annual financial statements or, if those policies or methods have been changed, a description of the nature and effect of the change;a description of material changes in contingent liabilities or contingent assets since the end of the last annual reporting period;a description of material events subsequent to the end of the fiscal quarter that have not been reflected in the quarterly financial statements; anda narrative discussion of changes in underlying management estimates used in the preparation of the financial statements that have a significant impact on the quarterly results. This discussion can be included in the \"narrative discussion\" portion of the quarterly financial report.",
+    "fr": "un message précisant au lecteur que les états financiers trimestriels doivent être lus conjointement avec les états financiers annuels vérifiés les plus récents ainsi qu’avec le compte rendu faisant partie du rapport financier trimestriel;une note décrivant la base de présentation des états financiers trimestriels;une déclaration indiquant que les méthodes comptables et les modalités de calcul adoptées dans les états financiers trimestriels sont identiques à celles utilisées dans les états financiers annuels les plus récents ou, si elles ont changé, une description de la nature de ces changements et de leur effet;une description des changements importants touchant les passifs ou actifs éventuels depuis la fin de la dernière période annuelle de rapport;une description des événements importants survenus depuis la fin du trimestre qui ne sont pas reflétés dans les états financiers trimestriels; etun compte rendu des changements touchant les estimations sous-jacentes de la direction qui ont servi à préparer les états financiers et qui ont une incidence marquée sur les résultats trimestriels. Cette information peut être incluse dans la section du « compte rend » du rapport financier trimestriel.",
+    "anchor": "A",
+    "tag": "ul"
+  },
+  {
+    "en": "A Parent Crown corporation may elect to prepare the quarterly financial statements based on the requirements of International Accounting Standard 34: Interim Financial Reporting (IAS 34). The Statement of Management Responsibility may then state that the quarterly financial statements have been prepared based on IAS 34.",
+    "fr": "Une société d’État mère peut choisir de préparer ses états financiers trimestriels en conformité avec la Norme comptable international 34 : Information financière intermédiaire (IAS 34). On peut alors préciser dans la Déclaration de responsabilité de la direction que les états financiers trimestriels ont été préparés conformément à l’IAS 34.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
     "en": "As applicable, the quarterly financial statements must be accompanied by a notice indicating that the quarterly financial statements have not been audited or reviewed by an external auditor. The notice could be included in the explanatory notes to the quarterly financial statements or in the attestation by senior officials. Each page of the quarterly financial statements are to be marked as being unaudited.",
-    "fr": "Le cas échéant, les états financiers trimestriels doivent être accompagnés d’une note indiquant qu’ils n’ont pas été vérifiés ou examinés par un vérificateur externe. Cette note doit faire partie des notes explicatives afférentes aux états financiers trimestriels ou de l’attestation des cadres supérieurs. Chaque page des états financiers trimestriels doit porter une mention indiquant qu’il s’agit d’information non vérifiée."
+    "fr": "Le cas échéant, les états financiers trimestriels doivent être accompagnés d’une note indiquant qu’ils n’ont pas été vérifiés ou examinés par un vérificateur externe. Cette note doit faire partie des notes explicatives afférentes aux états financiers trimestriels ou de l’attestation des cadres supérieurs. Chaque page des états financiers trimestriels doit porter une mention indiquant qu’il s’agit d’information non vérifiée.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
     "en": "A summary of the financial statements, as applicable, to be included in the quarterly financial report follows:",
-    "fr": "Voici un aperçu des états financiers à inclure dans le rapport financier trimestriel, selon le cas :"
+    "fr": "Voici un aperçu des états financiers à inclure dans le rapport financier trimestriel, selon le cas :",
+    "anchor": "A",
+    "tag": "p"
+  },
+  {
+    "en": "Statements under IFRSStatements under PSASCurrent fiscal quarterComparativeConsolidated statement of financial positionConsolidated statement of financial positionEnd of current interim periodEnd of immediately preceding financial yearConsolidated statement of profit and loss and other comprehensive incomeConsolidated statement of operationsCurrent interim period and cumulatively for the year-to-dateComparable interim period and year-to-date of immediately preceding financial yearN/AConsolidated statement of remeasurement gains and lossesCumulative for the year-to-dateCumulative for the year-to-dateN/AConsolidated statement of change in net debtCumulative for the year-to-dateCumulative year-to-date of immediately preceding financial yearConsolidated statement of changes in equityN/ACumulative for the year-to-dateCumulative year-to-date of immediately preceding financial yearConsolidated statement of cash flowsConsolidated statement of cash flowCumulative for the year-to-dateCumulative year-to-date of immediately preceding financial yearSelected explanatory notesSelected explanatory notesReflects changes from previous fiscal year end, not restatement of all year-end disclosuresQuantitative comparative information required for all notes presented",
+    "fr": "États financiers selon les IFRSÉtats financiers selon les NCSPTrimestre en coursDonnées comparativesÉtat consolidé de la situation financièreÉtat consolidé de la situation financièreFin de la période intermédiaire en coursFin de l’exercice précédentÉtat consolidé du résultat net et des autres éléments du résultat globalÉtat consolidé des résultatsPériode intermédiaire en cours et cumul de l’exercice en coursPériode intermédiaire équivalente et cumul de l’exercice précédentS.O.État consolidé des gains et pertes de réévaluationCumul de l’exercice en coursCumul de l’exercice en coursS.O.État consolidé de la variation de la dette netteCumul de l’exercice en coursCumul de l’exercice précédentÉtat consolidé des variations des capitaux propresS.O.Cumul de l’exercice en coursCumul de l’exercice précédentÉtat consolidé des flux de trésorerieÉtat consolidé des flux de trésorerieCumul de l’exercice en coursCumul de l’exercice précédentNotes explicatives choisiesNotes explicatives choisiesMise en évidence des changements par rapport à l’exercice précédent; n’est pas une répétition des divulgations de fin d’exerciceDes données quantitatives comparatives doivent être fournies à l’égard de toutes les notes présentées",
+    "anchor": "A",
+    "tag": "table"
   },
   {
     "en": "It is not necessary to duplicate information that is included in the Management Discussion and Analysis section of the Annual Report in the quarterly report’s narrative discussion. Unless otherwise updated, information disclosed in the Management Discussion and Analysis is assumed to apply to the quarter. The use of graphics is highly recommended in this section.",
-    "fr": "Il n’est pas nécessaire d’inclure dans le compte rendu du rapport trimestriel les renseignements déjà présentés à la section de l’analyse de la direction du rapport annuel. On tient pour acquis que les renseignements fournis dans l’analyse de la direction s’appliquent au trimestre, à moins que des mises à jour aient été apportées. Pour cette section, l’utilisation de graphiques est fortement recommandée."
+    "fr": "Il n’est pas nécessaire d’inclure dans le compte rendu du rapport trimestriel les renseignements déjà présentés à la section de l’analyse de la direction du rapport annuel. On tient pour acquis que les renseignements fournis dans l’analyse de la direction s’appliquent au trimestre, à moins que des mises à jour aient été apportées. Pour cette section, l’utilisation de graphiques est fortement recommandée.",
+    "anchor": "B",
+    "tag": "p"
   },
   {
     "en": "The quarterly financial report must include a discussion of financial results for the reporting period and year-to-date, the cash flow for the year-to-date and financial position at the end of the period. An explanation of significant differences between the actual financial results compared to those anticipated in the related entities Corporate Plan Summary and those communicated in previous quarterly financial reports is to be included. If goals, objectives or financial results are revised, a rationale for the changes should be discussed as well as actual performance relative to the revised goals, objectives or targets for the remainder of the year.",
-    "fr": "Le rapport financier trimestriel doit comprendre un compte rendu des résultats financiers pour la période visée et le cumul de l’exercice, les flux de trésorerie depuis le début de l’exercice, ainsi que la situation financière à la fin de la période. Le rapport doit expliquer les différences importantes entre les résultats financiers réels et ceux prévus dans le résumé du plan d’entreprise des entités apparentées et ceux communiqués dans les rapports financiers trimestriels précédents. Si des modifications sont apportées aux buts, aux objectifs et aux résultats financiers, il faut commenter ces modifications, et énoncer les résultats réels en lien avec les buts, les objectifs ou les cibles révisés pour le reste de l’exercice."
+    "fr": "Le rapport financier trimestriel doit comprendre un compte rendu des résultats financiers pour la période visée et le cumul de l’exercice, les flux de trésorerie depuis le début de l’exercice, ainsi que la situation financière à la fin de la période. Le rapport doit expliquer les différences importantes entre les résultats financiers réels et ceux prévus dans le résumé du plan d’entreprise des entités apparentées et ceux communiqués dans les rapports financiers trimestriels précédents. Si des modifications sont apportées aux buts, aux objectifs et aux résultats financiers, il faut commenter ces modifications, et énoncer les résultats réels en lien avec les buts, les objectifs ou les cibles révisés pour le reste de l’exercice.",
+    "anchor": "C",
+    "tag": "p"
   },
   {
     "en": "Examples of results to be reported are the following:",
-    "fr": "Voici quelques exemples de résultats dont on doit faire état :"
+    "fr": "Voici quelques exemples de résultats dont on doit faire état :",
+    "anchor": "C",
+    "tag": "p"
+  },
+  {
+    "en": "Explanation of significant variances including analysis of significant trends related to increases and/or decreases in total revenues and expenses compared to the same periods from the previous fiscal year (quarter and year-to-date).Explanation of anticipated deviations of annual results as compared to the Corporate Plan Summary, based on actual results to-date, if meaningful.Explanation of significant changes to goals, objectives or financial results as compared to the Corporate Plan Summary that may impact the current and future quarters of the fiscal year.",
+    "fr": "expliquer les variations importantes liées aux hausses ou baisses de l’ensemble des revenus et des dépenses, y compris l’analyse des tendances significatives comparativement aux mêmes périodes de l’exercice précédent (trimestres et cumul);expliquer les écarts prévus des résultats annuels par rapport au résumé du plan d’entreprise d’après le cumul des résultats, lorsque ces écarts sont significatifs;expliquer toute modification importante apportée aux buts, aux objectifs ou aux résultats financiers par rapport au résumé du plan d’entreprise qui risquerait d’influer sur le trimestre en cours et sur les prochains trimestres de l’exercice.",
+    "anchor": "C",
+    "tag": "ul"
   },
   {
     "en": "The narrative discussion should update the financial risks discussed in the annual Management Discussion and Analysis, if included in the Annual Report, the Corporate Plan Summary, and previous quarterly financial reports. It should also briefly outline the strategies adopted to manage any significant new risks and uncertainties not discussed in the prior Annual Report or Corporate Plan Summary.",
-    "fr": "Le compte rendu doit faire le point sur les risques financiers cités dans l’analyse annuelle de la direction, si celle-ci fait partie du rapport annuel, du résumé du plan d’entreprise et des rapports financiers trimestriels antérieurs. On doit également y énoncer brièvement les stratégies adoptées pour gérer les incertitudes et les risques importants qui n’ont pas été commentés dans le rapport annuel ou dans le résumé du plan d’entreprise précédent."
+    "fr": "Le compte rendu doit faire le point sur les risques financiers cités dans l’analyse annuelle de la direction, si celle-ci fait partie du rapport annuel, du résumé du plan d’entreprise et des rapports financiers trimestriels antérieurs. On doit également y énoncer brièvement les stratégies adoptées pour gérer les incertitudes et les risques importants qui n’ont pas été commentés dans le rapport annuel ou dans le résumé du plan d’entreprise précédent.",
+    "anchor": "D",
+    "tag": "p"
   },
   {
     "en": "Examples of factors which may be discussed include, but are not restricted to:",
-    "fr": "Voici quelques exemples de facteurs qui peuvent être commentés :"
+    "fr": "Voici quelques exemples de facteurs qui peuvent être commentés :",
+    "anchor": "D",
+    "tag": "p"
+  },
+  {
+    "en": "Internal restructuring;Human resource challenges and key actions;Changing economic, technological, social, or political conditions;New or changing policies or government-wide priorities which impact the parent Crown corporation;Reliance or dependence on key partners, clients, or stakeholders;Changes to the type and nature of financial instruments used to manage financial risks; andChanges in patterns of demand for goods and services.",
+    "fr": "restructuration interne;défis et principales mesures touchant les ressources humaines;évolution des conditions économiques, technologiques, sociales ou politiques;évolution des politiques ou des priorités pangouvernementales touchant les sociétés d’État mères;recours à des partenaires, à des clients ou à des parties prenantes clés ou dépendance à leur endroit;changements touchant la catégorie et la nature des instruments financiers servant à gérer le risque financier;évolution des tendances touchant la demande de biens et de services.",
+    "anchor": "D",
+    "tag": "ul"
   },
   {
     "en": "The quarterly financial report must provide information to the reader about significant and material changes which occurred during the current quarter, related to operations, personnel and programs of the parent Crown corporation and its wholly-owned subsidiaries. Potential financial impact of the significant changes should be discussed, where applicable.",
-    "fr": "Le rapport financier trimestriel doit fournir des renseignements sur les changements importants survenus pendant le trimestre en cours en ce qui concerne les activités, le personnel et les programmes de la société d’État mère et de ses filiales en propriété exclusive. Il faut, s’il y a lieu, commenter les effets financiers de ces changements importants."
+    "fr": "Le rapport financier trimestriel doit fournir des renseignements sur les changements importants survenus pendant le trimestre en cours en ce qui concerne les activités, le personnel et les programmes de la société d’État mère et de ses filiales en propriété exclusive. Il faut, s’il y a lieu, commenter les effets financiers de ces changements importants.",
+    "anchor": "E",
+    "tag": "p"
   },
   {
     "en": "Parent Crown corporations that receive an appropriation must include in the quarterly financial report the following information:",
-    "fr": "Les sociétés d’État mères qui reçoivent des crédits doivent fournir les renseignements suivants dans leur rapport financier trimestriel :"
+    "fr": "Les sociétés d’État mères qui reçoivent des crédits doivent fournir les renseignements suivants dans leur rapport financier trimestriel :",
+    "anchor": "F",
+    "tag": "p"
+  },
+  {
+    "en": "the total amount of appropriation received and receivable;the amount of appropriation recognized in net income or loss, in total and by nature of appropriation (as per categories found in the Main Estimates and Supplementary Estimates), as well as an indication of where the amounts are recorded or presented in the consolidated statement of operations (profit and loss), if not evident for the reader;a reconciliation of the amount of appropriation received and receivable to the amount of appropriation used. If a Crown corporation is unable to state that appropriations received or receivable were actually used, it must provide a brief explanation of how appropriations are managed including why the appropriations were deferred and when the deferred appropriations will be used;a reconciliation of the beginning and ending balances of deferred appropriation received, showing separately the amount of appropriation received and the amortization recognized; anda reconciliation of the beginning and ending balances of appropriation netted against capital assets, showing separately the amount of appropriation received and the amortization recognized.",
+    "fr": "le montant total des crédits reçus ou à recevoir;le montant des crédits imputés aux résultats de l’exercice, au total et selon la catégorie (dans le Budget principal des dépenses et le Budget supplémentaire des dépenses) ainsi qu’une indication de l’endroit où ces montants sont comptabilisés ou présentés dans l’état consolidé des résultats (profits et pertes), si cette information n’est pas clairement indiquée ailleurs pour le lecteur;un rapprochement du crédit reçu ou à recevoir et du montant de crédit utilisé. Si une société d’État ne peut établir que les crédits reçus ou à recevoir ont été utilisés, elle doit fournir une courte explication de la manière dont les crédits sont gérés, notamment la manière dont les crédits ont été reportés et le moment où ils seront utilisés;un rapprochement des soldes d’ouverture et de clôture des crédits reportés, montrant séparément les crédits reçus et l’amortissement constaté;un rapprochement des soldes d’ouverture et de clôture des crédits, déduction faite des immobilisations, montrant séparément les crédits reçus et l’amortissement constaté.",
+    "anchor": "F",
+    "tag": "ul"
   },
   {
     "en": "The information must be prepared on the basis of the corporation’s fiscal quarter and year-to-date, including comparatives.",
-    "fr": "L’information doit être établie pour le trimestre et le cumul de l’exercice de la société, sans oublier les données comparatives."
+    "fr": "L’information doit être établie pour le trimestre et le cumul de l’exercice de la société, sans oublier les données comparatives.",
+    "anchor": "F",
+    "tag": "p"
   },
   {
     "en": "Since appropriations are granted based on an April 1 to March 31 fiscal year, parent Crown corporations must disclose the amount of appropriation authorized by Parliament as available for use in each of the Government of Canada fiscal years (consistent with the Main Estimates and Supplementary Estimates), showing the portion recognized in the corporation’s previous year-end and the portion deferred to the corporation’s subsequent quarters to arrive at the portion available for the corporation’s current fiscal year-to-date.",
-    "fr": "Étant donné que les crédits sont accordés en fonction d’un exercice qui court du 1er avril au 31 mars, les sociétés d’État mères doivent faire état des crédits accordés par le Parlement et disponibles lors de chaque exercice de l’administration fédérale (en conformité avec le Budget principal des dépenses et le Budget supplémentaire des dépenses), en précisant le montant constaté lors de l’exercice précédent de la société et celui reporté aux trimestres subséquents de la société, de manière à obtenir le montant applicable au cumul de l’exercice courant de la société."
+    "fr": "Étant donné que les crédits sont accordés en fonction d’un exercice qui court du 1er avril au 31 mars, les sociétés d’État mères doivent faire état des crédits accordés par le Parlement et disponibles lors de chaque exercice de l’administration fédérale (en conformité avec le Budget principal des dépenses et le Budget supplémentaire des dépenses), en précisant le montant constaté lors de l’exercice précédent de la société et celui reporté aux trimestres subséquents de la société, de manière à obtenir le montant applicable au cumul de l’exercice courant de la société.",
+    "anchor": "F",
+    "tag": "p"
+  },
+  {
+    "en": "The quarterly financial report must include the following statement signed by the appropriate senior officials within the parent Crown corporation, usually the President and the Chief Financial Officer.",
+    "fr": "Le rapport financier trimestriel doit comprendre la déclaration suivante, signée par les cadres supérieurs compétents de la société d’État mère (en général le président et le dirigeant principal des finances) :",
+    "anchor": "G",
+    "tag": "p"
   },
   {
     "en": "Management is responsible for the preparation and fair presentation of these (consolidated) quarterly financial statements in accordance with the Treasury Board of Canada’s Directive on Accounting Standards: GC 5200 Crown Corporations Quarterly Financial Reports, and for such internal controls as management determines is necessary to enable the preparation of (consolidated) quarterly financial statements that are free from material misstatement. Management is also responsible for ensuring all other information in this quarterly financial report is consistent, where appropriate, with the (consolidated) quarterly financial statements.",
-    "fr": "La direction est responsable de la préparation et de la présentation fidèle de ces états financiers trimestriels (consolidés) conformément à la Directive du Conseil du Trésor du Canada sur les normes comptable : GC 5200 Rapports financiers trimestriels des sociétés d’État, ainsi que des contrôles internes qu’elle considère comme nécessaires pour permettre la préparation d’états financiers trimestriels (consolidés) exempts d’anomalies significatives. La direction est également responsable de veiller à ce que tous les autres renseignements fournis dans ce rapport financier trimestriel concordent, s’il y a lieu, avec les états financiers trimestriels (consolidés)."
+    "fr": "La direction est responsable de la préparation et de la présentation fidèle de ces états financiers trimestriels (consolidés) conformément à la Directive du Conseil du Trésor du Canada sur les normes comptable : GC 5200 Rapports financiers trimestriels des sociétés d’État, ainsi que des contrôles internes qu’elle considère comme nécessaires pour permettre la préparation d’états financiers trimestriels (consolidés) exempts d’anomalies significatives. La direction est également responsable de veiller à ce que tous les autres renseignements fournis dans ce rapport financier trimestriel concordent, s’il y a lieu, avec les états financiers trimestriels (consolidés).",
+    "anchor": "G",
+    "tag": "p"
   },
   {
     "en": "Based on our knowledge, these unaudited (consolidated) quarterly financial statements present fairly, in all material respects, the financial position, results of operations and cash flows of the corporation, as at the date of and for the periods presented in the (consolidated) quarterly financial statements.",
-    "fr": "À notre connaissance, ces états financiers trimestriels (consolidés) non vérifiés donnent, dans tous leurs aspects significatifs, une image fidèle de la situation financière, des résultats d’exploitation et des flux de trésorerie de la société, à la date et pour les périodes visées dans les états financiers trimestriels (consolidés)."
+    "fr": "À notre connaissance, ces états financiers trimestriels (consolidés) non vérifiés donnent, dans tous leurs aspects significatifs, une image fidèle de la situation financière, des résultats d’exploitation et des flux de trésorerie de la société, à la date et pour les périodes visées dans les états financiers trimestriels (consolidés).",
+    "anchor": "G",
+    "tag": "p"
   },
   {
-    "en": "Name, Chief Executive Officer (e.g. President)",
-    "fr": "Nom, premier dirigeant (p. ex., président)"
+    "en": "Name, Chief Executive Officer (e.g. President)(City where signed, e.g, Ottawa, Canada)(Date signed)Name, Chief Financial Officer",
+    "fr": "Nom, premier dirigeant (p. ex., président)(Ville où le document est signé, p. ex., Ottawa, Canada)(Date de la signature)Nom, dirigeant principal des finances",
+    "anchor": "G",
+    "tag": "section"
   },
   {
-    "en": "(City where signed, e.g, Ottawa, Canada) (Date signed)",
-    "fr": "(Ville où le document est signé, p. ex., Ottawa, Canada) (Date de la signature)"
-  },
-  {
-    "en": "Name, Chief Financial Officer",
-    "fr": "Nom, dirigeant principal des finances"
-  },
-  {
-    "en": "If the Crown corporation has elected to prepare the quarterly financial statements in accordance with 34: , this standard may be referred to instead of the",
-    "fr": "Si la société d’État a choisi de préparer les états financiers trimestriels conformément à la , elle peut faire référence à cette norme à la place de la « »."
-  },
-  {
-    "en": "there has been a departure from generally accepted accounting principles;",
-    "fr": "qu’une telle dérogation est survenue;"
-  },
-  {
-    "en": "management has elected to reflect the change only in the annual audited financial statements; and",
-    "fr": "que le changement ne sera pris en compte que dans les états financiers annuels vérifiés; et"
-  },
-  {
-    "en": "the quarterly financial statements do not include the impact of the new accounting principle.",
-    "fr": "que les états financiers trimestriels ne reflètent pas le nouveau principe comptable."
-  },
-  {
-    "en": "a message to reader that the quarterly financial statement must be read in conjunction with the most recent annual audited financial statements and with the narrative discussion included in the quarterly financial report;",
-    "fr": "un message précisant au lecteur que les états financiers trimestriels doivent être lus conjointement avec les états financiers annuels vérifiés les plus récents ainsi qu’avec le compte rendu faisant partie du rapport financier trimestriel;"
-  },
-  {
-    "en": "a note describing the basis of presentation of the quarterly financial statements;",
-    "fr": "une note décrivant la base de présentation des états financiers trimestriels;"
-  },
-  {
-    "en": "a statement that the same accounting policies and methods of computation are followed in the quarterly financial statements as compared with the most recent annual financial statements or, if those policies or methods have been changed, a description of the nature and effect of the change;",
-    "fr": "une déclaration indiquant que les méthodes comptables et les modalités de calcul adoptées dans les états financiers trimestriels sont identiques à celles utilisées dans les états financiers annuels les plus récents ou, si elles ont changé, une description de la nature de ces changements et de leur effet;"
-  },
-  {
-    "en": "a description of material changes in contingent liabilities or contingent assets since the end of the last annual reporting period;",
-    "fr": "une description des changements importants touchant les passifs ou actifs éventuels depuis la fin de la dernière période annuelle de rapport;"
-  },
-  {
-    "en": "a description of material events subsequent to the end of the fiscal quarter that have not been reflected in the quarterly financial statements; and",
-    "fr": "une description des événements importants survenus depuis la fin du trimestre qui ne sont pas reflétés dans les états financiers trimestriels; et"
-  },
-  {
-    "en": "a narrative discussion of changes in underlying management estimates used in the preparation of the financial statements that have a significant impact on the quarterly results. This discussion can be included in the \"narrative discussion\" portion of the quarterly financial report.",
-    "fr": "un compte rendu des changements touchant les estimations sous-jacentes de la direction qui ont servi à préparer les états financiers et qui ont une incidence marquée sur les résultats trimestriels. Cette information peut être incluse dans la section du « compte rend » du rapport financier trimestriel."
-  },
-  {
-    "en": "Explanation of significant variances including analysis of significant trends related to increases and/or decreases in total revenues and expenses compared to the same periods from the previous fiscal year (quarter and year-to-date).",
-    "fr": "expliquer les variations importantes liées aux hausses ou baisses de l’ensemble des revenus et des dépenses, y compris l’analyse des tendances significatives comparativement aux mêmes périodes de l’exercice précédent (trimestres et cumul);"
-  },
-  {
-    "en": "Explanation of anticipated deviations of annual results as compared to the Corporate Plan Summary, based on actual results to-date, if meaningful.",
-    "fr": "expliquer les écarts prévus des résultats annuels par rapport au résumé du plan d’entreprise d’après le cumul des résultats, lorsque ces écarts sont significatifs;"
-  },
-  {
-    "en": "Explanation of significant changes to goals, objectives or financial results as compared to the Corporate Plan Summary that may impact the current and future quarters of the fiscal year.",
-    "fr": "expliquer toute modification importante apportée aux buts, aux objectifs ou aux résultats financiers par rapport au résumé du plan d’entreprise qui risquerait d’influer sur le trimestre en cours et sur les prochains trimestres de l’exercice."
-  },
-  {
-    "en": "Internal restructuring;",
-    "fr": "restructuration interne;"
-  },
-  {
-    "en": "Human resource challenges and key actions;",
-    "fr": "défis et principales mesures touchant les ressources humaines;"
-  },
-  {
-    "en": "Changing economic, technological, social, or political conditions;",
-    "fr": "évolution des conditions économiques, technologiques, sociales ou politiques;"
-  },
-  {
-    "en": "New or changing policies or government-wide priorities which impact the parent Crown corporation;",
-    "fr": "évolution des politiques ou des priorités pangouvernementales touchant les sociétés d’État mères;"
-  },
-  {
-    "en": "Reliance or dependence on key partners, clients, or stakeholders;",
-    "fr": "recours à des partenaires, à des clients ou à des parties prenantes clés ou dépendance à leur endroit;"
-  },
-  {
-    "en": "Changes to the type and nature of financial instruments used to manage financial risks; and",
-    "fr": "changements touchant la catégorie et la nature des instruments financiers servant à gérer le risque financier;"
-  },
-  {
-    "en": "Changes in patterns of demand for goods and services.",
-    "fr": "évolution des tendances touchant la demande de biens et de services."
-  },
-  {
-    "en": "the total amount of appropriation received and receivable;",
-    "fr": "le montant total des crédits reçus ou à recevoir;"
-  },
-  {
-    "en": "the amount of appropriation recognized in net income or loss, in total and by nature of appropriation (as per categories found in the Main Estimates and Supplementary Estimates), as well as an indication of where the amounts are recorded or presented in the consolidated statement of operations (profit and loss), if not evident for the reader;",
-    "fr": "le montant des crédits imputés aux résultats de l’exercice, au total et selon la catégorie (dans le Budget principal des dépenses et le Budget supplémentaire des dépenses) ainsi qu’une indication de l’endroit où ces montants sont comptabilisés ou présentés dans l’état consolidé des résultats (profits et pertes), si cette information n’est pas clairement indiquée ailleurs pour le lecteur;"
-  },
-  {
-    "en": "a reconciliation of the amount of appropriation received and receivable to the amount of appropriation used. If a Crown corporation is unable to state that appropriations received or receivable were actually used, it must provide a brief explanation of how appropriations are managed including why the appropriations were deferred and when the deferred appropriations will be used;",
-    "fr": "un rapprochement du crédit reçu ou à recevoir et du montant de crédit utilisé. Si une société d’État ne peut établir que les crédits reçus ou à recevoir ont été utilisés, elle doit fournir une courte explication de la manière dont les crédits sont gérés, notamment la manière dont les crédits ont été reportés et le moment où ils seront utilisés;"
-  },
-  {
-    "en": "a reconciliation of the beginning and ending balances of deferred appropriation received, showing separately the amount of appropriation received and the amortization recognized; and",
-    "fr": "un rapprochement des soldes d’ouverture et de clôture des crédits reportés, montrant séparément les crédits reçus et l’amortissement constaté;"
-  },
-  {
-    "en": "a reconciliation of the beginning and ending balances of appropriation netted against capital assets, showing separately the amount of appropriation received and the amortization recognized.",
-    "fr": "un rapprochement des soldes d’ouverture et de clôture des crédits, déduction faite des immobilisations, montrant séparément les crédits reçus et l’amortissement constaté."
+    "en": "If the Crown corporation has elected to prepare the quarterly financial statements in accordance with IAS 34: Interim Financial Reporting, this standard may be referred to instead of the “Treasury Board of Canada’s Directive on Accounting Standards: GC 5200 Crown Corporations Quarterly Financial Reports”",
+    "fr": "Si la société d’État a choisi de préparer les états financiers trimestriels conformément à la Norme comptable internationale (IAS) 34 : Information financière intermédiaire, elle peut faire référence à cette norme à la place de la « Directive du Conseil du Trésor du Canada sur les normes comptable. : G. 5200 Rapports financiers trimestriels des sociétés d’État ».",
+    "anchor": "fn1",
+    "tag": "p"
   }
 ]

@@ -1,250 +1,140 @@
 [
   {
     "en": "The Treasury Board of Canada Secretariat (TBS) has developed this guidance to help program officials, policy analysts, evaluators and performance measurement practitioners improve measurement, evaluation, and reporting by strengthening results activities through data linking. It includes a step-by-step process for measuring impacts using this approach. The use of data linking can ensure access to high-quality data to measure impacts while protecting privacy.",
-    "fr": "Le Secrétariat du Conseil du Trésor du Canada (SCT) a élaboré la présente orientation pour aider les responsables de programme, les analystes de politiques, les évaluateurs et les praticiens de la mesure du rendement à améliorer la mesure, l’évaluation et la production de rapports en renforçant les activités produisant des résultats grâce au couplage de données. Ce document comprend un processus détaillé permettant de mesurer les répercussions des activités au moyen cette façon de faire. L’utilisation du couplage de données permet d’obtenir des données de grande qualité qui serviront à mesurer les répercussions des activités tout en protégeant la vie privée."
+    "fr": "Le Secrétariat du Conseil du Trésor du Canada (SCT) a élaboré la présente orientation pour aider les responsables de programme, les analystes de politiques, les évaluateurs et les praticiens de la mesure du rendement à améliorer la mesure, l’évaluation et la production de rapports en renforçant les activités produisant des résultats grâce au couplage de données. Ce document comprend un processus détaillé permettant de mesurer les répercussions des activités au moyen cette façon de faire. L’utilisation du couplage de données permet d’obtenir des données de grande qualité qui serviront à mesurer les répercussions des activités tout en protégeant la vie privée.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
     "en": "In particular, this guidance:",
-    "fr": "Plus précisément, le présent document d’orientation :"
+    "fr": "Plus précisément, le présent document d’orientation :",
+    "anchor": "A",
+    "tag": "p"
+  },
+  {
+    "en": "supports program officials, appointed by deputy heads under the Treasury Board Policy on Results, in collecting and using valid and reliable performance data, as set out in section 4 of the Directive on Resultsenables departments to support government-wide reporting of program impacts on gender and diversity as set out in the Canadian Gender Budgeting Act",
+    "fr": "appuie les responsables de programme nommés par les administrateurs généraux, conformément à la Politique sur les résultats du Conseil du Trésor, dans la collecte et l’utilisation de données valides et fiables sur le rendement, comme défini à la section 4 de la Directive sur les résultats;permet aux ministères de faciliter la production de rapports à l’échelle du gouvernement sur les répercussions des programmes sur le genre et la diversité, conformément à la Loi canadienne sur la budgétisation sensible aux sexes.",
+    "anchor": "A",
+    "tag": "ul"
   },
   {
     "en": "When a program serves individuals or businesses, TBS recommends that the program’s enabling authorities be developed to allow for the collection of identifying data. These identifiers can help link program data to anonymized tax, benefits or other data managed by Statistics Canada. Departments are strongly encouraged to explore these avenues prior to seeking authorities for new or existing programs through budget proposals, memoranda to Cabinet or Treasury Board submissions.",
-    "fr": "Lorsqu’un programme offre des services à des particuliers ou à des entreprises, le SCT recommande que ses pouvoirs habilitants soient définis de façon à permettre la collecte de données d’identification. Ces identifiants peuvent faciliter le couplage des données relatives au programme avec des données anonymisées sur l’impôt ou les prestations, par exemple, qui sont gérées par Statistique Canada. On encourage fortement les ministères à envisager cette démarche avant de demander des autorisations pour des programmes nouveaux ou existants au moyen de propositions budgétaires, de mémoires au Cabinet ou de présentations au Conseil du Trésor."
+    "fr": "Lorsqu’un programme offre des services à des particuliers ou à des entreprises, le SCT recommande que ses pouvoirs habilitants soient définis de façon à permettre la collecte de données d’identification. Ces identifiants peuvent faciliter le couplage des données relatives au programme avec des données anonymisées sur l’impôt ou les prestations, par exemple, qui sont gérées par Statistique Canada. On encourage fortement les ministères à envisager cette démarche avant de demander des autorisations pour des programmes nouveaux ou existants au moyen de propositions budgétaires, de mémoires au Cabinet ou de présentations au Conseil du Trésor.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
-    "en": "It is worth noting that the authority for an institution to implement a program or activity also includes authority to carry out monitoring and evaluation in most cases. The authority to collect and use data in accordance with the must, however, be confirmed by the departmental legal services unit.",
-    "fr": "Il convient de mentionner le pouvoir de mettre en œuvre un programme ou une activité qui est conféré à une institution s’accompagne, dans la plupart des cas, du pouvoir d’en assurer la surveillance et l’évaluation. Toutefois, conformément à la , l’unité des services juridiques du ministère doit confirmer que ce dernier dispose bien du pouvoir de recueillir et d’utiliser des données."
+    "en": "It is worth noting that the authority for an institution to implement a program or activity also includes authority to carry out monitoring and evaluation in most cases. The authority to collect and use data in accordance with the Privacy Act must, however, be confirmed by the departmental legal services unit.",
+    "fr": "Il convient de mentionner le pouvoir de mettre en œuvre un programme ou une activité qui est conféré à une institution s’accompagne, dans la plupart des cas, du pouvoir d’en assurer la surveillance et l’évaluation. Toutefois, conformément à la Loi sur la protection des renseignements personnels, l’unité des services juridiques du ministère doit confirmer que ce dernier dispose bien du pouvoir de recueillir et d’utiliser des données.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
-    "en": "See examples of how data linking has made it possible to report on impacts in .",
-    "fr": "Des exemples de la façon dont le couplage de données a permis de rendre compte de répercussions figurent à l’ ."
+    "en": "See examples of how data linking has made it possible to report on impacts in Appendix A.",
+    "fr": "Des exemples de la façon dont le couplage de données a permis de rendre compte de répercussions figurent à l’annexe A.",
+    "anchor": "A",
+    "tag": "p"
   },
   {
-    "en": "Data linking involves combining administrative program data with other sources of data to enable more detailed analyses than would be possible with just the original data set.",
-    "fr": "Le couplage de données consiste à combiner des données administratives de programmes avec d’autres sources de données pour permettre des analyses plus détaillées que celles que l’on obtiendrait seulement avec l’ensemble original de données ."
+    "en": "Data linking involves combining administrative program data with other sources of data to enable more detailed analyses than would be possible with just the original data set.Footnote 1",
+    "fr": "Le couplage de données consiste à combiner des données administratives de programmes avec d’autres sources de données pour permettre des analyses plus détaillées que celles que l’on obtiendrait seulement avec l’ensemble original de donnéesVoir la note en bas de page 1.",
+    "anchor": "B",
+    "tag": "p"
   },
   {
-    "en": "To enable effective program administration, departments collect program-related data from individuals or businesses. Statistics Canada also collects other information on these individuals and businesses, such as income or geographical data, often from other governmental institutions (for instance, from income tax returns, immigration records and employment insurance records). In fact, Statistics Canada may have a lot of information on individuals that, when anonymized to protect privacy, could allow disaggregation of socio-economic outcomes by gender and diversity factors. This is essential for effective results management and also supports reporting under the .",
-    "fr": "Afin de permettre une administration efficace des programmes, les ministères recueillent des données liées aux programmes auprès de particuliers et d’entreprises. Statistique Canada recueille également d’autres renseignements sur ces particuliers et ces entreprises, comme des données sur le revenu ou sur l’emplacement géographique, souvent auprès d’autres institutions gouvernementales (par exemple, des déclarations de revenus, des dossiers d’immigration et des dossiers d’assurance-emploi). En fait, Statistique Canada pourrait posséder beaucoup de renseignements sur les particuliers qui, une fois anonymisés aux fins de la protection des renseignements personnels, permettraient de désagréger les résultats socio-économiques selon des facteurs liés au genre et à la diversité. Cette démarche est essentielle pour assurer une gestion efficace des résultats et facilite la production de rapports en vertu de la ."
+    "en": "To enable effective program administration, departments collect program-related data from individuals or businesses. Statistics Canada also collects other information on these individuals and businesses, such as income or geographical data, often from other governmental institutions (for instance, from income tax returns, immigration records and employment insurance records). In fact, Statistics Canada may have a lot of information on individuals that, when anonymized to protect privacy, could allow disaggregation of socio-economic outcomes by gender and diversity factors. This is essential for effective results management and also supports reporting under the Canadian Gender Budgeting Act.",
+    "fr": "Afin de permettre une administration efficace des programmes, les ministères recueillent des données liées aux programmes auprès de particuliers et d’entreprises. Statistique Canada recueille également d’autres renseignements sur ces particuliers et ces entreprises, comme des données sur le revenu ou sur l’emplacement géographique, souvent auprès d’autres institutions gouvernementales (par exemple, des déclarations de revenus, des dossiers d’immigration et des dossiers d’assurance-emploi). En fait, Statistique Canada pourrait posséder beaucoup de renseignements sur les particuliers qui, une fois anonymisés aux fins de la protection des renseignements personnels, permettraient de désagréger les résultats socio-économiques selon des facteurs liés au genre et à la diversité. Cette démarche est essentielle pour assurer une gestion efficace des résultats et facilite la production de rapports en vertu de la Loi canadienne sur la budgétisation sensible aux sexes.",
+    "anchor": "B",
+    "tag": "p"
   },
   {
     "en": "Pursuing data linking with Statistics Canada significantly expands the potential for program analysis of gender and diversity factors while minimizing the burden of new data collection. As well, through Statistics Canada, the linking happens in a protected environment (with appropriate anonymization, which reduces privacy risks). Statistics Canada has various linkage services, including:",
-    "fr": "Le couplage de données avec celles de Statistique Canada accroît considérablement le potentiel d’analyse des facteurs liés au genre et à la diversité qui se rapportent à un programme, tout en réduisant au minimum le fardeau lié à la collecte de nouvelles données. En outre, le couplage se fait, par l’intermédiaire de Statistique Canada, dans un environnement protégé (avec une anonymisation appropriée, ce qui réduit les risques liés à la protection des renseignements personnels). Statistique Canada offre divers services de couplage, y compris :"
+    "fr": "Le couplage de données avec celles de Statistique Canada accroît considérablement le potentiel d’analyse des facteurs liés au genre et à la diversité qui se rapportent à un programme, tout en réduisant au minimum le fardeau lié à la collecte de nouvelles données. En outre, le couplage se fait, par l’intermédiaire de Statistique Canada, dans un environnement protégé (avec une anonymisation appropriée, ce qui réduit les risques liés à la protection des renseignements personnels). Statistique Canada offre divers services de couplage, y compris :",
+    "anchor": "B",
+    "tag": "p"
   },
   {
-    "en": "However, a number of steps are required to enable this work. These steps are provided in .",
-    "fr": "Toutefois, un certain nombre d’étapes doivent être suivies pour que le couplage de données puisse être mené à bien. Ces étapes figurent à la ."
+    "en": "the Social Data Linkage Environment to link data on individualsthe Business Linkage File Environment to link business dataa range of existing linkage platforms (for example, the Canadian Employer-Employee Dynamics Database and the Education and Labour Market Longitudinal Platform) and linked databases accessible to federal department partners",
+    "fr": "l’Environnement de couplage de données sociales pour coupler des données sur les particuliers;l’Environnement de fichiers couplables pour coupler les données sur les entreprises;un éventail de plateformes de couplage existantes (par exemple, la Base de données canadienne sur la dynamique employeurs-employés et la Plateforme longitudinale entre l’éducation et le marché du travail) et de bases de données associées accessibles aux partenaires des ministères fédéraux.",
+    "anchor": "B",
+    "tag": "ul"
   },
   {
-    "en": "While this guidance focuses on how to implement data linking, it also refers to what data linking can be used for. Indeed, to ensure compliance with section 4 of the , impact reporting plans need to be considered in the early stages of program and policy development. These plans, along with supporting data activities, are to be developed so that departments are clear on how they will assess success as set out in section 3 of the Treasury Board . To do so, program leads are encouraged to consult early in the process with departmental leads in data management, as well as with the department’s and . These latter officials will help define what data requirements are for the department and for specific programs. Program officials may also benefit from involving Statistics Canada at this early stage.",
-    "fr": "Alors que le présent document d’orientation porte principalement sur la façon de procéder au couplage de données, il traite également de ses applications. Conformément à la section 4 de la , des plans de production de rapports sur les répercussions doivent être envisagés dès les premières étapes de l’élaboration de programmes et de politiques. Ces plans, ainsi que les activités connexes liées aux données, doivent être définis de manière à ce que les ministères sachent précisément la façon dont ils doivent procéder pour évaluer leur rendement, comme établi à la section 3 de la du Conseil du Trésor. Pour ce faire, nous invitons les responsables de programme à consulter, dès le début du processus, les responsables ministériels de la gestion des données ainsi que le et le du ministère. Ces derniers aideront à définir les exigences relatives aux données pour le ministère et des programmes précis. Il pourrait aussi être avantageux pour les responsables de programme de consulter Statistique Canada dès les premières étapes."
+    "en": "However, a number of steps are required to enable this work. These steps are provided in Section D.",
+    "fr": "Toutefois, un certain nombre d’étapes doivent être suivies pour que le couplage de données puisse être mené à bien. Ces étapes figurent à la section D.",
+    "anchor": "B",
+    "tag": "p"
   },
   {
-    "en": "Reporting on gender and diversity impacts generally involves personal information. Within their authorities, as set out in section 4 of the , program officials must recognize their responsibility as stewards of Canadians’; personal information and be seen to be good stewards. Program officials must be clear on what information requirements they have and for what purpose they are collecting that information. As set out in section 4 of the , they must update the program’s Performance Information Profile accordingly.",
-    "fr": "La production de rapports sur les répercussions sur le genre et la diversité comprend habituellement des renseignements personnels. Dans les limites de leurs pouvoirs tels qu’ils sont énoncés à l’article 4 de la , les responsables de programme doivent assumer leur responsabilité en tant que gardiens des renseignements personnels des Canadiens et être perçus comme de bons gardiens. Les responsables de programme doivent indiquer clairement les renseignements demandés et l’objet de leur collecte. Comme indiqué à la section 4 de la , les responsables de programme doivent mettre à jour les profils de l’information sur le rendement des programmes en conséquence."
+    "en": "While this guidance focuses on how to implement data linking, it also refers to what data linking can be used for. Indeed, to ensure compliance with section 4 of the Directive on Results, impact reporting plans need to be considered in the early stages of program and policy development. These plans, along with supporting data activities, are to be developed so that departments are clear on how they will assess success as set out in section 3 of the Treasury Board Policy on Results. To do so, program leads are encouraged to consult early in the process with departmental leads in data management, as well as with the department’s Head of Performance Measurement and Head of Evaluation. These latter officials will help define what data requirements are for the department and for specific programs. Program officials may also benefit from involving Statistics Canada at this early stage.",
+    "fr": "Alors que le présent document d’orientation porte principalement sur la façon de procéder au couplage de données, il traite également de ses applications. Conformément à la section 4 de la Directive sur les résultats, des plans de production de rapports sur les répercussions doivent être envisagés dès les premières étapes de l’élaboration de programmes et de politiques. Ces plans, ainsi que les activités connexes liées aux données, doivent être définis de manière à ce que les ministères sachent précisément la façon dont ils doivent procéder pour évaluer leur rendement, comme établi à la section 3 de la Politique sur les résultats du Conseil du Trésor. Pour ce faire, nous invitons les responsables de programme à consulter, dès le début du processus, les responsables ministériels de la gestion des données ainsi que le chef de la mesure du rendement et le chef de l’évaluation du ministère. Ces derniers aideront à définir les exigences relatives aux données pour le ministère et des programmes précis. Il pourrait aussi être avantageux pour les responsables de programme de consulter Statistique Canada dès les premières étapes.",
+    "anchor": "C",
+    "tag": "p"
   },
   {
-    "en": "Given the requirements of the , it is critically important that programs ensure that they have the authorities to collect, use and disclose this information. In absence of this authority, it is recommended that program officials consult with the departmental legal services unit to assess whether a legislative amendment is required for program impacts reporting. When personal data are collected solely for monitoring, evaluation and reporting, program officials are strongly encouraged to communicate this to the individuals from whom the information is being requested. In other words, in such a scenario, it should be made clear that the data will not be used for program administration in respect of any specific individual but rather for the measurement and evaluation of the whole program.",
-    "fr": "Compte tenu des exigences énoncées dans la , il est extrêmement important que les programmes s’assurent que la collecte, l’utilisation et la divulgation de cette information sont autorisées. Dans le cas contraire, nous recommandons aux responsables de programme de consulter les services juridiques de leur ministère afin de déterminer si une modification législative est nécessaire pour la production de rapports sur les répercussions des programmes. Lorsque des données personnelles sont recueillies uniquement aux fins de surveillance, d’évaluation et de production de rapports, on encourage fortement les responsables de programme à en aviser les personnes à qui les renseignements sont demandés. En d’autres termes, dans un tel cas, il faut indiquer clairement que les données ne seront pas utilisées aux fins de l’administration du programme pour une personne donnée, mais serviront plutôt à mesurer et à évaluer le programme dans son ensemble."
+    "en": "Reporting on gender and diversity impacts generally involves personal information. Within their authorities, as set out in section 4 of the Privacy Act, program officials must recognize their responsibility as stewards of Canadians’; personal information and be seen to be good stewards. Program officials must be clear on what information requirements they have and for what purpose they are collecting that information. As set out in section 4 of the Directive on Results, they must update the program’s Performance Information Profile accordingly.",
+    "fr": "La production de rapports sur les répercussions sur le genre et la diversité comprend habituellement des renseignements personnels. Dans les limites de leurs pouvoirs tels qu’ils sont énoncés à l’article 4 de la Loi sur la protection des renseignements personnels, les responsables de programme doivent assumer leur responsabilité en tant que gardiens des renseignements personnels des Canadiens et être perçus comme de bons gardiens. Les responsables de programme doivent indiquer clairement les renseignements demandés et l’objet de leur collecte. Comme indiqué à la section 4 de la Directive sur les résultats, les responsables de programme doivent mettre à jour les profils de l’information sur le rendement des programmes en conséquence.",
+    "anchor": "C",
+    "tag": "p"
   },
   {
-    "en": "TBS has prepared a that provides further guidance on how to manage personal information for program monitoring, evaluation and reporting purposes while protecting the personal information of Canadians. It includes guidance on the requirements related to:",
-    "fr": "Le SCT a préparé un afin de donner d’autres lignes directrices sur la façon de gérer les renseignements personnels aux fins de surveillance des programmes, d’évaluation et de production de rapports, tout en protégeant les renseignements personnels des Canadiens. L’avis contient également des lignes directrices sur les exigences concernant ce qui suit :"
+    "en": "Given the requirements of the Privacy Act, it is critically important that programs ensure that they have the authorities to collect, use and disclose this information. In absence of this authority, it is recommended that program officials consult with the departmental legal services unit to assess whether a legislative amendment is required for program impacts reporting. When personal data are collected solely for monitoring, evaluation and reporting, program officials are strongly encouraged to communicate this to the individuals from whom the information is being requested. In other words, in such a scenario, it should be made clear that the data will not be used for program administration in respect of any specific individual but rather for the measurement and evaluation of the whole program.",
+    "fr": "Compte tenu des exigences énoncées dans la Loi sur la protection des renseignements personnels, il est extrêmement important que les programmes s’assurent que la collecte, l’utilisation et la divulgation de cette information sont autorisées. Dans le cas contraire, nous recommandons aux responsables de programme de consulter les services juridiques de leur ministère afin de déterminer si une modification législative est nécessaire pour la production de rapports sur les répercussions des programmes. Lorsque des données personnelles sont recueillies uniquement aux fins de surveillance, d’évaluation et de production de rapports, on encourage fortement les responsables de programme à en aviser les personnes à qui les renseignements sont demandés. En d’autres termes, dans un tel cas, il faut indiquer clairement que les données ne seront pas utilisées aux fins de l’administration du programme pour une personne donnée, mais serviront plutôt à mesurer et à évaluer le programme dans son ensemble.",
+    "anchor": "C",
+    "tag": "p"
+  },
+  {
+    "en": "TBS has prepared a Privacy Implementation Notice that provides further guidance on how to manage personal information for program monitoring, evaluation and reporting purposes while protecting the personal information of Canadians. It includes guidance on the requirements related to:",
+    "fr": "Le SCT a préparé un avis de mise en œuvre de la protection des renseignements personnels afin de donner d’autres lignes directrices sur la façon de gérer les renseignements personnels aux fins de surveillance des programmes, d’évaluation et de production de rapports, tout en protégeant les renseignements personnels des Canadiens. L’avis contient également des lignes directrices sur les exigences concernant ce qui suit :",
+    "anchor": "C",
+    "tag": "p"
+  },
+  {
+    "en": "privacy impact assessmentsprivacy protocolspersonal information banksprivacy notice statementsinformation-sharing agreements privacy protective techniques",
+    "fr": "évaluations des facteurs relatifs à la vie privée;protocoles de protection des renseignements personnels;fichiers de renseignements personnels;énoncés d’avis de confidentialité;ententes sur l’échange de renseignements;techniques de protection des renseignements personnels.",
+    "anchor": "C",
+    "tag": "ul"
   },
   {
     "en": "Program officials should reach out to their Access to Information and Privacy Offices for more information on the above.",
-    "fr": "Les responsables de programme devraient faire appel à leurs bureaux d’accès à l’information et de protection des renseignements personnels pour en savoir plus sur ces points."
+    "fr": "Les responsables de programme devraient faire appel à leurs bureaux d’accès à l’information et de protection des renseignements personnels pour en savoir plus sur ces points.",
+    "anchor": "C",
+    "tag": "p"
   },
   {
-    "en": "As specified in the , program officials also need to ensure that they have the agreements necessary to pursue data linking arrangements with Statistics Canada. Statistics Canada has strict policies, directives and processes to ensure the effective management of microdata linkage activities while addressing and mitigating the inherent privacy risks that linkages can pose.",
-    "fr": "Comme indiqué dans l’ , les responsables de programme doivent aussi garantir qu’ils disposent des ententes nécessaires pour conclure des arrangements en matière de couplage de données avec Statistique Canada. Ce dernier a mis en place des politiques, des directives et des processus stricts pour veiller à la gestion efficace des activités de couplage de microdonnées tout en gérant et en atténuant les risques inhérents à la protection des renseignements personnels que le couplage peut poser."
+    "en": "As specified in the Privacy Implementation Notice, program officials also need to ensure that they have the agreements necessary to pursue data linking arrangements with Statistics Canada. Statistics Canada has strict policies, directives and processes to ensure the effective management of microdata linkage activities while addressing and mitigating the inherent privacy risks that linkages can pose.",
+    "fr": "Comme indiqué dans l’avis de mise en œuvre de la protection des renseignements personnels, les responsables de programme doivent aussi garantir qu’ils disposent des ententes nécessaires pour conclure des arrangements en matière de couplage de données avec Statistique Canada. Ce dernier a mis en place des politiques, des directives et des processus stricts pour veiller à la gestion efficace des activités de couplage de microdonnées tout en gérant et en atténuant les risques inhérents à la protection des renseignements personnels que le couplage peut poser.",
+    "anchor": "C",
+    "tag": "p"
   },
   {
-    "en": "Review the policy or program logic model or theory of change.",
-    "fr": "Examiner le modèle logique ou la théorie du changement de la politique ou du programme."
+    "en": "Phase 1: planning 1. Determine what questions need to be answeredReview the policy or program logic model or theory of change.Work with performance measurement and evaluation officials to determine what specific questions need to be answered to demonstrate impacts on diverse group populations. 2. Determine the data and methodological requirements Based on the above, in consultation with the departmental leads in data management, determine the data needed for the analysis: What mix of quantitative and qualitative data is the best source of evidence?What identity and/or socio-economic considerationsFootnote 2 are necessary for analytical purposes?What information is needed to demonstrate outcomes?What methods are to be applied to measure net impacts? Depending on the methodologies applied, different variables may need to be collected.Footnote 33. Develop a monitoring and evaluation data planBefore new direct data collection is considered, the program official should work with its performance measurement or evaluation officials, data office, privacy officials and Statistics Canada on options for data linking in its secure linking environments to leverage existing data. This step may require a significant amount of time for discussion and approvals. Statistics Canada operates on a cost-recovery basis. As a result, programs will also need to budget for linkage activities. To get started, contact Statistics Canada early in the process (see Appendix B for contact information).Where direct data collection is necessary, the program should develop a detailed plan to articulate what data needs to be collected, how it will be collected, when, and from where. Considerations should also be given to what data could be linked from existing sources, where disclosure is permitted, to eliminate duplication. Consult with legal services and privacy officials to determine which provisions of the Privacy Act, such as paragraph 8(2)(j) for research and statistical purposes, can authorize sharing without consent.To be able to link data, programs need to collect individual and/or business identifier data. Particular attention needs to be paid to how the data will be collected, who will collect it, and what authorities, agreements, and terms and conditions are required to enable this. Because of the other parties involved, this is an important consideration for grants and contributions programs as well as programs providing services to Canadians.Focus would be on additional data where:personal characteristics of clients or applicants are important for analytical purposes and where they are not available through Statistics Canadadetails on outcomes that are not available through Statistics Canada (for example, details pre- and post-benefits)Programs should first leverage program data already being collected to analyze program interventions and impacts based on client eligibility. 4. Identify challenges and refer the systemic barriers to TBSPrograms should take stock of obstacles that the program faces in the implementation of a linking-based data initiative, including partnership agreements or information technology limitations. Plans should be developed to address identified obstacles. Any barriers that are systemic or beyond the organization’s capacity to address should be referred to TBS at cgba-lcbss@tbs-sct.gc.ca. These issues will be reviewed by an interdepartmental steering committee.5. Finalize the plan and implementOnce the steps above have been followed and key needs, challenges, obstacles and barriers have been addressed (including mitigating any risks identified in the privacy impact assessment or privacy protocol or security assessments), the program or activity’s data collection plan details should be integrated into the program’s Performance Information Profile at the beginning of implementing the data plan.",
+    "fr": "Phase 1 : planification1. Déterminer les questions auxquelles répondreExaminer le modèle logique ou la théorie du changement de la politique ou du programme.Déterminer, avec les responsables de la mesure du rendement et de l’évaluation, les questions précises qui permettront de définir les répercussions sur divers groupes de la population.2. Déterminer les exigences relatives aux données et à la méthode À la lumière de ce qui précède, déterminer, en consultation avec les responsables ministériels de la gestion des données, les données nécessaires à l’analyse.Quelle combinaison de données quantitative et qualitative constitue la source de preuve optimale?Quelles sont les considérations identitaires et socio-économiquesVoir la note en bas de page 2 nécessaires aux fins de l’analyse?Quels renseignements permettront de déterminer les résultats?Quelles méthodes doivent être appliquées pour la mesure des répercussions nettes?Selon les méthodes appliquées, il pourrait être nécessaire de recueillir différentes variablesVoir la note en bas de page 3.3. Élaborer un plan de surveillance et d’évaluation des donnéesAvant d’envisager la nouvelle collecte directe de données, le responsable de programme devrait déterminer, avec le responsable de la mesure du rendement ou le responsable de l’évaluation, son bureau des données, ses responsables de la protection des renseignements personnels et Statistique Canada, des options de couplage de données dans ses environnements de couplage sécurisés qui permettront de mettre à profit les données existantes.Cette étape peut être assez longue puisque des discussions doivent être tenues et des approbations doivent être obtenues. Statistique Canada mène ses activités selon le principe du recouvrement des coûts. Par conséquent, les programmes devront aussi établir un budget pour leurs activités de couplage et devront communiquer avec Statistique Canada dès le début du processus (se reporter à l’annexe B pour obtenir les coordonnées).Dans les cas où une collecte directe de données est nécessaire, le programme devrait élaborer un plan détaillé précisant les données à recueillir ainsi que comment, quand et où elles seront recueillies. Il convient également de réfléchir aux données qui pourraient être couplées à partir de sources existantes, dans les cas où la divulgation est permise, afin d’éviter tout dédoublement. Le programme doit consulter les services juridiques du ministère et les responsables de la protection des renseignements personnels afin de déterminer les dispositions de la Loi sur la protection des renseignements personnels, comme l’alinéa 8(2)j) qui vise les travaux de recherche ou de statistique, qui l’habilitent à communiquer ces données sans consentement.Afin de pouvoir coupler des données, les programmes doivent recueillir des données d’identification de particuliers ou d’entreprises. Une attention particulière doit être accordée à la façon dont les données seront recueillies, à la personne qui les recueillera ainsi qu’aux pouvoirs, aux ententes et aux modalités requises pour cette collecte. Compte tenu des autres parties visées, il s’agit d’une considération importante pour les programmes de subventions et de contributions ainsi que pour les programmes qui fournissent des services à la population canadienne.La collecte de données complémentaires sera particulièrement importante dans les cas suivants :les caractéristiques personnelles des clients ou des demandeurs sont déterminantes à des fins d’analyse et ne sont pas accessibles par l’intermédiaire de Statistique Canada;certains renseignements sur les résultats ne sont pas accessibles par l’intermédiaire de Statistique Canada (par exemple, les renseignements avant et après le versement de prestations).Les programmes devraient d’abord tirer parti des données de programme déjà recueillies pour analyser les activités et les répercussions des programmes en fonction de l’admissibilité des clients.4. Cerner les défis et acheminer les obstacles systémiques au SCTLes programmes doivent dresser l’inventaire des obstacles auxquels ils se heurtent dans la mise en œuvre d’une initiative de données axée sur le couplage, y compris les ententes de partenariat ou les limites liées à la technologie de l’information. Des plans devraient être élaborés pour éliminer les obstacles cernés.Tout obstacle dont la nature est systémique ou la résolution va au-delà de la capacité de l’organisation doit être porté à l’attention au SCT à l’adresse cgba-lcbss@tbs-sct.gc.ca. Il sera ensuite examiné par un comité directeur interministériel.5. Parachever le plan et le mettre en œuvreUne fois que les étapes susmentionnées ont été suivies et que les principaux besoins, défis et obstacles ont été abordés (ce qui comprend l’atténuation de tout risque cerné dans l’évaluation des facteurs relatifs à la vie privée ou les évaluations du protocole de protection des renseignements personnels ou de sécurité), le plan de collecte de données du programme ou de l’activité doit être intégré au profil de l’information sur le rendement du programme au début de la mise en œuvre du plan de données.",
+    "anchor": "D",
+    "tag": "section"
   },
   {
-    "en": "Work with performance measurement and evaluation officials to determine what specific questions need to be answered to demonstrate impacts on diverse group populations.",
-    "fr": "Déterminer, avec les responsables de la mesure du rendement et de l’évaluation, les questions précises qui permettront de définir les répercussions sur divers groupes de la population."
+    "en": "Phase 2: collecting, analyzing and reporting6. Collect and share the data with Statistics CanadaPut the data systems, infrastructure and governance requirements in place as identified in Phase 1 of the plan.Collect the required data as set out in the plan.Coordinate with Statistics Canada to deliver any data files. These files should contain only the relevant information required for the linkage.As noted above, there is a data acquisition process at Statistics Canada that should be factored into timelines. The length of this process can depend on the number of files and level of data sensitivity.Prepare or submit data to Statistics Canada for linking as appropriate. 7. Work with Statistics Canada to produce the analysis Through Statistics Canada, analysis such as the following can be carried out:basic participation statistics (for example, ratio measures and means)simple comparative impactsnet impactscross program comparative impactsPrograms will need to have the capacity in place to review and understand the results provided. Programs that wish to access the microdata to conduct the analysis can leverage various data access arrangements with Statistics Canada. These arrangements may already be in place with the sponsoring department. Members of the program team will need to be deemed as having Statistics Canada employee status in order to work directly with the data. 8. Reporting and supporting decision-makingAnalysis carried out on linked data should be incorporated into program reporting and evaluation, and inform the future direction of the program, including to support new policy or program authorities and budget proposals.",
+    "fr": "Phase 2 : collecte, analyse et production de rapports 6. Recueillir les données et les communiquer à Statistique CanadaMettre en place les exigences relatives aux systèmes, à l’infrastructure et à la gouvernance en matière de données comme indiqué à la phase 1 du plan.Recueillir les données requises, comme déterminé dans le plan.Assurer une coordination avec Statistique Canada pour la communication de tout fichier de données. Ces fichiers ne devraient contenir que les renseignements pertinents requis pour le couplage.Comme il est indiqué ci-dessus, Statistique Canada dispose d’un processus d’acquisition de données qui doit être pris en compte dans les échéanciers. La durée de ce processus peut dépendre du nombre de fichiers et du niveau de sensibilité des données.Préparer ou soumettre les données à Statistique Canada aux fins de couplage s’il y a lieu.7. Travailler avec Statistique Canada pour produire l’analyse Par l’intermédiaire de Statistique Canada, il est possible de mener des analyses comme les suivantes :statistiques de base sur la participation (par exemple, mesures de ratio et moyennes);répercussions comparatives simples;répercussions nettes;répercussions comparatives entre programmes.Les programmes devront avoir la capacité nécessaire en place pour examiner et comprendre les résultats fournis.Les programmes qui souhaitent obtenir des microdonnées pour mener l’analyse peuvent tirer parti de divers arrangements en matière d’accès aux données avec Statistique Canada. Il est possible que de tels arrangements soient déjà en place avec le ministère responsable. Les membres de l’équipe du programme devront obtenir le statut d’employé réputé de Statistique Canada pour être en mesure de travailler directement avec les données.8. Produire des rapports et appuyer la prise de décisionsL’analyse menée sur les données couplées devrait être intégrée à la production de rapports sur le programme et à l’évaluation de ce dernier, en plus d’éclairer son orientation future, y compris à l’appui de nouveaux pouvoirs liés à la politique ou au programme et de propositions budgétaires.",
+    "anchor": "D",
+    "tag": "section"
   },
   {
-    "en": "Based on the above, in consultation with the departmental leads in data management, determine the data needed for the analysis:",
-    "fr": "À la lumière de ce qui précède, déterminer, en consultation avec les responsables ministériels de la gestion des données, les données nécessaires à l’analyse."
-  },
-  {
-    "en": "Before new direct data collection is considered, the program official should work with its performance measurement or evaluation officials, data office, privacy officials and Statistics Canada on options for data linking in its secure linking environments to leverage existing data.",
-    "fr": "Avant d’envisager la nouvelle collecte directe de données, le responsable de programme devrait déterminer, avec le responsable de la mesure du rendement ou le responsable de l’évaluation, son bureau des données, ses responsables de la protection des renseignements personnels et Statistique Canada, des options de couplage de données dans ses environnements de couplage sécurisés qui permettront de mettre à profit les données existantes."
-  },
-  {
-    "en": "Where direct data collection is necessary, the program should develop a detailed plan to articulate what data needs to be collected, how it will be collected, when, and from where. Considerations should also be given to what data could be linked from existing sources, where disclosure is permitted, to eliminate duplication. Consult with legal services and privacy officials to determine which provisions of the , such as paragraph 8(2)(j) for research and statistical purposes, can authorize sharing without consent.",
-    "fr": "Dans les cas où une collecte directe de données est nécessaire, le programme devrait élaborer un plan détaillé précisant les données à recueillir ainsi que comment, quand et où elles seront recueillies. Il convient également de réfléchir aux données qui pourraient être couplées à partir de sources existantes, dans les cas où la divulgation est permise, afin d’éviter tout dédoublement. Le programme doit consulter les services juridiques du ministère et les responsables de la protection des renseignements personnels afin de déterminer les dispositions de la , comme l’alinéa 8(2)j) qui vise les travaux de recherche ou de statistique, qui l’habilitent à communiquer ces données sans consentement."
-  },
-  {
-    "en": "To be able to link data, programs need to collect individual and/or business identifier data.",
-    "fr": "Afin de pouvoir coupler des données, les programmes doivent recueillir des données d’identification de particuliers ou d’entreprises."
-  },
-  {
-    "en": "Focus would be on additional data where:",
-    "fr": "La collecte de données complémentaires sera particulièrement importante dans les cas suivants :"
-  },
-  {
-    "en": "Programs should first leverage program data already being collected to analyze program interventions and impacts based on client eligibility.",
-    "fr": "Les programmes devraient d’abord tirer parti des données de programme déjà recueillies pour analyser les activités et les répercussions des programmes en fonction de l’admissibilité des clients."
-  },
-  {
-    "en": "Programs should take stock of obstacles that the program faces in the implementation of a linking-based data initiative, including partnership agreements or information technology limitations. Plans should be developed to address identified obstacles.",
-    "fr": "Les programmes doivent dresser l’inventaire des obstacles auxquels ils se heurtent dans la mise en œuvre d’une initiative de données axée sur le couplage, y compris les ententes de partenariat ou les limites liées à la technologie de l’information. Des plans devraient être élaborés pour éliminer les obstacles cernés."
-  },
-  {
-    "en": "Any barriers that are systemic or beyond the organization’s capacity to address should be referred to TBS at . These issues will be reviewed by an interdepartmental steering committee.",
-    "fr": "Tout obstacle dont la nature est systémique ou la résolution va au-delà de la capacité de l’organisation doit être porté à l’attention au SCT à l’adresse . Il sera ensuite examiné par un comité directeur interministériel."
-  },
-  {
-    "en": "Once the steps above have been followed and key needs, challenges, obstacles and barriers have been addressed (including mitigating any risks identified in the privacy impact assessment or privacy protocol or security assessments), the program or activity’s data collection plan details should be integrated into the program’s Performance Information Profile at the beginning of implementing the data plan.",
-    "fr": "Une fois que les étapes susmentionnées ont été suivies et que les principaux besoins, défis et obstacles ont été abordés (ce qui comprend l’atténuation de tout risque cerné dans l’évaluation des facteurs relatifs à la vie privée ou les évaluations du protocole de protection des renseignements personnels ou de sécurité), le plan de collecte de données du programme ou de l’activité doit être intégré au profil de l’information sur le rendement du programme au début de la mise en œuvre du plan de données."
-  },
-  {
-    "en": "Put the data systems, infrastructure and governance requirements in place as identified in Phase 1 of the plan.",
-    "fr": "Mettre en place les exigences relatives aux systèmes, à l’infrastructure et à la gouvernance en matière de données comme indiqué à la phase 1 du plan."
-  },
-  {
-    "en": "Collect the required data as set out in the plan.",
-    "fr": "Recueillir les données requises, comme déterminé dans le plan."
-  },
-  {
-    "en": "Coordinate with Statistics Canada to deliver any data files. These files should contain only the relevant information required for the linkage.",
-    "fr": "Assurer une coordination avec Statistique Canada pour la communication de tout fichier de données. Ces fichiers ne devraient contenir que les renseignements pertinents requis pour le couplage."
-  },
-  {
-    "en": "Prepare or submit data to Statistics Canada for linking as appropriate.",
-    "fr": "Préparer ou soumettre les données à Statistique Canada aux fins de couplage s’il y a lieu."
-  },
-  {
-    "en": "Through Statistics Canada, analysis such as the following can be carried out:",
-    "fr": "Par l’intermédiaire de Statistique Canada, il est possible de mener des analyses comme les suivantes :"
-  },
-  {
-    "en": "Programs will need to have the capacity in place to review and understand the results provided.",
-    "fr": "Les programmes devront avoir la capacité nécessaire en place pour examiner et comprendre les résultats fournis."
-  },
-  {
-    "en": "Programs that wish to access the microdata to conduct the analysis can leverage various data access arrangements with Statistics Canada. These arrangements may already be in place with the sponsoring department. Members of the program team will need to be deemed as having Statistics Canada employee status in order to work directly with the data.",
-    "fr": "Les programmes qui souhaitent obtenir des microdonnées pour mener l’analyse peuvent tirer parti de divers arrangements en matière d’accès aux données avec Statistique Canada. Il est possible que de tels arrangements soient déjà en place avec le ministère responsable. Les membres de l’équipe du programme devront obtenir le statut d’employé réputé de Statistique Canada pour être en mesure de travailler directement avec les données."
-  },
-  {
-    "en": "Analysis carried out on linked data should be incorporated into program reporting and evaluation, and inform the future direction of the program, including to support new policy or program authorities and budget proposals.",
-    "fr": "L’analyse menée sur les données couplées devrait être intégrée à la production de rapports sur le programme et à l’évaluation de ce dernier, en plus d’éclairer son orientation future, y compris à l’appui de nouveaux pouvoirs liés à la politique ou au programme et de propositions budgétaires."
-  },
-  {
-    "en": "See Appendix A of the .",
-    "fr": "Voir l’annexe A de la ."
+    "en": "See Appendix A of the Directive on Microdata Linkage.",
+    "fr": "Voir l’annexe A de la Directive sur le couplage de microdonnées.",
+    "anchor": "fn1",
+    "tag": "p"
   },
   {
     "en": "For example, gender, race, disability, family composition, wealth or income, business size, number of employees, export orientation, including the ways in which these overlap.",
-    "fr": "Par exemple, le genre, la race, l’incapacité, la composition de la famille, l’avoir ou le revenu, la taille de l’entreprise, le nombre d’employés et l’orientation vers les exportations, ainsi que les façons dont ces considérations se chevauchent."
+    "fr": "Par exemple, le genre, la race, l’incapacité, la composition de la famille, l’avoir ou le revenu, la taille de l’entreprise, le nombre d’employés et l’orientation vers les exportations, ainsi que les façons dont ces considérations se chevauchent.",
+    "anchor": "fn2",
+    "tag": "p"
   },
   {
-    "en": "See and .",
-    "fr": "Voir : (2019) et"
-  },
-  {
-    "en": "supports program officials, appointed by deputy heads under the Treasury Board , in collecting and using valid and reliable performance data, as set out in section 4 of the",
-    "fr": "appuie les responsables de programme nommés par les administrateurs généraux, conformément à la du Conseil du Trésor, dans la collecte et l’utilisation de données valides et fiables sur le rendement, comme défini à la section 4 de la ;"
-  },
-  {
-    "en": "enables departments to support government-wide reporting of program impacts on gender and diversity as set out in the",
-    "fr": "permet aux ministères de faciliter la production de rapports à l’échelle du gouvernement sur les répercussions des programmes sur le genre et la diversité, conformément à la ."
-  },
-  {
-    "en": "the Social Data Linkage Environment to link data on individuals",
-    "fr": "l’Environnement de couplage de données sociales pour coupler des données sur les particuliers;"
-  },
-  {
-    "en": "the Business Linkage File Environment to link business data",
-    "fr": "l’Environnement de fichiers couplables pour coupler les données sur les entreprises;"
-  },
-  {
-    "en": "a range of existing linkage platforms (for example, the and the and linked databases accessible to federal department partners",
-    "fr": "un éventail de plateformes de couplage existantes (par exemple, la et la et de bases de données associées accessibles aux partenaires des ministères fédéraux."
-  },
-  {
-    "en": "privacy impact assessments",
-    "fr": "évaluations des facteurs relatifs à la vie privée;"
-  },
-  {
-    "en": "privacy protocols",
-    "fr": "protocoles de protection des renseignements personnels;"
-  },
-  {
-    "en": "personal information banks",
-    "fr": "fichiers de renseignements personnels;"
-  },
-  {
-    "en": "privacy notice statements",
-    "fr": "énoncés d’avis de confidentialité;"
-  },
-  {
-    "en": "information-sharing agreements",
-    "fr": "ententes sur l’échange de renseignements;"
-  },
-  {
-    "en": "privacy protective techniques",
-    "fr": "techniques de protection des renseignements personnels."
-  },
-  {
-    "en": "What mix of quantitative and qualitative data is the best source of evidence?",
-    "fr": "Quelle combinaison de données quantitative et qualitative constitue la source de preuve optimale?"
-  },
-  {
-    "en": "What identity and/or socio-economic considerations are necessary for analytical purposes?",
-    "fr": "Quelles sont les considérations identitaires et socio-économiques nécessaires aux fins de l’analyse?"
-  },
-  {
-    "en": "What information is needed to demonstrate outcomes?",
-    "fr": "Quels renseignements permettront de déterminer les résultats?"
-  },
-  {
-    "en": "What methods are to be applied to measure net impacts?",
-    "fr": "Quelles méthodes doivent être appliquées pour la mesure des répercussions nettes?"
-  },
-  {
-    "en": "Depending on the methodologies applied, different variables may need to be collected.",
-    "fr": "Selon les méthodes appliquées, il pourrait être nécessaire de recueillir différentes variables ."
-  },
-  {
-    "en": "This step may require a significant amount of time for discussion and approvals. Statistics Canada operates on a cost-recovery basis. As a result, programs will also need to budget for linkage activities. To get started, contact Statistics Canada early in the process (see for contact information).",
-    "fr": "Cette étape peut être assez longue puisque des discussions doivent être tenues et des approbations doivent être obtenues. Statistique Canada mène ses activités selon le principe du recouvrement des coûts. Par conséquent, les programmes devront aussi établir un budget pour leurs activités de couplage et devront communiquer avec Statistique Canada dès le début du processus (se reporter à l’ pour obtenir les coordonnées)."
-  },
-  {
-    "en": "Particular attention needs to be paid to how the data will be collected, who will collect it, and what authorities, agreements, and terms and conditions are required to enable this. Because of the other parties involved, this is an important consideration for grants and contributions programs as well as programs providing services to Canadians.",
-    "fr": "Une attention particulière doit être accordée à la façon dont les données seront recueillies, à la personne qui les recueillera ainsi qu’aux pouvoirs, aux ententes et aux modalités requises pour cette collecte. Compte tenu des autres parties visées, il s’agit d’une considération importante pour les programmes de subventions et de contributions ainsi que pour les programmes qui fournissent des services à la population canadienne."
-  },
-  {
-    "en": "personal characteristics of clients or applicants are important for analytical purposes and where they are not available through Statistics Canada",
-    "fr": "les caractéristiques personnelles des clients ou des demandeurs sont déterminantes à des fins d’analyse et ne sont pas accessibles par l’intermédiaire de Statistique Canada;"
-  },
-  {
-    "en": "details on outcomes that are not available through Statistics Canada (for example, details pre- and post-benefits)",
-    "fr": "certains renseignements sur les résultats ne sont pas accessibles par l’intermédiaire de Statistique Canada (par exemple, les renseignements avant et après le versement de prestations)."
-  },
-  {
-    "en": "As noted above, there is a data acquisition process at Statistics Canada that should be factored into timelines. The length of this process can depend on the number of files and level of data sensitivity.",
-    "fr": "Comme il est indiqué ci-dessus, Statistique Canada dispose d’un processus d’acquisition de données qui doit être pris en compte dans les échéanciers. La durée de ce processus peut dépendre du nombre de fichiers et du niveau de sensibilité des données."
-  },
-  {
-    "en": "basic participation statistics (for example, ratio measures and means)",
-    "fr": "statistiques de base sur la participation (par exemple, mesures de ratio et moyennes);"
-  },
-  {
-    "en": "simple comparative impacts",
-    "fr": "répercussions comparatives simples;"
-  },
-  {
-    "en": "net impacts",
-    "fr": "répercussions nettes;"
-  },
-  {
-    "en": "cross program comparative impacts",
-    "fr": "répercussions comparatives entre programmes."
+    "en": "See Integrating Gender-Based Analysis Plus Into Evaluation: A Primer (2019) and Measuring Impact by Design: A Guide to Methods for Impact Measurement.",
+    "fr": "Voir : Intégration de l’analyse comparative entre les sexes plus dans l’évaluation : un guide d’introduction (2019) et Modèles de mesure des impacts : Guide des méthodes de mesure des impacts",
+    "anchor": "fn3",
+    "tag": "p"
   }
 ]

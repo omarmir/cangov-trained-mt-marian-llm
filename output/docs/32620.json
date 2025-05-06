@@ -1,90 +1,158 @@
 [
   {
     "en": "This guideline supports the Government of Canada’s direction to ensure that departments, agencies and organizations consider accessibility in the acquisition or development of information technology (IT) solutions and equipment to make IT usable by all.",
-    "fr": "La présente Ligne directrice vient appuyer l’orientation du gouvernement du Canada visant à ce que les ministères, les organismes et les organisations tiennent compte de l’accessibilité dans l’acquisition ou l’élaboration de solutions et d’équipement de la technologie de l’information (TI), afin de rendre la TI accessible à tous."
+    "fr": "La présente Ligne directrice vient appuyer l’orientation du gouvernement du Canada visant à ce que les ministères, les organismes et les organisations tiennent compte de l’accessibilité dans l’acquisition ou l’élaboration de solutions et d’équipement de la technologie de l’information (TI), afin de rendre la TI accessible à tous.",
+    "anchor": "1.1",
+    "tag": "p"
   },
   {
     "en": "This guideline is intended for all Government of Canada departments, agencies and organizations that acquire or develop IT solutions and equipment, including web content.",
-    "fr": "La présente Ligne directrice s’adresse à tous les ministères, organismes et organisations du gouvernement du Canada qui acquièrent ou élaborent des solutions et de l’équipement de la TI, y compris du contenu Web."
+    "fr": "La présente Ligne directrice s’adresse à tous les ministères, organismes et organisations du gouvernement du Canada qui acquièrent ou élaborent des solutions et de l’équipement de la TI, y compris du contenu Web.",
+    "anchor": "2.1",
+    "tag": "p"
   },
   {
     "en": "Proactive consideration of accessibility benefits everyone, especially persons with disabilities. The recommendations in section 4 of this guideline support the following:",
-    "fr": "Le fait de tenir compte de l’accessibilité de façon proactive représente un avantage pour tous, et plus particulièrement pour les personnes handicapées. Les recommandations énoncées à la section 4 de la présente Ligne directrice appuient ce qui suit :"
+    "fr": "Le fait de tenir compte de l’accessibilité de façon proactive représente un avantage pour tous, et plus particulièrement pour les personnes handicapées. Les recommandations énoncées à la section 4 de la présente Ligne directrice appuient ce qui suit :",
+    "anchor": "3.1",
+    "tag": "p"
   },
   {
-    "en": "the , which requires that entities under federal jurisdiction identify, remove and prevent accessibility barriers.",
-    "fr": "La , exige que les entités de compétence fédérale reconnaissent, éliminent et préviennent les obstacles à l’accessibilité."
+    "en": "the Accessible Canada Act, which requires that entities under federal jurisdiction identify, remove and prevent accessibility barriers.",
+    "fr": "La Loi canadienne sur l’accessibilité, exige que les entités de compétence fédérale reconnaissent, éliminent et préviennent les obstacles à l’accessibilité.",
+    "anchor": "3.1.1",
+    "tag": "p"
   },
   {
-    "en": "the , which sets out how the Government of Canada will bolster accessibility for all Canadians through its policies, programs and services.",
-    "fr": "La , établit comment le gouvernement du Canada procédera pour accroître l’accessibilité pour tous les Canadiens par l’entremise de ses politiques, ses programmes et ses services."
+    "en": "the Accessibility Strategy for the Public Service of Canada, which sets out how the Government of Canada will bolster accessibility for all Canadians through its policies, programs and services.",
+    "fr": "La Stratégie sur l’accessibilité au sein de la fonction publique du Canada, établit comment le gouvernement du Canada procédera pour accroître l’accessibilité pour tous les Canadiens par l’entremise de ses politiques, ses programmes et ses services.",
+    "anchor": "3.1.2",
+    "tag": "p"
   },
   {
-    "en": "the , which promote building in accessibility from the start.",
-    "fr": "Les qui viennent promouvoir l’intégration de l’accessibilité dès le départ."
+    "en": "the Government of Canada Digital Standards, which promote building in accessibility from the start.",
+    "fr": "Les Normes relatives au numérique qui viennent promouvoir l’intégration de l’accessibilité dès le départ.",
+    "anchor": "3.1.3",
+    "tag": "p"
   },
   {
-    "en": "Several Treasury Board policy instruments set out Government of Canada accessibility requirements for IT (see subsection 5.3) including the (effective April 1, 2020), the and the .",
-    "fr": "Plusieurs instruments de politique du Conseil du Trésor viennent définir les exigences en matière d’accessibilité à la TI au sein du gouvernement du Canada (voir la section 5.3), y compris la , la et la ."
+    "en": "Several Treasury Board policy instruments set out Government of Canada accessibility requirements for IT (see subsection 5.3) including the Policy on Service and Digital (effective April 1, 2020), the Policy on Management of Information Technology and the Standard on Web Accessibility.",
+    "fr": "Plusieurs instruments de politique du Conseil du Trésor viennent définir les exigences en matière d’accessibilité à la TI au sein du gouvernement du Canada (voir la section 5.3), y compris la Politique sur les services et le numérique, la Politique sur la gestion de la technologie de l’information et la Norme sur l’accessibilité des sites Web.",
+    "anchor": "3.2",
+    "tag": "p"
   },
   {
-    "en": "The applies to public-facing web content only. It does not apply to public-facing IT solutions and equipment or to internal-facing IT solutions, equipment and web content.",
-    "fr": "La s’applique uniquement au contenu Web accessible au public. Elle ne s’applique pas aux solutions et à l’équipement de la TI qui sont accessibles au public ou aux solutions de la TI, à l’équipement ou au contenu Web qui sont accessibles à l’interne."
+    "en": "The Standard on Web Accessibility applies to public-facing web content only. It does not apply to public-facing IT solutions and equipment or to internal-facing IT solutions, equipment and web content.",
+    "fr": "La Norme sur l’accessibilité des sites Web s’applique uniquement au contenu Web accessible au public. Elle ne s’applique pas aux solutions et à l’équipement de la TI qui sont accessibles au public ou aux solutions de la TI, à l’équipement ou au contenu Web qui sont accessibles à l’interne.",
+    "anchor": "3.3",
+    "tag": "p"
   },
   {
-    "en": "Departments, agencies and organizations are strongly encouraged to leverage the when:",
-    "fr": "Les ministères, les organismes et les organisations sont fortement encouragés à s’inspirer de la , lorsqu’ils :"
+    "en": "Departments, agencies and organizations are strongly encouraged to leverage the CAN/ASC - EN 301 549:2024 Accessibility requirements for ICT products and services (EN 301 549:2021, IDT) when:",
+    "fr": "Les ministères, les organismes et les organisations sont fortement encouragés à s’inspirer de la CAN/ASC - EN 301 549:2024 Exigences d’accessibilité pour les produits et services TIC (EN 301 549:2021, IDT), lorsqu’ils :",
+    "anchor": "4.1",
+    "tag": "p"
   },
   {
     "en": "acquiring or developing internal-facing or public-facing IT solutions and equipment, including web content and all IT tools and equipment used by federal public servants.",
-    "fr": "acquièrent ou développent des solutions et équipements de la TI internes ou publics, y compris le contenu Web et tous les outils et équipements informatiques utilisés par les fonctionnaires fédéraux;"
+    "fr": "acquièrent ou développent des solutions et équipements de la TI internes ou publics, y compris le contenu Web et tous les outils et équipements informatiques utilisés par les fonctionnaires fédéraux;",
+    "anchor": "4.1.1",
+    "tag": "p"
   },
   {
     "en": "considering accessibility in the lifecycle management process for existing IT solutions and equipment, including web content.",
-    "fr": "tiennent compte de l’accessibilité dans la gestion du cycle de vie des solutions et de l’équipement de la TI existants, y compris le contenu Web."
+    "fr": "tiennent compte de l’accessibilité dans la gestion du cycle de vie des solutions et de l’équipement de la TI existants, y compris le contenu Web.",
+    "anchor": "4.1.2",
+    "tag": "p"
   },
   {
     "en": "Departments, agencies and organizations are strongly encouraged to:",
-    "fr": "On encourage fortement les ministères, les organismes et les organisations à :"
+    "fr": "On encourage fortement les ministères, les organismes et les organisations à :",
+    "anchor": "4.2",
+    "tag": "p"
   },
   {
     "en": "ensure that accessibility features are enabled for their IT solutions and equipment.",
-    "fr": "veiller à ce que les caractéristiques d’accessibilité soient intégrées à leurs solutions et équipements de la TI;"
+    "fr": "veiller à ce que les caractéristiques d’accessibilité soient intégrées à leurs solutions et équipements de la TI;",
+    "anchor": "4.2.1",
+    "tag": "p"
   },
   {
     "en": "leverage enterprise tools and capacity to ensure that internal‐facing IT solutions and equipment are accessible for public servants.",
-    "fr": "tirer parti des outils intégrés et de la capacité de l’organisation de veiller à ce que les solutions et l’équipement internes de la TI soient accessibles à tous les fonctionnaires;"
+    "fr": "tirer parti des outils intégrés et de la capacité de l’organisation de veiller à ce que les solutions et l’équipement internes de la TI soient accessibles à tous les fonctionnaires;",
+    "anchor": "4.2.2",
+    "tag": "p"
   },
   {
-    "en": "work with Shared Services Canada (SSC) and its to identify and deploy accessible tools and technology, and to remove remaining accessibility barriers associated with IT.",
-    "fr": "travailler avec Services partagés Canada (SPC) et son pour cerner et déployer des outils et des technologies accessibles, et éliminer les obstacles à l’accessibilité associés à la TI qui sont toujours présents;"
+    "en": "work with Shared Services Canada (SSC) and its Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program to identify and deploy accessible tools and technology, and to remove remaining accessibility barriers associated with IT.",
+    "fr": "travailler avec Services partagés Canada (SPC) et son Programme d’accessibilité, d’adaptation et de technologie informatique adaptée (AATIA) pour cerner et déployer des outils et des technologies accessibles, et éliminer les obstacles à l’accessibilité associés à la TI qui sont toujours présents;",
+    "anchor": "4.2.3",
+    "tag": "p"
   },
   {
     "en": "leverage their existing in-house accessibility programs when meeting Government of Canada accessibility requirements.",
-    "fr": "tirer parti des programmes internes d’accessibilité existants pour répondre aux exigences du gouvernement du Canada en matière d’accessibilité;"
+    "fr": "tirer parti des programmes internes d’accessibilité existants pour répondre aux exigences du gouvernement du Canada en matière d’accessibilité;",
+    "anchor": "4.2.4",
+    "tag": "p"
   },
   {
     "en": "work in the open and use open‐source software to support others in efforts to develop accessible common IT systems across departments, agencies and organizations.",
-    "fr": "travailler de façon ouverte et utiliser des logiciels libres pour appuyer les autres dans les efforts qu’ils déploient pour élaborer des systèmes de la TI qui soient accessibles et communs à l’échelle des ministères, des organismes et des organisations."
+    "fr": "travailler de façon ouverte et utiliser des logiciels libres pour appuyer les autres dans les efforts qu’ils déploient pour élaborer des systèmes de la TI qui soient accessibles et communs à l’échelle des ministères, des organismes et des organisations.",
+    "anchor": "4.2.5",
+    "tag": "p"
   },
   {
     "en": "Related External Standards and Specifications",
-    "fr": "Normes et spécifications externes connexes"
+    "fr": "Normes et spécifications externes connexes",
+    "anchor": "5.1",
+    "tag": "p"
+  },
+  {
+    "en": "CAN/ASC - EN 301 549:2024 Accessibility requirements for ICT products and services (EN 301 549:2021, IDT) as a published National Standard of CanadaConvention on the Rights of Persons with DisabilitiesWeb Content Accessibility Guidelines (WCAG)",
+    "fr": "CAN/ASC - EN 301 549:2024 Exigences d’accessibilité pour les produits et services de TIC (EN 301 549:2021, IDT) en tant que Norme nationale du Canada publiéeConvention relative aux droits des personnes handicapéesRègles d’accessibilité pour les contenus Web (WCAG)",
+    "anchor": "5.1",
+    "tag": "ul"
   },
   {
     "en": "Legislation",
-    "fr": "Lois"
+    "fr": "Lois",
+    "anchor": "5.2",
+    "tag": "p"
+  },
+  {
+    "en": "Accessible Canada Act Canadian Charter of Rights and FreedomsCanadian Human Rights ActFinancial Administration Act",
+    "fr": "Loi canadienne sur l’accessibilitéCharte canadienne des droits et libertésLoi canadienne sur les droits de la personneLoi sur la gestion des finances publiques",
+    "anchor": "5.2",
+    "tag": "ul"
   },
   {
     "en": "Related Policy Instruments",
-    "fr": "Instruments de politique connexes"
+    "fr": "Instruments de politique connexes",
+    "anchor": "5.3",
+    "tag": "p"
+  },
+  {
+    "en": "Policy on Service and DigitalPolicy on Management of Information TechnologyDirective on Service and DigitalStandard on Web AccessibilityPolicy on the Planning and Management of InvestmentsPolicy on Communications and Federal IdentityValues and Ethics Code for the Public SectorPolicy on the Planning and Management of Investments",
+    "fr": "Politique sur les services et le numériquePolitique sur la gestion de la technologie de l’informationDirective sur les services et le numériqueNorme sur l'accessibilité des sites WebPolitique sur la planification et la gestion des investissementsPolitique sur les communications et l’image de marqueCode de valeurs et d’éthique du secteur public",
+    "anchor": "5.3",
+    "tag": "ul"
   },
   {
     "en": "Government of Canada Direction",
-    "fr": "Orientations du gouvernement du Canada"
+    "fr": "Orientations du gouvernement du Canada",
+    "anchor": "5.4",
+    "tag": "p"
   },
   {
-    "en": "For interpretation of any aspect of this standard, contact .",
-    "fr": "Pour l’interprétation de tout aspect de la présente norme, contactez ."
+    "en": "Nothing Without Us: Accessibility Strategy for the Public Service of CanadaGovernment of Canada Digital StandardsGovernment of Canada’s Digital Ambition",
+    "fr": "Rien sans nous :Stratégie sur l’accessibilité au sein de la fonction publique du CanadaNormes relatives au numérique du gouvernement du CanadaAmbition numérique du gouvernement du Canada",
+    "anchor": "5.4",
+    "tag": "ul"
+  },
+  {
+    "en": "For interpretation of any aspect of this standard, contact Treasury Board of Canada Secretariat Public Enquiries.",
+    "fr": "Pour l’interprétation de tout aspect de la présente norme, contactez Demandes du public du Secrétariat du Conseil du Trésor du Canada.",
+    "anchor": "6",
+    "tag": "p"
   }
 ]

@@ -1,230 +1,308 @@
 [
   {
     "en": "The purpose of this guideline is to provide a common approach to calculating the cost of delivering a government program that includes an attribution of internal service costs.",
-    "fr": "La présente ligne directrice offre une approche commune pour l'élaboration des données sur les coûts, lorsqu'un ministère doit calculer les coûts des programmes, y compris l'attribution des coûts des services internes."
+    "fr": "La présente ligne directrice offre une approche commune pour l'élaboration des données sur les coûts, lorsqu'un ministère doit calculer les coûts des programmes, y compris l'attribution des coûts des services internes.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "The attribution of internal services to programs is a key step to producing historical program cost information. In calculating historical program cost information, departments may wish or may be required to include program expenditures as reported in the department's PAA plus an attribution of the department's internal service expenditures to each program.",
-    "fr": "L'attribution aux programmes des dépenses liées aux services internes est une étape clé de la production des données sur les coûts historiques des programmes. Dans le cadre de la production des données sur les coûts historiques des programmes, les ministères pourraient souhaiter inclure ou devoir inclure les dépenses des programmes qui figurent dans l'AAP du ministère ainsi que l'attribution des dépenses liées aux services internes à chaque programme."
+    "fr": "L'attribution aux programmes des dépenses liées aux services internes est une étape clé de la production des données sur les coûts historiques des programmes. Dans le cadre de la production des données sur les coûts historiques des programmes, les ministères pourraient souhaiter inclure ou devoir inclure les dépenses des programmes qui figurent dans l'AAP du ministère ainsi que l'attribution des dépenses liées aux services internes à chaque programme.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "Historical program cost information does not provide departments with a constant metric that would substantiate new funding requests on its own merit. Instead, historical program costs can provide information to support the department in understanding the costs of their programs and serve as a reasonable starting point for a discussion about resource requirements and cost drivers.",
-    "fr": "Les données sur les coûts historiques des programmes ne sont pas un paramètre constant qui à lui seul permettrait de justifier de nouvelles demandes de financement. Elles peuvent plutôt aider les ministères à comprendre les coûts des programmes qu'ils mettent en œuvre et servir de point de départ raisonnable pour discuter des besoins en ressources et des facteurs de coûts."
+    "fr": "Les données sur les coûts historiques des programmes ne sont pas un paramètre constant qui à lui seul permettrait de justifier de nouvelles demandes de financement. Elles peuvent plutôt aider les ministères à comprendre les coûts des programmes qu'ils mettent en œuvre et servir de point de départ raisonnable pour discuter des besoins en ressources et des facteurs de coûts.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
-    "en": "Is an operational metric that varies in direct relation to the quantity of internal services that are consumed by a program. A common cost driver is FTEs. For example, the quantity of human resources management and information technology services that are consumed by a program often varies in direct relation to the number of employees in the program.",
-    "fr": "Paramètre opérationnel qui varie en fonction directe de la quantité de services internes utilisés par un programme. Les ETP en sont un exemple commun. Ainsi, la quantité des services de gestion des ressources humaines et de technologie de l'information utilisés par un programme varie souvent en fonction directe du nombre d'employés du programme."
+    "en": "Cost Driver: Is an operational metric that varies in direct relation to the quantity of internal services that are consumed by a program. A common cost driver is FTEs. For example, the quantity of human resources management and information technology services that are consumed by a program often varies in direct relation to the number of employees in the program.",
+    "fr": "Facteur de coût : Paramètre opérationnel qui varie en fonction directe de la quantité de services internes utilisés par un programme. Les ETP en sont un exemple commun. Ainsi, la quantité des services de gestion des ressources humaines et de technologie de l'information utilisés par un programme varie souvent en fonction directe du nombre d'employés du programme.",
+    "anchor": "1",
+    "tag": "div"
   },
   {
-    "en": "The production of historical program cost information described in this section is not mandatory, does not affect the recording requirements defined in Section 6, and does not affect the reporting of expenditure information by PAA in the Reports on Plans and Priorities, Departmental Performance Reports and the .",
-    "fr": "La production de données sur les coûts historiques des programmes dont il est question dans la présente section n'est pas obligatoire, n'influence pas les exigences en matière d'enregistrement définies dans la section 6 et ne se répercute pas sur la déclaration des dépenses en fonction de l'AAP dans les rapports sur les plans et sur les priorités, les rapports ministériels sur le rendement et les ."
-  },
-  {
-    "en": "This guideline is effective on February 29, 2016.",
-    "fr": "La présente ligne directrice entre en vigueur le 29 février 2016."
-  },
-  {
-    "en": "The content of this guideline was originally issued as appendix C of the in April 2014. Appendix C was removed to avoid confusion between the Internal Services accounting requirements described in the rest of the Guide, and the content of the appendix which described an approach to costing a government program that included Internal Service costs.",
-    "fr": "Le contenu de la présente ligne directrice a été publié initialement en tant que l'annexe C du en avril 2014. L'annexe C a été retirée pour éviter toute confusion entre les exigences en matière de comptabilité des services internes énoncées dans le reste du Guide et le contenu de l'annexe qui décrivait une approche d'établissement des coûts d'un programme gouvernemental, comprenant les coûts des services internes."
-  },
-  {
-    "en": "The chief financial officer (CFO) is accountable for ensuring that the methodology used by a department to produce historical program cost information is consistent with these guidelines and the Secretariat's . The CFO is also responsible for supporting senior departmental managers in the production and analysis of historical program cost information.",
-    "fr": "Il incombe au dirigeant principal des finances (DPF) de veiller à ce que la méthodologie que le ministère utilise pour produire des données sur les coûts historiques des programmes soit conforme aux présentes lignes directrices ainsi qu'au du Secrétariat. En outre, le DPF a la responsabilité d'appuyer les cadres supérieurs du ministère dans la production et l'analyse des données sur les coûts historiques des programmes."
-  },
-  {
-    "en": "Senior departmental managers are responsible for ensuring that historical program cost information is produced in a manner consistent with direction from the CFO. Senior departmental managers are also responsible for ensuring that their managers collaborate with internal service managers and the chief financial officer's organization during the production of historical program cost information in order to ensure the information is complete and accurate.",
-    "fr": "Il incombe aux cadres supérieurs des ministères de veiller à ce que les données sur les coûts historiques des programmes soient produites de la façon prescrite par le DPF. Les cadres supérieurs des ministères ont également la responsabilité de veiller à ce que leurs gestionnaires collaborent avec les gestionnaires des services internes et avec l'organisation du DPF au moment de la production de données sur les coûts historiques des programmes pour faire en sorte que l'information soit complète et exacte."
-  },
-  {
-    "en": "The following generally accepted management accounting principles should be used when producing historical program cost information.",
-    "fr": "Les principes comptables de gestion généralement reconnus qui suivent devraient être utilisés pour la production de données sur les coûts historiques des programmes."
-  },
-  {
-    "en": "The production of historical program cost information is based on the department's existing expenditure data (i.e., charges to the department's appropriation). Expenditure data should be compiled according to the department's PAA, as presented in Section 6.",
-    "fr": "La production de données sur les coûts historiques des programmes se fait en fonction des données sur les dépenses existantes du ministère (c.-à-d. les montants à payer à même les crédits ministériels). Les données sur les dépenses devraient être rassemblées en fonction de l'AAP du ministère, comme on l'a vu dans la section 6."
-  },
-  {
-    "en": "After the expenditure data has been gathered, Internal Services program costs are attributed to other programs in order to determine the department's cost to deliver each specific program.",
-    "fr": "Une fois les données sur les dépenses recueillies, les coûts du programme des services internes seront attribués aux autres programmes, afin de déterminer ce qu'il en coûte au ministère pour exécuter chaque programme."
-  },
-  {
-    "en": "The cost of internal services is attributed to other programs through the two-step process described below. The process can be used to attribute internal service costs to a program, sub-program or sub-sub-program, depending on the level of detail required.",
-    "fr": "Les coûts des services internes sont attribués aux autres programmes au moyen du processus en deux étapes décrit ci-dessus. Ce processus peut servir à attribuer les coûts des services internes à un programme, à un sous-programme ou à un sous-sous-programme au niveau de détail requis."
-  },
-  {
-    "en": "The direct attribution process involves identifying internal service costs that were incurred solely to support a specific program.",
-    "fr": "Le processus d'attribution directe suppose l'identification des coûts des services internes qui sont survenus exclusivement pour appuyer un programme en particulier."
-  },
-  {
-    "en": "A promotional campaign in support of a specific program is being conducted. In this case, the communications services costs associated with the salaries of the employees assigned to work on the campaign and the contract costs with media outlets would be directly attributed to the program.",
-    "fr": "Une campagne de promotion est menée à l'appui d'un programme en particulier. Dans ce cas, les coûts des services de communication associés aux salaires des employés affectés à la campagne et les coûts des contrats avec les médias seront attribués directement au programme."
-  },
-  {
-    "en": "The principle of materiality is an important consideration when identifying internal service costs for direct attribution. When an internal service cost is incurred to support a specific program and is material, it should be directly attributed to that program. If the cost is not material, it would be more cost-effective to attribute the cost indirectly through a cost pool, as described in the second step. Determining whether a cost is material requires professional judgment and, when required, should involve the Office of the Chief Financial Officer.",
-    "fr": "Le principe de l'importance relative est un aspect crucial dont il faut tenir compte en identifiant les coûts des services internes aux fins d'attribution directe. Lorsque des coûts engagés pour des services internes destinés à un programme en particulier revêtent une importance relative, ils devraient être attribués directement au programme en question. Si les coûts ne revêtent pas d'importance relative, il serait plus efficace et économique de les attribuer indirectement par l'entremise d'un regroupement de coûts, comme le décrit la deuxième étape. Pour déterminer si un coût revêt une importance relative, il faut faire preuve de jugement professionnel et au besoin, faire appel au Bureau du dirigeant principal des finances."
-  },
-  {
-    "en": "In many organizations, the cost of human resources activities to support the regular staffing of vacant positions is small enough to be considered immaterial. In this case, it would be more cost-effective to group these costs with other similar costs in a cost pool and then attribute them across all other programs.",
-    "fr": "Dans plusieurs organisations, le coût des activités engagées par les ressources humaines à l'appui de mesures ordinaires pour doter des postes vacants n'est pas assez élevé pour revêtir une importance relative. Dans ce cas, il serait plus efficace et économique de les réunir avec des coûts semblables dans un regroupement de coûts puis de les répartir entre tous les autres programmes."
-  },
-  {
-    "en": "After all material internal service costs are directly attributed to a program, the remaining internal service costs are attributed across all programs in the second step.",
-    "fr": "Une fois tous les coûts des services internes qui revêtent une importance relative attribués directement à un programme, la deuxième étape consiste à répartir les coûts des services internes résiduels entre tous les programmes."
-  },
-  {
-    "en": "In order to efficiently attribute the remaining internal service costs to the other programs, the remaining costs should be accumulated into one or more cost pools.",
-    "fr": "Pour attribuer les coûts des services internes résiduels aux autres programmes de manière efficiente, il convient de les réunir en un ou plusieurs regroupements de coûts."
-  },
-  {
-    "en": "Is a grouping of homogeneous or like costs. Costs are like each other when they vary for similar reasons and at similar rates. For the sake of efficiency, costs are accumulated into cost pools to facilitate the attribution process and to accommodate different methods of attribution.",
-    "fr": "Regroupement de coûts homogènes ou de coûts qui se ressemblent. Les coûts « se ressemblent » quand ils varient pour des raisons semblables et à des taux semblables. Par souci d'efficience, les coûts sont réunis en regroupements pour faciliter le processus d'attribution et convenir à diverses méthodes d'attribution."
-  },
-  {
-    "en": "The following considerations apply when establishing cost-pool attribution methodologies:",
-    "fr": "Les considérations suivantes s'appliquent lorsqu'il s'agit d'établir des méthodologies pour l'attribution des regroupements de coûts :"
-  },
-  {
-    "en": "The following diagram illustrates how to produce historical program cost information.",
-    "fr": "Le diagramme qui suit illustre la façon de produire des données sur les coûts historiques des programmes."
-  },
-  {
-    "en": "When departments are developing their methodology for producing historical program cost information, the key considerations are as follows:",
-    "fr": "La méthodologie que les ministères élaboreront pour produire des données sur les coûts historiques des programmes comportera les principales caractéristiques suivantes :"
-  },
-  {
-    "en": "For an example of how to produce historical program cost information, see the final section of this appendix, Example for Producing Historical Program Cost Information.",
-    "fr": "On trouvera un exemple de la façon de produire des données sur les coûts historiques des programmes dans la dernière section de la présente annexe, « Exemple de la façon de produire des données sur les coûts historiques des programmes »."
-  },
-  {
-    "en": "While financial management systems are capable of recording expenditures in a department's general ledger, not all systems can support the extraction and analysis of this data to produce historical program cost information. In such cases, departments may need to produce and maintain information about the attribution of internal service costs and the resulting historical program cost information outside of their financial management system. In all cases, extracted data should be traceable back to the initial expenditure data in the general ledger. In the long term, the objective is to have departments produce and retain this information in their financial management system.",
-    "fr": "Bien que les systèmes de gestion financière soient capables de consigner les dépenses dans le grand livre du ministère, ils ne sont pas tous en mesure d'extraire et d'analyser ces données pour produire des données sur les coûts historiques des programmes. Il peut alors arriver que le ministère doive produire et tenir à jour des données sur l'attribution des coûts des services internes et les données résultantes sur les coûts historiques des programmes autrement que par son système de gestion financière. Dans tous les cas, les données extraites devraient pouvoir être retracées jusqu'aux données initiales sur les dépenses dans le grand livre. L'objectif à long terme consiste à faire en sorte que tous les ministères produisent et conservent ces données dans leur système de gestion financière."
-  },
-  {
-    "en": "When historical program cost information is based on expenditure data for an incomplete fiscal year, the user should be provided with comparable information from previous fiscal years. In light of variations that may occur between a single point in time during the year and the fiscal year-end, it is recommended that in addition to partial-year analysis and comparable information from previous years, an explanation be provided for any material variations caused by timing.",
-    "fr": "Lorsque les données sur les coûts historiques des programmes sont fondées sur les données relatives aux dépenses d'un exercice partiel, on devrait remettre à l'usager des données comparables d'exercices antérieurs. En raison des variations qui peuvent survenir à un point donné entre le début et la fin d'un exercice, on recommande de fournir, en plus de l'analyse de l'exercice partiel et des données comparables d'exercices antérieurs, une explication de tous les écarts revêtant une importance relative qui s'expliquent par le moment où les données ont été produites."
-  },
-  {
-    "en": "When there is a requirement to produce historical cost information for activities that represent a component below the lowest level of an organization's PAA, the information should be produced in a manner that is consistent with the methodology used to attribute internal service costs to other programs.",
-    "fr": "Lorsqu'il faut produire des données sur les coûts historiques d'activités qui se situent en dessous du niveau le plus bas de l'AAP de l'organisation, l'approche retenue pour produire ces données devrait être conforme à la méthode utilisée pour l'attribution des coûts des services internes à d'autres programmes."
-  },
-  {
-    "en": "The output should also be the same. The process for producing more granular information involves producing separate information on the internal service costs incurred to support the more granular activity, as well as a record of the expenditures for the specific activity itself.",
-    "fr": "L'extrant devrait également être le même. Le processus de production de données plus détaillées repose sur la production de données distinctes sur les coûts des services internes engagés à l'appui de l'activité plus finement ventilée ainsi que sur un relevé des dépenses de l'activité en soi."
-  },
-  {
-    "en": "Analyzing program costs at a single point in time is of limited value. Analyzing and understanding when, how and why program costs have changed over time is a strong basis for effective resource management at all levels of government. It provides a valuable understanding for why resources have been consumed in delivering a program.",
-    "fr": "L'intérêt de l'analyse des coûts d'un programme à un point donné dans le temps est limité. Analyser et comprendre quand, comment et pourquoi les coûts d'un programme ont changé avec le temps donnent des bases solides pour gérer efficacement les ressources à tous les échelons du gouvernement et sont utiles pour comprendre pourquoi les ressources ont été utilisées dans le cadre du programme."
-  },
-  {
-    "en": "The analysis of historical program cost information provides valuable insights into the relationship between costs, activity levels and program characteristics. Generally, the relationships between cost and activity are described as variable, fixed or step. These distinctions are important to a manager's understanding of their costs. provides definitions of these three terms.",
-    "fr": "L'analyse des coûts historiques des programmes donne de précieux renseignements sur la relation entre les coûts, les niveaux d'activité et les caractéristiques du programme. En général, les relations entre le coût et l'activité sont décrites comme étant variables, fixes ou par paliers. Ces distinctions sont importantes pour faire en sorte que le gestionnaire comprenne les coûts. On trouvera des définitions de ces trois expressions à ."
-  },
-  {
-    "en": "With knowledge of historical program costs, managers are in a stronger position to effectively manage day-to-day operations because they understand the financial implications of their decisions. They are able to:",
-    "fr": "Grâce à une connaissance des coûts historiques des programmes, les gestionnaires sont mieux placés pour gérer efficacement les activités quotidiennes, parce qu'ils comprennent les répercussions financières de leurs décisions. Ils peuvent aussi :"
-  },
-  {
-    "en": "This knowledge is a good basis for starting to plan program changes, to understand the potential resource implications of various options and to estimate the cost of implementing the recommended option.",
-    "fr": "Cette connaissance est un bon point de départ non seulement pour planifier les changements à apporter à un programme, mais aussi pour comprendre les répercussions possibles de diverses options sur les ressources et pour estimer le coût de la mise en œuvre de l'option recommandée."
-  },
-  {
-    "en": "In addition to producing historical program cost information (the cost figures described in the section Production of Historical Program Cost Information of this appendix), departments should compile, analyze and report on relevant contextual information to assist users in understanding the historical program cost information they receive. Contextual information is relevant if it offers insight into the cost of a program or can help explain why the cost of one program is more or less than the cost of another program.",
-    "fr": "En plus de produire des données sur les coûts historiques des programmes (dont on trouve la description dans la section « Production de données sur les coûts historiques des programmes » de la présente annexe), les ministères devraient rassembler, analyser et déclarer les renseignements contextuels pertinents pour aider les usagers à comprendre les données sur les coûts historiques qu'ils reçoivent. Les renseignements contextuels sont utiles s'ils permettent de comprendre le coût d'un programme ou aident à expliquer pourquoi le coût d'un programme est supérieur ou inférieur à celui d'un autre."
-  },
-  {
-    "en": "Relevant contextual information could include operational data such as the number of staff or the number or complexity of transactions. This context is relevant if a change in the numbers can impact the cost of a program. Context could also include qualitative information that describes the characteristics of a program, such as program delivery that is decentralized versus centralized. Such qualitative information can help explain unique cost elements.",
-    "fr": "Les renseignements contextuels pertinents pourraient comprendre les données opérationnelles, comme le nombre d'employés ou le nombre ou la complexité des opérations. Ils sont pertinents dans la mesure où un changement dans les chiffres peut avoir une incidence sur le coût d'un programme. Il pourrait également s'agir de renseignements qualitatifs décrivant les caractéristiques d'un programme, par exemple s'il est exécuté de manière décentralisée ou de manière centralisée. Les renseignements qualitatifs pourraient aider à expliquer des éléments de coûts uniques."
+    "en": "The production of historical program cost information described in this section is not mandatory, does not affect the recording requirements defined in Section 6, and does not affect the reporting of expenditure information by PAA in the Reports on Plans and Priorities, Departmental Performance Reports and the Public Accounts of Canada.",
+    "fr": "La production de données sur les coûts historiques des programmes dont il est question dans la présente section n'est pas obligatoire, n'influence pas les exigences en matière d'enregistrement définies dans la section 6 et ne se répercute pas sur la déclaration des dépenses en fonction de l'AAP dans les rapports sur les plans et sur les priorités, les rapports ministériels sur le rendement et les Comptes publics du Canada.",
+    "anchor": "1",
+    "tag": "p"
   },
   {
     "en": "Please direct enquiries about this guideline to your departmental headquarters. For support on this guidance, departmental headquarters should contact:",
-    "fr": "Veuillez adresser les demandes de renseignements concernant la présente ligne directrice à l'administration centrale de votre ministère. Pour obtenir de l'aide sur ces directives, les administrations centrales des ministères devraient communiquer avec"
+    "fr": "Veuillez adresser les demandes de renseignements concernant la présente ligne directrice à l'administration centrale de votre ministère. Pour obtenir de l'aide sur ces directives, les administrations centrales des ministères devraient communiquer avec",
+    "anchor": "10",
+    "tag": "p"
   },
   {
-    "en": "Office of the Comptroller General Treasury Board of Canada Secretariat Ottawa ON K1A 0R5",
-    "fr": "Bureau du contrôleur général Secrétariat du Conseil du Trésor du Canada Ottawa (Ontario) K1A 0R5"
+    "en": "Financial Management SectorOffice of the Comptroller GeneralTreasury Board of Canada SecretariatOttawa ON K1A 0R5",
+    "fr": "Secteur de la gestion financièreBureau du contrôleur généralSecrétariat du Conseil du Trésor du CanadaOttawa (Ontario) K1A 0R5",
+    "anchor": "10",
+    "tag": "p"
   },
   {
-    "en": "For public enquiries regarding this guideline, please contact .",
-    "fr": "Pour les demandes de renseignements du public au sujet du présent instrument de politique, veuillez communiquer avec l'équipe chargée des ."
+    "en": "For public enquiries regarding this guideline, please contact TBS Public Enquiries.",
+    "fr": "Pour les demandes de renseignements du public au sujet du présent instrument de politique, veuillez communiquer avec l'équipe chargée des demandes de renseignements du SCT.",
+    "anchor": "10",
+    "tag": "p"
+  },
+  {
+    "en": "This guideline is effective on February 29, 2016.",
+    "fr": "La présente ligne directrice entre en vigueur le 29 février 2016.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "The content of this guideline was originally issued as appendix C of the Guide on Internal Services Expenditures: Recording, Reporting and Attributing in April 2014. Appendix C was removed to avoid confusion between the Internal Services accounting requirements described in the rest of the Guide, and the content of the appendix which described an approach to costing a government program that included Internal Service costs.",
+    "fr": "Le contenu de la présente ligne directrice a été publié initialement en tant que l'annexe C du Guide sur les dépenses dans les services internes : comptabilisation, établissement de rapports et attribution en avril 2014. L'annexe C a été retirée pour éviter toute confusion entre les exigences en matière de comptabilité des services internes énoncées dans le reste du Guide et le contenu de l'annexe qui décrivait une approche d'établissement des coûts d'un programme gouvernemental, comprenant les coûts des services internes.",
+    "anchor": "2",
+    "tag": "p"
+  },
+  {
+    "en": "The chief financial officer (CFO) is accountable for ensuring that the methodology used by a department to produce historical program cost information is consistent with these guidelines and the Secretariat's Guidelines on Costing. The CFO is also responsible for supporting senior departmental managers in the production and analysis of historical program cost information.",
+    "fr": "Il incombe au dirigeant principal des finances (DPF) de veiller à ce que la méthodologie que le ministère utilise pour produire des données sur les coûts historiques des programmes soit conforme aux présentes lignes directrices ainsi qu'au Lignes directrices sur l'établissement des coûts du Secrétariat. En outre, le DPF a la responsabilité d'appuyer les cadres supérieurs du ministère dans la production et l'analyse des données sur les coûts historiques des programmes.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "Senior departmental managers are responsible for ensuring that historical program cost information is produced in a manner consistent with direction from the CFO. Senior departmental managers are also responsible for ensuring that their managers collaborate with internal service managers and the chief financial officer's organization during the production of historical program cost information in order to ensure the information is complete and accurate.",
+    "fr": "Il incombe aux cadres supérieurs des ministères de veiller à ce que les données sur les coûts historiques des programmes soient produites de la façon prescrite par le DPF. Les cadres supérieurs des ministères ont également la responsabilité de veiller à ce que leurs gestionnaires collaborent avec les gestionnaires des services internes et avec l'organisation du DPF au moment de la production de données sur les coûts historiques des programmes pour faire en sorte que l'information soit complète et exacte.",
+    "anchor": "3",
+    "tag": "p"
+  },
+  {
+    "en": "The following generally accepted management accounting principles should be used when producing historical program cost information.",
+    "fr": "Les principes comptables de gestion généralement reconnus qui suivent devraient être utilisés pour la production de données sur les coûts historiques des programmes.",
+    "anchor": "4",
+    "tag": "p"
+  },
+  {
+    "en": "The production of historical program cost information is based on the department's existing expenditure data (i.e., charges to the department's appropriation). Expenditure data should be compiled according to the department's PAA, as presented in Section 6.",
+    "fr": "La production de données sur les coûts historiques des programmes se fait en fonction des données sur les dépenses existantes du ministère (c.-à-d. les montants à payer à même les crédits ministériels). Les données sur les dépenses devraient être rassemblées en fonction de l'AAP du ministère, comme on l'a vu dans la section 6.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "After the expenditure data has been gathered, Internal Services program costs are attributed to other programs in order to determine the department's cost to deliver each specific program.",
+    "fr": "Une fois les données sur les dépenses recueillies, les coûts du programme des services internes seront attribués aux autres programmes, afin de déterminer ce qu'il en coûte au ministère pour exécuter chaque programme.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "The cost of internal services is attributed to other programs through the two-step process described below. The process can be used to attribute internal service costs to a program, sub-program or sub-sub-program, depending on the level of detail required.",
+    "fr": "Les coûts des services internes sont attribués aux autres programmes au moyen du processus en deux étapes décrit ci-dessus. Ce processus peut servir à attribuer les coûts des services internes à un programme, à un sous-programme ou à un sous-sous-programme au niveau de détail requis.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "First Step: Direct Attribution of Internal Service Costs",
+    "fr": "Première étape – Attribution directe des coûts des services internes",
+    "anchor": "5",
+    "tag": "h3"
+  },
+  {
+    "en": "The direct attribution process involves identifying internal service costs that were incurred solely to support a specific program.",
+    "fr": "Le processus d'attribution directe suppose l'identification des coûts des services internes qui sont survenus exclusivement pour appuyer un programme en particulier.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Example 1: A promotional campaign in support of a specific program is being conducted. In this case, the communications services costs associated with the salaries of the employees assigned to work on the campaign and the contract costs with media outlets would be directly attributed to the program.",
+    "fr": "Exemple 1 : Une campagne de promotion est menée à l'appui d'un programme en particulier. Dans ce cas, les coûts des services de communication associés aux salaires des employés affectés à la campagne et les coûts des contrats avec les médias seront attribués directement au programme.",
+    "anchor": "5",
+    "tag": "div"
+  },
+  {
+    "en": "The principle of materiality is an important consideration when identifying internal service costs for direct attribution. When an internal service cost is incurred to support a specific program and is material, it should be directly attributed to that program. If the cost is not material, it would be more cost-effective to attribute the cost indirectly through a cost pool, as described in the second step. Determining whether a cost is material requires professional judgment and, when required, should involve the Office of the Chief Financial Officer.",
+    "fr": "Le principe de l'importance relative est un aspect crucial dont il faut tenir compte en identifiant les coûts des services internes aux fins d'attribution directe. Lorsque des coûts engagés pour des services internes destinés à un programme en particulier revêtent une importance relative, ils devraient être attribués directement au programme en question. Si les coûts ne revêtent pas d'importance relative, il serait plus efficace et économique de les attribuer indirectement par l'entremise d'un regroupement de coûts, comme le décrit la deuxième étape. Pour déterminer si un coût revêt une importance relative, il faut faire preuve de jugement professionnel et au besoin, faire appel au Bureau du dirigeant principal des finances.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Example 2: In many organizations, the cost of human resources activities to support the regular staffing of vacant positions is small enough to be considered immaterial. In this case, it would be more cost-effective to group these costs with other similar costs in a cost pool and then attribute them across all other programs.",
+    "fr": "Exemple 2 : Dans plusieurs organisations, le coût des activités engagées par les ressources humaines à l'appui de mesures ordinaires pour doter des postes vacants n'est pas assez élevé pour revêtir une importance relative. Dans ce cas, il serait plus efficace et économique de les réunir avec des coûts semblables dans un regroupement de coûts puis de les répartir entre tous les autres programmes.",
+    "anchor": "5",
+    "tag": "div"
+  },
+  {
+    "en": "After all material internal service costs are directly attributed to a program, the remaining internal service costs are attributed across all programs in the second step.",
+    "fr": "Une fois tous les coûts des services internes qui revêtent une importance relative attribués directement à un programme, la deuxième étape consiste à répartir les coûts des services internes résiduels entre tous les programmes.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Second Step: Cost-Pool Attribution of Internal Service Costs",
+    "fr": "Deuxième étape – Attribution regroupée des coûts des services internes",
+    "anchor": "5",
+    "tag": "h3"
+  },
+  {
+    "en": "In order to efficiently attribute the remaining internal service costs to the other programs, the remaining costs should be accumulated into one or more cost pools.",
+    "fr": "Pour attribuer les coûts des services internes résiduels aux autres programmes de manière efficiente, il convient de les réunir en un ou plusieurs regroupements de coûts.",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Cost Pool: Is a grouping of homogeneous or like costs. Costs are like each other when they vary for similar reasons and at similar rates. For the sake of efficiency, costs are accumulated into cost pools to facilitate the attribution process and to accommodate different methods of attribution.",
+    "fr": "Regroupement de coûts : Regroupement de coûts homogènes ou de coûts qui se ressemblent. Les coûts « se ressemblent » quand ils varient pour des raisons semblables et à des taux semblables. Par souci d'efficience, les coûts sont réunis en regroupements pour faciliter le processus d'attribution et convenir à diverses méthodes d'attribution.",
+    "anchor": "5",
+    "tag": "div"
+  },
+  {
+    "en": "The following considerations apply when establishing cost-pool attribution methodologies:",
+    "fr": "Les considérations suivantes s'appliquent lorsqu'il s'agit d'établir des méthodologies pour l'attribution des regroupements de coûts :",
+    "anchor": "5",
+    "tag": "p"
+  },
+  {
+    "en": "Generally, the number of cost pools should be kept to a minimum.Many internal service costs vary in direct relation to the number of employees; therefore, these costs could be grouped into a single cost pool, and the pool would be attributed based on the number of employees in each program.Some internal services do not vary in relation to the number of employees, such as legal services and communications services. The consumption of these internal services may be tracked using different metrics that provide a reasonable basis for attributing these costs (e.g., hours worked per file).Some organizations track operational data that relate directly to the consumption of internal service resources. For example, departments may track the number of external inspections performed. If departments know the relationship between the number of inspections and the level of internal service support required, they can use the number of inspections to attribute the relevant pool of costs. Documented operational data that relate directly to internal service consumption are an effective basis for attributing internal service cost pools.The number of cost pools and the attribution methodology should take into consideration whether the amounts are material and whether the subsequent production of historical program cost information will be cost-effective.Only one method of attribution should be used for each cost pool.If there are residual internal service costs that have no identifiable relationship with other programs, or that are immaterial, they should be included in the largest internal service cost pool (i.e., based on dollar value). Including residual costs in the largest cost pool will minimize the possibility that they could distort program costs.",
+    "fr": "Généralement, le nombre de regroupements des coûts devrait être maintenu au minimum.Plusieurs coûts des services internes varient en fonction directe du nombre d'employés, de sorte qu'ils pourraient être réunis en un seul regroupement de coûts dont l'attribution pourrait se faire en fonction du nombre d'employés de chaque programme.Certains services internes ne varient pas en fonction du nombre d'employés, notamment les services juridiques et les services de communication. On peut suivre l'utilisation qui est faite de ces services internes au moyen de différents paramètres qui peuvent constituer une base raisonnable pour l'attribution de ces coûts (p. ex., heures travaillées par dossier).Certaines organisations suivent les données opérationnelles qui ont un lien direct avec l'utilisation des ressources affectées aux services internes. Par exemple, un ministère peut suivre le nombre d'inspections externes qui sont effectuées. S'il connaît le lien entre le nombre d'inspections et le niveau de services internes qu'elles nécessitent, il peut se servir du nombre d'inspections pour l'attribution du regroupement de coûts pertinent. Les données opérationnelles étayées par des documents qui ont un lien direct avec l'utilisation des services internes sont un point de départ efficace pour attribuer les regroupements de coûts des services internes.Pour déterminer le nombre de regroupements de coûts et la méthode d'attribution, il conviendrait de se demander si les montants revêtent une importance relative et si la production subséquente de données sur les coûts historiques des programmes sera efficace et économique.On devrait utiliser une seule méthode d'attribution par regroupement de coûts.S'il reste des coûts des services internes pour lesquels on ne peut pas déterminer de relation avec d'autres programmes ou qui ne revêtent pas d'importance relative, il faudrait les inclure dans le plus grand regroupement de coûts des services internes (c.-à-d. d'après la valeur pécuniaire). De cette façon, on réduit au minimum la possibilité que ces coûts puissent fausser les coûts des programmes.",
+    "anchor": "5",
+    "tag": "ul"
+  },
+  {
+    "en": "The following diagram illustrates how to produce historical program cost information.",
+    "fr": "Le diagramme qui suit illustre la façon de produire des données sur les coûts historiques des programmes.",
+    "anchor": "6",
+    "tag": "p"
+  },
+  {
+    "en": "Figure 1. Production of Historical Program Cost InformationFigure 1 - Text version",
+    "fr": "Figure 1. Production de données sur les coûts historiques des programmesFigure 1 - Version textuelle",
+    "anchor": "6",
+    "tag": "div"
+  },
+  {
+    "en": "Methodology",
+    "fr": "Méthodologie",
+    "anchor": "6",
+    "tag": "h3"
+  },
+  {
+    "en": "When departments are developing their methodology for producing historical program cost information, the key considerations are as follows:",
+    "fr": "La méthodologie que les ministères élaboreront pour produire des données sur les coûts historiques des programmes comportera les principales caractéristiques suivantes :",
+    "anchor": "6",
+    "tag": "p"
+  },
+  {
+    "en": "The methodology is consistent with the guidance on attribution of internal service costs presented in the section Attribution of Internal Service Costs of this appendix;It uses expenditure data that reconciles at the program level to the department's Program Activity table in Volume II of the Public Accounts of Canada. It does not include services provided without charge by other departments and services that are centrally funded;The methodology is internally consistent. For example, when a cost pool of internal services is attributed to specific programs on the basis of the number of FTEs, the cost pool should be attributed to all levels of the PAA on the same basis;It is documented, endorsed by the CFO and periodically reviewed. If a review results in changes to the methodology, then the changes, a rationale for the changes, and their impact should be documented; andThe methodology produces information at the lowest level of the PAA. If program cost information is required at a higher PAA level, the higher-level cost information should be a summary or roll-up of the lower-level cost information.",
+    "fr": "être conforme aux indications sur l'attribution des coûts des services internes présentées dans la section « Attribution des coûts des services internes » de la présente annexe;utiliser des données sur les dépenses qui permettent de faire un rapprochement au niveau du programme avec le tableau des activités de programmes du ministère, dans le volume II des Comptes publics du Canada; les données ne comprennent ni les services offerts sans frais par d'autres ministères ni les services financés par l'administration centrale;s'appliquer de manière uniforme à l'interne. Par exemple, lorsqu'un regroupement de coûts de services internes est attribué à des programmes en particulier en fonction du nombre d'ETP, ce regroupement devrait être attribué sur la même base à tous les niveaux de l'AAP;être étayée par des documents, entérinée par le DPF et examinée périodiquement. Si un examen entraîne des changements de la méthodologie, la nature de ces changements, leur justification et leur incidence devraient être étayées par des documents;produire des données au plus bas niveau de l'AAP. Si des données sur les coûts d'un programme sont requises à un niveau plus élevé de l'AAP, les données au niveau le plus élevé devraient représenter un résumé ou une récapitulation des données du niveau inférieur.",
+    "anchor": "6",
+    "tag": "ul"
+  },
+  {
+    "en": "For an example of how to produce historical program cost information, see the final section of this appendix, Example for Producing Historical Program Cost Information.",
+    "fr": "On trouvera un exemple de la façon de produire des données sur les coûts historiques des programmes dans la dernière section de la présente annexe, « Exemple de la façon de produire des données sur les coûts historiques des programmes ».",
+    "anchor": "6",
+    "tag": "p"
+  },
+  {
+    "en": "Other considerations",
+    "fr": "Autres considérations",
+    "anchor": "6",
+    "tag": "h3"
+  },
+  {
+    "en": "While financial management systems are capable of recording expenditures in a department's general ledger, not all systems can support the extraction and analysis of this data to produce historical program cost information. In such cases, departments may need to produce and maintain information about the attribution of internal service costs and the resulting historical program cost information outside of their financial management system. In all cases, extracted data should be traceable back to the initial expenditure data in the general ledger. In the long term, the objective is to have departments produce and retain this information in their financial management system.",
+    "fr": "Bien que les systèmes de gestion financière soient capables de consigner les dépenses dans le grand livre du ministère, ils ne sont pas tous en mesure d'extraire et d'analyser ces données pour produire des données sur les coûts historiques des programmes. Il peut alors arriver que le ministère doive produire et tenir à jour des données sur l'attribution des coûts des services internes et les données résultantes sur les coûts historiques des programmes autrement que par son système de gestion financière. Dans tous les cas, les données extraites devraient pouvoir être retracées jusqu'aux données initiales sur les dépenses dans le grand livre. L'objectif à long terme consiste à faire en sorte que tous les ministères produisent et conservent ces données dans leur système de gestion financière.",
+    "anchor": "6",
+    "tag": "p"
+  },
+  {
+    "en": "When historical program cost information is based on expenditure data for an incomplete fiscal year, the user should be provided with comparable information from previous fiscal years. In light of variations that may occur between a single point in time during the year and the fiscal year-end, it is recommended that in addition to partial-year analysis and comparable information from previous years, an explanation be provided for any material variations caused by timing.",
+    "fr": "Lorsque les données sur les coûts historiques des programmes sont fondées sur les données relatives aux dépenses d'un exercice partiel, on devrait remettre à l'usager des données comparables d'exercices antérieurs. En raison des variations qui peuvent survenir à un point donné entre le début et la fin d'un exercice, on recommande de fournir, en plus de l'analyse de l'exercice partiel et des données comparables d'exercices antérieurs, une explication de tous les écarts revêtant une importance relative qui s'expliquent par le moment où les données ont été produites.",
+    "anchor": "6",
+    "tag": "p"
+  },
+  {
+    "en": "When there is a requirement to produce historical cost information for activities that represent a component below the lowest level of an organization's PAA, the information should be produced in a manner that is consistent with the methodology used to attribute internal service costs to other programs.",
+    "fr": "Lorsqu'il faut produire des données sur les coûts historiques d'activités qui se situent en dessous du niveau le plus bas de l'AAP de l'organisation, l'approche retenue pour produire ces données devrait être conforme à la méthode utilisée pour l'attribution des coûts des services internes à d'autres programmes.",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "The output should also be the same. The process for producing more granular information involves producing separate information on the internal service costs incurred to support the more granular activity, as well as a record of the expenditures for the specific activity itself.",
+    "fr": "L'extrant devrait également être le même. Le processus de production de données plus détaillées repose sur la production de données distinctes sur les coûts des services internes engagés à l'appui de l'activité plus finement ventilée ainsi que sur un relevé des dépenses de l'activité en soi.",
+    "anchor": "7",
+    "tag": "p"
+  },
+  {
+    "en": "Analyzing program costs at a single point in time is of limited value. Analyzing and understanding when, how and why program costs have changed over time is a strong basis for effective resource management at all levels of government. It provides a valuable understanding for why resources have been consumed in delivering a program.",
+    "fr": "L'intérêt de l'analyse des coûts d'un programme à un point donné dans le temps est limité. Analyser et comprendre quand, comment et pourquoi les coûts d'un programme ont changé avec le temps donnent des bases solides pour gérer efficacement les ressources à tous les échelons du gouvernement et sont utiles pour comprendre pourquoi les ressources ont été utilisées dans le cadre du programme.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "The analysis of historical program cost information provides valuable insights into the relationship between costs, activity levels and program characteristics. Generally, the relationships between cost and activity are described as variable, fixed or step. These distinctions are important to a manager's understanding of their costs. Appendix A provides definitions of these three terms.",
+    "fr": "L'analyse des coûts historiques des programmes donne de précieux renseignements sur la relation entre les coûts, les niveaux d'activité et les caractéristiques du programme. En général, les relations entre le coût et l'activité sont décrites comme étant variables, fixes ou par paliers. Ces distinctions sont importantes pour faire en sorte que le gestionnaire comprenne les coûts. On trouvera des définitions de ces trois expressions à l'annexe A.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "With knowledge of historical program costs, managers are in a stronger position to effectively manage day-to-day operations because they understand the financial implications of their decisions. They are able to:",
+    "fr": "Grâce à une connaissance des coûts historiques des programmes, les gestionnaires sont mieux placés pour gérer efficacement les activités quotidiennes, parce qu'ils comprennent les répercussions financières de leurs décisions. Ils peuvent aussi :",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "Explain why the internal service costs of one program are different from another; andIdentify opportunities for cost-containment, where the costs of one program exceed the costs of a comparable program.",
+    "fr": "expliquer pourquoi les coûts des services internes d'un programme sont différents de ceux d'un autre;déterminer les possibilités de limiter les coûts lorsque les coûts d'un programme sont supérieurs à ceux d'un programme comparable.",
+    "anchor": "8",
+    "tag": "ul"
+  },
+  {
+    "en": "This knowledge is a good basis for starting to plan program changes, to understand the potential resource implications of various options and to estimate the cost of implementing the recommended option.",
+    "fr": "Cette connaissance est un bon point de départ non seulement pour planifier les changements à apporter à un programme, mais aussi pour comprendre les répercussions possibles de diverses options sur les ressources et pour estimer le coût de la mise en œuvre de l'option recommandée.",
+    "anchor": "8",
+    "tag": "p"
+  },
+  {
+    "en": "In addition to producing historical program cost information (the cost figures described in the section Production of Historical Program Cost Information of this appendix), departments should compile, analyze and report on relevant contextual information to assist users in understanding the historical program cost information they receive. Contextual information is relevant if it offers insight into the cost of a program or can help explain why the cost of one program is more or less than the cost of another program.",
+    "fr": "En plus de produire des données sur les coûts historiques des programmes (dont on trouve la description dans la section « Production de données sur les coûts historiques des programmes » de la présente annexe), les ministères devraient rassembler, analyser et déclarer les renseignements contextuels pertinents pour aider les usagers à comprendre les données sur les coûts historiques qu'ils reçoivent. Les renseignements contextuels sont utiles s'ils permettent de comprendre le coût d'un programme ou aident à expliquer pourquoi le coût d'un programme est supérieur ou inférieur à celui d'un autre.",
+    "anchor": "9",
+    "tag": "p"
+  },
+  {
+    "en": "Relevant contextual information could include operational data such as the number of staff or the number or complexity of transactions. This context is relevant if a change in the numbers can impact the cost of a program. Context could also include qualitative information that describes the characteristics of a program, such as program delivery that is decentralized versus centralized. Such qualitative information can help explain unique cost elements.",
+    "fr": "Les renseignements contextuels pertinents pourraient comprendre les données opérationnelles, comme le nombre d'employés ou le nombre ou la complexité des opérations. Ils sont pertinents dans la mesure où un changement dans les chiffres peut avoir une incidence sur le coût d'un programme. Il pourrait également s'agir de renseignements qualitatifs décrivant les caractéristiques d'un programme, par exemple s'il est exécuté de manière décentralisée ou de manière centralisée. Les renseignements qualitatifs pourraient aider à expliquer des éléments de coûts uniques.",
+    "anchor": "9",
+    "tag": "p"
   },
   {
     "en": "Figure 1 is a flow diagram that illustrates how historical program cost information is produced. The diagram depicts an organization that has three programs (Program One, Program Two and Program Three) plus an Internal Services Program.",
-    "fr": "La figure 1 est un diagramme de processus illustrant la façon dont les données sur les coûts historiques des programmes sont produites. Le diagramme présente une organisation ayant trois programmes (programme A, programme B et programme C) ainsi qu'un programme de services internes."
+    "fr": "La figure 1 est un diagramme de processus illustrant la façon dont les données sur les coûts historiques des programmes sont produites. Le diagramme présente une organisation ayant trois programmes (programme A, programme B et programme C) ainsi qu'un programme de services internes.",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "The diagram shows that the internal service expenditures are divided into three portions and attributed to each of the programs. For each program, the attributed Internal Service costs are added to the program expenditures to arrive at the department's cost to deliver the program (i.e., the historical program cost).",
-    "fr": "Le diagramme montre que les dépenses liées aux services internes sont divisées en trois parties et attribuées à chacun des programmes. Pour chaque programme, les coûts attribués des services internes sont ajoutés aux dépenses du programme pour obtenir le coût d'exécution du programme pour le ministère (c.-à-d., le coût historique de programme)."
+    "fr": "Le diagramme montre que les dépenses liées aux services internes sont divisées en trois parties et attribuées à chacun des programmes. Pour chaque programme, les coûts attribués des services internes sont ajoutés aux dépenses du programme pour obtenir le coût d'exécution du programme pour le ministère (c.-à-d., le coût historique de programme).",
+    "anchor": "ld1",
+    "tag": "p"
   },
   {
     "en": "Figure 2 is a diagram of a line graph that illustrates the concept of step costs. The horizontal axis represents the volume of activity, and the vertical axis represents the cost in dollars. The scales are not labelled.",
-    "fr": "La figure 2 présente un graphique linéaire simple illustrant le concept des coûts par paliers. L'axe horizontal représente le volume d'activité, alors que l'axe vertical représente les coûts en dollars. Les échelles ne sont pas étiquetées."
+    "fr": "La figure 2 présente un graphique linéaire simple illustrant le concept des coûts par paliers. L'axe horizontal représente le volume d'activité, alors que l'axe vertical représente les coûts en dollars. Les échelles ne sont pas étiquetées.",
+    "anchor": "ld2",
+    "tag": "p"
   },
   {
     "en": "The line depicts a step cost. The first part of the line is horizontal to illustrate that the cost remains the same even though the volume of activity is increasing. At a given volume, the cost increases significantly. This is represented by a vertical line. The cost then levels out once the capacity of the organization can meet demand. The repetition of this pattern creates a series of steps, giving this cost behaviour its name.",
-    "fr": "La ligne représente un coût par paliers. La première partie de la ligne est horizontale pour indiquer que le coût demeure le même malgré la hausse du volume d'activité. Lorsque le volume d'activité atteint un niveau donné, le coût augmente considérablement. Cette situation est représentée par une ligne verticale. Le coût se stabilise ensuite, une fois que l'organisation a la capacité de répondre à la demande. La répétition de cette tendance crée une série de paliers, attribuant ainsi son nom à l'évolution des coûts."
+    "fr": "La ligne représente un coût par paliers. La première partie de la ligne est horizontale pour indiquer que le coût demeure le même malgré la hausse du volume d'activité. Lorsque le volume d'activité atteint un niveau donné, le coût augmente considérablement. Cette situation est représentée par une ligne verticale. Le coût se stabilise ensuite, une fois que l'organisation a la capacité de répondre à la demande. La répétition de cette tendance crée une série de paliers, attribuant ainsi son nom à l'évolution des coûts.",
+    "anchor": "ld2",
+    "tag": "p"
   },
   {
     "en": "Figure 3 illustrates the organizational structure of the scenario department. The organization comprises three sectors: the Program Sector, the Operations Sector and the Corporate Services Sector. The Program Sector is made up of the Industrial Research Branch and the Academic Research Branch. The Operations Sector is made up of four regions: the Eastern Region, the Central Region, the Western Region and the Northern Region. The Corporate Services Sector has no breakdown.",
-    "fr": "La figure 3 illustre la structure organisationnelle du ministère servant d'exemple. L'organisation comprend trois secteurs, soit le Secteur des programmes, le Secteur des opérations et le Secteur des services ministériels. Le Secteur des programmes inclut la Direction de la recherche industrielle et la Direction de la recherche universitaire. Le Secteur des opérations inclut quatre régions, soit la région de l'Est, la région du Centre, la région de l'Ouest et la région du Nord. Le Secteur des services ministériels n'est pas subdivisé."
+    "fr": "La figure 3 illustre la structure organisationnelle du ministère servant d'exemple. L'organisation comprend trois secteurs, soit le Secteur des programmes, le Secteur des opérations et le Secteur des services ministériels. Le Secteur des programmes inclut la Direction de la recherche industrielle et la Direction de la recherche universitaire. Le Secteur des opérations inclut quatre régions, soit la région de l'Est, la région du Centre, la région de l'Ouest et la région du Nord. Le Secteur des services ministériels n'est pas subdivisé.",
+    "anchor": "ld3",
+    "tag": "p"
   },
   {
     "en": "Figure 4 illustrates the scenario department's Program Alignment Architecture. This department has three programs, which are the Transfer Payment Program, the Service Program and the Internal Services Program. The Transfer Payment Program has two sub-programs: the Industrial Contribution Sub-Program and the Academic Grant Sub-Program. The other two programs have no breakdown.",
-    "fr": "La figure 4 illustre l'architecture d'alignement des programmes du ministère servant d'exemple. Ce ministère a trois programmes, soit le Programme des paiements de transfert, le Programme des services et le Programme des services internes. Le Programme des paiements de transfert comporte deux sous-programmes, soit le Sous-programme de la contribution de l'industrie et le Sous-programme de la recherche universitaire. Les deux autres programmes ne sont pas subdivisés."
-  },
-  {
-    "en": "Generally, the number of cost pools should be kept to a minimum.",
-    "fr": "Généralement, le nombre de regroupements des coûts devrait être maintenu au minimum."
-  },
-  {
-    "en": "Many internal service costs vary in direct relation to the number of employees; therefore, these costs could be grouped into a single cost pool, and the pool would be attributed based on the number of employees in each program.",
-    "fr": "Plusieurs coûts des services internes varient en fonction directe du nombre d'employés, de sorte qu'ils pourraient être réunis en un seul regroupement de coûts dont l'attribution pourrait se faire en fonction du nombre d'employés de chaque programme."
-  },
-  {
-    "en": "Some internal services do not vary in relation to the number of employees, such as legal services and communications services. The consumption of these internal services may be tracked using different metrics that provide a reasonable basis for attributing these costs (e.g., hours worked per file).",
-    "fr": "Certains services internes ne varient pas en fonction du nombre d'employés, notamment les services juridiques et les services de communication. On peut suivre l'utilisation qui est faite de ces services internes au moyen de différents paramètres qui peuvent constituer une base raisonnable pour l'attribution de ces coûts (p. ex., heures travaillées par dossier)."
-  },
-  {
-    "en": "Some organizations track operational data that relate directly to the consumption of internal service resources. For example, departments may track the number of external inspections performed. If departments know the relationship between the number of inspections and the level of internal service support required, they can use the number of inspections to attribute the relevant pool of costs. Documented operational data that relate directly to internal service consumption are an effective basis for attributing internal service cost pools.",
-    "fr": "Certaines organisations suivent les données opérationnelles qui ont un lien direct avec l'utilisation des ressources affectées aux services internes. Par exemple, un ministère peut suivre le nombre d'inspections externes qui sont effectuées. S'il connaît le lien entre le nombre d'inspections et le niveau de services internes qu'elles nécessitent, il peut se servir du nombre d'inspections pour l'attribution du regroupement de coûts pertinent. Les données opérationnelles étayées par des documents qui ont un lien direct avec l'utilisation des services internes sont un point de départ efficace pour attribuer les regroupements de coûts des services internes."
-  },
-  {
-    "en": "The number of cost pools and the attribution methodology should take into consideration whether the amounts are material and whether the subsequent production of historical program cost information will be cost-effective.",
-    "fr": "Pour déterminer le nombre de regroupements de coûts et la méthode d'attribution, il conviendrait de se demander si les montants revêtent une importance relative et si la production subséquente de données sur les coûts historiques des programmes sera efficace et économique."
-  },
-  {
-    "en": "Only one method of attribution should be used for each cost pool.",
-    "fr": "On devrait utiliser une seule méthode d'attribution par regroupement de coûts."
-  },
-  {
-    "en": "If there are residual internal service costs that have no identifiable relationship with other programs, or that are immaterial, they should be included in the largest internal service cost pool (i.e., based on dollar value). Including residual costs in the largest cost pool will minimize the possibility that they could distort program costs.",
-    "fr": "S'il reste des coûts des services internes pour lesquels on ne peut pas déterminer de relation avec d'autres programmes ou qui ne revêtent pas d'importance relative, il faudrait les inclure dans le plus grand regroupement de coûts des services internes (c.-à-d. d'après la valeur pécuniaire). De cette façon, on réduit au minimum la possibilité que ces coûts puissent fausser les coûts des programmes."
-  },
-  {
-    "en": "The methodology is consistent with the guidance on attribution of internal service costs presented in the section Attribution of Internal Service Costs of this appendix;",
-    "fr": "être conforme aux indications sur l'attribution des coûts des services internes présentées dans la section « Attribution des coûts des services internes » de la présente annexe;"
-  },
-  {
-    "en": "It uses expenditure data that reconciles at the program level to the department's Program Activity table in Volume II of the . It does not include services provided without charge by other departments and services that are centrally funded;",
-    "fr": "utiliser des données sur les dépenses qui permettent de faire un rapprochement au niveau du programme avec le tableau des activités de programmes du ministère, dans le volume II des ; les données ne comprennent ni les services offerts sans frais par d'autres ministères ni les services financés par l'administration centrale;"
-  },
-  {
-    "en": "The methodology is internally consistent. For example, when a cost pool of internal services is attributed to specific programs on the basis of the number of FTEs, the cost pool should be attributed to all levels of the PAA on the same basis;",
-    "fr": "s'appliquer de manière uniforme à l'interne. Par exemple, lorsqu'un regroupement de coûts de services internes est attribué à des programmes en particulier en fonction du nombre d'ETP, ce regroupement devrait être attribué sur la même base à tous les niveaux de l'AAP;"
-  },
-  {
-    "en": "It is documented, endorsed by the CFO and periodically reviewed. If a review results in changes to the methodology, then the changes, a rationale for the changes, and their impact should be documented; and",
-    "fr": "être étayée par des documents, entérinée par le DPF et examinée périodiquement. Si un examen entraîne des changements de la méthodologie, la nature de ces changements, leur justification et leur incidence devraient être étayées par des documents;"
-  },
-  {
-    "en": "The methodology produces information at the lowest level of the PAA. If program cost information is required at a higher PAA level, the higher-level cost information should be a summary or roll-up of the lower-level cost information.",
-    "fr": "produire des données au plus bas niveau de l'AAP. Si des données sur les coûts d'un programme sont requises à un niveau plus élevé de l'AAP, les données au niveau le plus élevé devraient représenter un résumé ou une récapitulation des données du niveau inférieur."
-  },
-  {
-    "en": "Explain why the internal service costs of one program are different from another; and",
-    "fr": "expliquer pourquoi les coûts des services internes d'un programme sont différents de ceux d'un autre;"
-  },
-  {
-    "en": "Identify opportunities for cost-containment, where the costs of one program exceed the costs of a comparable program.",
-    "fr": "déterminer les possibilités de limiter les coûts lorsque les coûts d'un programme sont supérieurs à ceux d'un programme comparable."
+    "fr": "La figure 4 illustre l'architecture d'alignement des programmes du ministère servant d'exemple. Ce ministère a trois programmes, soit le Programme des paiements de transfert, le Programme des services et le Programme des services internes. Le Programme des paiements de transfert comporte deux sous-programmes, soit le Sous-programme de la contribution de l'industrie et le Sous-programme de la recherche universitaire. Les deux autres programmes ne sont pas subdivisés.",
+    "anchor": "ld4",
+    "tag": "p"
   }
 ]
