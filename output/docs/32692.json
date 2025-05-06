@@ -1,0 +1,1422 @@
+{
+  "32763": [
+    {
+      "en": "The has been updated and renamed the , effective June 30, 2023.",
+      "fr": "Les ont été mises à jour et renommées le Guide de la publication proactive des marchés, qui entre en vigueur le 30 juin 2023."
+    },
+    {
+      "en": "This guide builds on the requirements for reporting on proactive publication of contracts under Appendix C of the . The guide includes additional requirements to strengthen guidance on the following:",
+      "fr": "Le guide repose sur les exigences relatives à l’établissement de rapports sur la publication proactive des contrats énoncées à l’annexe C de la . Il traite d’exigences supplémentaires qui renforcent les instructions qu’il contient, notamment les suivantes :"
+    },
+    {
+      "en": "This version of the guide takes effect on .",
+      "fr": "La présente version du guide entre en vigueur le ."
+    },
+    {
+      "en": "This guide replaces the dated .",
+      "fr": "Le présent guide remplace les datées du ."
+    },
+    {
+      "en": "To provide guidance to managers and functional specialists on the identification, collection, reporting and proactive publication of contract information.",
+      "fr": "Fournir aux gestionnaires et aux spécialistes fonctionnels des instructions sur la détermination, la collecte, l’établissement de rapports et la publication proactive de renseignements sur les marchés."
+    },
+    {
+      "en": "As part of Canada’s second Action Plan on Open Government, the Government of Canada has committed to the disclosure of contracting data via a centralized, machine-readable database available to the public. This commitment reinforces the proactive publication of contracts, which reflects broader government commitments to transparency and strengthened accountability within the public sector originally announced in Budget 2004.",
+      "fr": "Dans le cadre du deuxième Plan d’action national pour un gouvernement ouvert du Canada, le gouvernement du Canada s’est engagé à la divulgation des données sur la passation de marchés au moyen d’une base de données publique à la fois centralisée et lisible par machine. Cet engagement renforce la publication proactive des marchés, qui tient compte des engagements élargis du gouvernement envers la transparence et la responsabilisation accrue dans le secteur public, annoncés initialement dans le budget fédéral de 2004."
+    },
+    {
+      "en": "Contracting data is gathered for the purposes of:",
+      "fr": "Les données sur la passation de marchés sont recueillies aux fins suivantes :"
+    },
+    {
+      "en": "This guide supports the . Subsection C.2.1 of Appendix C of the directive requires the senior designated officials for the management of procurement to proactively publish contract information in accordance with Part 2 of the . Subsection C.2.3 also requires departments to report on the contract data elements in the data format prescribed by the Treasury Board of Canada Secretariat (TBS).",
+      "fr": "Le présent guide appuie la . Le paragraphe C.2.1 de l’annexe C de la directive exige que les cadres supérieurs désignés pour la gestion de l’approvisionnement publient de façon proactive les renseignements contrats conformément à la partie 2 de la . De plus, selon le paragraphe C.2.3, ministères sont tenus de communiquer les éléments de données du contrat dans le format de données prescrit par le Secrétariat du Conseil du Trésor du Canada (SCT)."
+    },
+    {
+      "en": "This guide also supports the proactive publication of contract information requirements for government entities and Ministers’ offices under the and any associated policies, directives or guidelines. Sections 77 and 86 of the Act requires Ministers’ offices and government entities to proactively publish information on contracts with a value of over $10,000, a contract amendment when it modifies the contract value to exceed $10,000, and amendments to contracts that increase or decrease the value of the contract by more than $10,000.",
+      "fr": "Le présent guide appuie également la publication proactive des exigences en matière de renseignements sur les contrats pour les entités gouvernementales et les cabinets des ministres en vertu de la et de toute politique, directive ou ligne directrice connexe. Les articles 77 et 86 de ladite Loi exigent que les cabinets des ministres et les entités fédérales publient de façon proactive des renseignements sur les contrats d’une valeur de plus de 10 000 $, une modification apportée à un contrat lorsque celle-ci a pour effet de porter la valeur du contrat à plus de 10 000 $ et une modification apportée à un contrat lorsque celle-ci en augmente ou en diminue la valeur de plus de 10 000 $."
+    },
+    {
+      "en": "Subsection C.2.4.1 of Appendix C of the requires quarterly proactive publication of information on the following:",
+      "fr": "Le paragraphe C.2.4.1 de l’annexe C de la Directive sur la gestion de l’approvisionnement exige la publication proactive trimestrielle de renseignements sur les éléments suivants :"
+    },
+    {
+      "en": "Subsection C.2.5 of Appendix C of the requires annual reporting, on a calendar year basis, to Public Services and Procurement Canada (PSPC) at and cc: on the following:",
+      "fr": "Le paragraphe C.2.5 de l’annexe C de la Directive sur la gestion de l’approvisionnement prévoit la présentation d’un rapport chaque année civile à Services publics et Approvisionnement Canada (SPAC), à l’adresse , dont une copie conforme à l’adresse sur ce qui suit :"
+    },
+    {
+      "en": "Subsection C.2.5.2 of Appendix C of the requires annual proactive publication, on a calendar year basis, on the volume and cumulative dollar value of a contract or positive or negative amendment when its value is $10,000 or less. In addition, the proactive publication of information on the volume and cumulative dollar value of all acquisition card transactions regardless of dollar value is required.",
+      "fr": "Le paragraphe C.2.5.2 de l’annexe C de la Directive sur la gestion de l’approvisionnement exige la publication proactive chaque année civile du volume et de la valeur cumulative en dollars d’un marché ou d’une modification positive ou négative dont la valeur est d’au plus 10 000 $. De plus, il exige la publication proactive de renseignements sur le volume et la valeur cumulative en dollars de toutes les opérations par carte d’achat, peu importe la valeur en dollars."
+    },
+    {
+      "en": "A series of amendments to a contract made in one reporting period may be reported as one amendment. Alternatively, an amendment may be reported separately if this is the standard practice in the department.",
+      "fr": "Une série de modifications d’un marché apportée au cours de la période visée par le rapport peut être communiquée comme une seule modification. Par ailleurs, il est possible de communiquer une modification de marché séparément s’il s’agit d’une pratique courante au sein du ministère."
+    },
+    {
+      "en": "Non-financial amendments do not need to be reported, except when it is in the public interest to do so.",
+      "fr": "Il n’est pas nécessaire de déclarer les modifications de marché non financières, sauf s’il est dans l’intérêt public de le faire."
+    },
+    {
+      "en": "A contract option, when exercised, may be reported as an amendment. Alternatively, the full value of a contract, including options, may be reported at the time of contract award.",
+      "fr": "Lorsqu’une option de marché est exercée, elle peut être déclarée à titre de modification. Sinon, la valeur totale du marché, y compris les options, peut être déclarée à la date d’adjudication du marché."
+    },
+    {
+      "en": "A call-up against a standing offer or supply arrangement should be reported as a contract.",
+      "fr": "Une commande subséquente à une offre à commandes ou un arrangement en matière d’approvisionnement devrait être déclarée comme un marché."
+    },
+    {
+      "en": "A standing offer agreement and a supply arrangement agreement are not procurement contracts but are to be reported for the purpose of transparency. Such agreements must be reported either on the Open Government Portal or on a public website.",
+      "fr": "Une convention d’offres à commandes et un arrangement en matière d’approvisionnement ne sont pas des marchés d’approvisionnement, mais ils sont à déclarer par souci de transparence. Ceux-ci doivent être déclarés soit sur le Portail du gouvernement ouvert soit sur un site Web public."
+    },
+    {
+      "en": "For contracts with task authorizations, the full potential value of the contract may be reported upon contract award unless the full value is not expected to be used. In the latter situation, each task authorization may be reported individually. When a contract includes a fixed deliverable and another deliverable that requires a task authorization, the department may report the contract and task authorizations in any manner that is transparent.",
+      "fr": "Dans le cas d’un marché comportant des autorisations de tâches , la valeur totale éventuelle du marché peut être déclarée à la date d’adjudication du marché, à moins qu’il ne soit pas prévu d’utiliser la valeur totale du marché. Dans le dernier cas, chaque autorisation de tâches peut être déclarée individuellement. Si le marché comporte un produit livrable fixe et un autre qui doit être accompagné d’une autorisation de tâches, le ministère peut déclarer le marché et les autorisations de tâches de n’importe quelle façon jugée transparente."
+    },
+    {
+      "en": "In accordance with Part 2 of the , departments are required to proactively publish information on contracts or positive and negative amendments valued at over $10,000 with only very limited exceptions. A department is not required, and in some instances is not permitted, pursuant to section 80 and section 90 of the Act, to proactively publish information about contracts that would properly be withheld in response to a request under Part 1 of the .",
+      "fr": "Conformément à la partie 2 de la , les ministères sont tenus de publier de façon proactive des renseignements sur les marchés ou les modifications de contrat positives et négatives d’une valeur supérieure à 10 000 $, avec quelques rares exceptions. Un ministère n’est pas tenu, et dans certains cas n’est pas autorisé, en vertu des articles 80 et 90 de ladite Loi, de publier de façon proactive des renseignements sur les contrats qui doivent être exclus d’une réponse à une demande formulée en vertu de la partie 1 de ladite Loi."
+    },
+    {
+      "en": "When a department determines that information about a contract should not be proactively published under subsection 4.2.1 of this guide, the department is still required, according to Part 2 of the , to proactively publish those portions of contract information that do not contain or can reasonably be severed from information that would be withheld in response to a request under Part 1 of the Act.",
+      "fr": "Lorsqu’un ministère détermine que les renseignements sur un marché ne doivent pas être publiés de façon proactive selon le paragraphe 4.2.1 du présent guide, le ministère est toujours tenu, conformément à la partie 2 de la , de publier de façon proactive les parties des renseignements sur les contrats qui ne contiennent pas de renseignements qui doivent être exclus d’une réponse à une demande formulée en vertu de la partie 1 de ladite Loi, ou qui peuvent raisonnablement en être retranchés."
+    },
+    {
+      "en": "The following would usually be excluded from reporting, unless they constitute contracts under the :",
+      "fr": "Les éléments suivants seraient habituellement exclus du rapport, à moins qu’ils ne constituent des contrats au sens de la Politique sur la planification et la gestion des investissements :"
+    },
+    {
+      "en": "When a department excludes a contract from obligations that pertain to government procurement in Canada’s trade agreements by invoking a national security exception, information about the contract may still be subject to the proactive publication of contract requirements under the . Departments are to consider the underlying rationale for invoking the national security exception as part of the determination of whether the publication of the contract information, in whole or in part, would properly be withheld in response to a request under Part 1 of the Act, pursuant to section 80 and section 90 of the Act. An example of this subsection is:",
+      "fr": "Lorsqu’un ministère exclut un marché des obligations relatives à l’approvisionnement du gouvernement dans les accords commerciaux du Canada en invoquant une exception relative à la sécurité nationale, les renseignements sur le contrat peuvent toujours être assujettis à la publication proactive des exigences du contrat en vertu de la . Les ministères sont invités à tenir compte des raisons pour lesquelles ils invoquent l’exception au titre de la sécurité nationale lorsqu’ils déterminent si la communication d’une partie ou de la totalité des renseignements sur le contrat doit être refusée en réponse à une demande formulée en vertu de la partie 1 de la , conformément aux articles 80 et 90 de ladite Loi. Un exemple illustrant une telle situation est présenté ci-dessous."
+    },
+    {
+      "en": "The data elements in appendices A and B were developed to provide consistency to the public. In accordance with subsection C.2.4 of Appendix C of the , departments are to follow the recommended approach identified in appendices A and B for each data element if possible. If use of the recommended approach is not possible, a department may use a standard practice in the department for reporting. To provide consistency to the public, it is recommended that departments move away from departmental standards and move toward the recommended reporting standard over time.",
+      "fr": "Les éléments de données aux annexes A et B ont été élaborés dans un souci d’uniformité pour le public. Conformément au paragraphe C.2.4 de l’annexe C de la Directive sur la gestion de l’approvisionnement, les ministères sont tenus, dans la mesure du possible, de suivre l’approche recommandée indiquée aux annexes A et B pour chaque élément de données. S’il ne peut pas utiliser l’approche recommandée, le ministère peut avoir recours à l’une de ses pratiques courantes aux fins de déclaration. Afin d’assurer l’uniformité pour le public, les ministères devraient s’éloigner des normes ministérielles et adopter la norme de déclaration recommandée au fil du temps."
+    },
+    {
+      "en": "Starting for calendar year 2017, departments must report their contracting data on the Open Government Portal. When PSPC, Shared Services Canada (SSC) or another department or Crown corporation issues a contract on a department’s behalf, the client department should report the contract. PSPC and SSC will assist client organizations by providing any information that they have about such contracts through the Procurement Policy Division’s GCpedia page within five business days after the end of the quarter. In addition, the PSPC or SSC contracting authority is to provide a copy of each contract or amendment to the client department at the time of award.",
+      "fr": "À compter de l’année civile 2017, les ministères doivent déclarer leurs données sur les marchés dans le Portail du gouvernement ouvert. Lorsque SPAC, Services partagés Canada (SPC) ou un autre ministère ou une société d’État conclut un marché pour le compte d’un autre ministère, il incombe au ministère client de déclarer le marché. SPAC et SPC aideront les organisations clientes en fournissant toute l’information dont ils disposent sur de tels marchés sur la page GCpédia de la Division de la politique d’approvisionnement du SCT dans les cinq jours suivant la fin du trimestre. De plus, l’autorité contractante de SPAC ou SPC doit fournir une copie de chaque marché ou modification au ministère client au moment de l’adjudication."
+    },
+    {
+      "en": "For PSPC or SSC multi-departmental contracts, departments are to report on their portion only as either a contract or amendment based on how it was recorded in their departmental procurement or financial systems. For a standing offer agreement or supply arrangement agreement, it is recommended that the agreement be reported by the department that authorizes the agreement.",
+      "fr": "En ce qui concerne les marchés pluriministériels de SPAC et de SPC, les ministères sont invités à déclarer leur partie uniquement comme marché ou modification selon la manière dont ils ont été enregistrés dans leur système ministériel financier ou d’approvisionnement. Dans le cas d’une offre à commandes ou d’un arrangement en matière d’approvisionnement, il est recommandé que le ministère autorisant l’accord le déclare."
+    },
+    {
+      "en": "Reporting is to occur for:",
+      "fr": "Voici les éléments à prévoir :"
+    },
+    {
+      "en": "When the above dates for posting fall on a weekend or statutory holiday, departments may proactively publish information by the last business day before the weekend or holiday in question.",
+      "fr": "Si les dates mentionnées ci-dessus sont des jours de fin de semaine ou des jours fériés, les ministères peuvent publier de façon proactive les renseignements au plus tard le dernier jour ouvrable précédant la fin de semaine ou le jour férié en question."
+    },
+    {
+      "en": "A contract or amendment not reported in the reporting period in which it was awarded may be reported in the subsequent reporting period, or as soon as practicable. Any contract or amendment included in a reporting period after its publication, should clearly indicate the omission within the comments data element (refer to Appendix C).",
+      "fr": "Un marché ou une modification de marché n’ayant pas été déclaré dans la période de déclaration au cours de laquelle il a été attribué peut être déclaré dans la période de déclaration subséquente ou dès que possible. Quand un marché ou une modification est déclaré dans une période de déclaration après sa publication, il faut indiquer clairement l’omission dans l’élément de données « commentaires » (se reporter à l’annexe C)."
+    },
+    {
+      "en": "Information proactively published in one reporting period can be modified for that reporting period only when a material error was made in the originally published data. Any modified information is recommended to be clearly indicated as such within the data (refer to Appendix C).",
+      "fr": "Les renseignements publiés de façon proactive au cours d’une période de déclaration peuvent être modifiés pour cette période seulement si une erreur importante a été commise dans les données initiales publiées. Il y aurait lieu d’indiquer clairement toute information modifiée en tant que telle dans l’élément de données « (se reporter à l’annexe C)."
+    },
+    {
+      "en": "Departments are to provide a nil report for any quarter or calendar year in which no contract or amendment is reported. Departments are to populate the reporting period and the nil report data elements within the reporting template.",
+      "fr": "Les ministères sont invités à fournir un rapport portant la mention « néant » pour l’année civile ou le trimestre au cours duquel aucun marché ou aucune modification n’a été déclaré. Ils sont aussi invités à remplir les champs des éléments de données période de déclaration et rapport néant dans le gabarit de rapport."
+    },
+    {
+      "en": "Departments are to report using the data format under the new and revised Appendix A data fields as soon as administratively possible, but no later than the fourth quarter of fiscal year 2021–22 for contracts and amendments awarded starting January 1, 2022. In the interim, departments are to continue to use the previous data format to report on the existing data fields until they are able to change to the new data format.",
+      "fr": "Les ministères sont invités à déclarer leurs données selon le format de données prévu dans les champs nouveaux et révisés de l’annexe A, dès qu’il sera possible de le faire sur le plan administratif, mais pas au-delà du quatrième trimestre de l’exercice 2021-2022 dans le cas des modifications de marché et des marchés attribués à compter du 1er janvier 2022. Dans l’intervalle, les ministères sont invités à continuer d’utiliser l’ancien format de données pour indiquer des renseignements dans les champs de données existants, jusqu’à ce qu’ils puissent assurer la transition au nouveau format de données."
+    },
+    {
+      "en": "Departments and agencies listed in Appendix E are to include the data elements 37 to 40 identified in Appendix A in the proactive publication of contract information reports when migrating to a new or upgraded departmental procurement or financial system, if not already included.",
+      "fr": "Les ministères et organismes énumérés à l’annexe E sont invités à inclure les éléments de données 37 à 40 indiqués à l’annexe A, dans la publication proactive des rapports de renseignements sur les marchés lorsqu’ils remplacent ou améliorent leur système ministériel financier ou d’approvisionnement, si ceux-ci ne sont pas déjà inclus."
+    },
+    {
+      "en": "In accordance with subsections 4.1.2.13 and 4.1.2.16 and section C.2 of Appendix C of the , senior designated officials responsible for the management of procurement are responsible for establishing risk-based internal controls to ensure that the data included in the proactive publication of contracts is materially accurate, complete, and proactively published in a timely manner in accordance with Part 2 of the and any associated policies, directives or guidelines, including this guide.",
+      "fr": "Conformément aux paragraphes 4.1.2.13 et 4.1.2.16 et à la section C.2 de l’annexe C de la Directive sur la gestion de l’approvisionnement, les cadres supérieurs désignés chargés de la gestion de l’approvisionnement sont tenus de mettre en place des contrôles internes fondés sur les risques afin de s’assurer que les données comprises dans la publication proactive des contrats sont sensiblement exactes et complètes, et publiées de manière proactive et en temps utile, conformément à la partie 2 de la et à toutes les politiques, directives ou lignes directrices connexes, dont le présent guide."
+    },
+    {
+      "en": "Consideration should be given to including the following elements as part of the risk-based internal controls for proactive publication:",
+      "fr": "Il convient d’envisager d’intégrer les mesures suivantes dans les contrôles internes fondés sur les risques pour la publication proactive :"
+    },
+    {
+      "en": "For interpretation of this guide, contact .",
+      "fr": "Pour l’interprétation du présent guide, communiquez avec ."
+    },
+    {
+      "en": "A task authorization (TA) is a structured administrative process that enables the client to authorize work by a contractor on an as-and-when-requested basis in accordance with the terms and conditions of an existing contract. Contracts that provide for the use of TAs (TA contracts) are used in contracting situations when a definite need for a category of service exists, but the precise nature and timing of the need cannot be established in advance.",
+      "fr": "Une autorisation de tâches est un processus administratif structuré qui permet au client d’autoriser des travaux à accomplir par un entrepreneur au besoin, conformément aux conditions d’un marché existant. Les marchés qui prévoient l’utilisation d’autorisations de tâches (les marchés comportant des autorisations de tâches) sont utilisés dans les situations de passation de marchés lorsqu’il y a un besoin défini pour une catégorie de services, mais que la nature et le moment du besoin ne peuvent pas être établis de façon précise à l’avance."
+    },
+    {
+      "en": "For the purpose of this guideline, ’former public servant’ means, any former member of a department as defined in the , in receipt of a pension under the .",
+      "fr": "Aux fins du présent guide, le terme « ancien fonctionnaire » désigne tout ancien membre d’un ministère, au sens de la , touchant une pension en vertu de la ."
+    },
+    {
+      "en": "updated requirements for monitoring of proactive publication of contract information under subsection 4.5 of this guide in accordance with:",
+      "fr": "la mise à jour des exigences sur la surveillance de la publication proactive des renseignements sur les marchés (section 4.5 du guide), conformément :"
+    },
+    {
+      "en": "subsections 4.1.2.13 and 4.1.2.16 of the",
+      "fr": "aux paragraphes 4.1.2.13 et 4.1.2.16 de la Directive sur la gestion de l’approvisionnement,"
+    },
+    {
+      "en": "subsection C.2 of Appendix C of the",
+      "fr": "à la section C.2 de l’annexe C de la Directive sur la gestion de l’approvisionnement;"
+    },
+    {
+      "en": "additional guidance on reporting considerations for proactive publication of contract information subject to a National Security Exception under subsection 4.4.9 and Appendix E of this guide;",
+      "fr": "la prise en considération de facteurs supplémentaires en ce qui a trait à l’établissement de rapports pour la publication proactive de renseignements sur les marchés faisant l’objet d’une exception relative à la sécurité nationale (paragraphe 4.4.9 et annexe E du guide);"
+    },
+    {
+      "en": "amended guidance on Appendix A data elements numbered 37 to 40 in accordance with subsection 4.4.9 and Appendix E of this guide;",
+      "fr": "la modification des instructions s’appliquant aux éléments de données 37 à 40 indiqués à l’annexe A (paragraphe 4.4.9 et annexe E du guide);"
+    },
+    {
+      "en": "effective October 1, 2023, additional reporting requirements under Appendix D of this guide for contract descriptions of certain service contracts valued at $1 million or more.",
+      "fr": "à compter du 1er octobre 2023, la prise en compte d’exigences supplémentaires en matière d’établissement de rapports sur les descriptions de certains marchés de services d’une valeur égale ou supérieure à 1 million de dollars (annexe D du guide)."
+    },
+    {
+      "en": "Strengthening transparency of the procurement process for Canadians to hold their government to account;",
+      "fr": "renforcer la transparence du processus d’approvisionnement afin que les Canadiens puissent exiger de leur gouvernement qu’il leur rende des comptes;"
+    },
+    {
+      "en": "Meeting trade agreement procurement reporting obligations; and",
+      "fr": "respecter les obligations en matière d’établissement de rapports sur les accords d’approvisionnement commerciaux; et"
+    },
+    {
+      "en": "Evaluating policy instruments.",
+      "fr": "évaluer les instruments de politique."
+    },
+    {
+      "en": "A contract when its value is over $10,000;",
+      "fr": "un marché dont la valeur est supérieure à 10 000 $;"
+    },
+    {
+      "en": "A positive or negative amendment when its value is over $10,000; and",
+      "fr": "une modification positive ou négative dont la valeur est supérieure à 10 000 $; et"
+    },
+    {
+      "en": "A positive amendment when it modifies the initial value of a contract to an amended contract value that is over $10,000.",
+      "fr": "une modification positive qui a pour effet d’augmenter la valeur d’origine d’un marché d’un montant supérieur à 10 000 $."
+    },
+    {
+      "en": "A contract when its value is $10,000 and under; and",
+      "fr": "un marché dont la valeur est d’au plus 10 000 $; et"
+    },
+    {
+      "en": "A positive or negative amendment when its value is $10,000 and under.",
+      "fr": "une modification positive ou négative dont la valeur est d’au plus 10 000 $."
+    },
+    {
+      "en": "Information pertaining to memoranda of understanding with other levels of government and foreign governments; or",
+      "fr": "les renseignements sur les protocoles d’entente signés avec d’autres ordres de gouvernement ou des gouvernements étrangers;"
+    },
+    {
+      "en": "Information pertaining to service level agreements between federal departments or with Crown corporations.",
+      "fr": "les renseignements relatifs aux ententes sur les niveaux de service conclues entre les ministères fédéraux et les sociétés d’État."
+    },
+    {
+      "en": "If a national security exception is invoked to exempt a contract from competitive solicitation requirements, as permitted by Canada’s trade agreements, but information on the procurement was published, such as a public tendering notice on the Government Electronic Tendering System. Departments would be expected to proactively publish information on the contract, unless there is another underlying rationale that would preclude information on the contract from being reported. If there are questions about whether information on a contract should be reported, departments should consult with departmental legal services and departmental officials responsible for the for guidance before making the appropriate decision.",
+      "fr": "Si une exception relative à la sécurité nationale est invoquée pour empêcher qu’un contrat fasse l’objet d’un appel d’offres concurrentiel, comme le permettent les accords commerciaux du Canada, mais que des renseignements sur l’approvisionnement ont été publiés, comme un avis d’appel d’offres public sur le Service électronique d’appels d’offres du gouvernement, les ministères devraient publier de façon proactive les renseignements sur le contrat, à moins qu’il n’y ait une autre raison sous-jacente qui empêcherait la communication des renseignements sur le contrat. S’ils ont des questions quant à savoir si des renseignements sur un marché doivent être communiqués, les ministères devraient consulter les services juridiques ministériels et les fonctionnaires ministériels responsables de la pour obtenir des conseils afin de prendre une décision appropriée."
+    },
+    {
+      "en": "Quarterly proactive publication of contract data elements as detailed in Appendix A for contracts and positive and negative amendments over $10,000, within 30 days after the end of each of the first three quarters of a fiscal year (April to June, July to September and October to December) and within 60 days after the end of the fourth quarter;",
+      "fr": "publication proactive trimestrielle des éléments de données sur les marchés, comme le décrit l’annexe A pour les marchés ainsi que les modifications de marché positives et négatives de plus de 10 000 $, dans un délai de 30 jours après la fin de chacun des trois premiers trimestres d’un exercice financier (avril à juin, juillet à septembre, et octobre à décembre) et de 60 jours après la fin du quatrième trimestre;"
+    },
+    {
+      "en": "Annual proactive publication of aggregate contract data elements as detailed in Appendix B for contracts and positive and negative amendments $10,000 and under, by May 30 of the following calendar year; and",
+      "fr": "publication proactive annuelle des éléments de données agrégés sur les marchés, comme décrits à l’annexe B pour les marchés ainsi que les modifications de marché positives et négatives d’au plus 10 000 $, au plus tard le 30 mai de l’année civile suivante;"
+    },
+    {
+      "en": "Annual reporting to PSPC of contract data elements as detailed in Appendix A for contracts and positive and negative amendments $10,000 and under, by May 30 of the following calendar year.",
+      "fr": "rapport annuel destiné à SPAC faisant état des éléments de données sur les marchés, comme le décrit l’annexe A pour les marchés ainsi que les modifications de marché positives et négatives d’au plus 10 000 $, au plus tard le 30 mai de l’année civile suivante."
+    },
+    {
+      "en": "Documenting the procedures for proactive publication and the associated risk-based internal controls as part of the Departmental Procurement Management Framework;",
+      "fr": "consigner les procédures de publication proactive et les contrôles internes fondés sur les risques connexes dans le Cadre de gestion de l’approvisionnement ministériel;"
+    },
+    {
+      "en": "Ensuring periodical risk-based reviews (such as sampling) of proactively published contract information to assess whether the published information is accurate and complete; and",
+      "fr": "s’assurer de vérifier si les renseignements publiés sont exacts et complets dans le cadre des examens périodiques fondés sur les risques (par exemple, échantillonnage) des renseignements sur les marchés publiés de manière proactive;"
+    },
+    {
+      "en": "Requiring approval of the senior designated official for the management of procurement (or a higher authority) of the data prior to proactive publication.",
+      "fr": "exiger l’approbation du cadre supérieur désigné pour la gestion de l’approvisionnement (ou d’une autorité supérieure) des données avant leur publication proactive."
+    },
+    {
+      "en": "(which replaced the rescinded as of May 13, 2022)",
+      "fr": "(qui remplace la Politique sur les marchés abrogée à compter du 13 mai 2022)"
+    }
+  ],
+  "32692": [
+    {
+      "en": "The , which took effect on May 13, 2021, replaced the following instruments:",
+      "fr": "La , qui est entrée en vigueur le 13 mai 2021, a remplacé les instruments suivants :"
+    },
+    {
+      "en": "The directive has subsequently been amended:",
+      "fr": "La directive a ensuite été modifiée :"
+    },
+    {
+      "en": "The following instruments should be read in conjunction with this directive. While these instruments are considered most relevant to departments’ ability to comply with the requirements in this directive, the list should not be considered exhaustive.",
+      "fr": "Les instruments ci-dessous doivent être lus conjointement avec la présente directive. Bien que ces instruments soient considérés comme les plus pertinents pour la capacité des ministères à se conformer aux exigences de la présente directive, la liste ne doit pas être considérée comme exhaustive."
+    },
+    {
+      "en": "Effective April 1, 2022, to include a new Appendix E: Mandatory Procedures for Contracts Awarded to Indigenous Businesses that describes procedures to address the Government of Canada’s requirement that a is awarded to Indigenous businesses annually;",
+      "fr": "la ;"
+    },
+    {
+      "en": "Effective April 1, 2023, to integrate human rights, the environment, social and corporate governance, supply chain transparency principles, and Public Services and Procurement Canada’s into all government procurements;",
+      "fr": "la ."
+    },
+    {
+      "en": "Effective June 30, 2023, to add requirements for risk-based systems of internal control, information management and proactive publication of contracts, and to reflect that the have been updated and renamed ; and",
+      "fr": "à compter du 1er avril 2022 en raison de l’inclusion d’une nouvelle annexe E, intitulée « Procédures obligatoires pour les marchés attribués aux entreprises autochtones », qui explique les procédures à suivre pour répondre à l’exigence du gouvernement du Canada selon laquelle un doit être attribué à des entreprises autochtones chaque année;"
+    },
+    {
+      "en": "Effective May 29, 2024, to include new requirements related to values and ethics, documentation and reporting, as set out in:",
+      "fr": "à compter du 1er avril 2023 en raison de l’intégration du respect des droits de la personne, des aspects environnementaux, sociaux et de gouvernance organisationnelle, des principes de transparence de la chaîne d’approvisionnement et du de Services publics et Approvisionnement Canada dans tous les processus d’approvisionnement du gouvernement;"
+    },
+    {
+      "en": "Subsections 4.1.7, 4.2.2, 4.2.3.4, 4.2.3.5, 4.3.2.2, 4.10.1.10 and 5.6.9",
+      "fr": "à compter du 30 juin 2023 en raison de l’ajout d’exigences concernant les systèmes de contrôle interne fondés sur le risque, la gestion de l’information et la publication proactive des marchés ainsi que de la prise en compte du fait que les Lignes directrices sur la divulgation proactive des marchés ont été mises à jour et renommées « »;"
+    },
+    {
+      "en": "Appendix D.7: Ineligibility and Suspension Policy (Responsible department: Public Services and Procurement Canada); and",
+      "fr": "à compter du 29 mai 2024 en raison de l’inclusion de nouvelles exigences relatives aux valeurs et à l’éthique, à la documentation et à l’établissement de rapports, comme il est énoncé :"
+    },
+    {
+      "en": "Appendix F: Mandatory Procedures for Business Owners When Procuring Professional Services.",
+      "fr": "aux paragraphes 4.1.7, 4.2.2, 4.2.3.4, 4.2.3.5, 4.3.2.2, 4.10.1.10 et 5.6.9;"
+    },
+    {
+      "en": "The first report to deputy heads from senior designated officials for procurement on professional service resources in their departments (requirement found in subsection 4.1.7) is due no later than September 30, 2024.",
+      "fr": "à l’annexe D.7: Politique d’inadmissibilité et de suspension (ministère responsable : Services publics et Approvisionnement Canada);"
+    },
+    {
+      "en": "(April 11, 2019)",
+      "fr": "à l’annexe F : Procédures obligatoires pour les propriétaires fonctionnelslors de l’approvisionnement en services professionnels."
+    },
+    {
+      "en": "(September 1, 2003)",
+      "fr": "Le premier rapport des cadres supérieurs désignés concernant l’approvisionnement en ressources de services professionnels dans leur ministère (exigence énoncée au paragraphe 4.1.7) doit être présenté aux administrateurs généraux au plus tard le 30 septembre 2024."
+    },
+    {
+      "en": "Office of the Auditor General of Canada",
+      "fr": "(11 avril 2019);"
+    },
+    {
+      "en": "Office of the Chief Electoral Officer",
+      "fr": "(1er septembre 2003)."
+    },
+    {
+      "en": "Office of the Commissioner of Lobbying of Canada",
+      "fr": "le Bureau du vérificateur général du Canada,"
+    },
+    {
+      "en": "Office of the Commissioner of Official Languages",
+      "fr": "le Bureau du directeur général des élections,"
+    },
+    {
+      "en": "Office of the Information Commissioner of Canada",
+      "fr": "le Commissariat au lobbying du Canada,"
+    },
+    {
+      "en": "Office of the Privacy Commissioner of Canada",
+      "fr": "le Commissariat aux langues officielles,"
+    },
+    {
+      "en": "Office of the Public Sector Integrity Commissioner of Canada",
+      "fr": "le Commissariat à l’information du Canada,"
+    },
+    {
+      "en": "Subsection 4.2.9 (leveraging procurement for socio-economic benefits),",
+      "fr": "le Commissariat à la protection de la vie privée du Canada,"
+    },
+    {
+      "en": "Subsection 4.6 (Contracting approvals), and",
+      "fr": "le Commissariat à l’intégrité du secteur public du Canada;"
+    },
+    {
+      "en": "Appendix A: Contracting Approvals in its entirety;",
+      "fr": "le paragraphe 4.2.9 (tirer parti de l’approvisionnement pour assurer des avantages socioéconomiques);"
+    },
+    {
+      "en": "This directive takes effect on May 13, 2021.",
+      "fr": "la section 4.6 (Approbations contractuelles);"
+    },
+    {
+      "en": "This directive replaces the following Treasury Board policy instruments:",
+      "fr": "l’annexe A, Approbations contractuelles, dans son ensemble,"
+    },
+    {
+      "en": "The requirements in Appendix A: Contracting Approvals of this directive will come into full effect immediately on May 13, 2021.",
+      "fr": "La présente directive entre en vigueur le 13 mai 2021."
+    },
+    {
+      "en": "With the exception of Appendix A: Contracting Approvals, departments have 12 months to transition to this directive.",
+      "fr": "La présente directive remplace les instruments de politique suivants du Conseil du Trésor :"
+    },
+    {
+      "en": "Subsection 4.5 is not applicable to procurements in solicitation or prior to contract award as of the date of approval of this directive.",
+      "fr": "Les exigences énoncées à l’annexe A, Approbations contractuelles, de la présente directive entreront pleinement en vigueur immédiatement le 13 mai 2021."
+    },
+    {
+      "en": "Existing contracts or contractual arrangements in place prior to the date of approval of this directive, including option years established at the time of award, will be exempt from transitioning to this directive. For contractual arrangements with no explicit end date, consider transitioning to this directive upon regular review or renewal of the arrangements.",
+      "fr": "À l’exception de l’annexe A, Approbations contractuelles, les ministères disposent de 12 mois pour effectuer la transition à la présente directive."
+    },
+    {
+      "en": "This directive is issued pursuant to the same authorities indicated in section 2 of the .",
+      "fr": "Les exigences énoncées au paragraphe 4.5 ne s’appliquent pas aux approvisionnements qui étaient visés par un appel d’offres ou précédant l’attribution du contrat à la date d’approbation de la présente directive."
+    },
+    {
+      "en": "The objective of this directive is that procurement of goods, services and construction obtains the necessary assets and services that support the delivery of programs and services to Canadians, while ensuring best value to the Crown.",
+      "fr": "Les contrats ou les ententes contractuelles conclus avant la date d’approbation de la présente directive, y compris les années d’options prévues au moment de l’octroi, seront exemptés de la transition à la présente directive. Pour les ententes contractuelles sans date de fin précise, il convient d’envisager la transition à la présente directive lors de l’examen régulier ou du renouvellement des ententes."
+    },
+    {
+      "en": "The expected results of this directive are as follows:",
+      "fr": "La présente directive est émise en vertu des autorisations ou des pouvoirs figurant à la section 2 de la ."
+    },
+    {
+      "en": "Procurements are managed in a manner that enables operational outcomes and demonstrates sound stewardship and best value consistent with the Government of Canada’s socio-economic and environmental objectives;",
+      "fr": "L’objectif de la présente directive est que les approvisionnements en biens, en services et en construction permettent de se procurer les actifs et les services nécessaires pour faciliter l’exécution des programmes et la prestation de services aux Canadiens, tout en assurant l’optimisation des ressources pour l’État."
+    },
+    {
+      "en": "Procurement decisions are based on risk management practices, performance information and an assessment of full life-cycle costs whenever possible;",
+      "fr": "Les résultats attendus de la présente directive sont les suivants :"
+    },
+    {
+      "en": "Effective governance and oversight mechanisms are in place to support the management of procurement;",
+      "fr": "les approvisionnements sont gérés d’une manière qui permet d’obtenir des résultats opérationnels, et qui témoigne d’une bonne intendance et de l’optimisation des ressources, conformément aux objectifs socioéconomiques et environnementaux du gouvernement du Canada;"
+    },
+    {
+      "en": "Opportunities for collaboration are considered in procurement decisions;",
+      "fr": "les décisions en matière d’approvisionnement sont fondées sur des pratiques de gestion du risque, les renseignements sur le rendement et une évaluation des coûts du cycle de vie complet, dans la mesure du possible;"
+    },
+    {
+      "en": "Workforce capacity for the management of procurement is developed, maintained and commensurate with organizational need; and",
+      "fr": "des mécanismes efficaces de gouvernance et de surveillance sont en place pour appuyer la gestion de l’approvisionnement;"
+    },
+    {
+      "en": "Actions related to the management of procurement are fair, open and transparent, and meet public expectations in matters of prudence and probity.",
+      "fr": "les possibilités de collaboration sont prises en compte dans les décisions relatives à l’approvisionnement;"
+    },
+    {
+      "en": "Senior designated officials for the management of procurement are responsible for the following:",
+      "fr": "la capacité de l’effectif à gérer l’approvisionnement est renforcée et maintenue en fonction des besoins organisationnels;"
+    },
+    {
+      "en": "Establishing, implementing, and maintaining a departmental procurement management framework, consisting of processes, systems and controls;",
+      "fr": "les mesures liées à la gestion de l’approvisionnement sont équitables, ouvertes et transparentes, et répondent aux attentes du public en matière de prudence et de probité."
+    },
+    {
+      "en": "Ensuring that the departmental procurement management framework:",
+      "fr": "Les cadres supérieurs désignés pour la gestion de l’approvisionnement ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Includes oversight, planning and reporting mechanisms including mechanisms pertaining to contracts awarded to Indigenous businesses as stated in Appendix E: Mandatory Procedures for Contracts Awarded to Indigenous Businesses;",
+      "fr": "établir, mettre en œuvre et maintenir un cadre de gestion de l’approvisionnement ministériel, qui comprend des processus, des systèmes et des contrôles;"
+    },
+    {
+      "en": "Includes clearly defined roles, responsibilities and accountabilities for the various governance committees involved;",
+      "fr": "s’assurer que le cadre de gestion de l’approvisionnement ministériel :"
+    },
+    {
+      "en": "Incorporates performance results, lessons learned and best practices to inform procurement decision-making;",
+      "fr": "comprend des mécanismes de surveillance, de planification et d’établissement de rapports, y compris des mécanismes concernant les contrats attribués à des entreprises autochtones, comme il est indiqué à l’annexe E : Procédures obligatoires pour les marché attribués à des entreprises autochtones,"
+    },
+    {
+      "en": "Maintains the integrity of the procurement process;",
+      "fr": "comprend des rôles, des responsabilités et des obligations de rendre compte clairement définis pour les différents comités de gouvernance concernés,"
+    },
+    {
+      "en": "Contributes the procurement perspective to departmental planning functions and ensures that procurement strategies in the investment plan are in accordance with the , Appendix A: Mandatory Procedures for Investment Plans;",
+      "fr": "intègre les résultats en matière de rendement, les leçons tirées et les pratiques exemplaires afin d’éclairer la prise de décisions en matière d’approvisionnement,"
+    },
+    {
+      "en": "Ensures that procurement-planning reflects a strategic approach to departmental procurements, including contractual arrangements;",
+      "fr": "maintient l’intégrité du processus d’approvisionnement,"
+    },
+    {
+      "en": "Considers pricing strategies that enable coordinated asset management decisions;",
+      "fr": "intègre la perspective relative à l’approvisionnement aux fonctions de planification ministérielles et veille à ce que les stratégies d’approvisionnement dans le plan d’investissement soient conformes aux procédures obligatoires pour les plans d’investissement énoncées à l’annexe A de la ,"
+    },
+    {
+      "en": "Considers input from key stakeholders, including but not limited to real property, materiel, project management, information technology, finance, security, legal services and human resources;",
+      "fr": "veille à ce que la planification de l’approvisionnement reflète une approche stratégique des achats ministériels, y compris les ententes contractuelles,"
+    },
+    {
+      "en": "Is commensurate to the value, risk and complexity of the procurement (or procurements) undertaken;",
+      "fr": "envisage des stratégies de prix qui permettent de prendre des décisions coordonnées en matière de gestion des actifs,"
+    },
+    {
+      "en": "Promotes collaborative, innovative, iterative and outcomes-based procurement approaches where appropriate;",
+      "fr": "tient compte des commentaires des principaux intervenants, y compris, mais sans s’y limiter, à ceux des secteurs des biens immobiliers, du matériel, de la gestion de projet, de la technologie de l’information, des finances, de la sécurité, des services juridiques et des ressources humaines,"
+    },
+    {
+      "en": "Facilitates compliance with all legal obligations such as those arising from modern treaties (such as Comprehensive Land Claim Agreements, refer to Appendix D: Requirements Included in Other Policies, Programs and Agreements That Impact Procurements, section D.1), trade agreements (refer to Appendix D: Requirements Included in Other Policies, Programs and Agreements That Impact Procurements, section D.2), official languages, accessibility, financial management, privacy, environmental sustainability and security legislation;",
+      "fr": "est proportionnel à la valeur, au risque et à la complexité du ou des processus d’approvisionnement entrepris,"
+    },
+    {
+      "en": "Gives precedence to competition in accordance with the and trade agreements;",
+      "fr": "encourage l’adoption d’approches d’approvisionnement collaboratives, novatrices, itératives et axées sur les résultats, le cas échéant,"
+    },
+    {
+      "en": "Facilitates the collection and publication on the of accurate, timely and complete data for corporate reporting on procurement as described in Appendix C: Mandatory Procedures for the Proactive Publication of Contract Information and Reporting;",
+      "fr": "facilite le respect de toutes les obligations légales, comme celles découlant des traités modernes (par exemple les ententes sur les revendications territoriales globales; veuillez vous reporter à la section D.1 de l’annexe D, Exigences incluses dans d’autres politiques, programmes et ententes qui ont une incidence sur l’approvisionnement), des accords commerciaux (veuillez vous reporter à la section D.2 de l’annexe D, Exigences incluses dans d’autres politiques, programmes et ententes qui ont une incidence sur l’approvisionnement), des langues officielles, de l’accessibilité, de la gestion financière, de la protection des renseignements personnels, de la viabilité environnementale et des lois sur la sécurité,"
+    },
+    {
+      "en": "Integrates respect for human rights, the environment, and social and responsible corporate behaviour into procurements by including measures to identify, mitigate and disclose risk that human trafficking, forced or child labour, or any other unethical business practice is occurring in departmental supply chains;",
+      "fr": "accorde la priorité à la concurrence conformément au et aux accords commerciaux,"
+    },
+    {
+      "en": "Includes a risk-based system of internal controls that are maintained, monitored, and reviewed to provide reasonable assurance that procurement transactions are carried out in accordance with the framework, and applicable laws, regulations, and policies; and",
+      "fr": "facilite la collecte et la publication, sur le , de données exactes, complètes et en temps opportun pour l’établissement de rapports ministériels sur l’approvisionnement, tel que décrit à l’annexe C, Procédures obligatoires pour la publication proactive de renseignements sur les contrats et l’établissement de rapports,"
+    },
+    {
+      "en": "Includes risk-based internal controls to ensure the accuracy, completeness and timely proactive publishing of information on contracts over $10,000.",
+      "fr": "intègre le respect des droits de la personne et, de l’environnement, et le comportement social et responsable des entreprises dans l’ approvisionnement en prévoyant des mesures pour cerner, atténuer et divulguer les risques liés à la traite de personnes, au travail forcé et au travail des enfants, ou toute autre pratique commerciale contraire à l’éthique dans les chaînes d’approvisionnement ministérielles,"
+    },
+    {
+      "en": "Facilitating collaboration between contracting authorities and business owners throughout the investment-planning process and procurement life cycle to enable informed procurement decisions;",
+      "fr": "comprend un système de contrôles internes fondé sur le risque qui est tenu à jour, surveillé et évalué dans le but d’offrir une assurance raisonnable que les opérations d’approvisionnement sont effectuées conformément au cadre de gestion de l’approvisionnement ministériel et aux lois, règlements et politiques applicables,"
+    },
+    {
+      "en": "Supporting improvement of government-wide procurement tools and practices by collaborating with Public Services and Procurement Canada, Shared Services Canada and the Treasury Board of Canada Secretariat;",
+      "fr": "comprend des contrôles internes fondés sur le risque pour assurer l’exactitude, l’exhaustivité et la publication en temps opportun des renseignements sur les contrats de plus de 10 000 $;"
+    },
+    {
+      "en": "Providing advice to the deputy head on:",
+      "fr": "faciliter la collaboration entre les autorités contractantes et les propriétaires fonctionnels tout au long du processus de planification des investissements et du cycle de vie de l’approvisionnement afin de permettre la prise de décisions éclairée en matière d’approvisionnement;"
+    },
+    {
+      "en": "The nature, structure and required resourcing for implementation of the department’s procurement management function;",
+      "fr": "soutenir l’amélioration des outils et des pratiques d’approvisionnement à l’échelle du gouvernement en collaborant avec Services publics et Approvisionnement Canada, Services partagés Canada et le Secrétariat du Conseil du Trésor du Canada;"
+    },
+    {
+      "en": "Significant gaps in performance or issues of non-compliance with the requirements of this directive; and",
+      "fr": "donner des conseils à l’administrateur général sur :"
+    },
+    {
+      "en": "Departmental procurement plans;",
+      "fr": "la nature, la structure et les ressources nécessaires à la mise en œuvre de la fonction de gestion de l’approvisionnement du ministère,"
+    },
+    {
+      "en": "Identifying and addressing the department’s needs with respect to the necessary competencies, capacity and professional development in procurement management.",
+      "fr": "les écarts importants en matière de rendement ou les problèmes de non-conformité aux exigences de la présente directive,"
+    },
+    {
+      "en": "When the department has awarded per diem–based professional service contracts for business services, informatic services, management consulting services, or temporary help services in the previous fiscal year totaling in excess of $5 million, provide a report to the deputy head twice a year that identifies:",
+      "fr": "les plans ministériels de gestion de l’approvisionnement;"
+    },
+    {
+      "en": "The total current number of per diem–based professional service resources; and",
+      "fr": "cerner les besoins du ministère en ce qui concerne les compétences, la capacité et le perfectionnement professionnel nécessaires en matière de gestion de l’approvisionnement, et y répondre;"
+    },
+    {
+      "en": "The current number of per diem–based professional service resources that have been on contract with the department for a period greater than two years.",
+      "fr": "lorsque le ministère a attribué, au cours de l’exercice précédent, des contrats de services professionnels fondés sur des taux quotidiens pour des services d’entreprise, des services informatiques, des services de conseil en gestion ou des services d’aide temporaire d’une valeur totale de plus de 5 millions de dollars, il doit fournir un rapport semestriel à l’administrateur général. Le rapport doit comprendre les renseignements suivants :"
+    },
+    {
+      "en": "Business owners are responsible for the following:",
+      "fr": "le nombre total de ressources de services professionnels dont les contrats sont fondés sur des taux quotidiens;"
+    },
+    {
+      "en": "Clearly defining, to contracting authorities, the intended outcomes of the procurement, including the operational requirements, end user needs, expected benefits, alignment with the government’s strategic direction and total costs over the life cycle whenever possible;",
+      "fr": "le nombre de ressources de services professionnels ayant conclu des contrats fondés sur des taux quotidiens avec le ministère sur une période de plus de deux ans."
+    },
+    {
+      "en": "Adhering to the and the at all times during the procurement process, including but not limited to when engaging with suppliers, evaluating bids, awarding and managing contracts;",
+      "fr": "Les propriétaires fonctionnels ont les responsabilités suivantes :"
+    },
+    {
+      "en": "In collaboration with contracting authorities, supporting procurement-planning and decision-making by:",
+      "fr": "définir clairement aux autorités contractantes, les résultats prévus de l’approvisionnement, y compris les exigences opérationnelles, les besoins des utilisateurs finaux, les avantages escomptés, l’harmonisation avec l’orientation stratégique du gouvernement et les coûts totaux au cours du cycle de vie, dans la mesure du possible;"
+    },
+    {
+      "en": "Conducting market analysis to better understand industry capacity and availability; and",
+      "fr": "se conformer au et à la en tout temps au cours du processus d’approvisionnement, notamment lors des interactions avec les fournisseurs, des évaluations des soumissions, appels d’offres et de l’attribution et de la gestion des contrats;"
+    },
+    {
+      "en": "Establishing and maintaining valid cost estimates;",
+      "fr": "en collaboration avec les autorités contractantes, apporter leur soutien à la planification de l’approvisionnement et à la prise de décision en :"
+    },
+    {
+      "en": "Identifying, mitigating and disclosing occurrences or risk that may have a negative impact on human rights, and environmental and social considerations;",
+      "fr": "effectuant des analyses du marché afin de mieux comprendre la capacité et la disponibilité de l’industrie,"
+    },
+    {
+      "en": "Developing clear statements of work and technical evaluation criteria; and",
+      "fr": "établissant et en tenant à jour des estimations des coûts valides;"
+    },
+    {
+      "en": "Adhering to Appendix F: Mandatory Procedures for Business Owners When Procuring Professional Services if considering procuring professional services;",
+      "fr": "cernant, atténuant et divulguant les événements ou les risques qui peuvent avoir des répercussions négatives sur les droits de la personne ou les aspects environnementaux ou sociaux;"
+    },
+    {
+      "en": "Adhering to the required governance processes for projects, assets and procurement decisions, commensurate to the risk and complexity of the procurement and in accordance with the departmental procurement management framework;",
+      "fr": "définissant clairement les énoncés des travaux et les critères d’évaluation technique,"
+    },
+    {
+      "en": "Engaging with contracting authorities at the outset of planning investments, in order to integrate procurement considerations into the planning of programs, services and projects;",
+      "fr": "respectant l’annexe F : Procédures obligatoires pour les propriétaires fonctionnels lors de l’approvisionnement en services professionnels, si l’approvisionnement en services professionnels est envisagé;"
+    },
+    {
+      "en": "Building in sufficient lead time to ensure that procurement activities and program operational requirements are met;",
+      "fr": "se conformer aux processus de gouvernance requis pour les décisions relatives aux projets, aux actifs et aux approvisionnements, en fonction du risque et de la complexité de l’approvisionnement et conformément au cadre de gestion de l’approvisionnement ministériel;"
+    },
+    {
+      "en": "Ensuring that the intended outcomes of the procurement are aligned with the departmental mandate and priorities, available funds, and key socio-economic and environmental benefits:",
+      "fr": "engager le dialogue avec les autorités contractantes au début de la planification des investissements afin d’intégrer des considérations relatives à l’approvisionnement à la planification des programmes, des services et des projets;"
+    },
+    {
+      "en": "Where appropriate, including accessibility considerations when specifying requirements for goods, services and construction, and ensuring that deliverables incorporate accessibility features;",
+      "fr": "prévoir un délai suffisant pour veiller à ce que les activités d’approvisionnement et les exigences opérationnelles des programmes soient respectées;"
+    },
+    {
+      "en": "Ensuring clear justification is documented if it is determined that accessibility considerations are not consistent with modern treaties or trade agreements, or if it is not appropriate to include them as part of commodity specifications, or if it is not possible to obtain goods, services or construction that comply;",
+      "fr": "veiller à ce que les résultats prévus de l’approvisionnement s’harmonisent avec le mandat et les priorités du ministère, les fonds disponibles et les principaux avantages socioéconomiques et environnementaux :"
+    },
+    {
+      "en": "Where appropriate, including environmental considerations when specifying requirements for goods, services and construction and leveraging procurement practices in accordance with the and documenting files accordingly; and",
+      "fr": "le cas échéant, inclure des considérations en matière d’accessibilité au moment de préciser les exigences relatives aux biens, aux services et à la construction, et veiller à ce que les produits livrables intègrent des caractéristiques d’accessibilité :"
+    },
+    {
+      "en": "Where appropriate, considering opportunities to support the participation of Indigenous peoples in matters related to procurement and documenting files accordingly;",
+      "fr": "veiller à ce qu’une justification claire soit consignée s’il est déterminé que les considérations en matière d’accessibilité ne sont pas conformes aux traités modernes ou aux accords commerciaux, ou s’il n’est pas approprié de les inclure dans le cadre des spécifications des produits, ou s’il n’est pas possible d’obtenir des biens, des services ou de la construction conformes,"
+    },
+    {
+      "en": "Where appropriate, including human rights considerations throughout the procurement process, to prevent and reduce risks of unethical business practices in markets where risks are the highest, and to ensure that suppliers that do business with the government operate in a socially responsible manner",
+      "fr": "le cas échéant, inclure les considérations en matière d’environnement au moment de préciser les exigences relatives aux biens, aux services et à la construction et de tirer parti des pratiques d’approvisionnement conformément à la et les consigner au dossier en conséquence,"
+    },
+    {
+      "en": "In collaboration with contracting authorities, monitoring the delivery of the procurement and supporting any related reporting requirements;",
+      "fr": "le cas échéant, examiner les possibilités de favoriser la participation des peuples autochtones lorsqu’il s’agit de questions relatives à l’approvisionnement, et les consigner au dossier en conséquence,"
+    },
+    {
+      "en": "Consulting with Treasury Board of Canada Secretariat (and other impacted government departments) to determine requirements for seeking Cabinet or Treasury Board approval when:",
+      "fr": "s’il y a lieu, inclure des considérations en matière de droits de la personne tout au long du processus d’approvisionnement afin de prévenir et d’atténuer les risques de pratiques commerciales contraires à l’éthique dans les marchés où les risques sont les plus élevés, et veiller à ce que les fournisseurs qui font affaire avec le gouvernement mènent leurs activités de manière socialement responsable."
+    },
+    {
+      "en": "Developing or leading a program or policy that uses procurement to advance a government-wide socio-economic or environmental objective;",
+      "fr": "en collaboration avec les autorités contractantes, surveiller la réalisation de l’approvisionnement et satisfaire à toute exigence connexe en matière de déclaration;"
+    },
+    {
+      "en": "Imposing any mandatory requirements that involve changes to the administration of procurement by other departments; and",
+      "fr": "consulter le Secrétariat du Conseil du Trésor du Canada (et les autres ministères concernés) afin d’établir les exigences pour demander l’approbation du Cabinet ou du Conseil du trésor dans les situations suivantes :"
+    },
+    {
+      "en": "Ensuring that these requests include:",
+      "fr": "élaborer ou diriger un programme ou une politique prévoyant le recours à l’approvisionnement pour promouvoir un objectif socioéconomique ou environnemental à l’échelle du gouvernement,"
+    },
+    {
+      "en": "A clear alignment of intended outcomes with government priorities and other programs or policies; and",
+      "fr": "imposer toute exigence obligatoire qui entraîne des changements à l’administration de l’approvisionnement par d’autres ministères,"
+    },
+    {
+      "en": "A sound business case, including a risk assessment, expected benefits indicators, and supporting guidance and tools for government-wide implementation.",
+      "fr": "s’assurer que ces demandes comprennent :"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "une harmonisation claire des résultats prévus avec les priorités du gouvernement et d’autres programmes ou politiques;"
+    },
+    {
+      "en": "Conducting procurements on behalf of the department or agency, and establishing contracts and contractual arrangements based on sound procurement principles, including fairness, openness and transparency to obtain best value;",
+      "fr": "une analyse de rentabilisation solide, y compris une évaluation des risques, des indicateurs des avantages attendus, des documents d’orientation et des outils pour une mise en œuvre pangouvernementale."
+    },
+    {
+      "en": "Ensuring that the integrity of the procurement process is maintained throughout by:",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Adhering to the and the ; and",
+      "fr": "exécuter la fonction d’approvisionnement au nom du ministère ou de l’organisme et établir des contrats et des ententes contractuelles fondés sur des principes solides en matière d’approvisionnement, notamment l’équité, l’ouverture et la transparence, afin d’obtenir l’optimisation des ressources;"
+    },
+    {
+      "en": "Monitoring, preventing, identifying and reporting any conflict of interest that may exist and taking appropriate mitigating action as required;",
+      "fr": "veiller au maintien de l’intégrité des processus d’approvisionnement en :"
+    },
+    {
+      "en": "In collaboration with business owners, ensuring that pricing strategies are considered in procurement-planning and throughout the procurement life cycle;",
+      "fr": "se conformant au et à la ,"
+    },
+    {
+      "en": "Providing advice and recommending options to business owners on procurement strategies that meet operational requirements and have the intended results; the procurement strategies are based on risk, complexity and best value considerations, such as but not limited to:",
+      "fr": "surveillant, prévenant, répertoriant et signalant toute situation de conflit d’intérêts qui pourrait exister, et en prenant les mesures d’atténuation appropriées, au besoin."
+    },
+    {
+      "en": "Including outcomes-based, iterative approaches where appropriate;",
+      "fr": "en collaboration avec les propriétaires fonctionnels, s’assurer que les stratégies de prix sont prises en compte dans la planification de l’approvisionnement et tout au long du cycle de vie de l’approvisionnement;"
+    },
+    {
+      "en": "Incorporating market analysis and supplier engagements;",
+      "fr": "prodiguer des conseils et recommander des options aux propriétaires fonctionnels sur les stratégies d’approvisionnement qui répondent aux besoins opérationnels et qui produisent les résultats escomptés. Les stratégies d’approvisionnement sont fondées sur les considérations en matière de risque, de complexité et de l’optimisation des ressources, telles que, mais sans s’y limiter :"
+    },
+    {
+      "en": "Including an initial contract period with option years, off-ramps, phases, and gates to allow flexibility as appropriate;",
+      "fr": "inclure des approches itératives, axées sur les résultats, le cas échéant,"
+    },
+    {
+      "en": "Including supplier incentives, Crown payment credits, and adjustments to contracts, their duration or length, and their processes provided that compliance, safety, quality and other specified considerations within the contract are met;",
+      "fr": "incorporer des analyses du marché et la mobilisation des fournisseurs,"
+    },
+    {
+      "en": "Considering opportunities for the unbundling of requirements where applicable, and inviting bids by commodity to permit smaller and more specialized firms to bid;",
+      "fr": "inclure une période de contrat initiale avec des années d’option, des voies de sortie, des phases et des points de contrôle pour permettre une latitude, au besoin,"
+    },
+    {
+      "en": "Ensuring that all decisions related to the legitimate division of requirements into multiple smaller requirements are documented, and are not intended to avoid financial approval thresholds or policy requirements, such as contract entry limits, regulatory rules and trade agreement obligations;",
+      "fr": "inclure des incitatifs pour les fournisseurs, des crédits de paiement de l’État et des ajustements aux contrats, à leur durée et à leurs processus, à condition que la conformité, la sécurité, la qualité et d’autres considérations précisées dans le contrat soient respectées,"
+    },
+    {
+      "en": "Ensuring strategic category management, including socio-economic and environmental considerations;",
+      "fr": "examiner les possibilités de dégroupement des exigences, s’il y a lieu, et lancer des appels d’offres par produit afin de permettre aux entreprises plus petites ou plus spécialisées de soumissionner,"
+    },
+    {
+      "en": "Using pricing strategies, including the basis of payment, incentives and performance adjustments;",
+      "fr": "veiller à ce que toutes les décisions liées à la division légitime des exigences en plusieurs exigences plus petites soient consignées, et qu’elles ne soient pas prises dans le but d’éviter les seuils d’approbation financière ou les exigences des politiques, comme les limites contractuelles, les dispositions réglementaires et les obligations des accords commerciaux,"
+    },
+    {
+      "en": "Considering input from relevant stakeholders responsible for investment management, project management, materiel management and real property management;",
+      "fr": "assurer la gestion stratégique des catégories, y compris les considérations socioéconomiques et environnementales,"
+    },
+    {
+      "en": "Including the life-cycle costs of the asset and all stages of the procurement;",
+      "fr": "utiliser des stratégies de prix, y compris la base de paiement, les incitatifs et les ajustements en fonction du rendement,"
+    },
+    {
+      "en": "Using common service providers;",
+      "fr": "prendre en compte les commentaires formulés par les intervenants pertinents responsables de la gestion des investissements, des projets, du matériel et des biens immobiliers,"
+    },
+    {
+      "en": "Using Public Services and Procurement Canada’s published list of acquisition instruments, including the mandatory standing offers and supply arrangements as listed in Appendix A: Contracting Approvals, section A.6 (Standing offers and supply arrangements);",
+      "fr": "inclure les coûts du cycle de vie de l’actif et toutes les étapes de l’approvisionnement,"
+    },
+    {
+      "en": "Considering non-mandatory Public Services Procurement Canada acquisition instruments, where practicable; and",
+      "fr": "utiliser des fournisseurs de services communs,"
+    },
+    {
+      "en": "Applying lessons learned from previous procurements and best practices;",
+      "fr": "utiliser la liste des instruments d’achat existants de Services publics et Approvisionnement Canada, dont les offres à commandes et les arrangements en matière d’approvisionnement obligatoires énumérés à la section A.6 (Offres à commandes et arrangements en matière d’approvisionnement) de l’annexe A, Approbations contractuelles,"
+    },
+    {
+      "en": "Implementing the departmental procurement management framework established by senior designated officials while liaising horizontally across business lines to identify opportunities for efficiencies and achieve intended outcomes;",
+      "fr": "prendre en considération les instruments d’achat non obligatoires de Services publics et Approvisionnement Canada, s’il y a lieu,"
+    },
+    {
+      "en": "Collaborating with other government departments on joint procurements as appropriate;",
+      "fr": "appliquer les leçons retenues des approvisionnements précédents et les pratiques exemplaires;"
+    },
+    {
+      "en": "In consultation with business owners, monitoring, documenting, investigating and discussing contractor performance issues as they arise over the course of the contract in order to select appropriate measures required to address documented issues; and",
+      "fr": "mettre en œuvre le cadre ministériel de gestion de l’approvisionnement établi par les cadres supérieurs désignés, tout en assurant une liaison horizontale entre les secteurs d’activité afin de cerner les possibilités d’améliorer l’efficacité et d’atteindre les résultats prévus;"
+    },
+    {
+      "en": "Ensuring that requirements included in other policies, programs and agreements are considered and met as described in Appendix D: Requirements Included in Other Policies, Programs and Agreements That Impact Procurements;",
+      "fr": "collaborer avec les autres ministères sur des marchés d’approvisionnement conjoints, au besoin;"
+    },
+    {
+      "en": "Incorporating the into procurements (refer to Annex D6: Code of Conduct for Procurement).",
+      "fr": "en consultation avec les propriétaires fonctionnels, surveiller et consigner les problèmes de rendement des entrepreneurs au fur et à mesure qu’ils surviennent tout au long du contrat, en discuter et mener des enquêtes à cet égard, afin de sélectionner les mesures appropriées nécessaires pour régler les problèmes de rendement consignés;"
+    },
+    {
+      "en": "When conducting industry engagement, as appropriate, contracting authorities, in collaboration with business owners, are responsible for the following:",
+      "fr": "s’assurer que les exigences incluses dans d’autres politiques, programmes et ententes soient prises en considération et respectées, comme le prévoient les exigences incluses dans d’autres politiques, programmes et ententes qui ont une incidence sur l’approvisionnement énoncées à l’annexe D de la présente directive;"
+    },
+    {
+      "en": "Assessing whether an outcomes-based procurement approach is appropriate, such as in situations where:",
+      "fr": "tenir compte du dans les processus d’approvisionnement (voir l’annexe D6 – )."
+    },
+    {
+      "en": "There is no existing solution on the market;",
+      "fr": "Lorsqu’elles mobilisent l’industrie, au besoin, les autorités contractantes, en collaboration avec les propriétaires fonctionnels, ont les responsabilités suivantes :"
+    },
+    {
+      "en": "The business requirement needs cannot be met without significant modifications to existing solutions;",
+      "fr": "évaluer si une approche d’approvisionnement axée sur les résultats est appropriée, comme dans les cas suivants :"
+    },
+    {
+      "en": "The business requirement is complex and involves multiple stakeholders; and",
+      "fr": "il n’existe pas de solution sur le marché,"
+    },
+    {
+      "en": "Collaboration with suppliers in solution development may be required;",
+      "fr": "il est impossible de répondre aux besoins fonctionnels sans apporter des modifications importantes aux solutions existantes,"
+    },
+    {
+      "en": "Developing industry engagement strategies that respect the principles of a fair, open and transparent procurement process;",
+      "fr": "le besoin fonctionnel est complexe et mobilise de multiples intervenants,"
+    },
+    {
+      "en": "Communicating the rules of that engagement with all stakeholders involved;",
+      "fr": "il peut être nécessaire de collaborer avec les fournisseurs pour élaborer des solutions;"
+    },
+    {
+      "en": "Conducting market analysis in the procurement-planning phase to better understand industry capacity and availability;",
+      "fr": "élaborer des stratégies de mobilisation de l’industrie qui respectent les principes d’un processus d’approvisionnement équitable, ouvert et transparent;"
+    },
+    {
+      "en": "Developing performance-based evaluation criteria that are commensurate with the risk and complexity of the procurement, through the following measures, including but not limited to:",
+      "fr": "communiquer les règles de cette mobilisation à tous les intervenants concernés;"
+    },
+    {
+      "en": "Requesting third-party reviews and analysis;",
+      "fr": "effectuer une analyse du marché au cours de la phase de planification de l’approvisionnement pour mieux comprendre la capacité et la disponibilité de l’industrie;"
+    },
+    {
+      "en": "Organizing or participating in events, including bidders’ conferences, supplier or industry days and site visits; and",
+      "fr": "élaborer des critères d’évaluation axés sur les résultats, en fonction du risque et de la complexité de l’approvisionnement, à l’aide des méthodes ci-dessous, sans toutefois s’y limiter :"
+    },
+    {
+      "en": "Issuing requests for information, request for expressions of interest, or advance contract award notices as required;",
+      "fr": "demander la tenue d’examens et d’analyses par des tierces parties,"
+    },
+    {
+      "en": "Ensuring that there are opportunities for suppliers to collaborate and develop solutions, including pilots and prototypes, where appropriate;",
+      "fr": "organiser des événements ou y participer, y compris des conférences de soumissionnaires, des journées de fournisseurs ou de l’industrie et des visites sur place,"
+    },
+    {
+      "en": "Leveraging market analysis and applying business acumen and negotiation skills to develop the terms of a contract; and",
+      "fr": "faire des demandes de renseignements ou des demandes d’expression d’intérêt, ou donner des préavis d’adjudication de contrats, au besoin;"
+    },
+    {
+      "en": "Revalidating the market analysis sufficiently in advance of negotiating the extension of non-competitive procurements to allow for the consideration of other options as appropriate.",
+      "fr": "veiller à ce que les fournisseurs aient l’occasion de collaborer et d’élaborer des solutions, y compris des projets pilotes et des prototypes, le cas échéant;"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "tirer parti de l’analyse du marché, d’un sens aigu des affaires et de compétences en négociation pour élaborer les modalités d’un contrat;"
+    },
+    {
+      "en": "Ensuring that bids are solicited for contracts, except when one of the exceptions set out in the applies;",
+      "fr": "revalider l’analyse du marché suffisamment tôt avant de négocier la prolongation des contrats non concurrentiels pour permettre l’examen d’autres options, au besoin."
+    },
+    {
+      "en": "Publishing on the Government of Canada–approved electronic tendering system, except when publication is not in the public interest, the following as required by applicable trade agreements:",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "All notices, solicitations, invitations to tender and bid documents, unless otherwise permitted by each of the applicable trade agreements;",
+      "fr": "veiller à ce qu’un appel d’offres soit lancé pour les contrats, sauf lorsqu’une des exceptions énoncées dans le s’applique;"
+    },
+    {
+      "en": "Advance contract award notices identifying the intended supplier for at least 15 calendar days;",
+      "fr": "publier les éléments ci-dessous dans le service électronique d’appels d’offres approuvés par le gouvernement du Canada, excepté lorsque la publication n’est pas dans l’intérêt public, tel que requis par les accords commerciaux applicables :"
+    },
+    {
+      "en": "Simplifying solicitation documents wherever possible to support streamlined processes;",
+      "fr": "tous les avis, les demandes de soumissions, les appels d’offres et les dossiers d’appel d’offres, sauf autrement permis par chacun des accords commerciaux applicables,"
+    },
+    {
+      "en": "To the extent possible, taking past performance into consideration when assessing a bidder’s ability to deliver, and managing the contract accordingly;",
+      "fr": "les préavis d’adjudication de contrats indiquant le fournisseur prévu pendant au moins 15 jours civils;"
+    },
+    {
+      "en": "Including requirements for former public servants to self-identify in solicitations and in the resulting contract clauses of service contract documents, and informing suppliers that this information will be proactively published; and",
+      "fr": "simplifier les documents d’appels d’offres dans la mesure du possible afin de favoriser des processus rationalisés;"
+    },
+    {
+      "en": "Collaborating with business owners to ensure that any appropriate socio-economic and environmental requirements are achievable and measurable;",
+      "fr": "dans la mesure du possible, tenir compte du rendement antérieur lors de l’évaluation de la capacité d’un soumissionnaire à livrer les produits et gérer le contrat en conséquence;"
+    },
+    {
+      "en": "Designing and conducting the bid evaluation process, financial assessment and due diligence;",
+      "fr": "inclure des exigences obligeant les anciens fonctionnaires à s’auto-identifier dans les appels d’offres et dans les clauses contractuelles des documents de contrats de services qui en résultent, et informer les fournisseurs que cette information sera publiée de façon proactive;"
+    },
+    {
+      "en": "Limiting the number of mandatory technical criteria to those determined to be essential requirements in order to achieve the desired outcomes and ensure that no bid is unnecessarily disqualified.",
+      "fr": "collaborer avec les propriétaires fonctionnels afin de s’assurer que toutes les exigences socioéconomiques et environnementales appropriées peuvent être remplies et qu’elles sont mesurables;"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "concevoir et mener à bien le processus d’évaluation des soumissions et l’évaluation financière, et faire preuve de diligence raisonnable;"
+    },
+    {
+      "en": "Seeking Treasury Board approval when the estimated value for a contract or contractual arrangement, including taxes, expected amendments, and follow-on contract or contractual arrangement, exceeds the limits in Appendix A: Contracting Approvals:",
+      "fr": "limiter le nombre de critères techniques obligatoires à ceux jugés être des exigences essentielles pour obtenir les résultats escomptés et s’assurer qu’aucune soumission n’est rejetée inutilement."
+    },
+    {
+      "en": "Prior to entering into or amending a contract or contractual arrangement;",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Prior to amending a contract or contractual arrangement if the procurement deliverables or costs change after advance approval; and",
+      "fr": "demander l’approbation du Conseil du Trésor lorsque la valeur estimée d’un contrat ou d’une entente contractuelle, y compris les taxes, les modifications prévues et le contrat ou l’entente contractuelle subséquent, excède les limites indiquées à l’annexe A, Approbations contractuelles :"
+    },
+    {
+      "en": "Prior to entering or amending a contract issued against an acquisition instrument (for example, standing offer or supply arrangement) when the estimated value exceeds the limits specified in the Treasury Board–approved acquisition instrument;",
+      "fr": "avant de conclure ou de modifier un contrat ou une entente contractuelle,"
+    },
+    {
+      "en": "Where appropriate, based on procurement strategies or plan, seeking advance Treasury Board approval to enter into a contract or contractual arrangement;",
+      "fr": "avant de modifier un contrat ou une entente contractuelle si les produits livrables ou les coûts de l’approvisionnement sont modifiés après l’approbation préalable,"
+    },
+    {
+      "en": "Ensuring that emergency conditions exist and seeking the appropriate approval prior to entering into an emergency contract or contractual arrangements in accordance with the requirements specified in Appendix A: Contracting Approvals, section A.3 (Emergency contracting limits);",
+      "fr": "avant de conclure ou de modifier un contrat émis en vertu d’un instrument d’achat (par exemple, offre à commandes, arrangement en matière d’approvisionnement) lorsque la valeur estimée dépasse les limites précisées dans l’instrument d’achat approuvé par le Conseil du Trésor;"
+    },
+    {
+      "en": "Seeking ministerial approval for contracts with former public servants in accordance with Appendix A: Contracting Approvals, section A.4 (Former public servants contract approvals);",
+      "fr": "le cas échéant, en fonction des stratégies ou du plan d’approvisionnement, demander l’approbation préalable du Conseil du Trésor pour conclure un contrat ou une entente contractuelle;"
+    },
+    {
+      "en": "Seeking Treasury Board approval to change an approval authority in accordance with Appendix A: Contracting Approvals, section A.5 (Requesting changes to contracting approval limits); and",
+      "fr": "s’assurer que des conditions en cas d’urgence existent et demander l’approbation appropriée avant de conclure un contrat ou des ententes contractuelles d’urgence conformément aux exigences énoncées à la section A.3 (Limites contractuelles en cas d’urgence) de l’annexe A, Approbations contractuelles;"
+    },
+    {
+      "en": "Seeking Treasury Board approval to limit contractor liability or to indemnify in accordance with Appendix B: Mandatory Procedures for Limitation of Contractor Liability and Indemnification in Contracts.",
+      "fr": "demander l’approbation du ministre pour les contrats avec d’anciens fonctionnaires conformément à la section A.4 (Approbations de contrats avec d’anciens fonctionnaires) de l’annexe A, Approbations contractuelles;"
+    },
+    {
+      "en": "Business owners are responsible for the following:",
+      "fr": "demander l’approbation du Conseil du Trésor afin de modifier un pouvoir d’approbation conformément à la section A.5 (Demande de changements aux limites d’approbation des contrats) de l’annexe A, Approbations contractuelles;"
+    },
+    {
+      "en": "Ensuring that an employer-employee relationship does not form during the contract; and",
+      "fr": "demander l’approbation du Conseil du Trésor pour limiter la responsabilité de l’entrepreneur ou l’indemniser conformément à l’annexe B, Procédures obligatoires pour la limitation de la responsabilité et l’indemnisation de l’entrepreneur dans les contrats."
+    },
+    {
+      "en": "Keeping their contracting authorities informed of the conditions or changes to the way in which the work must be performed that may create an employer-employee relationship.",
+      "fr": "Les propriétaires fonctionnels ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "s’assurer qu’une relation employeur-employé ne se forme pas pendant l’exécution du contrat;"
+    },
+    {
+      "en": "Ensuring that business owners using contracted services are aware of the risks associated with the creation of employer-employee relationships, prior to and during the performance of the contract; and",
+      "fr": "tenir les autorités contractantes informées des conditions ou des changements dans l’exécution du travail qui pourraient créer une relation employeur-employé."
+    },
+    {
+      "en": "Including terms and conditions that prevent the risk of creating employer-employee relationships in the contract.",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Business owners are responsible for the following:",
+      "fr": "veiller à ce que les propriétaires fonctionnels qui utilisent des services contractuels soient conscients des risques associés à la création de relations employeur-employé avant et pendant l’exécution du contrat;"
+    },
+    {
+      "en": "Monitoring, documenting and certifying the delivery of goods, services and construction to ensure that the delivery meets the provisions of the contract or contractual arrangement, including such criteria as quality, standards and service levels;",
+      "fr": "inclure des modalités dans le contrat qui atténuent le risque de créer des relations employeur-employé."
+    },
+    {
+      "en": "Monitoring and documenting costs, including confirming that the invoice is in accordance with the contract or contractual arrangement and reflects the work performed;",
+      "fr": "Les propriétaires fonctionnels ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Informing contracting authorities of contractor performance, including both the challenges and achievement of key deliverables as they arise;",
+      "fr": "surveiller, consigner et certifier la livraison des biens, la prestation des services et l’exécution de la construction pour s’assurer que le produit livrable répond aux dispositions du contrat ou de l’entente contractuelle, notamment pour ce qui est des critères relatifs à la qualité, aux normes et aux niveaux de service;"
+    },
+    {
+      "en": "In collaboration with contracting authorities, communicating performance issues and consequences to the contractors as they arise, and providing contractors with an opportunity to address the issues as appropriate;",
+      "fr": "surveiller et consigner les coûts, y compris confirmer que la facture est conforme au contrat ou à l’entente contractuelle et qu’elle reflète le travail effectué;"
+    },
+    {
+      "en": "In collaboration with contracting authorities, reviewing complex procurements, where appropriate to:",
+      "fr": "informer les autorités contractantes du rendement de l’entrepreneur, notamment les défis et les réalisations des principaux produits livrables au fur et à mesure qu’ils se présentent;"
+    },
+    {
+      "en": "Assess the appropriateness of the procurement strategy;",
+      "fr": "en collaboration avec les autorités contractantes, communiquer les problèmes de rendement et les conséquences pour les entrepreneurs au fur et à mesure qu’ils se présentent, et donner l’occasion aux entrepreneurs de régler les problèmes, au besoin;"
+    },
+    {
+      "en": "Determine whether best value and the intended outcomes are being achieved (including but not limited to socio-economic and environmental outcomes);",
+      "fr": "en collaboration avec les autorités contractantes, examiner les approvisionnements complexes, le cas échéant, aux fins suivantes :"
+    },
+    {
+      "en": "Identify opportunities for improvement or change where applicable;",
+      "fr": "évaluer la pertinence de la stratégie d’approvisionnement,"
+    },
+    {
+      "en": "Document, share, and apply lessons learned and best practices, where possible; and",
+      "fr": "déterminer si la meilleure optimisation des ressources est obtenue et si les résultats prévus sont atteints (y compris, mais sans s’y limiter, les résultats socioéconomiques et environnementaux),"
+    },
+    {
+      "en": "Apply best practices in contract management in order to achieve the desired procurement outcomes over the acquisition life cycle;",
+      "fr": "cerner les possibilités d’amélioration ou de modification, s’il y a lieu,"
+    },
+    {
+      "en": "In collaboration with contracting authorities, providing a justification for using any of the exceptions to soliciting bids in the .",
+      "fr": "consigner, partager et appliquer les leçons retenues et les pratiques exemplaires, lorsqu’il est possible de le faire,"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "appliquer des pratiques exemplaires de gestion des contrats pour atteindre les résultats souhaités en matière d’approvisionnement tout au long du cycle de vie de l’acquisition;"
+    },
+    {
+      "en": "Ensuring that accurate and comprehensive procurement records applicable to the contract file are created and maintained to facilitate management oversight and audit, including but not limited to:",
+      "fr": "en collaboration avec les autorités contractantes, justifier le recours à l’une des exceptions aux appels d’offres prévues dans le ."
+    },
+    {
+      "en": "A description of the requirement, the rationale for the procurement strategy options and the identification of decision-makers involved;",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "A record of individual assessments, consensus evaluation, relevant decisions, approvals, communications and dates;",
+      "fr": "s’assurer que des dossiers d’approvisionnement précis et complets relatifs au dossier du contrat sont créés et tenus à jour afin de faciliter la surveillance de la gestion et l’audit. Ces dossiers doivent comprendre, sans toutefois s’y limiter :"
+    },
+    {
+      "en": "Justification for using limited tendering, in accordance with each applicable trade agreement;",
+      "fr": "une description de l’exigence, la justification des options de la stratégie d’approvisionnement et l’identité des décideurs concernés,"
+    },
+    {
+      "en": "Justification for using a non-competitive process, in accordance with the (including the sole source exception invoked, the rationale for its use, and any associated documentation);",
+      "fr": "un relevé des évaluations individuelles, des évaluations obtenues par consensus, des décisions pertinentes, des approbations, des communications et des dates,"
+    },
+    {
+      "en": "Documentation of risk management strategies, financial assessments and ongoing price validations throughout the procurement;",
+      "fr": "justification du recours aux appels d’offres limités, conformément à chaque accord commercial applicable,"
+    },
+    {
+      "en": "Any records related to the limitation of contractor liability or indemnification regardless of the dollar value of the contract;",
+      "fr": "justification de l’utilisation d’un processus non concurrentiel, conformément au (y compris l’exception de fournisseur unique invoquée, la justification de l’exception utilisée et toute documentation connexe),"
+    },
+    {
+      "en": "Documentation of any criteria, considerations or plans that leverage procurement to provide socio-economic and environmental benefits, including any additional known costs and planned outcomes;",
+      "fr": "des documents sur les stratégies de gestion du risque, les évaluations financières et les validations en cours du prix tout au long de l’approvisionnement,"
+    },
+    {
+      "en": "Justification for contracting with a former public servant that includes price substantiation, risk mitigation and cost control measures to adjust for pension or lump-sum payments;",
+      "fr": "tout dossier lié à la limitation de la responsabilité ou à l’indemnisation de l’entrepreneur, quel que soit la valeur du contrat,"
+    },
+    {
+      "en": "A copy of the duly executed contract or contractual arrangement; and",
+      "fr": "des documents sur tout critère, considération ou plan qui tire parti de l’approvisionnement afin de procurer des avantages socioéconomiques et environnementaux, y compris tout coût supplémentaire connu et les résultats prévus,"
+    },
+    {
+      "en": "The name and title of the individual assigned to the role of business owner.",
+      "fr": "une justification de l’octroi d’un contrat avec un ancien fonctionnaire qui comprend la justification des prix, l’atténuation des risques et les mesures de contrôle des coûts pour ajuster les pensions ou les paiements forfaitaires,"
+    },
+    {
+      "en": "Including a condition in complex procurements that prohibits the contractor from supplying goods to the government of Canada that is subject to economic sanctions imposed under the , the , or the and listed in Appendix D: Requirements Included in Other Policies, Programs and Agreements That Impact Procurements, section D.4 (International sanctions), subsection D.4.2;",
+      "fr": "une copie du contrat ou de l’entente contractuelle dûment exécuté;"
+    },
+    {
+      "en": "Ensuring that the roles and responsibilities of stakeholders involved throughout the procurement process are well-defined and clearly communicated;",
+      "fr": "le nom et le titre de la personne assumant le rôle de propriétaire fonctionnel;"
+    },
+    {
+      "en": "In collaboration with business owners, documenting contractor performance issues as they occur, in accordance with the escalation guidance;",
+      "fr": "inclure une condition dans le cas des approvisionnements complexes qui interdit à l’entrepreneur assujetti à des sanctions économiques imposées en vertu de la , de la ou de la et énumérées au paragraphe D.4.2 de la section D.4 (Sanctions internationales) de fournir des biens au gouvernement;"
+    },
+    {
+      "en": "Monitoring and managing the procurement risks identified in the planning stage and ensuring that updates are made to reflect evolving risks throughout the procurement process;",
+      "fr": "s’assurer que les responsabilités et les rôles des intervenants qui participent tout au long du processus d’approvisionnement sont bien définis et clairement communiqués;"
+    },
+    {
+      "en": "Seeking approval from the financial delegation holder prior to extending the duration of a contract or amending a contract where there is a financial impact throughout the procurement life cycle;",
+      "fr": "en collaboration avec les propriétaires fonctionnels, consigner les problèmes de rendement des entrepreneurs au fur et à mesure qu’ils se présentent, conformément aux lignes directrices en matière de recours hiérarchique;"
+    },
+    {
+      "en": "In collaboration with business owners, assessing whether to extend or re-solicit expiring long-term contracts or contractual arrangements at least two years in advance of their expiry; and",
+      "fr": "surveiller et gérer les risques en matière d’approvisionnement relevés pendant la planification, et s’assurer que des mises à jour sont apportées afin de tenir compte des risques en évolution tout au long du processus d’approvisionnement;"
+    },
+    {
+      "en": "In consultation with legal services, ensuring that the contract includes appropriate cancellation or termination clauses, such as clauses that permit cancellation or termination at critical life-cycle stages for complex procurements.",
+      "fr": "demander l’approbation du détenteur des pouvoirs financiers avant de prolonger la durée d’un contrat ou de modifier ce dernier lorsqu’il y a une incidence financière, tout au long du cycle de vie de l’approvisionnement;"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "en collaboration avec les propriétaires fonctionnels, évaluer s’il y a lieu de prolonger les contrats ou les ententes contractuelles à long terme venant à échéance ou d’en relancer l’appel d’offres au moins deux ans avant leur expiration;"
+    },
+    {
+      "en": "Considering whether to obtain a financial security from bidders and contractors that is commensurate with the risks involved, including the risk of a contractor’s failure or inability to perform the work under a contract;",
+      "fr": "en consultation avec les services juridiques, s’assurer que le contrat comprend des clauses d’annulation ou de résiliation appropriées, comme des clauses qui permettent l’annulation ou la résiliation à des étapes essentielles du cycle de vie pour les approvisionnements complexes."
+    },
+    {
+      "en": "Taking into account the standard industry practices in evaluating the type of financial security;",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Ensuring that any company selected to provide that financial security is licensed to provide it in the jurisdiction of the eventual contract, in accordance with the ;",
+      "fr": "déterminer s’il est nécessaire d’obtenir de la part des soumissionnaires et des entrepreneurs des garanties financières qui sont proportionnelles aux risques courus, notamment le risque d’échec ou d’incapacité de la part de l’entrepreneur d’effectuer les travaux prévus par un contrat;"
+    },
+    {
+      "en": "In collaboration with business owners, ensuring that any financial security held by the Crown is redeemed, where appropriate, when a contractor or a bidder defaults on their obligations;",
+      "fr": "tenir compte des pratiques courantes de l’industrie pour évaluer le type de garantie financière;"
+    },
+    {
+      "en": "Including options for an exit strategy at key milestones, gates or phases, and monitoring that payment milestones are not missed to avoid additional costs to the Crown; and",
+      "fr": "s’assurer que toute société qui est sélectionnée pour fournir cette garantie financière est autorisée à le faire sur le territoire visé par le contrat éventuel, conformément aux lignes directrices sur les listes des sociétés autorisées à fournir une sécurité financière au Canada;"
+    },
+    {
+      "en": "Where there is knowledge of an insolvency and impending or actual bankruptcy of a contractor or bidder, ensuring that any proposed action by a business owner will not prejudice the Crown’s legal position, particularly when the bankrupt contractor resides outside Canada, and that any action taken be in accordance with the bankruptcy laws of the respective foreign country.",
+      "fr": "en collaboration avec les propriétaires fonctionnels, veiller à ce que toute garantie financière détenue par l’État soit remboursée, le cas échéant, lorsqu’un entrepreneur ou un soumissionnaire manque à ses obligations;"
+    },
+    {
+      "en": "Business owners are responsible for the following:",
+      "fr": "inclure des options pour une stratégie de sortie à des jalons clés, des points de contrôle ou des phases, et surveiller que les jalons de paiements ne sont pas manqués afin d’éviter des coûts supplémentaires pour l’État;"
+    },
+    {
+      "en": "Ensuring that a risk assessment is completed and consulting with key departmental stakeholders including legal services as appropriate prior to initiating a request to limit contractor liability and indemnification;",
+      "fr": "en cas d’insolvabilité ou de faillite, imminente ou effective, d’un entrepreneur ou d’un soumissionnaire, s’assurer que toute mesure envisagée par le propriétaire fonctionnel ne sera pas préjudiciable à la position juridique de l’État, en particulier lorsque l’entrepreneur en faillite est une société dont le siège social est à l’extérieur du Canada, et que toute mesure prise respecte les lois sur la faillite du pays étranger visé."
+    },
+    {
+      "en": "Assuming responsibility for procurement litigation costs, including in situations where the procurement is carried out on their behalf by a contracting authority and where responsibility for such costs has not been otherwise allocated.",
+      "fr": "Les propriétaires fonctionnels ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "s’assurer qu’une évaluation des risques est réalisée, et consulter les principaux intervenants du ministère, y compris les services juridiques au besoin avant d’entreprendre une demande visant à limiter la responsabilité et l’indemnisation de l’entrepreneur;"
+    },
+    {
+      "en": "Ensuring that the contract allows for each party to accept responsibility for risks under their control that they can manage or mitigate in accordance with authorities set out in Appendix B: Mandatory Procedures for Limitation of Contractor Liability and Indemnification in Contracts;",
+      "fr": "assumer la responsabilité des coûts des litiges en matière d’approvisionnement, y compris lorsque l’approvisionnement est exécuté en leur nom par une autorité contractante et lorsque la responsabilité de ces coûts n’a pas été autrement attribuée au préalable."
+    },
+    {
+      "en": "Advising business owners on the recommended strategy for limiting contractor liability, where applicable, in accordance with Appendix B: Mandatory Procedures for Limitation of Contractor Liability and Indemnification in Contracts; and",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Communicating the commodity groupings that they create in accordance with Appendix B: Mandatory Procedures for Limitation of Contractor Liability and Indemnification in Contracts, subsection B.1.2.1.2, and their associated financial caps, risk assessment and clauses to Public Services and Procurement Canada for publication and dissemination.",
+      "fr": "s’assurer que le contrat prévoit que chaque partie accepte la responsabilité des risques qui relèvent d’elle et qu’elle peut gérer ou atténuer conformément aux pouvoirs énoncés à l’annexe B, Procédures obligatoires pour la limitation de la responsabilité et l’indemnisation de l’entrepreneur dans les contrats;"
+    },
+    {
+      "en": "In accordance with the and the , contracting authorities are responsible for the following:",
+      "fr": "conseiller les propriétaires fonctionnels sur la stratégie recommandée pour limiter la responsabilité de l’entrepreneur, s’il y a lieu, conformément à l’annexe B, Procédures obligatoires pour la limitation de la responsabilité et l’indemnisation de l’entrepreneur dans les contrats;"
+    },
+    {
+      "en": "Publishing all information and documentation related to a solicitation or a contract in both official languages; and",
+      "fr": "communiquer à Services publics et Approvisionnement Canada les groupes de produits qu’elles créent conformément au paragraphe B.1.2.1.2 de l’annexe B, Procédures obligatoires pour la limitation de la responsabilité et l’indemnisation de l’entrepreneur dans les contrats, ainsi que leurs plafonds financiers, évaluations des risques et clauses aux fins de publication et de diffusion."
+    },
+    {
+      "en": "Communicating with suppliers and contractors and providing them with access to information related to procurement in both official languages.",
+      "fr": "Conformément à la et au , les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "publier dans les deux langues officielles tous les renseignements et tous les documents relatifs à un appel d’offres ou à un contrat;"
+    },
+    {
+      "en": "Collecting and publishing procurement data in accordance with the departmental procurement management framework; and",
+      "fr": "communiquer avec les fournisseurs et les entrepreneurs, et leur donner accès aux renseignements liés à l’approvisionnement dans les deux langues officielles."
+    },
+    {
+      "en": "Ensuring that contracts comply with all applicable government-wide reporting requirements set out in legislation, policy, trade agreements, or other obligations in accordance with Appendix C: Mandatory Procedures for the Disclosure of Contracts and Reporting; this includes:",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Ensuring that the information and data, including lessons learned from other procurements, are available to all key stakeholders and enable senior designated officials to make informed procurement recommendations and decisions.",
+      "fr": "recueillir et publier des données sur l’approvisionnement conformément au cadre ministériel de gestion de l’approvisionnement;"
+    },
+    {
+      "en": "Contracting authorities are responsible for the following:",
+      "fr": "veiller à ce que les contrats respectent toutes les exigences pangouvernementales applicables en matière de déclaration énoncées dans les lois, les politiques, les accords commerciaux ou d’autres obligations, conformément à l’annexe C, Procédures obligatoires pour la divulgation des contrats et l’établissement de rapports, ce qui comprend :"
+    },
+    {
+      "en": "Ensuring that procurement documents outline dispute resolution procedures for bids and contracts;",
+      "fr": "veiller à ce que les renseignements et les données, y compris les leçons retenues des autres approvisionnements, soient à la disposition de tous les principaux intervenants, et qu’ils permettent aux cadres supérieurs désignés de formuler des recommandations réfléchies sur l’approvisionnement et de prendre des décisions éclairées à ce sujet."
+    },
+    {
+      "en": "Providing bidders with information on available alternative processes for dispute resolution, including but not limited to negotiation, mediation and arbitration, prior to awarding the contract;",
+      "fr": "Les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Ensuring that bidders who request a debriefing receive one in a timely manner after a contract has been awarded; and",
+      "fr": "s’assurer que les documents d’approvisionnement décrivent les procédures de résolution des différends relatifs aux soumissions et aux contrats;"
+    },
+    {
+      "en": "Dealing with bidder and contractor disputes fairly and promptly.",
+      "fr": "fournir aux soumissionnaires des renseignements sur les autres mécanismes de règlement des différends qui sont offerts, ce qui comprend, sans s’y limiter, la négociation, la médiation et l’arbitrage, avant l’attribution du contrat;"
+    },
+    {
+      "en": "Business owners, in collaboration with contracting authorities are responsible for the following:",
+      "fr": "veiller à ce que les soumissionnaires qui demandent un compte rendu en reçoivent un rapidement après l’attribution du contrat;"
+    },
+    {
+      "en": "Protecting government spending from fraud, corruption, unethical business practices and collusive behaviour;",
+      "fr": "régler équitablement et rapidement les différends avec les soumissionnaires et les entrepreneurs."
+    },
+    {
+      "en": "Escalating and sharing information on potential wrongdoing regarding procurements and contractual arrangements; and",
+      "fr": "Les propriétaires fonctionnels et les autorités contractantes ont les responsabilités suivantes :"
+    },
+    {
+      "en": "Making every reasonable effort to ensure that no direct benefits accrue to anyone who has an interest in the procurement or in the awarding of a contract to a successful bidder;",
+      "fr": "protéger les dépenses du gouvernement contre la fraude, la corruption, les pratiques commerciales contraires à l’éthique et le comportement collusif;"
+    },
+    {
+      "en": "Requiring that suppliers and subcontracted suppliers of goods and services apply ethical and sustainability standards across their supply chains and adhere to the (refer to Annex D6: Code of Conduct for Procurement).",
+      "fr": "transmettre aux échelons supérieurs et communiquer les renseignements sur un acte potentiellement répréhensible concernant des approvisionnements et des ententes contractuelles;"
+    },
+    {
+      "en": "This section identifies the roles of other key government organizations in relation to this directive. In and of itself, this section does not confer any authority.",
+      "fr": "déployer tous les efforts raisonnables pour veiller à ce que personne ayant un intérêt dans l’approvisionnement ou l’attribution d’un contrat à un soumissionnaire retenu ne retire d’avantages directs;"
+    },
+    {
+      "en": "Procuring the services of arbitrators, mediators, experts, court reporters, stenographers, interpreters, translators, and other professionals where ordered by the court, mandated by court rules, or where agreement with adversarial parties is required in matters that may result in the commencement of legal proceedings or where legal proceedings have already commenced involving the Attorney General of Canada; and",
+      "fr": "exiger que les fournisseurs et compris les fournisseurs en sous-traitance de biens et de services appliquent des normes d’éthique et de durabilité dans l’ensemble de leurs chaînes d’approvisionnement et qu’ils respectent le (voir l’annexe D6 – )."
+    },
+    {
+      "en": "Where the apply, contracts for legal services may be entered into only by or under the authority of the Minister of Justice; this requirement does not apply to contracting authorities included in the schedule to the .",
+      "fr": "Cette section traite du rôle des autres organisations gouvernementales clés au regard de la présente directive. En soi, cette section ne confère aucun pouvoir."
+    },
+    {
+      "en": "Administering Canadian income tax and commodity tax (for example the Goods and Services Tax (GST) and Harmonized Sales Tax (HST)) legislation and regulations, and the related CRA policies and procedures, including with respect to:",
+      "fr": "faire appel à des services d’arbitres, de médiateurs, d’experts, de sténographes judiciaires, de sténographes, d’interprètes, de traducteurs et d’autres professionnels lorsque le tribunal l’ordonne, que les règles de la Cour le prescrivent ou qu’une entente avec des parties adverses est requise pour des questions susceptibles d’entraîner le début d’une procédure judiciaire ou que des procédures judiciaires mettant en cause le procureur général du Canada ont déjà été entamées;"
+    },
+    {
+      "en": ", other than amounts paid in respect of an office of employment;",
+      "fr": "Lorsque le s’applique, les contrats de prestation de services juridiques ne peuvent être conclus que par le ministre de la Justice ou sous son autorité; cette exigence ne s’applique pas aux autorités contractantes figurant à l’annexe de ce ."
+    },
+    {
+      "en": "Reporting payments for services provided in Canada;",
+      "fr": "exécuter les lois et règlements canadiens en matière d’impôt sur le revenu et de taxe à la consommation (par exemple la taxe sur les produits et services [TPS] et la taxe de vente harmonisée [TVH]), et les politiques et procédures connexes de l’ARC, ce qui comprend les activités suivantes :"
+    },
+    {
+      "en": "Determining if an employment relationship exists for income tax purposes; and",
+      "fr": ", autres que les montants payés relativement à une charge ou à un emploi,"
+    },
+    {
+      "en": "The application of GST or HST (except with respect to importations and in Quebec).",
+      "fr": "la déclaration de paiements pour des services fournis au Canada,"
+    },
+    {
+      "en": "Reviewing the procurement practices of organizations to assess their fairness, openness and transparency, and making recommendations for improvements;",
+      "fr": "la détermination de l’existence d’une relation d’emploi aux fins de l’impôt sur le revenu,"
+    },
+    {
+      "en": "Reviewing complaints from suppliers about the awarding of contracts that are valued below the monetary thresholds set out in applicable trade agreements; and",
+      "fr": "l’application de la TPS ou de la TVH (sauf pour les importations et au Québec)."
+    },
+    {
+      "en": "Ensuring that an alternative dispute resolution process is provided, at the request of each party to the contract, for disputes related to the interpretation or application of a contract’s terms and conditions.",
+      "fr": "examiner les pratiques d’approvisionnement des organisations afin d’en évaluer l’équité, l’ouverture et la transparence, et recommander des améliorations;"
+    },
+    {
+      "en": "Conducting enquiries into complaints by potential suppliers regarding procurement processes for covered goods and services that are valued above the monetary thresholds set out in the applicable trade agreements;",
+      "fr": "examiner les plaintes des fournisseurs concernant l’attribution des contrats dont la valeur est inférieure aux seuils monétaires établis dans les accords commerciaux applicables;"
+    },
+    {
+      "en": "Determining the merits of complaints, including whether procurement processes comply with the requirements of the trade agreements, and awarding a complainant reasonable costs incurred in relation to a complaint where appropriate; and",
+      "fr": "veiller à ce qu’un autre mécanisme de règlement des différends soit offert à la demande de chaque partie du contrat pour les différends associés à l’interprétation ou à l’application des modalités d’un contrat."
+    },
+    {
+      "en": "Recommending remedies to complaints, which may include the re-solicitation of the designated contract and the payment of damages.",
+      "fr": "mener des enquêtes sur les plaintes de fournisseurs éventuels en ce qui concerne les processus d’approvisionnement pour les biens et les services couverts dont la valeur est supérieure aux seuils monétaires établis dans les accords commerciaux applicables;"
+    },
+    {
+      "en": "Planning and organizing the provision of materiel and related services to departments and the acquisition of goods, services and construction for departments in accordance with section 6 of the ;",
+      "fr": "déterminer le bien-fondé des plaintes, y compris déterminer si les processus d’approvisionnement sont conformes aux exigences des accords commerciaux, et accorder à un plaignant le remboursement des coûts raisonnables engagés en rapport avec une plainte, le cas échéant;"
+    },
+    {
+      "en": "Investigating and developing services for increasing the efficiency and economy of the federal public administration and for enhancing integrity and efficiency in the contracting process in accordance with section 7 of the ;",
+      "fr": "formuler des recommandations pour régler des plaintes, ce qui peut comprendre le lancement d’un nouvel appel d’offres pour le contrat désigné et le paiement de dommages."
+    },
+    {
+      "en": "Procuring goods for the use of any department, except to the extent that the Minister of Public Services and Procurement Canada delegates the powers to another Minister, as stated in section 9 of the ;",
+      "fr": "planifier et organiser des opérations de fourniture de matériels et de services connexes aux ministères et l’acquisition de biens, de services et de construction pour les ministères, conformément à l’article 6 de la ;"
+    },
+    {
+      "en": "Acquiring defence supplies and constructing defence projects as defined in the with the exception of defence projects constructed by employees of Her Majesty, or purchasing defence supplies or constructing defence projects that the Minister of Public Services and Procurement Canada requests that another Minister undertake;",
+      "fr": "étudier et mettre sur pied des services en vue d’accroître l’efficacité de l’administration publique fédérale et de favoriser l’intégrité et l’efficience du processus d’impartition des contrats, conformément à l’article 7 de la ;"
+    },
+    {
+      "en": "Developing operational tools to support procurement undertaken on behalf of other government departments, such as guidance, templates, standard contract clauses, and an electronic tendering system (where appropriate, these tools will be made available to the procurement community);",
+      "fr": "acquérir des biens pour le compte de tout ministère, sauf dans la mesure où le ministre des Services publics et de l’Approvisionnement délègue les pouvoirs à un autre ministre, comme le prévoit l’article 9 de la ;"
+    },
+    {
+      "en": "Providing advice on:",
+      "fr": "faire l’acquisition de matériel de défense et construire des ouvrages de défense au sens de la , à l’exception des ouvrages de défense construits par des employés de Sa Majesté, ou acheter du matériel de défense ou construire des ouvrages de défense que le ministre des Services publics et de l’Approvisionnement demande à un autre ministre d’entreprendre;"
+    },
+    {
+      "en": "Methods and support approaches for early engagement with industry;",
+      "fr": "élaborer des outils opérationnels pour favoriser l’approvisionnement entrepris au nom d’autres ministères, tels que des lignes directrices, des modèles, des clauses contractuelles standards et un système électronique d’appels d’offres (le cas échéant, ces outils seront mis à la disposition de la communauté de l’approvisionnement);"
+    },
+    {
+      "en": "Procurement strategies and industry barrier reduction;",
+      "fr": "prodiguer des conseils sur les éléments suivants :"
+    },
+    {
+      "en": "Administering the , in collaboration with the Treasury Board of Canada Secretariat and Indigenous Services Canada; and",
+      "fr": "les méthodes et les approches de soutien pour la mobilisation rapide de l’industrie,"
+    },
+    {
+      "en": "Advising contracting authorities and business owners on federal procurement activities in Comprehensive Land Claim Settlement Areas; and",
+      "fr": "les stratégies d’approvisionnement et la réduction des barrières de l’industrie;"
+    },
+    {
+      "en": "Administering the (see Appendix D.7: Ineligibility and Suspension Policy).",
+      "fr": "exécuter la , en collaboration avec le Secrétariat du Conseil du Trésor du Canada et Services aux Autochtones Canada;"
+    },
+    {
+      "en": "Providing services related to email, data centres, networks and end-user information technology to federal departments and agencies; and",
+      "fr": "prodiguer des conseils aux autorités contractantes et aux propriétaires fonctionnels sur l’approvisionnement fédéral dans les régions visées par l’entente d’une revendication territoriale globale; et"
+    },
+    {
+      "en": "Planning, organizing, and acquiring related goods and services pursuant to section 7 of the .",
+      "fr": "appliquer la (voir l’annexe D.7 : Politique d’inadmissibilité et de suspension)."
+    },
+    {
+      "en": "Negotiating and implementing Modern Treaties (Comprehensive Land Claims Agreements and Self-Government Agreements), most of which contain chapters that may have a potential impact on federal procurement activities;",
+      "fr": "fournir des services liés au courriel, aux centres de données, aux réseaux ainsi qu’à la technologie de l’information à l’intention des utilisateurs finaux aux ministères ou aux organismes fédéraux;"
+    },
+    {
+      "en": "Leading consultations with the Designated Inuit Organization about the development and maintenance of the and the development of any amendments; and",
+      "fr": "planifier, organiser et acquérir des biens et des services conformément à l’article 7 de la ."
+    },
+    {
+      "en": "Advising on duty to consult.",
+      "fr": "négocier et mettre en œuvre les traités modernes (ententes sur les revendications territoriales globales et ententes sur l’autonomie gouvernementale), dont la plupart renferment des chapitres susceptibles d’avoir une incidence sur l’approvisionnement fédéral;"
+    },
+    {
+      "en": "Leading and administering the .",
+      "fr": "diriger des consultations avec l’organisation inuite désignée sur l’élaboration et la tenue à jour de la et l’élaboration de modifications;"
+    },
+    {
+      "en": "In consultation with other government departments, agencies and Crown corporations, negotiating international trade agreements that include government procurement obligations; and",
+      "fr": "prodiguer des conseils sur l’obligation de consulter."
+    },
+    {
+      "en": "Procuring goods, services and construction in support of diplomatic and consular missions, and other departments and agencies operating outside Canada.",
+      "fr": "diriger et administrer le ."
+    },
+    {
+      "en": "Leading and administering the",
+      "fr": "en consultation avec d’autres ministères, organismes et sociétés d’État, négocier des accords commerciaux internationaux qui prévoient des obligations en matière de marchés publics;"
+    },
+    {
+      "en": "Administering the , in collaboration with the Treasury Board of Canada Secretariat and Public Services and Procurement Canada;",
+      "fr": "acquérir des biens, des services et de la construction à l’appui des missions diplomatiques et consulaires ainsi que d’autres ministères et organismes exerçant des activités à l’extérieur du Canada."
+    },
+    {
+      "en": "Advising on federal procurement activities in Comprehensive Land Claims Settlement Areas; and",
+      "fr": "diriger et exécuter la Stratégie d’approvisionnement auprès des entreprises autochtones;"
+    },
+    {
+      "en": "Monitoring and reporting procurement activities, including quarterly and annual public disclosure of federal contracting activities covered by Modern Treaties (Comprehensive Land Claims Agreements and Self-Government Agreements).",
+      "fr": "exécuter la , en collaboration avec le Secrétariat du Conseil du Trésor du Canada et Services publics et Approvisionnement Canada;"
+    },
+    {
+      "en": "Leading and administering the ;",
+      "fr": "prodiguer des conseils sur l’approvisionnement fédéral dans les régions visées par le règlement d’une revendication territoriale globale;"
+    },
+    {
+      "en": "Negotiating the government procurement chapter of the ; and",
+      "fr": "surveiller les activités d’approvisionnement et en rendre compte, y compris par la divulgation proactive trimestrielle et annuelle des activités d’octroi de contrats fédéraux couvertes par les traités modernes (ententes sur les revendications territoriales globales et ententes sur l’autonomie gouvernementale)."
+    },
+    {
+      "en": "Leading and administering the .",
+      "fr": "diriger et exécuter la ;"
+    },
+    {
+      "en": "Assisting federal government departments under the to improve the energy efficiency of their facilities without compromising the work environment of employees.",
+      "fr": "négocier le chapitre sur les marchés publics de l’ ;"
+    },
+    {
+      "en": "This directive applies to the organizations described in section 6 of the .",
+      "fr": "diriger et exécuter la ."
+    },
+    {
+      "en": "This directive applies to all Government of Canada procurements as defined in the .",
+      "fr": "aider les ministères fédéraux en vertu de l’ à améliorer l’efficacité énergétique de leurs installations sans compromettre l’environnement de travail des employés."
+    },
+    {
+      "en": "This directive applies to all departments listed in Schedules I, I.1 and II of the (with the exception of the Canada Revenue Agency) and to any commissions established pursuant to the and designated as a department for the purposes of the",
+      "fr": "La présente directive s’applique aux organisations figurant à la section 6 de la ."
+    },
+    {
+      "en": "Senior designated officials of the organizations specified in subsection 6.3 are solely responsible for monitoring and ensuring compliance with this directive within their respective organizations.",
+      "fr": "La présente directive s’applique à tous les approvisionnements du gouvernement du Canada au sens de la ."
+    },
+    {
+      "en": "The following transactions are not covered in this directive:",
+      "fr": "La présente directive s’applique à tous les ministères énumérés aux annexes I, I.1 et II de la (à l’exception de l’Agence du revenu du Canada) et aux commissions créées en vertu de la et désignées comme ministère pour l’application de la ."
+    },
+    {
+      "en": "Revenue-producing contracts (sales and concession contracts, leases of Crown property) and the like;",
+      "fr": "Les cadres supérieurs désignés des organisations précisées au paragraphe 6.3 sont les seuls chargés de surveiller la présente directive et d’assurer son observation au sein de leur organisation respective."
+    },
+    {
+      "en": "Contracts related to the acquisition of land (which are covered by separate statutes and regulations);",
+      "fr": "Les transactions suivantes ne sont pas couvertes par la directive :"
+    },
+    {
+      "en": "The transfer without payment of goods, services or real property between departments, Crown corporations, provinces, municipalities and the territories;",
+      "fr": "les contrats producteurs de recettes (ventes et accords de concession, baux de biens de l’État) et les contrats semblables;"
+    },
+    {
+      "en": "Grants and contributions and other transfer payments;",
+      "fr": "les contrats portant sur l’acquisition de terrains (couverts par des lois et règlements distincts);"
+    },
+    {
+      "en": "Shared cost programs in which the Government of Canada is not the contracting authority;",
+      "fr": "le transfert sans paiement de biens, de services ou de biens immobiliers entre les ministères, les sociétés d’État, les provinces, les municipalités et les territoires;"
+    },
+    {
+      "en": "Any contract not funded by Parliament in which the Government of Canada acts as an agent for other parties;",
+      "fr": "les subventions et les contributions et les autres paiements de transfert;"
+    },
+    {
+      "en": "Leases and contracts for the fit-up of an office or residential accommodation pursuant to the and its regulations; and",
+      "fr": "les programmes à frais partagés lorsque le gouvernement du Canada n’est pas l’autorité contractante;"
+    },
+    {
+      "en": "Interchange Canada agreements.",
+      "fr": "les contrats pour lesquels le Parlement n’a pas voté de crédits et dans lesquels le gouvernement du Canada joue le rôle de mandataire pour les autres parties;"
+    },
+    {
+      "en": "Agents of Parliament:",
+      "fr": "les baux et les contrats d’aménagement d’un bureau ou de locaux résidentiels conformément à la et à ses règlements;"
+    },
+    {
+      "en": "The following organizations are considered Agents of Parliament for the purposes of the directive:",
+      "fr": "les ententes dans le cadre du programme Échanges Canada."
+    },
+    {
+      "en": "With regard to Agents of Parliament, the following do not apply:",
+      "fr": "Agents du Parlement"
+    },
+    {
+      "en": "Subsections 4.1.4 (supporting government-wide tools), 4.3.4.11 (use of common service providers) and 4.3.4.12 (use of Public Services and Procurement Canada acquisition instruments);",
+      "fr": "Les organisations suivantes sont considérées comme des agents du Parlement aux fins de la directive :"
+    },
+    {
+      "en": "All requirements to obtain approval from a Minister, the Treasury Board, or the Treasury Board of Canada Secretariat:",
+      "fr": "En ce qui concerne les agents du Parlement, les éléments ci-dessous ne s’appliquent pas :"
+    },
+    {
+      "en": "Appendix B: Mandatory Procedures for Limitation of Contractor Liability and Indemnification in Contracts in its entirety;",
+      "fr": "les paragraphes 4.1.4 (soutien des outils pangouvernementaux), 4.3.4.11 (utilisation des fournisseurs de services communs) et 4.3.4.12 (utilisation des instruments d’achat de Services publics et Approvisionnement Canada),"
+    },
+    {
+      "en": "Appendix C: Mandatory Procedures for the Disclosure of Contracts and Reporting, the reporting requirements for emergency contracts and contractual arrangements;",
+      "fr": "toutes les exigences relatives à l’obtention de l’approbation par un ministre, le Conseil du Trésor ou le Secrétariat du Conseil du Trésor du Canada :"
+    },
+    {
+      "en": "The requirement to use the Department of Justice Canada for legal services contracts; and",
+      "fr": "l’annexe B, Procédures obligatoires pour la limitation de la responsabilité et l’indemnisation de l’entrepreneur dans les contrats, dans son ensemble,"
+    },
+    {
+      "en": "The application of the Treasury Board of Canada Secretariat’s role in ensuring compliance with this directive;",
+      "fr": "l’annexe C, Procédures obligatoires pour la divulgation des contrats et l’établissement de rapports et les exigences en matière de déclaration pour les contrats et ententes contractuelles conclus en cas d’urgence,"
+    },
+    {
+      "en": "In the event that any policy, procedure, process, guidance or best practice conflicts with a requirement or impedes on an Agent of Parliament’s independence or authority, the Agent of Parliament will have full discretion to make a determination of the applicability of the requirement.",
+      "fr": "l’obligation de faire appel au ministère de la Justice pour les contrats de prestation de services juridiques,"
+    },
+    {
+      "en": "In the event of a conflict between a requirement in this directive and a requirement in any other departmental policy instrument for procurement management, with the exception of the , the requirement in the will apply. In the event of a conflict between a requirement in this directive and a legal obligation, including an obligation under a modern treaty, the legal obligation will apply.",
+      "fr": "l’exercice du Secrétariat du Conseil du Trésor du Canada pour assurer la conformité à la présente directive;"
+    },
+    {
+      "en": "Legislation and regulations",
+      "fr": "Dans le cas où une politique, une procédure, un processus, une ligne directrice ou une pratique exemplaire est en conflit avec une exigence ou contrevient à l’indépendance ou l’autorité d’un agent du Parlement, celui-ci détient le plein pouvoir discrétionnaire de prendre une décision sur l’applicabilité de l’exigence."
+    },
+    {
+      "en": "Related policy instruments",
+      "fr": "En cas d’incompatibilité entre une exigence de la présente directive et une exigence de tout autre instrument de politique ministériel de gestion de l’approvisionnement, à l’exception de la l’exigence de la s’appliquera. En cas d’incompatibilité entre une exigence de la présente directive et une obligation légale, y compris obligation en vertu d’un traité moderne, l’obligation légale s’appliquera."
+    },
+    {
+      "en": "For interpretation of any aspect of this directive, contact .",
+      "fr": "Lois et règlements"
+    },
+    {
+      "en": "Individuals from departments should contact their departmental procurement policy group for information about this directive.",
+      "fr": "Instruments de politique connexes"
+    },
+    {
+      "en": "Individuals from the departmental procurement policy group may contact for interpretations.",
+      "fr": "Pour obtenir l’interprétation de tout aspect de la présente directive, communiquer avec ."
+    }
+  ]
+}
