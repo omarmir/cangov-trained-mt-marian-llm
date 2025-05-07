@@ -10,3 +10,5 @@ accelerate>=0.26.0
 requests
 lxml
 beautifulsoup4
+mlc-ai-cpu<0.20.0
+mlc-llm-cpu<0.20.0
